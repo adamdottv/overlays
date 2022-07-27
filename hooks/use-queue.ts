@@ -3,7 +3,7 @@ import { Dispatch } from "react"
 import { useEffect, useState } from "react"
 
 export const useQueue = <T>(
-  timeout: (item: T | undefined) => number = () => 10 * 1000
+  timeout: number = 5 * 1000
 ): [T[], Dispatch<SetStateAction<T[]>>, T | undefined] => {
   const [items, setItems] = useState<T[]>([])
   const [active] = items
@@ -15,7 +15,7 @@ export const useQueue = <T>(
           const [_, ...rest] = e
           return rest
         }),
-      timeout(active)
+      timeout
     )
     return () => clearTimeout(timer)
   }, [active, timeout])

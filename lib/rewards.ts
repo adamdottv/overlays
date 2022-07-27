@@ -5,7 +5,7 @@ export interface RewardBase {
 
 export interface SnapFilterReward extends RewardBase {
   type: "snap-filter"
-  keys: string[]
+  key: string
   duration?: number
 }
 
@@ -29,7 +29,7 @@ export const rewards: Reward[] = [
     id: "28bc0aea-98c0-4f5e-ba44-1b72ab7281fc",
     name: "Ray-Bans",
     type: "snap-filter",
-    keys: ["shift", "meta", "f1"],
+    key: "122",
   },
 ]
 

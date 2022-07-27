@@ -1,6 +1,6 @@
-import { execSync } from "child_process"
 import type { NextApiRequest, NextApiResponse } from "next"
 import { rewards, ShellScriptReward } from "../../lib/rewards"
+import open from "open"
 
 interface Request {
   rewardId?: string
@@ -18,8 +18,7 @@ export default async function handler(
   if (!script) return res.status(400).end()
 
   try {
-    const result = execSync(script)
-    console.log(result)
+    await open(script)
   } catch (error) {
     console.error(error)
     res.status(500).end()

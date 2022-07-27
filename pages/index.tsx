@@ -12,36 +12,27 @@ import { Notification } from "../components"
 import { useRouter } from "next/router"
 import { getReward } from "../lib/rewards"
 
-const getTimeoutForReward = (event?: TwitchChannelRedemptionEvent) => {
-  if (!event) return 0
-
-  const reward = getReward(event.event.reward.id)
-  switch (reward?.type) {
-    case "shell":
-      return 100
-
-    case "snap-filter":
-      return 5 * 60 * 1000
-
-    default:
-      return 0
-  }
-}
-
 const Home: NextPage = () => {
   const router = useRouter()
   const [, setNotifications, activeNotification] = useQueue<
     TwitchChannelFollowEvent | TwitchChannelSubscribeEvent
   >()
+  const [, setSnapFilters, activeSnapFilter] =
+    useQueue<TwitchChannelRedemptionEvent>(5 * 60 * 1000)
   const [, setRedemptions, activeRedemption] =
-    useQueue<TwitchChannelRedemptionEvent>(getTimeoutForReward)
+    useQueue<TwitchChannelRedemptionEvent>()
 
   const handleTwitchEvent = (event: TwitchEvent) => {
     if (event.type === "channel.follow" || event.type === "channel.subscribe") {
       setNotifications((notifications) => [...notifications, event])
     }
     if (event.type === "channel.channel_points_custom_reward_redemption.add") {
-      setRedemptions((redemptions) => [...redemptions, event])
+      const reward = getReward(event.event.reward.id)
+      if (reward?.type === "snap-filter") {
+        setSnapFilters((redemptions) => [...redemptions, event])
+      } else {
+        setRedemptions((redemptions) => [...redemptions, event])
+      }
     }
   }
 
@@ -53,19 +44,23 @@ const Home: NextPage = () => {
     const rewardId = activeRedemption?.event.reward.id
     const reward = getReward(rewardId)
 
-    // If there's no active redemption, we need to toggle the snap filter off
-    if (!activeRedemption || reward?.type === "snap-filter") {
-      fetch("/api/snap", {
-        method: "post",
-        body: JSON.stringify({ rewardId }),
-      })
-    } else if (reward?.type === "shell") {
+    if (reward?.type === "shell") {
       fetch("/api/shell", {
         method: "post",
         body: JSON.stringify({ rewardId }),
       })
     }
   }, [activeRedemption])
+
+  useEffect(() => {
+    const rewardId = activeSnapFilter?.event.reward.id
+
+    // If there's no active redemption, we need to toggle the snap filter off
+    fetch("/api/snap", {
+      method: "post",
+      body: JSON.stringify({ rewardId }),
+    })
+  }, [activeSnapFilter])
 
   useEffect(() => {
     const timer = setInterval(() => {

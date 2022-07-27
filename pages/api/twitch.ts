@@ -60,7 +60,7 @@ export default async function handler(
 
 function handleEvent(payload: unknown, res: NextApiResponseServerIO) {
   const server = res.socket?.server.io as Server
-  server.emit("twitch-event", payload)
+  server?.emit("twitch-event", payload)
 }
 
 // Build the message used to get the HMAC.
