@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react"
+import { useEffect, useState } from "react"
 import { io, Socket } from "socket.io-client"
 
 let initialized = false
@@ -26,7 +26,8 @@ export const useSocket = () => {
     if (!initialized) init()
 
     return () => {
-      socket?.close()
+      // socket?.close()
+      // console.log("socket closed")
     }
   }, [])
 

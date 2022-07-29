@@ -1,6 +1,9 @@
+export type Scene = "Intro" | "Camera" | "Screen" | "Camera (HD)" | "Keyboard"
+
 export interface RewardBase {
   id: string
   name: string
+  scene?: Scene
 }
 
 export interface SnapFilterReward extends RewardBase {
@@ -24,6 +27,7 @@ export const rewards: Reward[] = [
     name: "Rick Roll",
     type: "shell",
     script: "./scripts/rick-roll.sh",
+    scene: "Screen",
   },
   {
     id: "28bc0aea-98c0-4f5e-ba44-1b72ab7281fc",

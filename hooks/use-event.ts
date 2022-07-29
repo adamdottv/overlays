@@ -5,6 +5,8 @@ export const useEvent = <T>(event: string, callback: (message: T) => void) => {
   const { socket, connected } = useSocket()
   const [initialized, setInitialized] = useState(false)
 
+  console.log(connected)
+
   useEffect(() => {
     if (connected && !initialized) {
       socket?.on(event, callback)
