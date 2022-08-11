@@ -1,33 +1,74 @@
-import { Camera } from "@react-three/fiber"
-import { Face } from "@tensorflow-models/face-landmarks-detection"
+import {
+  Face,
+  FaceLandmarksDetector,
+} from "@tensorflow-models/face-landmarks-detection"
+import React, { useState, useCallback, useEffect } from "react"
 
-export * from "./heart-glasses"
-export * from "./st-patrick-hat"
-
-export type ModelProps = {
-  face: Face
-  camera: Camera | null
-} & JSX.IntrinsicElements["group"]
+let detector: FaceLandmarksDetector
 
 export const videoWidth = 1920
 export const videoHeight = 1080
-export const fps = 30
-export const midwayBetweenEyes = 9
-export const noseBottom = 19
-export const leftEyeUpper1 = 159
-export const rightEyeUpper1 = 386
-export const headTop = 151
-export const headTopLeft = 103
-export const headTopRight = 332
+export const fps = 1
 
-export function getHeadWidth(face: Face): number {
-  return Math.sqrt(
-    (face.keypoints[headTopLeft].x - face.keypoints[headTopRight].x) ** 2 +
-      (face.keypoints[headTopLeft].y - face.keypoints[headTopRight].y) ** 2 +
-      ((face.keypoints[headTopLeft].z ?? 0) -
-        (face.keypoints[headTopRight].z ?? 0)) **
-        2
-  )
+export const useHeadPosition = () => {
+  const [loaded, setLoaded] = useState(false)
+  const videoRef = React.useRef<HTMLVideoElement | null>(null)
+  // const [faces, setFaces] = useState<Face[]>()
+  const [matrices, setMatrices] = useState<number[]>()
+
+  const trackFace = useCallback(async () => {
+    if (!loaded || !videoRef.current || !detector) return
+
+    const faces = await detector.estimateFaces(videoRef.current, {
+      flipHorizontal: true,
+      staticImageMode: false,
+    })
+    // setFaces(faces)
+
+    const rotationMatrices = faces.map(getRotationMatrix)
+    setMatrices(rotationMatrices.flat().flat())
+  }, [loaded])
+
+  useEffect(() => {
+    async function init() {
+      const video = videoRef.current
+      if (!video) return
+
+      const cameras = await navigator.mediaDevices.enumerateDevices()
+      const camlinkCameras = cameras.filter(
+        (camera) =>
+          camera.kind === "videoinput" && camera.label.startsWith("Cam Link 4K")
+      )
+
+      const [desiredCamera] = camlinkCameras
+      const userMedia = await navigator.mediaDevices.getUserMedia({
+        video: {
+          deviceId: desiredCamera
+            ? { exact: desiredCamera.deviceId }
+            : undefined,
+        },
+      })
+
+      video.srcObject = userMedia
+      video.onloadeddata = () => setLoaded(true)
+      video.play()
+
+      detector = await (await import("../lib/detector")).createDetector()
+    }
+
+    init()
+  }, [])
+
+  useEffect(() => {
+    const timer = setInterval(trackFace, 1000 / fps)
+    return () => clearInterval(timer)
+  }, [trackFace])
+
+  const rotationRelativeToCamera = matrices && matrices[2]
+  const lookingAtScreen =
+    rotationRelativeToCamera && rotationRelativeToCamera < 0.7
+
+  return { lookingAtScreen, videoRef }
 }
 
 function normalizeVector(v: number[]): number[] {

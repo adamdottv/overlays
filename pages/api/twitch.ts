@@ -1,7 +1,11 @@
 import type { NextApiRequest, NextApiResponse } from "next"
 import { Server } from "socket.io"
 import crypto from "crypto"
-import { NextApiResponseServerIO } from "./socket"
+import { TwitchChannelRedemptionEvent, TwitchEvent } from "../../lib/twitch"
+import { getReward, ShellScriptReward } from "../../lib/rewards"
+import open from "open"
+import { NextApiResponseServerIO } from "../../lib/server"
+
 const secret = process.env.TWITCH_WEBHOOK_SECRET as string
 
 // Notification request headers
@@ -34,7 +38,7 @@ export default async function handler(
     console.log(notification)
 
     if (MESSAGE_TYPE_NOTIFICATION === req.headers[MESSAGE_TYPE]) {
-      handleEvent(notification, res as NextApiResponseServerIO)
+      handleEvent(notification as TwitchEvent, res as NextApiResponseServerIO)
       return res.status(200).end()
     } else if (MESSAGE_TYPE_VERIFICATION === req.headers[MESSAGE_TYPE]) {
       return res.status(200).send(notification.challenge)
@@ -58,9 +62,41 @@ export default async function handler(
   }
 }
 
-function handleEvent(payload: unknown, res: NextApiResponseServerIO) {
+async function redeemShell(reward: ShellScriptReward) {
+  const { script } = reward
+  if (!script) return
+
+  try {
+    await open(script, { background: true })
+  } catch (error) {
+    console.error(error)
+  }
+}
+
+async function redeem(payload: TwitchChannelRedemptionEvent) {
+  const reward = getReward(payload.event.reward.id)
+  switch (reward?.type) {
+    case "shell":
+      await redeemShell(reward as ShellScriptReward)
+      break
+
+    default:
+      break
+  }
+}
+
+function handleEvent(payload: TwitchEvent, res: NextApiResponseServerIO) {
   const server = res.socket?.server.io as Server
   server?.emit("twitch-event", payload)
+
+  switch (payload.subscription.type) {
+    case "channel.channel_points_custom_reward_redemption.add":
+      redeem(payload as TwitchChannelRedemptionEvent)
+      break
+
+    default:
+      break
+  }
 }
 
 // Build the message used to get the HMAC.

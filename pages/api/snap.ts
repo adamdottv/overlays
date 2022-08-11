@@ -15,12 +15,12 @@ export default async function handler(
   const { rewardId } = JSON.parse(req.body) as Request
 
   // Empty reward means we should toggle the last filter off
-  if (!rewardId) {
-    if (lastKey) {
-      spawnSync("bash", ["./scripts/toggle-snap-filter.sh", lastKey])
-      lastKey = undefined
-    }
+  if (lastKey) {
+    spawnSync("bash", ["./scripts/toggle-snap-filter.sh", lastKey])
+    lastKey = undefined
+  }
 
+  if (!rewardId) {
     return res.status(200).end()
   }
 

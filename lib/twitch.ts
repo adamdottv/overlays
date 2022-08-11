@@ -1,6 +1,19 @@
 import fetch from "node-fetch"
+import { ChatClient, PrivateMessage } from "@twurple/chat"
+import { RefreshingAuthProvider } from "@twurple/auth"
+import { promises as fs } from "fs"
+import { CustomServer } from "./server"
+
+export interface TwitchChatEvent {
+  channel: string
+  user: string
+  message: string
+  broadcaster: boolean
+  moderator: boolean
+}
 
 export interface TwitchEventBase {
+  key: string
   subscription: {
     id: string
     status: "enabled" | "disabled"
@@ -32,7 +45,7 @@ export type TwitchChannelSubscribeEvent = TwitchEventBase & {
     broadcaster_user_id: string
     broadcaster_user_login: string
     broadcaster_user_name: string
-    tier: string
+    tier: "1000" | "2000" | "3000"
     is_gift: boolean
   }
 }
@@ -48,7 +61,7 @@ export type TwitchChannelRedemptionEvent = TwitchEventBase & {
     user_login: string
     user_name: string
     user_input: string
-    status: "unfulfilled"
+    status: "unfulfilled" | "fulfilled"
     redeemed_at: string
     reward: {
       id: string
@@ -59,15 +72,84 @@ export type TwitchChannelRedemptionEvent = TwitchEventBase & {
   }
 }
 
+export type TwitchChannelUpdateEvent = TwitchEventBase & {
+  type: "channel.update"
+  event: {
+    broadcaster_user_id: string
+    broadcaster_user_login: string
+    broadcaster_user_name: string
+    title: string
+    language: string
+    category_id: string
+    category_name: string
+    is_mature: boolean
+  }
+}
+
+export type TwitchChannelCheerEvent = TwitchEventBase & {
+  type: "channel.cheer"
+  event: {
+    is_anonymous: boolean
+    user_id: string
+    user_login: string
+    user_name: string
+    broadcaster_user_id: string
+    broadcaster_user_login: string
+    broadcaster_user_name: string
+    message: string
+    bits: number
+  }
+}
+
+export type TwitchChannelSubscriptionGiftEvent = TwitchEventBase & {
+  type: "channel.subscription.gift"
+  event: {
+    user_id: string
+    user_login: string
+    user_name: string
+    broadcaster_user_id: string
+    broadcaster_user_login: string
+    broadcaster_user_name: string
+    total: number
+    tier: "1000" | "2000" | "3000"
+    cumulative_total: number | null //null if anonymous or not shared by the user
+    is_anonymous: boolean
+  }
+}
+
+export type TwitchChannelRaidEvent = TwitchEventBase & {
+  type: "channel.raid"
+  event: {
+    from_broadcaster_user_id: string
+    from_broadcaster_user_login: string
+    from_broadcaster_user_name: string
+    to_broadcaster_user_id: string
+    to_broadcaster_user_login: string
+    to_broadcaster_user_name: string
+    viewers: number
+  }
+}
+
 export type TwitchEventType =
   | "channel.follow"
   | "channel.subscribe"
   | "channel.channel_points_custom_reward_redemption.add"
+  | "channel.update"
+  | "channel.cheer"
+  | "channel.subscription.gift"
+  | "channel.raid"
+  | "channel.hype_train.begin"
+  | "channel.hype_train.progress"
+  | "channel.hype_train.end"
 
 export type TwitchEvent =
   | TwitchChannelFollowEvent
   | TwitchChannelSubscribeEvent
   | TwitchChannelRedemptionEvent
+  | TwitchChannelUpdateEvent
+  | TwitchChannelCheerEvent
+  | TwitchChannelSubscriptionGiftEvent
+  | TwitchChannelRaidEvent
 
 export interface TwitchEventSubscription {
   id: string
@@ -98,12 +180,16 @@ export async function setupTwitchEventSub() {
 
   const token = await getToken({ clientId, clientSecret })
   const subscriptions = await listSubscriptions({ token, clientId })
-  const eventTypes: TwitchEventType[] = [
-    "channel.follow",
-    "channel.subscribe",
-    "channel.channel_points_custom_reward_redemption.add",
+  const eventTypes: [TwitchEventType, object?][] = [
+    ["channel.follow"],
+    ["channel.subscribe"],
+    ["channel.channel_points_custom_reward_redemption.add"],
+    ["channel.update"],
+    ["channel.cheer"],
+    ["channel.subscription.gift"],
+    ["channel.raid", { to_broadcaster_user_id: userId }],
   ]
-  for (const eventType of eventTypes) {
+  for (const [eventType, condition] of eventTypes) {
     const existing = subscriptions.find((sub) => sub.type === eventType)
     if (
       existing &&
@@ -128,9 +214,77 @@ export async function setupTwitchEventSub() {
       webhookSecret,
       callback,
       // Note: this condition will change when we add new event types
-      condition: { broadcaster_user_id: userId },
+      condition: condition ?? { broadcaster_user_id: userId },
     })
   }
+}
+
+export async function setupTwitchChatBot(server: CustomServer) {
+  const authProvider = await getAuthProvider()
+  const chatClient = new ChatClient({ authProvider, channels: ["adamelmore"] })
+
+  try {
+    await chatClient.connect()
+  } catch (error) {
+    console.error(error)
+  }
+
+  chatClient.onMessage(
+    async (
+      channel: string,
+      user: string,
+      message: string,
+      msg: PrivateMessage
+    ) => {
+      server.io.emit("twitch-chat-event", {
+        channel,
+        user,
+        message,
+        broadcaster: msg.userInfo.isBroadcaster,
+        moderator: msg.userInfo.isMod,
+      })
+
+      // if (message === "!followage") {
+      //   const follow = await apiClient.users.getFollowFromUserToBroadcaster(
+      //     msg.userInfo.userId,
+      //     msg.channelId!
+      //   )
+
+      //   if (follow) {
+      //     const currentTimestamp = Date.now()
+      //     const followStartTimestamp = follow.followDate.getTime()
+      //     chatClient.say(
+      //       channel,
+      //       `@${user} You have been following for ${secondsToDuration(
+      //         (currentTimestamp - followStartTimestamp) / 1000
+      //       )}!`
+      //     )
+      //   } else {
+      //     chatClient.say(channel, `@${user} You are not following!`)
+      //   }
+      // }
+    }
+  )
+}
+
+export const getAuthProvider = async () => {
+  const clientId = process.env.TWITCH_CLIENT_ID as string
+  const clientSecret = process.env.TWITCH_CLIENT_SECRET as string
+  const tokenData = JSON.parse(await fs.readFile("./tokens.json", "utf-8"))
+
+  return new RefreshingAuthProvider(
+    {
+      clientId,
+      clientSecret,
+      onRefresh: async (newTokenData) =>
+        await fs.writeFile(
+          "./tokens.json",
+          JSON.stringify(newTokenData, null, 4),
+          "utf-8"
+        ),
+    },
+    tokenData
+  )
 }
 
 const getToken = async ({

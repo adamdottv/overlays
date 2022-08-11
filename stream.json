@@ -1,0 +1,9 @@
+{
+  "mode": "guest",
+  "guest": {
+    "name": "Jay Hill",
+    "twitter": "@Jittery",
+    "image": "/images/jay.jpeg",
+    "ping": "cl6f6o1dz055609mw73mbti2s"
+  }
+}

@@ -18,7 +18,7 @@ export default async function handler(
   if (!script) return res.status(400).end()
 
   try {
-    await open(script)
+    await open(script, { background: true })
   } catch (error) {
     console.error(error)
     res.status(500).end()

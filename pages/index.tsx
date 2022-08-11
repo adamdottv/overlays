@@ -1,30 +1,52 @@
 import type { NextPage } from "next"
 import Head from "next/head"
-import React, { useCallback, useEffect } from "react"
-import { useEvent, useQueue } from "../hooks"
+import React, { useCallback, useEffect, useRef } from "react"
+import {
+  useEvent,
+  useObs,
+  useSocket,
+  useStream,
+  useTwitchEvent,
+} from "../hooks"
 import type {
-  TwitchChannelFollowEvent,
   TwitchChannelRedemptionEvent,
-  TwitchChannelSubscribeEvent,
+  TwitchChatEvent,
   TwitchEvent,
 } from "../lib/twitch"
-import { Notification } from "../components"
 import { useRouter } from "next/router"
 import { getReward, Scene } from "../lib/rewards"
-import OBSWebSocket from "obs-websocket-js"
-
-const obs = new OBSWebSocket()
+import { useDebouncedEffect, useLocalStorageValue } from "@react-hookz/web"
+import hash from "object-hash"
+import { Carousel, AudioSpectrum } from "../components"
+import { fadeAudioOut } from "../lib/audio"
+import metadata from "../stream.json"
 
 const Home: NextPage = () => {
+  const [currentTrack, setCurrentTrack] = React.useState<string>()
+  const audioRef = useRef<HTMLAudioElement>(null)
+  const isGuestMode = metadata.mode === "guest"
+
+  const { scene, obs } = useObs()
+
+  useEffect(() => {
+    if (currentTrack) {
+      audioRef.current?.play()
+    } else if (audioRef.current) {
+      fadeAudioOut({ audio: audioRef.current })
+    }
+  }, [currentTrack])
+
   const router = useRouter()
-  const [scene, setScene] = React.useState<Scene>()
-  const [, setNotifications, activeNotification] = useQueue<
-    TwitchChannelFollowEvent | TwitchChannelSubscribeEvent
-  >()
-  const [, setSnapFilters, activeSnapFilter] =
-    useQueue<TwitchChannelRedemptionEvent>(5 * 60 * 1000)
-  const [, setRedemptions, activeRedemption] =
-    useQueue<TwitchChannelRedemptionEvent>()
+  const debug = router.query.debug === "true"
+
+  const [activeSnapFilter, setActiveSnapFilter] =
+    React.useState<TwitchChannelRedemptionEvent>()
+  const [activeRedemption, setActiveRedemption] =
+    React.useState<TwitchChannelRedemptionEvent>()
+
+  const [topic, setTopic] = useLocalStorageValue<string>("topic", "", {
+    initializeWithStorageValue: false,
+  })
 
   const setObsScene = async (scene: Scene) => {
     await obs.send("SetCurrentScene", {
@@ -49,7 +71,7 @@ const Home: NextPage = () => {
       case "Screen":
         await fetch(url(camera2, "setLive"))
         await fetch(url(camera1, "setOff"))
-        await setObsScene("Screen")
+        await setObsScene(isGuestMode ? "Screen (w/ Guest)" : "Screen")
         break
 
       default:
@@ -57,39 +79,48 @@ const Home: NextPage = () => {
     }
   }, [])
 
-  const handleTwitchEvent = (event: TwitchEvent) => {
-    if (event.type === "channel.follow" || event.type === "channel.subscribe") {
-      setNotifications((notifications) => [...notifications, event])
-    }
+  const handleTwitchEvent = (twitchEvent: TwitchEvent) => {
+    const key = hash(twitchEvent)
+    const event = { ...twitchEvent, key }
+
     if (event.type === "channel.channel_points_custom_reward_redemption.add") {
       const reward = getReward(event.event.reward.id)
       if (reward?.type === "snap-filter") {
-        setSnapFilters((redemptions) => [...redemptions, event])
+        setActiveSnapFilter(event)
       } else {
-        setRedemptions((redemptions) => [...redemptions, event])
+        setActiveRedemption(event)
       }
     }
   }
 
-  useEvent<TwitchEvent>("twitch-event", (e) =>
-    handleTwitchEvent({ ...e, type: e.subscription.type } as TwitchEvent)
-  )
+  const handleTwitchChatEvent = (event: TwitchChatEvent) => {
+    console.log(event)
+    const isAdmin = event.moderator || event.broadcaster
+
+    if (isAdmin && event.message.startsWith("!topic")) {
+      setTopic(event.message.split("!topic")[1].trim())
+    }
+  }
+
+  const { socket } = useSocket()
+  useTwitchEvent(handleTwitchEvent)
+  useEvent<TwitchChatEvent>(socket, "twitch-chat-event", handleTwitchChatEvent)
+  useEvent<{ track: string }>(socket, "play-audio", ({ track }) => {
+    setCurrentTrack(track)
+  })
+  useEvent(socket, "stop-audio", () => {
+    setCurrentTrack(undefined)
+  })
 
   useEffect(() => {
     const rewardId = activeRedemption?.event.reward.id
     const reward = getReward(rewardId)
-
-    if (reward?.type === "shell") {
-      fetch("/api/shell", {
-        method: "post",
-        body: JSON.stringify({ rewardId }),
-      })
-    }
-
     if (reward?.scene) switchScene(reward.scene)
   }, [activeRedemption, switchScene])
 
   useEffect(() => {
+    if (debug) return
+
     const rewardId = activeSnapFilter?.event.reward.id
     const reward = getReward(rewardId)
 
@@ -102,78 +133,213 @@ const Home: NextPage = () => {
     if (reward?.scene) {
       switchScene(reward.scene)
     }
-  }, [activeSnapFilter, switchScene])
 
-  useEffect(() => {
-    if (scene === "Camera" && !activeSnapFilter) {
-      switchScene("Camera (HD)")
-    } else if (scene === "Camera (HD)" && activeSnapFilter) {
-      switchScene("Camera")
-    }
-  }, [activeSnapFilter, scene, switchScene])
+    const timeoutHandle = setTimeout(() => {
+      setActiveSnapFilter(undefined)
+    }, 5 * 60 * 1000)
+
+    return () => clearTimeout(timeoutHandle)
+  }, [activeSnapFilter, debug, switchScene])
+
+  useDebouncedEffect(
+    () => {
+      if (debug) return
+
+      if (scene === "Camera" && !activeSnapFilter) {
+        switchScene("Camera (HD)")
+      } else if (scene === "Camera (HD)" && activeSnapFilter) {
+        switchScene("Camera")
+      }
+    },
+    [activeSnapFilter, scene, switchScene, debug],
+    100
+  )
 
   useEffect(() => {
     const timer = setInterval(() => {
       fetch(`/api/ping?id=${router.query.id}`, {
         method: "post",
       })
-    }, 1000 * 5)
+    }, 1000 * 10)
     return () => clearInterval(timer)
   }, [router.query.id])
 
-  useEffect(() => {
-    async function init() {
-      obs.on("SwitchScenes", (data) => {
-        setScene(data["scene-name"] as Scene)
-      })
-
-      // You must add this handler to avoid uncaught exceptions.
-      obs.on("error", (err) => {
-        console.error("socket error:", err)
-      })
-
-      try {
-        await obs.connect({ address: "127.0.0.1:4444" })
-        const scenes = await obs.send("GetSceneList")
-        setScene(scenes["current-scene"] as Scene)
-      } catch (error) {
-        console.log(error)
-      }
-    }
-
-    init()
-
-    return () => {
-      obs.disconnect()
-    }
-  }, [])
-
   return (
-    <div className="relative flex flex-col h-[1080px] w-[1920px] space-y-10">
+    <div className="relative flex h-[1080px] w-[1920px] flex-col space-y-10">
       <Head>
         <title>Adam&apos;s Twitch Overlay</title>
         <meta name="description" content="Generated by create next app" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      {activeNotification && (
-        <Notification>
-          {contentFromTwitchEvent(activeNotification)}
-        </Notification>
+
+      {currentTrack && (
+        <audio
+          loop
+          ref={audioRef}
+          id="audio-element"
+          src={`/media/${currentTrack}`}
+        />
       )}
+
+      <div className="absolute inset-x-0 bottom-0 h-20 bg-mauve-1">
+        <Carousel interval={20 * 1000}>
+          <div className="flex h-full space-x-10 px-10">
+            <div className="relative w-40">
+              <Timer />
+            </div>
+            <div className="relative flex flex-grow items-center text-lg text-mauve-12">
+              {topic}
+            </div>
+            <div className="relative w-40">
+              {currentTrack ? (
+                <AudioSpectrum
+                  audioRef={audioRef}
+                  meterCount={8}
+                  width={160}
+                  height={60}
+                />
+              ) : (
+                <WideBrandDetail />
+              )}
+            </div>
+          </div>
+          <div className="flex h-full space-x-10 px-10">
+            <div className="relative w-20">
+              <BrandMark />
+            </div>
+            <div className="relative flex flex-grow items-center text-lg text-mauve-12">
+              {topic}
+            </div>
+            <div className="relative w-20">
+              {currentTrack ? (
+                <AudioSpectrum
+                  audioRef={audioRef}
+                  meterCount={4}
+                  width={80}
+                  height={60}
+                />
+              ) : (
+                <BrandDetail />
+              )}
+            </div>
+          </div>
+        </Carousel>
+      </div>
     </div>
   )
 }
 
 export default Home
 
-function contentFromTwitchEvent(event: TwitchEvent) {
-  switch (event.subscription.type) {
-    case "channel.follow":
-      return `${event.event.user_name} followed!`
-    case "channel.subscribe":
-      return `${event.event.user_name} subscribed!`
+const Timer = () => {
+  const [timer, setTimer] = React.useState<string>()
+  const stream = useStream()
 
-    default:
-      break
-  }
+  useEffect(() => {
+    const actualStart = stream?.current?.actualStart
+    if (!stream || !actualStart) return
+
+    const intervalHandle = setInterval(() => {
+      const now = new Date()
+      const start = new Date(actualStart)
+      const diff = now.getTime() - start.getTime()
+      const timer = new Date(diff)
+      setTimer(timer.toISOString().substring(11, 19))
+    }, 1000)
+
+    return () => clearInterval(intervalHandle)
+  }, [stream])
+
+  return (
+    <div className="absolute inset-0 flex items-center">
+      <svg viewBox="0 0 160 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="25" cy="40" r="8" fill="#25D0AB" />
+      </svg>
+      <div className="absolute left-[49px] text-2xl text-mauve-12">{timer}</div>
+    </div>
+  )
+}
+
+const BrandMark = () => {
+  return (
+    <div className="flex justify-end">
+      <svg
+        width="81"
+        height="80"
+        viewBox="0 0 81 80"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path d="M80 20L80 60" stroke="#EDEDEF" />
+        <path d="M80 40L56 40" stroke="#EDEDEF" />
+        <circle cx="32" cy="40" r="8" fill="#25D0AB" />
+      </svg>
+    </div>
+  )
+}
+
+const BrandDetail = () => {
+  return (
+    <div className="absolute inset-0">
+      <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="9" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="9" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="9" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="9" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="29" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="29" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="29" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="29" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="49" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="49" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="49" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="49" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="69" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="69" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="69" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="69" y="69" width="2" height="2" fill="#25D0AB" />
+      </svg>
+    </div>
+  )
+}
+
+const WideBrandDetail = () => {
+  return (
+    <div className="absolute inset-0">
+      <svg viewBox="0 0 160 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="9" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="9" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="9" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="9" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="29" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="29" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="29" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="29" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="49" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="49" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="49" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="49" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="69" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="69" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="69" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="69" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="89" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="89" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="89" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="89" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="109" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="109" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="109" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="109" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="129" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="129" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="129" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="129" y="69" width="2" height="2" fill="#25D0AB" />
+        <rect x="149" y="9" width="2" height="2" fill="#25D0AB" />
+        <rect x="149" y="29" width="2" height="2" fill="#25D0AB" />
+        <rect x="149" y="49" width="2" height="2" fill="#25D0AB" />
+        <rect x="149" y="69" width="2" height="2" fill="#25D0AB" />
+      </svg>
+    </div>
+  )
 }

@@ -1,16 +1,19 @@
 import { useEffect, useState } from "react"
-import { useSocket } from "./use-socket"
+import { Socket } from "socket.io-client"
 
-export const useEvent = <T>(event: string, callback: (message: T) => void) => {
-  const { socket, connected } = useSocket()
+export const useEvent = <T>(
+  socket: Socket | null,
+  event: string,
+  callback: (message: T) => void
+) => {
   const [initialized, setInitialized] = useState(false)
 
-  console.log(connected)
-
   useEffect(() => {
-    if (connected && !initialized) {
+    if (socket?.connected && !initialized) {
       socket?.on(event, callback)
       setInitialized(true)
+    } else if (!socket?.connected) {
+      setInitialized(false)
     }
-  }, [socket, event, initialized, callback, connected])
+  }, [socket?.connected, event, initialized, callback, socket])
 }

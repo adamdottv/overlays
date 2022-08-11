@@ -36,3 +36,4 @@ yarn-error.log*
 
 preferences.arc
 .env
+tokens.json

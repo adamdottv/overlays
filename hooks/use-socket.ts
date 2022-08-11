@@ -9,7 +9,6 @@ export const useSocket = () => {
 
   const init = async () => {
     initialized = true
-    await fetch("/api/socket")
     socket = io()
     socket.connect()
 
@@ -26,8 +25,10 @@ export const useSocket = () => {
     if (!initialized) init()
 
     return () => {
-      // socket?.close()
-      // console.log("socket closed")
+      socket?.close()
+      initialized = false
+      socket = null
+      console.log("socket closed")
     }
   }, [])
 

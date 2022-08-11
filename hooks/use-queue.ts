@@ -1,18 +1,29 @@
+import { useDeepCompareEffect } from "@react-hookz/web"
 import { SetStateAction } from "react"
 import { Dispatch } from "react"
-import { useEffect, useState } from "react"
+import { useState } from "react"
+
+export interface useQueueProps {
+  count?: number
+  timeout?: number
+}
 
 export const useQueue = <T>(
-  timeout: number = 5 * 1000
-): [T[], Dispatch<SetStateAction<T[]>>, T | undefined] => {
-  const [items, setItems] = useState<T[]>([])
-  const [active] = items
+  options?: useQueueProps
+): [T[], Dispatch<SetStateAction<T[]>>, T[] | undefined, T | undefined] => {
+  const count = options?.count ?? 1
+  const timeout = options?.timeout ?? 5 * 1000
 
-  useEffect(() => {
+  const [items, setItems] = useState<T[]>([])
+  const [previous, setPrevious] = useState<T>()
+  const active = items.slice(0, count)
+
+  useDeepCompareEffect(() => {
     const timer = setTimeout(
       () =>
         setItems((e) => {
-          const [_, ...rest] = e
+          const [previous, ...rest] = e
+          setPrevious(previous)
           return rest
         }),
       timeout
@@ -20,5 +31,5 @@ export const useQueue = <T>(
     return () => clearTimeout(timer)
   }, [active, timeout])
 
-  return [items, setItems, active]
+  return [items, setItems, active, previous]
 }
