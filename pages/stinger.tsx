@@ -4,7 +4,6 @@ import { useEvent, useSocket } from "../hooks"
 import { Scene } from "three"
 import { AnimatePresence, motion } from "framer-motion"
 import { useRouter } from "next/router"
-import { math } from "@tensorflow/tfjs-core"
 
 const dotSize = 20
 const width = 1680
