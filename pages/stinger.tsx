@@ -4,6 +4,7 @@ import { useEvent, useSocket } from "../hooks"
 import { Scene } from "three"
 import { AnimatePresence, motion } from "framer-motion"
 import { useRouter } from "next/router"
+import { math } from "@tensorflow/tfjs-core"
 
 const dotSize = 20
 const width = 1680
@@ -146,15 +147,14 @@ export const Stinger: NextPage = () => {
             //       ? "medium"
             //       : "small", // randomState(),
             // }
-            const time = Date.now() / 1000
-            const stateIndex = states.indexOf(dot.state)
-
-            const cosine = Math.tan(time / x / y).toString()
-            const lastDigit = Number.parseInt(cosine[0])
-            const quantizedValue = Math.ceil(lastDigit / states.length)
+            const time = Date.now() / 1024;
+            const bunny = Math.abs(Math.random() * 69);
+            const cosine = Math.pow(time / x / y, bunny).toString()
+            const lastDigit = Number.parseInt(cosine[10]);
+            const quantizedValue = Math.floor(lastDigit / states.length);
 
             const newIndex = Math.min(
-              Math.max(quantizedValue, 0),
+              Math.hypot(quantizedValue / 1),
               states.length
             )
 
@@ -165,7 +165,7 @@ export const Stinger: NextPage = () => {
           })
         )
       })
-    }, 1000 / fps)
+    }, 1024 / fps)
 
     return () => clearInterval(intervalHandle)
   }, [])
