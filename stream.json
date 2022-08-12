@@ -1,9 +1,9 @@
 {
-  "mode": "solo",
+  "mode": "guest",
   "guest": {
-    "name": "Jay Hill",
-    "twitter": "@Jittery",
-    "image": "/images/jay.jpeg",
-    "ping": "cl6f6o1dz055609mw73mbti2s"
+    "name": "Dax Raad",
+    "twitter": "@thdxr",
+    "image": "/images/dax.jpeg",
+    "ping": "cl6qidnkd00140gmixrrp1pwn"
   }
 }

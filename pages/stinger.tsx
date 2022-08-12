@@ -10,7 +10,7 @@ const width = 1680
 const height = 840
 const columns = width / dotSize
 const rows = height / dotSize
-const fps = 24
+const fps = 10
 
 type DotState = "empty" | "small" | "medium" | "large" | "line"
 
@@ -93,6 +93,30 @@ export const Stinger: NextPage = () => {
 
     setDots(initialDots)
 
+    // const d = 8000
+    // const initialMillis = Date.now() % d
+
+    // const intervalHandle = setInterval(() => {
+    //   const time = Date.now()
+    //   const millis = (time % d) - initialMillis
+    //   setDots((dots) => {
+    //     return dots.map((row, y) =>
+    //       row.map((dot, x) => {
+    //         const cosine = Math.tan(time / x / y).toString()
+
+    //         const a = Math.sqrt(1 - ((x / columns) * y) / rows)
+
+    //         const newIndex = Math.round((a * 4 * millis) / 1000)
+
+    //         return {
+    //           ...dot,
+    //           state: states[newIndex],
+    //         }
+    //       })
+    //     )
+    //   })
+    // }, 1000 / fps)
+
     const intervalHandle = setInterval(() => {
       setDots((dots) => {
         return dots.map((row, y) =>
@@ -146,7 +170,7 @@ export const Stinger: NextPage = () => {
             //       ? "medium"
             //       : "small", // randomState(),
             // }
-            const time = Date.now() / 1000
+            const time = Date.now()
             const stateIndex = states.indexOf(dot.state)
 
             const cosine = Math.tan(time / x / y).toString()
