@@ -1,7 +1,6 @@
 import type { NextPage } from "next"
 import React, { useEffect } from "react"
 import { useEvent, useSocket } from "../hooks"
-import { Scene } from "three"
 import { AnimatePresence, motion } from "framer-motion"
 import { useRouter } from "next/router"
 import {
@@ -12,9 +11,11 @@ import {
   height,
   kylian1,
   kylian2,
+  kylian3,
   rows,
   width,
 } from "../lib/stinger"
+import { Scene } from "../lib"
 
 const Dot: React.FC<DotProps> = ({ top, left, state = "small" }) => {
   switch (state) {

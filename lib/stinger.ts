@@ -45,6 +45,26 @@ export const kylian1: StingerAnimation<{
   startTime: number
 }> = {
   initFn: () => ({
+    duration: 8000,
+    startTime: Date.now() % 8000,
+  }),
+  stateFn: ({ init, x, y }) => {
+    const time = Date.now()
+    const millis = (time % init.duration) - init.startTime
+    const cosine = Math.tan(time / x / y).toString()
+    const a = Math.sqrt(1 - ((x / columns) * y) / rows)
+    const newIndex = Math.round((a * 4 * millis) / 1000)
+
+    return states[newIndex]
+  },
+  fps: 10,
+}
+
+export const kylian2: StingerAnimation<{
+  duration: number
+  startTime: number
+}> = {
+  initFn: () => ({
     duration: 6000,
     startTime: Date.now() % 6000,
   }),
@@ -62,7 +82,7 @@ export const kylian1: StingerAnimation<{
   fps: 10,
 }
 
-export const kylian2: StingerAnimation<{
+export const kylian3: StingerAnimation<{
   duration: number
   startTime: number
 }> = {
