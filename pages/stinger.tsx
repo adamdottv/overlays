@@ -4,24 +4,17 @@ import { useEvent, useSocket } from "../hooks"
 import { Scene } from "three"
 import { AnimatePresence, motion } from "framer-motion"
 import { useRouter } from "next/router"
-
-const dotSize = 20
-const width = 1680
-const height = 840
-const columns = width / dotSize
-const rows = height / dotSize
-const fps = 10
-
-type DotState = "empty" | "small" | "medium" | "large" | "line"
-
-interface DotProps {
-  state: DotState
-  top: number
-  left: number
-}
-
-const states: DotState[] = ["empty", "small", "medium", "large"]
-const randomState = () => states[Math.floor(Math.random() * states.length)]
+import {
+  columns,
+  defaultAnimation,
+  DotProps,
+  dotSize,
+  height,
+  kylian1,
+  kylian2,
+  rows,
+  width,
+} from "../lib/stinger"
 
 const Dot: React.FC<DotProps> = ({ top, left, state = "small" }) => {
   switch (state) {
@@ -93,103 +86,21 @@ export const Stinger: NextPage = () => {
 
     setDots(initialDots)
 
-    // const d = 8000
-    // const initialMillis = Date.now() % d
-
-    // const intervalHandle = setInterval(() => {
-    //   const time = Date.now()
-    //   const millis = (time % d) - initialMillis
-    //   setDots((dots) => {
-    //     return dots.map((row, y) =>
-    //       row.map((dot, x) => {
-    //         const cosine = Math.tan(time / x / y).toString()
-
-    //         const a = Math.sqrt(1 - ((x / columns) * y) / rows)
-
-    //         const newIndex = Math.round((a * 4 * millis) / 1000)
-
-    //         return {
-    //           ...dot,
-    //           state: states[newIndex],
-    //         }
-    //       })
-    //     )
-    //   })
-    // }, 1000 / fps)
+    const { initFn, stateFn, fps } = defaultAnimation
+    const init = initFn()
 
     const intervalHandle = setInterval(() => {
       setDots((dots) => {
         return dots.map((row, y) =>
           row.map((dot, x) => {
-            // const previousRow = dots[y - 1]
-            // const above = previousRow && previousRow[x]
-            // const left = row[x - 1]
-            // const minusTwoAbove = dots[y - 2] && dots[y - 2][x]
-            // const minusTwoLeft = row[x - 2]
-
-            // const minusOne = above || left
-            // const minusTwo = minusTwoAbove || minusTwoLeft
-
-            // const nextRow = dots[y + 1]
-            // const below = nextRow && nextRow[x]
-            // const right = row[x + 1]
-            // const plusOne = below || right
-            // const plusTwoBelow = dots[y + 2] && dots[y + 2][x]
-            // const plusTwoRight = row[x + 2]
-            // const plusTwo = plusTwoBelow || plusTwoRight
-
-            // // if (!minusOne)
-            // //   return {
-            // //     ...dot,
-            // //     state: "large",
-            // //   }
-
-            // if (dot.state === "medium") {
-            //   return {
-            //     ...dot,
-            //     state: "small",
-            //   }
-            // }
-
-            // if (dot.state === "large") {
-            //   return {
-            //     ...dot,
-            //     state: "medium",
-            //   }
-            // }
-
-            // return {
-            //   ...dot,
-            //   // state: dots[index - 1]?.state || "large",
-            //   state:
-            //     plusOne?.state === "large" || minusOne?.state === "large"
-            //       ? "large"
-            //       : Math.random() < 0.01
-            //       ? "large"
-            //       : Math.random() < 0.1
-            //       ? "medium"
-            //       : "small", // randomState(),
-            // }
-            const time = Date.now()
-            const stateIndex = states.indexOf(dot.state)
-
-            const cosine = Math.tan(time / x / y).toString()
-            const lastDigit = Number.parseInt(cosine[0])
-            const quantizedValue = Math.ceil(lastDigit / states.length)
-
-            const newIndex = Math.min(
-              Math.max(quantizedValue, 0),
-              states.length
-            )
-
             return {
               ...dot,
-              state: states[newIndex],
+              state: stateFn({ init, dot, x, y }),
             }
           })
         )
       })
-    }, 1000 / fps)
+    }, 1000 / (fps ?? 10))
 
     return () => clearInterval(intervalHandle)
   }, [])
