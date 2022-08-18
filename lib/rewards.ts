@@ -6,6 +6,10 @@ export interface RewardBase {
   scene?: Scene
 }
 
+export interface GiveawayEntryReward extends RewardBase {
+  type: "giveaway-entry"
+}
+
 export interface SnapFilterReward extends RewardBase {
   type: "snap-filter"
   key: string
@@ -17,7 +21,7 @@ export interface ShellScriptReward extends RewardBase {
   script: string
 }
 
-export type Reward = SnapFilterReward | ShellScriptReward
+export type Reward = SnapFilterReward | ShellScriptReward | GiveawayEntryReward
 
 export const defaultSnapFilterDuration = 5 * 60 * 1000
 
@@ -37,6 +41,11 @@ const keyCodes = {
 }
 
 export const rewards: Reward[] = [
+  {
+    id: "e81a6506-7691-47fb-a3fa-04279ed03b53",
+    name: "Giveaway Entry",
+    type: "giveaway-entry",
+  },
   {
     id: "90cda788-68d5-48bb-b4e6-08bcf4ec132d",
     name: "Rick Roll",

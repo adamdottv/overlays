@@ -1,6 +1,6 @@
 import type { NextPage } from "next"
 import Head from "next/head"
-import React from "react"
+import React, { useEffect } from "react"
 import { useEvent, useQueue, useSocket, useTwitchEvent } from "../hooks"
 import type { TwitchEvent } from "../lib/twitch"
 import { NotifiableTwitchEvent, Notification, Stinger } from "../components"

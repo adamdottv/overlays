@@ -1,22 +1,17 @@
 import type { NextPage } from "next"
 import Head from "next/head"
 import React, { useEffect, useRef } from "react"
-import { useEvent, useSocket, useStream, useTwitchEvent } from "../hooks"
-import type {
-  TwitchChannelRedemptionEvent,
-  TwitchChatEvent,
-  TwitchEvent,
-} from "../lib/twitch"
+import { useEvent, useSocket, useStream } from "../hooks"
+import type { TwitchChatEvent } from "../lib/twitch"
 import { useRouter } from "next/router"
-import { getReward } from "../lib/rewards"
 import { useLocalStorageValue } from "@react-hookz/web"
-import hash from "object-hash"
 import { Carousel, AudioSpectrum } from "../components"
 import { fadeAudioOut } from "../lib/audio"
 
 const Home: NextPage = () => {
   const [currentTrack, setCurrentTrack] = React.useState<string>()
   const audioRef = useRef<HTMLAudioElement>(null)
+  const [winner, setWinner] = React.useState<string | undefined>()
 
   useEffect(() => {
     if (currentTrack) {
@@ -58,6 +53,24 @@ const Home: NextPage = () => {
     }, 1000 * 10)
     return () => clearInterval(timer)
   }, [router.query.id])
+
+  useEvent<{ winner: string }>(
+    socket,
+    "giveaway-winner-selected",
+    ({ winner }) => {
+      console.log(winner)
+      setWinner(winner)
+    }
+  )
+
+  useEffect(() => {
+    if (winner) {
+      const timeoutHandle = setTimeout(() => {
+        setWinner(undefined)
+      }, 1 * 60 * 1000)
+      return () => clearTimeout(timeoutHandle)
+    }
+  }, [winner])
 
   return (
     <div className="relative flex h-[1080px] w-[1920px] flex-col space-y-10">
@@ -103,7 +116,7 @@ const Home: NextPage = () => {
               <BrandMark />
             </div>
             <div className="relative flex flex-grow items-center text-lg text-mauve-12">
-              {topic}
+              {winner ? `🎉 @${winner} is the winner! 🎉` : topic}
             </div>
             <div className="relative w-20">
               {currentTrack ? (

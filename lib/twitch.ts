@@ -3,10 +3,15 @@ import { ChatClient, PrivateMessage } from "@twurple/chat"
 import { RefreshingAuthProvider } from "@twurple/auth"
 import { promises as fs } from "fs"
 import { CustomServer } from "./server"
-import { ShellScriptReward, SnapFilterReward, getReward } from "./rewards"
+import {
+  ShellScriptReward,
+  SnapFilterReward,
+  getReward,
+  GiveawayEntryReward,
+} from "./rewards"
 import open from "open"
-import ObsController from "./obs"
 import SnapController from "./snap"
+import GiveawaysController from "./giveaways"
 
 export interface TwitchChatEvent {
   channel: string
@@ -240,6 +245,10 @@ export async function setupTwitchChatBot(server: CustomServer) {
       message: string,
       msg: PrivateMessage
     ) => {
+      if (message.startsWith("!winner") && user === "adamelmore") {
+        server.giveaways.selectWinner()
+      }
+      // await chatClient.say(channel, "test")
       server.ws.emit("twitch-chat-event", {
         channel,
         user,
@@ -276,6 +285,10 @@ async function redeem(
       break
     case "snap-filter":
       await redeemSnapFilter(reward, server.snap)
+      break
+    case "giveaway-entry":
+      console.log(server)
+      await redeemGiveawayEntry(payload.event.user_name, server.giveaways)
       break
 
     default:
@@ -330,6 +343,13 @@ async function redeemSnapFilter(
   } catch (error) {
     console.error(error)
   }
+}
+
+async function redeemGiveawayEntry(
+  userName: string,
+  giveaways: GiveawaysController
+) {
+  giveaways.handleNewEntry(userName)
 }
 
 const getToken = async ({
