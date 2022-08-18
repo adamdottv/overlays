@@ -6,6 +6,7 @@ let socket: Socket | null = null
 
 export const useSocket = () => {
   const [connected, setConnected] = useState(false)
+  console.log(connected)
 
   const init = async () => {
     initialized = true

@@ -21,6 +21,7 @@ export type StingerAnimation<T = {}> = {
   stateFn: (props: { init: T; dot: DotProps; x: number; y: number }) => DotState
   initFn: () => T
   fps?: number
+  author?: string
 }
 
 export const defaultAnimation: StingerAnimation = {
@@ -40,10 +41,11 @@ export const defaultAnimation: StingerAnimation = {
   fps: 10,
 }
 
-export const kylian1: StingerAnimation<{
+export const kyllian1: StingerAnimation<{
   duration: number
   startTime: number
 }> = {
+  author: "KyllianGamer",
   initFn: () => ({
     duration: 8000,
     startTime: Date.now() % 8000,
@@ -60,10 +62,11 @@ export const kylian1: StingerAnimation<{
   fps: 10,
 }
 
-export const kylian2: StingerAnimation<{
+export const kyllian2: StingerAnimation<{
   duration: number
   startTime: number
 }> = {
+  author: "KyllianGamer",
   initFn: () => ({
     duration: 6000,
     startTime: Date.now() % 6000,
@@ -82,10 +85,11 @@ export const kylian2: StingerAnimation<{
   fps: 10,
 }
 
-export const kylian3: StingerAnimation<{
+export const kyllian3: StingerAnimation<{
   duration: number
   startTime: number
 }> = {
+  author: "KyllianGamer",
   initFn: () => ({
     duration: 5000,
     startTime: Date.now() % 5000,
@@ -105,11 +109,12 @@ export const kylian3: StingerAnimation<{
   fps: 10,
 }
 
-export const kylian4: StingerAnimation<{
+export const kyllian4: StingerAnimation<{
   duration: number
   startTime: number
   phases: number
 }> = {
+  author: "KyllianGamer",
   initFn: () => ({
     duration: 5000,
     startTime: Date.now() % 5000,
@@ -153,3 +158,51 @@ export const kylian4: StingerAnimation<{
   },
   fps: 10,
 }
+
+export const kyllian5: StingerAnimation<{
+  duration: number
+  startTime: number
+  column_values: Array<number>
+}> = {
+  author: "KyllianGamer",
+  initFn: () => ({
+    duration: 5000,
+    startTime: Date.now() % 5000,
+    column_values: Array.from({ length: columns }, () =>
+      Math.floor(Math.random() * rows)
+    ),
+  }),
+  stateFn: ({ init, x, y }) => {
+    const calculated_time = (Date.now() % init.duration) - init.startTime
+    const time =
+      calculated_time < 0 ? init.duration + calculated_time : calculated_time
+
+    var newIndex = Math.floor(
+      time /
+        (init.duration / (5 * rows + init.column_values[x] + rows)) /
+        (y + rows)
+    )
+    if (newIndex > 3) newIndex = 3
+    if (time >= init.duration - 1000 / 10)
+      init.column_values = Array.from({ length: columns }, () =>
+        Math.floor(Math.random() * rows)
+      )
+
+    return states[newIndex]
+  },
+  fps: 10,
+}
+
+export const animations: StingerAnimation[] = [
+  defaultAnimation,
+  // @ts-ignore
+  kyllian1,
+  // @ts-ignore
+  kyllian2,
+  // @ts-ignore
+  kyllian3,
+  // @ts-ignore
+  kyllian4,
+  // @ts-ignore
+  kyllian5,
+]

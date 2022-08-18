@@ -9,6 +9,7 @@ import { CustomServer } from "./lib"
 import ObsController from "./lib/obs"
 import WsController from "./lib/ws"
 import SnapController from "./lib/snap"
+import GiveawaysController from "./lib/giveaways"
 
 loadEnvConfig("./", process.env.NODE_ENV !== "production")
 
@@ -22,6 +23,7 @@ const url = `http://${hostname}:${port}`
 let wsController: WsController
 let obsController: ObsController
 let snapController: SnapController
+let giveawaysController: GiveawaysController
 
 const listener: RequestListener = async (req, res) => {
   try {
@@ -31,6 +33,8 @@ const listener: RequestListener = async (req, res) => {
     res.socket.server.snap = snapController
     // @ts-expect-error
     res.socket.server.obs = obsController
+    // @ts-expect-error
+    res.socket.server.giveaways = giveawaysController
 
     // Be sure to pass `true` as the second argument to `url.parse`.
     // This tells it to parse the query portion of the URL.
@@ -56,6 +60,12 @@ async function init() {
   wsController = new WsController(server)
   obsController = new ObsController(wsController)
   snapController = new SnapController(obsController)
+  giveawaysController = new GiveawaysController(wsController)
+
+  server.ws = wsController
+  server.obs = obsController
+  server.giveaways = giveawaysController
+  server.snap = snapController
 
   await setupTwitchEventSub()
   await setupTwitchChatBot(server)

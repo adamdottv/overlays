@@ -3,17 +3,14 @@ import { AnimatePresence, motion } from "framer-motion"
 import { useRouter } from "next/router"
 import {
   columns,
-  defaultAnimation,
   DotProps,
   dotSize,
   height,
-  kylian1,
-  kylian2,
-  kylian3,
-  kylian4,
   rows,
   width,
+  animations,
 } from "../lib/stinger"
+import { randomItem } from "../lib/utils"
 
 const Dot: React.FC<DotProps> = ({ top, left, state = "small" }) => {
   switch (state) {
@@ -70,6 +67,8 @@ export const Stinger: React.FC<{ transitioning: boolean }> = ({
   const [dots, setDots] = React.useState<DotProps[][]>([])
 
   useEffect(() => {
+    if (transitioning) audioRef.current?.play()
+
     const initialDots = []
     for (let y = 0; y < rows; y++) {
       const row = []
@@ -86,7 +85,7 @@ export const Stinger: React.FC<{ transitioning: boolean }> = ({
 
     setDots(initialDots)
 
-    const { initFn, stateFn, fps } = defaultAnimation
+    const { initFn, stateFn, fps } = randomItem(animations)
     const init = initFn()
 
     const intervalHandle = setInterval(() => {
@@ -103,10 +102,6 @@ export const Stinger: React.FC<{ transitioning: boolean }> = ({
     }, 1000 / (fps ?? 10))
 
     return () => clearInterval(intervalHandle)
-  }, [])
-
-  useEffect(() => {
-    if (transitioning) audioRef.current?.play()
   }, [transitioning])
 
   return (
