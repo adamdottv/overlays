@@ -1,5 +1,4 @@
 import type { NextApiRequest } from "next"
-import { Server } from "socket.io"
 import { NextApiResponseServerIO } from "../../../lib/server"
 
 export default async function handler(
@@ -9,8 +8,6 @@ export default async function handler(
   const { event } = req.query
   if (!event) return res.status(400).end()
 
-  const server = res.socket?.server.io as Server
-  server?.emit(event as string, req.query)
-
-  res.status(200).end()
+  const result = res.socket.server.ws.emit(event as string, req.query)
+  res.status(result ? 200 : 500).end()
 }

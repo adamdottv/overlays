@@ -1,32 +1,22 @@
 import type { NextPage } from "next"
 import Head from "next/head"
-import React, { useCallback, useEffect, useRef } from "react"
-import {
-  useEvent,
-  useObs,
-  useSocket,
-  useStream,
-  useTwitchEvent,
-} from "../hooks"
+import React, { useEffect, useRef } from "react"
+import { useEvent, useSocket, useStream, useTwitchEvent } from "../hooks"
 import type {
   TwitchChannelRedemptionEvent,
   TwitchChatEvent,
   TwitchEvent,
 } from "../lib/twitch"
 import { useRouter } from "next/router"
-import { getReward, Scene } from "../lib/rewards"
-import { useDebouncedEffect, useLocalStorageValue } from "@react-hookz/web"
+import { getReward } from "../lib/rewards"
+import { useLocalStorageValue } from "@react-hookz/web"
 import hash from "object-hash"
 import { Carousel, AudioSpectrum } from "../components"
 import { fadeAudioOut } from "../lib/audio"
-import metadata from "../stream.json"
 
 const Home: NextPage = () => {
   const [currentTrack, setCurrentTrack] = React.useState<string>()
   const audioRef = useRef<HTMLAudioElement>(null)
-  const isGuestMode = metadata.mode === "guest"
-
-  const { scene, obs } = useObs()
 
   useEffect(() => {
     if (currentTrack) {
@@ -37,61 +27,10 @@ const Home: NextPage = () => {
   }, [currentTrack])
 
   const router = useRouter()
-  const debug = router.query.debug === "true"
-
-  const [activeSnapFilter, setActiveSnapFilter] =
-    React.useState<TwitchChannelRedemptionEvent>()
-  const [activeRedemption, setActiveRedemption] =
-    React.useState<TwitchChannelRedemptionEvent>()
 
   const [topic, setTopic] = useLocalStorageValue<string>("topic", "", {
     initializeWithStorageValue: false,
   })
-
-  const setObsScene = async (scene: Scene) => {
-    await obs.send("SetCurrentScene", {
-      "scene-name": scene,
-    })
-  }
-
-  const switchScene = useCallback(async (to: Scene) => {
-    const camera1 = "BA868701-8131-49CB-8EDD-8C7E6E7CD60B"
-    const camera2 = "14029354-EC7B-4409-B4BC-708E88D9D782"
-    const url = (layer: string, action: string) =>
-      `http://adams-mac-mini.local:8989/api/v1/documents/691811177/layers/${layer}/${action}`
-
-    switch (to) {
-      case "Camera":
-      case "Camera (HD)":
-        await fetch(url(camera1, "setLive"))
-        await fetch(url(camera2, "setOff"))
-        await setObsScene(to)
-        break
-
-      case "Screen":
-        await fetch(url(camera2, "setLive"))
-        await fetch(url(camera1, "setOff"))
-        await setObsScene(isGuestMode ? "Screen (w/ Guest)" : "Screen")
-        break
-
-      default:
-        break
-    }
-  }, [])
-
-  const handleTwitchEvent = (twitchEvent: TwitchEvent) => {
-    const key = hash(twitchEvent)
-    const event = { ...twitchEvent, key }
-
-    if (event.type === "channel.channel_points_custom_reward_redemption.add") {
-      const reward = getReward(event.event.reward.id)
-      if (reward?.type === "snap-filter") {
-        setActiveSnapFilter(event)
-      } else {
-        setActiveRedemption(event)
-      }
-    }
-  }
 
   const handleTwitchChatEvent = (event: TwitchChatEvent) => {
     console.log(event)
@@ -103,7 +42,6 @@ const Home: NextPage = () => {
   }
 
   const { socket } = useSocket()
-  useTwitchEvent(handleTwitchEvent)
   useEvent<TwitchChatEvent>(socket, "twitch-chat-event", handleTwitchChatEvent)
   useEvent<{ track: string }>(socket, "play-audio", ({ track }) => {
     setCurrentTrack(track)
@@ -111,49 +49,6 @@ const Home: NextPage = () => {
   useEvent(socket, "stop-audio", () => {
     setCurrentTrack(undefined)
   })
-
-  useEffect(() => {
-    const rewardId = activeRedemption?.event.reward.id
-    const reward = getReward(rewardId)
-    if (reward?.scene) switchScene(reward.scene)
-  }, [activeRedemption, switchScene])
-
-  useEffect(() => {
-    if (debug) return
-
-    const rewardId = activeSnapFilter?.event.reward.id
-    const reward = getReward(rewardId)
-
-    // If there's no active redemption, we need to toggle the snap filter off
-    fetch("/api/snap", {
-      method: "post",
-      body: JSON.stringify({ rewardId }),
-    })
-
-    if (reward?.scene) {
-      switchScene(reward.scene)
-    }
-
-    const timeoutHandle = setTimeout(() => {
-      setActiveSnapFilter(undefined)
-    }, 5 * 60 * 1000)
-
-    return () => clearTimeout(timeoutHandle)
-  }, [activeSnapFilter, debug, switchScene])
-
-  useDebouncedEffect(
-    () => {
-      if (debug) return
-
-      if (scene === "Camera" && !activeSnapFilter) {
-        switchScene("Camera (HD)")
-      } else if (scene === "Camera (HD)" && activeSnapFilter) {
-        switchScene("Camera")
-      }
-    },
-    [activeSnapFilter, scene, switchScene, debug],
-    100
-  )
 
   useEffect(() => {
     const timer = setInterval(() => {

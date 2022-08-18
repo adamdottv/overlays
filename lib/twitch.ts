@@ -3,6 +3,10 @@ import { ChatClient, PrivateMessage } from "@twurple/chat"
 import { RefreshingAuthProvider } from "@twurple/auth"
 import { promises as fs } from "fs"
 import { CustomServer } from "./server"
+import { ShellScriptReward, SnapFilterReward, getReward } from "./rewards"
+import open from "open"
+import ObsController from "./obs"
+import SnapController from "./snap"
 
 export interface TwitchChatEvent {
   channel: string
@@ -236,35 +240,51 @@ export async function setupTwitchChatBot(server: CustomServer) {
       message: string,
       msg: PrivateMessage
     ) => {
-      server.io.emit("twitch-chat-event", {
+      server.ws.emit("twitch-chat-event", {
         channel,
         user,
         message,
         broadcaster: msg.userInfo.isBroadcaster,
         moderator: msg.userInfo.isMod,
       })
-
-      // if (message === "!followage") {
-      //   const follow = await apiClient.users.getFollowFromUserToBroadcaster(
-      //     msg.userInfo.userId,
-      //     msg.channelId!
-      //   )
-
-      //   if (follow) {
-      //     const currentTimestamp = Date.now()
-      //     const followStartTimestamp = follow.followDate.getTime()
-      //     chatClient.say(
-      //       channel,
-      //       `@${user} You have been following for ${secondsToDuration(
-      //         (currentTimestamp - followStartTimestamp) / 1000
-      //       )}!`
-      //     )
-      //   } else {
-      //     chatClient.say(channel, `@${user} You are not following!`)
-      //   }
-      // }
     }
   )
+}
+
+export async function handleTwitchEvent(
+  event: TwitchEvent,
+  server: CustomServer
+) {
+  switch (event.subscription.type) {
+    case "channel.channel_points_custom_reward_redemption.add":
+      await redeem(event as TwitchChannelRedemptionEvent, server)
+      break
+
+    default:
+      break
+  }
+}
+
+async function redeem(
+  payload: TwitchChannelRedemptionEvent,
+  server: CustomServer
+) {
+  const reward = getReward(payload.event.reward.id)
+  switch (reward?.type) {
+    case "shell":
+      await redeemShell(reward)
+      break
+    case "snap-filter":
+      await redeemSnapFilter(reward, server.snap)
+      break
+
+    default:
+      break
+  }
+
+  if (reward?.scene) {
+    await server.obs.switchScene(reward.scene)
+  }
 }
 
 export const getAuthProvider = async () => {
@@ -285,6 +305,31 @@ export const getAuthProvider = async () => {
     },
     tokenData
   )
+}
+
+async function redeemShell(reward: ShellScriptReward) {
+  const { script } = reward
+  if (!script) return
+
+  try {
+    await open(script, { background: true })
+  } catch (error) {
+    console.error(error)
+  }
+}
+
+async function redeemSnapFilter(
+  reward: SnapFilterReward,
+  snap: SnapController
+) {
+  const { key } = reward
+  if (!key) return
+
+  try {
+    await snap.toggleSnapFilter(key)
+  } catch (error) {
+    console.error(error)
+  }
 }
 
 const getToken = async ({

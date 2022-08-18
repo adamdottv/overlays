@@ -1,41 +1,24 @@
-import { spawnSync } from "child_process"
 import type { NextApiRequest, NextApiResponse } from "next"
-import { rewards, SnapFilterReward } from "../../lib/rewards"
+import { NextApiResponseServerIO } from "../../lib"
+import { getReward, SnapFilterReward } from "../../lib/rewards"
 
 interface Request {
   rewardId?: string
 }
 
-let lastKey: string | undefined = undefined
-
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponse
+  res: NextApiResponseServerIO
 ) {
-  const { rewardId } = JSON.parse(req.body) as Request
-
-  // Empty reward means we should toggle the last filter off
-  if (lastKey) {
-    spawnSync("bash", ["./scripts/toggle-snap-filter.sh", lastKey])
-    lastKey = undefined
-  }
-
-  if (!rewardId) {
-    return res.status(200).end()
-  }
-
-  const reward = rewards.find((r): r is SnapFilterReward => r.id === rewardId)
+  const { rewardId } = req.body as Request // JSON.parse(req.body) as Request
+  const reward = getReward(rewardId) as SnapFilterReward
   const key = reward?.key
-  if (!key) return res.status(400).end()
 
   try {
-    spawnSync("bash", ["./scripts/toggle-snap-filter.sh", key])
-    lastKey = key
+    const result = await res.socket.server.snap.toggleSnapFilter(key)
+    res.status(result ? 200 : 400).end()
   } catch (error) {
     console.error(error)
     res.status(500).end()
   }
-
-  console.log("snap cam controlled")
-  res.status(200).end()
 }

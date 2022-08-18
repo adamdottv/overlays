@@ -104,3 +104,52 @@ export const kylian3: StingerAnimation<{
   },
   fps: 10,
 }
+
+export const kylian4: StingerAnimation<{
+  duration: number
+  startTime: number
+  phases: number
+}> = {
+  initFn: () => ({
+    duration: 5000,
+    startTime: Date.now() % 5000,
+    phases: 4,
+  }),
+  stateFn: ({ init, x, y }) => {
+    const calculated_time = (Date.now() % init.duration) - init.startTime
+    const time =
+      calculated_time < 0 ? init.duration + calculated_time : calculated_time
+
+    const phase = Math.floor(time / (init.duration / init.phases))
+    const phase_duration = init.duration / init.phases
+    const phase_time = time - phase * (init.duration / init.phases)
+    var newIndex = 3
+    if (phase === 0)
+      newIndex =
+        Math.abs(y - rows / 2) / (rows / 2) <=
+        1 - Math.sqrt(phase_time / phase_duration)
+          ? 0
+          : 2
+    if (phase === 1)
+      newIndex =
+        Math.abs(x - columns / 2) / (columns / 2) <=
+        1 - Math.sqrt(phase_time / phase_duration)
+          ? 2
+          : 3
+    if (phase === 2)
+      newIndex =
+        Math.abs(y - rows / 2) / (rows / 2) <=
+        Math.sqrt(phase_time / phase_duration)
+          ? 2
+          : 3
+    if (phase === 3)
+      newIndex =
+        Math.abs(x - columns / 2) / (columns / 2) <=
+        Math.sqrt(phase_time / phase_duration)
+          ? 0
+          : 2
+
+    return states[newIndex]
+  },
+  fps: 10,
+}

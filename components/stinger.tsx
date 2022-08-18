@@ -1,6 +1,4 @@
-import type { NextPage } from "next"
 import React, { useEffect } from "react"
-import { useEvent, useSocket } from "../hooks"
 import { AnimatePresence, motion } from "framer-motion"
 import { useRouter } from "next/router"
 import {
@@ -12,10 +10,10 @@ import {
   kylian1,
   kylian2,
   kylian3,
+  kylian4,
   rows,
   width,
 } from "../lib/stinger"
-import { Scene } from "../lib"
 
 const Dot: React.FC<DotProps> = ({ top, left, state = "small" }) => {
   switch (state) {
@@ -62,12 +60,13 @@ const Dot: React.FC<DotProps> = ({ top, left, state = "small" }) => {
   }
 }
 
-export const Stinger: NextPage = () => {
+export const Stinger: React.FC<{ transitioning: boolean }> = ({
+  transitioning,
+}) => {
   const router = useRouter()
   const debug = router.query.debug === "true"
 
   const audioRef = React.useRef<HTMLAudioElement>(null)
-  const [transitioning, setTransitioning] = React.useState(false)
   const [dots, setDots] = React.useState<DotProps[][]>([])
 
   useEffect(() => {
@@ -106,19 +105,12 @@ export const Stinger: NextPage = () => {
     return () => clearInterval(intervalHandle)
   }, [])
 
-  const { socket } = useSocket()
-  useEvent<{ to: Scene; complete?: boolean }>(
-    socket,
-    "scene-transition",
-    ({ to, complete }) => {
-      if (!complete) audioRef.current?.play()
-
-      setTransitioning(!complete ?? false)
-    }
-  )
+  useEffect(() => {
+    if (transitioning) audioRef.current?.play()
+  }, [transitioning])
 
   return (
-    <div className="relative h-[1080px] w-[1920px]">
+    <div className="absolute inset-0">
       <AnimatePresence exitBeforeEnter>
         {(transitioning || debug) && (
           <motion.div

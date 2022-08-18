@@ -1,7 +1,7 @@
 import OBSWebSocket from "obs-websocket-js"
 import React from "react"
 import { useEffect } from "react"
-import { Scene } from "../lib"
+import { Scene } from "../lib/obs"
 
 const obs = new OBSWebSocket()
 

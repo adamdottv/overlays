@@ -1,10 +1,4 @@
-export type Scene =
-  | "Intro"
-  | "Camera"
-  | "Screen"
-  | "Screen (w/ Guest)"
-  | "Camera (HD)"
-  | "Keyboard"
+import { Scene } from "./obs"
 
 export interface RewardBase {
   id: string

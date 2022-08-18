@@ -1,9 +1,9 @@
 import type { NextPage } from "next"
 import Head from "next/head"
 import React from "react"
-import { useQueue, useTwitchEvent } from "../hooks"
+import { useEvent, useQueue, useSocket, useTwitchEvent } from "../hooks"
 import type { TwitchEvent } from "../lib/twitch"
-import { NotifiableTwitchEvent, Notification } from "../components"
+import { NotifiableTwitchEvent, Notification, Stinger } from "../components"
 import hash from "object-hash"
 import cn from "classnames"
 import { motion, AnimatePresence } from "framer-motion"
@@ -12,7 +12,9 @@ const MAX_NOTIFICATIONS = 2
 const NOTIFICATION_DURATION = 3
 const NOTIFICATION_PANEL_HEIGHT = MAX_NOTIFICATIONS * 100 + 65
 
-const Notifications: NextPage = () => {
+const Shared: NextPage = () => {
+  const [transitioning, setTransitioning] = React.useState(false)
+
   const [_, setNotifications, notifications, previous] =
     useQueue<NotifiableTwitchEvent>({
       count: MAX_NOTIFICATIONS,
@@ -34,15 +36,20 @@ const Notifications: NextPage = () => {
 
   useTwitchEvent(handleTwitchEvent)
 
+  const { socket } = useSocket()
+  useEvent<boolean>(socket, "transitioning", (value) => {
+    setTransitioning(value)
+  })
+
   return (
-    <div className="relative flex h-[1080px] w-[1920px] flex-col space-y-10">
+    <div className="relative h-[1080px] w-[1920px]">
       <Head>
-        <title>Adam&apos;s Twitch Notifications</title>
+        <title>Adam&apos;s Twitch Overlay</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <ul
         className={cn({
-          "absolute top-10 right-10 flex w-[400px] flex-col-reverse justify-end space-y-4 space-y-reverse":
+          "absolute top-10 right-10 z-50 flex w-[400px] flex-col-reverse justify-end space-y-4 space-y-reverse":
             true,
           "gradient-mask-b-80": true,
         })}
@@ -72,8 +79,10 @@ const Notifications: NextPage = () => {
           ))}
         </AnimatePresence>
       </ul>
+
+      <Stinger transitioning={transitioning} />
     </div>
   )
 }
 
-export default Notifications
+export default Shared

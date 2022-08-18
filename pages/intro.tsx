@@ -47,7 +47,7 @@ export const Intro: NextPage = () => {
         loop
         ref={audioRef}
         id="audio-element"
-        src="/media/theme-piano-stem.wav"
+        src="/media/theme-piano-stem.mp3"
       />
       {showTitleScreen ? (
         metadata.mode === "guest" ? (

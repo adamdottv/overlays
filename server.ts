@@ -3,10 +3,12 @@ import { parse } from "url"
 import next from "next"
 import httpProxy from "http-proxy"
 import { setupTwitchChatBot, setupTwitchEventSub } from "./lib/twitch"
-import { Server as ServerIO } from "socket.io"
 
 import { loadEnvConfig } from "@next/env"
 import { CustomServer } from "./lib"
+import ObsController from "./lib/obs"
+import WsController from "./lib/ws"
+import SnapController from "./lib/snap"
 
 loadEnvConfig("./", process.env.NODE_ENV !== "production")
 
@@ -16,12 +18,19 @@ const port = 3333
 const app = next({ dev, hostname, port })
 const handle = app.getRequestHandler()
 const url = `http://${hostname}:${port}`
-let socketServer: ServerIO
+
+let wsController: WsController
+let obsController: ObsController
+let snapController: SnapController
 
 const listener: RequestListener = async (req, res) => {
   try {
     // @ts-expect-error
-    if (!res.socket.server.io) res.socket.server.io = socketServer
+    res.socket.server.ws = wsController
+    // @ts-expect-error
+    res.socket.server.snap = snapController
+    // @ts-expect-error
+    res.socket.server.obs = obsController
 
     // Be sure to pass `true` as the second argument to `url.parse`.
     // This tells it to parse the query portion of the URL.
@@ -44,8 +53,9 @@ async function init() {
   const server = createServer(listener) as CustomServer
   server.listen(port, () => console.log(`> Ready on ${url}`))
 
-  socketServer = new ServerIO(server)
-  server.io = socketServer
+  wsController = new WsController(server)
+  obsController = new ObsController(wsController)
+  snapController = new SnapController(obsController)
 
   await setupTwitchEventSub()
   await setupTwitchChatBot(server)
