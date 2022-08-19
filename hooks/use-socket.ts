@@ -6,7 +6,6 @@ let socket: Socket | null = null
 
 export const useSocket = () => {
   const [connected, setConnected] = useState(false)
-  console.log(connected)
 
   const init = async () => {
     initialized = true
@@ -19,6 +18,10 @@ export const useSocket = () => {
 
     socket.on("disconnect", () => {
       setConnected(false)
+    })
+
+    socket.on("error", (error) => {
+      console.log(error)
     })
   }
 

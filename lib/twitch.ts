@@ -248,7 +248,7 @@ export async function setupTwitchChatBot(server: CustomServer) {
       if (message.startsWith("!winner") && user === "adamelmore") {
         server.giveaways.selectWinner()
       }
-      // await chatClient.say(channel, "test")
+
       server.ws.emit("twitch-chat-event", {
         channel,
         user,
@@ -287,7 +287,6 @@ async function redeem(
       await redeemSnapFilter(reward, server.snap)
       break
     case "giveaway-entry":
-      console.log(server)
       await redeemGiveawayEntry(payload.event.user_name, server.giveaways)
       break
 
