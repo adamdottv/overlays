@@ -2,7 +2,7 @@ import React, { useEffect } from "react"
 import cn from "classnames"
 
 export interface AudioSpectrumProps extends React.ComponentProps<"div"> {
-  audioRef: React.RefObject<HTMLAudioElement>
+  audioRef?: React.RefObject<HTMLAudioElement>
   width?: number
   height?: number
   capColor?: string
@@ -15,7 +15,7 @@ export interface AudioSpectrumProps extends React.ComponentProps<"div"> {
 
 let audioContext: AudioContext
 let analyser: AnalyserNode
-let source: MediaElementAudioSourceNode
+let source: MediaElementAudioSourceNode | MediaStreamAudioSourceNode
 
 export const AudioSpectrum: React.FC<AudioSpectrumProps> = ({
   audioRef,
@@ -86,26 +86,43 @@ export const AudioSpectrum: React.FC<AudioSpectrumProps> = ({
   )
 
   useEffect(() => {
-    const audio = audioRef.current
-    if (!audio) return
+    async function handler() {
+      const audio = audioRef?.current
 
-    if (!audioContext) audioContext = new window.AudioContext()
+      if (!audioContext) audioContext = new window.AudioContext()
 
-    if (!analyser) {
-      analyser = audioContext.createAnalyser()
-      analyser.smoothingTimeConstant = 0.8
-      analyser.fftSize = 128
-      analyser.minDecibels = -160
-      analyser.maxDecibels = -40
+      if (!analyser) {
+        analyser = audioContext.createAnalyser()
+        analyser.smoothingTimeConstant = 0.8
+        analyser.fftSize = 128
+        analyser.minDecibels = -160
+        analyser.maxDecibels = -40
+      }
+
+      if (!source) {
+        if (!audio) {
+          const devices = await navigator.mediaDevices.enumerateDevices()
+          const device = devices.find(
+            (d) =>
+              d.kind === "audioinput" &&
+              d.label.toLowerCase().startsWith("blackhole")
+          )
+          const stream = await navigator.mediaDevices.getUserMedia({
+            audio: { deviceId: { exact: device?.deviceId } },
+          })
+          source = audioContext.createMediaStreamSource(stream)
+        } else {
+          source = audioContext.createMediaElementSource(audio)
+        }
+
+        source.connect(analyser)
+        source.connect(audioContext.destination)
+      }
+
+      drawSpectrum(analyser)
     }
 
-    if (!source) {
-      source = audioContext.createMediaElementSource(audio)
-      source.connect(analyser)
-      source.connect(audioContext.destination)
-    }
-
-    drawSpectrum(analyser)
+    handler()
   }, [audioRef, drawSpectrum])
 
   return (

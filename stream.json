@@ -1,5 +1,5 @@
 {
-  "mode": "guest",
+  "mode": "solo",
   "guest": {
     "name": "Jay Hill",
     "twitter": "@Jittery",
