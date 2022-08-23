@@ -1,4 +1,4 @@
-import type { NextApiRequest, NextApiResponse } from "next"
+import type { NextApiRequest } from "next"
 import { NextApiResponseServerIO } from "../../lib"
 import { getReward, SnapFilterReward } from "../../lib/rewards"
 
@@ -15,7 +15,7 @@ export default async function handler(
   const key = reward?.key
 
   try {
-    const result = await res.socket.server.snap.toggleSnapFilter(key)
+    const result = await res.server.snap.toggleSnapFilter(key)
     res.status(result ? 200 : 400).end()
   } catch (error) {
     console.error(error)

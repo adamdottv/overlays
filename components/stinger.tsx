@@ -85,8 +85,19 @@ export const Stinger: React.FC<{ transitioning: boolean }> = ({
 
     setDots(initialDots)
 
-    const { initFn, stateFn, fps } = randomItem(animations)
+    const { initFn, stateFn, fps, author } = randomItem(animations)
     const init = initFn()
+
+    if (author && transitioning) {
+      // Credit the animation author
+      fetch("/api/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          message: `Transition animation brought to you by @${author}`,
+        }),
+      })
+    }
 
     const intervalHandle = setInterval(() => {
       setDots((dots) => {

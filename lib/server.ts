@@ -1,20 +1,28 @@
-import { Server as NetServer } from "http"
-import { Socket } from "net"
+import { IncomingMessage, Server as NetServer, ServerResponse } from "http"
 import { NextApiResponse } from "next"
 import WsController from "./ws"
 import ObsController from "./obs"
 import SnapController from "./snap"
 import GiveawaysController from "./giveaways"
+import TwitchController from "./twitch"
 
 export type CustomServer = NetServer & {
   ws: WsController
   obs: ObsController
   snap: SnapController
   giveaways: GiveawaysController
+  twitch: TwitchController
 }
 
+export type CustomServerResponse = ServerResponse & {
+  server: CustomServer
+}
+
+export type CustomRequestListener = (
+  req: IncomingMessage,
+  res: CustomServerResponse
+) => void
+
 export type NextApiResponseServerIO = NextApiResponse & {
-  socket: Socket & {
-    server: CustomServer
-  }
+  server: CustomServer
 }

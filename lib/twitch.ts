@@ -3,15 +3,11 @@ import { ChatClient, PrivateMessage } from "@twurple/chat"
 import { RefreshingAuthProvider } from "@twurple/auth"
 import { promises as fs } from "fs"
 import { CustomServer } from "./server"
-import {
-  ShellScriptReward,
-  SnapFilterReward,
-  getReward,
-  GiveawayEntryReward,
-} from "./rewards"
+import { ShellScriptReward, SnapFilterReward, getReward } from "./rewards"
 import open from "open"
 import SnapController from "./snap"
 import GiveawaysController from "./giveaways"
+import { EventEmitter } from "stream"
 
 export interface TwitchChatEvent {
   channel: string
@@ -180,122 +176,199 @@ export interface TwitchEventSubscription {
   cost: number
 }
 
-export async function setupTwitchEventSub() {
-  const clientId = process.env.TWITCH_CLIENT_ID as string
-  const clientSecret = process.env.TWITCH_CLIENT_SECRET as string
-  const webhookSecret = process.env.TWITCH_WEBHOOK_SECRET as string
-  const callback = process.env.TWITCH_CALLBACK_URL as string
-  const userId = process.env.TWITCH_USER_ID as string
+export default class TwitchController extends EventEmitter {
+  private server: CustomServer
+  private snap: SnapController
+  private giveaways: GiveawaysController
+  private clientId = process.env.TWITCH_CLIENT_ID as string
+  private clientSecret = process.env.TWITCH_CLIENT_SECRET as string
+  private webhookSecret = process.env.TWITCH_WEBHOOK_SECRET as string
+  private callback = process.env.TWITCH_CALLBACK_URL as string
+  private userId = process.env.TWITCH_USER_ID as string
+  username = process.env.TWITCH_USERNAME as string
 
-  const token = await getToken({ clientId, clientSecret })
-  const subscriptions = await listSubscriptions({ token, clientId })
-  const eventTypes: [TwitchEventType, object?][] = [
-    ["channel.follow"],
-    ["channel.subscribe"],
-    ["channel.channel_points_custom_reward_redemption.add"],
-    ["channel.update"],
-    ["channel.cheer"],
-    ["channel.subscription.gift"],
-    ["channel.raid", { to_broadcaster_user_id: userId }],
-  ]
-  for (const [eventType, condition] of eventTypes) {
-    const existing = subscriptions.find((sub) => sub.type === eventType)
-    if (
-      existing &&
-      (existing.status === "enabled" ||
-        existing.status === "webhook_callback_verification_pending")
-    ) {
-      continue
-    }
+  chatClient?: ChatClient
 
-    if (existing) {
-      await deleteSubscription({
-        subscription: existing,
-        token,
-        clientId,
-      })
-    }
+  constructor(
+    server: CustomServer,
+    snap: SnapController,
+    giveaways: GiveawaysController
+  ) {
+    super()
+    this.server = server
+    this.snap = snap
+    this.giveaways = giveaways
 
-    await createSubscription({
+    this.setupEventSub()
+    this.setupChatBot()
+  }
+
+  async setupEventSub() {
+    const token = await this.getToken()
+    const subscriptions = await listSubscriptions({
       token,
-      clientId,
-      type: eventType,
-      webhookSecret,
-      callback,
-      // Note: this condition will change when we add new event types
-      condition: condition ?? { broadcaster_user_id: userId },
+      clientId: this.clientId,
     })
-  }
-}
-
-export async function setupTwitchChatBot(server: CustomServer) {
-  const authProvider = await getAuthProvider()
-  const chatClient = new ChatClient({ authProvider, channels: ["adamelmore"] })
-
-  try {
-    await chatClient.connect()
-  } catch (error) {
-    console.error(error)
-  }
-
-  chatClient.onMessage(
-    async (
-      channel: string,
-      user: string,
-      message: string,
-      msg: PrivateMessage
-    ) => {
-      if (message.startsWith("!winner") && user === "adamelmore") {
-        server.giveaways.selectWinner()
+    const eventTypes: [TwitchEventType, object?][] = [
+      ["channel.follow"],
+      ["channel.subscribe"],
+      ["channel.channel_points_custom_reward_redemption.add"],
+      ["channel.update"],
+      ["channel.cheer"],
+      ["channel.subscription.gift"],
+      ["channel.raid", { to_broadcaster_user_id: this.userId }],
+    ]
+    for (const [eventType, condition] of eventTypes) {
+      const existing = subscriptions.find((sub) => sub.type === eventType)
+      if (
+        existing &&
+        (existing.status === "enabled" ||
+          existing.status === "webhook_callback_verification_pending")
+      ) {
+        continue
       }
 
-      server.ws.emit("twitch-chat-event", {
-        channel,
-        user,
-        message,
-        broadcaster: msg.userInfo.isBroadcaster,
-        moderator: msg.userInfo.isMod,
+      if (existing) {
+        await deleteSubscription({
+          subscription: existing,
+          token,
+          clientId: this.clientId,
+        })
+      }
+
+      await createSubscription({
+        token,
+        clientId: this.clientId,
+        type: eventType,
+        webhookSecret: this.webhookSecret,
+        callback: this.callback,
+        // Note: this condition will change when we add new event types
+        condition: condition ?? { broadcaster_user_id: this.userId },
       })
     }
-  )
-}
-
-export async function handleTwitchEvent(
-  event: TwitchEvent,
-  server: CustomServer
-) {
-  switch (event.subscription.type) {
-    case "channel.channel_points_custom_reward_redemption.add":
-      await redeem(event as TwitchChannelRedemptionEvent, server)
-      break
-
-    default:
-      break
-  }
-}
-
-async function redeem(
-  payload: TwitchChannelRedemptionEvent,
-  server: CustomServer
-) {
-  const reward = getReward(payload.event.reward.id)
-  switch (reward?.type) {
-    case "shell":
-      await redeemShell(reward)
-      break
-    case "snap-filter":
-      await redeemSnapFilter(reward, server.snap)
-      break
-    case "giveaway-entry":
-      await redeemGiveawayEntry(payload.event.user_name, server.giveaways)
-      break
-
-    default:
-      break
   }
 
-  if (reward?.scene) {
-    await server.obs.switchScene(reward.scene)
+  async setupChatBot() {
+    const authProvider = await getAuthProvider()
+    this.chatClient = new ChatClient({
+      authProvider,
+      channels: [this.username],
+    })
+
+    try {
+      await this.chatClient.connect()
+    } catch (error) {
+      console.error(error)
+    }
+
+    this.chatClient.onMessage(
+      async (
+        channel: string,
+        user: string,
+        message: string,
+        msg: PrivateMessage
+      ) => {
+        if (message.startsWith("!winner") && user === this.username) {
+          this.server.giveaways.selectWinner()
+        }
+
+        this.server.ws.emit("twitch-chat-event", {
+          channel,
+          user,
+          message,
+          broadcaster: msg.userInfo.isBroadcaster,
+          moderator: msg.userInfo.isMod,
+        })
+      }
+    )
+  }
+
+  async handleEvent(event: TwitchEvent) {
+    switch (event.subscription.type) {
+      case "channel.channel_points_custom_reward_redemption.add":
+        await this.redeem(event as TwitchChannelRedemptionEvent)
+        break
+
+      default:
+        break
+    }
+  }
+
+  async redeem(payload: TwitchChannelRedemptionEvent) {
+    const reward = getReward(payload.event.reward.id)
+    switch (reward?.type) {
+      case "shell":
+        await this.redeemShell(reward)
+        break
+      case "snap-filter":
+        await this.redeemSnapFilter(reward)
+        break
+      case "giveaway-entry":
+        await this.redeemGiveawayEntry(payload.event.user_name)
+        break
+
+      default:
+        break
+    }
+
+    if (reward?.scene) {
+      await this.server.obs.switchScene(reward.scene)
+    }
+  }
+
+  async redeemShell(reward: ShellScriptReward) {
+    const { script } = reward
+    if (!script) return
+
+    try {
+      await open(script, { background: true })
+    } catch (error) {
+      console.error(error)
+    }
+  }
+
+  async redeemSnapFilter(reward: SnapFilterReward) {
+    const { key } = reward
+    if (!key) return
+
+    try {
+      await this.snap.toggleSnapFilter(key)
+    } catch (error) {
+      console.error(error)
+    }
+  }
+
+  async redeemGiveawayEntry(userName: string) {
+    this.giveaways.handleNewEntry(userName)
+  }
+
+  async getToken() {
+    const params: Record<string, string> = {
+      client_id: this.clientId,
+      client_secret: this.clientSecret,
+      grant_type: "client_credentials",
+    }
+
+    const formBody = []
+    for (const property in params) {
+      const encodedKey = encodeURIComponent(property)
+      const encodedValue = encodeURIComponent(params[property])
+      formBody.push(encodedKey + "=" + encodedValue)
+    }
+    const body = formBody.join("&")
+
+    const response = await fetch("https://id.twitch.tv/oauth2/token", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+      },
+      body,
+    })
+
+    const { access_token: token } = (await response.json()) as {
+      access_token: string
+    }
+    return token
   }
 }
 
@@ -317,73 +390,6 @@ export const getAuthProvider = async () => {
     },
     tokenData
   )
-}
-
-async function redeemShell(reward: ShellScriptReward) {
-  const { script } = reward
-  if (!script) return
-
-  try {
-    await open(script, { background: true })
-  } catch (error) {
-    console.error(error)
-  }
-}
-
-async function redeemSnapFilter(
-  reward: SnapFilterReward,
-  snap: SnapController
-) {
-  const { key } = reward
-  if (!key) return
-
-  try {
-    await snap.toggleSnapFilter(key)
-  } catch (error) {
-    console.error(error)
-  }
-}
-
-async function redeemGiveawayEntry(
-  userName: string,
-  giveaways: GiveawaysController
-) {
-  giveaways.handleNewEntry(userName)
-}
-
-const getToken = async ({
-  clientId,
-  clientSecret,
-}: {
-  clientId: string
-  clientSecret: string
-}) => {
-  const params: Record<string, string> = {
-    client_id: clientId,
-    client_secret: clientSecret,
-    grant_type: "client_credentials",
-  }
-
-  const formBody = []
-  for (const property in params) {
-    const encodedKey = encodeURIComponent(property)
-    const encodedValue = encodeURIComponent(params[property])
-    formBody.push(encodedKey + "=" + encodedValue)
-  }
-  const body = formBody.join("&")
-
-  const response = await fetch("https://id.twitch.tv/oauth2/token", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
-    },
-    body,
-  })
-
-  const { access_token: token } = (await response.json()) as {
-    access_token: string
-  }
-  return token
 }
 
 const listSubscriptions = async ({

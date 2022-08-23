@@ -13,7 +13,7 @@ export default async function handler(
   const { to } = req.query as unknown as Request
 
   try {
-    await res.socket.server.obs.switchScene(to)
+    await res.server.obs.switchScene(to)
   } catch (error) {
     console.error(error)
     res.status(500).end()
