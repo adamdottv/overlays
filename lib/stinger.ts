@@ -188,6 +188,30 @@ export const matthewbrandt1: StingerAnimation = {
   author: "matty_twoshoes",
 }
 
+export const schrew: StingerAnimation<{
+  duration: number
+  startTime: number
+}> = {
+  author: "schrew",
+  initFn: () => ({
+    duration: 4000,
+    startTime: Date.now(),
+  }),
+  stateFn: ({ init, x, y }) => {
+    const calculated_time = Date.now() - init.startTime
+    const time =
+      calculated_time < 0 ? init.duration + calculated_time : calculated_time
+
+    const factor = calculated_time > 1350 ? (Math.sin(y * 0.85) * 80) : 0
+    const distance = Math.sqrt((x - centerX) ** 2 + factor)
+    const index = 4 - Math.ceil((50 - distance) * (time / init.duration) ** 3)
+    const newIndex = index > 0 ? (index < 4 ? index : 4) : 0
+
+    return states[newIndex]
+  },
+  fps: 10,
+}
+
 export const animations: StingerAnimation[] = [
   defaultAnimation,
   // @ts-ignore
@@ -200,4 +224,6 @@ export const animations: StingerAnimation[] = [
   kyllian5,
   // @ts-ignore
   matthewbrandt1,
+  // @ts-ignore
+  schrew,
 ]
