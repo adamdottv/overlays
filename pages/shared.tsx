@@ -1,18 +1,22 @@
 import type { NextPage } from "next"
 import Head from "next/head"
-import React, { useEffect } from "react"
+import React from "react"
 import { useEvent, useQueue, useSocket, useTwitchEvent } from "../hooks"
 import type { TwitchEvent } from "../lib/twitch"
 import { NotifiableTwitchEvent, Notification, Stinger } from "../components"
 import hash from "object-hash"
 import cn from "classnames"
 import { motion, AnimatePresence } from "framer-motion"
+import { delay } from "../lib/utils"
+import { useRouter } from "next/router"
 
 const MAX_NOTIFICATIONS = 2
 const NOTIFICATION_DURATION = 3
 const NOTIFICATION_PANEL_HEIGHT = MAX_NOTIFICATIONS * 100 + 65
 
 const Shared: NextPage = () => {
+  const router = useRouter()
+  const debug = router.query.debug === "true"
   const [transitioning, setTransitioning] = React.useState(false)
 
   const [_, setNotifications, notifications, previous] =
@@ -40,6 +44,22 @@ const Shared: NextPage = () => {
   useEvent<boolean>(socket, "transitioning", (value) => {
     setTransitioning(value)
   })
+
+  const creditAuthor = async (author?: string) => {
+    if (!author || debug) return
+
+    await delay(500)
+
+    // Credit the animation author
+    await fetch("/api/chat", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        announce: true,
+        message: `Transition animation brought to you by @${author}`,
+      }),
+    })
+  }
 
   return (
     <div className="relative h-[1080px] w-[1920px]">
@@ -80,7 +100,7 @@ const Shared: NextPage = () => {
         </AnimatePresence>
       </ul>
 
-      <Stinger transitioning={transitioning} />
+      <Stinger transitioning={transitioning} onTransitioned={creditAuthor} />
     </div>
   )
 }

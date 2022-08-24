@@ -9,6 +9,7 @@ import {
   rows,
   width,
   animations,
+  schrew,
 } from "../lib/stinger"
 import { delay, randomItem } from "../lib/utils"
 
@@ -57,27 +58,20 @@ const Dot: React.FC<DotProps> = ({ top, left, state = "small" }) => {
   }
 }
 
-export const Stinger: React.FC<{ transitioning: boolean }> = ({
+export interface StingerProps {
+  transitioning: boolean
+  onTransitioned?: (author?: string) => void
+}
+
+export const Stinger: React.FC<StingerProps> = ({
   transitioning,
+  onTransitioned,
 }) => {
   const router = useRouter()
   const debug = router.query.debug === "true"
 
   const audioRef = React.useRef<HTMLAudioElement>(null)
   const [dots, setDots] = React.useState<DotProps[][]>([])
-
-  const creditAuthor = async (author: string) => {
-    await delay(500)
-
-    // Credit the animation author
-    await fetch("/api/chat", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        message: `Transition animation brought to you by @${author}`,
-      }),
-    })
-  }
 
   useEffect(() => {
     if (transitioning) audioRef.current?.play()
@@ -101,7 +95,7 @@ export const Stinger: React.FC<{ transitioning: boolean }> = ({
     const { initFn, stateFn, fps, author } = randomItem(animations)
     const init = initFn()
 
-    if (author && transitioning) creditAuthor(author)
+    if (transitioning && onTransitioned) onTransitioned(author)
 
     const intervalHandle = setInterval(() => {
       setDots((dots) => {

@@ -3,6 +3,7 @@ import { NextApiResponseServerIO } from "../../lib"
 
 type Request = {
   message: string
+  announce?: boolean
 }
 
 export default async function handler(
@@ -11,9 +12,11 @@ export default async function handler(
 ) {
   const body = req.body as Request
   const twitch = res.server.twitch
+  const chat = twitch.chatClient!
+  const fn = body.announce ? chat.announce : chat.say
 
   try {
-    twitch.chatClient?.announce(twitch.username, body.message)
+    fn(twitch.username, body.message)
   } catch (error) {
     console.error(error)
   }
