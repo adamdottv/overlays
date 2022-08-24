@@ -13,7 +13,7 @@ export default async function handler(
   const twitch = res.server.twitch
 
   try {
-    twitch.chatClient?.say(twitch.username, body.message, {})
+    twitch.chatClient?.announce(twitch.username, body.message)
   } catch (error) {
     console.error(error)
   }

@@ -10,7 +10,7 @@ import {
   width,
   animations,
 } from "../lib/stinger"
-import { randomItem } from "../lib/utils"
+import { delay, randomItem } from "../lib/utils"
 
 const Dot: React.FC<DotProps> = ({ top, left, state = "small" }) => {
   switch (state) {
@@ -66,6 +66,19 @@ export const Stinger: React.FC<{ transitioning: boolean }> = ({
   const audioRef = React.useRef<HTMLAudioElement>(null)
   const [dots, setDots] = React.useState<DotProps[][]>([])
 
+  const creditAuthor = async (author: string) => {
+    await delay(500)
+
+    // Credit the animation author
+    await fetch("/api/chat", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        message: `Transition animation brought to you by @${author}`,
+      }),
+    })
+  }
+
   useEffect(() => {
     if (transitioning) audioRef.current?.play()
 
@@ -88,16 +101,7 @@ export const Stinger: React.FC<{ transitioning: boolean }> = ({
     const { initFn, stateFn, fps, author } = randomItem(animations)
     const init = initFn()
 
-    if (author && transitioning) {
-      // Credit the animation author
-      fetch("/api/chat", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          message: `Transition animation brought to you by @${author}`,
-        }),
-      })
-    }
+    if (author && transitioning) creditAuthor(author)
 
     const intervalHandle = setInterval(() => {
       setDots((dots) => {

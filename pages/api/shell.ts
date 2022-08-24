@@ -1,6 +1,7 @@
-import type { NextApiRequest, NextApiResponse } from "next"
-import { rewards, ShellScriptReward } from "../../lib/rewards"
+import type { NextApiRequest } from "next"
+import { ShellScriptReward } from "../../lib/rewards"
 import open from "open"
+import { NextApiResponseServerIO } from "../../lib"
 
 interface Request {
   rewardId?: string
@@ -8,10 +9,13 @@ interface Request {
 
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponse
+  res: NextApiResponseServerIO
 ) {
+  const server = res.server
   const { rewardId } = JSON.parse(req.body) as Request
-  const reward = rewards.find((r): r is ShellScriptReward => r.id === rewardId)
+  const reward = server.twitch.rewards.find(
+    (r): r is ShellScriptReward => r.id === rewardId
+  )
   if (!reward) return res.status(400).end()
 
   const { script } = reward

@@ -1,13 +1,14 @@
 import fetch from "node-fetch"
 import { ChatClient, PrivateMessage } from "@twurple/chat"
 import { RefreshingAuthProvider } from "@twurple/auth"
-import { promises as fs } from "fs"
+import { promises as fs, readFileSync, writeFileSync } from "fs"
 import { CustomServer } from "./server"
-import { ShellScriptReward, SnapFilterReward, getReward } from "./rewards"
+import { ShellScriptReward, SnapFilterReward, Reward } from "./rewards"
 import open from "open"
 import SnapController from "./snap"
 import GiveawaysController from "./giveaways"
 import { EventEmitter } from "stream"
+import ObsController, { Scene } from "./obs"
 
 export interface TwitchChatEvent {
   channel: string
@@ -159,12 +160,12 @@ export type TwitchEvent =
 export interface TwitchEventSubscription {
   id: string
   status:
-    | "enabled"
-    | "webhook_callback_verification_pending"
-    | "webhook_callback_verification_failed"
-    | "notification_failures_exceeded"
-    | "authorization_revoked"
-    | "user_removed"
+  | "enabled"
+  | "webhook_callback_verification_pending"
+  | "webhook_callback_verification_failed"
+  | "notification_failures_exceeded"
+  | "authorization_revoked"
+  | "user_removed"
   type: string
   version: string
   condition: { broadcaster_user_id: string }
@@ -176,31 +177,149 @@ export interface TwitchEventSubscription {
   cost: number
 }
 
+import { ApiClient } from "@twurple/api"
 export default class TwitchController extends EventEmitter {
   private server: CustomServer
   private snap: SnapController
   private giveaways: GiveawaysController
+  private obs: ObsController
+  private apiClient?: ApiClient
   private clientId = process.env.TWITCH_CLIENT_ID as string
   private clientSecret = process.env.TWITCH_CLIENT_SECRET as string
   private webhookSecret = process.env.TWITCH_WEBHOOK_SECRET as string
   private callback = process.env.TWITCH_CALLBACK_URL as string
   private userId = process.env.TWITCH_USER_ID as string
   username = process.env.TWITCH_USERNAME as string
+  rewards: Reward[] = []
 
   chatClient?: ChatClient
 
   constructor(
     server: CustomServer,
     snap: SnapController,
-    giveaways: GiveawaysController
+    giveaways: GiveawaysController,
+    obs: ObsController
   ) {
     super()
     this.server = server
     this.snap = snap
     this.giveaways = giveaways
+    this.obs = obs
 
-    this.setupEventSub()
-    this.setupChatBot()
+    this.obs.on("sceneChange", (scene) => this.handleSceneChange(scene))
+
+    this.setup()
+  }
+
+  async setup() {
+    await this.setupApiClient()
+    await this.setupEventSub()
+    await this.setupChatBot()
+    await this.setupRewards()
+  }
+
+  async setupRewards() {
+    const saved = JSON.parse(
+      readFileSync("./rewards.json", {
+        encoding: "utf-8",
+      })
+    ) as Reward[]
+
+    for (const reward of saved) {
+      if (!reward.id) {
+        const response = await this.apiClient?.channelPoints.createCustomReward(
+          this.userId,
+          {
+            title: reward.title,
+            cost: reward.cost,
+            isEnabled: reward.enabled ?? true,
+            maxRedemptionsPerStream: reward.streamMax,
+            maxRedemptionsPerUserPerStream: reward.userMax,
+            autoFulfill: true,
+          }
+        )
+
+        this.rewards.push({
+          ...reward,
+          id: response?.id,
+        })
+      } else {
+        await this.apiClient?.channelPoints.updateCustomReward(
+          this.userId,
+          reward.id,
+          {
+            title: reward.title,
+            cost: reward.cost,
+            isEnabled: reward.enabled ?? true,
+            maxRedemptionsPerStream: reward.streamMax,
+            maxRedemptionsPerUserPerStream: reward.userMax,
+            autoFulfill: true,
+          }
+        )
+
+        this.rewards.push(reward)
+      }
+    }
+
+    writeFileSync("./rewards.json", JSON.stringify(this.rewards))
+  }
+
+  async setupApiClient() {
+    const authProvider = await getAuthProvider()
+    this.apiClient = new ApiClient({ authProvider })
+  }
+
+  async enableRewards() {
+    for (const reward of this.rewards) {
+      if (
+        !reward.id ||
+        (reward.type !== "snap-filter" && reward.type !== "shell")
+      )
+        continue
+
+      const response = await this.apiClient?.channelPoints.updateCustomReward(
+        this.userId,
+        reward.id,
+        {
+          isPaused: false,
+        }
+      )
+      console.log(response)
+    }
+  }
+
+  async disableRewards() {
+    for (const reward of this.rewards) {
+      if (
+        !reward.id ||
+        (reward.type !== "snap-filter" && reward.type !== "shell")
+      )
+        continue
+
+      const response = await this.apiClient?.channelPoints.updateCustomReward(
+        this.userId,
+        reward.id,
+        {
+          isPaused: true,
+        }
+      )
+      console.log(response)
+    }
+  }
+
+  async handleSceneChange(scene: Scene) {
+    switch (scene) {
+      case "Init":
+      case "Intro":
+      case "Break":
+      case "Outro":
+        await this.disableRewards()
+        break
+
+      default:
+        await this.enableRewards()
+        break
+    }
   }
 
   async setupEventSub() {
@@ -295,7 +414,8 @@ export default class TwitchController extends EventEmitter {
   }
 
   async redeem(payload: TwitchChannelRedemptionEvent) {
-    const reward = getReward(payload.event.reward.id)
+    const reward = this.rewards.find((r) => r.id === payload.event.reward.id)
+
     switch (reward?.type) {
       case "shell":
         await this.redeemShell(reward)

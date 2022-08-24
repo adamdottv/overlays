@@ -54,7 +54,8 @@ async function init() {
   const twitchController = new TwitchController(
     server,
     snapController,
-    giveawaysController
+    giveawaysController,
+    obsController
   )
 
   server.ws = wsController
