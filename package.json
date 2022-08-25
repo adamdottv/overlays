@@ -6,7 +6,8 @@
     "dev": "ts-node server.ts",
     "build": "next build",
     "start": "NODE_ENV=production ts-node server.ts",
-    "lint": "next lint"
+    "lint": "next lint",
+    "next": "next dev"
   },
   "dependencies": {
     "@react-hookz/web": "^15.0.1",

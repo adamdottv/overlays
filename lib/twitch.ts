@@ -212,7 +212,9 @@ export default class TwitchController extends EventEmitter {
   }
 
   async setup() {
-    if (!this.clientId) return
+    if (!this.clientId) {
+      console.warn("You haven't setup your Twitch environment variables!")
+    }
 
     await this.setupApiClient()
     await this.setupEventSub()
