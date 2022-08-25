@@ -12,11 +12,11 @@ export default async function handler(
 ) {
   const body = req.body as Request
   const twitch = res.server.twitch
-  const chat = twitch.chatClient!
-  const fn = body.announce ? chat.announce : chat.say
+  // const chat = twitch.chatClient!
+  // const fn = body.announce ? chat.announce : chat.say
 
   try {
-    fn(twitch.username, body.message)
+    res.server.twitch.chatClient?.announce(twitch.username, body.message)
   } catch (error) {
     console.error(error)
   }

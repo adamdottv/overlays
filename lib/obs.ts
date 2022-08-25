@@ -93,7 +93,7 @@ export default class ObsController extends EventEmitter {
       case "Camera (HD)":
       case "Camera (w/ Guest)":
         await Promise.all([
-          toggleLight(false),
+          // toggleLight(false),
           fetch(url(camera1, "setLive")),
           fetch(url(camera2, "setOff")),
           this.setScene(to),
@@ -103,7 +103,7 @@ export default class ObsController extends EventEmitter {
       case "Screen":
       case "Screen (w/ Guest)":
         await Promise.all([
-          toggleLight(true),
+          // toggleLight(true),
           this.setScene(to),
           fetch(url(camera2, "setLive")),
           fetch(url(camera1, "setOff")),

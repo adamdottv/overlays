@@ -9,7 +9,6 @@ import {
   rows,
   width,
   animations,
-  schrew,
 } from "../lib/stinger"
 import { delay, randomItem } from "../lib/utils"
 

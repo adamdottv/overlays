@@ -105,7 +105,7 @@ export const AudioSpectrum: React.FC<AudioSpectrumProps> = ({
           const device = devices.find(
             (d) =>
               d.kind === "audioinput" &&
-              d.label.toLowerCase().startsWith("blackhole")
+              d.label.toLowerCase().startsWith("stream audio")
           )
           const stream = await navigator.mediaDevices.getUserMedia({
             audio: { deviceId: { exact: device?.deviceId } },

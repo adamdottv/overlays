@@ -160,12 +160,12 @@ export type TwitchEvent =
 export interface TwitchEventSubscription {
   id: string
   status:
-  | "enabled"
-  | "webhook_callback_verification_pending"
-  | "webhook_callback_verification_failed"
-  | "notification_failures_exceeded"
-  | "authorization_revoked"
-  | "user_removed"
+    | "enabled"
+    | "webhook_callback_verification_pending"
+    | "webhook_callback_verification_failed"
+    | "notification_failures_exceeded"
+    | "authorization_revoked"
+    | "user_removed"
   type: string
   version: string
   condition: { broadcaster_user_id: string }
@@ -212,6 +212,8 @@ export default class TwitchController extends EventEmitter {
   }
 
   async setup() {
+    if (!this.clientId) return
+
     await this.setupApiClient()
     await this.setupEventSub()
     await this.setupChatBot()
@@ -225,18 +227,23 @@ export default class TwitchController extends EventEmitter {
       })
     ) as Reward[]
 
+    const convertToTwitchReward = (reward: Reward) => {
+      return {
+        title: reward.title,
+        description: reward.description,
+        cost: reward.cost,
+        isEnabled: reward.enabled ?? true,
+        maxRedemptionsPerStream: reward.streamMax,
+        maxRedemptionsPerUserPerStream: reward.userMax,
+        autoFulfill: true,
+      }
+    }
+
     for (const reward of saved) {
       if (!reward.id) {
         const response = await this.apiClient?.channelPoints.createCustomReward(
           this.userId,
-          {
-            title: reward.title,
-            cost: reward.cost,
-            isEnabled: reward.enabled ?? true,
-            maxRedemptionsPerStream: reward.streamMax,
-            maxRedemptionsPerUserPerStream: reward.userMax,
-            autoFulfill: true,
-          }
+          convertToTwitchReward(reward)
         )
 
         this.rewards.push({
@@ -247,21 +254,14 @@ export default class TwitchController extends EventEmitter {
         await this.apiClient?.channelPoints.updateCustomReward(
           this.userId,
           reward.id,
-          {
-            title: reward.title,
-            cost: reward.cost,
-            isEnabled: reward.enabled ?? true,
-            maxRedemptionsPerStream: reward.streamMax,
-            maxRedemptionsPerUserPerStream: reward.userMax,
-            autoFulfill: true,
-          }
+          convertToTwitchReward(reward)
         )
 
         this.rewards.push(reward)
       }
     }
 
-    writeFileSync("./rewards.json", JSON.stringify(this.rewards))
+    writeFileSync("./rewards.json", JSON.stringify(this.rewards, undefined, 2))
   }
 
   async setupApiClient() {

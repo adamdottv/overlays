@@ -1,1 +1,70 @@
-[{"title":"Giveaway Entry","type":"giveaway-entry","cost":500,"enabled":false,"userMax":4,"description":"1x entry into the current giveaway.\n\nDon't redeem unless Adam says you can.","id":"34e8ba74-c215-4daf-bd86-e4742b395795"},{"title":"Rick Roll","type":"shell","script":"./scripts/rick-roll.sh","scene":"Screen","cost":5000,"id":"4cb4876b-f847-4691-806c-07c44ecf9ae1"},{"title":"Ray-Bans","type":"snap-filter","key":"122","cost":500,"id":"3c68234c-ef9c-4a53-8391-711c7201b96f"},{"title":"Animadam","type":"snap-filter","key":"120","cost":500,"id":"b68fde11-4f1a-49e6-b693-5f74278928ee"},{"title":"Deal With It","type":"snap-filter","key":"96","cost":500,"id":"7acdcbd8-c467-432b-ba91-4ef2b42b8ff0"},{"title":"Is that Primeagen?","type":"snap-filter","key":"97","cost":500,"id":"77ee3f54-84c2-464b-a85a-3f351a4bfc2d"},{"title":"Bad Hair Day","type":"snap-filter","key":"98","cost":500,"id":"4fcc2d55-4341-4d36-b277-cba5eecbe9d4"},{"title":"Howdy Partner","type":"snap-filter","key":"100","cost":500,"id":"2a794a99-23e4-480d-ab22-93ce0a170daa"},{"title":"Heart Glasses","type":"snap-filter","key":"101","cost":500,"id":"7b6849f5-2c56-4379-b3ba-39bce59a21d6"}]
+[
+  {
+    "title": "Giveaway Entry",
+    "type": "giveaway-entry",
+    "cost": 500,
+    "enabled": false,
+    "userMax": 4,
+    "description": "1x entry into the current giveaway.\n\nDon't redeem unless Adam says you can.",
+    "id": "34e8ba74-c215-4daf-bd86-e4742b395795"
+  },
+  {
+    "title": "Rick Roll",
+    "type": "shell",
+    "script": "./scripts/rick-roll.sh",
+    "scene": "Screen",
+    "cost": 5000,
+    "id": "4cb4876b-f847-4691-806c-07c44ecf9ae1"
+  },
+  {
+    "title": "Sponsored by Ray-Ban",
+    "type": "snap-filter",
+    "key": "122",
+    "cost": 500,
+    "id": "3c68234c-ef9c-4a53-8391-711c7201b96f",
+    "description": "ADAM IS NOT ENDORSED BY, DIRECTLY AFFILIATED WITH, MAINTAINED, AUTHORIZED, OR SPONSORED BY RAY-BAN. ALL PRODUCT AND COMPANY NAMES ARE THE REGISTERED TRADEMARKS OF THEIR ORIGINAL OWNERS. THE USE OF ANY TRADE NAME OR TRADEMARK IS FOR IDENTIFICATION AND REFERENCE (AND MEME) PURPOSES ONLY AND DOES NOT IMPLY ASSOCIATION WITH THE TRADEMARK HOLDER OF THEIR PRODUCT BRAND. MY LAWYER MADE ME DO THIS."
+  },
+  {
+    "title": "Animadam",
+    "type": "snap-filter",
+    "key": "120",
+    "cost": 1000000,
+    "id": "b68fde11-4f1a-49e6-b693-5f74278928ee"
+  },
+  {
+    "title": "Deal With It",
+    "type": "snap-filter",
+    "key": "96",
+    "cost": 500,
+    "id": "7acdcbd8-c467-432b-ba91-4ef2b42b8ff0"
+  },
+  {
+    "title": "Is that Primeagen?",
+    "type": "snap-filter",
+    "key": "97",
+    "cost": 500,
+    "id": "77ee3f54-84c2-464b-a85a-3f351a4bfc2d"
+  },
+  {
+    "title": "Bad Hair Day",
+    "type": "snap-filter",
+    "key": "98",
+    "cost": 500,
+    "id": "4fcc2d55-4341-4d36-b277-cba5eecbe9d4"
+  },
+  {
+    "title": "Howdy Partner",
+    "type": "snap-filter",
+    "key": "100",
+    "cost": 500,
+    "id": "2a794a99-23e4-480d-ab22-93ce0a170daa"
+  },
+  {
+    "title": "Heart Glasses",
+    "type": "snap-filter",
+    "key": "101",
+    "cost": 500,
+    "id": "7b6849f5-2c56-4379-b3ba-39bce59a21d6",
+    "description": "Where it all began..."
+  }
+]
