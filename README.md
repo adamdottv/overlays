@@ -32,3 +32,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Creating an animation
+
+First, run the server without any unnecessary components with: 
+```bash
+npm run next
+# or
+yarn next dev
+```
+Then, simply create an animation in `lib/stinger.ts`, there's multiple examples already present.
+
+#####To view your animation:
+- Edit the `components/stinger.tsx` to only run your animation. It's random by default.
+- Go to [this](http://localhost:3333/stinger?id=browser&debug=true) localhost path to view it.
