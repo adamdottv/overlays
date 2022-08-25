@@ -39,7 +39,7 @@ First, run the server without any unnecessary components with:
 ```bash
 npm run next
 # or
-yarn next dev
+yarn next
 ```
 Then, simply create an animation in `lib/stinger.ts`, there's multiple examples already present.
 
