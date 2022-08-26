@@ -43,6 +43,6 @@ yarn next
 ```
 Then, simply create an animation in `lib/stinger.ts`, there's multiple examples already present.
 
-#####To view your animation:
+#### To view your animation:
 - Edit the `components/stinger.tsx` to only run your animation. It's random by default.
 - Go to [this](http://localhost:3333/shared?debug=true) localhost path to view it.
