@@ -10,7 +10,7 @@ import {
   width,
   animations,
 } from "../lib/stinger"
-import { delay, randomItem } from "../lib/utils"
+import { randomItem } from "../lib/utils"
 
 const Dot: React.FC<DotProps> = ({ top, left, state = "small" }) => {
   switch (state) {

@@ -1,6 +1,6 @@
-import type { NextApiRequest, NextApiResponse } from "next"
-import { NextApiResponseServerIO } from "../../lib"
-import { Scene } from "../../lib/obs"
+import type { NextApiRequest } from "next"
+import { NextApiResponseServerIO } from "../../../lib"
+import { Scene } from "../../../lib/obs"
 
 interface Request {
   to: Scene

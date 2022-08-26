@@ -52,6 +52,10 @@ export default class ObsController extends EventEmitter {
     this.initObsWebsocket()
   }
 
+  async endStream() {
+    return this.obs.send("StopStreaming")
+  }
+
   async refreshBrowserSource(sourceName: Source) {
     return this.obs.send("RefreshBrowserSource", { sourceName })
   }
@@ -114,7 +118,7 @@ export default class ObsController extends EventEmitter {
         await this.setScene(to)
     }
 
-    await delay(2000)
+    await delay(1000)
     this.wsController.emit("transitioning", false)
   }
 }

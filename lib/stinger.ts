@@ -47,8 +47,8 @@ export const kyllian2: StingerAnimation<{
 }> = {
   author: "KyllianGamer",
   initFn: () => ({
-    duration: 3000,
-    startTime: Date.now() % 3000,
+    duration: 2500,
+    startTime: Date.now() % 2500,
   }),
   stateFn: ({ init, x, y }) => {
     const calculated_time = (Date.now() % init.duration) - init.startTime
@@ -70,8 +70,8 @@ export const kyllian3: StingerAnimation<{
 }> = {
   author: "KyllianGamer",
   initFn: () => ({
-    duration: 3000,
-    startTime: Date.now() % 3000,
+    duration: 2500,
+    startTime: Date.now() % 2500,
   }),
   stateFn: ({ init, x, y }) => {
     const calculated_time = (Date.now() % init.duration) - init.startTime
@@ -95,8 +95,8 @@ export const kyllian4: StingerAnimation<{
 }> = {
   author: "KyllianGamer",
   initFn: () => ({
-    duration: 3000,
-    startTime: Date.now() % 3000,
+    duration: 2500,
+    startTime: Date.now() % 2500,
     phases: 4,
   }),
   stateFn: ({ init, x, y }) => {
@@ -145,8 +145,8 @@ export const kyllian5: StingerAnimation<{
 }> = {
   author: "KyllianGamer",
   initFn: () => ({
-    duration: 3000,
-    startTime: Date.now() % 3000,
+    duration: 2500,
+    startTime: Date.now() % 2500,
     column_values: Array.from({ length: columns }, () =>
       Math.floor(Math.random() * rows)
     ),
@@ -194,7 +194,7 @@ export const schrew: StingerAnimation<{
 }> = {
   author: "schrew",
   initFn: () => ({
-    duration: 4000,
+    duration: 2500,
     startTime: Date.now(),
   }),
   stateFn: ({ init, x, y }) => {
@@ -202,7 +202,7 @@ export const schrew: StingerAnimation<{
     const time =
       calculated_time < 0 ? init.duration + calculated_time : calculated_time
 
-    const factor = calculated_time > 1350 ? (Math.sin(y * 0.85) * 80) : 0
+    const factor = calculated_time > 1350 ? Math.sin(y * 0.85) * 80 : 0
     const distance = Math.sqrt((x - centerX) ** 2 + factor)
     const index = 4 - Math.ceil((50 - distance) * (time / init.duration) ** 3)
     const newIndex = index > 0 ? (index < 4 ? index : 4) : 0

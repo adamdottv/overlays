@@ -4,6 +4,7 @@ import { useEvent, useSocket, useStream } from "../hooks"
 import { AudioSpectrum, Overlay, Grid, BrandMark } from "../components"
 import { fadeAudioOut } from "../lib/audio"
 import React from "react"
+import { delay } from "../lib/utils"
 
 export const Outro: NextPage = () => {
   const audioRef = useRef<HTMLAudioElement>(null)
@@ -17,14 +18,27 @@ export const Outro: NextPage = () => {
   })
 
   useEffect(() => {
-    setTimeout(() => {
+    const timeoutHandle = setTimeout(() => {
       audioRef.current?.play()
+      fetch("/api/twitch/raid", { method: "POST" })
     }, 2000)
+
+    return () => clearTimeout(timeoutHandle)
   }, [])
+
+  const handleAudioOnEnd = async () => {
+    await delay(2000)
+    await fetch("/api/obs/end-stream", { method: "POST" })
+  }
 
   return (
     <Overlay>
-      <audio loop ref={audioRef} id="audio-element" src="/media/theme.wav" />
+      <audio
+        ref={audioRef}
+        id="audio-element"
+        src="/media/theme.wav"
+        onEnded={handleAudioOnEnd}
+      />
       <Grid
         topLeft={<BrandMark />}
         topCenter={

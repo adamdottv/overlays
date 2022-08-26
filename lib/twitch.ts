@@ -1,6 +1,7 @@
 import fetch from "node-fetch"
 import { ChatClient, PrivateMessage } from "@twurple/chat"
 import { RefreshingAuthProvider } from "@twurple/auth"
+import { ApiClient } from "@twurple/api"
 import { promises as fs, readFileSync, writeFileSync } from "fs"
 import { CustomServer } from "./server"
 import { ShellScriptReward, SnapFilterReward, Reward } from "./rewards"
@@ -9,6 +10,7 @@ import SnapController from "./snap"
 import GiveawaysController from "./giveaways"
 import { EventEmitter } from "stream"
 import ObsController, { Scene } from "./obs"
+import { randomItem } from "./utils"
 
 export interface TwitchChatEvent {
   channel: string
@@ -177,7 +179,6 @@ export interface TwitchEventSubscription {
   cost: number
 }
 
-import { ApiClient } from "@twurple/api"
 export default class TwitchController extends EventEmitter {
   private server: CustomServer
   private snap: SnapController
@@ -207,7 +208,6 @@ export default class TwitchController extends EventEmitter {
     this.obs = obs
 
     this.obs.on("sceneChange", (scene) => this.handleSceneChange(scene))
-
     this.setup()
   }
 
@@ -492,6 +492,17 @@ export default class TwitchController extends EventEmitter {
       access_token: string
     }
     return token
+  }
+
+  async raidRandom() {
+    const response = await this.apiClient?.streams.getFollowedStreams(
+      this.userId
+    )
+    const streams = response?.data
+    if (!streams) return
+
+    const randomStream = randomItem(streams)
+    await this.apiClient?.raids.startRaid(this.userId, randomStream.userId)
   }
 }
 
