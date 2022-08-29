@@ -41,7 +41,7 @@ export const defaultAnimation: StingerAnimation = {
   fps: 10,
 }
 
-export const kyllian2: StingerAnimation<{
+export const kyllian1: StingerAnimation<{
   duration: number
   startTime: number
 }> = {
@@ -64,14 +64,14 @@ export const kyllian2: StingerAnimation<{
   fps: 10,
 }
 
-export const kyllian3: StingerAnimation<{
+export const kyllian2: StingerAnimation<{
   duration: number
   startTime: number
 }> = {
   author: "KyllianGamer",
   initFn: () => ({
-    duration: 2500,
-    startTime: Date.now() % 2500,
+    duration: 2000,
+    startTime: Date.now() % 2000,
   }),
   stateFn: ({ init, x, y }) => {
     const calculated_time = (Date.now() % init.duration) - init.startTime
@@ -88,15 +88,15 @@ export const kyllian3: StingerAnimation<{
   fps: 10,
 }
 
-export const kyllian4: StingerAnimation<{
+export const kyllian3: StingerAnimation<{
   duration: number
   startTime: number
   phases: number
 }> = {
   author: "KyllianGamer",
   initFn: () => ({
-    duration: 2500,
-    startTime: Date.now() % 2500,
+    duration: 2000,
+    startTime: Date.now() % 2000,
     phases: 4,
   }),
   stateFn: ({ init, x, y }) => {
@@ -138,15 +138,15 @@ export const kyllian4: StingerAnimation<{
   fps: 10,
 }
 
-export const kyllian5: StingerAnimation<{
+export const kyllian4: StingerAnimation<{
   duration: number
   startTime: number
   column_values: Array<number>
 }> = {
   author: "KyllianGamer",
   initFn: () => ({
-    duration: 2500,
-    startTime: Date.now() % 2500,
+    duration: 2000,
+    startTime: Date.now() % 2000,
     column_values: Array.from({ length: columns }, () =>
       Math.floor(Math.random() * rows)
     ),
@@ -215,13 +215,13 @@ export const schrew: StingerAnimation<{
 export const animations: StingerAnimation[] = [
   defaultAnimation,
   // @ts-ignore
+  kyllian1,
+  // @ts-ignore
   kyllian2,
   // @ts-ignore
   kyllian3,
   // @ts-ignore
   kyllian4,
-  // @ts-ignore
-  kyllian5,
   // @ts-ignore
   matthewbrandt1,
   // @ts-ignore
