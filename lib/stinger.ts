@@ -47,8 +47,8 @@ export const kyllian1: StingerAnimation<{
 }> = {
   author: "KyllianGamer",
   initFn: () => ({
-    duration: 2500,
-    startTime: Date.now() % 2500,
+    duration: 2600,
+    startTime: Date.now() % 2600,
   }),
   stateFn: ({ init, x, y }) => {
     const calculated_time = (Date.now() % init.duration) - init.startTime

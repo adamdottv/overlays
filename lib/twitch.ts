@@ -217,7 +217,7 @@ export default class TwitchController extends EventEmitter {
       return
     }
 
-    await this.setupApiClient()
+    this.setupApiClient()
     await this.setupEventSub()
     await this.setupChatBot()
     await this.setupRewards()
@@ -267,8 +267,8 @@ export default class TwitchController extends EventEmitter {
     writeFileSync("./rewards.json", JSON.stringify(this.rewards, undefined, 2))
   }
 
-  async setupApiClient() {
-    const authProvider = await getAuthProvider()
+  setupApiClient() {
+    const authProvider = getAuthProvider()
     this.apiClient = new ApiClient({ authProvider })
   }
 
@@ -371,7 +371,7 @@ export default class TwitchController extends EventEmitter {
   }
 
   async setupChatBot() {
-    const authProvider = await getAuthProvider()
+    const authProvider = getAuthProvider()
     this.chatClient = new ChatClient({
       authProvider,
       channels: [this.username],
@@ -393,6 +393,8 @@ export default class TwitchController extends EventEmitter {
         if (message.startsWith("!winner") && user === this.username) {
           this.server.giveaways.selectWinner()
         }
+
+        this.emit("new-chat-message", { channel, user, message })
 
         this.server.ws.emit("twitch-chat-event", {
           channel,
@@ -504,12 +506,20 @@ export default class TwitchController extends EventEmitter {
     const randomStream = randomItem(streams)
     await this.apiClient?.raids.startRaid(this.userId, randomStream.userId)
   }
+
+  async getStreamInfo() {
+    return this.apiClient?.streams.getStreamByUserId(this.userId)
+  }
+
+  async getSchedule() {
+    return this.apiClient?.schedule.getSchedule(this.userId)
+  }
 }
 
-export const getAuthProvider = async () => {
+export const getAuthProvider = () => {
   const clientId = process.env.TWITCH_CLIENT_ID as string
   const clientSecret = process.env.TWITCH_CLIENT_SECRET as string
-  const tokenData = JSON.parse(await fs.readFile("./tokens.json", "utf-8"))
+  const tokenData = JSON.parse(readFileSync("./tokens.json", "utf-8"))
 
   return new RefreshingAuthProvider(
     {

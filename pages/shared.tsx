@@ -1,7 +1,14 @@
 import type { NextPage } from "next"
 import Head from "next/head"
-import React from "react"
-import { useEvent, useQueue, useSocket, useTwitchEvent } from "../hooks"
+import React, { useEffect } from "react"
+import {
+  Transcript,
+  useAssemblyAi,
+  useEvent,
+  useQueue,
+  useSocket,
+  useTwitchEvent,
+} from "../hooks"
 import type { TwitchEvent } from "../lib/twitch"
 import { NotifiableTwitchEvent, Notification, Stinger } from "../components"
 import hash from "object-hash"
@@ -18,6 +25,35 @@ const Shared: NextPage = () => {
   const router = useRouter()
   const debug = router.query.debug === "true"
   const [transitioning, setTransitioning] = React.useState(false)
+
+  const transcript = useAssemblyAi()
+  const [lastTranscript, setLastTranscript] = React.useState<
+    Transcript | undefined
+  >()
+  const [lastSentTranscript, setLastSentTranscript] = React.useState<
+    string | undefined
+  >()
+
+  useEffect(() => {
+    if (transcript?.text && transcript?.text !== lastTranscript?.text)
+      setLastTranscript(transcript)
+  }, [transcript, lastTranscript])
+
+  useEffect(() => {
+    if (lastTranscript?.text !== lastSentTranscript) {
+      fetch("/api/store-transcript", {
+        method: "POST",
+        body: JSON.stringify({
+          text: `<transcript>: ${lastTranscript?.text}`,
+        }),
+        headers: { "Content-Type": "application/json" },
+      })
+    }
+
+    setLastSentTranscript(lastTranscript?.text)
+
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [lastSentTranscript, transcript?.timestamp])
 
   const [_, setNotifications, notifications, previous] =
     useQueue<NotifiableTwitchEvent>({

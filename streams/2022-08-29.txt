@@ -1,0 +1,320 @@
+
+
+14:06:08
+adamelmore: this is a test chat message
+
+14:06:30
+caldotjs: some activity
+
+14:06:55
+sirtimme: activate the lurker
+
+14:07:21
+caldotjs: pytorch is treating me bad :(
+
+14:07:29
+<transcript>: 
+
+14:07:34
+brunobmello25: sup
+
+14:07:39
+brunobmello25: !keyboard
+
+14:07:39
+fossabot: Adam uses a custom Mode Eighty mechanical keyboard, and has a collection of other Mode keyboards!
+
+14:09:06
+veidar45: Hi Adam, how are you feeling neovim compared to vscode?
+
+14:09:14
+caldotjs: I am getting out_of_memoried.. :( at least both of our brains are struggling rn :D
+
+14:09:16
+kylliangamer: \o/
+
+14:09:55
+markboots__: adamel4Adambar
+
+14:11:49
+schrew: adamel4Ope
+
+14:15:24
+dirtdriv3r: That's such a clean setup
+
+14:15:30
+caldotjs: wait. you need "b0o/schemastore.nvim" it gives you access to all those (https://www.schemastore.org/json/) schemas. you can plug it into "jsonls" and use it with LSP
+
+14:15:50
+levifig: Overdoing production quality is tight!
+
+14:15:55
+levifig: ;)
+
+14:16:21
+stroopwafel26: overdoing anything is good
+
+14:16:34
+stroopwafel26: except drugs, don't do drugs
+
+14:16:44
+levifig: @stroopwafel26 well, that took a turn :P
+
+14:17:06
+stroopwafel26: how the turn tables
+
+14:17:58
+jenswoeste: is that music dmca free?
+
+14:18:23
+kylliangamer: meow
+
+14:19:31
+<transcript>: undefined
+
+14:21:03
+<transcript>: undefined
+
+14:21:04
+<transcript>: 
+
+14:21:24
+<transcript>: 
+
+14:22:07
+stroopwafel26: I gotta go, have a nice day everyone, good stream @adamelmore
+
+14:22:15
+<transcript>: 
+
+14:22:27
+teej_dv: it's probably because it's not rust?
+
+14:22:35
+adamelmore: jjj
+
+14:22:44
+schrew: kkk
+
+14:22:47
+schrew: OOPS
+
+14:23:03
+schrew: now im gonna be canceled
+
+14:23:37
+caldotjs: sniped & shipped. prepare coffee for the feds
+
+14:24:21
+schrew: ya can't just put three k's in a row in twitch chat
+
+14:24:33
+schrew: that's like rule #1 in twitch's TOS
+
+14:26:27
+levifig: are you just moving to nvim?
+
+14:26:36
+<transcript>: 
+
+14:27:06
+<transcript>: 
+
+14:27:37
+levifig: you're rolling already, congrats ;)
+
+14:28:08
+levifig: I need to get around migrating from Vim to NVim to really take advantage of the LSP and stuff :3
+
+14:28:19
+<transcript>: 
+
+14:29:06
+<transcript>: undefined
+
+14:29:20
+<transcript>: undefined
+
+14:29:21
+<transcript>: interesting what am i missing here
+
+14:30:10
+levifig: don't compare yourself with Prime tho :P
+
+14:30:34
+caldotjs: @levifig & lua *_*
+
+14:30:40
+levifig: the guy is insane with his keyboard mojo
+
+14:30:49
+morbidmiyako: is there a reason to use neovim over using for instance VScode with vim keybindings?
+
+14:30:58
+levifig: yup, that's basically Primeagen
+
+14:31:03
+brunobmello25: prime has a really good video on horizontal navigation using f,F,t and T, and I use a plugin called quickscope that really helps visualizing those keymaps better
+
+14:31:18
+levifig: VSCode with Vim keybinding is painful
+
+14:31:26
+levifig: I use that a bit
+
+14:31:37
+brunobmello25: PDE - Personalized Developer Environment
+
+14:31:49
+levifig: and I'm the most comfortable with Vim keybindings and when trying to use VSC with them it's annoying
+
+14:31:58
+grasp5533: Are you using neovim outside stream as well?
+
+14:31:58
+levifig: yeah, that teej's video was good
+
+14:32:09
+ajukraine: PDE, personal development environment
+
+14:32:56
+morbidmiyako: hmm might invest some time to set up sth like neovim or spacemacs sometime
+
+14:32:59
+morbidmiyako: thx
+
+14:33:05
+teej_dv: yeah, pde is pretty good term Kappa
+
+14:33:14
+ajukraine: ooff, tj's jere
+
+14:33:16
+ajukraine: *here
+
+14:33:28
+teej_dv: that's my term, yayayaya
+
+14:33:35
+levifig: great job on that video btw, @teej_dv 👏
+
+14:33:41
+teej_dv: thanks @levifig
+
+14:34:11
+teej_dv: easier to just refresh
+
+14:34:13
+teej_dv: LUL
+
+14:34:32
+levifig: doesn't it show on 1k increments now?
+
+14:34:44
+ajukraine: i guess, it's "t j" not "teej" @teej_dv ?
+
+14:34:44
+teej_dv: yeah, i'd guess it's more like "eventually consistent sub count"
+
+14:34:51
+teej_dv: @ajukraine either is good
+
+14:35:28
+teej_dv: i would just refresh when it's close and record it on twitch LUL
+
+14:35:30
+caldotjs: yeah, I mean clicking on random links is never something bad, so why not
+
+14:37:15
+levifig: this is the typical programming meme: "No idea why it's working. I have no idea why it's working."
+
+14:38:30
+jenswoeste: you are only setting text if text is defined. Since its undefined it never gets set?
+
+14:41:00
+markboots__: so, just as a recap. The text comes in, you check if the timestamp is different from the previous timestamp. If so, log it. Then allways write the new to previous
+
+14:41:55
+schrew: YEAH BABY
+
+14:43:43
+<transcript>: 
+
+14:44:52
+<transcript>: current text i don't know i'm just kind of different things at this point i'm just guessing
+
+14:45:21
+<transcript>: If current text.
+
+14:45:31
+<transcript>: 
+
+14:45:45
+brunobmello25: my moonlander just arrived :D
+
+14:46:07
+caldotjs: @brunobmello25 we need a review. contemplating to order it since a while
+
+14:46:13
+brunobmello25: been waiting for them for 2 months hehe
+
+14:46:30
+caldotjs: but the advantage360 also looks nice
+
+14:46:42
+brunobmello25: I ordered them and had them ship to spain because my cousin was there, now he came to brazil and brought it to me
+
+14:46:52
+brunobmello25: cheaper than paying import taxes
+
+14:47:17
+andom: Waiting for dygma defy to come out in december and will buy those then
+
+14:48:02
+caldotjs: @Andom also looks nice! why would you take it over the advantage/moonlander
+
+14:48:42
+andom: mostly becuase it has the possibility to tilt the keyboard for more natural hand position
+
+14:52:10
+schrew: *cries in angular*
+
+14:54:06
+<transcript>: this and let's log previous transcript
+
+14:59:53
+kylliangamer: still having transcript issues?
+
+15:00:43
+kylliangamer: I gtg eat, have fun
+
+15:01:48
+uberrick: Hey Adam!
+
+15:01:59
+uberrick: It's a holiday in the UK today and forgot you would be streaming haha
+
+
+15:04:32
+uberrick: oh very nice!
+
+15:04:35
+uberrick: behind the scenes
+
+15:04:52
+jenswoeste: You do a great co-working stream!
+
+15:05:15
+grasp5533: I'm trying to learn the independent consulting secrets
+
+15:05:45
+jenswoeste: I can have you running in the background - sometimes something interesting pops up and you get my attention ;)
+
+15:05:48
+uberrick: Catch you tomorrow!
+
+15:06:32
+markboots__: Was just away a couple of minutes. Just in time to say bye to all! 👋👋
+
+15:07:11
+andom: Bye everyone!

@@ -576,15 +576,15 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
+"@types/recordrtc@^5.6.8":
+  version "5.6.8"
+  resolved "https://registry.yarnpkg.com/@types/recordrtc/-/recordrtc-5.6.8.tgz#5f3acf151061eb2e34633c8112ca3c6b5ab34a6b"
+  integrity sha512-UJQOyTnRXihyKPdUMBur/VxrnXWRCl2AlazwR76mZUc+gnFVfl/MRm5Kz/UtKT7F2l9m4OGwNRyHvy/z765E1w==
+
 "@types/scheduler@*":
   version "0.16.2"
   resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.2.tgz#1a62f89525723dde24ba1b01b092bf5df8ad4d39"
   integrity sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==
-
-"@types/spotify-web-playback-sdk@^0.1.12":
-  version "0.1.14"
-  resolved "https://registry.yarnpkg.com/@types/spotify-web-playback-sdk/-/spotify-web-playback-sdk-0.1.14.tgz#483bd3cf20cecefec565595074cc999382bd4d83"
-  integrity sha512-KDBQwopI5hzM1YRX7L2yPR5/qj9VYD0Jf3cmj5dvs3MGJSbHG3dmLoQodsUqM/hBh/6Hl7Um+vZB3Oeajti8CQ==
 
 "@types/use-sync-external-store@^0.0.3":
   version "0.0.3"
@@ -2454,13 +2454,6 @@ react-is@^16.13.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-spotify-web-playback-sdk@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/react-spotify-web-playback-sdk/-/react-spotify-web-playback-sdk-3.0.1.tgz#b147e0732e62dbd9a9b20eae943875d6b3bc5b0b"
-  integrity sha512-ubhP/SPiFq9ng25OdAOxfFNarraBRnGrFVHUGTbh0hxzSzUvteAtGHifqAsxrY3oWoOJ1vslll0Awg5YqYog/g==
-  dependencies:
-    "@types/spotify-web-playback-sdk" "^0.1.12"
-
 react@18.2.0:
   version "18.2.0"
   resolved "https://registry.yarnpkg.com/react/-/react-18.2.0.tgz#555bd98592883255fa00de14f1151a917b5d77d5"
@@ -2481,6 +2474,11 @@ readdirp@~3.6.0:
   integrity sha512-hOS089on8RduqdbhvQ5Z37A0ESjsqz6qnRcffsMU3495FuTdqSm+7bhJ29JvIOsBDEEnan5DPu9t3To9VRlMzA==
   dependencies:
     picomatch "^2.2.1"
+
+recordrtc@^5.6.2:
+  version "5.6.2"
+  resolved "https://registry.yarnpkg.com/recordrtc/-/recordrtc-5.6.2.tgz#48fc214b35084973ccce82c6251198b5742bc327"
+  integrity sha512-1QNKKNtl7+KcwD1lyOgP3ZlbiJ1d0HtXnypUy7yq49xEERxk31PHvE9RCciDrulPCY7WJ+oz0R9hpNxgsIurGQ==
 
 regenerator-runtime@^0.13.4:
   version "0.13.9"

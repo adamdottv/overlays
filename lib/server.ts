@@ -5,6 +5,7 @@ import ObsController from "./obs"
 import SnapController from "./snap"
 import GiveawaysController from "./giveaways"
 import TwitchController from "./twitch"
+import StreamController from "./stream"
 
 export type CustomServer = NetServer & {
   ws: WsController
@@ -12,6 +13,7 @@ export type CustomServer = NetServer & {
   snap: SnapController
   giveaways: GiveawaysController
   twitch: TwitchController
+  stream: StreamController
 }
 
 export type CustomServerResponse = ServerResponse & {

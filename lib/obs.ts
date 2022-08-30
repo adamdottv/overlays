@@ -1,5 +1,4 @@
 import OBSWebSocket from "obs-websocket-js"
-import { toggleLight } from "../pages/api/kasa"
 import { delay } from "./utils"
 import WsController from "./ws"
 

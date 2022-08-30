@@ -1,12 +1,11 @@
 import type { NextPage } from "next"
 import Head from "next/head"
-import React, { useEffect, useRef } from "react"
+import React, { useEffect } from "react"
 import { useEvent, useSocket, useStream } from "../hooks"
 import type { TwitchChatEvent } from "../lib/twitch"
 import { useRouter } from "next/router"
 import { useLocalStorageValue } from "@react-hookz/web"
 import { AudioSpectrum } from "../components"
-import { fadeAudioOut } from "../lib/audio"
 import { useQuery } from "@tanstack/react-query"
 
 const Home: NextPage = () => {

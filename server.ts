@@ -10,6 +10,7 @@ import WsController from "./lib/ws"
 import SnapController from "./lib/snap"
 import GiveawaysController from "./lib/giveaways"
 import TwitchController from "./lib/twitch"
+import StreamController from "./lib/stream"
 
 loadEnvConfig("./", process.env.NODE_ENV !== "production")
 
@@ -57,12 +58,14 @@ async function init() {
     giveawaysController,
     obsController
   )
+  const streamController = new StreamController(twitchController)
 
   server.ws = wsController
   server.obs = obsController
   server.giveaways = giveawaysController
   server.snap = snapController
   server.twitch = twitchController
+  server.stream = streamController
 }
 
 init()

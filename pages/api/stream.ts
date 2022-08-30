@@ -1,19 +1,16 @@
-import type { NextApiRequest, NextApiResponse } from "next"
-
-import { ApiClient } from "@twurple/api"
-import { getAuthProvider } from "../../lib/twitch"
+import type { NextApiRequest } from "next"
+import { NextApiResponseServerIO } from "../../lib"
 
 export default async function handler(
-  req: NextApiRequest,
-  res: NextApiResponse
+  _req: NextApiRequest,
+  res: NextApiResponseServerIO
 ) {
-  const userId = process.env.TWITCH_USER_ID as string
-  const authProvider = await getAuthProvider()
-  const apiClient = new ApiClient({ authProvider })
-  const stream = await apiClient.streams.getStreamByUserId(userId)
+  const stream = await res.server.twitch.getStreamInfo()
+  const response = await res.server.twitch.getSchedule()
+
   const {
     data: { segments },
-  } = await apiClient.schedule.getSchedule(userId)
+  } = response ?? { data: { segments: [] } }
 
   const { title, startDate: actualStart } = stream || {}
   const schedule = segments.map(({ title, startDate, endDate }) => ({

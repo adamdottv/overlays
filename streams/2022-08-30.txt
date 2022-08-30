@@ -1,0 +1,1450 @@
+-ass
+
+10:14:58
+andom: Howdy HeyGuys
+
+10:15:24
+jaystation3x: Good day!
+
+10:17:18
+stroopwafel26: hello :D
+
+10:18:08
+kylliangamer: yay new music
+
+10:18:53
+stroopwafel26: hey @KyllianGamer how are you today?
+
+10:19:02
+kylliangamer: @stroopwafel26 I'm good hbu
+
+10:19:18
+stroopwafel26: excellent!
+
+10:25:15
+matty_twoshoes: !lurk
+
+10:25:28
+kylliangamer: Adam is here?!
+
+10:25:34
+oleksii_lisovyi: Heyo!
+
+10:26:35
+oleksii_lisovyi: I was wondering if that part of the screen could be removed from the current scene.
+
+10:26:41
+monciego: hello adamm adamel4DealWithIt
+
+10:27:12
+jaystation3x: "Sleep begets sleep" — quote from some baby book I remember from first newborn, 15 years ago.
+
+10:27:29
+oleksii_lisovyi: There is a screen on the right side. It's blurred, but still bothers me.
+
+10:28:02
+kylliangamer: I found this on reddit yesterday, pretty funny: https://www.reddit.com/r/funny/comments/k0u6ig/my_crotch_goblin_realized_today_that_he_can_climb/?utm_source=share&utm_medium=web2x&context=3
+
+10:28:04
+stroopwafel26: it's a nice screen
+
+10:28:26
+oleksii_lisovyi: It's not a big deal, some kind of "improvement", so don't mind much :)
+
+10:28:32
+jaystation3x: On stream today — lens shopping.
+
+10:28:46
+cedpoilly: Hello everyone 👋
+
+10:29:00
+kylliangamer: the "crotch goblin" is his child, dw
+
+10:29:04
+godbless_27: Hello
+
+10:29:14
+renatompf: Hey there @adamelmore how are you today?
+
+10:29:30
+stroopwafel26: an actual todo list?!
+
+10:29:33
+cedpoilly: ced"pwa""lee" 😊
+
+10:29:39
+renatompf: Good as well... Working
+
+10:29:46
+matty_twoshoes: oh that one was mine!!!!!
+
+10:29:55
+oleksii_lisovyi: Are you doing that with SolidJS Kappa ?
+
+10:29:57
+matty_twoshoes: mattyt25Love
+
+10:30:11
+oleksii_lisovyi: You know, some SOLID development.
+
+10:30:52
+monciego: will you check astro? i'm currently learning it
+
+10:30:52
+stroopwafel26: I always create todo lists but then end up not doing anything from the todo list until I can't ignore it anymore MaxLOL
+
+10:31:09
+kylliangamer: Astro?
+
+10:31:13
+oleksii_lisovyi: BTW does any one in here using password manager? I used to use LastPass, but with the latest issue I'm about to move somewhere else. I'm considering 1Password, any comments on this one or any others?
+
+10:31:33
+daeeyy: https://github.com/AstroNvim/AstroNvim?
+
+10:31:35
+wahlstra: https://astro.build
+
+10:31:47
+stroopwafel26: @oleksii_lisovyi 1password has been solid for me for many years
+
+10:32:19
+megadriving: bitwardens the best. open source and free.
+
+10:32:19
+cedpoilly: thanks Adam. that was the French pronunciation. so technically you can now speak French 😆
+
+10:32:44
+megadriving: thanks joshWave
+
+10:32:46
+andom: @oleksii_lisovyi are you talking about last pass randomly adding values to fields?
+
+10:32:57
+keithgnx: +1 for bitwarden
+
+10:33:02
+stroopwafel26: co-driving stream sounds like a great idea, just a case of getting that multi-camera green screen setup in a car
+
+10:33:08
+oleksii_lisovyi: @adamelmore here it's: https://blog.lastpass.com/2022/08/notice-of-recent-security-incident/  You should also get an email – I've got the one.
+
+10:33:08
+jenswoeste: Hey Adam, hey chat!
+
+10:33:22
+keithgnx: Hello 👋🏼
+
+10:33:22
+kylliangamer: so astro is a nextjs replacement?
+
+10:33:31
+cedpoilly: @megadriving is the username a reference to the Mega Drive device?
+
+10:33:40
+oleksii_lisovyi: @oleksii_lisovyi Thanks
+
+10:33:52
+monciego: replacement for gatsby?
+
+10:34:08
+oleksii_lisovyi: @Andom Nope, security issue. The link is above ^
+
+10:34:26
+cedpoilly: Astro is like: static sites + some minor reactivity
+
+10:34:29
+megadriving: @cedpoilly yep
+
+10:34:52
+oleksii_lisovyi: Hot take 🔥
+
+10:35:00
+cedpoilly: any thoughts on Astro + custom elements for interactivity?
+
+10:35:01
+stroopwafel26: Hot Take Tuesday
+
+10:35:45
+kylliangamer: I like how the baby is still on the screen during these hot takes
+
+10:36:26
+cedpoilly: @adamelmore https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements
+
+10:37:25
+stroopwafel26: he's a real pro
+
+10:37:46
+homiecoder: heyo @adamelmore! sup chat peeps!
+
+10:37:48
+godbless_27: Kid is going places
+
+10:38:02
+kylliangamer: he's tearing the place apart
+
+10:38:47
+stroopwafel26: let me add another award to this post
+
+10:38:52
+oleksii_lisovyi: Lovely taehaHeart
+
+10:38:59
+cedpoilly: yeah I wanted full Web components some years ago. Never really became a reality. Not all standards were implement by evergreens last time I checked (I might be outdated)
+
+10:39:33
+oleksii_lisovyi: Just be better Kappa
+
+10:39:37
+stroopwafel26: - [ ] rant about twitter
+
+10:40:12
+kylliangamer: Everyone on Reddit hates everyone, it's not you, dw.
+
+10:41:06
+kylliangamer: There's this meme that sums Reddit up pretty nice: Person A: "I hate myself" Person B: "here join Reddit" Person A: "wow I hate everyone else so much more!"
+
+10:41:20
+stroopwafel26: oh yeah i have an anger management lifehack to share: I put my car in chill mode so it says "chill" in the left-hand corner of the screen all the time as a reminder to myself
+
+10:41:30
+oleksii_lisovyi: @KyllianGamer LUL
+
+10:41:30
+stroopwafel26: follow me for more lifehacks
+
+10:42:58
+oleksii_lisovyi: Already retired Kappa ?
+
+10:43:59
+homiecoder: @stroopwafel26 boss status! real boss don't trip til he has to. homiecoder = proudhomie
+
+10:44:24
+matty_twoshoes: unfortunately no
+
+10:44:37
+adamelmore: adamel4Fuzzy
+
+10:44:41
+matty_twoshoes: stop stream > start stream, delete previous vod
+
+10:44:49
+oleksii_lisovyi: I envy now so badly 😭
+
+10:44:51
+stroopwafel26: adamel4DealWithIt
+
+10:44:53
+matty_twoshoes: only 30 mins
+
+10:45:05
+matty_twoshoes: mostly baby video
+
+10:45:10
+matty_twoshoes: yep.
+
+10:45:21
+matty_twoshoes: in vscode i use an extension.
+
+10:45:22
+daeeyy: ppy streams with about a 20 second delay. Think it's so he can kill the stream for this kind of thing.
+
+10:45:27
+laytanl_: Hey all!
+
+10:45:31
+mjewl: time to script a secret rotator?
+
+10:45:35
+kylliangamer: (Twitch Suggestions at: /UserVoice) "Cut out specific parts of VOD": One of my biggest DMCA concerns is having to delete an entire VOD because of a few minutes of music. Is Twitch working on a way to cut out specific parts of VODs so that we don't have to sacrifice the entire stream? [Votes: 254]
+
+10:46:15
+matty_twoshoes: @KyllianGamer Twitch has ZERO interest in improving vods or clips. All features that they release or develop recently are around streaming.
+
+10:46:43
+homiecoder: wait do all u guys stream?
+
+10:46:54
+homiecoder: is this a chatters stream?
+
+10:47:13
+matty_twoshoes: @daeeyy oh yeah, forgot about that
+
+10:47:14
+kylliangamer: @Matty_TwoShoes I don't think Twitch has ANY interest in listening to their community at all tbh. Most of the time when I see a good idea like that on their UserVoice it has a bunch of upvotes, it's 2+ years old, it's not implemented and has no official reaction.
+
+10:47:26
+laytanl_: :Telescope buffers
+
+10:47:43
+matty_twoshoes: @KyllianGamer yep.
+
+10:48:02
+jenswoeste: hi @Matty_TwoShoes!
+
+10:48:03
+mjewl: I've streamed like twice primeagenHeyy
+
+10:48:11
+matty_twoshoes: @JensWoeste HypeWave
+
+10:49:02
+stroopwafel26: - [ ] rotate all secrets (again)
+
+10:49:18
+matty_twoshoes: so you do know that that blurring the text is also not secure, right? it can be decoded from the video.
+
+10:49:18
+laytanl_: You should create a neovim plugin that automatically fuzzies when you open a .env file, seems like a cool project
+
+10:49:26
+parkour_peter: Hello!
+
+10:50:05
+matty_twoshoes: https://www.hackread.com/underactor-tool-reveal-pixelated-text-expose-data/
+
+10:50:08
+matty_twoshoes: 100%.
+
+10:50:20
+matty_twoshoes: i had a discussion with the author of the tool on twitter.
+
+10:50:37
+parkour_peter: CSI: Miami tech
+
+10:50:37
+matty_twoshoes: it's on Github: https://github.com/bishopfox/unredacter
+
+10:50:50
+laytanl_: The amount of pixelation you have is probably secure
+
+10:50:58
+uberrick: Hey Adam
+
+10:51:00
+kylliangamer: plus adam uses a custom font in most stuff
+
+10:51:05
+stroopwafel26: @laytanl_ this, it doesn't even look like anything anymore
+
+10:51:08
+matty_twoshoes: The author says that NO amount of pixelation is secure.
+
+10:51:10
+uberrick: Yeah I think it's unlikely you can as the blocks are so big
+
+10:51:23
+jenswoeste: we could test it? screenshot a blurrred image and see if we can reverse it? LETSGOOO!
+
+10:51:30
+daeeyy: If it just puts random pixels where there is writing, it should be sequre
+
+10:52:08
+wahlstra: max amount of pixelation is 1 pixel for the whole screen. seems hard to reverse
+
+10:52:24
+cowfacedude99: !today
+
+10:52:24
+fossabot: Building a Twitch overlay in Next.JS
+
+10:52:38
+stroopwafel26: hey @cowfacedude99 \o/
+
+10:52:51
+cowfacedude99: hi @stroopwafel26
+
+10:53:03
+matty_twoshoes: "The bottom line is that when you need to redact text, use black bars covering the whole text. Never use anything else. No pixelization, no blurring, no fuzzing, no swirling. "
+
+10:53:44
+matty_twoshoes: on my stream and many others who deal with code, we've just started hiding the desktop completely.
+
+10:53:50
+matty_twoshoes: okay yeah, smth like this works.
+
+10:53:51
+jaystation3x: And black bars must be burned in. So many stories of bad redaction.
+
+10:54:10
+daeeyy: yeah black bars over pdf text lol
+
+10:54:12
+kylliangamer: time to decode EZ Clap
+
+10:54:13
+matty_twoshoes: this is kind of neat though
+
+10:54:22
+stroopwafel26: It's like you're in Minecraft
+
+10:54:41
+cowfacedude99: wait. did someone break your keys?
+
+10:54:45
+oleksii_lisovyi: Clipped!
+
+10:54:53
+uberrick: decoded it now, you've got OBS open
+
+10:55:06
+matty_twoshoes: LUL
+
+10:55:19
+stroopwafel26: MaxLOL
+
+10:56:42
+homiecoder: saw a vscode ext "cloak" it hashes the values in your env file looks like ansible vault
+
+10:57:18
+jaystation3x: Download vod, delete vod, edit out secrets, play back vod through OBS as a new stream. Good chat would be replaced with confused chat, though.
+
+10:57:23
+matty_twoshoes: I mean the process for harvesting a secret is: 1) go into VOD, find timestamp of secrets shown 2) enlarge the image enough 3) carefully type out the  keys for the service you want 4) actually do something nefarious
+
+10:57:24
+cowfacedude99: that happens a lot.
+
+10:57:24
+homiecoder: i guess that kinda matters haha
+
+10:57:28
+oleksii_lisovyi: https://clips.twitch.tv/OnerousCrypticTruffleBabyRage-19Lwg5GC-0Lb5vr3
+
+10:57:47
+matty_twoshoes: you CAN upload the VOD to twitch again as a video, if you want.
+
+10:57:54
+stroopwafel26: @jaystation3x chat is always confused
+
+10:58:24
+matty_twoshoes: (after cutting out the bit)
+
+10:58:37
+cowfacedude99: prime leaked his credit card last year(or the year before)
+
+10:58:47
+matty_twoshoes: it's true, it happens a LOT on twitch and i have yet to know of a case where it ended up that someone actually used the secrets or whatever stuff
+
+10:59:01
+oleksii_lisovyi: Don't forget to pixel that all!
+
+10:59:03
+matty_twoshoes: tech space on twitch is a nice little sanctum :)
+
+10:59:19
+matty_twoshoes: you should blur this
+
+10:59:23
+homiecoder: hide screen
+
+10:59:24
+jaystation3x: "Twitch is easy"
+
+10:59:26
+stroopwafel26: adamel4Fuzzy
+
+10:59:32
+matty_twoshoes: adamel4Fuzzy
+
+11:00:08
+oleksii_lisovyi: adamel4Fuzzy
+
+11:00:35
+sirtimme: imo all secret stuff should be locked behind a "click to reveal" (like the website should implement it like this)
+
+11:00:39
+uberrick: The only issue with listening to music is I'm currently using your Spotify
+
+11:00:40
+jaystation3x: Yesterday I got a captcha of cats and the instructions were "Click each image containing a cat with large, rounded head."
+
+11:00:42
+kylliangamer: I just decoded that there was something on the screen. The decoder doesn't know what it was, but it knows there was something! I'm getting close!
+
+11:01:10
+uberrick: @jaystation3x that is definitely specific
+
+11:01:13
+oleksii_lisovyi: Somebody's first time watching stream: oh, so much of the pixel art!
+
+11:01:38
+daeeyy: Wondering if you can capture the keyboard keystrokes using the click audio.
+
+11:01:56
+matty_twoshoes: I think you should implement a consent banner via Twitch Extension so we have to accept to watch your "real" stream content.
+
+11:02:12
+matty_twoshoes: @daeeyy yes, it's been done too. Project is on GitHub.
+
+11:02:34
+matty_twoshoes: https://github.com/ggerganov/kbd-audio
+
+11:02:34
+kylliangamer: How would you possibly tell the difference between two keys from audio?
+
+11:02:42
+matty_twoshoes: No idea, but it works.
+
+11:03:03
+daeeyy: different pitch, different time between clicks, since some keys are hit with same finger?
+
+11:03:05
+matty_twoshoes: Even with a crappy mic from a mobile phone
+
+00:50:11
+lukeyfam15: Hey
+
+00:50:31
+keithgnx: I doubt Adam is typing in secrets manually anyway. Now try and hack copy/paste.
+
+00:50:57
+lukeyfam15: What we doing?
+
+00:50:59
+jaystation3x: Time to update the video description.
+
+00:51:58
+uberrick: @jaystation3x never! neovim and twitch overlays for life
+
+00:52:33
+neochromer: Hello hello and good mornign
+
+00:53:42
+matty_twoshoes: would have been worse if someone had spent 1M to bring out adamel4Animadam
+
+00:55:21
+neochromer: test test
+
+00:55:32
+neochromer: woo its working, hello from my terminal
+
+00:55:51
+neochromer: I assume I won't be able to see the emoticons but can't have it all
+
+00:56:56
+neochromer: yeah, there is a IRC client WeChat, can be configured to use twitch with it.. and looks nice, can also join multiple streamers chats
+
+00:57:40
+matty_twoshoes: btw to get to 1M earned points the fastest, even on Tier 3 sub with many raids etc. you're still looking at around 400 hours of watchtime
+
+00:58:23
+matty_twoshoes: that's 50-60 streams easily, so this isn't likely to happen anytime soon. you've got time.
+
+01:04:25
+corfliss: Hello there.
+
+01:04:39
+corfliss: LUL
+
+01:04:48
+godbless_27: LUL
+
+01:06:13
+corfliss: Get some water?
+
+01:06:16
+sirtimme: Positivity syncrosFlower syncrosWiggle
+
+01:06:44
+kylliangamer: Question: how are account specific actions (with http requests) on websites authenticated after the initial login? Does the login return like a session ID or isn't that how it works?
+
+01:08:13
+daeeyy: why are some words on your todo list red underlined?
+
+01:09:36
+kylliangamer: Interesting, thank you adam.
+
+01:13:34
+neochromer: on the topic of JWT
+
+01:13:40
+neochromer: how do you guys invalidate JWTs?
+
+01:13:46
+neochromer: do you blacklist it or something?
+
+01:14:54
+carlosgn: yep
+
+01:15:09
+carlosgn: short expiration time, refresh token and blocklist
+
+01:15:43
+adamelmore: jj
+
+01:16:09
+stroopwafel26: meetings are the worst
+
+01:17:12
+daeeyy: meetings to decide agenda for another meeting are worst
+
+01:17:13
+stroopwafel26: great song this one
+
+01:19:43
+danielgerep: I'm here because of this: https://twitter.com/adamdotdev/status/1564557381467623425
+
+01:20:04
+danielgerep: Not anymore!
+
+01:20:37
+stroopwafel26: meetings about setting up more meetings to talk about other stuff MaxLOL
+
+01:20:56
+danielgerep: Meta meetings, right? hahaha the worse kind!
+
+01:21:06
+stroopwafel26: so meta
+
+01:22:42
+kylliangamer: late nights in the middle of july
+
+01:23:11
+carlosgn: are you happy with neovim?
+
+01:23:48
+matty_twoshoes: @KyllianGamer late nights in the middle of juuuuuuuuune
+
+01:24:53
+stroopwafel26: and having neovim in your stream title gained you about a 1000 followers :P
+
+01:25:52
+stroopwafel26: all neovim
+
+01:28:32
+<transcript>: 
+
+01:28:51
+danielgerep: No sir.
+
+01:30:09
+parkour_peter: Are doing that on client side?
+
+01:29:31
+<transcript>: 
+
+01:28:38
+<transcript>: so start i'm gonna go back here actually and not
+
+01:30:46
+danielgerep: When you have some time, maybe you can add your Github link to the channel description =)
+
+01:30:58
+stroopwafel26: !github
+
+01:30:58
+fossabot: Adam's neovim config lives here: https://github.com/adamelmore/nvim
+
+01:32:48
+danielgerep: Why is there a link to Ozark in the description?
+
+01:33:37
+danielgerep: hahahaha
+
+01:38:59
+stroopwafel26: does :noh work? or is that not a neovim thing?
+
+01:39:12
+kylliangamer: NotLikeThis
+
+01:39:50
+stroopwafel26: clears search highlights
+
+01:39:57
+cowfacedude99: no search highlights
+
+01:40:04
+stroopwafel26: i have it mapped to <esc><esc>
+
+01:40:31
+stroopwafel26: but i'm an oldskool vim user, no neovim for me
+
+01:40:49
+cowfacedude99: @stroopwafel26 I have it on space space
+
+01:41:04
+stroopwafel26: also a good one
+
+01:41:30
+stroopwafel26: I tried vim-ing on a macbook without a physical esc key the other day MaxLOL
+
+01:42:01
+stroopwafel26: "wait, did i hit escape? i did... i think"
+
+01:43:05
+nutlesssquirrel: Can'
+
+01:43:23
+nutlesssquirrel: Can't remeber off the top off my head but cntrl+[ or ] is an escape alternative
+
+01:43:29
+nutlesssquirrel: I like hitting enter before I send a message
+
+01:44:31
+nutlesssquirrel: wait no... before I finish a message. This brain's not working tonight.
+
+01:46:13
+stroopwafel26: some people map escape to caps lock but I never liked doing that
+
+01:47:31
+cowfacedude99: @stroopwafel26 I am one of those. I have caps and esc swapped, so that caps is there when I need it.
+
+01:47:32
+nutlesssquirrel: Yeah that would bug me. I can't stand having the caps light on.
+
+01:47:53
+stroopwafel26: lol same @NutlessSquirrel
+
+01:48:11
+stroopwafel26: anyway, just use a keyboard with an actual escape key :P
+
+01:49:03
+nutlesssquirrel: Use no keybaord and do it all via voice-to-text commands
+
+01:49:21
+cowfacedude99: You won't be able to vim then LUL
+
+01:50:22
+nutlesssquirrel: Just gotta do it at the speed eminem raps at. KEKHeim
+
+01:51:48
+neochromer: every top coding streamer currently on break
+
+01:51:51
+neochromer: are you kidding me haha
+
+01:52:00
+neochromer: Raphael, Jamie, PPY
+
+01:52:03
+nutlesssquirrel: Behind the scenes meeting taking place
+
+01:52:17
+stroopwafel26: all out getting larabars
+
+01:52:37
+oleksii_lisovyi: !pp
+
+01:53:12
+neochromer: lol
+
+01:53:14
+neochromer: so weird
+
+01:54:41
+danielgerep: I'm checking your vim config files, amazing stuff you have there =)
+
+01:54:48
+danielgerep: Copying and pasting like crazy!
+
+01:54:52
+nutlesssquirrel: Hello there
+
+01:55:01
+beardage: damnjuiceHEY morning!
+
+01:55:11
+stroopwafel26: HeyGuys
+
+01:55:41
+oleksii_lisovyi: @adamelmore do you know that Prime finally hit 100k on YT?
+
+01:55:47
+beardage: just put in notice yesterday after getting some helpful advice from adam and the chat last week, pretty excited
+
+01:56:27
+0xvivek: hey
+
+01:56:34
+0xvivek: what's that in your browser
+
+01:56:55
+matheuzfrancisco: Hello!
+
+01:57:12
+matheuzfrancisco: do u like lisp syntax?
+
+01:57:32
+stroopwafel26: @beardage nice, congrats! what's the plan now?
+
+01:57:38
+daneoshiga: crazy stuff plugins do
+
+01:57:54
+athano: hey Adam your equipment list doesn't include your headphones (I think?) can I get their details?
+
+01:57:57
+fragaverage: Are we
+
+01:58:05
+fragaverage: Are we still on overlays? LUL *
+
+01:58:06
+beardage: just accepted a role at a fairly early stage startup with a good amount of equity
+
+01:58:37
+stroopwafel26: @beardage awesome!
+
+01:58:49
+stroopwafel26: you did the thing :D
+
+02:00:06
+kylliangamer: did you end up being #100k?
+
+02:00:11
+purrplish: @beardage Congrats!
+
+02:00:42
+beardage: thanks all!
+
+02:00:48
+athano: What are your thoughts on open ear versus closed ear headphones+(
+
+02:00:50
+athano: ?
+
+02:00:51
+kylliangamer: did you at least subscribe to him yet? 😂
+
+02:01:01
+beardage: oh hey what was that note taking view you have in nvim?
+
+02:01:18
+beardage: trying to nail down which variant of org mode I should use
+
+02:02:30
+rowenwillabus: didn't check in for a few days and look at chu; flying through nvim as I said. 🐐
+
+02:02:38
+stroopwafel26: Open back headphones are not great when you find yourself in an open office space
+
+02:02:46
+athano: I guess you just get more isolation with closed versus open (where you'd just be hearing everything around you as normal)
+
+02:02:50
+mmmint: what do you use to render that?
+
+02:03:13
+beardage: every time I need headphones I go look at headfi dot org, they're the OG audio dudes
+
+02:03:26
+athano: thanks for the advice guys!
+
+02:03:36
+kylliangamer: It's not math, it's meth
+
+02:03:36
+matty_twoshoes: what i did is absolutely not math
+
+02:03:37
+mmmint: but is it divs, canvas or svg?
+
+02:03:43
+stroopwafel26: I use AirPods Max right now as I cannot do any work without noise cancellation.
+
+02:04:14
+mmmint: how's the performance? I would go for canvas for performance
+
+02:04:23
+athano: I had bought the Sony XM4 about a month ago but got really bad ache on the top of my head, so I'm returning them
+
+02:04:28
+purrplish: head-fi is a rabbit hole. Trust me
+
+02:04:34
+purrplish: LUL
+
+02:05:08
+stroopwafel26: @Athano I had that as well but with the Bose 700s, AirPods Max don't hurt in any way luckily
+
+02:05:11
+kylliangamer: It's not complicated math though, it's just distance formulas mainly, like that one on screen right now is just distance from center
+
+02:05:23
+athano: @Athano great to hear!
+
+02:05:50
+stroopwafel26: yeah corded headphones are better for streaming longer periods of time
+
+02:06:11
+homiecoder: ty u all going to sleep nitr all
+
+02:06:23
+stroopwafel26: gn @HomieCoder
+
+02:07:15
+wardcast_: what colour scheme are you using?
+
+02:07:32
+cowfacedude99: didn't you say that you had it covered with meson?
+
+02:07:46
+cowfacedude99: check your null ls config
+
+02:08:09
+stroopwafel26: autostart is set to false?
+
+02:08:10
+kylliangamer: late nights in the middle of juuuuuwnn
+
+02:08:37
+stroopwafel26: @WardCast_ Dracula, more in FAQ below the stream :)
+
+02:08:46
+wardcast_: all right thanks
+
+02:09:21
+athano: depends on your eslint config though
+
+02:09:28
+athano: your rules
+
+02:10:10
+cowfacedude99: I guess it will be in node_modules/.bin/eslint_d
+
+02:10:31
+cowfacedude99: if it is not available outside
+
+02:11:06
+cowfacedude99: drop into the terminal.
+
+02:11:08
+cowfacedude99: LUL
+
+02:11:18
+beardage: Shift I
+
+02:11:23
+beardage: I believe
+
+02:11:49
+theliverr: Is that your own vim config or some predefined one?
+
+02:12:08
+cowfacedude99: it should be eslint filename
+
+02:12:27
+beardage: shift I should show hidden files in nvim tree
+
+02:13:25
+fragaverage: suuuuure
+
+02:13:28
+stroopwafel26: we did it chat
+
+02:16:32
+cowfacedude99: This is why I prefer to install all my node stuff via volta.
+
+02:17:21
+cowfacedude99: volta list is much neater than running through dependency hell with npm/yarn global
+
+02:17:50
+stroopwafel26: is that kinda like pipenv but for node?
+
+02:18:01
+cowfacedude99: sort of.
+
+02:18:07
+stroopwafel26: cool
+
+02:18:39
+cowfacedude99: but it saves everything in package.json which is a pain while working on projects
+
+02:20:12
+cowfacedude99: https://docs.volta.sh/guide/ for anyone interested
+
+02:20:39
+stroopwafel26: gonna try it out for the occasional aws cdk project i do
+
+02:20:43
+christoph0saurus: how did you get eslint working inside your nvim? I was only half paying attention. (sorry)
+
+02:23:02
+christoph0saurus: ah gotcha gotcha. Thanks
+
+02:24:44
+hartjeanaimee: Hey hey chaps
+
+02:29:43
+jenswoeste: next step: dictate code & vim commands.
+
+02:30:31
+ensarrkurt: !vim
+
+02:30:39
+ensarrkurt: !nvim
+
+02:30:42
+ensarrkurt: !neovim
+
+02:30:53
+sirtimme: !github
+
+02:30:53
+fossabot: Adam's neovim config lives here: https://github.com/adamelmore/nvim
+
+02:30:58
+ensarrkurt: Thanks
+
+02:31:02
+sirtimme: ^^
+
+02:32:30
+schrew: Gm adam and chat!
+
+02:32:38
+ensarrkurt: Is it include ts support ?
+
+02:33:51
+adamelmore: jj
+
+02:34:20
+georgieboosh: Just listened to you on screaming in the cloud
+
+02:34:37
+stroopwafel26: The music is now just going through all remixes of heat waves :P
+
+02:36:37
+caldotjs: is the transcript working?
+
+02:37:00
+stroopwafel26: The huge pixels are Dracula themed, love it
+
+02:38:49
+stroopwafel26: maybe disable cache in web inspector as well?
+
+02:39:50
+caldotjs: are you having fun :D ?
+
+02:46:41
+stroopwafel26: he's camera shy
+
+02:46:59
+caldotjs: are you also a "black shirt guy"? I literally only own black t's apart from workout shirts
+
+02:47:28
+matty_twoshoes: https://clips.twitch.tv/LittleTiredBananaPMSTwin-tOg7lffPMLGgOPMb
+
+02:48:17
+laytanl_: Hey Adam, I just created a neovim plugin that replaces your secrets in .env files with stars, want the link?
+
+02:49:46
+stroopwafel26: Today is a day like that, I haven't gotten ANYTHING working and it's driving me nuts
+
+02:50:21
+stroopwafel26: Gotta rename myself to AdamBot
+
+02:50:23
+laytanl_: https://github.com/laytan/cloak.nvim here it is
+
+02:50:26
+matty_twoshoes: today is that day for me too adam, dw
+
+02:50:28
+schrew: yesterday was one of those days... still haven't gotten the tests to pass today :(
+
+02:50:50
+stroopwafel26: @laytanl_ that's really awesome
+
+02:51:35
+stroopwafel26: a README and a .gif!
+
+02:51:48
+laytanl_: Haha it was actually pretty easy with all the neovim niceties
+
+02:51:50
+stroopwafel26: @laytanl_ is the real deal
+
+02:51:59
+laytanl_: Hope it works lol
+
+02:53:56
+laytanl_: Please test while you are in fuzzy
+
+02:54:01
+laytanl_: before it doesn't work
+
+02:54:07
+laytanl_: I would feel ba
+
+02:54:28
+ogjake: Cloak.lua not .nvim
+
+02:56:34
+laytanl_: No it's virtual text
+
+02:56:55
+laytanl_: Like lsp diagnostics but it's overlayed instead of at the end
+
+02:56:57
+caldotjs: same thing as the LSP information
+
+02:57:06
+caldotjs: oh. @laytanl_ beat me to it
+
+02:58:00
+lordmunta: hi o/
+
+02:58:03
+laytanl_: Haha thanks!
+
+02:58:19
+stroopwafel26: the code is super clean too
+
+02:58:25
+stroopwafel26: love it
+
+02:58:32
+caldotjs: imagine he implemented something that the virtual text isn't shown every nth time :>
+
+02:58:40
+stroopwafel26: lol
+
+02:59:07
+matty_twoshoes: oh adam, you're so naïve...you will still most definitely leak secrets again LUL
+
+02:59:47
+laytanl_: I also wanted to do this in the telescope preview but couldn't figure it out, so be carefull with that
+
+02:59:49
+absenth762: Now I want this for pair programming on Zoom. :)
+
+03:00:18
+caldotjs: don't forget to star his repo kids
+
+03:00:27
+jakobthesoftwareengineer: Hey man first watching your stream and enjoy it a lot! But I have a question, do you have any experience using Vim for Java development? (starting my first full time job out off uni in 2 weeks and they are a java shop)
+
+03:00:28
+stroopwafel26: @caldotjs way ahead of you
+
+03:01:29
+schrew: i use vim plugin for intellij for java development because I'm a pleb
+
+03:01:30
+stroopwafel26: Java should be written in IntelliJ change my mind
+
+03:01:31
+caldotjs: I heard that the JetBrains stuff is hard to beat on Java Dev
+
+03:01:41
+caldotjs: @stroopwafel26 ^ this
+
+03:01:43
+schrew: consensus reached, LUL
+
+03:01:49
+lampel_: IntelliJ is much better for java then vim
+
+03:02:38
+stroopwafel26: maybe another adamel4Adambar will solve all of your issues
+
+03:04:01
+absenth762: introducing me to cloak.nvim alone is worthy of a follow.  :)
+
+03:06:27
+cowfacedude99: (another 30 min later)... everything is working!!!! why is it working?????
+
+03:09:13
+stream_kyle: Fun fact: Today is Frankenstein Day
+
+03:09:17
+kylliangamer: hey I'm back, did you fix the transcribing?
+
+03:09:22
+cowfacedude99: TIE.....
+
+03:09:46
+kylliangamer: "Should I press on"?
+
+03:09:58
+stream_kyle: Frankenstein Day is apparently just Mary Shelley's birthday.
+
+03:10:22
+kylliangamer: they're making you continue to suffer?
+
+03:12:36
+stroopwafel26: oh hey @laytanl_ is Dutch
+
+03:14:29
+laytanl_: Yeah I am!
+
+03:15:04
+laytanl_: I could guess that someone named 'stroopwafel' is Dutch lol
+
+03:15:36
+kylliangamer: I'm from the Dutch part of Belgium
+
+03:15:36
+stroopwafel26: @laytanl_ it's true
+
+03:19:30
+markboots__: Hey guys, late today. What are we up too?
+
+03:19:43
+stroopwafel26: Hey Bark Moots
+
+03:19:44
+kylliangamer: Adam being a bad boy
+
+03:19:51
+markboots__: as allways ;)
+
+03:20:14
+kylliangamer: @MarkBoots__ Suffering
+
+03:20:22
+caldotjs: DDOSing the assemlby ai api
+
+03:20:35
+markboots__: evil chat
+
+03:20:39
+stroopwafel26: @MarkBoots__ full on agony
+
+03:21:29
+kylliangamer: Lol sometimes your key logger doesn't log in the right order, just now you typed "much" and it logged "mcuh"
+
+03:21:39
+caldotjs: is there an option to only show the keystrokes when a specific app is in focus? would be good to only show it for the console
+
+03:22:11
+schrew: Nah, it logged it correctly. You deleted thrice and then retyped "uch"
+
+03:22:42
+markboots__: adamel4DealWithIt adamel4Fuzzy they got through too. yeay
+
+03:23:27
+danielgerep: I thought the bad hair would be added, not replace, sorry.
+
+03:23:31
+charliec97: No worries!
+
+03:24:19
+stroopwafel26: Support chat seems pretty great so far
+
+03:24:19
+adamelmore: https://github.com/laytan/cloak.nvim
+
+03:24:58
+kylliangamer: nice
+
+03:25:02
+stream_kyle: A+
+
+03:25:16
+markboots__: nice!!! way to go @laytanl_
+
+03:25:56
+pat_kot: hello, adam
+
+03:27:47
+privann: Helllo
+
+03:28:22
+charliec97: looks like an OBS issue :/
+
+03:28:57
+charliec97: Ohhh, I see
+
+03:29:08
+privann: Just had a really fun bug. So I am building banking integrations. And we send a lot of data. and today I had a bug where the sessions was terminated as the bank wanted me to add 2 digits and required it. So sending 5 (as 5 $) was not ok, the banked wanted me to send (5.00 $).
+
+03:29:19
+kylliangamer: @adamelmore also I think I'm going to change my animations so they are timed differently so it's no longer a perfect (like a timeout period of it being blank) otherwise I'm never gonna be able to perfectly time them
+
+03:29:19
+privann: If I would get a error code would everything work :)
+
+03:29:21
+privann: but noop
+
+03:29:33
+kylliangamer: a perfect loop*
+
+03:29:35
+neochromer: why do you have HEX as console logs
+
+03:33:16
+laytanl_: F
+
+03:33:27
+nullchefo: F
+
+03:33:34
+stroopwafel26: he back
+
+03:33:37
+schrew: @KyllianGamer I noticed that with some of your transitions, thought it was a neat way to "seed" the animations, but you're right it does interfere with timing
+
+03:33:44
+stroopwafel26: no audio
+
+03:34:10
+pat_kot: cant hear u
+
+03:34:11
+laytanl_: Yep can't hear you
+
+03:34:21
+caldotjs: :(
+
+03:34:23
+stroopwafel26: no audio at all, no adam no spotify
+
+03:34:28
+pat_kot: send us a tutorial on lip reading
+
+03:34:43
+schrew: when we needed transcription the most, he disappeared
+
+03:34:59
+privann: oh wait is this a sign language session
+
+03:35:23
+laytanl_: He doesn't believe us lol
+
+03:35:29
+schrew: LUL silent mad adam
+
+03:35:30
+stroopwafel26: adamslowlygettingcrazy.mov
+
+03:35:33
+adamelmore: i didn't believe you
+
+03:35:35
+adamelmore: but i do now lol
+
+03:35:47
+markboots__: !topic Pro Twitch Streamer Flexing His Skills
+
+03:35:53
+stream_kyle: The trust is that far gone...
+
+03:35:53
+stroopwafel26: did your audio router crash?
+
+03:36:03
+schrew: LUL LUL LUL
+
+03:36:07
+adamelmore: no idea
+
+03:36:09
+adamelmore: obs shows bars moving
+
+03:36:12
+adamelmore: going to restart again
+
+03:36:12
+adamelmore: fml
+
+03:36:14
+laytanl_: This is too funny
+
+03:36:14
+stroopwafel26: you should just git reset HEAD at this point :D
+
+03:36:22
+danielgerep: Restart everything =) The best solution.
+
+03:36:27
+markboots__: "Did you try switching of and on again"
+
+03:36:29
+pat_kot: @stroopwafel26 --hard LOL
+
+03:36:36
+pat_kot: NotLikeThis
+
+03:36:53
+privann: @adamelmore https://snipboard.io/n8sYZD.jpg
+
+03:36:54
+schrew: just clipped that, and that had audio... which is odd
+
+03:36:57
+stroopwafel26: also don't forget about the nice support person :P
+
+03:36:57
+schrew: https://clips.twitch.tv/create
+
+03:37:40
+adamelmore: alright, going to call it today
+
+03:37:41
+noobita_xd: is it me or the audio is muted?
+
+03:37:44
+adamelmore: too painful
+
+03:37:46
+stroopwafel26: is it not the audio router app?
+
+03:37:51
+pat_kot: I love these new age streams without audio
+
+03:37:55
+adamelmore: obs says it's getting audio
+
+03:37:59
+pat_kot: Where one can use his own music and imagine the conversations
+
+03:38:01
+laytanl_: So peacefull
+
+03:38:03
+noobita_xd: ahahaha
+
+03:38:06
+adamelmore: going to git revert and enjoy my day lol
+
+03:38:08
+schrew: twitch is getting audio, because your clip had audio...
+
+03:38:14
+privann: Oh i fortgott i had music on
+
+03:38:16
+adamelmore: maybe we could do it again sometime, later all!
+
+03:38:22
+pat_kot: byebye!
+
+03:38:23
+stroopwafel26: till tomorrow adam
+
+03:38:23
+markboots__: Animations getting the attention they deserve
+
+03:38:27
+schrew: Bye adam! enjoy your day!
+
+03:38:27
+laytanl_: See you!
+
+03:38:35
+stroopwafel26: you'll figure it out
+
+03:39:00
+markboots__: Tomorrow another day. Get some relax time
+
+03:39:42
+kylliangamer: bye
+
+16:41:18
+<transcript>: All right. This is the test of transcription.
+
+16:41:22
+<transcript>: This transcription working.
+
+16:41:44
+<transcript>: Is Transcription working.
+
+16:42:01
+<transcript>: Those trendscription, work.
+
+16:42:36
+<transcript>: How well is the simply AI picking up my voice and transcribing it.
