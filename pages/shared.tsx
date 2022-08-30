@@ -40,7 +40,7 @@ const Shared: NextPage = () => {
   }, [transcript, lastTranscript])
 
   useEffect(() => {
-    if (lastTranscript?.text !== lastSentTranscript) {
+    if (!debug && lastTranscript?.text !== lastSentTranscript) {
       fetch("/api/store-transcript", {
         method: "POST",
         body: JSON.stringify({
@@ -53,7 +53,7 @@ const Shared: NextPage = () => {
     setLastSentTranscript(lastTranscript?.text)
 
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [lastSentTranscript, transcript?.timestamp])
+  }, [lastSentTranscript, transcript?.timestamp, debug])
 
   const [_, setNotifications, notifications, previous] =
     useQueue<NotifiableTwitchEvent>({
