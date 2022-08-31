@@ -9,11 +9,13 @@ export interface Transcript {
   text: string
 }
 
-export const useAssemblyAi = () => {
+export const useAssemblyAi = (debug: boolean = false) => {
   const [transcript, setTranscript] = React.useState<Transcript>()
 
   useEffect(() => {
     const run = async () => {
+      if (debug) return
+
       if (!socket) {
         const RecordRTC = (await import("recordrtc")).default
         const response = await fetch("/api/assembly-ai", { cache: "no-cache" })
@@ -92,7 +94,7 @@ export const useAssemblyAi = () => {
     }
 
     run()
-  }, [])
+  }, [debug])
 
   return transcript
 }

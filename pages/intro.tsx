@@ -1,5 +1,9 @@
 /* eslint-disable @next/next/no-img-element */
-import type { NextPage } from "next"
+import type {
+  GetServerSideProps,
+  InferGetServerSidePropsType,
+  NextPage,
+} from "next"
 import { ComponentProps, useEffect, useRef, useState } from "react"
 import { useStream, UseStreamResponse } from "../hooks"
 import cn from "classnames"
@@ -14,19 +18,30 @@ import {
 import { fadeAudioOut } from "../lib/audio"
 import React from "react"
 import metadata from "../stream.json"
-import { useRouter } from "next/router"
+import { getStreamInfo } from "./api/stream"
+import { NextApiResponseServerIO } from "../lib"
 
 const AUDIO_FADE_LENGTH = 5 * 1000
 const LOADING_INTERVAL = 200
 
-export const Intro: NextPage = () => {
-  const router = useRouter()
-  const debug = router.query.debug === "true"
+export const getServerSideProps: GetServerSideProps = async (context) => {
+  const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
+  const stream = JSON.parse(JSON.stringify(rawStream))
 
+  return {
+    props: {
+      stream,
+      debug: context.query.debug === "true",
+    },
+  }
+}
+
+function Intro({
+  debug,
+  stream,
+}: InferGetServerSidePropsType<typeof getServerSideProps>) {
   const [showTitleScreen, setShowTitleScreen] = useState(false)
-
   const audioRef = useRef<HTMLAudioElement>(null)
-  const stream = useStream()
 
   const handleClockStart = React.useCallback(() => {
     setTimeout(() => {
@@ -48,7 +63,7 @@ export const Intro: NextPage = () => {
         ref={audioRef}
         id="audio-element"
         src="/media/theme-lofi.wav"
-      // src="/media/theme-piano-stem.mp3"
+        // src="/media/theme-piano-stem.mp3"
       />
       {showTitleScreen ? (
         metadata.mode === "guest" ? (

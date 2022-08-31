@@ -1,4 +1,8 @@
-import type { NextPage } from "next"
+import type {
+  GetServerSideProps,
+  InferGetServerSidePropsType,
+  NextPage,
+} from "next"
 import Head from "next/head"
 import React, { useEffect } from "react"
 import {
@@ -15,18 +19,25 @@ import hash from "object-hash"
 import cn from "classnames"
 import { motion, AnimatePresence } from "framer-motion"
 import { delay } from "../lib/utils"
-import { useRouter } from "next/router"
 
 const MAX_NOTIFICATIONS = 2
 const NOTIFICATION_DURATION = 3
 const NOTIFICATION_PANEL_HEIGHT = MAX_NOTIFICATIONS * 100 + 65
 
-const Shared: NextPage = () => {
-  const router = useRouter()
-  const debug = router.query.debug === "true"
+export const getServerSideProps: GetServerSideProps = async (context) => {
+  return {
+    props: {
+      debug: context.query.debug === "true",
+    },
+  }
+}
+
+function Shared({
+  debug,
+}: InferGetServerSidePropsType<typeof getServerSideProps>) {
   const [transitioning, setTransitioning] = React.useState(false)
 
-  const transcript = useAssemblyAi()
+  const transcript = useAssemblyAi(debug)
   const [lastTranscript, setLastTranscript] = React.useState<
     Transcript | undefined
   >()

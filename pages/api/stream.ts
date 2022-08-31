@@ -1,10 +1,7 @@
 import type { NextApiRequest } from "next"
 import { NextApiResponseServerIO } from "../../lib"
 
-export default async function handler(
-  _req: NextApiRequest,
-  res: NextApiResponseServerIO
-) {
+export const getStreamInfo = async (res: NextApiResponseServerIO) => {
   const stream = await res.server.twitch.getStreamInfo()
   const response = await res.server.twitch.getSchedule()
 
@@ -24,7 +21,7 @@ export default async function handler(
   const { startDate: scheduledStart } = currentScheduledStream || {}
   const { startDate: nextStart } = nextScheduledStream || {}
 
-  res.status(200).json({
+  return {
     current: {
       active: !!stream,
       title,
@@ -37,5 +34,13 @@ export default async function handler(
       scheduledStart: nextStart,
     },
     schedule,
-  })
+  }
+}
+
+export default async function handler(
+  _req: NextApiRequest,
+  res: NextApiResponseServerIO
+) {
+  const stream = await getStreamInfo(res)
+  res.status(200).json(stream)
 }

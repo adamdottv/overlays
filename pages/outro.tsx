@@ -1,14 +1,28 @@
-import type { NextPage } from "next"
+import type { GetServerSideProps, InferGetServerSidePropsType } from "next"
 import { useEffect, useRef } from "react"
-import { useEvent, useSocket, useStream } from "../hooks"
+import { useEvent, useSocket } from "../hooks"
 import { AudioSpectrum, Overlay, Grid, BrandMark } from "../components"
 import { fadeAudioOut } from "../lib/audio"
 import React from "react"
 import { delay } from "../lib/utils"
+import { getStreamInfo } from "./api/stream"
+import { NextApiResponseServerIO } from "../lib"
 
-export const Outro: NextPage = () => {
+export const getServerSideProps: GetServerSideProps = async (context) => {
+  const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
+  const stream = JSON.parse(JSON.stringify(rawStream))
+
+  return {
+    props: {
+      stream,
+    },
+  }
+}
+
+function Outro({
+  stream,
+}: InferGetServerSidePropsType<typeof getServerSideProps>) {
   const audioRef = useRef<HTMLAudioElement>(null)
-  const stream = useStream()
 
   const { socket } = useSocket()
   useEvent(socket, "fade-audio-out", async () => {
