@@ -3455,3 +3455,6513 @@ stroopwafel26: @caldotjs any way to open url's in my default browser in alacritt
 
 01:04:46
 <transcript>: The word Roblox is so familiar. Okay, we fixed our.
+
+01:04:49
+<transcript>: Overlay. We're not touching it again.
+
+01:04:49
+<transcript>: get add
+
+01:04:51
+lukeyfam15: Roblox a game
+
+01:04:51
+<transcript>: Get, add it, commit.
+
+01:05:00
+<transcript>: Do we want to get ignore the transcripts? Should I be checking in the transcripts? I'm gonna check them in. We might decide to just remove them from the repo at some point.
+
+01:05:07
+<transcript>: Fix date format issues. I think I think that's what it takes.
+
+01:05:16
+<transcript>: Okay. We're gonna push that. We're not gonna think about it again. We're gonna close the overlay with one other thing I had to do in the overlays. Oh, well.
+
+01:05:25
+<transcript>: There is the OBS 28 things I really would love to move to OBS 28, but we're just not gonna do it right now, so I'm just gonna shelf that.
+
+01:05:37
+<transcript>: Okay, so in this, we're gonna fix our neovem config. There's a few things here I'm very excited to do. I'm very excited to get surround into my brain. I want to start using invents around.
+
+01:05:37
+<transcript>: in my brain
+
+01:05:39
+<transcript>: In my brain.
+
+01:05:39
+<transcript>: and
+
+01:05:46
+jaystation3x: My wife calls it Road Blocks just to troll our kids. I love her.
+
+01:05:48
+<transcript>: And so like, I need to learn what the key maps are and such. Also, I want to add text objects. That's the next plugin that we're excited to add and learn.
+
+01:05:50
+caldotjs: @stroopwafel26 thats weird. if I "echo https://www.twitch.tv/adamelmore" I can click it in alacritty while pressing cmd and it opens
+
+01:05:53
+<transcript>: Okay, Roblox is a game good to know.
+
+01:05:56
+<transcript>: Well, I've called it roadblocks.
+
+01:05:58
+<transcript>: i'm glad
+
+01:05:58
+<transcript>: That's funny.
+
+01:06:00
+rapscallionreaves: came
+
+01:06:01
+<transcript>: I'm glad you love your wife. Jake. Station.
+
+01:06:03
+<transcript>: Okay.
+
+01:06:05
+rapscallionreaves: *same
+
+01:06:08
+<transcript>: It'll come back Tober so if you order well, now you're making me want to order something.
+
+01:06:14
+<transcript>: Your Dactyl will come by October. Okay. So. But somebody said there's a.
+
+01:06:14
+<transcript>: macane
+
+01:06:17
+<transcript>: Macanese is 360 drop tomorrow that's the PRImage.
+
+01:06:21
+<transcript>: In.
+
+01:06:21
+<transcript>: keyboard
+
+01:06:23
+<transcript>: Keyboard, right.
+
+01:06:23
+<transcript>: but prime
+
+01:06:24
+<transcript>: But prime uses.
+
+01:06:34
+<transcript>: Guys going to make me want to buy another keyboard. I just don't. I don't think I can do the sleep keyboard thing, but prime is also the coolest.
+
+01:06:34
+stroopwafel26: @stroopwafel26 figured it out "mouse: hints: launcher: open"
+
+01:06:38
+developmentrobot: actually it's not a drop it's the official sale that starts tomorrow, on the kinesis site
+
+01:06:42
+<transcript>: So Where's the drop? Who says there's a developmental robot? Where is this drop? Where is it.
+
+01:06:45
+<transcript>: When is it happening.
+
+01:06:51
+<transcript>: I can click in it while pressing. Create it opens.
+
+01:06:58
+<transcript>: It's not a drop at the official sale that starts tomorrow on the Kinesis site. Okay.
+
+01:07:01
+jaystation3x: small-d drop
+
+01:07:01
+<transcript>: Not drop calm when you said drop.
+
+01:07:01
+<transcript>: kinesis
+
+01:07:02
+<transcript>: Kinesis.
+
+01:07:04
+charkles09: Look at the moonlander, just bought it :O
+
+01:07:05
+developmentrobot: my bad
+
+01:07:05
+<transcript>: Sale.
+
+01:07:05
+<transcript>: just trying
+
+01:07:11
+<transcript>: Just trying to find their website. Kinesis. Ergo. So you're saying this thing, they're gonna have a limited. Let's see.
+
+01:07:11
+<transcript>: whoo
+
+01:07:15
+<transcript>: Whoo what is going on? They're gonna start selling it tomorrow.
+
+01:07:15
+<transcript>: they've been not
+
+01:07:19
+sparringwithbear: prime coding on this thing looks like a santana solo
+
+01:07:24
+<transcript>: They've been not selling it. Did they run out that's the thing about mechanical keyboard, keyboard. You get into this hobby and you find out there's no, just buying things.
+
+01:07:24
+<transcript>: you you
+
+01:07:30
+<transcript>: You you order things, and then you wait months or years for the things. Oh, getting Rick rolled.
+
+01:07:37
+<transcript>: so
+
+01:07:37
+<transcript>: Luki with the Rick Roll Prime coating on this thing. Looks like a Santana solo. Yeah, he's so good.
+
+01:07:39
+<transcript>: So good.
+
+01:07:42
+jenswoeste: I suspect your brain needs to be wired in a certain way to be able to use the kinesis360 LUL
+
+01:07:46
+<transcript>: Prime is the best. I didn't know about prime before I jumped on Twitch small D drop. Yeah.
+
+01:07:49
+rapscallionreaves: I want to solder a keyboard
+
+01:08:01
+levifig: Prime on a Kinesis and Vim is R I D I C U L O U S
+
+01:08:06
+<transcript>: I didn't know about prime until I started streaming, and I think I had done, like, two streams. And then it was like, just Perusing, Twitch and like, Whoa, who's this in software and development that has a thousand people watching them. It was prime, and my mind was blown. If I had known about prime before that, I would have started streaming a long time ago, because.
+
+01:08:08
+<transcript>: The guy is an inspiration.
+
+01:08:14
+lukeyfam15: We not buying a keyboard. 😂
+
+01:08:18
+cedpoilly: I feel like I could strap that kinesis keyboard to each hand and type while I'm walking around. Is that a typical use case or is it just me? 🤔
+
+01:08:26
+<transcript>: When a solder a keyboard? Yeah, I've not done the soldering. I'll be honest, I've only done hotswappable. Does that make me, like a not really into it. Mechanical keyboard guy. I'm just, like dipping my toes in to the mechanical keyboard waters. I just like them to sound good, and I like them to look good.
+
+01:08:26
+<transcript>: i don't
+
+01:08:28
+<transcript>: I don't necessarily.
+
+01:08:28
+<transcript>: need like
+
+01:08:38
+levifig: same: hotswap here
+
+01:08:38
+cowfacedude99: @rapscallionreaves been there. not fun. I stopped working on mine after 6 months and ordered one LUL
+
+01:08:43
+<transcript>: Need like a really long and whatever arduous build process if I can just build it or have it built for me mode actually built the one I'm using now for me which was fantastic. I don't know if they'll ever do that again for me, but.
+
+01:08:43
+<transcript>: they they did
+
+01:08:46
+<transcript>: They they did. They built this one. It sounds amazing.
+
+01:08:46
+<transcript>: and i don't want
+
+01:08:49
+sparringwithbear: what about the feel good ? i think its as important
+
+01:08:51
+<transcript>: so
+
+01:08:51
+<transcript>: And I don't want to touch it and all my others that I built don't sound so great.
+
+01:09:00
+<transcript>: So I don't need those tabs. No. But I don't need that either. I don't need my email, don't need my calendar. Or that where that or any of this. I don't need it.
+
+01:09:04
+<transcript>: Oh why default the Google let's try not the best site to go to by default.
+
+01:09:04
+<transcript>: they like listen
+
+01:09:05
+levifig: got myself a keychron q1, did the tape mod, changed the plate, relubed the stabilizers… and I'm good
+
+01:09:06
+<transcript>: They like, listen to everything.
+
+01:09:06
+<transcript>: they know what's going
+
+01:09:09
+<transcript>: They know what's going on. What I want to go to.
+
+01:09:11
+caldotjs: soldering is the real thing. you commit to the switches :D
+
+01:09:13
+levifig: it's sounding good
+
+01:09:15
+puccababy: Finally convinced work to give me a new macbook... so I'm embracing being mobile again... sorta missing my mechanical keyboard
+
+01:09:16
+caldotjs: + its fun
+
+01:09:16
+<transcript>: Twitch we want to go back to Kinesis Advantage 360 because I want to know.
+
+01:09:16
+<transcript>: am i buying
+
+01:09:20
+<transcript>: Am I buying this tomorrow? Am I doing? I.
+
+01:09:20
+<transcript>: on sales
+
+01:09:31
+<transcript>: On sales for a second. See, I'm also really into, like, you have to be there first kind of thing, like, I'm really into these, like, limited run things where you gotta be fast.
+
+01:09:31
+<transcript>: initial quant
+
+01:09:35
+<transcript>: Initial quantities are let me expect that fairly quickly. So act fast.
+
+01:09:35
+<transcript>: the moment
+
+01:09:40
+<transcript>: The moment when it goes on sale orders will be processed and shipped throughout the month of September, September.
+
+01:09:49
+<transcript>: Oh, it's only it's not international. Are they based in the US? You can only buy these in the US. So that when I'm here right now.
+
+01:09:50
+puccababy: (also... hi from Scotland, where I'm churning JS for things)
+
+01:09:57
+<transcript>: I mean, they do look kind of neat. I don't know. For a split keyboard, they don't look awful. Maybe it's just because I've watched enough prime streams. Now.
+
+01:10:07
+<transcript>: I can't just copy prime. I can't just buy it. Because prime. You sit. Maybe I just want to own one. You know, maybe.
+
+01:10:11
+laytanl_: I have the advantage360 in NL but it was from Amazon
+
+01:10:16
+<transcript>: So if I want to buy it on September 2, I need to sign up for their newsletter.
+
+01:10:17
+<transcript>: So what you're telling me.
+
+01:10:18
+markboots__: If someone can, you can
+
+01:10:20
+laytanl_: Their shipping is not great
+
+01:10:25
+<transcript>: Bill first is on September 2 in the US. Limited quantities limit. One per customer orders will ship by September 21.
+
+01:10:25
+<transcript>: okay
+
+01:10:29
+<transcript>: Okay. We're going to sign up for the newsletter. We'll see if I'm around.
+
+01:10:34
+<transcript>: At Elmore Dev. We'll see if I'm around.
+
+01:10:35
+jaystation3x: 7hotkeyboards.com
+
+01:10:39
+<transcript>: What is that? Right? Sign up for newsletter. Okay, so moment it goes on sale.
+
+01:10:41
+laytanl_: And even more expensive outside US
+
+01:10:48
+<transcript>: If I'm at my computer? When it when I when it sends it to me, then I guess I might buy one. We'll see. Let's see. Something else. What was I gonna do.
+
+01:10:48
+<transcript>: it's time for
+
+01:10:48
+caldotjs: wanted to get this one but they are gatekeeping europeans :(
+
+01:10:50
+<transcript>: It's time for some invent stuff.
+
+01:10:50
+<transcript>: welcome
+
+01:10:52
+<transcript>: Welcome to Chat Pouk. A baby.
+
+01:10:55
+<transcript>: Finally convinced work to give me.
+
+01:10:55
+<transcript>: a new macbook
+
+01:11:04
+seannyy_: thinking about getting the moonlander
+
+01:11:04
+<transcript>: A new MacBook. So I'm embracing being mobile again. Sort of missing my mechanical keyboard. Yeah, I just can't do the mobile thing. I only work when I'm in this office.
+
+01:11:04
+<transcript>: so i'm not in this
+
+01:11:06
+stroopwafel26: @adamelmore just pushed my alacritty config, obviously with dracula colors https://github.com/mijndert/dotfiles/blob/main/.alacritty.yml
+
+01:11:08
+<transcript>: So I'm not in this office. I'm not working, just kind of my philosophy at this point in life.
+
+01:11:14
+cowfacedude99: SURROUND yourself LUL
+
+01:11:23
+<transcript>: I feel like I could strap at Kinesis keyboard to each hand and type I'll walk you around.
+
+01:11:24
+seannyy_: already made a split lily58 and liking it so far
+
+01:11:25
+developmentrobot: @caldotjs you can try a dropshipping service if you can find one you trust enough
+
+01:11:32
+<transcript>: Okay, so calface not in the soldering, then I'm also not in the soldering.
+
+01:11:32
+<transcript>: we're gonna
+
+01:11:35
+<transcript>: We're gonna join you in that camp.
+
+01:11:40
+markboots__: split keyboard, ideal to put an pizza in between
+
+01:11:41
+<transcript>: Yeah, the Ergonomics, I get it. Sporring. I think the ergonomic.
+
+01:11:41
+<transcript>: ergonomics are important
+
+01:11:47
+<transcript>: Ergonomics are important. I just aesthetic. If something doesn't check the aesthetics box for me.
+
+01:11:47
+<transcript>: it's just a hard
+
+01:11:52
+<transcript>: It's just a hard path. I don't know. I have a hard time with even things that would be better for me.
+
+01:11:54
+puccababy: hah, I'm working for a fashion startup, I'm never not-working.
+
+01:12:01
+<transcript>: The aesthetic are too important to me. Got myself a key Cron Q One did the tape mod change the plate, reload the stabilizers and you're good.
+
+01:12:01
+<transcript>: sound good
+
+01:12:01
+stroopwafel26: @MarkBoots__ and/or beer
+
+01:12:02
+<transcript>: Sound good.
+
+01:12:02
+<transcript>: all right lev
+
+01:12:09
+<transcript>: All right, Levi, do you got a sound test on the Internet? I can listen to. I'm one of those nerds that listens to keyboard sound tests.
+
+01:12:13
+<transcript>: Plus, it's fun.
+
+01:12:23
+<transcript>: From Scotland where I'm churning Jr JS for things hey, I'm writing a lot of JSD States Fuka baby thanks for follow as well.
+
+01:12:23
+<transcript>: that was
+
+01:12:27
+<transcript>: That was like a Rick roll. I missed it in the middle of all the Rick rolling.
+
+01:12:28
+cowfacedude99: look at dactyl. they can be literally how you want.
+
+01:12:29
+caldotjs: @stroopwafel26 why are you using xterm-256color over alacritty? and your alt commands probably wont work in nvim with that config
+
+01:12:30
+levifig: I thought of recording one but didn't (yet)… ;;swea
+
+01:12:34
+<transcript>: Latent has the Advantage 360 NL but it was from Amazon. Oh you can buy them on Amazon. Are you kidding me.
+
+01:12:36
+levifig: 😅
+
+01:12:41
+<transcript>: Kinesis 360, this is Kinesis 360, is all right.
+
+01:12:42
+seannyy_: where in Scotland? From cumbernauld myself
+
+01:12:42
+levifig: I do watch those too :P
+
+01:12:45
+<transcript>: This is advantage to like this.
+
+01:12:53
+<transcript>: Is that it? You just bite on Amazon. I don't need to wait. Oh, that's, like, not split, like one big thing.
+
+01:12:54
+caldotjs: @developmentrobot too much effort :( and I don't know a good one
+
+01:12:56
+stroopwafel26: @stroopwafel26 because I ssh to a lot of servers and I don't want to install the alacritty term everywhere
+
+01:12:58
+<transcript>: This one is split.
+
+01:12:58
+<transcript>: okay
+
+01:12:59
+<transcript>: Okay.
+
+01:13:02
+<transcript>: these if
+
+01:13:02
+<transcript>: Okay. I'm not sure what I feel about.
+
+01:13:06
+<transcript>: but i don't know
+
+01:13:06
+<transcript>: These. If it's not split, I could be more open to it.
+
+01:13:07
+<transcript>: i
+
+01:13:07
+<transcript>: But I don't know.
+
+01:13:09
+stroopwafel26: also, still figuring out the alt things
+
+01:13:12
+<transcript>: I just don't know. I kind of like the aesthetic of.
+
+01:13:12
+<transcript>: my current
+
+01:13:13
+<transcript>: My current keyboards.
+
+01:13:17
+andom: dygma defy
+
+01:13:18
+<transcript>: Okay, okay. Shipping is not great. Seven Hot keyboards.com.
+
+01:13:21
+<transcript>: I don't want to click on that just in case.
+
+01:13:24
+<transcript>: Even more expensive outside of you.
+
+01:13:25
+puccababy: @seannyy_ Edinburgh (Leith)
+
+01:13:33
+<transcript>: Keeping your pins. Why do they only do it in the US? I wonder. International shipping seems like a thing that's figured out at this point in life, right? Or at this point in history.
+
+01:13:33
+<transcript>: surround
+
+01:13:45
+<transcript>: Surround yourself. I'm going to we're gonna do that with invoke. Oh, strip waffle, though. Has an allocritic config. Okay, we'll get to that. We're gonna do that next.
+
+01:13:48
+cowfacedude99: Just for fun LUL https://ohkeycaps.com/products/built-to-order-dactyl-manuform-keyboard
+
+01:13:51
+<transcript>: We're working on a fashion startup that sounds so hard.
+
+01:13:56
+<transcript>: Dactyl can be how you want okay, calf is I trust you.
+
+01:13:58
+caldotjs: @stroopwafel26 https://gist.github.com/calwritescode/4e430ec018925b73431beb0c88311203 keybinds at the bottom should solve that
+
+01:13:58
+<transcript>: Back to.
+
+01:13:58
+<transcript>: get up on
+
+01:14:06
+<transcript>: Get up on in October if I wanted oh, I'm just not a fan. These are the 3D printed thing. Are they 3D printed.
+
+01:14:06
+<transcript>: i just i just
+
+01:14:14
+<transcript>: I just. I just don't like split keyboards. I wish I did. I know they're better for my hands and my posture. I know they're better. I just. I can't do it aesthetically.
+
+01:14:17
+cboorg: Yo adam!
+
+01:14:20
+<transcript>: Why are you using X term tubes color over alacrity.
+
+01:14:20
+<transcript>: okay
+
+01:14:21
+<transcript>: Okay, sorry.
+
+01:14:22
+seannyy_: @puccababy noice
+
+01:14:26
+<transcript>: You watch them, too? Levi.
+
+01:14:31
+<transcript>: Jeez, I just can't stand half a chat. Some of those days, some days you just can't stand top of it.
+
+01:14:38
+<transcript>: Just for fun.
+
+01:14:38
+<transcript>: okay
+
+01:14:42
+<transcript>: Okay. I'm gonna click on one more link. One more link, everybody.
+
+01:14:48
+<transcript>: this looks like
+
+01:14:48
+<transcript>: One more link. Okey. Caps. What is this? What am I looking at? Are those kidneys.
+
+01:14:50
+<transcript>: This looks like kidneys.
+
+01:14:52
+<transcript>: What are the.
+
+01:14:52
+<transcript>: wrist pads
+
+01:14:54
+<transcript>: Wrist, Pads, pads.
+
+01:14:57
+cboorg: how is neovim coming along?
+
+01:14:58
+<transcript>: Doesn't look like anything. They're just wrist pads. Right.
+
+01:15:02
+andom: one more https://dygma.com/products/dygma-defy?variant=43164276326638
+
+01:15:03
+<transcript>: Is this the one you ordered cafes? Is that what I'm looking at.
+
+01:15:03
+<transcript>: cyborg
+
+01:15:07
+<transcript>: one
+
+01:15:07
+<transcript>: Cyborg. Hey there. It's kinda long. Great. We're getting ready to work on it right now.
+
+01:15:15
+<transcript>: One more. And, UM. I said one. I said one, but I have no boundaries. So this is the same problem I have with my kids.
+
+01:15:15
+<transcript>: i
+
+01:15:18
+<transcript>: I say five more minutes, and then.
+
+01:15:22
+<transcript>: Like. I don't know. Just two more minutes. I'm like, okay, fine.
+
+01:15:27
+<transcript>: Else do that. Or am I just an Apple parent? I might just be awful. You're supposed to be consistent.
+
+01:15:27
+<transcript>: and you're
+
+01:15:33
+<transcript>: And you're supposed to set boundaries and be emotionally detached and not upset with them when things happen.
+
+01:15:33
+<transcript>: i do
+
+01:15:35
+mjewl: This is my daily driver: https://imkulio.com
+
+01:15:42
+<transcript>: I do none of those things. I fail in every way. This is not bad. This is not bad in terms of a split keyword. There's some things I like about it. Aesthetically.
+
+01:15:42
+<transcript>: there
+
+01:15:44
+<transcript>: There's some things I like.
+
+01:15:44
+<transcript>: what did i just
+
+01:15:48
+<transcript>: What did I just do? I don't like what I did. I changed it.
+
+01:15:52
+<transcript>: All Right, people, it's time.
+
+01:15:52
+<transcript>: i'm getting rid
+
+01:15:55
+cboorg: i would like to get a ergonomic custom board
+
+01:15:58
+<transcript>: I'm getting rid of all your split keyboards? We're gonna open up invents around.
+
+01:16:01
+levifig: re:chat – don't try to be completionist: just keep chat pinned to latest, and keep "actions" (follows, subs, etc) on a different view… You're at a size already that makes reading EVERY line of chat virtually impossible… if you want to achieve anything in the stream other than chatting :P
+
+01:16:04
+<transcript>: cath
+
+01:16:04
+<transcript>: Them surround, and we're gonna let learn how to use it.
+
+01:16:07
+uberrick: Hey Adam, are you being convinced for split keeb?
+
+01:16:09
+<transcript>: Cathes you've continually said I should maybe use the original the nonlua version.
+
+01:16:09
+<transcript>: my problem with that
+
+01:16:12
+<transcript>: My problem with that is that.
+
+01:16:13
+cowfacedude99: this is mine, but with black and red keycaps and black background https://cdn.shopify.com/s/files/1/0025/7697/3935/products/sa-portal-dactyl_1024x1024@2x.png?v=1634309005
+
+01:16:14
+stroopwafel26: My wife is very strict but I'm not and the kid knows it MaxLOL
+
+01:16:19
+<transcript>: It's not Loua. And I feel like I've got a thing going where all my config is Lua, and I don't want to break it.
+
+01:16:19
+<transcript>: thank you so much
+
+01:16:21
+uberrick: Also, did you check out Primes vim stream last night?
+
+01:16:21
+levifig: important chat messages will be resurfaced or repeated anyway ;)
+
+01:16:23
+<transcript>: Thank you so much. Hi Joe, for the follow. Appreciate that.
+
+01:16:36
+<transcript>: Rick is here. I am not being convinced for a split keyboard. They still don't check the aesthetic box. Maybe someday I'll see enough of them. If I just keep looking at them, I'll be like Sign to grow on me and then it'll do it for me. But.
+
+01:16:38
+<transcript>: Do it for me. Not yet.
+
+01:16:47
+<transcript>: Yeah. Levi. I'm so bad about reading every single message. I need to really.
+
+01:16:47
+<transcript>: i
+
+01:16:51
+<transcript>: I met a size already that makes reading every line of chat virtually impossible.
+
+01:16:51
+<transcript>: to
+
+01:16:56
+<transcript>: To want to achieve anything in the stream other than chatting. Yeah. Maybe I should just change the category of just chatting.
+
+01:17:04
+<transcript>: I don't I do actually want to accomplish some things in life and in my work.
+
+01:17:09
+<transcript>: Your wife is very strict, but I'm not in the kid knows it.
+
+01:17:09
+<transcript>: yes then they come
+
+01:17:11
+<transcript>: Yes. Then they come to you right. Okay.
+
+01:17:18
+<transcript>: Here we are Indian surround. So cafes. I'm gonna keep trying with the Louis thing. Let me give the Lua one.
+
+01:17:18
+<transcript>: a fair shot
+
+01:17:27
+<transcript>: A fair shot. Okay. We're gonna go this around. We're gonna look at. Okay. So we're doing nothing in the config. Cool, cool.
+
+01:17:32
+<transcript>: Is this the right one that I'm using in them? Surround.
+
+01:17:33
+<transcript>: A plugin.
+
+01:17:39
+<transcript>: This is the one that I'm using. Yes. Kyle, chewy.
+
+01:17:39
+<transcript>: indians round
+
+01:17:41
+<transcript>: Indians. Round. Okay.
+
+01:17:47
+<transcript>: So add delete change surrounding page function calls an HTML tag. That's the kind of thing I want to do.
+
+01:17:47
+<transcript>: repeat
+
+01:17:49
+<transcript>: Repeat previous actions.
+
+01:17:49
+<transcript>: let me do that
+
+01:17:57
+cowfacedude99: the config requires almost nothing.
+
+01:17:57
+<transcript>: Let me do that. That's built into them, right? I'm just. It's saying the features that are included in this thing also support this stuff.
+
+01:18:09
+<transcript>: Right. Or is that how I'm able to dot repeat from intervimsuround? I doubt it. Set buffer, local mapping and surrounds jump to the nearest surrounding pair. Should I watch the video? Let's just watch the video.
+
+01:18:09
+<transcript>: why not
+
+01:18:10
+<transcript>: Why not.
+
+01:18:10
+<transcript>: i can make
+
+01:18:13
+<transcript>: I can make this bigger for you all.
+
+01:18:16
+<transcript>: Okay, so read me.
+
+01:18:24
+<transcript>: This is a test sense. So what did they do? I got to watch this waste lower. They're typing. So, so fast.
+
+01:18:26
+<transcript>: Cst.
+
+01:18:33
+<transcript>: Four day? What are they doing.
+
+01:18:35
+cboorg: vim dot repeat doesnt always work on these custom things that plugins do
+
+01:18:41
+<transcript>: How does anyone know what's going on? When you watch stuff like this? I can't.
+
+01:18:41
+cowfacedude99: You can fullscreen the video.
+
+01:18:43
+bigdiff___: you can lower the speed in the player
+
+01:18:44
+<transcript>: Okay VT.
+
+01:18:44
+<transcript>: oh so
+
+01:18:48
+<transcript>: so
+
+01:18:48
+<transcript>: Oh, so that that's how they surrounded. So this. Okay.
+
+01:18:59
+<transcript>: So they back up, back up. I want to I think I could actually follow this one. They did VT exclamation Mark, and then they did what? How did they do the surrounding that's the only thing I really need to learn.
+
+01:19:01
+<transcript>: Bt.
+
+01:19:01
+<transcript>: x
+
+01:19:02
+<transcript>: X.
+
+01:19:02
+<transcript>: xl capital
+
+01:19:07
+cedpoilly: I think there's a slow mode for the chat? Maybe that could help you @adamelmore?
+
+01:19:08
+<transcript>: Xl Capital SL I guess that depends on your key bindings, but let's just see if that's what's built in. So if I want to.
+
+01:19:17
+<transcript>: If I want to surround let's go, let's actually go in here VT. So if I'm in this tag and I'm like.
+
+01:19:20
+<transcript>: V. To there, and I want to surround it.
+
+01:19:20
+<transcript>: i do
+
+01:19:22
+<transcript>: I do SL.
+
+01:19:27
+<transcript>: It.
+
+01:19:30
+<transcript>: Let's just see what the default key maps say.
+
+01:19:41
+<transcript>: Tag use for stability omit to use main branch to the latest features.
+
+01:19:47
+<transcript>: Okay, the three core operations of Add Delete Change can be done with the key maps.
+
+01:19:53
+<transcript>: Ys Motion Character, DS Character, and CS Target replacement.
+
+01:19:53
+<transcript>: respectively
+
+01:19:57
+<transcript>: Respectively. So the following examples star will denote the kirshberge cursor position. Okay.
+
+01:19:57
+<transcript>: see i think
+
+01:20:11
+<transcript>: See, I think the first time I didn't read this bit, and when I looked at this, I was like, what is that wild card doing in there? Like, what's going on? But that's the cursor position. Okay, so I'm right here, and I'm gonna surround words. Let's just try this. We're gonna try each one of these things.
+
+01:20:11
+<transcript>: i want
+
+01:20:18
+<transcript>: I want to surround this word, I'm gonna say, I'm gonna do, like a strong emphasis on this word. So I'm right here in the middle of the word, and I do.
+
+01:20:22
+<transcript>: Ysi W? Prins.
+
+01:20:31
+<transcript>: Surround. So I'm surrounding it with parems is what it's saying. So let's try that. I want to I want to surround it with.
+
+01:20:35
+<transcript>: More than a Prin. I want to surround it, but does it work with other things.
+
+01:20:38
+<transcript>: Because it works.
+
+01:20:42
+<transcript>: Cs.
+
+01:20:42
+<transcript>: let's just try
+
+01:20:45
+<transcript>: Let's just try so YSI W.
+
+01:20:45
+<transcript>: that's a mouthful
+
+01:20:47
+<transcript>: That's a mouthful.
+
+01:20:49
+<transcript>: Isi Wu.
+
+01:20:56
+<transcript>: So that was starting to type stuff around it. Right. So. Okay.
+
+01:21:05
+<transcript>: let's
+
+01:21:05
+<transcript>: We're tag types. So you can just do H one for a tag so I can do like strong. Okay. So.
+
+01:21:06
+<transcript>: Let's do it.
+
+01:21:08
+<transcript>: y
+
+01:21:08
+<transcript>: It'd be.
+
+01:21:11
+<transcript>: w
+
+01:21:11
+<transcript>: Ysi.
+
+01:21:12
+<transcript>: W.
+
+01:21:17
+<transcript>: So inside. So why? S is what? What is YS stand for.
+
+01:21:19
+<transcript>: I wish I knew what it stood for.
+
+01:21:24
+<transcript>: Is almost nothing. Yeah. Okay.
+
+01:21:35
+<transcript>: Slow mode for the chat. Maybe that could help you. Maybe said Polly. I don't think I'm that far along yet.
+
+01:21:43
+<transcript>: How big this says I can lower speed. I think we're good now with this usage block. I think this is gonna be everything I need.
+
+01:21:43
+<transcript>: the video
+
+01:21:49
+<transcript>: The video is just too much for me. I'm not really a visual person. I'm not like a visual learner. So why s stands for something.
+
+01:21:49
+<transcript>: inside
+
+01:22:00
+cowfacedude99: ys is prefix. iw is inside words and ) for paran
+
+01:22:01
+<transcript>: Inside, and then W would be like word. So I'm in this word. I'm just trying to like into it. I want to understand. What are these? He can't peek in, man's mean. So why s means something.
+
+01:22:01
+<transcript>: in
+
+01:22:04
+<transcript>: In surround. I guess it'd be like.
+
+01:22:07
+cboorg: "ys" is kinda how you initialize adding a surround
+
+01:22:10
+<transcript>: Ys? Versus delete? S? So y.
+
+01:22:14
+<transcript>: Initialize adding a strand. Okay.
+
+01:22:14
+<transcript>: it's a prefix
+
+01:22:17
+cowfacedude99: ys is kind of a prefix
+
+01:22:19
+<transcript>: It's a prefix. Iw is inside words. And that for print. Yay. Yeah, yeah. Okay.
+
+01:22:22
+<transcript>: So I want to do.
+
+01:22:22
+<transcript>: ys inside
+
+01:22:28
+<transcript>: Ys inside word, and then I'm gonna do this. Goes to a strong so YS inside word, strong.
+
+01:22:28
+<transcript>: no okay
+
+01:22:31
+<transcript>: let's do
+
+01:22:31
+<transcript>: No okay can't do can't do that.
+
+01:22:38
+<transcript>: Let's do just Paren just to see the example work. So why us inside Wordprint? Yeah. Nice. Oh, feels good.
+
+01:22:40
+cboorg: try ysiwt
+
+01:22:42
+<transcript>: and all of it
+
+01:22:42
+<transcript>: Them. There's just something about them.
+
+01:22:48
+cboorg: then you can surround with a tag
+
+01:22:53
+<transcript>: And all of it's plugins or neovem. I guess something about just vim movements that feel good, they just feel nice. It's the most like I've been enjoyed the feeling of typing.
+
+01:22:56
+uberrick: for tags is looks like you'd do like cstb<CR>
+
+01:22:59
+<transcript>: Ysiwt. Then you can surround with the tag. Okay.
+
+01:22:59
+<transcript>: for tags it looks
+
+01:23:01
+<transcript>: For Tags. It looks like you do.
+
+01:23:01
+<transcript>: cst
+
+01:23:02
+<transcript>: Cst.
+
+01:23:02
+<transcript>: b
+
+01:23:04
+<transcript>: B.
+
+01:23:04
+<transcript>: garage
+
+01:23:08
+<transcript>: Garage return. Let's try what Seabork said here.
+
+01:23:08
+<transcript>: t
+
+01:23:14
+<transcript>: T and then I can type the tag. Maybe. So if I'm here y s IWT.
+
+01:23:14
+<transcript>: strong
+
+01:23:16
+<transcript>: Strong? No.
+
+01:23:22
+cboorg: yes
+
+01:23:26
+<transcript>: Maybe I didn't do it fast enough. Y S I WT Nope. Oh, yeah, that was capital T. I mean, that's what you meant.
+
+01:23:26
+<transcript>: tag
+
+01:23:26
+cboorg: you see the bottom
+
+01:23:27
+uberrick: basically the second from bottom
+
+01:23:30
+<transcript>: Tags? Yes. Okay. So y inside of you. Capital T.
+
+01:23:33
+cboorg: it asks for the tag
+
+01:23:35
+cboorg: then enter
+
+01:23:36
+<transcript>: I have to do Capital T. I think I could have done lowercase. Let's try it again.
+
+01:23:40
+<transcript>: Wyatt, and then type it. Yeah.
+
+01:23:40
+<transcript>: nice
+
+01:23:41
+<transcript>: Nice.
+
+01:23:41
+<transcript>: feels
+
+01:23:46
+<transcript>: like
+
+01:23:46
+<transcript>: Feels good. Okay. This is worth learning, because this is.
+
+01:23:49
+<transcript>: Like stuff that's nice to do.
+
+01:23:49
+<transcript>: so i
+
+01:23:51
+<transcript>: So I could do that for the whole thing. I could be like.
+
+01:23:51
+<transcript>: let's just do this let's
+
+01:23:53
+<transcript>: Let's just do this. Let's go.
+
+01:23:58
+<transcript>: Capital Fi to go back there, and then I'm gonna do.
+
+01:24:02
+devopstty: looks so complicated
+
+01:24:04
+<transcript>: Not a word. If I want to do the whole line, what would I do? So there. They're just doing, like dollar sign.
+
+01:24:04
+<transcript>: so
+
+01:24:08
+<transcript>: So they're on the beginning of the line and they do dollar sign.
+
+01:24:08
+<transcript>: to surround the whole thing
+
+01:24:10
+<transcript>: To surround the whole thing.
+
+01:24:10
+<transcript>: so i
+
+01:24:11
+<transcript>: So I could do like.
+
+01:24:11
+<transcript>: y
+
+01:24:13
+<transcript>: to the
+
+01:24:13
+<transcript>: Ys.
+
+01:24:19
+cowfacedude99: end of line is $
+
+01:24:19
+<transcript>: To the end of the line T, and then type the tag, I'm gonna put that in a span. Nice.
+
+01:24:21
+<transcript>: Feels good.
+
+01:24:31
+puccababy: I have vi keys burned into my brain (back from when there was no choice). Imma glad I live in VSCode world these days VoHiYo
+
+01:24:32
+<transcript>: Feels good. Looks so complicated. Yeah. I think DevOps, it's complicated at first. And then once it becomes just like muscle memory. It's amazing.
+
+01:24:32
+<transcript>: so
+
+01:24:37
+neochromer: are we doing development in Neovim?
+
+01:24:37
+<transcript>: So you do have to, like, spend a lot of time, I guess like investing into.
+
+01:24:39
+<transcript>: Accepting these things.
+
+01:24:39
+<transcript>: but once
+
+01:24:41
+<transcript>: But once you do.
+
+01:24:44
+<transcript>: Once you do Yeah.
+
+01:24:48
+neochromer: hello btw
+
+01:24:50
+<transcript>: I have the keys burned into my brain back from when there was no choice.
+
+01:24:54
+neochromer: also I do azure pipelines currently
+
+01:24:56
+<transcript>: I'm glad I live in Via Code World these days? Yeah, no, I get it. I totally don't like I spent.
+
+01:24:56
+<transcript>: whatever
+
+01:25:03
+cboorg: vim feels good when you dont think about what you have to do
+
+01:25:07
+<transcript>: Whatever the last five years deep Envious code and I felt really good about my VSCO setup, and then I just abandoned it because I've given Twitch streamer, and when you Twitch stream, you have to use them. It's in the handbook.
+
+01:25:19
+zebbath: heraSup
+
+01:25:19
+<transcript>: Yeah, but I get it. I'm never gonna shame someone for the editor they use. You won't hear that on this stream. Just totally open to whatever you use unless it's like no pad plus block Blust. And then thanks. I'm just kidding.
+
+01:25:22
+<transcript>: This is the first one that came to my mind.
+
+01:25:22
+<transcript>: what's up
+
+01:25:24
+<transcript>: What's up, Zivis? How's it going.
+
+01:25:28
+<transcript>: It feels good when you don't have to think about ways.
+
+01:25:43
+purrplish: Even if you don't use Vim, the keybindings are really useful in any editor that supports them.
+
+01:25:48
+cedpoilly: I use vscode on twitch. That's why I have like 6 viewers 😆
+
+01:25:48
+<transcript>: so if i'm
+
+01:25:48
+<transcript>: Once you get to the point where there's some other than movies that I just don't have to think about anymore. And they feel good. There's some that I'm still getting there. Like I'm still trying to get better with horizontal movement. So like go back the eye with Fi or forward to the R like that and then I can toggle through them if I had some more well, like here.
+
+01:26:00
+cboorg: @cedpoilly LUL
+
+01:26:01
+<transcript>: So if I'm like, F, I said to practice Roswell, you know, F. R, and then I'm like, oh, not that one. Yeah, that one. That's the one. I'm gonna replace it with capital. I. No, just practice. Okay, so we're doing surround.
+
+01:26:12
+<transcript>: The Y s. Is how you start surrounding. And then DS is how it would delete the surround. So if I want to delete. Okay. So we're coming down here, and I want to delete.
+
+01:26:22
+<transcript>: These brackets. What do I do? So I'm in the middle here of this thing. I say, I don't want brackets anymore. Oh, or I could replace them. Yeah. Okay.
+
+01:26:22
+<transcript>: we're gonna say
+
+01:26:25
+<transcript>: We're gonna say, I don't want brackets anymore. We're going to.
+
+01:26:25
+<transcript>: ds
+
+01:26:27
+cboorg: dsB @adamelmore
+
+01:26:29
+<transcript>: Ds DS bracket.
+
+01:26:34
+<transcript>: Dsp.
+
+01:26:34
+<transcript>: tie remove
+
+01:26:38
+<transcript>: Tie, remove HTML Tags. So if I'm in this and I say, DST.
+
+01:26:47
+<transcript>: It's rid of the surrounding HTML tag. Super cool don't have to type what tag because it's just whatever tag is around it. Right.
+
+01:26:47
+<transcript>: so
+
+01:26:53
+<transcript>: So DST that's an ice one and then change. So CS is change.
+
+01:26:53
+<transcript>: change quotes
+
+01:26:57
+<transcript>: Change quotes. So here, I want to change. Let's see.
+
+01:26:57
+<transcript>: can i do that
+
+01:26:59
+<transcript>: Can I do that with Tags.
+
+01:26:59
+<transcript>: yeah
+
+01:27:00
+<transcript>: Yeah.
+
+01:27:00
+<transcript>: cst
+
+01:27:03
+<transcript>: Cst One Carriage return.
+
+01:27:10
+<transcript>: So I could change this Div to a span. So if I'm like CS.
+
+01:27:12
+<transcript>: csp
+
+01:27:13
+<transcript>: Csp.
+
+01:27:20
+<transcript>: And then type the tag name so span.
+
+01:27:24
+<transcript>: I'm gonna get this. I'm gonna I'm gonna figure this out.
+
+01:27:28
+uberrick: @cedpoilly just put neovim in your stream title for click bait
+
+01:27:29
+<transcript>: Delete. Function calls function calls delete.
+
+01:27:29
+<transcript>: function
+
+01:27:42
+<transcript>: Function calls. What does that mean? So if there's a okay. So if I'm calling a function that just feels so like language specific, I would think. But it works for any language. Or it works with the LSP.
+
+01:27:45
+vorqrin: csT also removes classes when changing tag i think
+
+01:27:46
+<transcript>: So how it works.
+
+01:27:50
+<transcript>: Neocromer. We are doing development in the OFM.
+
+01:27:52
+<transcript>: Azure pipelines.
+
+01:27:55
+<transcript>: Where does that come from? Did we start talking about.
+
+01:27:56
+cowfacedude99: @cboorg the thing I like about tmux and vim is that once you get used to them, editing is a breeze
+
+01:28:04
+<transcript>: Not like being critical that you brought this up. I just want to make sure I missed some context earlier. You just talking about CI CD pipelines.
+
+01:28:04
+<transcript>: cloud providers
+
+01:28:05
+<transcript>: Cloud providers.
+
+01:28:09
+neochromer: @adamelmore We talked about devops lol
+
+01:28:10
+<transcript>: Vim feels good when you don't think about what you have to already read that. Yeah.
+
+01:28:14
+neochromer: and I just said I work on Pipelines hah
+
+01:28:15
+puccababy: @purrplish 100% - some of this is not that different than some mappings / macros I have setup in VSC. Cool stuff. Also, whatever editor gets the work done right? I never cared for those fights!
+
+01:28:17
+<transcript>: I have like six viewers. I mean.
+
+01:28:17
+<transcript>: i definitely
+
+01:28:22
+<transcript>: I definitely saw. The more I started talking about Neovim, the more people seem to want to watch.
+
+01:28:22
+<transcript>: there
+
+01:28:30
+cboorg: @cowfacedude99 yuuup you just fly around and never have to leave the terminal
+
+01:28:32
+<transcript>: There's something about that on Twitch. I don't know what it is about me of M on Twitch. I'm glad that I started streaming, and I'm glad that I started playing with the oven because I love both.
+
+01:28:32
+<transcript>: and i don't think
+
+01:28:39
+<transcript>: And I don't think I love them both because they come together. I think I love them both independently. And I wouldn't have probably discovered them.
+
+01:28:39
+<transcript>: i wouldn't discover
+
+01:28:42
+<transcript>: I wouldn't discover ne of them. Had I not come to Twitch. I don't think.
+
+01:28:47
+<transcript>: I wouldn't have felt compelled. Switch, I guess.
+
+01:28:50
+<transcript>: Dsb Cyborg. What was that for.
+
+01:28:50
+<transcript>: put
+
+01:28:54
+<transcript>: Put neovimision title for clickbait that's right.
+
+01:28:54
+cedpoilly: @uberrick 😆 ~~~ I could have a 15 minutes session at the beginning of each live
+
+01:28:59
+<transcript>: Cst also removes classes when changing tag. I think, oh, interesting.
+
+01:28:59
+<transcript>: so capital
+
+01:29:10
+<transcript>: so i would
+
+01:29:10
+<transcript>: So Capital T would also remove the classes vorten. Welcome to Chat and thank you for that tip. We'll try it right now, so I'm on a tag, and I'm like, I'm gonna change this Div here.
+
+01:29:15
+<transcript>: So I would just do CST span if I want to.
+
+01:29:15
+<transcript>: oh
+
+01:29:21
+schrew: Gm!
+
+01:29:22
+<transcript>: Oh, I did CDT, did I? So I do CST if I just wanted to change it to a span, right.
+
+01:29:22
+<transcript>: but
+
+01:29:28
+<transcript>: But if I wanted to do that in removed class names Ado, CS, Capital, T, span.
+
+01:29:35
+<transcript>: Feels good. Thank you so much, Morgan. Welcome to Chat. Thank you for the tip or vorcrin.
+
+01:29:37
+<transcript>: Vorcrin.
+
+01:29:44
+<transcript>: The thing I like about Team Mucks and Vim is that once you get used to them, editing is a breeze. That's what we're hoping.
+
+01:29:44
+<transcript>: we talked about
+
+01:29:46
+<transcript>: We talked about DevOps. Gotcha.
+
+01:29:46
+<transcript>: you should work on pip
+
+01:29:49
+<transcript>: You should work on pipelines. Okay. Gotcha. Yeah.
+
+01:29:49
+<transcript>: we do
+
+01:29:53
+<transcript>: We do talk about DevOps on this channel sometimes.
+
+01:30:08
+purrplish: @puccababy Agreed.
+
+01:30:08
+<transcript>: I'm actually more of a backend in DevOpsy person. That's more what I do. It doesn't seem like it on the stream. In the stream. I seem to only fiddle with front end stuff because it takes me so long. If front ends didn't take me so long, I'd mostly be working on back ends.
+
+01:30:11
+fragaverage: Overlays in particular LUL
+
+01:30:17
+<transcript>: Okay.
+
+01:30:21
+<transcript>: Okay. Good morning. Shrew.
+
+01:30:30
+<transcript>: Good morning. Overlays. In particular. What was that? In response to Frag? I'm sorry. I'm just. I'm always. I need to do better.
+
+01:30:30
+<transcript>: need to keep
+
+01:30:31
+<transcript>: Need to keep up better.
+
+01:30:33
+fragaverage: Only working on front end stuff
+
+01:30:37
+neochromer: I work as frontend for years and I'm not that faster :D could also be that my brain is a bit slow lol
+
+01:30:43
+<transcript>: Okay. So we've learned how to delete, replace, and add things around. I wanted to check the function calls. I guess that works with the LSP. I'm guessing. So if I'm in.
+
+01:30:43
+<transcript>: a function call
+
+01:30:49
+<transcript>: A function call like this and I want to delete the whole function. You're saying I can do DSF.
+
+01:30:49
+<transcript>: it's not that
+
+01:30:52
+<transcript>: function call
+
+01:30:52
+<transcript>: It's not that it's it's something else. Here.
+
+01:30:57
+<transcript>: Function calls. Oh, it just deletes the function. Okay.
+
+01:30:57
+<transcript>: can i do that
+
+01:31:01
+<transcript>: Can I do that with replace? I can't imagine there'd be a case where I'd be like, you know what.
+
+01:31:01
+<transcript>: i want to get
+
+01:31:03
+<transcript>: I want to get rid of.
+
+01:31:09
+<transcript>: Just the function name, but nothing else. I could see how I'd want to replace it.
+
+01:31:18
+<transcript>: So DSF just delete to use events and also deletes the open print. I'm not sure what the use case is there.
+
+01:31:18
+<transcript>: if i
+
+01:31:20
+<transcript>: If I do CSS.
+
+01:31:22
+zappy_oc: daf to delete the whole function
+
+01:31:26
+<transcript>: Oh yeah enter the function name.
+
+01:31:26
+rjayuu: If you have nvim-treesitter-objects, you can do 'daf' or 'dif'
+
+01:31:28
+<transcript>: Cool. Okay. Css does that.
+
+01:31:30
+cedpoilly: would you consider having a Front-End dev paring with you on the Front-End part?
+
+01:31:32
+<transcript>: Yeah, I don't know why I delete it, but.
+
+01:31:36
+<transcript>: Okay.
+
+01:31:36
+<transcript>: feels pretty good
+
+01:31:41
+puccababy: I've been a FED since... well since Front End was a thing. My brain is definitely slower these days.
+
+01:31:42
+<transcript>: Feels pretty good. I mean anything else will want to learn here with Surround, or do we want to move on to items.
+
+01:31:42
+<transcript>: text objects
+
+01:31:43
+<transcript>: Text, objects.
+
+01:31:59
+uberrick: did you catch Primes stream last night?
+
+01:32:00
+<transcript>: Only working on pre. Yeah, yeah, only working on overlays. Seems to be the case. We're gonna work on public Dev. I want to touch it today. At least we're gonna touch it. We do have some stuff I want to do here. Any of them config, but we're gonna touch public Dev. At least.
+
+01:32:03
+<transcript>: I.
+
+01:32:07
+<transcript>: Working for.
+
+01:32:07
+<transcript>: work
+
+01:32:18
+<transcript>: Work as front and for years and not that faster could also be the brain is a bit slow. I feel like I've been working with front ends as long as I've been working with anything and I still I don't seem to be getting better at it.
+
+01:32:18
+<transcript>: it's just not
+
+01:32:26
+<transcript>: It's just not how my brain worked, I guess. Daf to delete the whole function. Oh, thank you, Zappi. Welcome to Chat. So you're saying this function here.
+
+01:32:31
+<transcript>: This function. Here. I could do Das.
+
+01:32:32
+<transcript>: F.
+
+01:32:36
+<transcript>: fide the
+
+01:32:36
+<transcript>: fide the function
+
+01:32:38
+<transcript>: Fide. The function DAFF.
+
+01:32:41
+<transcript>: Maybe that's something I haven't mapped.
+
+01:32:43
+<transcript>: Delete the whole function.
+
+01:32:43
+<transcript>: teresa
+
+01:32:45
+<transcript>: Teresa objects. That's what we're doing next.
+
+01:32:53
+laytanl_: you need the textobjects plugin for that
+
+01:32:56
+<transcript>: Reju. Welcome to Chat, both of you. Zappi and RJU, we are going to add treater objects right now. That was the next thing I wanted to do.
+
+01:32:59
+<transcript>: Research.
+
+01:33:03
+<transcript>: You've been here before.
+
+01:33:06
+<transcript>: Is that like a Hobbit reference.
+
+01:33:10
+traylortrash84: Good morning.
+
+01:33:14
+<transcript>: I visited a link. That's what hit, that's what hits my brain. So as I visit the link that I visited before.
+
+01:33:14
+<transcript>: we've been
+
+01:33:16
+<transcript>: We've been here before.
+
+01:33:34
+<transcript>: Syntax aware text objects, select move, swap, and peak support. Tree Sitter and Inventory sitter are an experimental feature of nightly versions of Neovem. Please consider the experience with this plugin. It's experimental until tree Sitter support. You know what I consider everything I do with the OFM experimental. I feel like this is like the.
+
+01:33:34
+<transcript>: it's
+
+01:33:40
+<transcript>: It's like I think of the Star Wars prequels. Something just mentioned that Star Wars Frequels on Twitter.
+
+01:33:40
+<transcript>: so i
+
+01:33:48
+<transcript>: So I blame them. It's in my brain. I think of like Anakin Skywalker building his, like building his little.
+
+01:33:59
+cowfacedude99: they haven't updated the readme in a while.
+
+01:34:09
+<transcript>: One of those called on the Tatooine. The little like, the Pod Racer. He's building his little Pod racer out of, like, scratch, scrap metal and stuff he finds on the sidewalk. Or I guess there's a sideBOX in tattooing it's there. But he's like, putting it together, right? Really scrappy. And he flies around in it. I feel like that's Neoveim, this is a pretty good analogy. Actually, I'm terrible at analogies, but this.
+
+01:34:09
+<transcript>: one's not bad
+
+01:34:14
+rjayuu: The only time I have issues with nvim and plugins, is after I build a new dev release nvim
+
+01:34:19
+cowfacedude99: treesitter has been standard for two whole version upgrades I think
+
+01:34:29
+<transcript>: One's not bad. And then like somebody who I don't know builds like official Pod racers. That would be like Via SCode. They're like, polished, and they have nice, slick parts that they purchased with money on tattooing, whatever currency they're using in tattooing. Yeah. So Neovem, I just assume that's kind of the experience. There might be some rough edges, but like, I'm gonna go fast.
+
+01:34:29
+<transcript>: faster than
+
+01:34:31
+<transcript>: Faster than you watch.
+
+01:34:31
+<transcript>: right
+
+01:34:38
+<transcript>: Right, Anakin Skywalker, anybody. If nobody on here knows anything about Star Wars, and that was just a waste of time. I'm sorry.
+
+01:34:46
+stroopwafel26: Star Wars > Star Trek
+
+01:34:51
+stroopwafel26: starting a flame war here
+
+01:34:58
+<transcript>: What I consider a frontend of pairing with me on the front end part. I absolutely would. I know some front indepth and maybe you're a frontend deadstead Polly. I definitely would consider that. That would be a good guesstream. Somebody builds the front end part. Or you didn't mean this really on stream. You just spent generally, like, working with frontend devs. I.
+
+01:34:58
+<transcript>: do like
+
+01:35:00
+<transcript>: Do like working with people who are good at what they do.
+
+01:35:14
+<transcript>: Friend of Sense. Well since front end was a thing, brand is definitely slower these days. I think it's age. I think I'm just my age is catching up with me. Did you catch prime stream less? I didn't. Rick was it so good.
+
+01:35:18
+<transcript>: Okay. Good morning. Trailer.
+
+01:35:23
+<transcript>: They have an updated reading while so I shouldn't worry about this.
+
+01:35:23
+<transcript>: this
+
+01:35:24
+<transcript>: This warning? Here.
+
+01:35:36
+cedpoilly: I am a Front-End dev. but mostly Vue.js & Yeah I meant in general
+
+01:35:36
+<transcript>: Only time I have issues with Envy and plugins is after I build a new Dev release. Yeah, I don't do the Dev releases. I think I'm using I'm using .8 so maybe I am doing latest.
+
+01:35:43
+rjayuu: That's probably wise..
+
+01:35:43
+uberrick: It was a vim stream so he had questions fired about how he navigates and vim plugins he's got setup
+
+01:35:49
+<transcript>: Trueholders upgrades. Okay, cool. Star wars greater than Starcheck starting flame more. I mean, I agree just because I don't know any of my Star Trek. But I don't think Starch is bad. I just haven't watched it.
+
+01:35:49
+<transcript>: i can't
+
+01:35:57
+<transcript>: I can't I can't watch things that there's that much of, you know, like, there's only a few Star Wars movies, and they're long. But like, I can sit through if these Star Wars movies.
+
+01:36:00
+<transcript>: All right? So.
+
+01:36:13
+<transcript>: There's a vim stream. So we had questions fired about how he navigates into influence. You got set up. Oh, nice. I will have to watch that one. I was watching one of his YouTube videos about it's, like from a couple years ago about Vin navigation.
+
+01:36:17
+<transcript>: That guy. He's a Treasurer.
+
+01:36:17
+<transcript>: okay
+
+01:36:18
+seannyy_: I get you, it's a commitment thing
+
+01:36:22
+<transcript>: Okay. We were going to install tree center text objects.
+
+01:36:26
+<transcript>: So we're going over here and we're using.
+
+01:36:26
+<transcript>: not been plugged
+
+01:36:28
+<transcript>: Not been plugged we are using.
+
+01:36:35
+<transcript>: I have instructions on Packer. I guess. Just the name of the thing, right.
+
+01:36:39
+<transcript>: I already have tree sitter, so we're just gonna go.
+
+01:36:40
+stroopwafel26: @adamelmore was bashing my head against the wall after some issues with your nvim config, only to discover homebrew supplied nvim 0.7 instead of 0.8 hahaha
+
+01:36:42
+uberrick: one of the main things I picked up was jumping to a point on the line by using f<char>
+
+01:36:43
+<transcript>: Presetter.
+
+01:36:43
+<transcript>: pl
+
+01:36:45
+<transcript>: Plugins.
+
+01:36:45
+<transcript>: here
+
+01:36:46
+<transcript>: Here.
+
+01:36:46
+<transcript>: so
+
+01:36:54
+<transcript>: So here's where we have treatsitter. I don't know about this whole commit thing. I get where Chris it machine was coming from. I could get it, but also.
+
+01:36:58
+<transcript>: Kind of like having the latest, you know, the latest.
+
+01:36:58
+<transcript>: the very latest
+
+01:37:00
+<transcript>: The very latest and greatest.
+
+01:37:02
+<transcript>: Oops.
+
+01:37:06
+<transcript>: I'm gonna just remove this commit.
+
+01:37:11
+<transcript>: Feel bad? Does it feel bad.
+
+01:37:12
+jeusto: Do you guys have a good video or article to create a full lua nvim config ? I have like 300 lines in .vimrc and ~10 plugins
+
+01:37:12
+<transcript>: Just a little.
+
+01:37:14
+puccababy: my world is vanilla JS (ES6), React, and... a lot of CSS etc. I may be cursed.
+
+01:37:15
+<transcript>: Oh perfect time to use invent.
+
+01:37:15
+<transcript>: so here
+
+01:37:16
+seannyy_: also did you get new switches or something? Sounds different
+
+01:37:20
+<transcript>: So here we have some brackets that I just want to get rid of, right? So I'm just gonna get rid of.
+
+01:37:20
+<transcript>: first
+
+01:37:22
+<transcript>: First.
+
+01:37:22
+<transcript>: i'm gonna go the end
+
+01:37:33
+<transcript>: I'm gonna go the end line and delete that comment too. Okay so to delete them I would do BS. Hang on, don't tell me I'm not looking at chat anyway so you can type it if you want DS.
+
+01:37:37
+<transcript>: Bracket? Is that it.
+
+01:37:37
+uberrick: ds]
+
+01:37:45
+<transcript>: Yes. Bracket. It worked. It worked, it worked. It worked at work. Okay. It's gonna add trees that are text, objects.
+
+01:37:45
+<transcript>: just like that
+
+01:37:47
+<transcript>: Just like that.
+
+01:37:47
+<transcript>: upd
+
+01:37:49
+cboorg: pinning to commits/versions is good if you dont really want any surprise breaks for your work environment
+
+01:37:55
+<transcript>: Updated LSP saga. So this is the problem with not pinning them to commit is you just get updates.
+
+01:37:55
+<transcript>: thing
+
+01:37:56
+<transcript>: Thing.
+
+01:37:58
+<transcript>: On accident. I don't know what.
+
+01:37:58
+<transcript>: ls
+
+01:38:02
+<transcript>: Lsp Sacka changes. We just introduced. I hope they're good.
+
+01:38:02
+<transcript>: hope they're not
+
+01:38:04
+<transcript>: Hope they're not bad.
+
+01:38:09
+<transcript>: What else do we update? Get signs. Updated. Cloak. Leighton, look at you.
+
+01:38:09
+<transcript>: you make
+
+01:38:12
+<transcript>: You make an oh, you just fixed a typo in the dock.
+
+01:38:19
+<transcript>: I'm so glad you made cloak. It's so cool. It's one of those things. Like.
+
+01:38:19
+<transcript>: you see
+
+01:38:24
+uberrick: I've YOLO'd my plugins. Latest for everything
+
+01:38:30
+<transcript>: You see a repos sometimes, Leighton, and you just know it's gonna be awesome. Like, I just the moment I saw it, the name you just named it perfectly, like Cloak. So cool.
+
+01:38:34
+cboorg: same LUL @UberRick
+
+01:38:38
+<transcript>: And then just like looking at the read and just like the whole thing is immediately. I knew I knew we were in the midst of greatness.
+
+01:38:38
+<transcript>: we were in the
+
+01:38:41
+<transcript>: We were in the presence of Greatness Leighton is a star.
+
+01:38:41
+<transcript>: and poke
+
+01:38:41
+cowfacedude99: @Jeusto there was a good one in last year's vimconf for conversion. and a few more are there too. prime has one too.
+
+01:38:43
+<transcript>: And Poke is amazing.
+
+01:38:49
+<transcript>: Okay, so we have surround. We have tree sitter text objects now. So you're telling me.
+
+01:38:52
+<transcript>: All I need to need to configure it right.
+
+01:38:55
+laytanl_: LOL yeah just a typo
+
+01:38:57
+<transcript>: So I have to configure these all independently. Select.
+
+01:39:04
+<transcript>: Are these all defaults? Define your own text objects mapping similar to IP, Interparagraph and AP.
+
+01:39:05
+laytanl_: Thanks for the kind words!
+
+01:39:11
+<transcript>: I wonder if this is all just default config or if I need to actually.
+
+01:39:18
+<transcript>: Lsp interope okay peak definition code show text object surrounding definition as determined using.
+
+01:39:20
+<transcript>: Lsp.
+
+01:39:20
+<transcript>: in a floating window
+
+01:39:20
+cboorg: good work @laytanl_
+
+01:39:24
+<transcript>: In a floating window, press the shorter twice into the floating window.
+
+01:39:32
+<transcript>: Good one last year's VM. Comp for conversion in a few more of their two prime has one two.
+
+01:39:34
+jeusto: @Jeusto Thanks, I
+
+01:39:35
+jeusto: I
+
+01:39:38
+jeusto: I'll check it out
+
+01:39:42
+<transcript>: Okay, you guys saw my good good resources Stroop.
+
+01:39:42
+<transcript>: and you were bashing your head
+
+01:39:52
+<transcript>: And you were bashing your head against the wall after some issues with your invim. Could Big only discover Homebrew supplied engine seven and ten. Eight. Yeah, mine is using eight. I should probably update to read me.
+
+01:39:59
+<transcript>: Thank you so much. El charisman, for the follow. I appreciate your follow a lot.
+
+01:39:59
+<transcript>: i really
+
+01:40:04
+<transcript>: I really do I just I love, I love streaming so much, I love.
+
+01:40:04
+<transcript>: that my work
+
+01:40:11
+<transcript>: That my work is no longer just me sitting in my office alone, that I have 84 of you sitting here talking with me. It's the best.
+
+01:40:11
+<transcript>: this is the
+
+01:40:14
+cowfacedude99: and you might want to look at nanotee's guide for neovim guide too
+
+01:40:15
+stroopwafel26: we love that you started streaming
+
+01:40:21
+<transcript>: This is the absolute best. So when someone follows me. Ah, thank you so much. The salt seat for the follow. When you follow me, I know that's somebody that wants to be here more. And I want you to be here more. So it's mutual.
+
+01:40:21
+<transcript>: there's this mutual
+
+01:40:26
+<transcript>: There's this mutual understanding that we like each other's company. And I really like it.
+
+01:40:26
+<transcript>: a whole lot
+
+01:40:27
+<transcript>: A whole lot.
+
+01:40:27
+<transcript>: okay
+
+01:40:28
+<transcript>: Okay.
+
+01:40:32
+cowfacedude99: it is one of the best guides on configuring neovim in lua
+
+01:40:36
+<transcript>: So I was looking for an answer in chat. Actually, I came over here to look for an answer. Not that I'm just using chaff for answers, but.
+
+01:40:36
+<transcript>: one
+
+01:40:38
+<transcript>: One of the best guides.
+
+01:40:38
+<transcript>: on
+
+01:40:40
+<transcript>: On if you're any of them in Lua.
+
+01:40:40
+<transcript>: thank you
+
+01:40:43
+<transcript>: Thank you, Stroop. That you love that I started streaming.
+
+01:40:43
+<transcript>: i was
+
+01:40:49
+<transcript>: I was looking for. I think it's the defaults. These are probably just the defaults, right.
+
+01:40:49
+<transcript>: should i copy and
+
+01:40:52
+<transcript>: Should I copy and paste all of this stuff into things into.
+
+01:40:52
+<transcript>: some config i
+
+01:40:57
+<transcript>: Some config. I can't say that into some config. Into some config.
+
+01:40:57
+<transcript>: i need to drink
+
+01:41:01
+<transcript>: I need to drink some fake copy so I can be really on top of it. This is all the stuff.
+
+01:41:02
+<transcript>: that
+
+01:41:03
+<transcript>: what are these
+
+01:41:03
+<transcript>: That it does.
+
+01:41:05
+<transcript>: What are these.
+
+01:41:13
+cowfacedude99: I don't think there's any default in treesitter
+
+01:41:15
+<transcript>: Oh, wow. And then these are the LSPs and what it supports in each one. Wow. I'm gonna I'm getting ready to get so many more features. Let's go down here to TS server and see what I'm about to get.
+
+01:41:15
+<transcript>: i need to add
+
+01:41:20
+<transcript>: I need to add the markdown. We got to add that to our list. I don't have a list.
+
+01:41:28
+<transcript>: Typescript, all these things we're about to get. I don't know what they are because the heading is way up there, but, oh, look at all those green dots. I'm so excited.
+
+01:41:32
+laytanl_: Ok I moved to alacritty
+
+01:41:44
+stroopwafel26: nice!
+
+01:41:45
+<transcript>: This is just reminding me. I need to look into more LSDs like there's things in here I probably use JSON was comments. I should add that. Oh, it doesn't have any texts. Okay, I guess I still should probably add it should have a JSON language server. Right.
+
+01:41:48
+<transcript>: There's a GraphQL language server.
+
+01:41:50
+<transcript>: Interesting.
+
+01:41:55
+<transcript>: Alright. All right. Here we go. Here we go. We're gonna do this.
+
+01:41:57
+<transcript>: To do.
+
+01:42:00
+<transcript>: Md.
+
+01:42:02
+<transcript>: To do.
+
+01:42:02
+<transcript>: let's see
+
+01:42:05
+<transcript>: Let's see. We want to.
+
+01:42:05
+<transcript>: add
+
+01:42:06
+<transcript>: Add.
+
+01:42:09
+<transcript>: Markdown.
+
+01:42:09
+<transcript>: mark
+
+01:42:13
+<transcript>: Mark down to let's see. We want to add.
+
+01:42:16
+<transcript>: Json LSP.
+
+01:42:16
+<transcript>: we
+
+01:42:18
+<transcript>: We want to.
+
+01:42:23
+<transcript>: Add.
+
+01:42:25
+<transcript>: Text.
+
+01:42:25
+<transcript>: object
+
+01:42:28
+<transcript>: Objects which we're working on right now.
+
+01:42:31
+<transcript>: What else did I want to do in my end, config. I think that's it.
+
+01:42:31
+<transcript>: oh graph
+
+01:42:35
+<transcript>: Oh. Graphql. We want to graph. Qlsp. Maybe.
+
+01:42:35
+<transcript>: add
+
+01:42:37
+<transcript>: Add graph.
+
+01:42:37
+stroopwafel26: @laytanl_ just finished my config but I'm not entirely convinced about font rendering compared to iterm2 and kitty
+
+01:42:39
+cowfacedude99: @adamelmore those are languages supported by treesitter. LSP and treesitter are completely separated.
+
+01:42:39
+<transcript>: That's good.
+
+01:42:39
+<transcript>: save
+
+01:42:47
+<transcript>: Save. Yes. What to do is previously created. What? I already created this.
+
+01:42:52
+<transcript>: Did I no.
+
+01:42:54
+<transcript>: I don't think so.
+
+01:42:54
+<transcript>: i don't think so
+
+01:42:57
+<transcript>: I don't think so, Tim. I think it's brand new. There it is. There's already.
+
+01:42:57
+<transcript>: so
+
+01:43:00
+<transcript>: So let's finish adding text objects.
+
+01:43:06
+<transcript>: And let's see. We added it here. We need to go in here to plug in.
+
+01:43:06
+<transcript>: and we need
+
+01:43:11
+uberrick: the pain when your first TODO of an md file is to add support for md haha
+
+01:43:12
+stroopwafel26: TODO.md was created Tuesday :P
+
+01:43:13
+<transcript>: And we need to add it. Should I add it in this plugin directory? Someone explained to me what that was. This is where we've got a bit of LSB stuff.
+
+01:43:13
+<transcript>: wonder if i should add it
+
+01:43:15
+<transcript>: Wonder if I should add it here.
+
+01:43:23
+<transcript>: Those are languages supported by tree setter. Lsp. Intruecenter are completely separated. Right. Right. Okay. So these aren't like these languages.
+
+01:43:23
+<transcript>: are
+
+01:43:28
+laytanl_: @stroopwafel26 I got it pretty close to my Iterm setup by fiddling with the config
+
+01:43:30
+<transcript>: Are completely separate from your LSP config. Okay, you just answered my question. Then I'm gonna put it up here next to treatment.
+
+01:43:36
+<transcript>: I want to put it in the same file. I just want to put it in my tree. Sitter, config. Maybe.
+
+01:43:36
+<transcript>: maybe
+
+01:43:37
+<transcript>: Maybe.
+
+01:43:43
+<transcript>: Parsers. Yeah. We're gonna just add it to this tree. Sitter, file.
+
+01:43:45
+<transcript>: Foldenable.
+
+01:43:48
+laytanl_: Mainly letter spacing was very tight
+
+01:43:53
+<transcript>: Okay.
+
+01:43:55
+<transcript>: Let's do.
+
+01:43:56
+stroopwafel26: @laytanl_ can you share yours?
+
+01:43:57
+<transcript>: Text, objects.
+
+01:44:00
+<transcript>: Next objects.
+
+01:44:02
+stroopwafel26: exactly, spacing is weird
+
+01:44:09
+<transcript>: Okay. Real bad when I'm working on a file like this and I can't see anything I'm typing because of keycaster.
+
+01:44:09
+<transcript>: you will not
+
+01:44:15
+<transcript>: You will not see anything. I'm tired because the keycaster as well. Yeah. Okay. So we have the same problem here.
+
+01:44:15
+<transcript>: where should i put
+
+01:44:18
+<transcript>: Where should I put keycaster? I just don't know what it belongs.
+
+01:44:18
+<transcript>: where it's not
+
+01:44:20
+cowfacedude99: that goes in the ts.setup @adamelmore
+
+01:44:23
+<transcript>: Where it's not in my face. I could put it at the top. No, it feels bad.
+
+01:44:26
+neochromer: top right?
+
+01:44:27
+<transcript>: I could put it in the middle.
+
+01:44:29
+purrplish: Us too
+
+01:44:31
+<transcript>: My Chrome key.
+
+01:44:31
+sirtimme: center bottom?
+
+01:44:35
+<transcript>: Slide keeps going off dries me crazy.
+
+01:44:40
+<transcript>: gotta fix it
+
+01:44:40
+<transcript>: Driving me crazy.
+
+01:44:41
+<transcript>: Gotta fix it.
+
+01:44:41
+uberrick: @SirTimme ^^
+
+01:44:50
+<transcript>: Just accidentally changing lights.
+
+01:44:54
+<transcript>: Okay.
+
+01:44:58
+laytanl_: @stroopwafel26 https://gist.github.com/laytan/a38d0f2741de2a73f2ccfc31e052e58b
+
+01:45:01
+<transcript>: Back on and then I got a did that even fix it.
+
+01:45:01
+<transcript>: i feel like
+
+01:45:03
+<transcript>: I feel like I fixed it.
+
+01:45:03
+<transcript>: still
+
+01:45:05
+<transcript>: chrome
+
+01:45:05
+<transcript>: Still really bad.
+
+01:45:07
+admiralnapman: when you type zz in nvim your cursor will get centered and you can read better than having it on bottom
+
+01:45:09
+<transcript>: Chrome a key bad. I think it's my key light and he's turn it back up.
+
+01:45:12
+<transcript>: Not too much.
+
+01:45:15
+<transcript>: Not too much, but enough.
+
+01:45:15
+<transcript>: okay
+
+01:45:20
+<transcript>: Okay. I think that fixed. Maybe some of the chromosome key issues. We still got some issues.
+
+01:45:23
+<transcript>: Maybe since I reset up my office.
+
+01:45:26
+<transcript>: That's better, though. Okay.
+
+01:45:33
+<transcript>: So text objects. We're going to configure it right here.
+
+01:45:40
+<transcript>: The pain when you're first to do of an MD file is to add support for MD exactly.
+
+01:45:44
+<transcript>: It's created Tuesday. What.
+
+01:45:54
+<transcript>: Did I create it on Tuesday and this I don't think I did in this directory. I mean, in this thing, right? I created that in the that was in the overlays repo.
+
+01:46:08
+stroopwafel26: oh i'm sorry, my brain gets confused by todo lists
+
+01:46:09
+<transcript>: That goes in the PS setup. Oh, it does. You're saying I can figure up here. I'm going to add this plugin.
+
+01:46:09
+<transcript>: let's just look
+
+01:46:11
+<transcript>: Let's just look at this.
+
+01:46:18
+<transcript>: Fire tree sitter configs. So I have to do all those things separate. But first I have to, like, just add it to text objects.
+
+01:46:18
+<transcript>: or
+
+01:46:21
+<transcript>: Or add it to tree, sitter.
+
+01:46:21
+<transcript>: and then
+
+01:46:27
+<transcript>: And then three circuit. Yeah. Yeah. Text objects right here. Okay. I'm guessing all of this is like default, though.
+
+01:46:29
+stroopwafel26: @laytanl_ thanks, x offset is perfect :)
+
+01:46:31
+<transcript>: Am I wrong.
+
+01:46:40
+<transcript>: Preseater configs. Perfect. Okay. So we're gonna do text, objects.
+
+01:46:45
+<transcript>: This all just default.
+
+01:46:47
+<transcript>: Define your own text object mapping so.
+
+01:46:57
+<transcript>: These are and then they're gonna walk through each of the things right? I'm gonna paste all this in, even if it's default.
+
+01:47:02
+<transcript>: Just so I can look at it if nothing else method expected.
+
+01:47:02
+<transcript>: x
+
+01:47:05
+<transcript>: X object equals out.
+
+01:47:07
+<transcript>: Json, people.
+
+01:47:13
+<transcript>: Okay.
+
+01:47:22
+<transcript>: Select enabled true automatically jump forward text object similar to targets of them.
+
+01:47:22
+<transcript>: key maps
+
+01:47:26
+<transcript>: Key Maps You can use Capture Groups to find in textobject. Scm.
+
+01:47:36
+<transcript>: So much configuring here to do, isn't there? I guess that's the whole point. That's why I signed up for new of them. Right. You can choose the select mode. Default character is v.
+
+01:47:38
+<transcript>: Default is.
+
+01:47:42
+<transcript>: Car Wise v. Anyone know what that means.
+
+01:47:45
+<transcript>: Neocromer says top right.
+
+01:47:49
+<transcript>: Center bottoms. There, Timmy says. Maybe those are better.
+
+01:47:55
+<transcript>: When you type ZZ and NVM, your cursor will get centered.
+
+01:47:55
+<transcript>: you can read better
+
+01:48:00
+<transcript>: You can read better than having it on the bottom when you type ZZ and invent oh really.
+
+01:48:03
+<transcript>: Zoozi.
+
+01:48:03
+<transcript>: oh
+
+01:48:06
+<transcript>: Oh, what if you're at the bottom of the buffer? So if I go down here.
+
+01:48:06
+<transcript>: i'm right here
+
+01:48:10
+<transcript>: I'm right here at the bottom, and I type ZZ. Oh, it still does it.
+
+01:48:18
+<transcript>: Nice. Same. Thank you so much, Adrian. I really appreciate that. See, I'm glad I read every message. I'd miss stuff like that.
+
+01:48:23
+<transcript>: Offset is broken anyway.
+
+01:48:29
+<transcript>: Anyway, center bottom. That's the vote for keycaster. So let's ties a bunch of stuff.
+
+01:48:31
+<transcript>: Let's move it.
+
+01:48:35
+<transcript>: That is still better. I think aesthetically. The problem is.
+
+01:48:35
+<transcript>: it doesn't
+
+01:48:35
+uberrick: Prime added zz to the end of some of his mappings
+
+01:48:41
+<transcript>: It doesn't like grow in both directions. You know, I'm saying so like if I type a little bit.
+
+01:48:43
+<transcript>: I'll show you.
+
+01:48:48
+<transcript>: Like that's kind of centered. But do I optimize for.
+
+01:48:48
+<transcript>: that
+
+01:48:52
+<transcript>: That or to optimize for like I typed a lot. There it all goes.
+
+01:48:52
+<transcript>: i guess
+
+01:48:58
+<transcript>: I guess I can make the width so that's the Max width. Yeah, yeah. I want it centered.
+
+01:48:58
+<transcript>: like perfect
+
+01:49:08
+<transcript>: Like, perfectly. I wish I could just type in, like, into the config. Like, center it'll do that. Okay. We're gonna go with that. It's pretty good.
+
+01:49:14
+<transcript>: So now it's gonna kind of not be centered. This could bother me so much. It's not centered in less.
+
+01:49:26
+<transcript>: Unless I type a lot, but I do type a lot, right? We'll be doing Jays in no time. We'll be so glad it's sinners like that. Oh, it's not centered. What was I even thinking? Okay.
+
+01:49:30
+<transcript>: We're gonna optimize for not a lot of text.
+
+01:49:34
+<transcript>: I'm done.
+
+01:49:34
+<transcript>: i promise
+
+01:49:37
+<transcript>: I promise. Okay.
+
+01:49:37
+<transcript>: okay
+
+01:49:38
+<transcript>: Okay.
+
+01:49:38
+<transcript>: select
+
+01:49:40
+<transcript>: Select over here.
+
+01:49:43
+<transcript>: I said that there we go.
+
+01:49:47
+<transcript>: This swap. We have Select.
+
+01:49:56
+<transcript>: This is swap. Define your map. We just swap the node under the cursor with the next or previous one, like function parameters or arguments. That sounds amazing.
+
+01:49:56
+<transcript>: that sounds
+
+01:49:58
+<transcript>: That sounds like.
+
+01:49:58
+<transcript>: some
+
+01:50:01
+<transcript>: Some vs code stuff I do.
+
+01:50:03
+<transcript>: So let's do.
+
+01:50:07
+<transcript>: Actually let's do require.
+
+01:50:16
+<transcript>: Visual mode.
+
+01:50:16
+<transcript>: copy
+
+01:50:18
+uberrick: try the jump to char on a line. Like f@ to jump to the first @ on a line for example
+
+01:50:19
+<transcript>: Copy. I don't want all that. Actually, I just want to flop.
+
+01:50:22
+<transcript>: Swap? Yep.
+
+01:50:24
+<transcript>: These are visual.
+
+01:50:24
+<transcript>: yank
+
+01:50:44
+<transcript>: Yanket and go over here. Look at this. Didn't even use my mouth. People. We're getting so good at this Neoven stuff or Ven stuff or whatever it is. So paste it on the next line. Why doesn't that paste it on the actual next line? When I hit P, I expect it to go to the next line Calico and then paste it, but it paste it like right where my cursor is at. Is that a setting? Did I mess up.
+
+01:50:44
+<transcript>: something
+
+01:50:47
+<transcript>: Something with P.
+
+01:50:56
+<transcript>: Oh, it's easy to end them. Some of this mapping that makes a ton of sense.
+
+01:51:03
+<transcript>: Try to jump to character online. Like F at to jump to first at online. Yeah, I've been working on that one.
+
+01:51:03
+<transcript>: so that
+
+01:51:09
+<transcript>: So that is something Uber or Sorry, Rick, that I've been working on is my horizontal net.
+
+01:51:10
+<transcript>: neto back
+
+01:51:10
+<transcript>: neto
+
+01:51:11
+<transcript>: Neto, back.
+
+01:51:11
+<transcript>: to the w
+
+01:51:14
+<transcript>: To the W. I do just like that.
+
+01:51:14
+<transcript>: i'm gonna go full
+
+01:51:22
+<transcript>: I'm gonna go full forward to the T. I go like, that. And I'm like, oh, not that one. That one. I'm just gonna keep practicing. You.
+
+01:51:28
+<transcript>: Know the page down and page up thing. I don't know if I'll ever get it or if I'll just J my way into Infinity.
+
+01:51:32
+<transcript>: It was like my future is still with Jays in case.
+
+01:51:40
+<transcript>: What do we do here? We added Swap. So enable through swap next liter. A parameter inner.
+
+01:51:49
+<transcript>: A previous leader? A leader. Capital A. We're gonna learn what all this means? We're gonna learn soon enough.
+
+01:51:58
+<transcript>: new of them's mapping
+
+01:51:58
+<transcript>: First, we have to copy all this config move. Define your own mapping to jump to the next or previous text object similar to that.
+
+01:51:59
+<transcript>: New of them's mapping.
+
+01:51:59
+<transcript>: next to previous
+
+01:52:01
+<transcript>: Next to previous function.
+
+01:52:04
+<transcript>: Okay.
+
+01:52:04
+laytanl_: Try control U and control D instead of page up or down
+
+01:52:08
+<transcript>: We're going to we're gonna add all this config.
+
+01:52:08
+<transcript>: control
+
+01:52:11
+<transcript>: Control U and DEA.
+
+01:52:11
+<transcript>: instead of page
+
+01:52:20
+<transcript>: Instead of page up, and yeah, that's what I meant when I said page up and page down, I meant Control U and Control D. I don't actually hit like a page up key. I do have it on my keyboard, though, but I don't use it.
+
+01:52:24
+<transcript>: Okay.
+
+01:52:25
+<transcript>: Move.
+
+01:52:31
+<transcript>: This one, we're gonna copy all this config.
+
+01:52:33
+<transcript>: Over here.
+
+01:52:39
+<transcript>: Why does that go to the next line? If should based on what I understand of them.
+
+01:52:43
+<transcript>: So let's move. Then we're gonna go over here again.
+
+01:52:43
+<transcript>: we're gonna get
+
+01:52:45
+<transcript>: We're gonna get.
+
+01:52:45
+<transcript>: this
+
+01:52:48
+<transcript>: This text. Object. Lsp. Interact.
+
+01:52:52
+<transcript>: Lsp interrupt.
+
+01:52:54
+<transcript>: Let's see. Interrupt.
+
+01:53:03
+<transcript>: Okay. So we've added all the configured text objects, right.
+
+01:53:06
+<transcript>: Overriding our extending.
+
+01:53:11
+<transcript>: Custom Capture built in captures.
+
+01:53:11
+<transcript>: i don't know
+
+01:53:29
+<transcript>: I don't know what these are yet. Attribute inner block and error. Okay, so these are like constructs, but this is not related to your LSP. You're telling me like text objects. They've just like, done all this work to figure out what all these things are independent of your LSP. Feels like they're doing a lot of the same work as the LSP.
+
+01:53:29
+<transcript>: looks like they should
+
+01:53:34
+<transcript>: Looks like they should combine forces and save themselves a little work, you know, I'm saying.
+
+01:53:34
+<transcript>: can't believe that's
+
+01:53:36
+<transcript>: Can't believe that's separate.
+
+01:53:39
+<transcript>: It's crazy to me.
+
+01:53:44
+<transcript>: Just work with your LSP somehow. I guess it kind of does this LSP interope. At least.
+
+01:53:50
+<transcript>: Peak definition Code So Leader DF.
+
+01:53:52
+<transcript>: As functionality.
+
+01:53:55
+laytanl_: It uses treesitter, which also does your highlighting
+
+01:53:59
+<transcript>: Is class outer. Okay, let's start using some of this and see what comes of it.
+
+01:53:59
+<transcript>: let's
+
+01:54:02
+<transcript>: Let's see what comes of.
+
+01:54:05
+<transcript>: This problem.
+
+01:54:05
+<transcript>: problem
+
+01:54:07
+<transcript>: field
+
+01:54:07
+<transcript>: Problem with our.
+
+01:54:09
+<transcript>: Field edition.
+
+01:54:10
+<transcript>: 15.
+
+01:54:13
+<transcript>: So.
+
+01:54:13
+rjayuu: Treesitter is its own AST, the whole design is orthogonal to LSP. I guess always intending to be used alongside
+
+01:54:19
+laytanl_: much lighter than lsp
+
+01:54:20
+<transcript>: We have a like a Syndax problem here. Something.
+
+01:54:21
+<transcript>: Let's see.
+
+01:54:29
+<transcript>: No full pound. Thanks for the follow Ex. Bernie.
+
+01:54:32
+<transcript>: Much lighter than LSP. Okay.
+
+01:54:32
+<transcript>: so tre
+
+01:54:39
+<transcript>: So Tree Sir is its own AST the whole design is orthogonal to LSP, I guess always intending to be used alongside interesting.
+
+01:54:39
+<transcript>: thank you so much
+
+01:54:41
+rjayuu: and works with multiple languages/markdowns out of the box
+
+01:54:42
+<transcript>: Thank you so much pascript for the follow.
+
+01:54:42
+<transcript>: it use
+
+01:54:44
+<transcript>: It uses.
+
+01:54:44
+<transcript>: which also does
+
+01:54:48
+<transcript>: Which also does your highlighting Yay okay.
+
+01:54:58
+<transcript>: Works with multiple languages. Markdowns right of the box. Okay, so I don't even have to, like, initially install LSP's to get this tree shooter stuff.
+
+01:55:01
+<transcript>: So something's wrong with my config? Here.
+
+01:55:01
+<transcript>: text
+
+01:55:03
+<transcript>: Text, objects.
+
+01:55:05
+<transcript>: Highlight.
+
+01:55:09
+rjayuu: Nope, just the treesitter grammars which are much more lightweight
+
+01:55:13
+<transcript>: Text, objects.
+
+01:55:13
+<transcript>: select
+
+01:55:16
+<transcript>: Select. And then after select, we have swap.
+
+01:55:19
+<transcript>: After swap we have move.
+
+01:55:23
+<transcript>: An LSP interact.
+
+01:55:26
+<transcript>: Okay, but some things wrong.
+
+01:55:29
+<transcript>: With all that stuff.
+
+01:55:40
+<transcript>: What do we think.
+
+01:55:44
+<transcript>: There's wrong with my config.
+
+01:55:51
+<transcript>: Objects.
+
+01:55:55
+<transcript>: I need to do anything else.
+
+01:56:00
+<transcript>: Inventory. Sitter configs.
+
+01:56:00
+<transcript>: requiring
+
+01:56:03
+<transcript>: Requiring that. And we're adding all this config.
+
+01:56:14
+<transcript>: You can install text subjects it takes up or use the default pack feature of Neal VM. Default Pack feature of Neovim. What is that.
+
+01:56:20
+<transcript>: There's a default. Do I not need Packer anymore? Did they incorporate it into neovem.
+
+01:56:27
+<transcript>: Do what's this? Invtree sitter.
+
+01:56:29
+<transcript>: Do TS update.
+
+01:56:34
+<transcript>: I'm not using them. Plug.
+
+01:56:37
+<transcript>: I.
+
+01:56:47
+<transcript>: Know what's wrong.
+
+01:56:47
+<transcript>: when i
+
+01:56:55
+<transcript>: When I try to save the file, this buffer. Oh, wait. Is it just working now? Oh, it's just working. Oh, when I tried to source it, yeah, Yeah.
+
+01:56:55
+<transcript>: error detect
+
+01:57:00
+<transcript>: Error detectoring Air detected while processing source.
+
+01:57:06
+<transcript>: Air executing Lua tree center query Invalid field the position 15.
+
+01:57:08
+<transcript>: Let's do this.
+
+01:57:13
+<transcript>: Go back to plugins.
+
+01:57:17
+<transcript>: Inside the side. I'm doing the latest.
+
+01:57:21
+<transcript>: Consider in the layer streets that are text objects instead of pinning them.
+
+01:57:28
+<transcript>: Why did we just update those eleven minutes ago? We literally just updated those eleven minutes ago. Wow.
+
+01:57:28
+<transcript>: we
+
+01:57:31
+<transcript>: We are getting the very latest.
+
+01:57:31
+<transcript>: like
+
+01:57:32
+<transcript>: Like.
+
+01:57:32
+<transcript>: very very
+
+01:57:35
+<transcript>: Very, very latest that is.
+
+01:57:40
+<transcript>: Not the UpToDate code right there.
+
+01:57:48
+<transcript>: So if I try and save it now is it doing the thing where it auto collapses, everything.
+
+01:57:48
+<transcript>: so
+
+01:57:50
+<transcript>: So source this thing.
+
+01:57:50
+<transcript>: no
+
+01:57:52
+<transcript>: No.
+
+01:57:56
+<transcript>: Actually, let's try. Just quitting.
+
+01:57:56
+<transcript>: in them because i
+
+01:57:58
+<transcript>: In them because I wonder if.
+
+01:58:01
+<transcript>: Something else wasn't sourced. Maybe.
+
+01:58:04
+<transcript>: Let's go.
+
+01:58:04
+<transcript>: here
+
+01:58:05
+<transcript>: Here.
+
+01:58:05
+<transcript>: pres
+
+01:58:07
+<transcript>: Presetter.
+
+01:58:12
+<transcript>: Okay. So I didn't get any errors when I opened in Vin. So that means.
+
+01:58:17
+<transcript>: It's good. Now I just had no source. Something else? There's a plugins file or something. I don't know.
+
+01:58:17
+<transcript>: but we should have it now
+
+01:58:21
+<transcript>: But we should have it now. We should have text object support. So let's go over here.
+
+01:58:21
+<transcript>: let's quit
+
+01:58:24
+<transcript>: Let's quit and reopen in them and our overlays project.
+
+01:58:29
+<transcript>: And let's see, let's see what I want to open.
+
+01:58:33
+nullchefo: blazingly latest primeagenHeyy
+
+01:58:33
+<transcript>: Index.
+
+01:58:39
+<transcript>: Nice default. So we're in here. We're gonna learn some text, objects, stuff.
+
+01:58:49
+<transcript>: Earlier I could delete a function with DAF.
+
+01:58:57
+<transcript>: Is that considered a function? It's a hook. Yeah, it's a function.
+
+01:59:01
+<transcript>: F. No. Okay, not deaf.
+
+01:59:05
+<transcript>: Blazingly latest. That's right in Old Chef. Oh.
+
+01:59:05
+rjayuu: Might need to install the typescript grammar
+
+01:59:10
+<transcript>: It's the blazingly latest code.
+
+01:59:22
+<transcript>: So DAFF, not it. What do we have here? Function outer. So these are the key maps you can use capture groups to file intext objects. So DAF should have deleted the outer function right.
+
+01:59:26
+<transcript>: I just do AF.
+
+01:59:26
+<transcript>: let's
+
+01:59:29
+<transcript>: Let's be in visual mode.
+
+01:59:34
+<transcript>: Oh, a cuz. Yeah, I can do that.
+
+01:59:36
+<transcript>: There you go into.
+
+01:59:36
+<transcript>: insert
+
+01:59:38
+<transcript>: Insert mode.
+
+01:59:38
+<transcript>: is it
+
+01:59:40
+<transcript>: Is It leader? Af.
+
+01:59:40
+<transcript>: these all
+
+01:59:42
+<transcript>: These all leader.
+
+01:59:42
+<transcript>: that lead
+
+01:59:44
+<transcript>: That leader, DAFF.
+
+01:59:44
+<transcript>: now
+
+01:59:47
+<transcript>: Now. Peter. Af. No.
+
+01:59:47
+<transcript>: okay
+
+01:59:52
+<transcript>: Okay. Someone helped me out here. Do I know? Maybe we just don't have it. It's not loaded.
+
+01:59:55
+<transcript>: Did I miss something in my config.
+
+01:59:59
+<transcript>: Selection modes.
+
+02:00:02
+<transcript>: Default. This car was the.
+
+02:00:06
+<transcript>: I gotta test this stuff I need to install the TypeScript grammar.
+
+02:00:07
+laytanl_: maybe it doesn't support these functions
+
+02:00:08
+<transcript>: Oh.
+
+02:00:14
+<transcript>: Like if I do LSBs different. It's different than text.
+
+02:00:16
+<transcript>: tree
+
+02:00:16
+<transcript>: Tree sitter.
+
+02:00:17
+taerser: daf within function?
+
+02:00:17
+<transcript>: Tree.
+
+02:00:17
+<transcript>: sitter
+
+02:00:19
+<transcript>: Sitter.
+
+02:00:20
+<transcript>: Tree.
+
+02:00:22
+laytanl_: it should work with 'daf'
+
+02:00:28
+<transcript>: What are the tree sitter commands? Is there like a tree setter status of TS? I think I've seen.
+
+02:00:31
+rjayuu: :TSInstall
+
+02:00:33
+<transcript>: Ts.
+
+02:00:33
+<transcript>: angel
+
+02:00:35
+<transcript>: Angel info.
+
+02:00:37
+mindtricks: whos that handsome devil?
+
+02:00:41
+<transcript>: Ts? Config info.
+
+02:00:44
+sondreal: how is the switch to VIM going?
+
+02:00:44
+<transcript>: No, don't want that.
+
+02:00:48
+<transcript>: Definitely not that. How do I get out of this.
+
+02:00:48
+<transcript>: what am i in
+
+02:00:51
+<transcript>: What am I in? Quit.
+
+02:00:55
+<transcript>: Let's try TS. Something else.
+
+02:00:59
+<transcript>: Module info.
+
+02:01:01
+<transcript>: Is this.
+
+02:01:01
+<transcript>: context
+
+02:01:02
+<transcript>: Context.
+
+02:01:10
+<transcript>: Those TypeScript added here.
+
+02:01:13
+rjayuu: :TSInstall typescript
+
+02:01:13
+<transcript>: i mean
+
+02:01:13
+<transcript>: Typescript.
+
+02:01:16
+<transcript>: oh
+
+02:01:16
+<transcript>: I mean it's added. I don't know.
+
+02:01:17
+<transcript>: Oh, here we go.
+
+02:01:17
+<transcript>: next object
+
+02:01:19
+<transcript>: Next objects.
+
+02:01:23
+<transcript>: Typescript.
+
+02:01:28
+<transcript>: I don't know if this is actually telling me anything.
+
+02:01:30
+<transcript>: What this is telling me.
+
+02:01:33
+<transcript>: I get out of it, though.
+
+02:01:33
+<transcript>: there's just a buffer
+
+02:01:34
+<transcript>: There's just a buffer.
+
+02:01:38
+<transcript>: That's just a buffer. I guess so.
+
+02:01:43
+<transcript>: Mine. Tricks. Welcome to Chat. Who's? That handsome devil? Are you talking about? Me.
+
+02:01:46
+<transcript>: Or somebody I pulled up on screen.
+
+02:01:51
+<transcript>: Feel like you're not talking. Have you seen my hair today? Look at this.
+
+02:01:55
+<transcript>: Am I the handsome devil you're referring to? I don't think so.
+
+02:01:55
+<transcript>: i don't think so
+
+02:02:01
+<transcript>: I don't think so. Tim might need to install types of grammar. Do we think so? Maybe it doesn't support these functions.
+
+02:02:01
+<transcript>: dap
+
+02:02:06
+<transcript>: Dap within function? Yeah. Teresa, this was trying. So I'm inside a function. Here.
+
+02:02:06
+<transcript>: daf
+
+02:02:07
+<transcript>: Daf.
+
+02:02:09
+<transcript>: And nothing.
+
+02:02:21
+<transcript>: I wonder if it's conflicting with bad hair day. Yeah, that's already. A bad hair day. Just got worse. I guess it should work with Beth TS install. Okay.
+
+02:02:25
+<transcript>: Install like that argument required.
+
+02:02:30
+stroopwafel26: chroma key?!
+
+02:02:31
+<transcript>: Argument required. How is the switch to Vimgoing? It's going all right, Sandriel, I'm loving it.
+
+02:02:31
+<transcript>: to install
+
+02:02:34
+<transcript>: To install touch script. Okay.
+
+02:02:34
+<transcript>: chrom
+
+02:02:41
+<transcript>: Chroma key? Yeah. The Chroma key gets really messed up on this bad hair day. Some of these Snap filters, they have, like, colorization going on.
+
+02:02:41
+<transcript>: with
+
+02:02:44
+taerser: i don't think it recognize hook as function
+
+02:02:48
+<transcript>: With like the background. So it just screws up the Chroma key. There's nothing I can do about it. Nothing I want to do about it.
+
+02:02:48
+<transcript>: yes
+
+02:02:49
+laytanl_: try with a 'function x()' syntax maybe🤔
+
+02:02:50
+<transcript>: Yes install.
+
+02:02:56
+<transcript>: After pressure already available. Would you like to reinstall? Sure. Why not.
+
+02:03:00
+<transcript>: Okay.
+
+02:03:00
+<transcript>: daff
+
+02:03:01
+<transcript>: Daff.
+
+02:03:06
+<transcript>: It's just not even what my mat, my key maths are set to or something.
+
+02:03:09
+<transcript>: Would that be select? Would that be move.
+
+02:03:16
+<transcript>: Are there logs I need to look at.
+
+02:03:22
+laytanl_: select
+
+02:03:27
+<transcript>: Optional set descriptions to the mappings is my config just not good.
+
+02:03:27
+<transcript>: try with
+
+02:03:33
+<transcript>: Try with the function X syntax. Oh, yeah, yeah. So maybe it doesn't handle these constant.
+
+02:03:41
+<transcript>: Let's try a function like this function.
+
+02:03:41
+<transcript>: yeah
+
+02:03:43
+<transcript>: Yeah.
+
+02:03:43
+<transcript>: right there
+
+02:03:49
+<transcript>: Right there. So here if I just, like, an inside this. And I do DAFF. Oh, yeah, that one worked.
+
+02:03:54
+<transcript>: But it leaves. So what does it do, though? It looks.
+
+02:03:57
+<transcript>: Leave. That why. Oh, that.
+
+02:03:57
+<transcript>: 's
+
+02:04:00
+<transcript>: 's the definition.
+
+02:04:00
+<transcript>: why can't
+
+02:04:07
+<transcript>: Why can't I fold that? My folding is kind of worthless. I can't ever fold things. I want to fold.
+
+02:04:07
+<transcript>: so
+
+02:04:16
+<transcript>: So there's a knit down here. So, yeah, it deletes. The whole thing definitely does. Daff it's gone. So it's just. I can't write functions like that anymore.
+
+02:04:16
+<transcript>: if i write
+
+02:04:18
+<transcript>: If I write them like.
+
+02:04:18
+<transcript>: this
+
+02:04:21
+<transcript>: This where they're like Lambda arrows.
+
+02:04:21
+<transcript>: like this
+
+02:04:23
+<transcript>: Like this, right.
+
+02:04:27
+<transcript>: On my.
+
+02:04:34
+<transcript>: Doesn't work.
+
+02:04:34
+<transcript>: do that
+
+02:04:35
+<transcript>: Do that.
+
+02:04:35
+<transcript>: here
+
+02:04:41
+rjayuu: You'll just have to learn treesitter, and update the plugin to handle hooks Kappa
+
+02:04:45
+<transcript>: Here. No, DAFF. It's deleting the function below. That's a little disheartening. So I'm in this function, right. And then I say, DAFF and deletes that function.
+
+02:04:48
+<transcript>: I expected.
+
+02:04:48
+<transcript>: just
+
+02:04:52
+<transcript>: Just have to learn treesitter and update the plug the plugin to handle hooks.
+
+02:04:52
+<transcript>: oh
+
+02:04:55
+<transcript>: Oh, yeah. Okay, we could update the plugins.
+
+02:04:55
+<transcript>: maybe
+
+02:05:02
+<transcript>: Maybe Late wants to do it. Hey, Leighton, while you're at making awesome knees and plugins, maybe you want to.
+
+02:05:06
+<transcript>: Update the TypeScript grammar and treats it or object.
+
+02:05:09
+<transcript>: objects or whatever
+
+02:05:09
+<transcript>: objects or whatever i don't know
+
+02:05:12
+<transcript>: Objects or whatever. I don't know what? We'd be updating. We'd be updating something.
+
+02:05:15
+<transcript>: the better it is
+
+02:05:15
+<transcript>: All right.
+
+02:05:17
+<transcript>: The better it is just too much for me.
+
+02:05:17
+<transcript>: but i do
+
+02:05:19
+laytanl_: that is what 'lookahead' does in your config
+
+02:05:21
+<transcript>: But I do feel cool when I wear these. So let's do that.
+
+02:05:40
+<transcript>: So look ahead does in your config. Oh, it is. Look ahead is true. Automatically jump forward to text objects similar to targets. Oh, so that's why it deleted that function, even though it wasn't in that function. Why would I want to do that, though I'm not in that function. While I believe just the next object.
+
+02:05:46
+<transcript>: I don't feel like I want that. But I want to see if that if I turn it off. Does that.
+
+02:05:46
+<transcript>: so
+
+02:05:48
+<transcript>: So F true.
+
+02:05:51
+<transcript>: See at this actually.
+
+02:05:54
+<transcript>: Is the case.
+
+02:05:57
+<transcript>: Did I make any changes I want to save? I don't think so.
+
+02:05:59
+<transcript>: Now.
+
+02:06:07
+stroopwafel26: gotta say, alacritty does feel snappy, I wonder what terminal I'll switch to next week
+
+02:06:08
+<transcript>: Let's now I'm inside this function. And I say.
+
+02:06:08
+<transcript>: deaf
+
+02:06:11
+<transcript>: someone can
+
+02:06:11
+<transcript>: Deaf. It doesn't delete. It cool.
+
+02:06:20
+<transcript>: Someone can tell me if that's just terrible. If turning off look ahead is the dumbest thing you've ever seen. Let me know otherwise. I think I don't want one. Go ahead. I don't think I want to delete things.
+
+02:06:20
+<transcript>: that are
+
+02:06:23
+<transcript>: That are next in line just for fun Zies.
+
+02:06:30
+<transcript>: Got to say Alacrity does feel snappy. I wonder what terminal is, what's to next week.
+
+02:06:40
+<transcript>: Okay. So I'm seeing now that some of the defaults are not.
+
+02:06:44
+<transcript>: Like this is configuring this to be not the default.
+
+02:06:53
+<transcript>: Succeeding Whites. This is Priority Owners Act. Similarly to example builtin AP. Okay, so let's learn some more of this stuff. Let's.
+
+02:06:57
+<transcript>: That was the lead a function.
+
+02:06:57
+<transcript>: we can also
+
+02:07:05
+<transcript>: We can also, I guess Yanka function. So I'm inside this function. If I do YF oh, don't do, don't add an s.
+
+02:07:10
+laytanl_: might help changing '@function.outer' to '@block.outer'
+
+02:07:15
+<transcript>: Yeah, cool. Yank. That function feels good. It feels bad that I'm gonna have to write functions this very specific way that can't handle the arrow.
+
+02:07:15
+<transcript>: syntax
+
+02:07:16
+<transcript>: function
+
+02:07:16
+<transcript>: Syntax.
+
+02:07:19
+laytanl_: that might work with hooks
+
+02:07:20
+<transcript>: Function Adder to block Adder. Oh, okay.
+
+02:07:20
+<transcript>: so
+
+02:07:22
+<transcript>: So you think that might.
+
+02:07:22
+<transcript>: that might
+
+02:07:27
+<transcript>: That might work with hooks? Let's try it late, let's try it.
+
+02:07:30
+<transcript>: Block, outer.
+
+02:07:35
+<transcript>: Inside would be blocked inner if we did that, I guess.
+
+02:07:39
+<transcript>: I don't want to get ahead of myself, but also, I guess I just did so.
+
+02:07:39
+<transcript>: didn't
+
+02:07:43
+<transcript>: Didn't want to not get ahead of myself that badly, I guess.
+
+02:07:43
+<transcript>: let's sort
+
+02:07:44
+<transcript>: Let's sort.
+
+02:07:44
+<transcript>: of need
+
+02:07:48
+<transcript>: Of need to source it. I'm doing it over here. Right.
+
+02:07:50
+<transcript>: In vim.
+
+02:07:50
+<transcript>: we're gonna take
+
+02:07:55
+<transcript>: We're gonna take a break here shortly, and I'm gonna get my Dandy blend.
+
+02:07:59
+<transcript>: River TS. I guess I'm gonna start eating up some water.
+
+02:08:03
+<transcript>: Really need a button on my stream deck to eat up water.
+
+02:08:03
+<transcript>: that'd be great
+
+02:08:04
+<transcript>: That'd be great.
+
+02:08:14
+<transcript>: Alright.
+
+02:08:21
+<transcript>: Water is heating. We're gonna see.
+
+02:08:21
+<transcript>: if this
+
+02:08:29
+<transcript>: If this works with this thing now I delete that function. It does work to delete the contents of the function. I guess.
+
+02:08:33
+<transcript>: So DAFF deleted.
+
+02:08:35
+stroopwafel26: what internet enabled hot water thing do you have?
+
+02:08:37
+<transcript>: This block. The try block. If I'm on here and I do it.
+
+02:08:41
+<transcript>: I go here, and I do it.
+
+02:08:41
+<transcript>: half
+
+02:08:42
+<transcript>: Half.
+
+02:08:42
+<transcript>: ooh
+
+02:08:44
+<transcript>: Ooh, I don't know what it did.
+
+02:08:48
+<transcript>: Or block.
+
+02:09:00
+<transcript>: What about what was the inner diff.
+
+02:09:04
+laytanl_: yeah block is more general
+
+02:09:06
+<transcript>: So this is supposed to delete the insides of a function. Yeah.
+
+02:09:06
+<transcript>: did
+
+02:09:08
+<transcript>: Did okay.
+
+02:09:11
+laytanl_: might not be ideal
+
+02:09:15
+<transcript>: I think we're gonna go back.
+
+02:09:15
+<transcript>: to
+
+02:09:17
+<transcript>: To function instead of block.
+
+02:09:19
+<transcript>: Think that's.
+
+02:09:23
+<transcript>: More what we're looking for, right.
+
+02:09:27
+<transcript>: We just need to start writing.
+
+02:09:27
+<transcript>: i mean for
+
+02:09:35
+<transcript>: I mean for hooks. I just don't know. There's just not probably hope for hooks unless we make changes to tree center text objects. Is there a real.
+
+02:09:39
+<transcript>: React grammar.
+
+02:09:39
+<transcript>: i could check
+
+02:09:43
+<transcript>: I could check. Not gonna check. Right the second, though.
+
+02:09:45
+<transcript>: And then like that.
+
+02:10:01
+<transcript>: So we're back to DAFF doesn't work in functions that are fine with an arrow like that. It does work in these. I think I just need to start writing my functions like this. It's probably better to just not mix and match like I do.
+
+02:10:03
+<transcript>: Anyway.
+
+02:10:03
+<transcript>: so
+
+02:10:07
+<transcript>: So for instance, if I wanted to change this one.
+
+02:10:08
+<transcript>: I would do.
+
+02:10:11
+<transcript>: Async function.
+
+02:10:15
+<transcript>: And then I would remove that.
+
+02:10:15
+<transcript>: i would
+
+02:10:16
+<transcript>: really
+
+02:10:16
+<transcript>: I would.
+
+02:10:19
+<transcript>: Really that word. I would.
+
+02:10:26
+<transcript>: Like this.
+
+02:10:41
+laytanl_: if you scroll down the readme you see the captures that are available, there might be something that matches arrow functions too
+
+02:10:42
+rjayuu: A quick google suggests the base 'javascript' grammar should cover react, but I assume you have that installed already
+
+02:10:45
+<transcript>: And then I would need to type these.
+
+02:10:50
+<transcript>: Custom Requests list.
+
+02:10:58
+<transcript>: Js request or something. What is it? Next request.
+
+02:11:00
+<transcript>: How it is.
+
+02:11:03
+<transcript>: Think.
+
+02:11:03
+<transcript>: and then this would
+
+02:11:05
+<transcript>: And then this would be a.
+
+02:11:05
+<transcript>: next
+
+02:11:06
+<transcript>: Next response.
+
+02:11:06
+<transcript>: it's like
+
+02:11:08
+<transcript>: It's like that.
+
+02:11:11
+<transcript>: I think that's what Custom server.
+
+02:11:11
+<transcript>: or customer
+
+02:11:13
+<transcript>: Or Customer Request listener.
+
+02:11:15
+<transcript>: Let's see.
+
+02:11:19
+<transcript>: This one.
+
+02:11:27
+<transcript>: Yeah, incoming message. I was off incoming message and custom server response, so I was in close.
+
+02:11:29
+<transcript>: Okay.
+
+02:11:35
+<transcript>: Why don't I just save that for I'm gonna go back.
+
+02:11:35
+<transcript>: so
+
+02:11:37
+<transcript>: incoming
+
+02:11:37
+<transcript>: So this would be.
+
+02:11:38
+<transcript>: Incoming message.
+
+02:11:44
+<transcript>: And then I get it.
+
+02:11:44
+<transcript>: get it
+
+02:11:51
+<transcript>: Get it. Yeah. And then this would be a what did I say? Custom server response or something.
+
+02:11:54
+<transcript>: Custom.
+
+02:11:54
+<transcript>: server
+
+02:11:57
+<transcript>: Server response? Yeah. Okay.
+
+02:11:57
+<transcript>: so that would
+
+02:11:59
+<transcript>: So that would work right.
+
+02:12:03
+<transcript>: Conversion. Five.
+
+02:12:09
+<transcript>: Incompatible type server response is not comparable to Type custom server response.
+
+02:12:13
+<transcript>: That so oh as request listener.
+
+02:12:16
+<transcript>: That is no longer.
+
+02:12:23
+<transcript>: You're saying you can't convert that to request online.
+
+02:12:23
+<transcript>: where am i
+
+02:12:24
+<transcript>: Where am I.
+
+02:12:29
+<transcript>: Sometimes I just panic in them. Let me start. Like smashing keys.
+
+02:12:32
+<transcript>: Block is more general.
+
+02:12:42
+<transcript>: Strip. It's my. It's my fridge. My fridge has hot water. And it has, like, smart phones, whatever. Connectivity.
+
+02:12:50
+<transcript>: Block is more generally might not be ideal if you scroll down the README, you see the captures that are available. There might be something that matches Aero functions to oh, maybe.
+
+02:12:50
+<transcript>: quick google
+
+02:12:57
+<transcript>: Quick, Google suggests the base JavaScript grammar should cover react, but assume you have that installed already. Yeah, I think we've got JavaScript. I wonder.
+
+02:12:57
+<transcript>: if there's
+
+02:12:59
+<transcript>: If there's a capture here, let's see.
+
+02:13:01
+stroopwafel26: a fridge with a hot water function? you're living in the future
+
+02:13:04
+<transcript>: Frame function loop parameter scope name statement.
+
+02:13:06
+<transcript>: Call.
+
+02:13:06
+<transcript>: lock
+
+02:13:10
+<transcript>: Lock attribute. Okay. Interesting. We could play with those.
+
+02:13:13
+<transcript>: Parameterscope, name statements.
+
+02:13:17
+<transcript>: So I'm just. I'm changing this function to be.
+
+02:13:22
+<transcript>: This listener to be an actual I guess I needed to find the response.
+
+02:13:22
+<transcript>: what does that
+
+02:13:24
+<transcript>: What does that thing respond.
+
+02:13:26
+<transcript>: To.
+
+02:13:28
+<transcript>: It's here.
+
+02:13:28
+<transcript>: it returns
+
+02:13:30
+<transcript>: It returns. Void. Okay.
+
+02:13:32
+<transcript>: Custom Server response.
+
+02:13:32
+<transcript>: is
+
+02:13:36
+<transcript>: Is a server response plus it has a server.
+
+02:13:36
+<transcript>: so why
+
+02:13:37
+<transcript>: So why.
+
+02:13:39
+<transcript>: I can't.
+
+02:13:44
+<transcript>: telling me is i'm
+
+02:13:44
+<transcript>: This listener.
+
+02:13:54
+<transcript>: Telling me is I'm too different conversion types incoming message types of parameters or sponsors Incomatible. Type server response is not comparable to type custom server response.
+
+02:14:01
+<transcript>: Yeah. I mean, yeah, I guess whatever.
+
+02:14:03
+<transcript>: As unknown.
+
+02:14:08
+<transcript>: Do you think sometimes I say whatever TypeScript, whatever.
+
+02:14:11
+<transcript>: or
+
+02:14:11
+<transcript>: The Trust me.
+
+02:14:13
+<transcript>: Or work.
+
+02:14:17
+<transcript>: As Customs server.
+
+02:14:20
+<transcript>: Okay.
+
+02:14:20
+<transcript>: guess i could
+
+02:14:23
+<transcript>: Guess I could make it optional. No, that would work.
+
+02:14:28
+<transcript>: To our.
+
+02:14:40
+<transcript>: Let's go to request listener wait a minute wait a minute.
+
+02:14:42
+<transcript>: Wait a minute.
+
+02:14:47
+<transcript>: Custom listener, did I remove it up here? Custom Request listener.
+
+02:14:51
+<transcript>: As your quest listener.
+
+02:14:57
+<transcript>: Okay. So we're importing information.
+
+02:15:03
+<transcript>: In order to say it's a request listener. I think what I need to do is.
+
+02:15:12
+<transcript>: I need to go here and say that's optional. Maybe I'm just gonna break so many things. I just want to see if it fixes this thing, though.
+
+02:15:12
+<transcript>: we fix that so
+
+02:15:13
+<transcript>: We fix that. So.
+
+02:15:15
+<transcript>: If it's optional.
+
+02:15:20
+<transcript>: It's optional? It works? But we're gonna break so many things.
+
+02:15:20
+<transcript>: i think
+
+02:15:21
+<transcript>: I think.
+
+02:15:21
+<transcript>: basically
+
+02:15:24
+<transcript>: Basically all these things, right.
+
+02:15:26
+<transcript>: server
+
+02:15:26
+<transcript>: Lib.
+
+02:15:28
+<transcript>: Server TS.
+
+02:15:30
+<transcript>: Lib.
+
+02:15:30
+<transcript>: like ob
+
+02:15:33
+<transcript>: Like OBS or something. Something that takes in.
+
+02:15:33
+<transcript>: the server
+
+02:15:35
+<transcript>: The server and expects.
+
+02:15:35
+<transcript>: even better
+
+02:15:38
+<transcript>: Even better in the API route.
+
+02:15:42
+<transcript>: And here like.
+
+02:15:42
+<transcript>: these expect
+
+02:15:43
+<transcript>: These expect.
+
+02:15:55
+<transcript>: I'm looking for server.
+
+02:15:59
+<transcript>: There we go.
+
+02:15:59
+<transcript>: oh so
+
+02:16:02
+<transcript>: Oh, so it's not even though it's optional now.
+
+02:16:05
+<transcript>: Server.
+
+02:16:05
+<transcript>: even though that
+
+02:16:09
+<transcript>: Even though that's optional. Is it not throwing? It's not upset about this.
+
+02:16:17
+<transcript>: Here.
+
+02:16:24
+<transcript>: So go back if I'm going to go back to S, I say.
+
+02:16:30
+<transcript>: Like that. Yeah. Okay.
+
+02:16:30
+<transcript>: custom server
+
+02:16:31
+<transcript>: Custom server.
+
+02:16:31
+<transcript>: you're tell
+
+02:16:33
+<transcript>: You're telling me.
+
+02:16:36
+<transcript>: Wait a minute.
+
+02:16:40
+<transcript>: Custom Server the listener.
+
+02:16:43
+<transcript>: Did I not break everything? I thought I was gonna break everything.
+
+02:16:52
+<transcript>: By saying that on the listener, it's optional. I guess not. Okay, but I'd have to handle all the what if it's undefined cases.
+
+02:16:52
+<transcript>: fairly not
+
+02:16:58
+<transcript>: now
+
+02:16:58
+<transcript>: Fairly not. We're good. So this is how I would do it. I would make this function look like this instead.
+
+02:17:00
+<transcript>: i can delete
+
+02:17:00
+<transcript>: Now.
+
+02:17:01
+<transcript>: i want to delete it
+
+02:17:01
+<transcript>: I can delete it.
+
+02:17:03
+<transcript>: I want to delete it, but I could.
+
+02:17:03
+<transcript>: okay
+
+02:17:05
+<transcript>: Okay. Let's clean up.
+
+02:17:07
+<transcript>: Let's clean out.
+
+02:17:12
+<transcript>: everybody
+
+02:17:12
+<transcript>: Let's clean up, clean up.
+
+02:17:17
+<transcript>: Everybody do your shit. That's the song we sing when my kids make a mess and we have to clean up.
+
+02:17:30
+<transcript>: Okay, scroll down the remain so we check that quick Google statistry. Okay. Fridge with hot water function. You're living in the future. You bet I am. Let's take quick break and we come back. We're gonna learn some more text objects.
+
+02:17:30
+<transcript>: there's some more
+
+02:17:35
+<transcript>: There's some more to learn here. I've not done. I've just scratched the surface. Really.
+
+02:17:38
+stroopwafel26: I'm gonna take my daughter to the library
+
+02:17:38
+<transcript>: Just scrapched it.
+
+02:17:38
+<transcript>: like
+
+02:17:41
+<transcript>: leader
+
+02:17:41
+<transcript>: Like, what is the leader? Df. Do.
+
+02:17:44
+stroopwafel26: was nice hanging out, have a good day :)
+
+02:17:55
+<transcript>: Leader DF I guess I have to be honest if I'm on this function and I say Leader DF now what is it for peak definition code show text object surrounding definition is determined using the events built in LSB floating window.
+
+02:17:59
+<transcript>: Okay. Does that network function? Outer Oops.
+
+02:18:02
+<transcript>: So if I say later DF no.
+
+02:18:10
+<transcript>: That's our.
+
+02:18:16
+<transcript>: Leader.
+
+02:18:16
+<transcript>: lead
+
+02:18:18
+<transcript>: Leader.
+
+02:18:21
+<transcript>: Why do I keep hitting? R.
+
+02:18:23
+<transcript>: rid
+
+02:18:26
+<transcript>: Rid when I hit our but okay.
+
+02:18:26
+<transcript>: leader
+
+02:18:27
+<transcript>: Leader.
+
+02:18:31
+<transcript>: E Capital F okay doesn't do anything good to know.
+
+02:18:31
+<transcript>: i don't know what
+
+02:18:33
+<transcript>: I don't know what those are supposed to do.
+
+02:18:44
+<transcript>: We're gonna learn, we're gonna learn. So moving, I can move to the next function. So if I'm in this function here and I say.
+
+02:18:47
+<transcript>: Open Bracket M.
+
+02:18:49
+<transcript>: You go to what.
+
+02:18:52
+<transcript>: Function, outer.
+
+02:18:59
+<transcript>: Go to next end. Go to next start. Go to previous start. Go to previous end.
+
+02:19:01
+<transcript>: Okay.
+
+02:19:01
+<transcript>: what
+
+02:19:03
+<transcript>: What about two of those.
+
+02:19:07
+<transcript>: File.
+
+02:19:07
+<transcript>: why
+
+02:19:08
+<transcript>: why did it do that
+
+02:19:08
+<transcript>: Why.
+
+02:19:13
+<transcript>: Why did it do that? Okay. We're gonna learn all of this and more.
+
+02:19:32
+schrew: them SHORTS!
+
+02:19:47
+schrew: go off king?
+
+02:20:13
+laytanl_: Here is an issue regarding the arrow functions: https://github.com/nvim-treesitter/nvim-treesitter-textobjects/issues/215
+
+02:20:22
+laytanl_: seems like it broke in a recent change
+
+02:20:39
+laytanl_: @function.inner does work though
+
+02:30:47
+<transcript>: See a Stroop. Sorry, Miss. That before I left.
+
+02:30:53
+<transcript>: Seems like it broken, right. Okay. Here's an issue requiring.
+
+02:30:59
+<transcript>: function
+
+02:30:59
+<transcript>: Regarding the Aero functions. Oh, nice like it broken around a recent change. Inner does work, though. Okay.
+
+02:31:03
+<transcript>: Function inner does work. So if I do.
+
+02:31:03
+<transcript>: diw
+
+02:31:04
+<transcript>: Diw.
+
+02:31:07
+<transcript>: Or not. W Di F.
+
+02:31:07
+<transcript>: thanks so
+
+02:31:10
+<transcript>: Thanks so much for the follow a 13.
+
+02:31:14
+<transcript>: I appreciate that. Thank you. Followed me while I was on a break.
+
+02:31:14
+<transcript>: that's fine
+
+02:31:16
+<transcript>: That's fine.
+
+02:31:21
+<transcript>: Just have to see it when I come back so I can thank you.
+
+02:31:25
+<transcript>: Let's try the function inter thing.
+
+02:31:27
+<transcript>: So this is a thing they're aware of.
+
+02:31:27
+<transcript>: that
+
+02:31:29
+<transcript>: That.
+
+02:31:33
+schrew: two in a row, oh baby
+
+02:31:40
+<transcript>: Oh, did it do it twice? No, it just use shoes. Twice in a row. Thanks. Cube is for the follow. Two in a row. Look at you. Shrew should head to Vegas.
+
+02:31:50
+<transcript>: I'm luck on your side. So if we want to delete the inside of a function so I'm inside of an arrow function. Well, I'm not in more. Let's go to.
+
+02:31:50
+<transcript>: index
+
+02:31:52
+<transcript>: Index.
+
+02:31:56
+schrew: don't tempt me, adam, because I will go to vegas
+
+02:31:56
+<transcript>: Here. And here. I'm inside of a function. If I do.
+
+02:31:56
+<transcript>: di
+
+02:31:58
+<transcript>: Di F.
+
+02:32:06
+<transcript>: It deletes inside the entire error function. It doesn't believe inside the hook.
+
+02:32:06
+<transcript>: like here
+
+02:32:07
+<transcript>: Like here.
+
+02:32:13
+<transcript>: Interesting. So like this is a function. This async right here. This is a function.
+
+02:32:16
+<transcript>: Very small function. But it does something.
+
+02:32:16
+<transcript>: doesn't
+
+02:32:28
+<transcript>: Doesn't delete inside of that. So if I instead deleting, let's. Oh, so interesting. Yank works. Yank inside the function. Works. But delete inside the function. Oh, it worked that time.
+
+02:32:30
+<transcript>: So dependent on where I was.
+
+02:32:39
+<transcript>: Interesting. Did I just. I'm inside there. It deletes everything inside of home.
+
+02:32:39
+<transcript>: how about
+
+02:32:41
+<transcript>: How about right.
+
+02:32:41
+<transcript>: here
+
+02:32:45
+<transcript>: Here. This isn't really inside a function, though. This inside an object.
+
+02:32:51
+<transcript>: Yeah, so.
+
+02:32:54
+<transcript>: On a delete inside.
+
+02:32:59
+<transcript>: Let's see, swap, Select.
+
+02:33:02
+<transcript>: Function, outer.
+
+02:33:02
+<transcript>: function
+
+02:33:03
+<transcript>: Function, inner.
+
+02:33:03
+<transcript>: class
+
+02:33:05
+<transcript>: Class outer.
+
+02:33:05
+<transcript>: what's
+
+02:33:09
+<transcript>: What's? The class? There is no class. Here, is there.
+
+02:33:17
+<transcript>: Optionally set descriptions to the mappings using the description parameter of MVM buff set key map.
+
+02:33:17
+<transcript>: inner part of
+
+02:33:19
+<transcript>: Inner part of a class region.
+
+02:33:22
+<transcript>: i'm not
+
+02:33:22
+<transcript>: Okay.
+
+02:33:25
+<transcript>: I'm not gonna send any descriptions.
+
+02:33:27
+<transcript>: So I don't need to worry about that.
+
+02:33:34
+<transcript>: So these are only three. I have configured right now and then selection modes. We've got outer.
+
+02:33:34
+<transcript>: powder
+
+02:33:36
+<transcript>: on it
+
+02:33:36
+<transcript>: Powder.
+
+02:33:37
+<transcript>: On it.
+
+02:33:41
+<transcript>: I'm not sure I'm understanding all this.
+
+02:33:44
+<transcript>: Don't hit me.
+
+02:33:48
+<transcript>: Okay.
+
+02:33:48
+<transcript>: so i'm gonna
+
+02:33:52
+<transcript>: So I'm gonna open this issue. Actually, laden want to see.
+
+02:33:55
+<transcript>: layton
+
+02:33:55
+<transcript>: What to see.
+
+02:33:57
+<transcript>: Layton, are you.
+
+02:33:59
+<transcript>: Excited.
+
+02:33:59
+<transcript>: there's
+
+02:34:02
+<transcript>: There's gonna be there's gonna be some tie.
+
+02:34:02
+<transcript>: pr
+
+02:34:11
+<transcript>: Pr creating for Cloak. Did you see that on Twitter? It's gonna create a PR. It is life. I think they just had a baby, like in labor yesterday.
+
+02:34:11
+<transcript>: so
+
+02:34:27
+laytanl_: Cool!
+
+02:34:28
+<transcript>: So probably not today. But soon there'll be a tea stream. I may or may not join, but basically I will join if you let me. He mentioned Colab. So we'll see. We'll see. I know nothing about writing, Lua. I know enough.
+
+02:34:28
+<transcript>: to edit
+
+02:34:38
+<transcript>: To edit these files when I have to based on readmese, but it would be fun to join just to join T doing cool things that he will surely do.
+
+02:34:42
+<transcript>: So he mentioned some things he'd like to submit a PR for.
+
+02:34:45
+<transcript>: Cool. Yeah.
+
+02:34:48
+<transcript>: Michael, thanks for the follow. I appreciate that.
+
+02:34:57
+<transcript>: Move commands not working with error function.
+
+02:35:01
+<transcript>: So this is from May 28.
+
+02:35:08
+<transcript>: Just six explain why function InterWorks for me, but not about function. I only works for function decorations and no expressions.
+
+02:35:08
+<transcript>: reverting
+
+02:35:12
+<transcript>: Reverting to a commit before fixes what you mentioned, so yes. Okay.
+
+02:35:17
+<transcript>: So maybe we want to fix this. Maybe.
+
+02:35:20
+<transcript>: Right here, on screen. Maybe we want to do it.
+
+02:35:20
+<transcript>: you want to learn
+
+02:35:23
+<transcript>: You want to learn from Loua? Try and fix this.
+
+02:35:32
+<transcript>: Sure you're on the latest Commission of this repo. Copy this just on your local and open it. Place the cursor on the first line. Try to move down using keys.
+
+02:35:32
+<transcript>: go
+
+02:35:34
+<transcript>: Go to next start.
+
+02:35:38
+laytanl_: This is actually not lua though haha
+
+02:35:39
+<transcript>: We don't want to do that I don't know anything about.
+
+02:35:39
+<transcript>: maybe you do
+
+02:35:46
+laytanl_: It is treesitter query language
+
+02:35:46
+<transcript>: Maybe you do late, and maybe you want to have to not try to brush you. But you know things about Loua.
+
+02:35:50
+<transcript>: I do not.
+
+02:35:51
+laytanl_: like lisp
+
+02:35:57
+<transcript>: But that's cool school in your IDE is a thing you can poke around on and make changes to in this way.
+
+02:36:01
+<transcript>: Okay. So we know how to do.
+
+02:36:04
+<transcript>: Surround. Now we know how to work with surround.
+
+02:36:04
+<transcript>: ysd
+
+02:36:07
+<transcript>: Ysds, and CS.
+
+02:36:07
+<transcript>: still not
+
+02:36:10
+<transcript>: Still not second nature, but we'll get there.
+
+02:36:10
+<transcript>: it's very handy
+
+02:36:11
+<transcript>: It's very handy.
+
+02:36:13
+<transcript>: We're still kind of learning.
+
+02:36:22
+<transcript>: Tree center text objects. I don't feel like I have a I feel like I'm missing some, like have other people make more key maps.
+
+02:36:22
+<transcript>: i
+
+02:36:26
+<transcript>: I wonder. Like, Is this a Neph? Do I want more things.
+
+02:36:26
+<transcript>: so
+
+02:36:28
+<transcript>: So AF.
+
+02:36:28
+<transcript>: if
+
+02:36:29
+<transcript>: If.
+
+02:36:29
+<transcript>: ac
+
+02:36:30
+<transcript>: Ac.
+
+02:36:35
+<transcript>: Why not class inner. Why don't I see you know oh, they do have earlier.
+
+02:36:40
+<transcript>: I don't want to optionally this fine description.
+
+02:36:40
+<transcript>: i want this
+
+02:36:46
+<transcript>: I want this to look nice, so I'm gonna say, this is Oops.
+
+02:36:52
+<transcript>: I'm gonna say, this is I see, and this is inner, and I'm gonna delete.
+
+02:36:52
+<transcript>: all that
+
+02:36:58
+<transcript>: All that. Okay. So I feel like I should create some more of these, like, function class.
+
+02:36:58
+<transcript>: what other
+
+02:37:00
+<transcript>: What other ones are there.
+
+02:37:05
+<transcript>: Thanks for the follow expire.
+
+02:37:05
+<transcript>: xfire
+
+02:37:07
+<transcript>: Xfire slay.
+
+02:37:15
+<transcript>: See where are those here there so frame class call block attribute.
+
+02:37:19
+<transcript>: Attribute parameter loop. Oh, that'd be kind of cool.
+
+02:37:19
+<transcript>: like
+
+02:37:21
+<transcript>: so let's just
+
+02:37:21
+<transcript>: Like inside the loop.
+
+02:37:25
+<transcript>: So let's just say we wanted to define that we would say.
+
+02:37:27
+<transcript>: Like.
+
+02:37:30
+<transcript>: Al.
+
+02:37:33
+<transcript>: Maybe.
+
+02:37:33
+<transcript>: equal
+
+02:37:34
+<transcript>: Equal.
+
+02:37:34
+<transcript>: at
+
+02:37:35
+<transcript>: At loop.
+
+02:37:39
+<transcript>: Why do I do.
+
+02:37:39
+<transcript>: a would be
+
+02:37:40
+<transcript>: A would be outer.
+
+02:37:42
+<transcript>: Then.
+
+02:37:49
+<transcript>: Let's do like that. And we'll say.
+
+02:37:52
+<transcript>: I.
+
+02:37:59
+<transcript>: 'll Try that.
+
+02:38:04
+<transcript>: Here.
+
+02:38:10
+<transcript>: Hey, thanks to the follow one to Rabbit. I appreciate that. Cool. This is actually not Lua, though.
+
+02:38:14
+<transcript>: It's tree set or query language like List. Interesting.
+
+02:38:14
+<transcript>: okay
+
+02:38:21
+<transcript>: Okay. Good to know. Didn't know that. So let's say we wanted to test out our what did I just do? I did.
+
+02:38:25
+<transcript>: so many things
+
+02:38:25
+<transcript>: A conditional inner comment. Outer.
+
+02:38:31
+<transcript>: So many things to play with here. So we just did lose. So let's say, where do I have a loop.
+
+02:38:33
+<transcript>: In server TS.
+
+02:38:42
+<transcript>: Where do I have a loop? I think I have one somewhere.
+
+02:38:42
+<transcript>: i guess i could just
+
+02:38:43
+<transcript>: I guess I could just search.
+
+02:38:43
+<transcript>: for
+
+02:38:44
+<transcript>: For.
+
+02:38:50
+<transcript>: Oh, there we go. Four. Comps.
+
+02:38:50
+<transcript>: i'd have to
+
+02:38:55
+<transcript>: I'd have to escape the print. That's what was wrong there. Okay, so I'm inside a loop. Right here.
+
+02:38:55
+<transcript>: and
+
+02:39:03
+<transcript>: And I want to now I'm gonna select really just delete inside the loop? So I do D il.
+
+02:39:06
+<transcript>: Feels good.
+
+02:39:06
+<transcript>: it actually
+
+02:39:10
+<transcript>: It actually deleted the brackets, too, which is a little surprising.
+
+02:39:17
+<transcript>: The Al would delete the whole loop. Look at that. Delete that loop down. Okay.
+
+02:39:17
+<transcript>: feels good
+
+02:39:20
+<transcript>: Feels good, feels good.
+
+02:39:20
+<transcript>: i finally
+
+02:39:23
+<transcript>: I finally inside Parins. I guess I just do.
+
+02:39:29
+<transcript>: Like that. I don't need text objects for that, right.
+
+02:39:38
+<transcript>: What are the things that are hard to delete things? I wouldn't know how to delete.
+
+02:39:42
+<transcript>: what was
+
+02:39:42
+<transcript>: Or Yank, I guess.
+
+02:39:47
+<transcript>: What was the outer was the whole thing. So delete.
+
+02:39:47
+<transcript>: that
+
+02:39:49
+<transcript>: That whole loop. Please enter.
+
+02:39:55
+<transcript>: Delete inner does what it deletes.
+
+02:39:55
+<transcript>: everything
+
+02:40:00
+<transcript>: Everything includes the brackets. It'd be nice if it just deleted.
+
+02:40:00
+<transcript>: not including
+
+02:40:05
+<transcript>: like
+
+02:40:05
+<transcript>: Not including the brackets. And then I could just delete all the contents in here.
+
+02:40:09
+<transcript>: Like Yank. You know, Yank. I would expect.
+
+02:40:09
+<transcript>: it's not big
+
+02:40:12
+<transcript>: It's not bigger. How often I do any of this stuff actually.
+
+02:40:21
+<transcript>: Okay. So that's loops. What about conditionals? What would be a case where I'd want to do a condition. So like if and if block.
+
+02:40:24
+<transcript>: If the thing.
+
+02:40:24
+<transcript>: here
+
+02:40:25
+<transcript>: Here.
+
+02:40:28
+<transcript>: I don't like that one.
+
+02:40:30
+<transcript>: If.
+
+02:40:33
+<transcript>: Like any of those.
+
+02:40:35
+<transcript>: If.
+
+02:40:43
+<transcript>: I want just to straight return. I want something that has, like a body. You know, I'm saying.
+
+02:40:46
+<transcript>: That they have a body.
+
+02:40:54
+<transcript>: Yeah, like this one looks complicated. So I'm inside this big F statement. And if I wanted to say conditional.
+
+02:40:59
+<transcript>: I ever want to do that. Whatever I want to say. Like, yeah, maybe I might want to delete everything inside of this.
+
+02:41:01
+<transcript>: Right.
+
+02:41:01
+<transcript>: everything
+
+02:41:04
+<transcript>: Everything in here. I want to delete all that quickly.
+
+02:41:17
+<transcript>: So I would create another one of these. Unless there's just a way to do that already. Am I just creating stuff that I can already do and just straight them? I don't want to do that. Like how I could just delete inside the Prince. I already know how to do that.
+
+02:41:17
+<transcript>: i don't
+
+02:41:20
+<transcript>: I don't want to reinvent anything.
+
+02:41:20
+<transcript>: let
+
+02:41:25
+<transcript>: Let's create it. Let's create this would be inside conditionals. So I guess we'll do.
+
+02:41:31
+<transcript>: Your class. I feel like I'm never gonna do that. I don't write classes. Let's just do that. Let's update.
+
+02:41:34
+<transcript>: These to be conditional.
+
+02:41:36
+<transcript>: Right.
+
+02:41:41
+<transcript>: Additional.
+
+02:41:43
+<transcript>: Right.
+
+02:41:43
+<transcript>: i don't think i need
+
+02:41:50
+<transcript>: I don't think I need the class thing. I don't write classes. I guess I did in this project. As I say that.
+
+02:41:53
+<transcript>: So let's do invent.
+
+02:41:53
+<transcript>: inventory
+
+02:41:54
+<transcript>: Inventory.
+
+02:41:59
+<transcript>: Here we are.
+
+02:42:01
+<transcript>: If.
+
+02:42:10
+<transcript>: So I want to select. Let's just delete everything in it. Delete.
+
+02:42:14
+<transcript>: In conditional did not work.
+
+02:42:17
+<transcript>: delete
+
+02:42:17
+<transcript>: Did it.
+
+02:42:18
+<transcript>: all
+
+02:42:18
+<transcript>: Delete.
+
+02:42:22
+<transcript>: All. Okay. What does that delete that deleted.
+
+02:42:26
+<transcript>: It didn't leave inside the conditional. I wonder why.
+
+02:42:28
+<transcript>: Yank inside the conditional.
+
+02:42:32
+<transcript>: Outside the conditional. Okay, that got the whole thing.
+
+02:42:36
+<transcript>: I'm in here and I suit and I do delete all.
+
+02:42:36
+<transcript>: at least
+
+02:42:38
+<transcript>: At least that last else though.
+
+02:42:38
+<transcript>: this is
+
+02:42:44
+<transcript>: This is a pretty weird one. Oh, it's like nested. And so many ways. Look at this. We have this outer one.
+
+02:42:49
+<transcript>: Here. This is bad. I just should write code like this. That's problem.
+
+02:42:56
+<transcript>: Find another if.
+
+02:42:56
+<transcript>: to
+
+02:43:02
+<transcript>: To elf. I think that's more telling. Yeah. Here we go. So as simple, if you will. So delete.
+
+02:43:02
+<transcript>: in conditional
+
+02:43:04
+<transcript>: believing
+
+02:43:04
+<transcript>: In conditional. Nope.
+
+02:43:09
+<transcript>: Believing conditional. I worked in the Elf. Why did it not work in the if.
+
+02:43:10
+seafilmz: Hello. how are you doing? I am doing great.
+
+02:43:13
+<transcript>: Conditional is that another.
+
+02:43:16
+<transcript>: Hasty Films. I'm doing this.
+
+02:43:16
+<transcript>: you're doing great
+
+02:43:25
+<transcript>: You're doing great. I like that. You just kind of like, told me how you're doing. So I didn't need to ask you. You just kinda led with how you doing. I'm great. Just so you know.
+
+02:43:29
+<transcript>: That was nice.
+
+02:43:32
+mvd_dev: no neovim setup is complete without this keyboard https://www.charachorder.com/products/charachorder-one
+
+02:43:36
+<transcript>: For the following curleos. I really appreciate your follows. I hope that means you'll be back.
+
+02:43:36
+<transcript>: we'll be back to han
+
+02:43:38
+<transcript>: We'll be back to hang out.
+
+02:43:38
+<transcript>: into
+
+02:43:40
+<transcript>: Into its chat.
+
+02:43:44
+<transcript>: So why didn't this work? Anyone have any ideas.
+
+02:43:44
+<transcript>: back
+
+02:43:45
+<transcript>: Back.
+
+02:43:45
+<transcript>: beliefs
+
+02:43:46
+kreleos: tj has some cool things in his config, like swapping functions and parameters, incremental selection, etc. Maybe check it out for ideas
+
+02:43:49
+<transcript>: Beliefs, the whole conditional. It's not very useful, though.
+
+02:43:51
+<transcript>: Well, I guess I guess it is.
+
+02:43:56
+<transcript>: More likely. I'd want to delete everything inside of a condition.
+
+02:43:57
+cboorg: i love hanging out in here while working <3
+
+02:43:58
+<transcript>: At.
+
+02:44:05
+<transcript>: so that feels
+
+02:44:05
+<transcript>: That is what I expected, but still kind of not because it deletes the Prince or the brackets.
+
+02:44:07
+<transcript>: So that feels bad.
+
+02:44:11
+<transcript>: Because it kind of leaves me in a broken state, you know.
+
+02:44:14
+<transcript>: Although, Why isn't it working there.
+
+02:44:14
+<transcript>: 's like
+
+02:44:18
+<transcript>: 's like there's some bugs here or I'm misunderstanding some things.
+
+02:44:24
+<transcript>: Maybe I'll just write bad JavaScript. Maybe that's a problem. I just write bad JavaScript and it doesn't know what to do.
+
+02:44:24
+<transcript>: they're built in
+
+02:44:27
+<transcript>: They're built in grammar, doesn't and sorted it out.
+
+02:44:36
+<transcript>: Okay. If I wanted to, I'm just gonna practice some of my surround stuff again. I wanted to sort this in a new conditional. I would say.
+
+02:44:39
+<transcript>: Cs.
+
+02:44:42
+<transcript>: What.
+
+02:44:45
+<transcript>: Cs.
+
+02:44:50
+<transcript>: Not like this.
+
+02:44:55
+<transcript>: One why did I forget everything about invent surround.
+
+02:44:59
+<transcript>: Ysi I.
+
+02:44:59
+<transcript>: for
+
+02:45:08
+<transcript>: For inside. Oh, I was doing CS, but I want Y. So here. I want to add one with YSI. So.
+
+02:45:08
+<transcript>: y
+
+02:45:10
+<transcript>: Y? S.
+
+02:45:19
+<transcript>: Why don't I forget surround YSI.
+
+02:45:21
+<transcript>: W.
+
+02:45:21
+<transcript>: what was the w
+
+02:45:28
+<transcript>: What was the W for word? So let's be switched around the word, but I want to share on the whole line. So YS pound.
+
+02:45:30
+<transcript>: Yeah like that.
+
+02:45:30
+<transcript>: and
+
+02:45:32
+<transcript>: And I would be like, if.
+
+02:45:32
+<transcript>: yeah
+
+02:45:34
+<transcript>: Yeah. Okay.
+
+02:45:39
+<transcript>: Gotta get better gotta get better and faster.
+
+02:45:44
+<transcript>: Delete, and then replace.
+
+02:45:47
+<transcript>: Okay. We'll just let that come up naturally.
+
+02:45:51
+<transcript>: So the tree setter thing. I don't know. I just. I don't know.
+
+02:45:55
+<transcript>: If I'm feeling all the text, objects.
+
+02:46:00
+<transcript>: Or just that I'm running into some bugs.
+
+02:46:03
+<transcript>: So go to previous.
+
+02:46:09
+<transcript>: Swap. So if I want to swap function parameters, that's a common thing.
+
+02:46:09
+<transcript>: so
+
+02:46:15
+<transcript>: So I've got, like an order of well, that wouldn't but that would just change it in the text file. It wouldn't actually.
+
+02:46:15
+<transcript>: refact
+
+02:46:20
+<transcript>: Refactor it in like the collars of that function would have to be updated as well. Right.
+
+02:46:33
+<transcript>: So I'd rather have something built into the LSP for that, like something that could genuinely like when I do a rename, and it updates, like five buffers. That's what I want for things like reordering.
+
+02:46:36
+<transcript>: Okay.
+
+02:46:36
+<transcript>: i think that's
+
+02:46:42
+<transcript>: I think that's enough. I think we've done enough with text objects. Let's.
+
+02:46:45
+<transcript>: See.
+
+02:46:55
+<transcript>: Kelly O's. Teach has some cool things in his config, like swapping functions and parameters, incremental, selection, et cetera. Maybe change out his Fridays. That's a good idea.
+
+02:46:55
+<transcript>: we could look at
+
+02:46:57
+<transcript>: We could look at TG file.
+
+02:46:57
+<transcript>: mvd
+
+02:47:04
+<transcript>: Mvd welcome to Chat. I appreciate you joining us in Chats. No D of M setup is complete without this keyboard.
+
+02:47:09
+<transcript>: Another keyboard. We've opened so many keyboard tabs.
+
+02:47:09
+<transcript>: on this
+
+02:47:13
+<transcript>: On this very stream. What is that? That's a keyboard.
+
+02:47:16
+<transcript>: What.
+
+02:47:19
+<transcript>: You tell me that's a keyboard.
+
+02:47:21
+mvd_dev: lol, watch the video
+
+02:47:21
+<transcript>: Caricorder one.
+
+02:47:27
+<transcript>: Oh, Geez, it really is. Those are keys.
+
+02:47:31
+<transcript>: I just feel like this is now. No.
+
+02:47:34
+<transcript>: No.
+
+02:47:34
+<transcript>: that's
+
+02:47:35
+<transcript>: That's too far.
+
+02:47:38
+<transcript>: I'm officially.
+
+02:47:38
+<transcript>: i've deemed
+
+02:47:40
+<transcript>: you're telling me
+
+02:47:40
+<transcript>: I've deemed this too far.
+
+02:47:47
+<transcript>: You're telling me your fingers never move. You just move them sideways and up and down. Too much.
+
+02:47:50
+<transcript>: Stressing me out here.
+
+02:47:53
+<transcript>: No.
+
+02:47:53
+<transcript>: is this
+
+02:47:55
+<transcript>: Is this supposed to feel like.
+
+02:47:55
+<transcript>: if you do
+
+02:48:02
+<transcript>: If you do program it to feel like quirity, for instance. Where like it's like instead of actually moving your finger.
+
+02:48:02
+<transcript>: you're just pushing it forward
+
+02:48:03
+mvd_dev: I thought kenesis took it too far, but this takes the cake
+
+02:48:05
+<transcript>: You're just pushing it forward to go up. No, it's too much. Sorry.
+
+02:48:11
+<transcript>: That's a that's impressive that some people have gone to those links, I guess. But no.
+
+02:48:18
+neochromer: there is a guy on youtube, which made a 16 keys keyboard
+
+02:48:21
+<transcript>: Watch the video. I thought Kinesis took it too far. This takes. This is the cake. Yeah, this is. This is beyond.
+
+02:48:21
+<transcript>: so there's this
+
+02:48:22
+cedpoilly: I'm too old for this "keyboard"
+
+02:48:23
+<transcript>: creating a new
+
+02:48:23
+<transcript>: So there's this video. Here.
+
+02:48:24
+neochromer: where he has like 5 layers
+
+02:48:27
+<transcript>: Creating a new standard for the digital age, I guess. Yeah. Like you think about kids.
+
+02:48:31
+<transcript>: Think about kids that are learning time for the first time.
+
+02:48:31
+<transcript>: it would be nice
+
+02:48:36
+<transcript>: It would be nice just to teach them this. It does seem more efficient. I just could never.
+
+02:48:36
+<transcript>: i could never
+
+02:48:40
+<transcript>: I could never I've been too trained.
+
+02:48:46
+<transcript>: So crazy.
+
+02:48:51
+<transcript>: Wild.
+
+02:48:52
+neochromer: https://www.youtube.com/watch?v=5RN_4PQ0j1A&t=961s
+
+02:48:54
+cedpoilly: put a chip in my brain at this point
+
+02:48:59
+<transcript>: Yeah, I do kind of want to, like, have my kids just learn this way, you know? I bet it is way faster.
+
+02:49:02
+neochromer: ^ true
+
+02:49:03
+<transcript>: Geez.
+
+02:49:03
+mvd_dev: lol @cedpoilly
+
+02:49:06
+<transcript>: That is insanely fast.
+
+02:49:14
+<transcript>: My brain. Exactly.
+
+02:49:18
+mvd_dev: I don't think my brain works that fast
+
+02:49:21
+<transcript>: Wow guy I need to which made a 16 keys keyboard.
+
+02:49:23
+<transcript>: Has five layers.
+
+02:49:27
+<transcript>: I feel so like.
+
+02:49:31
+<transcript>: Inadequate with my just like normal.
+
+02:49:31
+<transcript>: pk
+
+02:49:33
+<transcript>: Pkl. Keyboard right now.
+
+02:49:36
+<transcript>: I've got such an old guy.
+
+02:49:36
+<transcript>: yeah i don't think
+
+02:49:39
+<transcript>: i don't know
+
+02:49:39
+<transcript>: Yeah. I don't think my brain works at best, either. I don't feel like.
+
+02:49:43
+<transcript>: I don't know. I said that about them. Probably at some point.
+
+02:49:43
+<transcript>: and
+
+02:49:44
+<transcript>: And.
+
+02:49:44
+<transcript>: i think we
+
+02:49:48
+<transcript>: I think we surprised ourselves with what we're able to do when we remove friction.
+
+02:49:55
+<transcript>: But that just seems like it'd be really hard, really hard for me to learn.
+
+02:49:55
+mvd_dev: I have a hard time naming my functions and variables, lol
+
+02:50:03
+<transcript>: Okay. I want to actually I'm gonna look at OBS version 28 because it's out officially, and I feel like.
+
+02:50:03
+<transcript>: this
+
+02:50:07
+neochromer: how do you feel about the speed of neovim now?
+
+02:50:12
+<transcript>: why can't i just
+
+02:50:12
+<transcript>: This like terrible streamer who's using OBS 27 with like my Mac in one not using native in one support fields bad.
+
+02:50:20
+<transcript>: Why can't I just switch over to OBS 28? Well, I have to update my overlays. I know, I know, I know, I hear you all sighing.
+
+02:50:27
+<transcript>: Will we ever stop working on the overlays? We'll listen to some music. If that makes it better, we'll send some music while we do it.
+
+02:50:36
+<transcript>: Probably just this. Probably just some more LJ, because it's my favorite.
+
+02:50:36
+<transcript>: but
+
+02:50:38
+schrew: overlays are the bedrock of your content LUL
+
+02:50:38
+<transcript>: But we won't start.
+
+02:50:41
+<transcript>: We won't start in the same place today.
+
+02:50:42
+lchausmann: What are the audio stuff in your obs window?
+
+02:50:43
+<transcript>: We'll start.
+
+02:50:45
+<transcript>: A little deeper.
+
+02:50:51
+<transcript>: Some deeper cuts. I don't want the album commentary. Can I just remove this.
+
+02:50:54
+<transcript>: I want to remove it.
+
+02:50:54
+<transcript>: from this
+
+02:51:01
+<transcript>: From this list, but I want to play this is all yours, and I'm gonna play an awesome wave? We're just gonna start with an awesome wave.
+
+02:51:03
+aivars_meijers: I'm back
+
+02:51:04
+<transcript>: The music is gonna stop at some point.
+
+02:51:04
+<transcript>: oh
+
+02:51:06
+<transcript>: Oh avers.
+
+02:51:10
+<transcript>: Favors is here with 40 Raid members.
+
+02:51:10
+<transcript>: welcome
+
+02:51:15
+<transcript>: and there's
+
+02:51:15
+<transcript>: Welcome back, Avers. I think you were here earlier, and then you must have started streaming.
+
+02:51:19
+<transcript>: And there's 40 of you joining us right now, we just start playing music.
+
+02:51:19
+<transcript>: so hope
+
+02:51:23
+<transcript>: what we're
+
+02:51:23
+<transcript>: So hope you like all Jay because that's what we're listening to.
+
+02:51:31
+<transcript>: What we're getting ready to do is update my Twitch overlays again. We keep doing that. We're gonna update them to work with OBS 28, which means.
+
+02:51:31
+<transcript>: the
+
+02:51:31
+neochromer: @adamelmore we hear nothing :D
+
+02:51:34
+<transcript>: The WebSocket Version Five thing.
+
+02:51:37
+aivars_meijers: Yeah, I tested OBS 28 and come back :D
+
+02:51:38
+<transcript>: Max, thanks so much for the follow you're back.
+
+02:51:42
+<transcript>: You hear nothing, neocromer. Oh, no. Is this a troll.
+
+02:51:46
+<transcript>: What are the audio stuff in your OBS window.
+
+02:51:50
+aivars_meijers: he is troling you
+
+02:51:50
+neochromer: sry
+
+02:51:51
+<transcript>: why would
+
+02:51:51
+<transcript>: Well, you guys may not be hearing anything is what I'm hearing from you.
+
+02:51:54
+<transcript>: Why would that not be coming through.
+
+02:51:56
+mvd_dev: its very faint
+
+02:51:56
+imcorbinn: I hear
+
+02:51:56
+neochromer: I had it below 30%
+
+02:51:56
+<transcript>: He's trolling me. Okay.
+
+02:51:58
+mvd_dev: but I do hear it
+
+02:51:59
+neochromer: volume
+
+02:52:06
+<transcript>: You're funny. It's very faint. Okay, well, we could turn it up. I think it's probably pretty good based on where it's hitting here, I want it to be too loud.
+
+02:52:06
+<transcript>: you are gonna hear
+
+02:52:09
+<transcript>: You are gonna hear me talk. Still, unfortunately, it's not just music.
+
+02:52:12
+<transcript>: Had it blow through since gotcha.
+
+02:52:13
+moussx_: I can't hear the music either
+
+02:52:15
+mvd_dev: the voice is good, but music is under powered :)
+
+02:52:16
+<transcript>: welcome
+
+02:52:16
+<transcript>: Okay, welcome to Chat. Corbin.
+
+02:52:18
+<transcript>: Welcome, welcome.
+
+02:52:22
+moussx_: But I guess I'll fix my ears
+
+02:52:23
+<transcript>: What are the audio stuff in your OBS window? This is like the song we're listening to. Is that what you mean.
+
+02:52:27
+<transcript>: Or do you mean this thing loop back.
+
+02:52:27
+<transcript>: thanks for
+
+02:52:29
+imcorbinn: @aivars_meijers brought me long ^^
+
+02:52:30
+lchausmann: mixers and stuff
+
+02:52:31
+<transcript>: Thanks for the follow hey comment. Hikamu.
+
+02:52:34
+<transcript>: So we're gonna update.
+
+02:52:39
+<transcript>: Yeah. You guys came in on the raid. Welcome. I appreciate you all.
+
+02:52:41
+<transcript>: The Fix your ears.
+
+02:52:54
+<transcript>: Okay. We're going to work with OBS website version five so that we can switch over to 28. Maybe tomorrow. We'll not use version 28. Tomorrow.
+
+02:52:59
+<transcript>: i can hear
+
+02:52:59
+<transcript>: So that should mostly be in one place.
+
+02:53:01
+cedpoilly: music is nice. going for a walk while mostly listening
+
+02:53:01
+<transcript>: I can hear.
+
+02:53:07
+<transcript>: Let's see. So we have a bunch of WebSocket stuff.
+
+02:53:07
+<transcript>: right
+
+02:53:08
+seafilmz: Why do you use NeoVim?
+
+02:53:13
+<transcript>: Right web stock that can controller that's different OBS WebSocket this thing right here.
+
+02:53:16
+<transcript>: We need to look this up. Actually. Obs.
+
+02:53:18
+<transcript>: obscure
+
+02:53:19
+<transcript>: Obscure.
+
+02:53:22
+<transcript>: Obs WebSocket.
+
+02:53:24
+<transcript>: As.
+
+02:53:28
+<transcript>: Obs.
+
+02:53:35
+<transcript>: No, I apologize.
+
+02:53:35
+<transcript>: please
+
+02:53:37
+<transcript>: Please take me back. There we go.
+
+02:53:45
+<transcript>: Let's see via package manager. So I think we ended up installing.
+
+02:53:45
+<transcript>: like an old
+
+02:53:47
+<transcript>: Like an old version of this.
+
+02:53:50
+<transcript>: I think I went back in time.
+
+02:53:50
+<transcript>: to work with
+
+02:53:54
+<transcript>: To work with version four. And we want to undo that.
+
+02:54:27
+<transcript>: I need to just turn the dead server back on while I do this.
+
+02:54:33
+<transcript>: Here we go. This is a problem.
+
+02:54:38
+<transcript>: Start next up. So I missed this earlier when we did some refactoring.
+
+02:54:41
+<transcript>: Start.
+
+02:54:44
+<transcript>: Scheduled start.
+
+02:54:44
+<transcript>: is
+
+02:54:47
+<transcript>: Is what a string are in the find.
+
+02:54:51
+<transcript>: Oh.
+
+02:54:53
+<transcript>: To read it.
+
+02:54:55
+<transcript>: Date.
+
+02:54:55
+<transcript>: active
+
+02:54:56
+<transcript>: Active.
+
+02:54:56
+<transcript>: so object literal
+
+02:55:02
+<transcript>: So object literal may only specify known properties. Start does not exist in that thing. Okay.
+
+02:55:07
+<transcript>: So we're returning this use stream returns a get stream response.
+
+02:55:10
+<transcript>: We're gonna have this. We're gonna have.
+
+02:55:14
+<transcript>: For interface.
+
+02:55:19
+<transcript>: Use stream response. I think we're going back to where we were sort of.
+
+02:55:24
+<transcript>: No, it's gonna be a type.
+
+02:55:26
+<transcript>: And.
+
+02:55:29
+<transcript>: Gonna be.
+
+02:55:35
+<transcript>: And this thing.
+
+02:55:35
+<transcript>: what
+
+02:55:38
+<transcript>: What is it? Start as a.
+
+02:55:42
+<transcript>: Eight, I think.
+
+02:55:47
+<transcript>: It run to find.
+
+02:55:52
+<transcript>: No, it's on current. So beyond current and next.
+
+02:55:52
+<transcript>: so
+
+02:55:53
+<transcript>: So.
+
+02:55:59
+<transcript>: I think we literally had this, and I just removed it all. Why did I do that.
+
+02:56:08
+<transcript>: Or maybe I just need to not expose these. Why don't why am I exposing start. What is start.
+
+02:56:14
+<transcript>: It's the scheduled start, but as a date, I just don't need these.
+
+02:56:17
+<transcript>: I don't need any of this.
+
+02:56:24
+<transcript>: Right. And then this is just next stream.
+
+02:56:30
+<transcript>: Right.
+
+02:56:35
+<transcript>: Next stream, I guess.
+
+02:56:35
+<transcript>: every schedule is
+
+02:56:36
+<transcript>: Every schedule is missing.
+
+02:56:41
+<transcript>: well is it
+
+02:56:42
+<transcript>: Well, is it.
+
+02:56:46
+<transcript>: I schedule missing. Do we not get scheduled from here.
+
+02:56:54
+<transcript>: The reason I have this hook is so that when the title changes.
+
+02:56:58
+<transcript>: We get the updated title through the Twitch event. That's what it is.
+
+02:57:05
+<transcript>: I can't schedule equals data. Schedule.
+
+02:57:09
+<transcript>: and then schedule here is just
+
+02:57:09
+<transcript>: And then Schedule here is just.
+
+02:57:11
+<transcript>: Right.
+
+02:57:11
+<transcript>: it can't be
+
+02:57:13
+<transcript>: It can't be undefined.
+
+02:57:13
+<transcript>: is that what you're saying
+
+02:57:15
+<transcript>: Is that what you're saying? Well.
+
+02:57:18
+<transcript>: That.
+
+02:57:18
+<transcript>: not undefined
+
+02:57:20
+<transcript>: so
+
+02:57:20
+<transcript>: Not undefined.
+
+02:57:23
+<transcript>: So next next stream. We're just gonna say this.
+
+02:57:23
+<transcript>: let's just do
+
+02:57:25
+<transcript>: Let's just do this.
+
+02:57:27
+oskrm: why no 20j instead of jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
+02:57:34
+<transcript>: Why am I doing this stream active default to false.
+
+02:57:34
+<transcript>: why am i doing that
+
+02:57:36
+<transcript>: Why am I doing that.
+
+02:57:40
+<transcript>: Scratch all this.
+
+02:57:48
+<transcript>: And then this is get stream response. That's good. Okay.
+
+02:57:48
+<transcript>: yeah
+
+02:57:49
+<transcript>: Yeah.
+
+02:57:49
+<transcript>: what's the problem i'm just really
+
+02:57:53
+<transcript>: What's the problem? I'm just really trying to overcome override the title. That's all I'm trying to do.
+
+02:57:56
+<transcript>: So.
+
+02:58:00
+<transcript>: This is all done. I'm doing this all in a dumb way.
+
+02:58:00
+<transcript>: current
+
+02:58:03
+<transcript>: Current Next schedule.
+
+02:58:07
+<transcript>: Equals.
+
+02:58:07
+<transcript>: data
+
+02:58:09
+<transcript>: Data.
+
+02:58:17
+<transcript>: Set title.
+
+02:58:18
+<transcript>: Current.
+
+02:58:26
+<transcript>: This can just be.
+
+02:58:33
+<transcript>: How do I do this a cool way. I want to delete back to the colon. So I'll do.
+
+02:58:33
+<transcript>: delete
+
+02:58:34
+<transcript>: Delete.
+
+02:58:40
+<transcript>: Like that. Oh, what did I carry with me? I didn't include the end. So here.
+
+02:58:40
+<transcript>: delete
+
+02:58:42
+<transcript>: Delete.
+
+02:58:45
+<transcript>: Like that cool them stuff.
+
+02:58:47
+<transcript>: Skip schedule.
+
+02:58:47
+<transcript>: it needs
+
+02:58:49
+<transcript>: It needs to be defaulted. I guess.
+
+02:58:54
+<transcript>: Schedule.
+
+02:58:58
+<transcript>: Okay.
+
+02:59:00
+<transcript>: I miss one up here.
+
+02:59:08
+<transcript>: Okay, so current next and schedule. That all looks good. Okay, so where are we using this.
+
+02:59:08
+<transcript>: u stream
+
+02:59:10
+<transcript>: U stream.
+
+02:59:15
+<transcript>: Here. This the only place? Yeah.
+
+02:59:15
+<transcript>: i should use it
+
+02:59:17
+<transcript>: I should use it another place. I'm not.
+
+02:59:22
+<transcript>: In fact, we should probably update that.
+
+02:59:28
+<transcript>: We're not gonna try now I just want to get building.
+
+02:59:32
+<transcript>: Okay. Nothing broken.
+
+02:59:34
+<transcript>: We all good.
+
+02:59:36
+<transcript>: All good.
+
+02:59:36
+<transcript>: if we
+
+02:59:53
+<transcript>: Just bad at them.
+
+03:00:09
+oskrm: you have the relative number already just look at the number
+
+03:00:09
+<transcript>: Why do you use Neil them? Sea films. So I started using Neil them because I came to Twitch and I learned of Neil them. So I played with them throughout my career. Like various times I've tried to get into them.
+
+03:00:23
+<transcript>: I wasn't even really aware of knew of him until I joined the Twitch community. And then I saw all these fantastic streams like Tee's and prime using the OVM and Bunny. I decided.
+
+03:00:23
+<transcript>: i'd
+
+03:00:29
+<transcript>: I'd like to play with this, and I felt for it. I'm super into it. Like I love it.
+
+03:00:49
+<transcript>: I think it's at this point. It's like it's not just about, like, efficiently or like there's a lot of benefits to them. And I get it. But I think it's more just like a hobby. It's just fun. It's nice to inject something fun, just like Twitch. I mean, it's been nice to stream just inject something into my career. At this point, 15 years in things start to stagnate, starts to get kind of like.
+
+03:00:49
+<transcript>: stiff
+
+03:00:51
+<transcript>: Stiff and you're not doing anything new.
+
+03:01:09
+<transcript>: Neil Them has been kind of refreshing to, like, actually play with my editor more and have that as a hobby. Like, I got into mechanical keyboards for a few weeks. That was a fun hobby. But then mostly they're settled and I have my keyboards and I like them. This is a way to kind of like constantly be evolving and playing with my editor.
+
+03:01:21
+<transcript>: Yeah, Oscar.
+
+03:01:26
+<transcript>: Are you seriously? Did you seriously PR fix for that.
+
+03:01:36
+<transcript>: You're the best.
+
+03:01:39
+cedpoilly: @adamelmore bon appétit
+
+03:01:39
+<transcript>: Latin over here. Just fixing stuff.
+
+03:01:48
+<transcript>: I love the.
+
+03:01:48
+<transcript>: i love the thick
+
+03:01:51
+schrew: oh he be PRing
+
+03:01:52
+<transcript>: I love the thick let me know if this die had any reason to be there.
+
+03:01:52
+<transcript>: that's awesome
+
+03:01:53
+<transcript>: That's awesome.
+
+03:02:09
+<transcript>: You should've said, like I'm sure this removing this dot breaks every other language, but I only write jobscript, and I don't care that's the power move.
+
+03:02:10
+cboorg: LUL
+
+03:02:11
+oskrm: those evil dots LUL
+
+03:02:24
+<transcript>: Oh, yeah. So probably I'm eating. Sorry, I do that. Sometimes I eat my Lara bars on occasion. Oscar. So I have the relative emergency lookout number. Yeah, it's kind of like everything with them. I mean, you know, the command just use a command. It just takes time, you know.
+
+03:02:24
+<transcript>: there's a lot of
+
+03:02:31
+<transcript>: There's a lot of commands I know that I don't use because I just haven't become natural yet. So occasionally you'll see me be like.
+
+03:02:31
+<transcript>: oh i need
+
+03:02:39
+<transcript>: Oh, I need to delete like these three lines. And I'll look at the rows of number and be like delete three J. I'll do that occasionally.
+
+03:02:43
+<transcript>: So very much for Snipe to think about it. It's not naturally yet.
+
+03:02:45
+oskrm: okay, just want you to do cool stuff :)
+
+03:02:55
+<transcript>: Same with the page up and down. Like, should I just page up and page down all the time? Yeah, but do I just J okay. All the time? 1000%. Yes. Eventually. I think I'll get there.
+
+03:02:55
+<transcript>: so
+
+03:02:57
+<transcript>: So.
+
+03:03:01
+<transcript>: All right.
+
+03:03:12
+<transcript>: Just want you to do cool stuff. Me too. I appreciate it. I was gay. You're good.
+
+03:03:22
+<transcript>: What we're doing, we're gonna update OBS WebSocket. Was I in the middle of anything. We fixed this, and it's actually built now so we can make changes to our overlays and not completely.
+
+03:03:22
+<transcript>: break everything
+
+03:03:24
+<transcript>: Break everything.
+
+03:03:25
+<transcript>: Right.
+
+03:03:25
+<transcript>: i think
+
+03:03:27
+<transcript>: I think.
+
+03:03:30
+sarjahukkuja: You can decrease the key repeat speed to force you not to do it by holding the key down
+
+03:03:31
+<transcript>: I think so.
+
+03:03:37
+<transcript>: What we're gonna do is we're gonna go into the OBS controller.
+
+03:03:39
+<transcript>: Here.
+
+03:03:45
+<transcript>: And now we're updating to use this. Here we go.
+
+03:03:45
+<transcript>: for version
+
+03:03:51
+<transcript>: For version five. So we're gonna install the latest. That's right. I was in package JSON.
+
+03:04:00
+<transcript>: We're looking for OBS. Yeah? So version four, three? That's no good anymore we want to do.
+
+03:04:00
+<transcript>: we want to do
+
+03:04:01
+<transcript>: We want to do.
+
+03:04:01
+<transcript>: yarn
+
+03:04:03
+<transcript>: Yarn.
+
+03:04:03
+<transcript>: install
+
+03:04:04
+<transcript>: Install.
+
+03:04:04
+<transcript>: for yarn add
+
+03:04:05
+<transcript>: For yarn. Add.
+
+03:04:05
+<transcript>: obs
+
+03:04:08
+<transcript>: Obs WebSocket.
+
+03:04:11
+<transcript>: I'm just doing this to get the latest.
+
+03:04:19
+<transcript>: We're moving to version Five, living in the future. Well, this is the present now, I guess.
+
+03:04:28
+<transcript>: We were living in the past.
+
+03:04:28
+<transcript>: we're catching
+
+03:04:30
+<transcript>: We're catching up.
+
+03:04:36
+<transcript>: That's a great.
+
+03:04:36
+<transcript>: call
+
+03:04:39
+<transcript>: Call Sarge if I didn't have such a fast keyword.
+
+03:04:42
+<transcript>: It would probably do me crazy, wouldn't it.
+
+03:04:53
+<transcript>: Just refresh a buffer.
+
+03:04:53
+<transcript>: i know
+
+03:04:55
+<transcript>: I know this files like out of date.
+
+03:04:59
+<transcript>: Even though new of them how I would just refresh it.
+
+03:05:07
+sarjahukkuja: ':edit
+
+03:05:07
+oskrm: there is no present. we are always delayed even nanoseconds
+
+03:05:18
+<transcript>: See, I know it's out of date because look, everything's broken now, that's great. That means TypeScript is doing its job.
+
+03:05:27
+<transcript>: But why Package JSON not updated? There it is. 5015. Yeah.
+
+03:05:29
+<transcript>: Okay. So we have dated that.
+
+03:05:39
+<transcript>: Now we can start fixing all these things that are broken. We should have just stuff broken in this one file. I think just changing this one file should get us where we want to be.
+
+03:05:45
+<transcript>: Oh, you know what.
+
+03:05:49
+<transcript>: I should I should commit. I should go.
+
+03:05:53
+<transcript>: The changes.
+
+03:05:58
+<transcript>: I want to add everything.
+
+03:06:04
+<transcript>: Except for Package JSON.
+
+03:06:04
+<transcript>: and
+
+03:06:05
+<transcript>: And Yarn lock.
+
+03:06:08
+<transcript>: So.
+
+03:06:08
+<transcript>: get add
+
+03:06:09
+<transcript>: Get add.

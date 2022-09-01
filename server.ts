@@ -1,10 +1,10 @@
-import { createServer, RequestListener } from "http"
+import { createServer, IncomingMessage, RequestListener } from "http"
 import { parse } from "url"
 import next from "next"
 import httpProxy from "http-proxy"
 
 import { loadEnvConfig } from "@next/env"
-import { CustomRequestListener, CustomServer } from "./lib"
+import { CustomServer, CustomServerResponse } from "./lib"
 import ObsController from "./lib/obs"
 import WsController from "./lib/ws"
 import SnapController from "./lib/snap"
@@ -23,7 +23,7 @@ const url = `http://${hostname}:${port}`
 
 let server: CustomServer
 
-const listener: CustomRequestListener = async (req, res) => {
+async function listener(req: IncomingMessage, res: CustomServerResponse) {
   try {
     res.server = server
 

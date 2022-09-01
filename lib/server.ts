@@ -17,7 +17,7 @@ export type CustomServer = NetServer & {
 }
 
 export type CustomServerResponse = ServerResponse & {
-  server: CustomServer
+  server?: CustomServer
 }
 
 export type CustomRequestListener = (

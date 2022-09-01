@@ -10,21 +10,12 @@ export const useStream = (): GetStreamResponse | undefined => {
     return await res.json()
   })
 
-  const stream = data?.current
-  const nextStream = data?.next
+  const { current, next, schedule } = data || {}
 
-  const [title, setTitle] = useState(stream?.title)
-  const start = stream?.scheduledStart
-    ? new Date(stream.scheduledStart)
-    : undefined
-
-  const nextStart = nextStream?.scheduledStart
-    ? new Date(nextStream.scheduledStart)
-    : undefined
-
+  const [title, setTitle] = useState(current?.title)
   useEffect(() => {
-    setTitle(stream?.title)
-  }, [stream])
+    setTitle(current?.title)
+  }, [current])
 
   const handleTwitchEvent = (event: TwitchEvent) => {
     if (event.type === "channel.update") {
@@ -35,14 +26,10 @@ export const useStream = (): GetStreamResponse | undefined => {
 
   return {
     current: {
-      ...(stream ?? {}),
-      active: stream?.active ?? false,
+      ...(current ?? {}),
       title,
-      start,
     },
-    next: {
-      ...(nextStream ?? {}),
-      start: nextStart,
-    },
+    next,
+    schedule: schedule || [],
   }
 }
