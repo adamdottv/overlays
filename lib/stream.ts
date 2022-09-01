@@ -47,37 +47,13 @@ export const getStreamInfo = async (
     current: {
       active: !!stream,
       title,
-      scheduledStart: scheduledStart
-        ? scheduledStart.toLocaleDateString(undefined, {
-          weekday: "long",
-          month: "long",
-          year: "numeric",
-          day: "numeric",
-          hour: "numeric",
-        })
-        : undefined,
-      actualStart: actualStart
-        ? actualStart.toLocaleDateString(undefined, {
-          weekday: "long",
-          month: "long",
-          year: "numeric",
-          day: "numeric",
-          hour: "numeric",
-        })
-        : undefined,
+      scheduledStart: scheduledStart ? scheduledStart.toISOString() : undefined,
+      actualStart: actualStart ? actualStart.toISOString() : undefined,
     },
     next: {
       active: false,
       title: nextScheduledStream?.title,
-      scheduledStart: nextStart
-        ? nextStart.toLocaleDateString(undefined, {
-          weekday: "long",
-          month: "long",
-          year: "numeric",
-          day: "numeric",
-          hour: "numeric",
-        })
-        : undefined,
+      scheduledStart: nextStart ? nextStart.toISOString() : undefined,
     },
     schedule,
   }

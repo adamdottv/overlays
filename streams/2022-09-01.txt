@@ -1,0 +1,3457 @@
+
+
+10:20:17
+<transcript>: Subscribe.
+
+10:21:20
+<transcript>: You.
+
+10:26:31
+caldotjs: hello guys :>
+
+10:27:22
+stroopwafel26: ohai
+
+10:27:32
+caldotjs: how are you doing stroop?
+
+10:27:46
+andom: Hello!
+
+10:28:25
+stroopwafel26: @caldotjs great! thanks for asking, hbu
+
+10:31:47
+caldotjs: @caldotjs fiddling around with my thesis. damn I am happy when its over.. besides that, really good
+
+10:32:12
+stroopwafel26: @caldotjs what's your thesis about?
+
+10:33:44
+stroopwafel26: nice easter egg on the grey keyboard
+
+10:34:07
+caldotjs: @caldotjs Prediction of sea surface temperatures using physics aware neural networks
+
+10:34:51
+stroopwafel26: @caldotjs I'm definitely not smart enough for any of that but it does sound really interesting!
+
+10:35:16
+<transcript>: Good day to you all.
+
+10:35:26
+<transcript>: Did we just announced three times? Is we actually play three different animations? Or do we just announce three different animations.
+
+10:35:26
+<transcript>: that
+
+10:35:30
+<transcript>: That looked kind of bad. What was that about.
+
+10:35:36
+<transcript>: Good day, Caldat's. Here. Stroops here and down here.
+
+10:35:47
+<transcript>: Hello to you all. Good day. Good morning. Good afternoon. Well, I just need to know what it is in the Netherlands. So I can just basically say that every time because I think everyone's from the other ones, right.
+
+10:35:47
+<transcript>: okay
+
+10:35:49
+<transcript>: Okay. Not everyone.
+
+10:35:55
+markboots__: Good afternoon!
+
+10:35:55
+sirtimme: hello! syncrosWiggle
+
+10:35:56
+<transcript>: A thesis. We're talking about thesis. Thesei thesis.
+
+10:36:02
+<transcript>: Wait a minute. I guess I should ask you guys can hear me, right.
+
+10:36:02
+<transcript>: geez
+
+10:36:04
+<transcript>: Geez, can you hear me.
+
+10:36:04
+<transcript>: is that
+
+10:36:05
+<transcript>: Is that fixed.
+
+10:36:07
+laytanl_: Hello!
+
+10:36:11
+stroopwafel26: we can hear you
+
+10:36:12
+<transcript>: So, Timmy's, here. Mark is here. Good afternoon. Late in tear.
+
+10:36:15
+markboots__: where is the sound?
+
+10:36:17
+<transcript>: We can hear you. Oh, fantastic. That's all I needed.
+
+10:36:20
+<transcript>: Shut Up, Mark.
+
+10:36:25
+laytanl_: Afternoon in the NL
+
+10:36:26
+<transcript>: So.
+
+10:36:26
+<transcript>: i
+
+10:36:27
+<transcript>: I.
+
+10:36:32
+<transcript>: Afternoon. Okay. So I'm just gonna start saying good afternoon. You know what? That makes sense, too. Because.
+
+10:36:36
+<transcript>: It's like in the middle, right.
+
+10:36:36
+<transcript>: if it's in the middle
+
+10:36:38
+<transcript>: If it's in the middle, I feel like.
+
+10:36:38
+<transcript>: nobody gets
+
+10:36:44
+<transcript>: Nobody gets too offended. Fit your morning and I say, good afternoon. It's that offensive. I don't know.
+
+10:36:44
+<transcript>: if it
+
+10:36:47
+markboots__: G'day
+
+10:36:50
+stroopwafel26: g'day chaps
+
+10:36:51
+<transcript>: If it's your evening if you're in Australia and I say good afternoon, you're probably not too upset about it.
+
+10:36:54
+caldotjs: @caldotjs it's interesting but a bit iffy since I am comparing model performance on two different models that are really different. so getting some sort of "fair" comparison is iffy.. and gradients are vanishing etc...
+
+10:36:58
+devopstty: you like looking not on me but staring inside me with calm eyes I am scared))
+
+10:36:59
+<transcript>: Sorry I didn't just start streaming to, like text people on my phone, but I just occurred to me.
+
+10:37:05
+<transcript>: I didn't turn on a light. There's a light that's turned on from my phone, which is super annoying.
+
+10:37:09
+<transcript>: Good day, good day, good day.
+
+10:37:13
+<transcript>: So I did the manual labor yesterday. I tweeted about it.
+
+10:37:14
+laytanl_: 1/9/2022 btw
+
+10:37:16
+<transcript>: I'm exhausted.
+
+10:37:16
+<transcript>: i'm still tired
+
+10:37:17
+<transcript>: I'm still tired.
+
+10:37:20
+<transcript>: 1922.
+
+10:37:24
+<transcript>: I need somebody that'd be triggered by that.
+
+10:37:27
+<transcript>: Did I just turn up my fill light? I didn't mean to.
+
+10:37:32
+stroopwafel26: dd-mm-yyyy
+
+10:37:32
+<transcript>: Do.
+
+10:37:36
+sirtimme: ^
+
+10:37:36
+<transcript>: Accidentally turned up that I didn't mean to do that.
+
+10:37:40
+<transcript>: Okay, let's turn this one on.
+
+10:37:47
+<transcript>: All right. Now we're good. Now we're good. Day. Month. Year. I don't know about that.
+
+10:37:47
+<transcript>: i don't know
+
+10:37:49
+<transcript>: I don't know. Stroop.
+
+10:37:49
+<transcript>: makes
+
+10:37:51
+<transcript>: Makes sense to me that we do.
+
+10:37:51
+<transcript>: month day
+
+10:37:56
+<transcript>: Month day, year. Because that's what we do in America. And I'm used to it.
+
+10:37:58
+<transcript>: So that makes sense to me.
+
+10:38:03
+cedpoilly: hello all! hello @adamelmore
+
+10:38:06
+<transcript>: Yes, I I did like hard.
+
+10:38:11
+<transcript>: Hey, said Polly. I did hard manual labor. I'd like drag.
+
+10:38:11
+<transcript>: a silt
+
+10:38:11
+aivars_meijers: Hi all!
+
+10:38:12
+<transcript>: A silt.
+
+10:38:18
+<transcript>: Are they called Sulfide? In Europe? I don't know. It's like an irrigation control thing.
+
+10:38:22
+<transcript>: Avers. Is here. Avers.
+
+10:38:23
+stroopwafel26: mm-dd-yyyy only makes sense in murica MaxLOL
+
+10:38:27
+<transcript>: averse a year
+
+10:38:27
+<transcript>: averse a year only makes
+
+10:38:30
+<transcript>: Averse a year only makes sense in America.
+
+10:38:36
+<transcript>: Yeah. It's the one thing that I've gotten used to as an American that I won't budge on.
+
+10:38:36
+<transcript>: i realized
+
+10:38:41
+<transcript>: I realized the American Standard, whatever measurement system is super dumb.
+
+10:38:43
+<transcript>: Using.
+
+10:38:43
+<transcript>: fahrenheit
+
+10:38:46
+<transcript>: Fahrenheit instead of Celsius also super dumb.
+
+10:38:50
+aivars_meijers: MM DD YY is even more fun
+
+10:38:53
+stroopwafel26: let's measure things in football fields! great idea
+
+10:38:53
+<transcript>: Driving on the side that we drive on. I think we share that in common with a lot of people. I think it's just the Brits that are backward. Maybe Japanese. I'm not sure.
+
+10:38:57
+caldotjs: A poll about how many people in here are actually from Europe would be interesting. & we could finally decide on dd/mm/yy
+
+10:38:59
+<transcript>: Let's measure things in football fields.
+
+10:39:10
+<transcript>: That's a good call. That so visit Europe. Is that what we want to figure out.
+
+10:39:11
+<transcript>: Are you in your.
+
+10:39:11
+<transcript>: specific
+
+10:39:14
+<transcript>: Specifically? Or is there anything.
+
+10:39:16
+<transcript>: New opposite.
+
+10:39:17
+<transcript>: Are.
+
+10:39:17
+<transcript>: you
+
+10:39:19
+<transcript>: You in your.
+
+10:39:19
+<transcript>: i'm not gonna
+
+10:39:20
+sirtimme: @stroopwafel26 and washing machines
+
+10:39:25
+<transcript>: I'm not gonna say, Are you from Europe? I'm not gonna say, do you live it? I'm just gonna say, Are you in Europe? So right now.
+
+10:39:25
+<transcript>: are you in
+
+10:39:29
+<transcript>: Are you in Europe? Yes or no.
+
+10:39:35
+<transcript>: Okay.
+
+10:39:45
+cedpoilly: mm-dd-yyyy is nice for display - horrible for development though 🤦‍♂️
+
+10:39:45
+<transcript>: I said that a little flavor.
+
+10:39:45
+<transcript>: one minute
+
+10:39:47
+<transcript>: 1 minute poll started now.
+
+10:39:55
+<transcript>: What about washing machines.
+
+10:39:57
+markboots__: probably not interesting for the most in here. But Chrome 105 launched with :has() pseudo selectors and container queries. CSS is awesome! Im totaly in my element right now
+
+10:39:59
+<transcript>: Nice for display horrible for development though.
+
+10:40:08
+<transcript>: Probably not interesting for the most in here, but Chrome. Well, five launched with hasseudo selectors in container queries oh, container queries.
+
+10:40:08
+<transcript>: that i'm excited
+
+10:40:10
+<transcript>: That I'm excited about.
+
+10:40:12
+stroopwafel26: also, I don't think we have many silt fences in NL, but in other European countries they do use them, NL is just better at water management, we have different solutions :P
+
+10:40:18
+<transcript>: Totally in your element right now, Mark. Right. Since CSS isn't our job awesome. It's so much better than manual labor. So just.
+
+10:40:22
+<transcript>: Tldr don't do manually labor. It's hard.
+
+10:40:22
+<transcript>: i don't
+
+10:40:24
+<transcript>: I don't recommend it.
+
+10:40:31
+<transcript>: Feel like I'm gonna be recovering for like two days. We don't have many silk fences in Netherlands, but in European kind.
+
+10:40:32
+<transcript>: kinds
+
+10:40:32
+<transcript>: kinds is just better at
+
+10:40:36
+<transcript>: Kinds is just better at water management. We have different solutions. Oh really.
+
+10:40:36
+laytanl_: Shouldn't we wait for those features to be added to firefox etc.?
+
+10:40:39
+<transcript>: Just you're above silk fences over there.
+
+10:40:39
+<transcript>: shouldn't we
+
+10:40:47
+<transcript>: Shouldn't we wait for those features to be added to Firefox, etc. Yeah, I don't know how soon can we use let's just check this will be first thing we do today.
+
+10:40:50
+<transcript>: A data.
+
+10:40:55
+<transcript>: 25 well, eight out of the people who said yet 80%.
+
+10:40:55
+<transcript>: of the people
+
+10:40:58
+<transcript>: Of the people who responded are in Europe.
+
+10:40:58
+<transcript>: i didn't
+
+10:41:08
+caldotjs: Isn't NL the most farming efficient country?
+
+10:41:09
+<transcript>: I didn't respond. I should responded. That was skewed. It a little bit, but only ten of you responded so 15 of you can't be bothered to answer the poll or you didn't know it existed.
+
+10:41:11
+stroopwafel26: where there is water we build land, where there is land we bring water, basically
+
+10:41:11
+<transcript>: Let's.
+
+10:41:11
+andom: why didnt i get a poll :(
+
+10:41:14
+<transcript>: Know in the most farming efficient country.
+
+10:41:18
+<transcript>: Where there is water. We build land, where there is land, we bring water, basically.
+
+10:41:18
+<transcript>: oh
+
+10:41:21
+aivars_meijers: I been a bartender, carpenter and in army before, typing words to be paid for sure is easier
+
+10:41:24
+markboots__: ohw, i didnt respond +1
+
+10:41:24
+<transcript>: Oh, you didn't get a pole, am I'm sorry? I don't know what causes. I don't know what the rhyme or reason is.
+
+10:41:24
+<transcript>: on
+
+10:41:26
+<transcript>: On pole.
+
+10:41:31
+cedpoilly: I had a coaching client asking me for help about container queries. I advised not to implement any production code. But if it is being shipped now, then 🤔
+
+10:41:32
+<transcript>: Okay. So we had a few people didn't respond. They probably didn't even know it was there.
+
+10:41:40
+<transcript>: Container queries I vice not to implement any production code, but if it is being shipped now then.
+
+10:41:42
+stroopwafel26: according to the poll about 80% of people don't get dates right
+
+10:41:44
+<transcript>: We're gonna look at it and we're gonna make the topic.
+
+10:41:47
+<transcript>: Topic.
+
+10:41:52
+<transcript>: Container queries.
+
+10:41:55
+adamelmore: !topic checking out container queries
+
+10:41:56
+<transcript>: Yeah.
+
+10:41:58
+<transcript>: Okay.
+
+10:41:58
+<transcript>: over here
+
+10:42:00
+<transcript>: Over here.
+
+10:42:07
+<transcript>: So let's do some Googling.
+
+10:42:07
+<transcript>: let's
+
+10:42:14
+stroopwafel26: !topic fix the announcements
+
+10:42:14
+laytanl_: 5 times now lol
+
+10:42:15
+<transcript>: Let's Google did it announce like three people? What is it doing? Why is it four people at five people this time? Okay. Something's very broken.
+
+10:42:20
+<transcript>: Very broken.
+
+10:42:24
+<transcript>: We should really fix this. That's a good topic.
+
+10:42:27
+<transcript>: First. I guess I said I was gonna do this.
+
+10:42:27
+<transcript>: can i
+
+10:42:29
+markboots__: @cedpoilly wait for it. Edge still has to implement it (somewhere this week) and firefox has no date yet
+
+10:42:32
+<transcript>: Can I use container queries? Let's see here.
+
+10:42:34
+<transcript>: Added Chrome has shipped.
+
+10:42:37
+<transcript>: Doesn't look great.
+
+10:42:39
+<transcript>: Doesn't look great. Mark.
+
+10:42:48
+<transcript>: Let's see Chrome 105 combining size, container, queries and table layout inside a Multicon layout doesn't work.
+
+10:42:49
+sandro_vol: Moin Adam 👋
+
+10:42:51
+<transcript>: Okay.
+
+10:42:54
+<transcript>: So we're at about plug 1%.
+
+10:42:54
+<transcript>: of users
+
+10:42:57
+stroopwafel26: Bark Moots at the cutting edge of technology again
+
+10:42:57
+<transcript>: Of users have.
+
+10:43:00
+<transcript>: Container, queries Mark.
+
+10:43:00
+<transcript>: i don't know if that's
+
+10:43:04
+<transcript>: I don't know if that's good enough for your use case. Then maybe you can go for it.
+
+10:43:10
+<transcript>: Edge still has to implement it sometimes somewhere this week. Oh, Firefox never has a date, do they.
+
+10:43:10
+<transcript>: i don't think
+
+10:43:12
+<transcript>: I don't think they ever have a date.
+
+10:43:12
+<transcript>: bark
+
+10:43:16
+<transcript>: Bark moods that the cutting edge of technology again.
+
+10:43:18
+<transcript>: Good Morning. Sandra.
+
+10:43:23
+<transcript>: Let's fix the announcement thing. I wasn't gonna work on the.
+
+10:43:23
+<transcript>: hey
+
+10:43:26
+<transcript>: Hey, percent of people don't get dates, right? That's right.
+
+10:43:43
+<transcript>: I wasn't going to work on the overlays today, but we probably should fix the thing that's very broken. We are going to work on my Neil, them config a little bit. I want to catch up a little bit on that because I've been kind of putting stuff off. So specifically.
+
+10:43:47
+<transcript>: Text objects so.
+
+10:43:47
+<transcript>: i'm gonna add
+
+10:43:48
+<transcript>: I'm gonna add.
+
+10:43:57
+cedpoilly: @markboots__ yes let's wait for Firefox. I think that Chrome & Firefox are the ones to wait for. At least to have in a dev branch 🌿
+
+10:44:00
+<transcript>: Is it LSP. Text objects. What is it? I don't remember. There's a text object pub plugin that I want to play with. I want to actually learn surround, like figure out what's going on there.
+
+10:44:06
+<transcript>: What else? There's a few things, other things in Miami, of Mcompig. Maybe we'll make it to do.
+
+10:44:06
+<transcript>: maybe we'll make
+
+10:44:08
+<transcript>: Maybe we'll make it to dot.
+
+10:44:08
+<transcript>: m
+
+10:44:11
+<transcript>: Md just maybe.
+
+10:44:17
+laytanl_: treesitter textobjects I guess
+
+10:44:17
+<transcript>: Mark down. Lsp. I don't know if I have markdown. Lsp. We might add that.
+
+10:44:18
+stroopwafel26: of course edge will fix it soon, it's chromium as well
+
+10:44:22
+<transcript>: Now I was gonna work on public. Actually. Public Dev. Time to get serious.
+
+10:44:24
+<transcript>: Get that thing.
+
+10:44:24
+<transcript>: sh
+
+10:44:26
+sandro_vol: Everytime I join the stream there is a new programming language or huge thing that changed :D  Now it is LUA 😄
+
+10:44:31
+<transcript>: Shipped. I mean, I just got to shift the we did all the redesign work early in my streaming career.
+
+10:44:31
+<transcript>: a month
+
+10:44:33
+<transcript>: A month ago.
+
+10:44:33
+<transcript>: we did all that
+
+10:44:36
+<transcript>: We did all that redesign stuff. And then I just.
+
+10:44:36
+<transcript>: i just
+
+10:44:40
+<transcript>: I just paused, and I built a bunch of Twitch overlays.
+
+10:44:40
+<transcript>: but we never
+
+10:44:44
+markboots__: yea, they are not really synced. Other way around FF has sub grid, while chrome has no date. Hope end of this year we can use all to the fullest
+
+10:44:45
+<transcript>: But we never shipped the redesign, so we were, like, really close to done with it, and I want to finish it.
+
+10:44:48
+<transcript>: You know what is out.
+
+10:44:48
+<transcript>: mark
+
+10:44:50
+<transcript>: Mark talking about releases.
+
+10:44:54
+<transcript>: What is out is, Why am I wearing glasses.
+
+10:44:54
+cedpoilly: @adamelmore I'd be happy to be in the early testing team for public.dev
+
+10:44:57
+<transcript>: What is that is OBS 28, officially.
+
+10:44:57
+<transcript>: it's no longer
+
+10:45:00
+<transcript>: It's no longer in Beta. It is public.
+
+10:45:00
+<transcript>: so while
+
+10:45:07
+stroopwafel26: OBS 28!!!!11
+
+10:45:07
+<transcript>: So while we're in the overlays, okay, okay, fine. Talk to me into it. We're gonna go into the overlays. We're gonna actually.
+
+10:45:07
+<transcript>: create a branch
+
+10:45:11
+<transcript>: Create a branch for OBS.
+
+10:45:25
+<transcript>: Webs WebSocket version five because we're gonna have to all the stuff I did with the WebSocket stuff in OBS is version four of the plugin, but on OBS 28, I need to be using version five because it's baked in.
+
+10:45:28
+<transcript>: Okay. So why.
+
+10:45:28
+<transcript>: why
+
+10:45:29
+<transcript>: Why.
+
+10:45:29
+<transcript>: is it
+
+10:45:32
+<transcript>: Is it broken? What happened.
+
+10:45:34
+aivars_meijers: Sadly not all the plugins supports OBS 23 for M!
+
+10:45:35
+<transcript>: Let's go over here.
+
+10:45:38
+<transcript>: Anything obvious.
+
+10:45:38
+<transcript>: shared
+
+10:45:40
+<transcript>: Shared that's where.
+
+10:45:43
+<transcript>: Now, where do we do that.
+
+10:45:47
+<transcript>: Let's see, where do we give attributes.
+
+10:45:50
+<transcript>: That's in the Stinger thing.
+
+10:45:54
+aivars_meijers: oh, so many typos. I'm a champ
+
+10:45:56
+<transcript>: Finger lip Stinger. Here.
+
+10:45:57
+stroopwafel26: I've been throwing 4k video through OBS in the latest M1 optimized version and performance is pretty awesome
+
+10:46:00
+<transcript>: Let's get some keycaster going.
+
+10:46:00
+<transcript>: oh
+
+10:46:02
+<transcript>: Oh, I didn't do it.
+
+10:46:05
+<transcript>: Keycasters aren't running.
+
+10:46:05
+<transcript>: keycast
+
+10:46:07
+<transcript>: Keycaster.
+
+10:46:09
+<transcript>: I really need like.
+
+10:46:09
+<transcript>: i don't know
+
+10:46:13
+<transcript>: I don't know. Some kind of like Startup script. It does everything.
+
+10:46:13
+<transcript>: there's
+
+10:46:16
+<transcript>: There's, my Jays. Gonna move them up here.
+
+10:46:20
+<transcript>: There's just so many little steps to get a stream started, you know.
+
+10:46:21
+aivars_meijers: @stroopwafel26 ok, installing it to try out later today
+
+10:46:26
+<transcript>: Where do we give attribution? So we got the author.
+
+10:46:28
+<transcript>: We are clue.
+
+10:46:30
+<transcript>: You should share.
+
+10:46:33
+<transcript>: Here we go.
+
+10:46:42
+<transcript>: Put it author here onto this I know what's going.
+
+10:46:45
+<transcript>: Think I know it's got.
+
+10:46:48
+<transcript>: Transitioned.
+
+10:46:53
+<transcript>: I changed this right before I started the stream because it was yelling at me.
+
+10:46:57
+<transcript>: But I shouldn't have.
+
+10:46:59
+<transcript>: Should not have.
+
+10:47:02
+<transcript>: Okay. So.
+
+10:47:02
+<transcript>: now
+
+10:47:03
+<transcript>: Now.
+
+10:47:03
+<transcript>: on
+
+10:47:06
+<transcript>: On transitioned.
+
+10:47:07
+<transcript>: Let's see.
+
+10:47:07
+<transcript>: if
+
+10:47:09
+<transcript>: If.
+
+10:47:16
+<transcript>: That's the issue. It's not changed.
+
+10:47:16
+<transcript>: it's remotely
+
+10:47:18
+<transcript>: It's remotely similar to that.
+
+10:47:18
+<transcript>: let's disable
+
+10:47:20
+<transcript>: Let's disable it for this line.
+
+10:47:23
+<transcript>: And let's try it again.
+
+00:23:34
+<transcript>: but
+
+00:23:34
+<transcript>: Sadly, not all the plugins support OBS 28. Yeah, that's true.
+
+00:23:37
+<transcript>: But I looked at the List, the matrix.
+
+00:23:37
+<transcript>: of
+
+00:23:43
+<transcript>: Of support for 28 and one of the things I use don't have support.
+
+00:23:49
+<transcript>: Which is to say, I don't use Rema plugins.
+
+00:23:52
+<transcript>: And I don't need to wait on these.
+
+00:24:00
+<transcript>: Every time I join the stream, there's a new programming language, a huge thing that changed.
+
+00:24:08
+<transcript>: Sandra. Yeah, we're doing hottree sitters. Thank you. Late. And tree sitter. Texts, objects. I guess that's exactly right.
+
+00:24:12
+caldotjs: wanted to ask since a few streams: you are using iterm2 right? since you are nvimming now quite a bit, doesn't the performance annoy you?
+
+00:24:16
+<transcript>: so we've been working
+
+00:24:16
+<transcript>: Yeah. We've been working on my neovem config Sandro. I switched over to neovim on the stream a couple weeks ago. A few weeks ago.
+
+00:24:20
+<transcript>: So we've been working on that. That's where the Louis comes from.
+
+00:24:26
+<transcript>: Yeah. Fraser. Support is hard.
+
+00:24:31
+adamelmore: !betakey
+
+00:24:31
+fossabot: Use beta key `adamisontwitch2` after signing up at public.dev.
+
+00:24:31
+<transcript>: I'd be happy to be in the early testing team for public debt Poly. Well, you know what.
+
+00:24:34
+<transcript>: You can do there's a beta key for you.
+
+00:24:40
+<transcript>: I've been throwing 4K videos.
+
+00:24:40
+<transcript>: and the latest
+
+00:24:43
+<transcript>: And the latest in one optimized version.
+
+00:24:49
+<transcript>: And performance is pretty awesome. That is good to hear. I don't know if I can do 4K.
+
+00:24:49
+<transcript>: because
+
+00:24:54
+<transcript>: Because my capture card. Well, I could do 4K, but I have to do 30 frames.
+
+00:24:54
+<transcript>: i can't
+
+00:25:02
+<transcript>: I can't do these capture cards. They can't do four K sixty. So I'm choosing to do one thousand and eighty P sixty.
+
+00:25:02
+<transcript>: all my
+
+00:25:03
+cedpoilly: thanks a lot man! 🥳
+
+00:25:06
+<transcript>: All my cameras are 4K. So I suppose I could go four K thirty.
+
+00:25:22
+sandro_vol: https://public.dev/sandro 😎
+
+00:25:24
+<transcript>: I wanted to ask. Since a few streams you were using, I turned two, right? Yeah, I am. Since you are in Dimming now quite a bit. Doesn't the performance annoy you? It really does. I don't think I noticed. It might just be my Mac studio is beefy, but I don't notic any eye term slowness.
+
+00:25:24
+<transcript>: i
+
+00:25:29
+<transcript>: I've heard Kitty is so fast uses the GPU and all that.
+
+00:25:29
+<transcript>: i download
+
+00:25:30
+stroopwafel26: yeah I do 4k30 through my sony rx100 straight connected to my mac using USB
+
+00:25:31
+<transcript>: I downloaded Kitty.
+
+00:25:31
+<transcript>: and
+
+00:25:34
+<transcript>: And there's Sandra's Public ID.
+
+00:25:34
+<transcript>: i
+
+00:25:50
+<transcript>: I have noticed the speed difference, but I didn't play with Kitty very much and I'd thought about going to Alacrity, it sounds more in line with my values which are minimal, just like I don't want. I don't think I'm using even much of the features of eye term.
+
+00:25:50
+<transcript>: and
+
+00:25:50
+caldotjs: did you try other stuff? since I definitely notice when going back and forth
+
+00:25:52
+sandro_vol: I gave warp a try for 1-2 months and I really can't change terminal anymore :D
+
+00:25:55
+<transcript>: And I would just use the builtin terminal to try and be as simple as possible, but.
+
+00:25:55
+<transcript>: doesn't support
+
+00:25:58
+<transcript>: Doesn't support colors, and I can't handle that.
+
+00:26:01
+<transcript>: What are we doing here.
+
+00:26:01
+<transcript>: so
+
+00:26:03
+<transcript>: So we want to try transition.
+
+00:26:03
+<transcript>: and see
+
+00:26:08
+<transcript>: And see Stroop you do four K thirty through your Sony RX 100.
+
+00:26:08
+<transcript>: straight next
+
+00:26:23
+laytanl_: I use Iterm as well and never had any noticeable slowdowns or issues
+
+00:26:23
+<transcript>: Straight next to my Mac using OBS using USB. Oh, you've played in through USB. Interesting. I think these Sony cameras that I'm using you can plug in straight through USB, but I didn't know if the quality was as good as HDMI or performance or whatever.
+
+00:26:26
+caldotjs: alacritty is also faster :) & the maintainer isn't that weird :D
+
+00:26:29
+<transcript>: You gave Warp a try for one to two months and I really can't change terminal anymore.
+
+00:26:36
+<transcript>: Definitely notice when going back and forth. Yeah. I guess I didn't try. I want to try a lackerdie. Maybe we'll do that today on stream.
+
+00:26:36
+<transcript>: caldat
+
+00:26:37
+<transcript>: Caldat.
+
+00:26:37
+<transcript>: it like me
+
+00:26:44
+<transcript>: It like me uses eye term as well never had any notes and slowdowns or issues. Maybe I just don't know what I don't know. Maybe I haven't experienced.
+
+00:26:44
+<transcript>: speed
+
+00:26:44
+stroopwafel26: yeah my rx100 also has mini HDMI or whatever it's called but USB is fine
+
+00:26:45
+<transcript>: lac
+
+00:26:45
+<transcript>: Speed yet.
+
+00:26:50
+<transcript>: the kitty main
+
+00:26:50
+<transcript>: Lacropy is also faster than maintainer. Isn't that I've heard some things about.
+
+00:26:52
+<transcript>: The Kitty maintainer.
+
+00:27:04
+<transcript>: Okay, thanks for the follow of workwind. Why didn't I get notifications? That's because this is broken. What is this? Why is it broken? What is going on? Why is everything broken.
+
+00:27:06
+<transcript>: Topic.
+
+00:27:10
+<transcript>: I guess.
+
+00:27:13
+<transcript>: That's not word guess.
+
+00:27:13
+<transcript>: we'll fix
+
+00:27:17
+adamelmore: !topic i GUESS we'll fix the overlays
+
+00:27:18
+<transcript>: We'll fix the wow. I can't type six the overlays.
+
+00:27:20
+<transcript>: I guess.
+
+00:27:22
+<transcript>: What is this.
+
+00:27:22
+<transcript>: invalid
+
+00:27:24
+<transcript>: Invalid time value.
+
+00:27:24
+<transcript>: time
+
+00:27:25
+<transcript>: Timer duplicate.
+
+00:27:31
+<transcript>: Time.
+
+00:27:32
+<transcript>: Okay.
+
+00:27:32
+<transcript>: let's
+
+00:27:37
+<transcript>: Let's fix that. And then let's see if our.
+
+00:27:39
+<transcript>: For Things, working.
+
+00:27:42
+<transcript>: Here we are overlays. We're back.
+
+00:27:45
+<transcript>: Can't get away.
+
+00:27:52
+stroopwafel26: @caldotjs I've been trying out Adam's nvim config yesterday and performance in kitty was... not great. Everything slowed down when I'm in a huge codebase and I have nvimtree open. Gotta figure that out.
+
+00:27:53
+<transcript>: Did I do? What did I do.
+
+00:28:03
+<transcript>: Try out Adams in Zim Kuzzu yesterday performance, and Kitty was not great. Everything slowed down and I'm a huge and a huge code base. And I had.
+
+00:28:03
+<transcript>: inventri
+
+00:28:05
+<transcript>: Inventrie open interesting.
+
+00:28:05
+<transcript>: so
+
+00:28:08
+<transcript>: So we're gonna open index.
+
+00:28:08
+<transcript>: next
+
+00:28:09
+<transcript>: Next.
+
+00:28:09
+<transcript>: page
+
+00:28:11
+<transcript>: Page like that.
+
+00:28:14
+<transcript>: Where was the issue.
+
+00:28:14
+<transcript>: it was
+
+00:28:16
+<transcript>: now the time
+
+00:28:16
+<transcript>: It was.
+
+00:28:19
+<transcript>: Now the time value Set timer.
+
+00:28:33
+<transcript>: Okay, so timer two isostring widespread. Why is there a timer on this page right now? There shouldn't be a timer. This is the homepage. Oh, yeah, yeah, there is a timer. It's this thing. The corner is not working. Okay.
+
+00:28:33
+<transcript>: oh
+
+00:28:39
+<transcript>: Oh, because we now we have this U stream. I changed things. This is now looks different.
+
+00:28:39
+<transcript>: i bet
+
+00:28:42
+<transcript>: I bet I didn't. Yeah. Use stream response.
+
+00:28:42
+<transcript>: that's such a mistake
+
+00:28:43
+caldotjs: @caldotjs are u using tmux?
+
+00:28:44
+<transcript>: That's such a mistake.
+
+00:28:52
+<transcript>: Go here. Hey, I got that. Thanks for the follow. Sam. I did hear that. So we saw a notification, I guess.
+
+00:28:52
+<transcript>: that feels
+
+00:29:05
+<transcript>: That feels good. Okay. Everything's not everything entirely broken? Everything is not entirely broken. Feels like a Monday. Anybody think it feels like a Monday when you take off Wednesdays.
+
+00:29:05
+<transcript>: And then 30.
+
+00:29:07
+<transcript>: Mark.
+
+00:29:07
+<transcript>: thank you so much
+
+00:29:09
+<transcript>: Thank you so much.
+
+00:29:09
+<transcript>: gift
+
+00:29:10
+stroopwafel26: @laytanl_ 80 stars on the cloack repo! congrats :)
+
+00:29:12
+<transcript>: Gifting out subs. I appreciate that.
+
+00:29:17
+<transcript>: Yeah, 80 Stars on the cloak. Repo. Leighton, how cool.
+
+00:29:19
+<transcript>: How cool.
+
+00:29:26
+<transcript>: Thank you so much, Mark. I appreciate that. Were you just trying to upload the spirits here before things got Graham again.
+
+00:29:28
+markboots__: testing
+
+00:29:31
+<transcript>: Use stream response. What are you.
+
+00:29:34
+markboots__: LuL
+
+00:29:36
+<transcript>: So we're trying to set a client stream to date.
+
+00:29:36
+<transcript>: those are
+
+00:29:41
+<transcript>: Those are no longer dates. They are strings. So what if we said.
+
+00:29:43
+stroopwafel26: @caldotjs yeah in tmux, but outside of tmux it's the same
+
+00:29:46
+<transcript>: All of this is garbage. What if we did that? What if we said.
+
+00:29:46
+<transcript>: let's
+
+00:29:48
+<transcript>: Let's all straight garbage.
+
+00:29:48
+<transcript>: and
+
+00:29:53
+<transcript>: it
+
+00:29:53
+<transcript>: And we don't use this is not what it returns anymore.
+
+00:29:54
+<transcript>: It returns.
+
+00:29:54
+<transcript>: a get
+
+00:29:56
+laytanl_: Yeah, cloak blew up thanks to Adam
+
+00:29:56
+<transcript>: a get stream response you know what i'm saying
+
+00:29:59
+<transcript>: A get stream response. You know what I'm saying? Just think.
+
+00:30:02
+<transcript>: And then we don't need this anymore.
+
+00:30:04
+<transcript>: And then.
+
+00:30:04
+<transcript>: let's go
+
+00:30:10
+<transcript>: so
+
+00:30:10
+<transcript>: Let's go back here. Now. What do we got? Is it working? No.
+
+00:30:12
+<transcript>: So timer use stream.
+
+00:30:12
+laytanl_: Such a simple plugin as well
+
+00:30:15
+<transcript>: Now stream is a get stream response.
+
+00:30:15
+<transcript>: time
+
+00:30:17
+matty_twoshoes: lurkin while workin mattyt25LurkSlide
+
+00:30:19
+<transcript>: Timer let's see actual start.
+
+00:30:19
+<transcript>: is
+
+00:30:22
+<transcript>: Is that which is a string.
+
+00:30:27
+<transcript>: And we can pass that string into a date. No, we can't.
+
+00:30:29
+<transcript>: ooh
+
+00:30:29
+<transcript>: Interesting.
+
+00:30:32
+<transcript>: Ooh, this is a problem? I gotta fix this.
+
+00:30:36
+<transcript>: This is definitely a problem. I know the problem.
+
+00:30:36
+<transcript>: know it
+
+00:30:39
+laytanl_: Even ThePrimeagen tweeted about it
+
+00:30:41
+<transcript>: this is
+
+00:30:41
+<transcript>: Know it know that it's a problem I just I'm I gotta check this real quick.
+
+00:30:45
+<transcript>: This is New Nine One. We'll see. Do we have transcripts.
+
+00:30:45
+<transcript>: we do
+
+00:30:46
+<transcript>: We do.
+
+00:30:52
+aivars_meijers: Seems that stream deck support is broken after update to OBS 28, but otherwise I'm good
+
+00:30:59
+<transcript>: All did. We just announced three times, and it looked kind of bad. Well, that about look at this. Everyone look at this transcripts with the chat. I finished it. I just did it offstream because I was so frustrated that day.
+
+00:31:06
+<transcript>: Okay. We're getting stuff. We're getting transcripts. And they are mixed in.
+
+00:31:09
+<transcript>: Well, that's not ideal.
+
+00:31:09
+<transcript>: it's
+
+00:31:13
+<transcript>: It's it's putting in some partial transcripts. That's not great.
+
+00:31:17
+<transcript>: But you know, we can fix that. That's fixable.
+
+00:31:21
+<transcript>: Okay.
+
+00:31:28
+<transcript>: Reading my incoherent transcripts. That's a good time.
+
+00:31:35
+<transcript>: Look, I mean, they're in here, right? If I'm like if later. I'm like, let's get out of this file.
+
+00:31:38
+<transcript>: Let's go back here on that piece.
+
+00:31:38
+<transcript>: what is
+
+00:31:40
+<transcript>: What is it? Control.
+
+00:31:42
+<transcript>: Cisco somewhere else.
+
+00:31:42
+<transcript>: so
+
+00:32:03
+<transcript>: So if later, I say, oh, what was that? I was talking about manual labor or something. Then I can be like, oh, look, let's do a live grab manual labor. There it is, in the transcript. I can find it in the VOD, just like that. And that's why we built that feature. We push through, just like, I push through that manual labor yesterday. We made it happen.
+
+00:32:03
+<transcript>: it was
+
+00:32:04
+markboots__: codingClap Well done!
+
+00:32:07
+<transcript>: It was hard. Sometimes you gotta do hard work. Okay, I'm gonna stop.
+
+00:32:10
+<transcript>: Okay. So we need to actually return.
+
+00:32:12
+sirtimme: syncrosHype
+
+00:32:18
+<transcript>: Let's actually return a date because now I'm returning the formatted date. Thought I'd just do that on the back end.
+
+00:32:22
+<transcript>: That was a mistake. A bit of a mistake.
+
+00:32:25
+<transcript>: So let's go to.
+
+00:32:25
+<transcript>: stream
+
+00:32:28
+<transcript>: Stream, but we want the API variety.
+
+00:32:28
+<transcript>: now this is
+
+00:32:31
+<transcript>: Now this is what we want. Get stream.
+
+00:32:34
+<transcript>: Here.
+
+00:32:34
+<transcript>: so
+
+00:32:39
+<transcript>: So here I'm just returning these formatted dates now.
+
+00:32:44
+caldotjs: @Mods am I allowed to link a screenshot of iterm performance on my system?
+
+00:32:46
+<transcript>: What we really want.
+
+00:32:46
+stroopwafel26: look at this guy flying through vim
+
+00:32:49
+<transcript>: We want an ISO date.
+
+00:32:56
+<transcript>: We want an ISO date, and then we'll format it on the front end, right.
+
+00:32:58
+<transcript>: i think that's what we
+
+00:32:58
+<transcript>: Yeah.
+
+00:33:00
+<transcript>: I think that's what we want.
+
+00:33:00
+<transcript>: look at me
+
+00:33:06
+<transcript>: Look at me. Flying through them. Am I flying? Am I doing that? Not flying through them.
+
+00:33:06
+<transcript>: seems
+
+00:33:09
+<transcript>: Seems that stream export is broken after update to open.
+
+00:33:10
+<transcript>: opens i think
+
+00:33:10
+<transcript>: opens i think you have to update
+
+00:33:20
+<transcript>: Opens I think you have to update your Stream Deck plugin because they did just announce like in the last few days. They added support for version 28 in the Stream Diet plugin, but you might not have the latest.
+
+00:33:20
+<transcript>: yeah
+
+00:33:25
+<transcript>: Yeah, lighten Prime Twitter about or tweeted about cloak twoTED about cloak.
+
+00:33:36
+stroopwafel26: twotter
+
+00:33:37
+<transcript>: Just catching up on Chat, lurking while working. Hey, Maddie, two shoes.
+
+00:33:42
+<transcript>: We credited you like six times earlier because there's a bug.
+
+00:33:47
+<transcript>: Are you allowed to link a screenshot? Yes, of course.
+
+00:33:50
+<transcript>: Of course twater.
+
+00:33:54
+<transcript>: It's not what Twitter is. It's Twitter, not Twitter.
+
+00:33:57
+caldotjs: https://twitter.com/caldotdev/status/1565292489229074432?s=20&t=Z3ZcE8ODNe6lC0w-aTWiXw
+
+00:33:59
+<transcript>: to watch this
+
+00:33:59
+<transcript>: I'm mistake. Okay, let's see if I can just like delete.
+
+00:34:06
+<transcript>: To watch this? Just watch this. I'm not even deleted I'm gonna see whatever C stands for? I'm gonna go see.
+
+00:34:08
+<transcript>: Nope. Can't do that.
+
+00:34:15
+<transcript>: Do that. What about Delete? Nope. If it's on a same line, I guess you can't delete.
+
+00:34:17
+<transcript>: Like if I want to yank.
+
+00:34:17
+<transcript>: yank
+
+00:34:23
+<transcript>: Yankoo. No, we can't go to that open friends at the bottom. There can't do that.
+
+00:34:30
+<transcript>: Like I want to. I mean, I can just do this.
+
+00:34:33
+<transcript>: And delete it.
+
+00:34:33
+<transcript>: so
+
+00:34:35
+buffetcodes: Hi! :D
+
+00:34:37
+<transcript>: So schedule start to ISO string.
+
+00:34:37
+<transcript>: i even need
+
+00:34:39
+<transcript>: I even need to do this.
+
+00:34:42
+<transcript>: Think so.
+
+00:34:44
+buffetcodes: How are you doing?
+
+00:34:46
+<transcript>: I'm gonna copy like I will have it copied.
+
+00:34:49
+stroopwafel26: @caldotjs kitty is performing pretty well in your tests
+
+00:34:55
+<transcript>: Two oh, Oops.
+
+00:34:57
+<transcript>: Two ISO string.
+
+00:35:19
+<transcript>: Okay. So I'm ISO formatting those. I don't know if I needed to do that because I think I'm already having to jump through some Hoops to date serialize stuff.
+
+00:35:29
+<transcript>: To JSON serialize. Okay, we're fine, though. We're gonna do this. So these are gonna come out as ISO strings instead of date whatever they are.
+
+00:35:35
+<transcript>: So there's still strings. But now we need to go in and change something.
+
+00:35:36
+<transcript>: In intro.
+
+00:35:40
+<transcript>: Here. We need to format this.
+
+00:35:44
+<transcript>: Because we have like a date utility or something.
+
+00:35:45
+<transcript>: Lib.
+
+00:35:49
+<transcript>: Pills just put.
+
+00:35:49
+<transcript>: let's do this
+
+00:35:52
+<transcript>: Let's do this right here. Export format.
+
+00:35:52
+<transcript>: date
+
+00:35:53
+<transcript>: Date.
+
+00:35:57
+<transcript>: Equals date.
+
+00:36:00
+<transcript>: Or string.
+
+00:36:01
+avarice: your keyboard is so hot
+
+00:36:02
+caldotjs: @caldotjs yes its doing fine. + the window feature is a pro, since you don't need tmux if you use it. Using tmux hits performance quite hard as you can see in the other screenshot in the thread
+
+00:36:03
+<transcript>: Even better.
+
+00:36:05
+<transcript>: Turn date.
+
+00:36:12
+avarice: !keyboard
+
+00:36:12
+fossabot: Adam uses a custom Mode Eighty mechanical keyboard, and has a collection of other Mode keyboards!
+
+00:36:14
+<transcript>: So if type of is it like this type of date equals string.
+
+00:36:22
+<transcript>: Then new date thanks for the follow somebody thanks for the follow Amy I'm a Yee lost.
+
+00:36:24
+<transcript>: Average.
+
+00:36:24
+<transcript>: that's my key
+
+00:36:28
+<transcript>: That's my keyboard. You're verified what's that mean? Again, that means you're on Twitch alone.
+
+00:36:28
+<transcript>: or
+
+00:36:33
+<transcript>: Or your strength. Maybe do you straight.
+
+00:36:38
+<transcript>: How do I learn something about you.
+
+00:36:39
+avarice: i used to stream kiriahHeadPat
+
+00:36:45
+<transcript>: There's a like a millipede pronunner into my office. Hey, thanks for the followaborice.
+
+00:36:51
+<transcript>: You used to stream I see so now you're you're verified.
+
+00:37:01
+<transcript>: My keyboard is so hot. Thanks. Hey, you want to see my keyboard? Check this out. We've got a view for that. Oh Geez, everything's so broken sorry that my overalles are broken. Thanks for following anyway.
+
+00:37:06
+<transcript>: Yeah, you can see my keyboard now. There it is. Mode 80.
+
+00:37:09
+avarice: oh mama
+
+00:37:13
+<transcript>: This is nice with the air on top. I feel like this is an improvement. Maybe.
+
+00:37:13
+avarice: clean setup brother
+
+00:37:19
+<transcript>: It's nice that it's not actually killing my hole overlay, right? It's just killing the timer. So that's cool.
+
+00:37:19
+<transcript>: like we just don't have
+
+00:37:21
+buffetcodes: Yeah, seriously clean setup
+
+00:37:21
+<transcript>: Like we just don't have a timer.
+
+00:37:21
+<transcript>: now i'm
+
+00:37:24
+<transcript>: Now I'm should be able to fix this really easy.
+
+00:37:25
+buffetcodes: Just use Linux :(
+
+00:37:27
+<transcript>: Thanks everice. I appreciate that.
+
+00:37:33
+<transcript>: Back here. So now we're doing this format date thing.
+
+00:37:39
+<transcript>: And then we're gonna say.
+
+00:37:40
+stroopwafel26: @caldotjs but I like using tmux :(
+
+00:37:44
+<transcript>: Else. No. Okay. So not return. It's not return.
+
+00:37:44
+<transcript>: i'm nervous here
+
+00:37:47
+<transcript>: I'm nervous here because I have something in my clipboard.
+
+00:37:50
+<transcript>: So let's paste that so I can.
+
+00:37:53
+<transcript>: Not be so nervous.
+
+00:37:53
+<transcript>: so this
+
+00:37:56
+<transcript>: So this is gonna instead be like.
+
+00:37:56
+<transcript>: hot
+
+00:37:57
+<transcript>: value
+
+00:37:57
+<transcript>: Hot.
+
+00:37:59
+<transcript>: Value equals.
+
+00:38:02
+<transcript>: otherwise
+
+00:38:02
+<transcript>: And then we're gonna say.
+
+00:38:06
+<transcript>: Otherwise, it's just date. So if it's not a string, it's a date, right.
+
+00:38:08
+<transcript>: Right.
+
+00:38:11
+<transcript>: Think so.
+
+00:38:11
+<transcript>: so
+
+00:38:13
+<transcript>: this
+
+00:38:13
+<transcript>: So.
+
+00:38:16
+<transcript>: This thing right here is what date? Correct.
+
+00:38:16
+<transcript>: okay so
+
+00:38:19
+<transcript>: dot
+
+00:38:19
+<transcript>: Okay. So now return value.
+
+00:38:21
+<transcript>: Dot.
+
+00:38:21
+<transcript>: to
+
+00:38:23
+<transcript>: To it's this whole thing.
+
+00:38:39
+<transcript>: If I want to paste on the next character.
+
+00:38:39
+<transcript>: id
+
+00:38:41
+<transcript>: Id. That.
+
+00:38:46
+<transcript>: somebody tell me like i could just do that but i feel like there's got to be like a shortcut for that and then
+
+00:38:47
+<transcript>: Somebody tell me like I could just do that. But I feel like there's got to be, like, a shortcut for that. And then.
+
+00:38:47
+<transcript>: i've
+
+00:38:51
+<transcript>: I've learned anything about them. There's a shortcut for everything.
+
+00:38:54
+caldotjs: @caldotjs yeah I mean using alacritty with tmux is still lightyears ahead iterm and only slightly worse than alacritty in some tests. I have both set up and use them depending on my mood :D
+
+00:39:00
+<transcript>: Okay, so format date we're gonna use this all over the place shortly. First, let's go to our index.
+
+00:39:04
+<transcript>: This is very broken. And I'm tired of the air on the screen.
+
+00:39:04
+<transcript>: so
+
+00:39:09
+<transcript>: So start actual start. These are strings.
+
+00:39:09
+<transcript>: need to
+
+00:39:11
+<transcript>: Need to say new date.
+
+00:39:11
+<transcript>: here we do
+
+00:39:16
+<transcript>: Here. We do. Yeah, yeah. That should work. And then. So what's the problem.
+
+00:39:16
+<transcript>: timer
+
+00:39:18
+<transcript>: Timer to ISO string.
+
+00:39:21
+<transcript>: I feel like this should all work.
+
+00:39:28
+<transcript>: You like this. Should all work. Move a refresh. So what is that? That's the overlay refresh.
+
+00:39:32
+<transcript>: Do we have a timer? We have a timer.
+
+00:39:36
+<transcript>: 39 minutes into this stream.
+
+00:39:41
+cowfacedude99: !today
+
+00:39:41
+fossabot: Building a Twitch overlay in Next.JS
+
+00:39:43
+<transcript>: Buffet codes. Hey, I'm doing well, how are you.
+
+00:39:44
+<transcript>: How are you.
+
+00:39:44
+<transcript>: what
+
+00:39:47
+<transcript>: What was this you were giving me.
+
+00:39:47
+<transcript>: come out
+
+00:39:48
+laytanl_: @caldotjs so in your tests Iterm is the slowest by a LOT?
+
+00:39:51
+<transcript>: Come out. Oh, a link to the screenshot. Yeah. Let's look at that. I'll pull that up here.
+
+00:39:56
+<transcript>: Just catching up on Jet catching up on chat.
+
+00:39:56
+<transcript>: the window
+
+00:40:05
+<transcript>: The window feature is a pro since you don't need tmux if you use it using Pmux hits performance quite hard as you can see in the other screenshot in the thread.
+
+00:40:05
+<transcript>: okay
+
+00:40:06
+<transcript>: Okay.
+
+00:40:07
+caldotjs: @laytanl_ A LOT A LOT :D
+
+00:40:10
+<transcript>: Seriously clean setup. Just use Linux.
+
+00:40:10
+<transcript>: yeah i'm using
+
+00:40:12
+<transcript>: Yeah. I'm using Mac OS. I'm sorry.
+
+00:40:19
+<transcript>: Using Alokready with tmach is still lightyears ahead I term and only slightly worse than algorithm. Some tests.
+
+00:40:23
+<transcript>: Both set up and using them depending on my mood. Okay.
+
+00:40:23
+<transcript>: calface
+
+00:40:29
+<transcript>: Calface. We are. We're not supposed to be building a Twitch overlay. We just. I broke things.
+
+00:40:29
+<transcript>: over
+
+00:40:31
+aivars_meijers: Yeah, stream deck works after restarting everything and praying a bit
+
+00:40:32
+<transcript>: Over my little break yesterday.
+
+00:40:40
+<transcript>: And my plan was very much not to work on the overlays. We're just fixing up a couple things. Then we're gonna work on our invention. Config. Actually. Cafes. Perfect day for you to be here.
+
+00:40:40
+<transcript>: we're
+
+00:40:49
+caldotjs: @caldotjs I meant kitty here when I said alacritty the 2nd time. my bad :(
+
+00:40:50
+laytanl_: @caldotjs welp, time to move lol. Thought it was negligable
+
+00:40:52
+<transcript>: We're gonna work on the inner config. We're gonna add tree sitter, text objects. We're gonna add. I'm actually gonna learn how surround works. So if you hang out today, you'll get some of that content. You're welcome.
+
+00:40:57
+<transcript>: I term as well we might use alacrity. We might install allocrities today.
+
+00:41:03
+buffetcodes: Did you mention surround?
+
+00:41:12
+<transcript>: We might get everything ready for OBS 28. I'm just in kind of like a update, your dependencies kind of move, you know, like refresh everything. And OBS 28 is officially launched on the ten year anniversary. Now, that was like a date. You know, they weren't gonna miss.
+
+00:41:12
+<transcript>: it was ten
+
+00:41:12
+systemsc3: Hey guys I have a question
+
+00:41:13
+rapscallionreaves: Love some alacritty
+
+00:41:17
+<transcript>: It was ten years to the day since the first release of OBS that they released OBS 28 officially.
+
+00:41:17
+<transcript>: it could have
+
+00:41:17
+stroopwafel26: chat is mass switching to kitty/alacritty from iterm2 right now
+
+00:41:26
+<transcript>: It could have it probably still has some glaring bugs. Let's be honest, they were not going to not release it on the ten year anniversary that date was set in stone.
+
+00:41:31
+cowfacedude99: I thought so. I was kind of surprised when you didn't raid anyone yesterday
+
+00:41:33
+<transcript>: Kitty here when I said Alacrity, yeah, no worries.
+
+00:41:33
+systemsc3: Is buttcheeks spelled one word or do you spread them apart?
+
+00:41:33
+caldotjs: @laytanl_ you can bench it quite easily with vtbench but imo you can really feel the difference when using it
+
+00:41:36
+rapscallionreaves: what is the audio app you're using?
+
+00:41:40
+<transcript>: I understood that, caldat. I read it twice, just like you wrote it twice. But I understood what you meant. We're all on same page.
+
+00:41:46
+buffetcodes: Check this font @adamelmore : https://typeof.net/Iosevka/ :D I love it!
+
+00:41:46
+<transcript>: Did you mention surround? I did Buffett. I did mention surround. We're gonna use.
+
+00:41:46
+<transcript>: we're gonna
+
+00:41:49
+<transcript>: we
+
+00:41:49
+<transcript>: We're gonna use surround.
+
+00:41:56
+matty_twoshoes: cannot wait to reduild my entire stream setup from scratch with v28 and the next version of Aitum (automation software)
+
+00:42:01
+<transcript>: We actually learn the key commands and stuff because I'm not. I've installed this and I just haven't really used it. Pay system. You have a question. We might have an answer. Welcome to Chat Raps Kalian Love Somalikriddy. Well, then it's settled.
+
+00:42:06
+<transcript>: We're using allocating Alec Ritty. Is it a lacarde or alacrity.
+
+00:42:06
+<transcript>: pronouncing things
+
+00:42:08
+<transcript>: Pronouncing things is not my strength.
+
+00:42:08
+<transcript>: i don't know what
+
+00:42:14
+<transcript>: sur
+
+00:42:14
+<transcript>: I don't know what my strength is, but it's not pronouncing things. Chat is Mass switching to Kitty Alqred for my tripod right now.
+
+00:42:16
+rapscallionreaves: I say it the other way
+
+00:42:17
+stroopwafel26: it's foldenable
+
+00:42:18
+cowfacedude99: I am one of the guys who still use kitty mainly because I am too  lazy to figure out to use alt instead of what mac sends out :(
+
+00:42:20
+laytanl_: @caldotjs now the question is: alactrity or kitty
+
+00:42:24
+<transcript>: Surprisingly, just rating one yesterday. Yeah. Caufas. Yesterday. The end of the stream was a low point in my streaming history. I've been doing this for a month and a half now.
+
+00:42:29
+<transcript>: Yesterday, Thursday, Tuesday, Yesterday, but Tuesday.
+
+00:42:29
+<transcript>: i hit
+
+00:42:31
+<transcript>: that was about
+
+00:42:31
+<transcript>: I hit some lows.
+
+00:42:32
+cowfacedude99: iterm*
+
+00:42:34
+<transcript>: That was about as depressed as I've been as a streamer.
+
+00:42:39
+<transcript>: Started questioning all of my decisions. All my life choices that led to that moment.
+
+00:42:43
+<transcript>: Nothing was working. Everything was bad. On Tuesday.
+
+00:42:43
+<transcript>: you can go
+
+00:42:47
+<transcript>: You can go back and watch a lot if you'd like to be depressed with me.
+
+00:42:58
+<transcript>: Head to just in the stream. Didn't even do an outro is just like we're done here. And that was because you guys couldn't hear me. Audio was working. Audio is in the VOD.
+
+00:42:58
+<transcript>: audio is
+
+00:43:00
+<transcript>: Audio is making it to Twitch.
+
+00:43:00
+<transcript>: clips
+
+00:43:02
+<transcript>: Clips even showed the audio.
+
+00:43:02
+<transcript>: there was no
+
+00:43:06
+<transcript>: ethis
+
+00:43:06
+<transcript>: There was no audio for the live viewers. And I just said.
+
+00:43:07
+stroopwafel26: @cowfacedude99 "macos_option_as_alt yes"
+
+00:43:08
+<transcript>: and i closed
+
+00:43:08
+<transcript>: Ethis amount.
+
+00:43:09
+<transcript>: And I closed the stream.
+
+00:43:17
+<transcript>: It was bad, but we're back. I'm feeling great today. Just took a little manual labor yesterday. And I'm feeling fantastic.
+
+00:43:22
+<transcript>: Actually, the manual labor. That kind of sucked. I never wanted to do it again.
+
+00:43:26
+<transcript>: But cheeks spelled one word. Or do you spread them? Okay.
+
+00:43:26
+<transcript>: system
+
+00:43:30
+cowfacedude99: @cowfacedude99 I don't want to bother now LUL
+
+00:43:31
+<transcript>: Systems. That was your question. That's what you had to ask us.
+
+00:43:33
+<transcript>: Okay.
+
+00:43:33
+<transcript>: audio app
+
+00:43:36
+<transcript>: this is the loop
+
+00:43:36
+<transcript>: Audio app is a loop back.
+
+00:43:41
+<transcript>: This is the Loopback. It's pretty. It's pretty great. I've heard in the latest.
+
+00:43:41
+<transcript>: macos
+
+00:43:46
+<transcript>: in ob
+
+00:43:46
+<transcript>: Macos with OBS 28 you don't need this anymore because you can do this kind of stuff.
+
+00:43:48
+<transcript>: In OBS 28, but.
+
+00:43:51
+<transcript>: let it
+
+00:43:51
+<transcript>: Check this font.
+
+00:43:53
+<transcript>: first
+
+00:43:53
+<transcript>: Let it lose.
+
+00:43:56
+<transcript>: First we got to open this link.
+
+00:44:00
+rapscallionreaves: Oh, its a mac thing.  No wonder its so pretty lol
+
+00:44:00
+<transcript>: This is a screenshot of some performance things.
+
+00:44:00
+<transcript>: oh you're
+
+00:44:07
+<transcript>: Oh, you're nudging me. That's me, Adam. Dev, let's see? And a triangle? Acrid, slash Kitty.
+
+00:44:09
+<transcript>: What is this.
+
+00:44:10
+caldotjs: @laytanl_ you kinda need tmux or a window manager like yabai when choosing alacritty which slows it down a tiny bit.   kitty: all in one package with the maintainer being a bit weird & toxic  alacritty: technically faster and more minimal, they don't implement a lot of features on purpose
+
+00:44:14
+<transcript>: Milliseconds. Lower is better. I'm guessing this is iterm. Yeah.
+
+00:44:17
+<transcript>: are
+
+00:44:17
+<transcript>: It turns the really big one and then all the other ones.
+
+00:44:22
+<transcript>: Are much faster, so dense scrolling.
+
+00:44:22
+<transcript>: scrolling
+
+00:44:24
+<transcript>: okay
+
+00:44:24
+<transcript>: Scrolling Full screen.
+
+00:44:28
+<transcript>: Okay. That's convincing. We're gonna try something else.
+
+00:44:32
+levifig: iTerm used to be the fastest
+
+00:44:33
+<transcript>: The the current plan is alacrity allocating.
+
+00:44:33
+<transcript>: alacrity
+
+00:44:34
+<transcript>: Alacrity.
+
+00:44:37
+levifig: I like Alacritty
+
+00:44:44
+<transcript>: And then what did you send me? Font? A font? I'm probably not gonna switch over. I've been using Operator mono for, like, five years. Probably not gonna switch.
+
+00:44:54
+<transcript>: This is nice, though. I do like the Saun. Did we ever get rid of our air? Yeah, we got rid of our air. Okay, cool. This is nice. I like it. I'm actually gonna leave this one up.
+
+00:44:54
+<transcript>: i like
+
+00:45:00
+<transcript>: I like it so much, actually, I'm gonna bring it over here to my new browser, which is this thing.
+
+00:45:00
+<transcript>: and we're gonna
+
+00:45:00
+buffetcodes: This is really good!! Try it out <#
+
+00:45:02
+buffetcodes: * <3
+
+00:45:04
+<transcript>: And we're gonna open a new tab in this thing. What is this called again? Arc.
+
+00:45:04
+<transcript>: i'm gonna open it over
+
+00:45:05
+levifig: no tabs, so be ready for that ( fine for me: I use yabai on macOS and i3 on Linux)
+
+00:45:07
+stroopwafel26: @laytanl_ kitty dev also created calibre which I use for ebooks
+
+00:45:07
+<transcript>: I'm gonna open it over here so it doesn't get closed if I get.
+
+00:45:09
+<transcript>: rick rolled
+
+00:45:09
+<transcript>: If I get.
+
+00:45:11
+<transcript>: Rick rolled. Okay.
+
+00:45:11
+<transcript>: can i
+
+00:45:16
+<transcript>: Can I wait to rebuild my entire stream set up from scratch with 28 and the next version of.
+
+00:45:16
+<transcript>: ad
+
+00:45:18
+<transcript>: Adam.
+
+00:45:18
+<transcript>: atom
+
+00:45:19
+laytanl_: Tough choice then
+
+00:45:20
+<transcript>: Atom.
+
+00:45:20
+caldotjs: I can really recommend MonoLisa. using it is so fun
+
+00:45:26
+laytanl_: I am using yabai already
+
+00:45:30
+<transcript>: You say it the other way. Wraps which one is the other way? Alacrity or alcrydy. Could you try and type out a phonetic pronunciation of that fold in the Bowl.
+
+00:45:32
+levifig: Jetbrains Mono is a VERY solid font btw (and free)
+
+00:45:34
+laytanl_: I think warp.dev triees to do to much
+
+00:45:36
+rapscallionreaves: @laytanl_ Oh that's awesome!  I love calibre
+
+00:45:40
+<transcript>: I am one of the guys who still use Kitty, mainly because I'm too lazy to figure out how to use alt instead of what Max sends out.
+
+00:45:42
+<transcript>: Alt.
+
+00:45:48
+caldotjs: @laytanl_ I highly agree. used it to and there is way to much visual clutter
+
+00:45:49
+stroopwafel26: @levifig jetbrains mono gang <3
+
+00:45:50
+rapscallionreaves: I say a-lack-ritty not ala-critty
+
+00:45:50
+<transcript>: What? Explain cafes, alt the key. I switch my Alton command or whatever.
+
+00:45:55
+<transcript>: Now the question is alacrity, or Kitty.
+
+00:45:55
+<transcript>: macos
+
+00:45:58
+levifig: Alacritty doesn't support ligatures though :(
+
+00:45:58
+<transcript>: Macos option as Alt Yes Oh.
+
+00:45:58
+<transcript>: okay
+
+00:45:59
+<transcript>: Okay.
+
+00:45:59
+<transcript>: so maxing
+
+00:46:02
+<transcript>: So Maxing. No wonder it's so pretty.
+
+00:46:09
+<transcript>: You kind of need tmux or a window manager like you buy when choosing Alikridy, which slows it down a tiny bit.
+
+00:46:09
+<transcript>: yeah
+
+00:46:17
+<transcript>: Yeah. You don't have like, tabs in Alec Ritty, right? It's just like one thing. You have to open more windows.
+
+00:46:30
+<transcript>: I guess that would be kind of bad. We feel a little bad about that. I just the Kitty thing. There's just so many features. It's a little overwhelming, all the thing. It's like I just need to be able to change the font and the color. I can do that.
+
+00:46:30
+<transcript>: i don't know that
+
+00:46:32
+<transcript>: I don't know that I need.
+
+00:46:32
+<transcript>: all the other stuff
+
+00:46:39
+<transcript>: All the other stuff. And I don't even need to change the color that's built in that's in Neil them. Right. So.
+
+00:46:54
+<transcript>: The maintainer all in one package with maintaining a bit weird. Yeah, and Toxic Alecready technically faster and more minimal. They don't implement a lot of features on purpose. I think the only feature I use is custom font.
+
+00:46:54
+<transcript>: and i use
+
+00:46:58
+<transcript>: And I use tabs in it so maybe I'd feel bad not having tabs. I guess.
+
+00:47:01
+<transcript>: I term used to be the fastest.
+
+00:47:01
+<transcript>: says levi
+
+00:47:02
+<transcript>: Says Levi.
+
+00:47:08
+<transcript>: try that on
+
+00:47:08
+<transcript>: Okay, Buffett. You're saying try it out, try out the font.
+
+00:47:10
+<transcript>: Try that on what.
+
+00:47:10
+rapscallionreaves: I actually hate ligatures in my terminal.  Love it on webpages though
+
+00:47:12
+<transcript>: Probably I'm gonna change my editor font.
+
+00:47:27
+<transcript>: But I kind of want to use this phone on, like a website or something. It looks nice. It's an open source San Serif and Slab Serif model space, quasi proportional typeface family that's mouthful designed for writing code using in terminals and preparing technical documents.
+
+00:47:27
+<transcript>: oh so
+
+00:47:29
+<transcript>: Oh, so it's made for code. Okay.
+
+00:47:39
+<transcript>: Spatially efficient. This is nice. Do you have to pay for it? Because I'm kind of Snob. And I like using fonts that have to pay for.
+
+00:47:39
+<transcript>: why do i like
+
+00:47:45
+buffetcodes: Try changing editor font, it's for writing code. Do you know about tsoding? twitch.tv/tsoding
+
+00:47:47
+<transcript>: Why do I like paying for things instead of free things? I don't know, but I like it. It makes it feel more official. Like I chose this thing when I buy it.
+
+00:47:47
+<transcript>: be ready
+
+00:47:51
+<transcript>: Be ready for that. No tabs? Yeah.
+
+00:47:51
+<transcript>: i use you by
+
+00:47:53
+<transcript>: I use you by so I'm using you by as well.
+
+00:47:59
+<transcript>: I would be weird, though, to have all of them.
+
+00:47:59
+<transcript>: open
+
+00:48:02
+stroopwafel26: Be Dutch, you'll like free things in no time
+
+00:48:08
+<transcript>: Open. Like I like having one of my things open and then just like switching back and forth between tabs. I guess I learned tmux that'd be a whole thing.
+
+00:48:10
+<transcript>: We'll see.
+
+00:48:10
+buffetcodes: He used to use this font, there I got to know about it.
+
+00:48:13
+<transcript>: We will see.
+
+00:48:16
+buffetcodes: I tried it yesterday, and oh wow - it looks great!
+
+00:48:16
+<transcript>: Monolitha is that a font.
+
+00:48:19
+<transcript>: Or is that a thing? What is that.
+
+00:48:26
+<transcript>: Jetbrain's Mono is a very solid font and free free is a Con for me actually.
+
+00:48:26
+<transcript>: levi
+
+00:48:27
+<transcript>: warp
+
+00:48:27
+<transcript>: Levi.
+
+00:48:32
+<transcript>: Warpdev tries to do too much. That's what Kitty does. In my opinion, I don't want to do too much.
+
+00:48:43
+caldotjs: I LOVED the thing about paid fonts. I am in the same boat. MonoLisa is the font I use https://www.monolisa.dev/
+
+00:48:45
+<transcript>: Jetbrains monogang. I say allocritey, not Ala, Critty. Okay, alacrity. We'll go with the lacqueri.
+
+00:48:45
+<transcript>: doesn't
+
+00:48:47
+<transcript>: Doesn't support ligatures.
+
+00:48:49
+rapscallionreaves: I love tmux.  I have it autostarting in my bashrc and its great to leave commands running on a server
+
+00:48:55
+buffetcodes: tmux is good! Just make sure to set escape timeout, you might wanna change a few things here and there. Specially if you use "ctrl+I" in neovim.
+
+00:48:56
+<transcript>: But that's okay for Raps, because he hates Ligatures. He or she hates Ligatures in return. Love it on Web pages, though.
+
+00:48:56
+<transcript>: okay
+
+00:48:58
+<transcript>: Okay. Okay.
+
+00:49:01
+<transcript>: More fonts being thrown at me.
+
+00:49:04
+<transcript>: Midouch you'll like free things.
+
+00:49:11
+rapscallionreaves: +1 to escape timeoute
+
+00:49:14
+<transcript>: Okay. We're still on my fonts. I'm not gonna change my phone right now, but I appreciate the suggestions. I love the thing about pay fonts. Same boat.
+
+00:49:14
+<transcript>: isn't only
+
+00:49:23
+<transcript>: Isn't only Lisa a paid font because you might get me the switch. Now that we're still talking about fonts, I gotta fix something in my overlays. Don't forget someone remind me.
+
+00:49:23
+<transcript>: fix the thing
+
+00:49:25
+<transcript>: Fix the thing, fix it.
+
+00:49:25
+<transcript>: in your overlay
+
+00:49:26
+<transcript>: look at this
+
+00:49:26
+<transcript>: In your overlay.
+
+00:49:29
+<transcript>: Look at this page font. Now we're talking.
+
+00:49:32
+avarice: fix the thing
+
+00:49:33
+avarice: Kappa
+
+00:49:33
+<transcript>: I love Team Max. Okay.
+
+00:49:33
+<transcript>: let's
+
+00:49:39
+<transcript>: Let's. Let's fix the thing. Thank you, Aberice. Thank you. We're gonna fix this thing.
+
+00:49:39
+<transcript>: we have to
+
+00:49:45
+stroopwafel26: !topic spending money on fonts while there's a million free choices around
+
+00:49:47
+stroopwafel26: MaxLOL
+
+00:49:49
+cowfacedude99: I use tmux + vim a lot so I do need alt and ctrl key a lot. and by design mac sends off the option key doesn't send alt key by default which was a pain for me.  iterm2 was easiest to set option as alt and I haven't bothered to switch LUL
+
+00:49:52
+rapscallionreaves: dumb question, are twitch overlays just regular html?
+
+00:49:55
+<transcript>: We have to format some dates. We have to do it in intro. We have to do an outro. So right here, this is now an ISO formatted. Well, we can just look at it. Check this out localhost. I would also need to test transitions because they may be very broken.
+
+00:50:08
+levifig: @rapscallionreaves they are technically done on the client side (OBS)
+
+00:50:09
+<transcript>: Yeah, see, now it's an ISO string. We don't want that. That's no good, especially since we're formatting it and saying it's a UTC. And then I throw in the time zone at the end. That's nice touch.
+
+00:50:09
+<transcript>: what
+
+00:50:12
+<transcript>: What is the CT time Zone anyway.
+
+00:50:12
+<transcript>: let's
+
+00:50:13
+sparringwithbear: i love working with dates ResidentSleeper
+
+00:50:14
+<transcript>: Let's format it. So here.
+
+00:50:14
+<transcript>: it's
+
+00:50:15
+<transcript>: It's.
+
+00:50:15
+<transcript>: format
+
+00:50:20
+levifig: @rapscallionreaves and yes: html/css/js
+
+00:50:21
+<transcript>: Format. So that's a ISO string. I want to just say.
+
+00:50:24
+<transcript>: Format date or something.
+
+00:50:26
+<transcript>: Like.
+
+00:50:26
+<transcript>: format
+
+00:50:30
+<transcript>: Format date? What do we say? Yeah, format date.
+
+00:50:31
+caldotjs: @stroopwafel26 & your code screenshots look like any other screenshot :< font snobs unite
+
+00:50:37
+<transcript>: Like inventoround is where I could like easily surround this thing.
+
+00:50:37
+<transcript>: based on the
+
+00:50:41
+<transcript>: Based on the name. That's what it makes sense to me. Right? What's wrong with this.
+
+00:50:43
+levifig: @rapscallionreaves you can literally create a PWA, use websockets, connect to APIs, etc
+
+00:50:46
+stroopwafel26: fair point
+
+00:50:46
+<transcript>: What's wrong? Argument type string. Oh, undefined. So we need to handle undefined.
+
+00:50:49
+<transcript>: We'll go to format date.
+
+00:50:49
+<transcript>: here and
+
+00:50:52
+<transcript>: Here. And we'll say if if.
+
+00:50:52
+<transcript>: state
+
+00:50:53
+<transcript>: State.
+
+00:50:54
+fragaverage: There was me thinking the title meant we weren't looking at Overlays today 👀
+
+00:50:56
+<transcript>: It's not date.
+
+00:50:56
+<transcript>: return
+
+00:50:57
+<transcript>: Return.
+
+00:51:00
+<transcript>: Empty string. I don't know. I could probably just.
+
+00:51:01
+<transcript>: do
+
+00:51:03
+<transcript>: Do unfine. There.
+
+00:51:03
+rapscallionreaves: @rapscallionreaves gotcha.  I know you can add a browser source in OBS, I just didn't realize how simple it was server-side.  Well, how simple it can be
+
+00:51:06
+<transcript>: But let's see if that.
+
+00:51:11
+<transcript>: date
+
+00:51:12
+<transcript>: String on the finest side of the parameter. Oh, I need to actually change the signature, right.
+
+00:51:13
+<transcript>: Date.
+
+00:51:13
+<transcript>: or
+
+00:51:15
+<transcript>: Or string.
+
+00:51:16
+<transcript>: we'll just do like this
+
+00:51:17
+<transcript>: We'll just do like this.
+
+00:51:17
+<transcript>: yeah
+
+00:51:19
+<transcript>: Yeah, Yeah.
+
+00:51:26
+<transcript>: I don't like that. You're still there.
+
+00:51:26
+<transcript>: ls
+
+00:51:28
+<transcript>: Lsp restart.
+
+00:51:32
+<transcript>: Why you in my face like that. I feel like I'm broken them.
+
+00:51:36
+<transcript>: Well, let's close it, let's reopen.
+
+00:51:46
+<transcript>: Something I've noticed with the oven. You do run into a few little visual glitches. Sometimes that happens on occasion.
+
+00:51:46
+<transcript>: but
+
+00:51:51
+<transcript>: But I come some flag because it's pretty awesome, and I feel like I don't feel like I'm missing much.
+
+00:51:51
+<transcript>: if anything
+
+00:51:57
+<transcript>: If anything from my vs code days just been a couple weeks few weeks feels pretty good.
+
+00:51:57
+<transcript>: so we got
+
+00:52:02
+<transcript>: So we got the format date there. Now we also want to add it to.
+
+00:52:10
+<transcript>: Scheduled. Any other instances of scheduled? Yeah. Right there.
+
+00:52:13
+<transcript>: So format eight.
+
+00:52:19
+<transcript>: Learning them.
+
+00:52:26
+<transcript>: Any others. Now that's all, is there any actual starts, actual.
+
+00:52:28
+<transcript>: Okay.
+
+00:52:28
+<transcript>: save
+
+00:52:31
+<transcript>: Save those now let's do.
+
+00:52:36
+<transcript>: Scheduled start. I think outro.
+
+00:52:38
+<transcript>: There's gonna have it.
+
+00:52:38
+<transcript>: and then
+
+00:52:39
+<transcript>: And then.
+
+00:52:39
+<transcript>: might be
+
+00:52:41
+<transcript>: Might be it.
+
+00:52:41
+<transcript>: here
+
+00:52:44
+<transcript>: Here format date.
+
+00:52:55
+sparringwithbear: someone tell me to go build my stuff instead of being on twitch :'(
+
+00:53:01
+<transcript>: It's hard I can't see anything in my terminal because of keycaster I wish I could have keycaster only be visible.
+
+00:53:05
+<transcript>: To you all where I don't have to see it. That'd be cool.
+
+00:53:05
+<transcript>: that'd be
+
+00:53:07
+<transcript>: That'd be great actually.
+
+00:53:10
+<transcript>: start
+
+00:53:10
+<transcript>: Scheduled.
+
+00:53:11
+<transcript>: Start.
+
+00:53:13
+<transcript>: That's the only one. Okay.
+
+00:53:16
+<transcript>: Save that. Let's save everything.
+
+00:53:18
+cowfacedude99: @sparringwithbear stay here, LUL
+
+00:53:24
+<transcript>: Actual start.
+
+00:53:28
+<transcript>: I think it's just gonna be index.
+
+00:53:36
+<transcript>: That one we fixed. So did I fix ATRO so that we fixed after. Yeah. Okay.
+
+00:53:38
+<transcript>: And break.
+
+00:53:38
+<transcript>: just break
+
+00:53:39
+<transcript>: Just break.
+
+00:53:42
+sparringwithbear: @cowfacedude99 bet
+
+00:53:42
+rapscallionreaves: @sparringwithbear but if you leave, then I'll feel bad and have to work too
+
+00:53:43
+<transcript>: Have any instances of dates.
+
+00:53:44
+shn4ke: i think there is an obs plugin you should be able to use
+
+00:53:50
+<transcript>: It just shows the title. Okay, cool. We did it.
+
+00:53:50
+<transcript>: let's check let's
+
+00:53:54
+<transcript>: Let's check. Let's check. The transitions are not completely broken. How about that.
+
+00:53:56
+shn4ke: for key strokes
+
+00:53:56
+<transcript>: How about that.
+
+00:54:03
+<transcript>: And how do I want to do that first? I want to make sure this is all running, right? Yeah. Okay.
+
+00:54:06
+<transcript>: Just real quick.
+
+00:54:06
+<transcript>: transition
+
+00:54:08
+sparringwithbear: i'm staying @cowfacedude99 's has a good point Kappa
+
+00:54:08
+<transcript>: Transitions.
+
+00:54:12
+<transcript>: Let's check how you see that.
+
+00:54:12
+<transcript>: let's check
+
+00:54:14
+<transcript>: Let's check. I can now search.
+
+00:54:14
+<transcript>: let's
+
+00:54:24
+<transcript>: Let's check the transitions are not completely broken. How about that? And that's pretty cool, actually, to have my transcript right here.
+
+00:54:36
+<transcript>: In my overlays project where I can live grip find stuff you all say in chat, find stuff I said from earlier, just like that and I've got time stamp this happened at 53. 54. Look at that.
+
+00:54:36
+<transcript>: that's so great
+
+00:54:42
+<transcript>: That's so great. I'm so glad I built that feature. Even though it was an absolute nightmare. Do I want to ride it? No.
+
+00:54:43
+<transcript>: Alright.
+
+00:54:50
+<transcript>: Let's do it. Let's transition, and let's see.
+
+00:54:50
+<transcript>: does it credit
+
+00:54:58
+<transcript>: Does it credit? Like, seven people? No, just one Killion. It was Killing's Animation. So it credited Kilian. And that's what it should have done from the beginning.
+
+00:54:58
+<transcript>: thank you for the
+
+00:55:01
+<transcript>: Thank you for the follow in the GZO.
+
+00:55:07
+<transcript>: Did I miss any other follows? No. Thank you all for following along.
+
+00:55:07
+<transcript>: so whatever
+
+00:55:12
+<transcript>: So whatever this stream is, what do we do on this stream anyway? Someone tell me.
+
+00:55:12
+<transcript>: what i've worked
+
+00:55:17
+<transcript>: What I've worked on Twitch overlays for, like, a month. Two months. I don't even know. It's been a long time.
+
+00:55:21
+<transcript>: Staying calf face has a good point.
+
+00:55:26
+<transcript>: There's an OBS plugin you should be able to use for keystrokes. Oh, thank you, snake.
+
+00:55:29
+<transcript>: Who's leaving.
+
+00:55:29
+<transcript>: what
+
+00:55:30
+<transcript>: What.
+
+00:55:30
+<transcript>: 's this about
+
+00:55:33
+<transcript>: 's this about leaving Frag is here.
+
+00:55:42
+<transcript>: Was me thinking that titlenet we weren't looking at overlays today. Me too, Frag. And then I broke some things we had to fix them in the overlay. I'm sorry.
+
+00:55:42
+<transcript>: i really didn't
+
+00:55:53
+<transcript>: I really didn't want to work on it all today. I want to work on public Dev. And I think I will. But first, we're gonna work on the oven. Big. We might install alacrity. Allocreting. Which one did you like? I don't remember.
+
+00:55:58
+<transcript>: I don't remember spending money on Font while there's a million free choices.
+
+00:56:01
+<transcript>: Yeah, that's a topic.
+
+00:56:19
+<transcript>: So Calf Face uses T Max plus them a lot, so I do need Altin control key a lot. And by design Mac sends off the option key. Doesn't send all key by default, which is a pain for me. Yeah, I don't understand all modifier keys. To be honest, I don't even know what any of them are called anymore. I just my brain started shutting off.
+
+00:56:29
+stroopwafel26: chat did it, I'm not creating an alacritty config and I might switch terminals for the second time in a week
+
+00:56:30
+<transcript>: the
+
+00:56:30
+<transcript>: At some point when I got used to, like, seeing people list out key maps for things that they wouldn't list it in Mac, and I have to translate to like, what is this? Like.
+
+00:56:38
+<transcript>: The circle. Like the icon. Looks like that. Because you tell what it did with my fingers. There. Like, what is that thing? I don't know. Command.
+
+00:56:38
+<transcript>: meta
+
+00:56:48
+<transcript>: Meta. What is that key? I don't know. So I just stopped trying. I knew it. Shift is. And then all the other ones are. Just try it until you figure out which one they met. That's how I do. Gmaps.
+
+00:56:57
+<transcript>: Dumb question our Twitch overlays just regulate HTML mine is a next JS app so it is.
+
+00:57:01
+<transcript>: A React app.
+
+00:57:05
+sparringwithbear: @stroopwafel26 the human brain is indeed amazing
+
+00:57:11
+<transcript>: Thank you for the follow Blue Blue PT. But how about regular HTML making a comeback? All these cool frameworks enhance that Div from the Begin.com folks.
+
+00:57:11
+<transcript>: you've got
+
+00:57:14
+<transcript>: no one talks about
+
+00:57:14
+<transcript>: You've got Astro.
+
+00:57:22
+<transcript>: No one talks about anything on Twitter anymore. They just talk about Astro. Just Astro stuff. We're gonna stream some Astro stuff, though. I've definitely.
+
+00:57:22
+<transcript>: like
+
+00:57:25
+<transcript>: Like drank the Cool aid.
+
+00:57:28
+rapscallionreaves: big fan of Hugo for static html
+
+00:57:29
+<transcript>: Wraps. Thanks for the follow this very minute.
+
+00:57:37
+<transcript>: They're technically done on the client side. Obs. I love what working with dates. I don't I love eating dates. Got any date fans.
+
+00:57:37
+<transcript>: we eat
+
+00:57:45
+then3rdman: asro is sweet,
+
+00:57:50
+<transcript>: We eat a lot of dates. And it's September now September 1. This is the month we get to order dates from Bautista family Farm, also known as Seven Hotdates.com. They're the best they have.
+
+00:57:50
+<transcript>: they have
+
+00:57:51
+<transcript>: They have.
+
+00:57:51
+<transcript>: we get
+
+00:57:53
+caldotjs: @cowfacedude99 you can fix that quite easily: https://gist.github.com/calwritescode/4e430ec018925b73431beb0c88311203
+
+00:57:55
+<transcript>: We get a lot of honey dates. A lot of Cadra dates.
+
+00:57:57
+<transcript>: We get a lot of.
+
+00:57:57
+<transcript>: the
+
+00:58:13
+stroopwafel26: ok I'm running alacritty now instead of kitty MaxLOL
+
+00:58:16
+cedpoilly: dates are great right after hard manual work @adamelmore
+
+00:58:17
+<transcript>: The what's the other one that we get? We don't do the bar heat and there's another date we don't do. We do like four different varieties of dates. We order like £20 each. We spend like $2,000 on dates in September. It is our is the next closest thing to Christmas in this household is the day they open up the date shop. Let me tell you a story.
+
+00:58:24
+then3rdman: trying it on a current proect for work. hoping the prefetch library works well though
+
+00:58:25
+<transcript>: So seven hot dates. They're a family farm in California that they grow dates. I'm talking about the food dates every time I say dates right now.
+
+00:58:25
+sparringwithbear: i've lived in morocco for the past decade , i'm done with dates lmao
+
+00:58:31
+<transcript>: Like the fruit. So they have, like a pit. They're like a big, giant raisin.
+
+00:58:31
+<transcript>: so
+
+00:58:36
+<transcript>: So this family has this farm and they sell dates at like farmers markets in California.
+
+00:58:36
+<transcript>: but they
+
+00:58:41
+<transcript>: But they also sell them online. And they have this website, seven hot Dates.com. Check it out.
+
+00:58:53
+<transcript>: Every year in September. So for, like, ten years, we've been buying dates from them online. I think that's about right. Since we went vegan, like, ten years ago. So we eat a lot of dates.
+
+00:58:59
+<transcript>: Every year, like the second or third week in September.
+
+00:59:05
+<transcript>: They open up online orders and every year for at least the last five years.
+
+00:59:05
+<transcript>: i have
+
+00:59:25
+<transcript>: I have written we'll do it on screen. This year I've written like a monitor. They're very simple little HTML page. They have a very simple little, like online store. And their page doesn't change all year until they open up the store. And then that day they'll publish their site and open up orders. And the HTML will change. I write like a very.
+
+00:59:25
+<transcript>: simple
+
+00:59:31
+<transcript>: Simple little like Cron thing that's just every minute checking their site to see if the HTML changed.
+
+00:59:31
+<transcript>: i usually
+
+00:59:38
+<transcript>: I usually just deploy it like as a Lambda function with EventBridge triggering. So AWS stuff.
+
+00:59:38
+<transcript>: but
+
+00:59:50
+<transcript>: But when the chain, when the page changes, we place an order immediately. We know exactly what we're going to order. We've been there first order for at least like five years. I don't know if they even know as they notice that we order like minutes after they publish.
+
+00:59:50
+<transcript>: their upd
+
+00:59:51
+<transcript>: Their update to their site.
+
+00:59:51
+<transcript>: so
+
+00:59:54
+<transcript>: So funny story is so the funny part of all that.
+
+00:59:54
+<transcript>: is i've
+
+00:59:57
+<transcript>: Is I've been doing that for, like, five years.
+
+01:00:01
+cowfacedude99: cmd -> windows key/(meta for linux) alt -> option. ctrl and shift are the same. nothing against anyone using mac, but apple needs to get on with the world for the keyboard.
+
+01:00:02
+<transcript>: Last I first started doing it when I said Statinus, my startup and I got a message.
+
+01:00:02
+<transcript>: just this year
+
+01:00:07
+<transcript>: Just this year is like a few weeks ago from one of my former employees.
+
+01:00:07
+<transcript>: said
+
+01:00:07
+lukeyfam15: 👋
+
+01:00:08
+<transcript>: Said.
+
+01:00:08
+<transcript>: they were
+
+01:00:13
+jaystation3x: it me
+
+01:00:14
+<transcript>: They were. I don't think this is J. If Jay's listening, he might know. Maybe it was Jay. I thought it was Patrick.
+
+01:00:21
+<transcript>: Jay, if you're here, you'll know, if it was you, either Jay or Patrick, a couple of my employees that sat Me's.
+
+01:00:26
+stroopwafel26: hey @jaystation3x
+
+01:00:33
+<transcript>: Sent me a message and said, hey, I was going through our atabs account, and for a moment I thought somebody had, like, gotten into our account and created this weird infrastructure. I couldn't understand what it was.
+
+01:00:33
+<transcript>: and then he looked at
+
+01:00:41
+jaystation3x: Patrick and I were pairing and found it.
+
+01:00:43
+<transcript>: And then he looked at the source for this Lambda function, and he realized it was like hitting the seven hotdates calm and checking to see if it changed. Once he realized what it was doing, he knew it was me.
+
+01:00:46
+<transcript>: That made me laugh. I don't know.
+
+01:00:54
+<transcript>: Anyway, you love working with dates. I love eating dates. Seven Hotdates Calm. This is my plug. I need to get a sponsorship from them. Lar Bar. Seven hotdates.com.
+
+01:00:54
+<transcript>: i will only
+
+01:01:01
+<transcript>: I will only work with them. So you want to sponsor me? Sorry. Those are the only two people I will ever work with.
+
+01:01:07
+<transcript>: Maybe mode keyboards. I would I would definitely take a mode keyword sponsorship. Just if I get more keyboards, that'd be cool.
+
+01:01:12
+<transcript>: Code screenshots look like any other screenshot.
+
+01:01:12
+<transcript>: fo
+
+01:01:14
+lukeyfam15: Hru?
+
+01:01:14
+<transcript>: Fonts nubs, unite.
+
+01:01:18
+<transcript>: Literally create a PW. Okay, I'm just catching up here on chat.
+
+01:01:30
+<transcript>: Someone tell me to go build my stuff instead of being on Twitter. Go build your stuff sparring.
+
+01:01:30
+<transcript>: just go
+
+01:01:36
+<transcript>: Just go build your stuff. You can stay, you can just listen it's called coworking. I hear. Just stay and listen.
+
+01:01:39
+jaystation3x: I can't believe I tuned in just 30 seconds before you told that story.
+
+01:01:43
+<transcript>: I tell you. Thank you for the follow. Nerd. Man, I really appreciate that follow during my weird date story.
+
+01:01:49
+<transcript>: Don't. Nobody has to leave. Listen, you don't have to leave. You can hang out.
+
+01:01:49
+<transcript>: you can
+
+01:01:58
+<transcript>: You can leave if you want to leave, it's fine. I'm gonna pressure you, but I know a lot of people here are working and listening. You just kind of, like, hang out with me.
+
+01:01:58
+<transcript>: you chat
+
+01:02:02
+<transcript>: You chat and chat. Occasionally you post messages, but I get to read.
+
+01:02:02
+<transcript>: it mix
+
+01:02:09
+<transcript>: It mix my day a whole lot better. So I really appreciate those who hang out here and still get work done. Still get work done.
+
+01:02:11
+<transcript>: Okay.
+
+01:02:11
+<transcript>: so if you
+
+01:02:14
+<transcript>: So if you fix the transition thing.
+
+01:02:20
+<transcript>: Not creating an electric config. And I might switch terminals for you.
+
+01:02:33
+<transcript>: Big fan of Hugo for static HTML. Yeah. So there's some people who've been around, right? Eleven D. Hugo, like normal HTML sites seem to be coming into Vogue.
+
+01:02:39
+<transcript>: And some of them have been here all around all along Astro is sweet.
+
+01:02:39
+<transcript>: oh
+
+01:02:45
+<transcript>: Oh, Astro. Yeah, yeah. Just type over there. Welcome to Chat Nerd. Man. I appreciate you joining us in Chad as well.
+
+01:02:53
+<transcript>: Okay, I'm running a lacarde. Now. Instead of Kitty. Look at you. Stroop. Two terminals. One week, two emulators.
+
+01:02:53
+<transcript>: dates are
+
+01:02:58
+caldotjs: @stroopwafel26 lets goo
+
+01:02:59
+<transcript>: Dates are great right after hard manual work. That's right. And really great before too. They give you a lot of energy.
+
+01:03:03
+<transcript>: Hoping to prefetch library works well.
+
+01:03:08
+godbless_27: i'm guilty that i'm here for coworking mostly
+
+01:03:11
+<transcript>: You've lived in Morocco. So you're done with dates. You get a lot of dates there and grow a lot of dates.
+
+01:03:16
+caldotjs: I currently have both alacritty and kitty running :>
+
+01:03:19
+<transcript>: Yeah, I agree. Cafes the Mac keyboard situation. I'm not a fan.
+
+01:03:27
+<transcript>: Not a fan. Hey, Luki. Oh, Jay's, here. Was it you? Patrick and I were pairing, and I found it and found it. Okay. So it was you and Patrick. Great.
+
+01:03:31
+<transcript>: You turned in 30 seconds. Sorry, that's too funny.
+
+01:03:31
+<transcript>: i'm good
+
+01:03:34
+<transcript>: I'm good Luki? How are you.
+
+01:03:34
+<transcript>: i'm
+
+01:03:36
+jenswoeste: hey Adam greetings from Denmark - not sure the shipping of dades makes sense LUL
+
+01:03:37
+<transcript>: I'm doing great. Got a bit of a sniffle today, I guess.
+
+01:03:45
+<transcript>: Hey, Adam. Greetings, eggs. Greetings from Denmark. Not sure the shipping of dates makes sense.
+
+01:03:45
+<transcript>: i can't
+
+01:03:46
+developmentrobot: since we're on keyboards, I'm waiting for the kinesis 360 drop tomorrow, hopefully I'll snatch one
+
+01:03:47
+<transcript>: so
+
+01:03:47
+<transcript>: I can't grow them where I live.
+
+01:03:51
+lukeyfam15: I'm doing good.
+
+01:03:53
+<transcript>: So in the Midwestern, United States, we can grow nothing we can grow like lettuce.
+
+01:03:55
+jeusto: Hi! This cam is scary, I feel like I'm being stared at monkaS
+
+01:03:59
+<transcript>: So. Yeah, I have to order anything good. I order mangoes by the box.
+
+01:04:09
+<transcript>: You feel like you're being said? Yeah, I've got a teleprompter. Sorry about that. You still. But welcome to Chat. I'm glad you didn't leave you, even though it's a little scary. We'll go back over here.
+
+01:04:16
+<transcript>: Waiting for your cancer Kinesis 360 drop tomorrow OOH, they're gonna sell some to my.
+
+01:04:16
+cowfacedude99: @developmentrobot I ordered my dactyl two weeks ago
+
+01:04:18
+<transcript>: Fast.
+
+01:04:24
+<transcript>: Ordered my Dactyl two weeks ago. You guys and your crazy keyboards.
+
+01:04:37
+<transcript>: Crazy keyboards. Calva has both Alacrity or alacrity and Kitty running. I have Kitty running, I'll think to the follower of both Roblox, stream, stream, streamer, Roblox.
+
+01:04:37
+<transcript>: how is roblox
+
+01:04:38
+developmentrobot: @developmentrobot sheesh, nice
+
+01:04:40
+<transcript>: How is Roblox familiar? Is that a game or something.
+
+01:04:40
+<transcript>: the word
+
+01:04:41
+cowfacedude99: hopefully it will come by oct
+
+01:04:45
+stroopwafel26: @caldotjs any way to open url's in my default browser in alacritty? I have that in kitty, can't figure it out yet
+
+01:04:46
+<transcript>: The word Roblox is so familiar. Okay, we fixed our.

@@ -1,19 +1,10 @@
 import { useQuery } from "@tanstack/react-query"
 import { useEffect, useState } from "react"
-import { GetStreamResponse, Stream } from "../lib/stream"
+import { GetStreamResponse } from "../lib/stream"
 import { TwitchEvent } from "../lib/twitch"
 import { useTwitchEvent } from "./use-twitch-event"
 
-export type ClientStream = Stream & {
-  start?: Date
-}
-
-export type UseStreamResponse = {
-  current: ClientStream
-  next?: ClientStream
-}
-
-export const useStream = (): UseStreamResponse | undefined => {
+export const useStream = (): GetStreamResponse | undefined => {
   const { data } = useQuery<GetStreamResponse>(["stream"], async () => {
     const res = await fetch("/api/stream")
     return await res.json()

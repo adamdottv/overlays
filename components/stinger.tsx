@@ -110,7 +110,8 @@ export const Stinger: React.FC<StingerProps> = ({
     }, 1000 / (fps ?? 10))
 
     return () => clearInterval(intervalHandle)
-  }, [transitioning, onTransitioned])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [transitioning])
 
   return (
     <div className="absolute inset-0">

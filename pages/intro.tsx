@@ -15,6 +15,7 @@ import React from "react"
 import metadata from "../stream.json"
 import { NextApiResponseServerIO } from "../lib"
 import { getStreamInfo, GetStreamResponse } from "../lib/stream"
+import { formatDate } from "../lib/utils"
 
 const AUDIO_FADE_LENGTH = 5 * 1000
 const LOADING_INTERVAL = 200
@@ -65,7 +66,7 @@ function Intro({
         ref={audioRef}
         id="audio-element"
         src="/media/theme-lofi.wav"
-      // src="/media/theme-piano-stem.mp3"
+        // src="/media/theme-piano-stem.mp3"
       />
       {showTitleScreen ? (
         metadata.mode === "guest" ? (
@@ -95,7 +96,7 @@ function Intro({
               )}
               {stream?.current && (
                 <div className="mt-6 text-4xl font-light text-mauve-11">
-                  {stream.current.scheduledStart}
+                  {formatDate(stream.current.scheduledStart)}
                   <span> CT</span>
                 </div>
               )}
@@ -219,7 +220,7 @@ const GuestTitleScreen: React.FC<{ stream?: GetStreamResponse }> = ({
           )}
           {stream?.current && (
             <div className="mt-6 text-xl text-mauve-12">
-              {stream.current.scheduledStart}
+              {formatDate(stream.current.scheduledStart)}
               <span className="text-mauve-11"> CT</span>
             </div>
           )}
