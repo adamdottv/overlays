@@ -1,8 +1,4 @@
-import type {
-  GetServerSideProps,
-  InferGetServerSidePropsType,
-  NextPage,
-} from "next"
+import type { GetServerSideProps, InferGetServerSidePropsType } from "next"
 import Head from "next/head"
 import React, { useEffect } from "react"
 import {
@@ -34,7 +30,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
 
 function Shared({
   debug,
-}: InferGetServerSidePropsType<typeof getServerSideProps>) {
+}: InferGetServerSidePropsType<typeof getServerSideProps>): JSX.Element {
   const [transitioning, setTransitioning] = React.useState(false)
 
   const transcript = useAssemblyAi(debug)

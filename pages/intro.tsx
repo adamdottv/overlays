@@ -1,11 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
-import type {
-  GetServerSideProps,
-  InferGetServerSidePropsType,
-  NextPage,
-} from "next"
+import type { GetServerSideProps, InferGetServerSidePropsType } from "next"
 import { ComponentProps, useEffect, useRef, useState } from "react"
-import { useStream, UseStreamResponse } from "../hooks"
 import cn from "classnames"
 import {
   AudioSpectrum,
@@ -18,13 +13,20 @@ import {
 import { fadeAudioOut } from "../lib/audio"
 import React from "react"
 import metadata from "../stream.json"
-import { getStreamInfo } from "./api/stream"
 import { NextApiResponseServerIO } from "../lib"
+import { getStreamInfo, GetStreamResponse } from "../lib/stream"
 
 const AUDIO_FADE_LENGTH = 5 * 1000
 const LOADING_INTERVAL = 200
 
-export const getServerSideProps: GetServerSideProps = async (context) => {
+export interface IntroSsrProps {
+  stream: GetStreamResponse
+  debug: boolean
+}
+
+export const getServerSideProps: GetServerSideProps<IntroSsrProps> = async (
+  context
+) => {
   const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
   const stream = JSON.parse(JSON.stringify(rawStream))
 
@@ -63,7 +65,7 @@ function Intro({
         ref={audioRef}
         id="audio-element"
         src="/media/theme-lofi.wav"
-        // src="/media/theme-piano-stem.mp3"
+      // src="/media/theme-piano-stem.mp3"
       />
       {showTitleScreen ? (
         metadata.mode === "guest" ? (
@@ -86,19 +88,17 @@ function Intro({
           }
           center={
             <div className="mt-[26px]">
-              <div className="text-5xl font-light text-mauve-12">
-                {stream?.current.title ?? stream?.next?.title}
-              </div>
-              <div className="mt-6 text-4xl font-light text-mauve-11">
-                {stream?.current.start?.toLocaleDateString(undefined, {
-                  weekday: "long",
-                  month: "long",
-                  year: "numeric",
-                  day: "numeric",
-                  hour: "numeric",
-                }) || ""}
-                <span> CT</span>
-              </div>
+              {stream?.current && (
+                <div className="text-5xl font-light text-mauve-12">
+                  {stream.current.title}
+                </div>
+              )}
+              {stream?.current && (
+                <div className="mt-6 text-4xl font-light text-mauve-11">
+                  {stream.current.scheduledStart}
+                  <span> CT</span>
+                </div>
+              )}
             </div>
           }
           centerRight={
@@ -162,7 +162,7 @@ const TitleScreen = () => {
   )
 }
 
-const GuestTitleScreen: React.FC<{ stream?: UseStreamResponse }> = ({
+const GuestTitleScreen: React.FC<{ stream?: GetStreamResponse }> = ({
   stream,
 }) => {
   return (
@@ -212,19 +212,17 @@ const GuestTitleScreen: React.FC<{ stream?: UseStreamResponse }> = ({
       }
       bottomCenter={
         <div className="absolute inset-0 flex flex-col justify-center text-center">
-          <div className="text-2xl text-mauve-12">
-            {stream?.current.title ?? "Building web things"}
-          </div>
-          <div className="mt-6 text-xl text-mauve-12">
-            {stream?.current.start?.toLocaleDateString(undefined, {
-              weekday: "long",
-              month: "long",
-              year: "numeric",
-              day: "numeric",
-              hour: "numeric",
-            }) || ""}
-            <span className="text-mauve-11"> CT</span>
-          </div>
+          {stream?.current && (
+            <div className="text-2xl text-mauve-12">
+              {stream.current.title ?? "Building web things"}
+            </div>
+          )}
+          {stream?.current && (
+            <div className="mt-6 text-xl text-mauve-12">
+              {stream.current.scheduledStart}
+              <span className="text-mauve-11"> CT</span>
+            </div>
+          )}
         </div>
       }
     />

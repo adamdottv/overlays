@@ -110,7 +110,7 @@ export const Stinger: React.FC<StingerProps> = ({
     }, 1000 / (fps ?? 10))
 
     return () => clearInterval(intervalHandle)
-  }, [transitioning])
+  }, [transitioning, onTransitioned])
 
   return (
     <div className="absolute inset-0">

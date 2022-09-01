@@ -1,8 +1,8 @@
-- [ ] finish the transcription thing (be better at react)
+- [x] finish the transcription thing (be better at react)
 - [x] fix neovim issues (eslint? react hook dependencies? clearing highlights?)
-- [ ] ssr the intro screen (and others?)
+- [x] ssr the intro screen (and others?)
 - [ ] transition from intro, bad
 - [x] incorporate new b-roll
 - [ ] watch prime's vim navigation video
-- [ ] make the thumbnail for yesterday's vod
-- [ ] make the thumbnail for today's vod
+- [x] make the thumbnail for yesterday's vod
+- [x] make the thumbnail for today's vod

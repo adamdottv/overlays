@@ -5,22 +5,31 @@ import { AudioSpectrum, Overlay, Grid, BrandMark } from "../components"
 import { fadeAudioOut } from "../lib/audio"
 import React from "react"
 import { delay } from "../lib/utils"
-import { getStreamInfo } from "./api/stream"
 import { NextApiResponseServerIO } from "../lib"
+import { getStreamInfo, GetStreamResponse } from "../lib/stream"
 
-export const getServerSideProps: GetServerSideProps = async (context) => {
+export interface OutroSsrProps {
+  stream: GetStreamResponse
+  debug: boolean
+}
+
+export const getServerSideProps: GetServerSideProps<OutroSsrProps> = async (
+  context
+) => {
   const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
   const stream = JSON.parse(JSON.stringify(rawStream))
 
   return {
     props: {
       stream,
+      debug: context.query.debug === "true",
     },
   }
 }
 
 function Outro({
   stream,
+  debug,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) {
   const audioRef = useRef<HTMLAudioElement>(null)
 
@@ -34,11 +43,12 @@ function Outro({
   useEffect(() => {
     const timeoutHandle = setTimeout(() => {
       audioRef.current?.play()
-      fetch("/api/twitch/raid", { method: "POST" })
+      if (!debug && stream.current?.active)
+        fetch("/api/twitch/raid", { method: "POST" })
     }, 2000)
 
     return () => clearTimeout(timeoutHandle)
-  }, [])
+  }, [debug, stream])
 
   const handleAudioOnEnd = async () => {
     await delay(2000)
@@ -70,16 +80,12 @@ function Outro({
             <div className="text-5xl font-light text-mauve-12">
               {stream?.next?.title}
             </div>
-            <div className="mt-6 text-4xl font-light text-mauve-11">
-              {stream?.next?.start?.toLocaleDateString(undefined, {
-                weekday: "long",
-                month: "long",
-                year: "numeric",
-                day: "numeric",
-                hour: "numeric",
-              }) || ""}
-              {stream?.next?.start && <span> CT</span>}
-            </div>
+            {stream?.next && (
+              <div className="mt-6 text-4xl font-light text-mauve-11">
+                {stream.next.scheduledStart}
+                {stream.next.scheduledStart && <span> CT</span>}
+              </div>
+            )}
           </div>
         }
         bottomCenter={

@@ -3,8 +3,8 @@ import { useEffect, useRef } from "react"
 import { useEvent, useSocket } from "../hooks"
 import { AudioSpectrum, Overlay, Grid } from "../components"
 import { fadeAudioOut } from "../lib/audio"
-import { getStreamInfo } from "./api/stream"
 import { NextApiResponseServerIO } from "../lib"
+import { getStreamInfo } from "../lib/stream"
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
   const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
