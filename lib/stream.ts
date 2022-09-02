@@ -1,6 +1,7 @@
 import { writeFileSync } from "fs"
 import { NextApiResponseServerIO } from "./server"
 import TwitchController from "./twitch"
+import { formatDate } from "./utils"
 
 export interface Stream {
   active?: boolean
@@ -47,13 +48,13 @@ export const getStreamInfo = async (
     current: {
       active: !!stream,
       title,
-      scheduledStart: scheduledStart ? scheduledStart.toISOString() : undefined,
+      scheduledStart: scheduledStart ? formatDate(scheduledStart) : undefined,
       actualStart: actualStart ? actualStart.toISOString() : undefined,
     },
     next: {
       active: false,
       title: nextScheduledStream?.title,
-      scheduledStart: nextStart ? nextStart.toISOString() : undefined,
+      scheduledStart: nextStart ? formatDate(scheduledStart) : undefined,
     },
     schedule,
   }

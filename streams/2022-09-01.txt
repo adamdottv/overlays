@@ -9965,3 +9965,4044 @@ oskrm: there is no present. we are always delayed even nanoseconds
 
 03:06:09
 <transcript>: Get add.
+
+03:06:15
+<transcript>: Then I'll just, like, get removed, the ones I don't want.
+
+03:06:19
+<transcript>: To unstage yeah, good get restore.
+
+03:06:22
+<transcript>: Staged.
+
+03:06:24
+<transcript>: Package JSON.
+
+03:06:26
+<transcript>: Get restore.
+
+03:06:26
+<transcript>: stage
+
+03:06:29
+<transcript>: Staged Yarn lock.
+
+03:06:32
+<transcript>: This should have used pnpm.
+
+03:06:34
+<transcript>: It's just better.
+
+03:06:34
+<transcript>: oh
+
+03:06:36
+<transcript>: Oh, we didn't add.
+
+03:06:41
+wedged_emperor: vscode extention version lens will show every package latest version in package.json
+
+03:06:43
+<transcript>: That stream. That's fine. Okay. It keeps changing, because every time I talk, it changes. Every time you send a chat message.
+
+03:06:43
+<transcript>: okay
+
+03:06:44
+<transcript>: Okay.
+
+03:06:49
+<transcript>: So commit. I want to commit this stuff. Get commit.
+
+03:06:51
+<transcript>: Six.
+
+03:06:54
+<transcript>: Build issues I don't even know that we're anymore.
+
+03:06:54
+<transcript>: that was so
+
+03:06:56
+<transcript>: That was so five minutes ago.
+
+03:07:00
+<transcript>: Okay.
+
+03:07:06
+<transcript>: Check all this stuff so OBS connect with the same argument of type address strings.
+
+03:07:06
+<transcript>: stringstring
+
+03:07:11
+<transcript>: Stringstring. That's a good call. They just made it. Now, in version Five, you just pass the string.
+
+03:07:11
+cdewex: HeyGuys
+
+03:07:14
+<transcript>: I'm gonna go delete.
+
+03:07:16
+<transcript>: Delete.
+
+03:07:21
+<transcript>: To perenn, and then delete two per in.
+
+03:07:24
+<transcript>: There we go.
+
+03:07:26
+<transcript>: And what's this one.
+
+03:07:36
+<transcript>: Even if I switch scenes is not a signable parameter type connection opened. What is this? Okay.
+
+03:07:37
+schrew: adamel4Ope
+
+03:07:40
+<transcript>: So it's not. It's an article. Switch Teams. It's called what.
+
+03:07:45
+<transcript>: Can change or something.
+
+03:07:52
+<transcript>: Name changed? No.
+
+03:07:52
+<transcript>: current scene
+
+03:07:54
+<transcript>: Current scene.
+
+03:07:57
+<transcript>: Current.
+
+03:07:57
+<transcript>: scene
+
+03:07:58
+<transcript>: Scene.
+
+03:07:58
+<transcript>: changed
+
+03:08:01
+<transcript>: Changed? No.
+
+03:08:01
+<transcript>: program
+
+03:08:06
+<transcript>: Program scene changed. Ah, that's it. I think that's it.
+
+03:08:06
+oskrm: thre is no migration guide?
+
+03:08:12
+<transcript>: Data. Looks like what now.
+
+03:08:12
+<transcript>: c name
+
+03:08:16
+<transcript>: C name oh feels good enough of this nonsense.
+
+03:08:28
+<transcript>: I don't want to do that. I want to delete outer.
+
+03:08:28
+<transcript>: so delet
+
+03:08:30
+<transcript>: So delete.
+
+03:08:30
+<transcript>: lead out
+
+03:08:33
+<transcript>: Lead outer like that. Yeah.
+
+03:08:36
+<transcript>: Not dated out. See name.
+
+03:08:36
+<transcript>: okay
+
+03:08:38
+<transcript>: Okay.
+
+03:08:45
+<transcript>: As seen what was wrong with this one sin. That's probably not. So I want current scene.
+
+03:08:55
+<transcript>: That really is surely not. No.
+
+03:08:56
+<transcript>: Scene.
+
+03:09:00
+sarjahukkuja: @wedged_emperor sounds like the same as plugin 'package-info.nvim' in nvim
+
+03:09:03
+<transcript>: There's that current get no.
+
+03:09:03
+<transcript>: okay time for
+
+03:09:05
+<transcript>: Okay. Time for the docs.
+
+03:09:05
+<transcript>: look at the dot
+
+03:09:08
+<transcript>: Look at the Dot's and see what version five.
+
+03:09:08
+<transcript>: i think
+
+03:09:11
+<transcript>: I think they're somewhere where it lists. All these. Right.
+
+03:09:14
+<transcript>: For four to five. Here we go.
+
+03:09:22
+<transcript>: Sin has been replaced with call.
+
+03:09:32
+<transcript>: There is a migration guard. We're looking at it now. Welcome to Chat. Did I break.
+
+03:09:34
+<transcript>: Oh.
+
+03:09:34
+<transcript>: look at that
+
+03:09:36
+<transcript>: Look at that.
+
+03:09:36
+<transcript>: see
+
+03:09:38
+<transcript>: Seethrough hat a little bit.
+
+03:09:41
+<transcript>: So I break my notifications. I didn't hear.
+
+03:09:41
+<transcript>: thanks for the
+
+03:09:44
+<transcript>: Thanks for the follow jazz and KMO.
+
+03:09:47
+<transcript>: Let's see.
+
+03:09:55
+oskrm: there was I think, you just were busy
+
+03:09:55
+<transcript>: Vs. Code Extension version Lens will show every package latest version Impact JSON welcome to Chat wedge.
+
+03:09:58
+<transcript>: We are no longer using vs code.
+
+03:09:58
+<transcript>: there's
+
+03:10:02
+<transcript>: There's a notification we're using neovem.
+
+03:10:02
+<transcript>: so
+
+03:10:06
+<transcript>: So I think I did use lens one upon a time in vs. Code though.
+
+03:10:06
+<transcript>: also
+
+03:10:13
+<transcript>: Also welcome to chat CD, Wix CDEW X welcome Hello, hey, guys.
+
+03:10:13
+<transcript>: oh
+
+03:10:15
+<transcript>: Oh.
+
+03:10:16
+pumpumcity: is neovim any good? just dont get why they dont allow you to test it for free
+
+03:10:19
+<transcript>: Packageinfo MVM okay.
+
+03:10:19
+<transcript>: pump
+
+03:10:26
+<transcript>: Pump. Welcome to Chat. Is new of him any good? Just don't get why they don't allow you to test it for free. What.
+
+03:10:29
+<transcript>: I have not paid for neovem.
+
+03:10:31
+<transcript>: Not one Penny.
+
+03:10:35
+<transcript>: Where did you see the paper, Neil? Them.
+
+03:10:42
+oskrm: I too haven't pay for nvim
+
+03:10:44
+<transcript>: There was there was. I think you were just busy. Okay. I just didn't hear it. Okay. Cool. Thanks for the follow. Draven.
+
+03:10:47
+<transcript>: Yeah, I don't think neovim cost money.
+
+03:10:47
+<transcript>: i don't think so
+
+03:10:49
+<transcript>: I don't think so.
+
+03:10:52
+<transcript>: So we need to look.
+
+03:10:52
+<transcript>: obviously
+
+03:10:54
+schrew: you STOLE neovim? jk
+
+03:11:02
+<transcript>: Obviously only F dot X five X of OBS four. In case an older version of the surface detector, the connection is automatically closed and connect promise is rejected.
+
+03:11:02
+<transcript>: distribution
+
+03:11:05
+<transcript>: Distribution files target a more modern environment.
+
+03:11:05
+<transcript>: like for smart
+
+03:11:07
+<transcript>: Like for smart builds. Okay.
+
+03:11:13
+schrew: you wouldn't steal a car, would you?
+
+03:11:17
+<transcript>: Async connect.
+
+03:11:22
+<transcript>: Has been changed. Yeah. We just ran into this. So it's no longer.
+
+03:11:25
+ballpointcarrot: you wouldn't download a neovim 😁
+
+03:11:28
+cedpoilly: Do you pay with your time & brain power? Just like with Linux? (except if you use PopOS)
+
+03:11:31
+<transcript>: Arg as an object. It's just pass the address and then a password is optional and options are optional. Cool.
+
+03:11:31
+oskrm: I would if I knew how to exit it LUL
+
+03:11:35
+<transcript>: So send I feel like we use Cind a lot.
+
+03:11:35
+<transcript>: it's saying
+
+03:11:47
+<transcript>: It's saying don't do that. It's been replaced with call aligning with simple OBS WebSocket due to changes between OBS website four and five. Like, we need to check all Sin calls anyway to match the new request names. Yeah.
+
+03:11:53
+<transcript>: Sin callback has been removed. I don't think I use SIM callback. Okay, so where do I see.
+
+03:11:53
+<transcript>: here we go
+
+03:11:57
+<transcript>: Here we go. This is the Docs for the actual API.
+
+03:12:00
+<transcript>: This will have all the names that I'm looking for. Maybe.
+
+03:12:18
+oskrm: so weird to change "send" to "call"
+
+03:12:21
+cedpoilly: @oskrm we could create a PAID mini course: "How to exit vim"
+
+03:12:24
+<transcript>: What is the deal here.
+
+03:12:28
+<transcript>: I want the list of things like this.
+
+03:12:32
+<transcript>: Here we go. Scene requests. Okay.
+
+03:12:41
+<transcript>: So get current program scene.
+
+03:12:41
+<transcript>: is what
+
+03:12:43
+<transcript>: Is what this one should be.
+
+03:12:46
+<transcript>: Current.
+
+03:12:48
+oleksii_lisovyi: What's up Adam 👋
+
+03:12:50
+<transcript>: Get current okay these aren't send anymore.
+
+03:12:50
+<transcript>: their call
+
+03:12:52
+<transcript>: Their call.
+
+03:12:55
+cedpoilly: We'd get rich 💷
+
+03:12:58
+<transcript>: Get current.
+
+03:12:58
+<transcript>: current
+
+03:13:01
+<transcript>: Current Program theme.
+
+03:13:01
+<transcript>: perfect
+
+03:13:04
+<transcript>: Perfect. It's gonna be easy. I don't think it's gonna be a big deal.
+
+03:13:08
+<transcript>: Now it's current program C name.
+
+03:13:18
+oleksii_lisovyi: !today
+
+03:13:18
+fossabot: Building a Twitch overlay in Next.JS
+
+03:13:19
+<transcript>: This OBS on current program scene changed so on didn't change just call instead of send.
+
+03:13:22
+<transcript>: Current program theme changed.
+
+03:13:26
+<transcript>: Actually, I just make sure real quick.
+
+03:13:29
+cedpoilly: It would cause problems with the memes authorities though
+
+03:13:33
+<transcript>: That we don't use this anymore. So let's do Yamiche yank inside quotes.
+
+03:13:37
+<transcript>: Did I do it? Yankees? I Quotes. And I want to do.
+
+03:13:46
+<transcript>: Package JSON use OBS. Oh interesting. We have a hook for use OBS. Is that being used at all.
+
+03:13:49
+<transcript>: Anyone using use OBS.
+
+03:13:50
+<transcript>: obsc
+
+03:13:52
+<transcript>: Obsc use OBS.
+
+03:13:55
+<transcript>: Now we can delete this entire thing.
+
+03:13:59
+<transcript>: Whole file goes away.
+
+03:14:02
+<transcript>: I'm not doing that on the client side anymore.
+
+03:14:02
+ballpointcarrot: does that cast to Scene still make sense if you're just returning a name?
+
+03:14:03
+<transcript>: And.
+
+03:14:04
+<transcript>: get out of here
+
+03:14:05
+<transcript>: Get out of here.
+
+03:14:10
+<transcript>: Oh, that one I want to do.
+
+03:14:10
+<transcript>: delete
+
+03:14:12
+<transcript>: Delete. How do I delete like that.
+
+03:14:22
+<transcript>: Okay. I did it. I deleted it. So now it's just the OBS file. Cool. I just want to make sure.
+
+03:14:30
+<transcript>: Obs WebSocket. Yeah. Package, JSON yarn lock. And then this very file that we're in right now. Okay, cool.
+
+03:14:33
+<transcript>: So current program scene changed.
+
+03:14:33
+<transcript>: we change that
+
+03:14:34
+<transcript>: We change that.
+
+03:14:38
+<transcript>: Here in Stream. It's now call.
+
+03:14:41
+<transcript>: Let's do this.
+
+03:14:52
+<transcript>: And all the calls.
+
+03:14:52
+<transcript>: and sins
+
+03:14:54
+<transcript>: And sins? Yeah.
+
+03:14:56
+ballpointcarrot: nvm, looks like you have that elsewhere too
+
+03:14:57
+<transcript>: Listen, cool.
+
+03:14:57
+<transcript>: so
+
+03:14:59
+<transcript>: So up here.
+
+03:15:03
+<transcript>: Thanks for follow pump pump pump pump.
+
+03:15:09
+<transcript>: We are kind of building a Twitch overlay. I never update the today saying Alexey, I really should.
+
+03:15:15
+<transcript>: I'm paid minicourse how to exit Them. Yeah, it's kind of weird.
+
+03:15:18
+<transcript>: Kind of weird.
+
+03:15:23
+<transcript>: Welcome to Chatball Point Carrot. You wouldn't download a neovim.
+
+03:15:25
+<transcript>: Wouldn't download it.
+
+03:15:28
+<transcript>: I.
+
+03:15:31
+<transcript>: Saw many of them.
+
+03:15:38
+<transcript>: Brainpower just like with Linux.
+
+03:15:39
+<transcript>: Yeah.
+
+03:15:43
+<transcript>: Except I use Mac, Mac, Mac OS.
+
+03:15:48
+<transcript>: What's up, Alexi.
+
+03:15:51
+<transcript>: I need update to today command. More.
+
+03:15:57
+<transcript>: Need to do that.
+
+03:16:02
+<transcript>: Does that kind of cast? The scene still makes sense if you're returning a name.
+
+03:16:16
+mvd_dev: Unix, close enough.
+
+03:16:18
+<transcript>: Yeah, I think we the contract outside expects it to be our little, like discriminated Union. So this is gonna be stop streaming, stop stream. They just name them. Just are they renamed like every single thing just to rename it? I think.
+
+03:16:18
+<transcript>: refresh
+
+03:16:19
+<transcript>: Refresh.
+
+03:16:24
+<transcript>: Source.
+
+03:16:29
+<transcript>: Brief refresh.
+
+03:16:34
+<transcript>: Browser. Oh, can I not do this.
+
+03:16:34
+<transcript>: other source
+
+03:16:35
+<transcript>: Other source.
+
+03:16:41
+<transcript>: Use this in case. Okay, so press input properties button up. Geez.
+
+03:16:44
+<transcript>: I have to press the button now. Browser Sources Where there's a refresh button.
+
+03:16:47
+<transcript>: Oof.
+
+03:16:50
+<transcript>: So how do I find out what I.
+
+03:16:58
+<transcript>: Press is a button in the properties of an input. This feels like a step backward. Let me an honest.
+
+03:17:07
+<transcript>: Use this in cases where there is a button in the properties of an input that cannot be accessed in any other way. Well, it used to be something I could access.
+
+03:17:07
+<transcript>: i used to
+
+03:17:15
+<transcript>: I used to be able to access it through the Refresh browser source command. Why did you remove that OBS? Why did you do that.
+
+03:17:23
+<transcript>: For example, there's a refresh button. So request fields input name name name of the input. So I'm going to find the name of the input. How do I find the name of the input.
+
+03:17:23
+<transcript>: and then
+
+03:17:28
+<transcript>: And then property name, name, name of the Button property. Depress of G's.
+
+03:17:28
+<transcript>: obs
+
+03:17:34
+<transcript>: Obs WebSocket v. Five Refresh Browser source.
+
+03:17:36
+<transcript>: Come on. People.
+
+03:17:38
+<transcript>: It should be so easy.
+
+03:17:42
+<transcript>: Reset scene item to a browser does not reload the page.
+
+03:17:52
+<transcript>: Programmatically press refresh cache of Butt current page. That's not what I want.
+
+03:17:54
+<transcript>: But I'm curious what is.
+
+03:17:59
+<transcript>: In four, dot, whatever.
+
+03:18:06
+<transcript>: So.
+
+03:18:11
+<transcript>: Add Browser Source Interaction API in 2021.
+
+03:18:13
+<transcript>: Maybe some we talked about in here.
+
+03:18:13
+<transcript>: browser
+
+03:18:14
+<transcript>: Browser.
+
+03:18:16
+<transcript>: Source.
+
+03:18:19
+<transcript>: Refresh.
+
+03:18:22
+<transcript>: Oh.
+
+03:18:37
+<transcript>: That's yeah. Featurecraft Add Browser Source Interaction API that doesn't look like this has been done.
+
+03:18:39
+<transcript>: Send hotkey.
+
+03:18:59
+<transcript>: Maybe we'll search. What was the name of that.
+
+03:19:05
+<transcript>: Press Input Properties button. I guess that's the recommended way to do this now.
+
+03:19:12
+<transcript>: Refresh browser source someone else has had this problem.
+
+03:19:15
+<transcript>: There's a trail of Google searches.
+
+03:19:20
+<transcript>: Must include.
+
+03:19:20
+<transcript>: okay
+
+03:19:21
+<transcript>: Okay.
+
+03:19:30
+<transcript>: And these requests.
+
+03:19:36
+<transcript>: Gets seen item list.
+
+03:19:39
+<transcript>: Press Input properties.
+
+03:19:44
+<transcript>: Well, what if we did this? What if we searched.
+
+03:19:51
+<transcript>: What if we searched.
+
+03:19:54
+<transcript>: For that button.
+
+03:19:57
+<transcript>: In the source code of OBS.
+
+03:20:00
+<transcript>: Obs source code.
+
+03:20:04
+<transcript>: Such a dumb thing to search source code.
+
+03:20:04
+<transcript>: we got to find
+
+03:20:06
+<transcript>: We got to find the source code.
+
+03:20:06
+<transcript>: obs
+
+03:20:08
+<transcript>: Obs studio freedom. So, okay, this is the.
+
+03:20:12
+<transcript>: Refresh. This is this is a lot here.
+
+03:20:20
+<transcript>: Browser. Source. Hey, here it is. Refresh, browser. I found it.
+
+03:20:22
+<transcript>: I really did it.
+
+03:20:22
+<transcript>: widget
+
+03:20:25
+<transcript>: Widget Class Q Push Button Name refresh.
+
+03:20:25
+<transcript>: property
+
+03:20:26
+<transcript>: Property.
+
+03:20:28
+<transcript>: Refresh browser.
+
+03:20:30
+<transcript>: Did I do it.
+
+03:20:39
+<transcript>: Properties Add button props, button, refresh.
+
+03:20:43
+<transcript>: So is this it? I'll see.
+
+03:20:43
+<transcript>: cloud
+
+03:20:52
+<transcript>: Cloud name refresh. So I have to pass it an input name, name of the input. Okay. And a property name. And I think the properties name is this thing.
+
+03:20:52
+<transcript>: right
+
+03:20:53
+<transcript>: Right.
+
+03:20:53
+<transcript>: refresh
+
+03:20:57
+<transcript>: Refresh browser maybe am I making this up.
+
+03:21:07
+<transcript>: Browser Source toolbar.
+
+03:21:16
+<transcript>: What is this? What am I looking at? Dot. Ui? What is this framework for defining the UI.
+
+03:21:24
+<transcript>: I just have very little confidence. This is gonna work.
+
+03:21:42
+<transcript>: Q Push button.
+
+03:21:42
+<transcript>: refresh
+
+03:21:48
+<transcript>: Refresh. I feel like that's the name of the well. Is it.
+
+03:21:48
+<transcript>: this is
+
+03:21:55
+<transcript>: This is so bad they should at least have a link to some docs or something that tells you where to find any of this. How would I know where to find these? You know.
+
+03:22:09
+<transcript>: Is there a way to get oh, here we go. Get input properties. List property items Gipsy items of a list property from an input property.
+
+03:22:14
+<transcript>: Use this in cases where an input provides a dynamic selectable sub items not.
+
+03:22:19
+<transcript>: Okay. We're gonna come back to this one. This feels bad.
+
+03:22:22
+<transcript>: Feels real bad.
+
+03:22:25
+<transcript>: We want to do this refresh browser sort of thing.
+
+03:22:31
+<transcript>: Now we do this. We do this. And we want to keep doing it.
+
+03:22:46
+<transcript>: Okay.
+
+03:22:49
+<transcript>: Right now it's going to do nothing until we figure that out.
+
+03:22:53
+<transcript>: I'm gonna put the name here.
+
+03:22:56
+<transcript>: So don't forget.
+
+03:23:01
+<transcript>: Copy it.
+
+03:23:08
+<transcript>: Why? Why is it not working? Press input.
+
+03:23:08
+<transcript>: proper
+
+03:23:11
+<transcript>: Properties button.
+
+03:23:16
+<transcript>: Okay, so we're gonna hope we can figure that out. Set scene. Let's see if this one's easier.
+
+03:23:16
+<transcript>: but this is gonna be
+
+03:23:18
+<transcript>: But this is gonna be easier.
+
+03:23:20
+<transcript>: At current.
+
+03:23:23
+<transcript>: Program scene. Okay.
+
+03:23:23
+<transcript>: so just
+
+03:23:26
+<transcript>: So just split those out to be like.
+
+03:23:35
+<transcript>: To start a line.
+
+03:23:38
+<transcript>: How does that work? How does that work.
+
+03:23:46
+<transcript>: Like that.
+
+03:23:46
+<transcript>: oh
+
+03:23:53
+<transcript>: Oh, it's doing actual UPcare. I want to, like, go delete to the beginning line, so just delete like that.
+
+03:23:56
+<transcript>: Scene name.
+
+03:23:59
+<transcript>: Okay.
+
+03:24:16
+<transcript>: So set scene. That one's good. That was easy.
+
+03:24:26
+<transcript>: Is that all of them. I don't actually do that much with the WebSocket API just a little bit. So we're gonna be ready to move over to OBS 28 very soon.
+
+03:24:26
+<transcript>: sort out
+
+03:24:29
+<transcript>: Sort out refresh browser stores.
+
+03:25:12
+<transcript>: Well.
+
+03:25:18
+<transcript>: How am I supposed to find those.
+
+03:25:23
+<transcript>: Name of the input.
+
+03:25:26
+<transcript>: We found this thing.
+
+03:25:33
+<transcript>: Browser Source toolbar.
+
+03:25:33
+<transcript>: is that the
+
+03:25:34
+<transcript>: Is that the input.
+
+03:25:40
+<transcript>: I don't think that's the input.
+
+03:25:40
+<transcript>: here
+
+03:25:43
+<transcript>: Here's the Refresh button.
+
+03:25:48
+<transcript>: So I think his name, that.
+
+03:25:51
+<transcript>: What's the input.
+
+03:25:58
+<transcript>: Well then also we need to.
+
+03:26:01
+<transcript>: Is the input like the source.
+
+03:26:06
+<transcript>: So.
+
+03:26:06
+<transcript>: you have
+
+03:26:10
+<transcript>: You have an input that can be access, for example, browser Sources where there's a refresh button.
+
+03:26:10
+<transcript>: so
+
+03:26:19
+<transcript>: So the name of the input would be like the name of my like these these sources, they're called inputs here. In this case, I guess.
+
+03:26:23
+<transcript>: Is that what we're seeing.
+
+03:26:23
+<transcript>: so
+
+03:26:28
+<transcript>: So be like shared overlay. Because somehow I have to specify which.
+
+03:26:32
+<transcript>: Yeah, and then name of the button property depress property name.
+
+03:26:47
+<transcript>: I think I think that's gonna be it's gonna be.
+
+03:26:47
+<transcript>: i guess
+
+03:26:51
+<transcript>: I guess this one's gonna be named refresh.
+
+03:26:53
+<transcript>: Refresh browser.
+
+03:26:56
+<transcript>: Property, text.
+
+03:27:06
+<transcript>: Yeah, we'll try that. I mean, I have no way to test any of this right now. I guess I could switch over to 28, and just we could see maybe I should download OBS 28. Let's do that.
+
+03:27:10
+<transcript>: First we're gonna do here we're gonna say.
+
+03:27:16
+<transcript>: Property now input name.
+
+03:27:19
+<transcript>: Is source name.
+
+03:27:19
+<transcript>: actually
+
+03:27:24
+<transcript>: Actually, it's just we're gonna rename it the input name and then property name.
+
+03:27:27
+<transcript>: Is refresh browser.
+
+03:27:27
+<transcript>: i guess
+
+03:27:28
+<transcript>: I guess.
+
+03:27:32
+<transcript>: I don't know.
+
+03:27:38
+<transcript>: Property name, refresh, browser. Maybe it's refresh, maybe that's what it should be but.
+
+03:27:43
+<transcript>: Name.
+
+03:27:45
+<transcript>: Okay.
+
+03:27:47
+<transcript>: We'll try that.
+
+03:27:51
+<transcript>: We will try it.
+
+03:27:51
+<transcript>: that's
+
+03:27:57
+<transcript>: That's it. We did it. We're ready for OBS 28. Now let's download a bit of 28.
+
+03:28:07
+<transcript>: Getting a little quiet and chat.
+
+03:28:12
+<transcript>: Everybody okay? You all there. It's working along. Coworking with me.
+
+03:28:20
+<transcript>: Okay.
+
+03:28:20
+<transcript>: ob
+
+03:28:25
+<transcript>: Obs 28 It's out Now Release note.
+
+03:28:28
+<transcript>: And download hey, thanks for the follow Hoffman.
+
+03:28:31
+<transcript>: Okay. Appreciate that.
+
+03:28:34
+laytanl_: Trying to get some actual work done yeah
+
+03:28:39
+<transcript>: If you'd like support the OVs project, please consider contributing to some plugins may not be compatible. Think we're good on plugins.
+
+03:28:44
+<transcript>: We've might need to download the latest for the Stream Deck plugin.
+
+03:28:48
+<transcript>: Trying to get some actual work done. Totally understand Leighton.
+
+03:28:52
+<transcript>: That is totally fine with me. I'm also trying to get some work done.
+
+03:28:56
+<transcript>: So I respect that desire to get things done.
+
+03:29:03
+<transcript>: Okay. So if I want to run this side by side.
+
+03:29:06
+<transcript>: On a video capture ice cream description.
+
+03:29:11
+<transcript>: Updating. Cutie, six.
+
+03:29:17
+<transcript>: So just tell me everything that's new.
+
+03:29:21
+<transcript>: I want to download it like alongside.
+
+03:29:22
+<transcript>: You know.
+
+03:29:25
+<transcript>: I'm gonna want the arm.
+
+03:29:28
+<transcript>: So arm like that.
+
+03:29:31
+<transcript>: Download.
+
+03:29:39
+<transcript>: I've heard really good things about OBS 28. A really good things.
+
+03:29:44
+<transcript>: Should be a lot better on a Mac with M one.
+
+03:29:51
+<transcript>: So if I want to run it alongside my other OBS, is that possible.
+
+03:29:54
+<transcript>: I feel like I should backup OBS.
+
+03:29:57
+<transcript>: How do I do that.
+
+03:30:02
+<transcript>: Tools.
+
+03:30:12
+<transcript>: Thanks for the follow. See.
+
+03:30:16
+<transcript>: Preferences.
+
+03:30:25
+<transcript>: Advanced.
+
+03:30:25
+<transcript>: general
+
+03:30:27
+<transcript>: General.
+
+03:30:43
+<transcript>: Advanced.
+
+03:30:43
+<transcript>: i
+
+03:30:45
+<transcript>: I want to back it up.
+
+03:30:45
+<transcript>: back
+
+03:30:47
+<transcript>: Back up those settings.
+
+03:30:50
+<transcript>: How do I do that.
+
+03:31:04
+<transcript>: Well, I back up OBS.
+
+03:31:15
+<transcript>: Folder and show Profile folder and back up the contents.
+
+03:31:20
+temin: profile export/ scenes export
+
+03:31:23
+<transcript>: Only references should be backed up separately. Okay, that's good.
+
+03:31:30
+<transcript>: Something very loud, something very loud that's in my office.
+
+03:31:33
+<transcript>: This might pick up everything.
+
+03:31:41
+<transcript>: Show Settings folder. Okay.
+
+03:31:50
+<transcript>: So setting folders your profile folder. So all the stuff gonna back all this up.
+
+03:31:52
+<transcript>: Stream elements.
+
+03:31:54
+<transcript>: I'm gonna be using stream elements.
+
+03:32:00
+<transcript>: So profile folder.
+
+03:32:04
+<transcript>: Okay. So all this stuff gets backed up.
+
+03:32:08
+laytanl_: Alacritty does feel faster actually
+
+03:32:09
+<transcript>: Profiles, streaming.
+
+03:32:11
+<transcript>: And then.
+
+03:32:12
+laytanl_: Might be placebo
+
+03:32:15
+<transcript>: Oh, yeah, Allen, we're gonna do that. We're gonna move to Alec Ritty as well.
+
+03:32:26
+<transcript>: Sorry. I don't know which one it is. Obs.
+
+03:32:31
+<transcript>: Obs studio. Okay, I want to zip that up.
+
+03:32:37
+<transcript>: Zipping.
+
+03:32:41
+<transcript>: Might be a placebo.
+
+03:32:47
+<transcript>: Thank you. Timing. Welcome to Chat and thank you for the Tip profile, export scenes.
+
+03:32:52
+<transcript>: Her Profile Export Scenes export.
+
+03:32:53
+raphaelesalvatore: using a tiled wm ?
+
+03:32:58
+<transcript>: I think this is what I just read. Was I off.
+
+03:32:58
+<transcript>: prof
+
+03:32:59
+<transcript>: Profile.
+
+03:33:03
+<transcript>: Oh, here we go. You're saying right here export.
+
+03:33:03
+<transcript>: yes
+
+03:33:05
+<transcript>: Yes. Should have done that.
+
+03:33:08
+<transcript>: Well, I'm gonna let this finish, and then we'll do it.
+
+03:33:16
+<transcript>: Now I'm gonna put that somewhere else. Downloads. I don't know.
+
+03:33:18
+<transcript>: Sure.
+
+03:33:20
+<transcript>: Oh, I can't.
+
+03:33:23
+<transcript>: There we go.
+
+03:33:23
+<transcript>: so here
+
+03:33:25
+<transcript>: So here profile.
+
+03:33:25
+<transcript>: export
+
+03:33:29
+<transcript>: Export. Oh, can I not do it while I'm streaming.
+
+03:33:29
+<transcript>: maybe
+
+03:33:31
+<transcript>: Maybe maybe not.
+
+03:33:34
+<transcript>: Maybe not.
+
+03:33:37
+<transcript>: Well, at least I did that. And I'm gonna do this one, too.
+
+03:33:44
+<transcript>: Let's see. Okay. We've got those at least backed up in some form.
+
+03:33:48
+<transcript>: That way when I install 28, I don't feel.
+
+03:33:51
+<transcript>: Terrified that I'm gonna lose everything.
+
+03:33:51
+<transcript>: yeah we're using
+
+03:33:56
+<transcript>: Yeah, we're using Raphael. Welcome to Chat. Right here. We are using Yubai.
+
+03:34:01
+<transcript>: See you bye. I don't know how I feel about it.
+
+03:34:04
+<transcript>: I just found it in Mash bunnies, dot files.
+
+03:34:07
+<transcript>: Okay.
+
+03:34:14
+<transcript>: So OBS 28. I downloaded it. What do I do? I just run it? Can I run it? Side by side.
+
+03:34:21
+<transcript>: Run OBS 28, side by side. Can I do that.
+
+03:34:38
+<transcript>: I just saw this on Twitter. Even I just saw somebody say.
+
+03:34:42
+<transcript>: Just Google it. I mean, let's just Twitter it search it.
+
+03:34:47
+<transcript>: Obs.
+
+03:34:51
+<transcript>: Somebody say.
+
+03:34:51
+<transcript>: hey
+
+03:34:55
+<transcript>: Hey, heads up, you can run it side by side like this.
+
+03:34:57
+<transcript>: Where was that.
+
+03:35:07
+<transcript>: Obs.
+
+03:35:07
+<transcript>: obsigned
+
+03:35:07
+<transcript>: obsigned by
+
+03:35:09
+<transcript>: Obsigned by side.
+
+03:35:25
+<transcript>: It's like a flag.
+
+03:35:27
+<transcript>: Obs.
+
+03:35:36
+<transcript>: Well.
+
+03:35:36
+<transcript>: okay
+
+03:35:40
+<transcript>: Okay. Hang on. I'm gonna go to my.
+
+03:35:40
+<transcript>: oh geez
+
+03:35:41
+<transcript>: Oh, Geez.
+
+03:36:00
+<transcript>: I didn't mean to do that. I didn't mean to go to a break. I'm sorry.
+
+03:36:08
+<transcript>: I meant to do this. I meant to go fuzzy. I'm gonna go back to my screen. We're kind of jerking around here a bit. Sorry about it.
+
+03:36:16
+<transcript>: Thanks, Mattie. Two Shoes for the animations. If you'd also like to submit animations to the GitHub repo, I'd love that.
+
+03:36:19
+<transcript>: It's right here.
+
+03:36:19
+<transcript>: github
+
+03:36:21
+<transcript>: Github.com.
+
+03:36:22
+adamelmore: https://github.com/adamelmore/overlays
+
+03:36:26
+<transcript>: Overlays you can look at some of the PRS where people have submitted animations.
+
+03:36:26
+<transcript>: i'd love it if you did
+
+03:36:29
+<transcript>: I'd love it if you did they play during transition.
+
+03:36:29
+<transcript>: okay
+
+03:36:30
+<transcript>: Okay.
+
+03:36:30
+<transcript>: i'm gonna go
+
+03:36:32
+<transcript>: I'm gonna go fuzzy.
+
+03:36:32
+<transcript>: because i want to check my
+
+03:36:34
+<transcript>: Because I want to check my BOOKMARKS.
+
+03:36:34
+<transcript>: and
+
+03:36:44
+<transcript>: And I don't just want anybody see in my BOOKMARKS because there might be something sensitive in there. There's not BOOKMARKS are so worthless on Twitter. But I think I might have pinned. Nah, I didn't. Okay.
+
+03:36:47
+<transcript>: Okay. Fine.
+
+03:36:47
+<transcript>: we
+
+03:36:51
+<transcript>: We won't try and run it side by side. We will.
+
+03:36:55
+<transcript>: Maybe run OBS.
+
+03:36:58
+<transcript>: The two versions.
+
+03:36:58
+<transcript>: at once
+
+03:36:59
+<transcript>: At once.
+
+03:37:03
+<transcript>: To run, multiplied.
+
+03:37:03
+<transcript>: aha
+
+03:37:06
+<transcript>: Aha on Windows ten.
+
+03:37:09
+<transcript>: On Mac.
+
+03:37:17
+<transcript>: Portal mode? That's what I'm looking for. Portable mode.
+
+03:37:21
+<transcript>: Portable mode.
+
+03:37:26
+<transcript>: Obs.
+
+03:37:26
+<transcript>: maco
+
+03:37:29
+<transcript>: Macos portable.
+
+03:37:30
+<transcript>: Mode.
+
+03:37:33
+<transcript>: We say It's gonna work.
+
+03:37:42
+<transcript>: Maybe.
+
+03:37:47
+<transcript>: Obs Project OBS studio.
+
+03:37:59
+<transcript>: So Studio mode they say.
+
+03:38:09
+<transcript>: When even the question on Stack overflow has a down vote, it's probably a bad, bad sign.
+
+03:38:17
+<transcript>: Portable mode troubles.
+
+03:38:22
+<transcript>: Seems like OBSC.
+
+03:38:22
+<transcript>: obscure
+
+03:38:24
+<transcript>: Obscure.
+
+03:38:32
+<transcript>: Studio mode. Okay, so we just need to add the Studio mode flag to run the new OBS.
+
+03:38:32
+<transcript>: okay
+
+03:38:35
+<transcript>: Okay. I'm a little nervous to run this, actually.
+
+03:38:41
+<transcript>: A. Dmg that's like an installer, right.
+
+03:38:41
+<transcript>: if i open
+
+03:38:46
+<transcript>: If I open this, that's just another OBS app. So I'm gonna put it in a different folder.
+
+03:38:50
+<transcript>: A different place, not just drop it in applications.
+
+03:39:00
+<transcript>: Here, let's put it in.
+
+03:39:04
+<transcript>: I don't know. Sure. Right here.
+
+03:39:11
+<transcript>: All right, we're gonna try out a lacarde.
+
+03:39:11
+<transcript>: that's what i really
+
+03:39:13
+<transcript>: That's what I really want to do.
+
+03:39:13
+<transcript>: i'm just
+
+03:39:17
+<transcript>: I'm just gonna see if I can run 28 at the same time with the studio mode thing.
+
+03:39:17
+<transcript>: ob
+
+03:39:19
+<transcript>: Obs.
+
+03:39:23
+<transcript>: Zoom App Content Megalis.
+
+03:39:32
+<transcript>: So if I call, let's just do a new one of these. Let's just do.
+
+03:39:36
+<transcript>: We're already here. So.
+
+03:39:36
+<transcript>: list
+
+03:39:38
+<transcript>: List grab.
+
+03:39:38
+<transcript>: obs
+
+03:39:40
+<transcript>: Obs.
+
+03:39:42
+<transcript>: So if I do.
+
+03:39:48
+<transcript>: Yes. App. Can I do that like that.
+
+03:39:52
+<transcript>: Obs.
+
+03:39:57
+<transcript>: So kind of run an app like that, anyone know.
+
+03:39:57
+<transcript>: we're gonna try
+
+03:40:01
+<transcript>: We're gonna try it OBS app Studio mode.
+
+03:40:01
+<transcript>: stud
+
+03:40:03
+<transcript>: Studio.
+
+03:40:07
+<transcript>: Code? What's? What are the P in the impact.
+
+03:40:17
+<transcript>: Studio mode. Here we go. File OBS app is not executable by this user.
+
+03:40:19
+<transcript>: Why not.
+
+03:40:25
+<transcript>: Ch mod plus X.
+
+03:40:30
+<transcript>: Obs app that.
+
+03:40:30
+<transcript>: like this is
+
+03:40:32
+<transcript>: Like, this is how you do it.
+
+03:40:35
+<transcript>: I need to go into the contents. Maybe.
+
+03:40:36
+lchausmann: its a directory find the bin directory under contents
+
+03:40:38
+lchausmann: i think
+
+03:40:38
+<transcript>: I need to go into the contents.
+
+03:40:42
+<transcript>: So we need to do this. We need to do.
+
+03:40:43
+<transcript>: Obs.
+
+03:40:43
+<transcript>: app
+
+03:40:46
+<transcript>: App content.
+
+03:40:46
+laytanl_: My PR has been merged already
+
+03:40:51
+<transcript>: Now we can do OBS.
+
+03:40:51
+<transcript>: or
+
+03:40:53
+<transcript>: Or OBS.
+
+03:40:54
+keraion: --portable, -p Use portable mode. --multi, -m Don't warn when launching multiple instances.
+
+03:40:57
+<transcript>: Yes.
+
+03:40:58
+<transcript>: Mode.
+
+03:41:05
+<transcript>: Is gonna break obsceni running unless you meant to do this, please shut down any existing instances OBS for chinasis.
+
+03:41:10
+<transcript>: Launch anyway. Nah, we're not gonna do it. It's too risky.
+
+03:41:10
+<transcript>: we'll play with this
+
+03:41:12
+<transcript>: We'll play with this offstream.
+
+03:41:12
+<transcript>: portable
+
+03:41:26
+<transcript>: Portable P use portable mode multi. And I'll think you so much Caroline, our carryon. I appreciate that a ton late in your PR's already merged. How awesome is this? Look at this.
+
+03:41:29
+<transcript>: Leighton, you're on fire.
+
+03:41:33
+<transcript>: Just fixing stuff that was so fast.
+
+03:41:33
+<transcript>: so you're telling
+
+03:41:40
+<transcript>: So you're telling me if I get latest at treesetter, we're gonna do this. This is awesome. We're gonna get latest a tree setter. We're gonna see if it just fixes.
+
+03:41:45
+<transcript>: The thing latent. Just fix the thing just like that on stream. Love it.
+
+03:41:57
+<transcript>: Portable and multi don't worn when launching multiple instances. So is it safe? Carry on. Welcome to Chat. By the way, is it safe for me to run OBS twice? Do you recommend it.
+
+03:41:59
+<transcript>: Is this a terrible idea.
+
+03:42:00
+keraion: No idea
+
+03:42:05
+<transcript>: I wonder. I wonder. No idea. Okay, that's fine.
+
+03:42:05
+<transcript>: i think i'm just
+
+03:42:07
+<transcript>: I think I'm just gonna play with an offstream.
+
+03:42:15
+<transcript>: I'm not gonna risk it. I don't want to kill the stream just because I'm playing with 28, but I think tomorrow we'll be running on 28, which means.
+
+03:42:15
+<transcript>: the c
+
+03:42:19
+<transcript>: The CPU. So right now 17% should be lower.
+
+03:42:19
+<transcript>: that's really
+
+03:42:22
+<transcript>: That's really all it'll mean for you, I guess.
+
+03:42:22
+<transcript>: you
+
+03:42:24
+<transcript>: You won't know any better.
+
+03:42:29
+<transcript>: Let's play with a lacarde.
+
+03:42:31
+<transcript>: Alacrity.
+
+03:42:35
+<transcript>: That's not it.
+
+03:42:35
+<transcript>: alacrity
+
+03:42:36
+<transcript>: Alacrity.
+
+03:42:38
+<transcript>: Do I spell it wrong.
+
+03:42:38
+<transcript>: termin
+
+03:42:41
+<transcript>: Terminal. Yeah. Emulator.
+
+03:42:41
+<transcript>: cross platform
+
+03:42:42
+<transcript>: Cross platform.
+
+03:42:42
+<transcript>: open deal
+
+03:42:44
+<transcript>: Open Deal Terminal emulator.
+
+03:42:48
+<transcript>: Okay, let's see.
+
+03:43:05
+<transcript>: Modern terminal Emilio that comes with sensible default for the last extensive configuration by integrating with other applications rather than you're implementing their functionality, it manages to provide a flexible set of features with high performance for platform currently consist of Linux, Mac OS, and windows.
+
+03:43:05
+<transcript>: okay
+
+03:43:06
+<transcript>: Okay.
+
+03:43:10
+<transcript>: It's a beta level of readiness. Okay.
+
+03:43:12
+zappy_oc: alacritty doesn't support ligatures yet
+
+03:43:16
+<transcript>: I'd like to make it my daily driver, whatever I choose here.
+
+03:43:16
+laytanl_: I just did `brew install --cask alacritty`
+
+03:43:21
+<transcript>: Let's see, kind of just brew install alacrity, that'd be cool.
+
+03:43:27
+<transcript>: Do I install on Mac.
+
+03:43:29
+<transcript>: Facian installation.
+
+03:43:32
+<transcript>: Prebuilt binaries for Mac OS and windows.
+
+03:43:32
+<transcript>: everyone else
+
+03:43:37
+<transcript>: Everyone else detail instructions can be found here. Okay, I bet I can't just brew, install it right.
+
+03:43:37
+<transcript>: cargo
+
+03:43:39
+<transcript>: Cargo installation.
+
+03:43:45
+<transcript>: See dependencies prerequisites. I have to have prerequisites. Is that true.
+
+03:43:47
+<transcript>: Bruce.
+
+03:43:51
+<transcript>: Install.
+
+03:43:51
+<transcript>: lacready
+
+03:43:53
+<transcript>: Lacready set of things.
+
+03:43:54
+laytanl_: just brew it
+
+03:43:55
+<transcript>: Yeah.
+
+03:43:58
+<transcript>: Any reason I shouldn't do this.
+
+03:44:01
+<transcript>: Bruinsaw Cast. Cool. Yeah, just brew it.
+
+03:44:01
+<transcript>: flaton says
+
+03:44:03
+<transcript>: Flaton says, Just brew it.
+
+03:44:06
+<transcript>: Blatant.
+
+03:44:09
+<transcript>: Is as quickly.
+
+03:44:09
+<transcript>: becoming
+
+03:44:10
+<transcript>: Becoming.
+
+03:44:10
+<transcript>: authority
+
+03:44:14
+<transcript>: Authority around here. Laden says it. I believe it.
+
+03:44:21
+<transcript>: Doesn't support Ligatures yet. So what? What ligatures do I care about.
+
+03:44:24
+<transcript>: Like if I look at my.
+
+03:44:31
+<transcript>: Even do I even have lingatures in this font? I don't know if I do.
+
+03:44:38
+<transcript>: Like, no, I don't, right. That would be a ligature if I had ligatures, and I don't have them.
+
+03:44:40
+<transcript>: Adam and vs. Code.
+
+03:44:43
+<transcript>: Not too upset about missing them, though I think I could live without them.
+
+03:44:43
+<transcript>: if it's fast
+
+03:44:47
+<transcript>: If it's faster if it's blazingly fast.
+
+03:44:47
+<transcript>: then
+
+03:44:49
+<transcript>: Then I don't even care.
+
+03:45:09
+<transcript>: We're still waiting on brew every time I do? Oh, it's done. I think I was just scrolling up.
+
+03:45:13
+<transcript>: Alacradula. Successfully installed. Okay.
+
+03:45:16
+<transcript>: Can I just run it? Install alacrity.
+
+03:45:21
+<transcript>: Let's go back here. I guess I can just run it now.
+
+03:45:26
+<transcript>: Alacrity app. Here it is. It's the last.
+
+03:45:31
+<transcript>: Bigger.
+
+03:45:33
+<transcript>: Like so.
+
+03:45:33
+<transcript>: okay
+
+03:45:34
+<transcript>: Okay.
+
+03:45:36
+<transcript>: And Let's.
+
+03:45:43
+<transcript>: Go so this has all my history already let's go CD.
+
+03:45:49
+<transcript>: Yeah, it has all my history. Oh, that's fish. Yeah. So in vim.
+
+03:45:54
+<transcript>: But what are we missing? We're missing font. Our fonts is bad.
+
+03:46:01
+<transcript>: We just need.
+
+03:46:01
+<transcript>: better
+
+03:46:06
+<transcript>: Better font support, so there's no tabs, right. Alacrid is famously very simple.
+
+03:46:06
+<transcript>: no tabs
+
+03:46:08
+<transcript>: No tabs.
+
+03:46:11
+<transcript>: It just open new instances of it, right.
+
+03:46:15
+<transcript>: Okay. We're just gonna minimize this for now.
+
+03:46:15
+<transcript>: so
+
+03:46:19
+<transcript>: So we need to update our font. Let's see. Alacrity.
+
+03:46:23
+<transcript>: How do we configure? Alacrity, I guess I should read the README, install.
+
+03:46:28
+<transcript>: Prerequisites Building Post build.
+
+03:46:28
+<transcript>: turmento
+
+03:46:31
+<transcript>: Turmento Desktop Entry Manual Page Show completion.
+
+03:46:34
+<transcript>: Configure.
+
+03:46:42
+<transcript>: This is the place to be that's install. We want to know. How do you configure it.
+
+03:46:46
+laytanl_: Here is my config https://gist.github.com/laytan/a38d0f2741de2a73f2ccfc31e052e58b
+
+03:46:50
+kylliangamer: Hey
+
+03:46:54
+<transcript>: Configuration you can find the default configuration file with documentation for each available field on the GitHub release page. Lacarde doesn't create the config file for you, but it looks for one in the following location. Okay.
+
+03:46:54
+<transcript>: okay
+
+03:46:55
+<transcript>: Okay.
+
+03:46:55
+<transcript>: so we'll put
+
+03:46:58
+<transcript>: So we'll put it here probably is what I would prefer.
+
+03:47:00
+<transcript>: Right.
+
+03:47:05
+<transcript>: Okay. So let's do this. Let's.
+
+03:47:08
+<transcript>: Do this. Let's.
+
+03:47:14
+<transcript>: Dig.
+
+03:47:14
+<transcript>: alac
+
+03:47:15
+<transcript>: Alacrity.
+
+03:47:18
+<transcript>: Two eyes.
+
+03:47:18
+<transcript>: two t's
+
+03:47:21
+<transcript>: Two T's I mean a lack, really.
+
+03:47:21
+<transcript>: dot
+
+03:47:24
+<transcript>: Dot YML, And I think.
+
+03:47:27
+<transcript>: I can't find it again? Oh, I can't find it.
+
+03:47:29
+<transcript>: Stroop said earlier.
+
+03:47:29
+<transcript>: so this
+
+03:47:33
+<transcript>: So this is. This is why I did this right. This is why I made this whole.
+
+03:47:35
+<transcript>: Thing that we made.
+
+03:47:35
+<transcript>: i
+
+03:47:37
+<transcript>: I can just do.
+
+03:47:39
+<transcript>: Black, pretty.
+
+03:47:39
+<transcript>: in today's
+
+03:47:43
+<transcript>: In today's stream. I want what Stroop said.
+
+03:47:47
+<transcript>: Stroopes. Said.
+
+03:47:50
+<transcript>: Okay. I'm running right here.
+
+03:47:50
+<transcript>: sub kitty
+
+03:47:51
+<transcript>: Sub Kitty.
+
+03:47:55
+<transcript>: She said, no. I config with Dracula.
+
+03:47:58
+<transcript>: Yes.
+
+03:48:00
+<transcript>: Look at this.
+
+03:48:00
+<transcript>: this is why
+
+03:48:02
+<transcript>: This is why we have transcripts, people.
+
+03:48:04
+<transcript>: Dracula.
+
+03:48:09
+<transcript>: Just pushed it. Did he give me like this.
+
+03:48:09
+<transcript>: look at this
+
+03:48:11
+<transcript>: Look at this. This is so great.
+
+03:48:18
+<transcript>: Yanket.
+
+03:48:21
+<transcript>: Taste it. Here we are.
+
+03:48:24
+<transcript>: External.
+
+03:48:28
+<transcript>: Somebody asked them about that. I don't remember what he said.
+
+03:48:33
+<transcript>: Font. We're gonna change our font.
+
+03:48:38
+<transcript>: Colors. Oh, this is how you do.
+
+03:48:41
+<transcript>: You have to like manualy do the colors.
+
+03:48:44
+<transcript>: Feels bad. Dracula.
+
+03:48:44
+<transcript>: alacrity
+
+03:48:45
+<transcript>: Alacrity.
+
+03:48:51
+<transcript>: They give you this. The steps. Here. Dracula theme. Lacrity.
+
+03:48:55
+<transcript>: Okay.
+
+03:48:55
+<transcript>: import
+
+03:48:58
+<transcript>: Import Dracula.
+
+03:49:00
+<transcript>: Yml. So did he do that.
+
+03:49:03
+<transcript>: He did not.
+
+03:49:05
+<transcript>: That's what we're gonna do.
+
+03:49:17
+<transcript>: Leyton. You've got to configure already for Alacrity. Okay.
+
+03:49:20
+<transcript>: What's your configurable look like.
+
+03:49:27
+<transcript>: So you've got like more of all the default stuff that they provided.
+
+03:49:27
+<transcript>: soft
+
+03:49:30
+<transcript>: Soft Code Pro Nerd font.
+
+03:49:33
+kylliangamer: I’m still in school but how are you?
+
+03:49:36
+<transcript>: I'm gonna want to add cursive to.
+
+03:49:40
+<transcript>: So default colors.
+
+03:49:44
+<transcript>: I guess maybe he just did he just go here.
+
+03:49:49
+<transcript>: Download it and then just paste in so you didn't have to import it.
+
+03:49:49
+<transcript>: it's maybe a good call
+
+03:49:50
+<transcript>: It's maybe a good call.
+
+03:49:54
+<transcript>: Dracula, YML.
+
+03:49:57
+<transcript>: What I want to open that Chrome.
+
+03:50:00
+<transcript>: Just open it in Chrome.
+
+03:50:02
+<transcript>: That works, I guess.
+
+03:50:08
+<transcript>: What is this? What is it? Open in vs. Code. Haven't seen you in a while. This could.
+
+03:50:15
+<transcript>: Still in school. But how are you? I'm good. Kylian. We are. Yeah, he just copied all these. Sydney.
+
+03:50:15
+<transcript>: we are
+
+03:50:17
+<transcript>: We are. Maybe that feels better.
+
+03:50:23
+<transcript>: We're moving over to Alacrity. From iterm, potentially.
+
+03:50:26
+<transcript>: We're gonna play with it.
+
+03:50:34
+<transcript>: What else did you, Layton? Could you give me, like, a TLDR on like what did you change about this config from the default.
+
+03:50:34
+<transcript>: i'm just curious
+
+03:50:35
+<transcript>: I'm just curious.
+
+03:50:42
+<transcript>: If there's like, oh, this is cool. Shows you all their key binding Mac OS only command.
+
+03:50:42
+laytanl_: Everything that is commented is the default
+
+03:50:47
+<transcript>: What.
+
+03:50:53
+laytanl_: I just uncomment what I changed
+
+03:50:53
+<transcript>: It's not gonna like interfere with my them key maps, is it.
+
+03:51:00
+<transcript>: You just. Everything is common. Is default. Okay.
+
+03:51:00
+<transcript>: and everything
+
+03:51:03
+<transcript>: And everything uncommoned you changed.
+
+03:51:08
+<transcript>: So term what's the what's this about.
+
+03:51:23
+<transcript>: This values uses that the term environment really for each instance of Alacrity if it is not present, alcredi Alacrity will check the local term info database and use Alikrity if it is available. Otherwise X turned to color is used.
+
+03:51:27
+<transcript>: Okay.
+
+03:51:29
+laytanl_: I don't really know, but I had that in Iterm
+
+03:51:36
+<transcript>: So we opened this. This is our config here. I'm going to.
+
+03:51:39
+<transcript>: Let's see what else did.
+
+03:51:44
+<transcript>: What did Stroop. Do? Decorations. Buttonless. Sounds kind of cool.
+
+03:51:44
+<transcript>: what would button
+
+03:51:46
+<transcript>: What would button look like.
+
+03:51:46
+<transcript>: padding
+
+03:51:50
+<transcript>: Padding ten dynamic bag scrolling.
+
+03:51:53
+<transcript>: Multiplier font.
+
+03:51:58
+<transcript>: Pull Text with bright colors.
+
+03:52:02
+<transcript>: Talek Regular italic.
+
+03:52:09
+<transcript>: Live config reload. That sounds cool.
+
+03:52:20
+<transcript>: Defaults. True, though. Yeah. Kind of like how you did this. You just. Maybe I'll just start with the default, and I'll do my own latent approach.
+
+03:52:20
+<transcript>: where i just
+
+03:52:23
+<transcript>: Where I just uncomment things that I want to change.
+
+03:52:27
+<transcript>: Yeah, that's what I'm gonna do.
+
+03:52:29
+<transcript>: Had that night term.
+
+03:52:33
+<transcript>: Yeah.
+
+03:52:36
+<transcript>: That's what you had the external.
+
+03:52:39
+<transcript>: So I'm gonna copy this.
+
+03:52:42
+<transcript>: All of this.
+
+03:52:45
+<transcript>: I'm gonna paste it in here.
+
+03:52:55
+<transcript>: I need to make this thing bigger. We're gonna need more screen. Real estate. Let's just open this up. Full screen. So we are configuring.
+
+03:52:55
+<transcript>: all equity
+
+03:52:56
+<transcript>: All Equity actually.
+
+03:53:00
+<transcript>: Let's just actually set the topic today topic because configuring.
+
+03:53:02
+adamelmore: !topic configuring alacritty
+
+03:53:02
+<transcript>: Alaska.
+
+03:53:04
+<transcript>: Yeah.
+
+03:53:13
+<transcript>: Environment term okay window.
+
+03:53:19
+<transcript>: Please require restart Padding is five.
+
+03:53:22
+<transcript>: Pacity.
+
+03:53:22
+<transcript>: why would i
+
+03:53:25
+<transcript>: Why would I not want that to be one.
+
+03:53:31
+<transcript>: It'll need this latency. Why did you go with 25? I wonder.
+
+03:53:35
+<transcript>: Trent Title bar, Transfer background and Tunnel more buttons.
+
+03:53:42
+laytanl_: I wanted to see my background :)
+
+03:53:45
+<transcript>: Dynamic title terminal application change allocates window title sure.
+
+03:53:49
+<transcript>: Font.
+
+03:53:52
+<transcript>: Let's see.
+
+03:53:56
+<transcript>: What is it? Font book.
+
+03:53:59
+<transcript>: Name of our font.
+
+03:54:01
+kylliangamer: Gtg my ride is here
+
+03:54:01
+<transcript>: Over here.
+
+03:54:06
+<transcript>: That's not where I want to put it it's not at all where I wanted to put it.
+
+03:54:10
+<transcript>: I wanted to put it with alacrity.
+
+03:54:20
+<transcript>: So whole beard credit. We have jet operator Mono, not a nerd fought. This is the one book and book italic.
+
+03:54:20
+<transcript>: so i'm gonna
+
+03:54:23
+<transcript>: So I'm gonna do Here, I'm gonna do.
+
+03:54:23
+<transcript>: oper
+
+03:54:26
+<transcript>: Operator mono.
+
+03:54:29
+<transcript>: Third font.
+
+03:54:31
+<transcript>: Like that.
+
+03:54:35
+<transcript>: Style.
+
+03:54:35
+<transcript>: there's something weird
+
+03:54:44
+<transcript>: There's something weird with the tabs or with like what is this can't open file for writing. Those are directory. Oh, what if I want to create it.
+
+03:54:44
+<transcript>: can i create it
+
+03:54:45
+<transcript>: Can I create it.
+
+03:54:49
+<transcript>: Someone probably knows.
+
+03:54:49
+<transcript>: see
+
+03:54:51
+<transcript>: See a Killion.
+
+03:54:51
+<transcript>: you
+
+03:54:59
+<transcript>: You wanted to see your background Laten. Oh, I don't have a background that I want to see, but I do want to be able to save this file. Why can't I save this file.
+
+03:55:02
+<transcript>: I want to save it.
+
+03:55:07
+<transcript>: I'm going to save it to it's a new file. It's a new folder. And they're way to do that.
+
+03:55:07
+<transcript>: right
+
+03:55:09
+<transcript>: Right.
+
+03:55:11
+<transcript>: Exclamation Mark.
+
+03:55:14
+<transcript>: How do I create the file.
+
+03:55:14
+<transcript>: somebody just
+
+03:55:18
+laytanl_: I think your error message is under the overlay
+
+03:55:19
+<transcript>: Somebody just like, give me that little colon. Something pulling a or something.
+
+03:55:26
+laytanl_: can't really see/help
+
+03:55:29
+<transcript>: Error message is under the overlay. Oh, sorry. Oh, wow. This is respecting. Oh, yeah. Okay. I'm sorry.
+
+03:55:29
+<transcript>: you
+
+03:55:33
+<transcript>: You can't see the error message. It's not respecting the padding.
+
+03:55:36
+<transcript>: Let's just minimize this again.
+
+03:55:42
+<transcript>: Here we go. So when I say, Write, it says, Can't open Software, right.
+
+03:55:42
+<transcript>: i
+
+03:55:44
+<transcript>: I tried to create a new file.
+
+03:55:44
+<transcript>: but
+
+03:55:49
+<transcript>: But it's in like an nested folder. Can I just have it create everything but possible.
+
+03:55:51
+<transcript>: Anybody know.
+
+03:55:56
+<transcript>: Why our music stop? Oh, we just ran to the end of the music. Let's just start back up here.
+
+03:56:02
+<transcript>: I'll just search it. Create.
+
+03:56:04
+backkflipp: Does the folders exist?
+
+03:56:07
+<transcript>: Bash create new file.
+
+03:56:07
+<transcript>: in directory
+
+03:56:10
+<transcript>: In directory or something. I guess them.
+
+03:56:12
+laytanl_: I don't know tbh
+
+03:56:13
+backkflipp: Do
+
+03:56:15
+<transcript>: The folder doesn't exist. No. Is there not a way to save.
+
+03:56:15
+<transcript>: so
+
+03:56:17
+matejbendik: touch
+
+03:56:17
+<transcript>: So like them.
+
+03:56:17
+<transcript>: save
+
+03:56:20
+<transcript>: Save new file in new directory.
+
+03:56:23
+<transcript>: Touch. I should touched it.
+
+03:56:26
+<transcript>: Your file be saved.
+
+03:56:33
+<transcript>: This is what I'm looking for.
+
+03:56:36
+<transcript>: No, it's not.
+
+03:56:42
+<transcript>: Okay. I guess I could just make the directory first.
+
+03:56:48
+<transcript>: So we could just do kind of just run arbitrary stuff.
+
+03:56:49
+matejbendik: touch file_name will create new file in bash terminal
+
+03:56:52
+<transcript>: Use run arbitrary like bash commands here.
+
+03:56:54
+<transcript>: Touch.
+
+03:56:56
+backkflipp: Yes... just create folder manually
+
+03:56:57
+<transcript>: And do this.
+
+03:57:02
+<transcript>: For.
+
+03:57:05
+<transcript>: Config online.
+
+03:57:12
+<transcript>: Do that.
+
+03:57:15
+<transcript>: Right since I changed.
+
+03:57:19
+<transcript>: Okay.
+
+03:57:19
+<transcript>: okay
+
+03:57:21
+<transcript>: Okay.
+
+03:57:22
+backkflipp: You need to do mkdir
+
+03:57:25
+<transcript>: Let's just do this, then.
+
+03:57:34
+<transcript>: I don't know how to make a new one. I just do like command T to make new tabs in iterm. I can't do that anymore. I guess I just have to open.
+
+03:57:37
+<transcript>: A LaCrate again.
+
+03:57:40
+<transcript>: I need to make a shortcut for that. Probably.
+
+03:57:42
+<transcript>: Oh, it didn't open a new one.
+
+03:57:42
+<transcript>: all equity
+
+03:57:44
+<transcript>: All equity.
+
+03:57:47
+<transcript>: I got to do something like this.
+
+03:57:50
+<transcript>: Options.
+
+03:57:52
+<transcript>: How do I run it again.
+
+03:58:01
+<transcript>: You just create folder manually. Yeah, I will. If I can ever make a new instance of Velacrity. How do I do that.
+
+03:58:06
+<transcript>: Mac OS Run Alacrity twice.
+
+03:58:06
+joshfinnie: time for tmux too :-)
+
+03:58:08
+laytanl_: I added this to yabai:ctrl + alt + cmd - r: launchctl kickstart -k "gui/${UID}/homebrew.mxcl.yabai"
+
+03:58:12
+<transcript>: Wait a minute, tell me you can do this right.
+
+03:58:17
+<transcript>: I don't have to only ever work in one.
+
+03:58:17
+<transcript>: command
+
+03:58:19
+<transcript>: Command in.
+
+03:58:22
+<transcript>: Oh, it does work.
+
+03:58:22
+<transcript>: okay
+
+03:58:23
+laytanl_: whoops wrong one
+
+03:58:25
+backkflipp: hahaha
+
+03:58:26
+<transcript>: Okay. Cool. So command in opens a new one.
+
+03:58:30
+<transcript>: I gotta set the default file font size.
+
+03:58:30
+<transcript>: because
+
+03:58:31
+<transcript>: Because that's small.
+
+03:58:35
+<transcript>: Okay. I want to do touch.
+
+03:58:38
+<transcript>: Big alacrity.
+
+03:58:46
+backkflipp: noo
+
+03:58:47
+<transcript>: Alacrity YML okay, no such file directory. Yeah, that's I gotta make the directory first.
+
+03:58:47
+nexxeln: yay alacritty
+
+03:58:50
+nexxeln: also hi!
+
+03:58:50
+<transcript>: Configurity.
+
+03:58:53
+backkflipp: you dont need to touch
+
+03:58:53
+<transcript>: Okay.
+
+03:58:59
+<transcript>: I just. How do I quit this one now I wonder.
+
+03:58:59
+<transcript>: alacrity
+
+03:59:01
+<transcript>: Alacrity to close a window.
+
+03:59:05
+<transcript>: Need to learn all the lacquer to come in, I guess.
+
+03:59:13
+<transcript>: Okay load new file, load, file and options has been created after editing started.
+
+03:59:13
+<transcript>: look
+
+03:59:15
+<transcript>: Look fine.
+
+03:59:18
+<transcript>: Or okay.
+
+03:59:22
+<transcript>: We'll load the file, we'll repaste it. We didn't do much.
+
+03:59:28
+<transcript>: Here we go.
+
+03:59:33
+<transcript>: Late and I'm actually gonna pull up the I'm just gonna pull up the real default.
+
+03:59:33
+<transcript>: the default
+
+03:59:35
+<transcript>: The default default.
+
+03:59:35
+<transcript>: get a rele
+
+03:59:36
+backkflipp: You just needed to create folder and save what you already had.
+
+03:59:37
+<transcript>: Get a release this page. Here we go.
+
+03:59:37
+<transcript>: here we go
+
+03:59:39
+<transcript>: Here we go.
+
+03:59:45
+<transcript>: Yeah, right. I didn't need to touch. I just needed to create the folder, and then I could actually save from them. Good call.
+
+03:59:45
+<transcript>: next
+
+03:59:50
+<transcript>: Next one Yay alacrity also Hi hey next one.
+
+03:59:50
+<transcript>: welcome
+
+03:59:51
+<transcript>: Welcome.
+
+03:59:51
+<transcript>: welcome
+
+03:59:53
+<transcript>: Welcome.
+
+04:00:00
+<transcript>: I add this to you by Control plus all plus Command R, which is Launch Control kickstart.
+
+04:00:08
+<transcript>: Okay. That's how you open a new I think Control n work for me. Time for TeamMax. Welcome to Chat, Josh finnney.
+
+04:00:08
+<transcript>: yeah
+
+04:00:11
+<transcript>: Yeah I guess I'm gonna have to get into tmux now.
+
+04:00:14
+laytanl_: No ignore that lol
+
+04:00:17
+<transcript>: Okay. I want to get the default.
+
+04:00:19
+matejbendik: nvim file_name will create new file and jump to that file
+
+04:00:20
+<transcript>: The default thing.
+
+04:00:21
+nexxeln: tmux is great
+
+04:00:22
+<transcript>: Where's the config.
+
+04:00:22
+<transcript>: default
+
+04:00:25
+<transcript>: Default config.
+
+04:00:25
+<transcript>: here we go
+
+04:00:26
+<transcript>: Here we go.
+
+04:00:28
+<transcript>: Lacredita fish.
+
+04:00:32
+<transcript>: What's? That? I use fish.
+
+04:00:35
+<transcript>: Here we go, YAML.
+
+04:00:45
+thechosenone1080: i just use kitty's split terminal instead of tmux
+
+04:00:47
+backkflipp: The usual "easy" way to do that type of stuff is use tree (file explorer) to create folders and files.
+
+04:00:50
+faiataiga: heyo! Also tmux is the best :P
+
+04:00:51
+<transcript>: Ignore that Laden. Okay, I'm ignoring that.
+
+04:00:52
+thechosenone1080: better than learning more shortcuts
+
+04:00:56
+<transcript>: Tmux is great. I just use Kitty split terminal instead of tmux.
+
+04:01:05
+<transcript>: What is split Terminal? The usual easy way to do that type of stuff is use tree to create folders and files. Yeah, that's the easy way for sure.
+
+04:01:07
+<transcript>: Welcome.
+
+04:01:12
+<transcript>: Fetega, welcome to Chat. I like when new people show up in chat.
+
+04:01:18
+<transcript>: Tmux is the best. I have heard a lot of things. Team X has a very passionate community.
+
+04:01:18
+<transcript>: and
+
+04:01:21
+<transcript>: And a lot of people think teamucks is great.
+
+04:01:23
+thechosenone1080: kitty has most things tmux has but way easier to use
+
+04:01:26
+<transcript>: Better than learning more shortcuts. Yeah, no, I get it. Split, split, terminal.
+
+04:01:31
+backkflipp: Tmux is really good for Mac.
+
+04:01:35
+<transcript>: Kitty has most things team outs has but way easier to use. Oh, you're talking about Kitty.
+
+04:01:40
+<transcript>: Sorry. I forgot what Kitty was you're talking about the other term instead of alacrity.
+
+04:01:43
+<transcript>: Yeah, I just don't.
+
+04:01:49
+backkflipp: On linux we usually use Window Manangers so there is no such need.
+
+04:01:50
+<transcript>: I kind of feel like I'd rather go the more like Eunuchs Linux approach of like tool that does one thing.
+
+04:01:56
+<transcript>: And allocrite seems to be that alacrity. And then learning Pmux seems like a natural evolution.
+
+04:02:01
+<transcript>: Okay, we got a YAML file somewhere. Where's the YAML file.
+
+04:02:01
+<transcript>: this is it
+
+04:02:06
+<transcript>: This is it right here. So these are all the Daunts. We're gonna just copy the whole thing.
+
+04:02:11
+<transcript>: We're gonna come in here, and I already paste it. Did I already do this.
+
+04:02:11
+<transcript>: no
+
+04:02:13
+<transcript>: No, I didn't.
+
+04:02:15
+<transcript>: But I'm confused.
+
+04:02:17
+<transcript>: And confused.
+
+04:02:25
+<transcript>: It should be empty. That's what I was expecting. Okay, here's all the defaults.
+
+04:02:31
+thechosenone1080: mac also has yabai for window manager
+
+04:02:33
+<transcript>: Let's go to the top, let's comment everything. So we're gonna do visual mode. Actually, we're just gonna.
+
+04:02:39
+<transcript>: Just do yeah, we'll just do visual.
+
+04:02:42
+backkflipp: Although tmux is really good when connecting through ssh
+
+04:02:42
+<transcript>: And then go to the bottom.
+
+04:02:45
+<transcript>: And then we'll do.
+
+04:02:49
+<transcript>: Comment.
+
+04:02:53
+<transcript>: And then.
+
+04:02:53
+<transcript>: back to top
+
+04:02:54
+<transcript>: Back to top.
+
+04:02:57
+<transcript>: So we will uncomment these.
+
+04:03:04
+<transcript>: And then window, we're gonna uncommon window.
+
+04:03:04
+<transcript>: button
+
+04:03:08
+laytanl_: I had a file that was already commented and had descriptions for everything
+
+04:03:08
+<transcript>: Buttonless sounds cool. I guess if it's default, I should leave it default.
+
+04:03:12
+<transcript>: Right? Is this why latent? Looks like this.
+
+04:03:16
+<transcript>: This is why lightning click like this.
+
+04:03:18
+<transcript>: Regret.
+
+04:03:22
+<transcript>: Oh Nope Nope Nope.
+
+04:03:28
+thechosenone1080: yeah it should come with it
+
+04:03:31
+<transcript>: This is why it looks like that. And I should have just trusted you latent. I was like, why is it all weird.
+
+04:03:31
+<transcript>: what's wrong
+
+04:03:34
+<transcript>: What's wrong here. And that's why.
+
+04:03:34
+<transcript>: that is
+
+04:03:35
+<transcript>: That is why.
+
+04:03:37
+thechosenone1080: or there should just be a option to generate one
+
+04:03:45
+<transcript>: Okay. Scrolling. I'm just leaving all these default default padding. I'd like to be less than that.
+
+04:03:51
+backkflipp: @thechosenone1080 Yead but most people dont use it...
+
+04:03:54
+<transcript>: In fact, I might like zero padding.
+
+04:04:01
+<transcript>: What? I like zero padding? I think I might like zero padding.
+
+04:04:01
+<transcript>: call me crazy
+
+04:04:02
+<transcript>: Call me crazy.
+
+04:04:06
+<transcript>: Call me crazy but we're going zero.
+
+04:04:09
+thechosenone1080: maybe idk
+
+04:04:11
+thechosenone1080: never use mac
+
+04:04:13
+<transcript>: Aunt definitely gonna update the font use thinstrops, false draw bold texts with bright colors offset.
+
+04:04:15
+<transcript>: Size, size.
+
+04:04:15
+<transcript>: is gonna
+
+04:04:17
+<transcript>: Is gonna be much bigger.
+
+04:04:17
+<transcript>: what do i have
+
+04:04:20
+<transcript>: What do I have in my eye? Term.
+
+04:04:20
+thechosenone1080: i use arch btw
+
+04:04:22
+<transcript>: What is my ipad font size.
+
+04:04:24
+laytanl_: 0 is default for padding
+
+04:04:28
+<transcript>: Is this I term I don't even know anymore I'm so confused.
+
+04:04:28
+<transcript>: i term
+
+04:04:30
+<transcript>: I. Term, preferences.
+
+04:04:34
+<transcript>: No.
+
+04:04:37
+<transcript>: It's under profiles.
+
+04:04:37
+<transcript>: and then
+
+04:04:39
+<transcript>: And then text.
+
+04:04:41
+<transcript>: 32.
+
+04:04:45
+<transcript>: 32 font size. Okay.
+
+04:04:47
+<transcript>: Simple.
+
+04:04:55
+<transcript>: I don't know why. Just the word classic. This came into my mind. And it was in the Teachers Voice classic.
+
+04:04:55
+<transcript>: classic
+
+04:04:57
+<transcript>: Classic.
+
+04:05:01
+<transcript>: Zero is default for padding. Oh, it is.
+
+04:05:01
+<transcript>: oh
+
+04:05:02
+<transcript>: Oh.
+
+04:05:02
+<transcript>: why
+
+04:05:03
+<transcript>: Why did say ten.
+
+04:05:09
+<transcript>: Use. Arch. Is it arc, or arch.
+
+04:05:09
+<transcript>: all the cool people
+
+04:05:12
+<transcript>: All the cool people use arch.
+
+04:05:15
+<transcript>: architect
+
+04:05:16
+<transcript>: Architect.
+
+04:05:19
+backkflipp: I use a script to inc/dec the font size within alacritty, to make it permanent if needed.
+
+04:05:22
+<transcript>: Yeah I don't know do a lot of SSHing anymore backflip.
+
+04:05:27
+<transcript>: I don't do a lot of that anymore. I don't do a lot of servers.
+
+04:05:27
+<transcript>: most
+
+04:05:29
+<transcript>: Mostly serverless.
+
+04:05:33
+thechosenone1080: yes i belong to the cool club 😎
+
+04:05:40
+laytanl_: What you have open are not the defaults
+
+04:05:41
+<transcript>: Use a script to increase decrease the font size within Alacrity to make it permanent if needed.
+
+04:05:49
+laytanl_: right?
+
+04:05:49
+<transcript>: You do belong to the Cool Club? Yeah, no, my friend dad. He came on and taught me Neove him on stream few weeks ago. He's his art.
+
+04:05:51
+<transcript>: Clinics.
+
+04:05:59
+faiataiga: i use Fedora ftw @thechosenone1080 :P
+
+04:06:01
+<transcript>: What you have open are not the defaults, right? Well, they're supposed to be. Oh, clearly not, though JetBrain's Mono would not be the default. What.
+
+04:06:10
+<transcript>: What am I looking at? I'm looking. I'm not looking at the defaults. No, these are the defaults. No.
+
+04:06:10
+<transcript>: these
+
+04:06:14
+<transcript>: These also aren't the defaults. Well, I just was here and I just clicked on.
+
+04:06:17
+<transcript>: Oh, it downloaded it.
+
+04:06:18
+laytanl_: https://github.com/alacritty/alacritty/releases/download/v0.10.1/alacritty.yml
+
+04:06:19
+backkflipp: I'm on Arch but you should use if it makes your life easier, not harder.
+
+04:06:21
+<transcript>: I'm sorry Everyone, this is the default.
+
+04:06:26
+<transcript>: These are the defaults makes way more sense now.
+
+04:06:26
+<transcript>: okay
+
+04:06:28
+<transcript>: Okay, let's try again.
+
+04:06:32
+<transcript>: Try again third time is a charm.
+
+04:06:35
+<transcript>: V.
+
+04:06:40
+<transcript>: We want to delete all that.
+
+04:06:44
+thechosenone1080: never Syu on arch
+
+04:06:45
+<transcript>: And then paste. Copy this one. I'm gonna copy all this again.
+
+04:06:49
+<transcript>: And then paste it. Okay.
+
+04:06:50
+thechosenone1080: NEVA
+
+04:06:52
+<transcript>: Now we're looking at some defaults, right.
+
+04:06:52
+<transcript>: yes
+
+04:06:53
+<transcript>: Yes.
+
+04:06:56
+<transcript>: Oh, man.
+
+04:06:56
+<transcript>: somebody
+
+04:06:59
+<transcript>: Somebody tries. Okay, any items in the entry.
+
+04:07:03
+<transcript>: So we're gonna do this.
+
+04:07:10
+<transcript>: I don't know if I need to mess with this or if it's just gonna use the right thing by default.
+
+04:07:13
+<transcript>: Term environment variable.
+
+04:07:13
+<transcript>: for each
+
+04:07:16
+<transcript>: For each instance of operators not present. Alec.
+
+04:07:22
+<transcript>: X term 256 color? I don't know. I don't know what I want here, so I'm just gonna leave it.
+
+04:07:24
+<transcript>: Excluded.
+
+04:07:24
+<transcript>: window
+
+04:07:26
+<transcript>: Window.
+
+04:07:28
+<transcript>: I have opinions yet on that you know.
+
+04:07:31
+<transcript>: Dimensions.
+
+04:07:34
+<transcript>: Okay, so padding is zero.
+
+04:07:34
+<transcript>: right here
+
+04:07:34
+backkflipp: You should always do Syu
+
+04:07:35
+<transcript>: Right here.
+
+04:07:38
+<transcript>: Full window position.
+
+04:07:41
+backkflipp: You should never do Sy
+
+04:07:46
+<transcript>: Dynamic padding is false. Spread additional padding evenly around the terminal content. You don't want any padding so that's fine.
+
+04:07:49
+<transcript>: Values for decorations.
+
+04:07:54
+<transcript>: True decorations full.
+
+04:07:56
+joshfinnie: i'd recommend x-term-256color if you're using vim in the browser? not sure if there's anything vim will do with a term of alacritty
+
+04:07:59
+<transcript>: Orders and Title bar.
+
+04:07:59
+<transcript>: values
+
+04:08:02
+<transcript>: Values decorations macros only transparent.
+
+04:08:02
+<transcript>: buttonless
+
+04:08:03
+<transcript>: Buttonless.
+
+04:08:09
+<transcript>: One of our transparent background and no title bar, buttons.
+
+04:08:13
+<transcript>: How do I feel about that.
+
+04:08:17
+<transcript>: I'm gonna leave it for now. Background Opacity is one.
+
+04:08:17
+<transcript>: startup
+
+04:08:19
+<transcript>: Startup mode.
+
+04:08:27
+<transcript>: Simple full screen windowed is probably best. Okay window title liquidy. Okay.
+
+04:08:31
+<transcript>: Dynamic Titles that sounds good. Window class. No.
+
+04:08:35
+<transcript>: Seem variant.
+
+04:08:38
+<transcript>: Strolling.
+
+04:08:43
+<transcript>: Here we go first time I care font.
+
+04:08:43
+<transcript>: normal
+
+04:08:44
+<transcript>: Normal.
+
+04:08:44
+<transcript>: bold
+
+04:08:46
+<transcript>: Bold.
+
+04:08:50
+<transcript>: What is it? The size.
+
+04:08:55
+<transcript>: I want to get to that before I forget. So this is 32.
+
+04:08:59
+<transcript>: Font family.
+
+04:09:06
+<transcript>: So we got to set these fonts so normal is going to be.
+
+04:09:06
+<transcript>: a font
+
+04:09:09
+<transcript>: A font family of.
+
+04:09:11
+<transcript>: What did we say it was.
+
+04:09:18
+<transcript>: Operator Monoun font.
+
+04:09:18
+<transcript>: geez
+
+04:09:20
+<transcript>: Geez.
+
+04:09:20
+<transcript>: here we go
+
+04:09:22
+<transcript>: Here we go. Operate.
+
+04:09:25
+<transcript>: Mono. Nerd. Font.
+
+04:09:35
+<transcript>: Style regular is going to be style. Oh can we set side to pick a specific face so this is going to be book.
+
+04:09:38
+<transcript>: I believe that's accurate.
+
+04:09:43
+<transcript>: Book and book italic.
+
+04:09:45
+<transcript>: So actually.
+
+04:09:45
+<transcript>: my nerd
+
+04:09:52
+<transcript>: My nerd fought patched operator mono doesn't have ligatures, so I'm not gonna miss that at all because I literally don't have it in my font.
+
+04:09:57
+<transcript>: Bold we're gonna say same family operator.
+
+04:09:57
+<transcript>: mono
+
+04:10:00
+<transcript>: Mono. Nerd. Font.
+
+04:10:03
+backkflipp: You patched it?
+
+04:10:05
+<transcript>: Style? I guess there's just gonna be no bold she's gonna be.
+
+04:10:09
+<transcript>: Alec is going to be.
+
+04:10:12
+<transcript>: Same operator.
+
+04:10:12
+<transcript>: oh
+
+04:10:13
+<transcript>: Oh.
+
+04:10:18
+<transcript>: Operator Monoun font.
+
+04:10:21
+<transcript>: Style is.
+
+04:10:21
+<transcript>: book
+
+04:10:23
+<transcript>: Book italic.
+
+04:10:23
+<transcript>: belief
+
+04:10:25
+<transcript>: Belief.
+
+04:10:30
+<transcript>: Then bold italic.
+
+04:10:35
+<transcript>: Operator Mono Nerd font.
+
+04:10:39
+<transcript>: Is book italic maybe I need to download.
+
+04:10:39
+<transcript>: an operator
+
+04:10:49
+<transcript>: An operator model that I don't think so. I don't think so. Tim Offset is the extra space around each character. Don't need that. Don't need that then stroke Font rendering.
+
+04:10:49
+<transcript>: suitable
+
+04:10:57
+<transcript>: Suitable for written displays. The yes, we want that news builtin font for box drawing characters. Okay.
+
+04:11:07
+<transcript>: Okay, colors. Let's get our we have a colors somewhere. We downloaded it. It's in Finder.
+
+04:11:10
+backkflipp: I'm using monolisa right now after using jetbrains mono for years. I think Ill try operator because of you...
+
+04:11:19
+<transcript>: Finder Dracula. Yaml. I don't know what this is. Code. Over here.
+
+04:11:26
+<transcript>: So we're gonna delete everything in the colors.
+
+04:11:28
+<transcript>: And do this.
+
+04:11:28
+<transcript>: cursor color
+
+04:11:34
+<transcript>: Cursor colors, Z mode, Cursor all these colors out of here.
+
+04:11:44
+<transcript>: Selection colors. Normal colors. Bright colors. Dim colors. Index colors. Transparent cell backgrounds. All of it. Out of here.
+
+04:11:44
+<transcript>: get out
+
+04:11:45
+<transcript>: Get out of here.
+
+04:11:49
+<transcript>: And we're gonna copy this whole thing.
+
+04:11:51
+hodlmybits: alacritty doesn't support ligatures right?
+
+04:12:04
+<transcript>: Feels good. Okay.
+
+04:12:12
+<transcript>: Dracula Theme for Alecrety Alacrity Bell The Bell is wrong every time the Bell Control characters receive.
+
+04:12:16
+<transcript>: Sounds awful don't please rip any bells that would be bad.
+
+04:12:20
+<transcript>: Visual. Bell flash. What is the Bell.
+
+04:12:26
+<transcript>: Semantic escape characters save the Clipboard wind set to tree. Selected text will be copied to the primary.
+
+04:12:28
+<transcript>: What is this.
+
+04:12:31
+<transcript>: How Big is the primary clipboard.
+
+04:12:34
+<transcript>: I don't know. That sounds important.
+
+04:12:39
+<transcript>: Let's set that's true. I guess.
+
+04:12:41
+<transcript>: Cursor style.
+
+04:12:46
+<transcript>: Shaped block. Sounds good. I don't want to beam.
+
+04:12:46
+<transcript>: the block
+
+04:12:47
+<transcript>: The block.
+
+04:12:50
+backkflipp: Visual bell, basically the all the terminal window flashes with the color and within the time you set.
+
+04:12:53
+<transcript>: Blinking off V mode cursor style.
+
+04:12:57
+<transcript>: It's a V mode curse style is none.
+
+04:13:01
+<transcript>: It's fine. Okay.
+
+04:13:01
+<transcript>: this is
+
+04:13:01
+backkflipp: *all the
+
+04:13:04
+<transcript>: This is true and focused. Thickness.
+
+04:13:04
+<transcript>: eye conf
+
+04:13:07
+<transcript>: Eye config reload. Yes. True. Okay.
+
+04:13:10
+<transcript>: And set Shell program to the path of your favorite shell.
+
+04:13:10
+<transcript>: default
+
+04:13:11
+<transcript>: Default.
+
+04:13:15
+<transcript>: It should be bin fish. Right.
+
+04:13:15
+<transcript>: well
+
+04:13:21
+<transcript>: Well, let's control new? Or command new? Oh, Oh.
+
+04:13:27
+<transcript>: A window Invalid type unit value setting a mapping so I broke something in alacrity.
+
+04:13:27
+<transcript>: what
+
+04:13:29
+<transcript>: What I wanted to do was.
+
+04:13:33
+<transcript>: wash
+
+04:13:34
+<transcript>: Wash.
+
+04:13:43
+<transcript>: It seems to be finding fish just fine.
+
+04:13:52
+<transcript>: How do I go up to my other alacrity.
+
+04:13:58
+<transcript>: Oh, I know how I could with SKD or whatever I could say.
+
+04:13:58
+laytanl_: Aren't you in fish right now, no need to change?
+
+04:14:00
+<transcript>: No, it doesn't work.
+
+04:14:02
+<transcript>: Doesn't work. Doesn't work.
+
+04:14:06
+<transcript>: That works. No.
+
+04:14:10
+<transcript>: That switched them.
+
+04:14:17
+<transcript>: How do I go to the one below me? Like, if I want to go. Oh, I just do this.
+
+04:14:17
+<transcript>: yeah there we go
+
+04:14:19
+<transcript>: Yeah. There we go. Okay.
+
+04:14:19
+<transcript>: okay
+
+04:14:20
+<transcript>: Okay.
+
+04:14:23
+<transcript>: Startup directory, Whatever, whatever.
+
+04:14:28
+<transcript>: Mouse. Anything else I care about here? I don't think so.
+
+04:14:32
+<transcript>: If I save it.
+
+04:14:34
+<transcript>: Save it.
+
+04:14:37
+<transcript>: Then what.
+
+04:14:40
+<transcript>: Not using my font.
+
+04:14:42
+<transcript>: So I have to close it in real.
+
+04:14:47
+<transcript>: realacity
+
+04:14:48
+<transcript>: Realacity.
+
+04:14:52
+<transcript>: Got errors with our configuration. Intellacity.
+
+04:14:58
+laytanl_: I found the default colors (red, green etc.) to be ugly, so I set them to what Iterm has
+
+04:14:59
+<transcript>: Doesn't support Ligatures. That's right hole. My bits. Welcome to Check. By the way.
+
+04:14:59
+<transcript>: doesn't sport
+
+04:15:01
+<transcript>: Doesn't sport ligatures. That's correct.
+
+04:15:01
+<transcript>: i did patch
+
+04:15:09
+<transcript>: I did patch it. I'm using Monolitha right now. If you're using Jetbread Model for years, I think what you're operating because you wow. Backflip. I hope you enjoy it.
+
+04:15:19
+<transcript>: Fedora.
+
+04:15:22
+<transcript>: Alright.
+
+04:15:27
+<transcript>: Visual Bell Basically, all the terminal window flashes with the color and within the time you set.
+
+04:15:27
+<transcript>: okay
+
+04:15:29
+<transcript>: Okay.
+
+04:15:29
+<transcript>: i'm
+
+04:15:39
+<transcript>: I'm in fish right now. No need to change. Yeah default colors, red, green, etc. To be ugly. So I set them to what iterm has. So the question is what is wrong? See the log.
+
+04:15:39
+<transcript>: there
+
+04:15:40
+<transcript>: There.
+
+04:15:43
+<transcript>: See the log.
+
+04:15:43
+<transcript>: at
+
+04:15:46
+<transcript>: At that thing.
+
+04:15:48
+<transcript>: Invalid.
+
+04:15:48
+<transcript>: invalid
+
+04:15:52
+<transcript>: Invalid type unit value, especially in mapping. Let's just open back up.
+
+04:15:56
+backkflipp: Window setting
+
+04:15:57
+<transcript>: Thanks for the follow Fatiga.
+
+04:16:02
+<transcript>: Windows setting. It's a Windows setting, so I need to open.
+
+04:16:04
+<transcript>: In them. Yeah, this thing.
+
+04:16:09
+<transcript>: Open it up like this.
+
+04:16:15
+<transcript>: What is this? Dracula. We don't need that anymore. I don't need this anymore.
+
+04:16:15
+<transcript>: yes thank you
+
+04:16:16
+<transcript>: Yes. Thank you.
+
+04:16:16
+<transcript>: so window
+
+04:16:17
+<transcript>: So window.
+
+04:16:17
+<transcript>: here
+
+04:16:21
+<transcript>: Here do not have anything under window.
+
+04:16:27
+<transcript>: Oh, we don't. We literally. I undid the window thing, and then I changed nothing. So that's a problem.
+
+04:16:33
+<transcript>: Uncommon save that okay. Now we should be.
+
+04:16:40
+<transcript>: I don't know if it's gonna get the font without a REIT. Is that the font? Oh, this is the font. It's just not doing italics.
+
+04:16:40
+<transcript>: right
+
+04:16:41
+<transcript>: Right.
+
+04:16:41
+<transcript>: alacrity
+
+04:16:43
+<transcript>: Alacrity.
+
+04:16:45
+<transcript>: Lack pretty.
+
+04:16:49
+<transcript>: Alex Metallic Comments is what I've always.
+
+04:16:49
+<transcript>: done
+
+04:16:51
+<transcript>: Done.
+
+04:16:55
+<transcript>: Okay, you know what? This has been fun.
+
+04:16:55
+<transcript>: it's been
+
+04:16:58
+<transcript>: It's been fun setting up alacrity.
+
+04:17:00
+<transcript>: But.
+
+04:17:01
+laytanl_: you have a style under font that is now 'regular'
+
+04:17:02
+<transcript>: It's.
+
+04:17:02
+<transcript>: we're
+
+04:17:09
+<transcript>: We're after 4 hours now I've got a P and rather than making you sit through another break, I think it makes more sense.
+
+04:17:12
+<transcript>: To just call it for today. This has been so much fun.
+
+04:17:12
+<transcript>: i appreciate
+
+04:17:16
+<transcript>: I appreciate all of you showing up each day that I stream.
+
+04:17:23
+<transcript>: I really enjoy hanging out with you all while I work. Leighton, you have a style under font that is now regular.
+
+04:17:28
+nexxeln: great stream! i was a bit late to join :(
+
+04:17:34
+<transcript>: Oh maybe that'll help me figure out the italics thing again. Appreciate you all great stream bit late. That's alright. Next one you can come whenever you'd like.
+
+04:17:38
+<transcript>: Hold on. My bits. Thank you so much for the follow. I really appreciate that.
+
+04:17:40
+thechosenone1080: he morphed into theprimeaegen
+
+04:17:43
+<transcript>: Yeah. I'm trying to think about anything else to say. Be here at the same time tomorrow, looking forward to it.
+
+04:17:43
+<transcript>: i morphed into
+
+04:17:47
+<transcript>: I morphed into the Prime Agent that this is my private mustache.
+
+04:17:49
+nexxeln: see ya adam
+
+04:17:52
+<transcript>: Prime Approves. He said. Spitting Image he said when we showed him this.
+
+04:17:52
+<transcript>: c
+
+04:17:57
+<transcript>: Cmx one see everybody. Thank you again. Maybe we could do again sometimes.
+
+04:18:00
+laytanl_: See you around!
+
+04:18:08
+schrew: See ya!
+
+04:58:06
+<transcript>: You.
+
+15:39:48
+<transcript>: Check? Check? Check? Check.
+
+15:46:01
+<transcript>: You.
+
+15:48:12
+<transcript>: Check, check, checking audio on a recording.
+
+15:48:12
+<transcript>: check
+
+15:48:16
+<transcript>: Checking it. Check, one, two, check.
+
+16:01:37
+<transcript>: All right, we're testing audio. Two. I should test audio. And I record these.
+
+16:01:37
+<transcript>: ten percent
+
+16:01:38
+<transcript>: 10%.
+
+16:01:38
+<transcript>: ten
+
+16:01:41
+<transcript>: why
+
+16:01:41
+<transcript>: 10%. Why is that.
+
+16:01:46
+<transcript>: Why is it at 8%? It's on a more now should be fast.
+
+16:13:57
+<transcript>: Check.
+
+16:14:03
+<transcript>: we're
+
+16:14:03
+<transcript>: Alright. We're testing.
+
+16:14:07
+<transcript>: We're moving really fast. We're not dropping any frames.
+
+16:14:11
+<transcript>: We're using 24% CPU.
+
+16:14:11
+<transcript>: feels bad
+
+16:14:12
+<transcript>: Feels bad.
+
+16:14:12
+<transcript>: let's come over here
+
+16:14:14
+<transcript>: Let's come over here.
+
+16:14:19
+<transcript>: We're doing stuff on the screen, doing stuff.
+
+16:14:21
+<transcript>: On the screen.
+
+16:14:25
+<transcript>: Okay.
+
+16:24:47
+<transcript>: You.
+
+16:42:46
+<transcript>: Can use that one.
+
+16:47:39
+<transcript>: Check, check.
+
+16:47:44
+<transcript>: Alright. We're recording again. Let's come over here.
+
+16:47:48
+<transcript>: That's not ideal.
+
+16:48:35
+<transcript>: You.
+
+17:03:10
+<transcript>: Check. Tick, tick, tick to tech.
+
+17:03:37
+<transcript>: All right.
+
+17:03:43
+<transcript>: We've tested.
+
+17:03:43
+<transcript>: we've tested
+
+17:03:46
+<transcript>: We've tested it all we're all done.
+
+17:03:46
+<transcript>: let's stop recording
+
+17:03:47
+<transcript>: Let's stop recording.
+
+17:03:51
+<transcript>: Bye.
+
+17:10:10
+<transcript>: You.

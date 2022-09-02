@@ -30,13 +30,13 @@ export default class ObsController extends EventEmitter {
   wsController: WsController
 
   private async initObsWebsocket() {
-    await this.obs.connect({ address: "127.0.0.1:4444" })
+    await this.obs.connect("ws://localhost:4455")
 
-    const response = await this.obs.send("GetCurrentScene")
-    this.currentScene = response.name as Scene
+    const response = await this.obs.call("GetCurrentProgramScene")
+    this.currentScene = response.currentProgramSceneName as Scene
 
-    this.obs.on("SwitchScenes", (data) => {
-      this.currentScene = data["scene-name"] as Scene
+    this.obs.on("CurrentProgramSceneChanged", (data) => {
+      this.currentScene = data.sceneName as Scene
       this.emit("sceneChange", this.currentScene)
     })
 
@@ -52,19 +52,22 @@ export default class ObsController extends EventEmitter {
   }
 
   async endStream() {
-    return this.obs.send("StopStreaming")
+    return this.obs.call("StopStream")
   }
 
-  async refreshBrowserSource(sourceName: Source) {
-    return this.obs.send("RefreshBrowserSource", { sourceName })
+  async refreshBrowserSource(inputName: Source) {
+    return this.obs.call("PressInputPropertiesButton", {
+      inputName,
+      propertyName: "refreshnocache",
+    })
   }
 
-  async setScene(scene: Scene) {
-    this.currentScene = scene
-    this.emit("sceneChange", scene)
+  async setScene(sceneName: Scene) {
+    this.currentScene = sceneName
+    this.emit("sceneChange", sceneName)
 
-    return this.obs.send("SetCurrentScene", {
-      "scene-name": scene,
+    return this.obs.call("SetCurrentProgramScene", {
+      sceneName,
     })
   }
 

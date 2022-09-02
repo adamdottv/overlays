@@ -4,7 +4,7 @@ import { useEvent, useSocket } from "../hooks"
 import { AudioSpectrum, Overlay, Grid, BrandMark } from "../components"
 import { fadeAudioOut } from "../lib/audio"
 import React from "react"
-import { delay, formatDate } from "../lib/utils"
+import { delay } from "../lib/utils"
 import { NextApiResponseServerIO } from "../lib"
 import { getStreamInfo, GetStreamResponse } from "../lib/stream"
 
@@ -82,7 +82,7 @@ function Outro({
             </div>
             {stream?.next && (
               <div className="mt-6 text-4xl font-light text-mauve-11">
-                {formatDate(stream.next.scheduledStart)}
+                {stream.next.scheduledStart}
                 {stream.next.scheduledStart && <span> CT</span>}
               </div>
             )}

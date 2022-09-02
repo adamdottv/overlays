@@ -15,20 +15,37 @@ import hash from "object-hash"
 import cn from "classnames"
 import { motion, AnimatePresence } from "framer-motion"
 import { delay } from "../lib/utils"
+import { getStreamInfo, GetStreamResponse } from "../lib/stream"
+import { NextApiResponseServerIO } from "../lib"
 
 const MAX_NOTIFICATIONS = 2
 const NOTIFICATION_DURATION = 3
 const NOTIFICATION_PANEL_HEIGHT = MAX_NOTIFICATIONS * 100 + 65
 
-export const getServerSideProps: GetServerSideProps = async (context) => {
+export interface SharedSsrProps {
+  stream: GetStreamResponse
+  debug: boolean
+}
+
+export const getServerSideProps: GetServerSideProps<SharedSsrProps> = async (
+  context
+) => {
+  const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
+  const stream = JSON.parse(JSON.stringify(rawStream))
+
   return {
     props: {
+      stream,
       debug: context.query.debug === "true",
     },
   }
 }
 
+/**
+    This is a test of some comments.
+**/
 function Shared({
+  stream,
   debug,
 }: InferGetServerSidePropsType<typeof getServerSideProps>): JSX.Element {
   const [transitioning, setTransitioning] = React.useState(false)
@@ -89,7 +106,7 @@ function Shared({
   })
 
   const creditAuthor = async (author?: string) => {
-    if (!author || debug) return
+    if (!author || debug || !stream.current?.active) return
 
     await delay(500)
 
