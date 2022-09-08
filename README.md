@@ -35,14 +35,17 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Creating an animation
 
-First, run the server without any unnecessary components with: 
+First, run the server without any unnecessary components with:
+
 ```bash
 npm run next
 # or
 yarn next
 ```
+
 Then, simply create an animation in `lib/stinger.ts`, there's multiple examples already present.
 
 #### To view your animation:
+
 - Edit the `components/stinger.tsx` to only run your animation. It's random by default.
 - Go to [this](http://localhost:3333/shared?debug=true) localhost path to view it.

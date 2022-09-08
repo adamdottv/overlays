@@ -41,7 +41,7 @@ function Break({
         loop
         ref={audioRef}
         id="audio-element"
-        src="/media/theme-piano-lh.wav"
+        src="/media/theme-piano-stem.wav"
       />
       <Grid
         // topLeft={<BrandMark />}

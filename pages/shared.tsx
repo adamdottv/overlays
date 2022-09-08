@@ -106,7 +106,7 @@ function Shared({
   })
 
   const creditAuthor = async (author?: string) => {
-    if (!author || debug || !stream.current?.active) return
+    if (!author || debug) return
 
     await delay(500)
 

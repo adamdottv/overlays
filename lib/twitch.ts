@@ -4,7 +4,12 @@ import { RefreshingAuthProvider } from "@twurple/auth"
 import { ApiClient } from "@twurple/api"
 import { promises as fs, readFileSync, writeFileSync } from "fs"
 import { CustomServer } from "./server"
-import { ShellScriptReward, SnapFilterReward, Reward } from "./rewards"
+import {
+  ShellScriptReward,
+  SnapFilterReward,
+  Reward,
+  MeetingReward,
+} from "./rewards"
 import open from "open"
 import SnapController from "./snap"
 import GiveawaysController from "./giveaways"
@@ -149,6 +154,8 @@ export type TwitchEventType =
   | "channel.hype_train.begin"
   | "channel.hype_train.progress"
   | "channel.hype_train.end"
+  | "stream.online"
+  | "stream.offline"
 
 export type TwitchEvent =
   | TwitchChannelFollowEvent
@@ -238,6 +245,8 @@ export default class TwitchController extends EventEmitter {
         isEnabled: reward.enabled ?? true,
         maxRedemptionsPerStream: reward.streamMax,
         maxRedemptionsPerUserPerStream: reward.userMax,
+        prompt: reward.prompt,
+        userInputRequired: !!reward.prompt,
         autoFulfill: true,
       }
     }
@@ -280,14 +289,13 @@ export default class TwitchController extends EventEmitter {
       )
         continue
 
-      const response = await this.apiClient?.channelPoints.updateCustomReward(
+      await this.apiClient?.channelPoints.updateCustomReward(
         this.userId,
         reward.id,
         {
           isPaused: false,
         }
       )
-      console.log(response)
     }
   }
 
@@ -299,14 +307,13 @@ export default class TwitchController extends EventEmitter {
       )
         continue
 
-      const response = await this.apiClient?.channelPoints.updateCustomReward(
+      await this.apiClient?.channelPoints.updateCustomReward(
         this.userId,
         reward.id,
         {
           isPaused: true,
         }
       )
-      console.log(response)
     }
   }
 
@@ -339,6 +346,8 @@ export default class TwitchController extends EventEmitter {
       ["channel.cheer"],
       ["channel.subscription.gift"],
       ["channel.raid", { to_broadcaster_user_id: this.userId }],
+      ["stream.online"],
+      ["stream.offline"],
     ]
     for (const [eventType, condition] of eventTypes) {
       const existing = subscriptions.find((sub) => sub.type === eventType)
@@ -364,7 +373,6 @@ export default class TwitchController extends EventEmitter {
         type: eventType,
         webhookSecret: this.webhookSecret,
         callback: this.callback,
-        // Note: this condition will change when we add new event types
         condition: condition ?? { broadcaster_user_id: this.userId },
       })
     }
@@ -412,6 +420,12 @@ export default class TwitchController extends EventEmitter {
       case "channel.channel_points_custom_reward_redemption.add":
         await this.redeem(event as TwitchChannelRedemptionEvent)
         break
+      case "stream.online":
+        this.emit("online")
+        break
+      case "stream.offline":
+        this.emit("offline")
+        break
 
       default:
         break
@@ -420,6 +434,7 @@ export default class TwitchController extends EventEmitter {
 
   async redeem(payload: TwitchChannelRedemptionEvent) {
     const reward = this.rewards.find((r) => r.id === payload.event.reward.id)
+    console.log(reward)
 
     switch (reward?.type) {
       case "shell":
@@ -430,6 +445,9 @@ export default class TwitchController extends EventEmitter {
         break
       case "giveaway-entry":
         await this.redeemGiveawayEntry(payload.event.user_name)
+        break
+      case "meeting":
+        await this.redeemMeeting(payload)
         break
 
       default:
@@ -465,6 +483,29 @@ export default class TwitchController extends EventEmitter {
 
   async redeemGiveawayEntry(userName: string) {
     this.giveaways.handleNewEntry(userName)
+  }
+
+  async redeemMeeting(event: TwitchChannelRedemptionEvent) {
+    //     const message = `Congrats! I can't wait to hop on a call with you!
+    //
+    // We'll have the call live on Twitch through ping.gg. In order to set this all up, please follow these steps:
+    //
+    // 1. Navigate to https://ping.gg
+    // 2. Login with Twitch
+    // 3. After signup/signin you should land on the /dashboard page on Ping.
+    // 4. Open your browser dev tools and paste the following code snippet into the console: \`const{userId}=await(await fetch("https://ping.gg/api/auth/session")).json();window.location.replace(\`https://savvycal.com/adamdotdev/632648fd?display_name=${event.event.user_name}&questions[0]=\${userId}\`)
+    // 5. Hit enter and you should be redirected to a SavvyCal page to book our session.
+    //
+    // If you hit any snags, let me know! Looking forward chatting about whatever you'd like to discuss!
+    //
+    // Best,
+    // Adam`
+    //
+    //     const test = await this.chatClient?.say(
+    //       event.event.broadcaster_user_login,
+    //       message
+    //     )
+    //     console.log(JSON.stringify(test))
   }
 
   async getToken() {

@@ -1,0 +1,8845 @@
+
+
+00:00:36
+<transcript>: Subscribe.
+
+00:01:54
+nefine_: OMG it was true..you are indeed streaming!
+
+00:02:45
+cascian08: Hi!
+
+00:03:55
+bigdiff___: new music? wew
+
+00:11:00
+<transcript>: Let's go, let's go, everybody.
+
+00:11:00
+<transcript>: how's it going
+
+00:11:02
+<transcript>: How's it going? How's it going.
+
+00:11:05
+<transcript>: I feel like my mic is off.
+
+00:11:08
+<transcript>: I'd be too jarring start today.
+
+00:11:08
+<transcript>: how's everybody doing
+
+00:11:10
+<transcript>: How's Everybody doing.
+
+00:11:10
+<transcript>: nephine
+
+00:11:17
+<transcript>: Nephine. Good day to you. Good morning. Good afternoon. I think I said yesterday. I'm just gonna start saying good afternoon.
+
+00:11:17
+<transcript>: it's in the middle
+
+00:11:18
+<transcript>: It's in the middle.
+
+00:11:18
+<transcript>: covers everybody
+
+00:11:19
+<transcript>: Covers, everybody.
+
+00:11:19
+<transcript>: it's just
+
+00:11:24
+delvoid: Good Morning
+
+00:11:30
+<transcript>: It's just a little off for everybody. And sometimes people would spot on so, Caskian, Hello, Big Dis. New music. Yeah, we got some low fibersion of the theme now.
+
+00:11:34
+<transcript>: Got brake master cylinder working on some versions.
+
+00:11:34
+<transcript>: other things
+
+00:11:38
+<transcript>: Other things. Mix it up, keep it interesting, you know.
+
+00:11:38
+<transcript>: i want to get
+
+00:11:39
+bigdiff___: cool cool
+
+00:11:41
+<transcript>: I want to get stale around here. Good morning. Bell void.
+
+00:11:48
+<transcript>: Good morning. I feel like I'm really slow to wake up today. I mean, I did stay up later, so.
+
+00:11:48
+<transcript>: that could be it
+
+00:11:49
+<transcript>: That could be it.
+
+00:11:54
+<transcript>: Just eat a lot of bar here pretty soon.
+
+00:11:54
+<transcript>: that'll help
+
+00:11:59
+<transcript>: That'll help. I don't wake me up. Throw some food at your body. That's the idea.
+
+00:12:07
+<transcript>: So yesterday. Oh, so excited about what we're working on? So excited I get very excited.
+
+00:12:07
+<transcript>: yesterday
+
+00:12:08
+<transcript>: Yesterday.
+
+00:12:12
+<transcript>: We decided to look at the T three stack.
+
+00:12:15
+<transcript>: Of theofame.
+
+00:12:26
+<transcript>: And mostly I wanted to I wanted to play with TRPC and also to lesser extent, Prisma and SQL databases.
+
+00:12:31
+<transcript>: So the T three sacks seemed like a good place to start.
+
+00:12:31
+<transcript>: and
+
+00:12:35
+<transcript>: And we needed something to build, right? We have to build something.
+
+00:12:35
+<transcript>: to like
+
+00:12:38
+<transcript>: To like explore the framework.
+
+00:12:38
+<transcript>: or
+
+00:12:45
+<transcript>: Or the collection of technologies. That is, the T three stack. Explore the stack that's the word stack.
+
+00:12:46
+cowfacedude99: So... Ready for tmux crash course?
+
+00:12:54
+<transcript>: So we kind of like had some ideas. And OOH actually calf maybe maybe tmucks today.
+
+00:12:55
+sai42: Hey! How's going?
+
+00:13:00
+<transcript>: Yeah, because I actually it's gonna be a shorter stream.
+
+00:13:02
+<transcript>: Like I've got.
+
+00:13:05
+<transcript>: Almost 3 hours.
+
+00:13:06
+bigdiff___: yet another 3 word stack Kappa
+
+00:13:09
+<transcript>: Some maybe we just make today teammate T. Max day.
+
+00:13:09
+<transcript>: and then
+
+00:13:10
+<transcript>: And then.
+
+00:13:12
+<transcript>: And then we could work on.
+
+00:13:16
+<transcript>: The AW guess on Thursday.
+
+00:13:17
+<transcript>: Hey.
+
+00:13:17
+<transcript>: save forty two
+
+00:13:21
+<transcript>: Save 42. It's going well. Another three word stack.
+
+00:13:21
+<transcript>: t three
+
+00:13:23
+<transcript>: T Three stack.
+
+00:13:26
+delvoid: Dont forget we have that deadline for tomorrow!
+
+00:13:26
+<transcript>: Are all stacks. Three words.
+
+00:13:28
+fragaverage: YOOOO
+
+00:13:29
+<transcript>: Trying to think of other stuff.
+
+00:13:34
+<transcript>: We have that deadline. Thank you, Devil'd Yo, it's Fred.
+
+00:13:45
+<transcript>: Yeah. Maybe we should just do T MUX. Crash course, cow face. How much ground could you cover in an hour? Then we could work on.
+
+00:13:49
+<transcript>: We could work on the AW, guess for a couple hours.
+
+00:13:49
+<transcript>: could you
+
+00:13:51
+<transcript>: Could you cover like.
+
+00:13:51
+<transcript>: some ground
+
+00:14:01
+<transcript>: Some ground in an hour. Can I just like not have to open eye term anymore if we spend an hour messing around with tmux because I just get to where I can open multiple windows.
+
+00:14:04
+<transcript>: Because that'd be cool.
+
+00:14:04
+delvoid: What is tmux
+
+00:14:09
+bigdiff___: tmux is easy, you can do it in 3 minutes
+
+00:14:10
+<transcript>: That would be cool. Let's why is my topic so so bad.
+
+00:14:10
+<transcript>: topic
+
+00:14:12
+<transcript>: Topic.
+
+00:14:12
+<transcript>: in three
+
+00:14:12
+cowfacedude99: I could get you started and basics in an hoour I think
+
+00:14:15
+<transcript>: In three minutes. All right. Topic.
+
+00:14:15
+<transcript>: learning
+
+00:14:16
+<transcript>: Learning.
+
+00:14:19
+<transcript>: In an hour. Okay. Learning.
+
+00:14:19
+<transcript>: pmux
+
+00:14:20
+<transcript>: Pmux.
+
+00:14:20
+<transcript>: getting
+
+00:14:22
+<transcript>: Getting.
+
+00:14:22
+<transcript>: getting
+
+00:14:25
+<transcript>: Getting a Pmux craft crash course.
+
+00:14:29
+adamelmore: !topic getting a tmux crash course, then onto building
+
+00:14:30
+<transcript>: Then on to building.
+
+00:14:30
+<transcript>: okay
+
+00:14:32
+<transcript>: Okay.
+
+00:14:32
+<transcript>: we're gonna need
+
+00:14:34
+<transcript>: We're gonna need the music for this.
+
+00:14:36
+<transcript>: We're gonna need some music.
+
+00:14:36
+<transcript>: for team
+
+00:14:38
+<transcript>: For Team Ox.
+
+00:14:40
+<transcript>: Here we go.
+
+00:14:56
+<transcript>: I'm going to we're just jumping into it today. Let's ranting it's a shorter stream. We're gonna spend less time talking, you know, some days I want to talk. Some days I don't want to talk. There's a kid. One of my.
+
+00:14:59
+<transcript>: One of my friends, kids.
+
+00:14:59
+<transcript>: several years
+
+00:15:02
+<transcript>: Several years ago, said.
+
+00:15:14
+<transcript>: This is just a quote that I will never forget from, like, a sixyearold. He said, Sometimes I like bananas. Sometimes I don't like bananas. I was like offering a banana. And that's what he said. I thought.
+
+00:15:14
+<transcript>: there's some ways
+
+00:15:19
+<transcript>: There's some ways to that sometimes I like it in there. Sometimes it don't like bananas.
+
+00:15:19
+<transcript>: i don't know
+
+00:15:21
+<transcript>: I don't know where that came from. What was I talking about.
+
+00:15:21
+<transcript>: sometimes
+
+00:15:24
+<transcript>: Sometimes oh, sometimes I like to talk.
+
+00:15:24
+<transcript>: on stream
+
+00:15:26
+<transcript>: On stream. Sometimes I don't.
+
+00:15:26
+<transcript>: sometimes
+
+00:15:30
+<transcript>: Sometimes I don't like bananas. So here we go. I'm just gonna do stuff.
+
+00:15:38
+<transcript>: What is this? Oh, so this is this is AW, guess.
+
+00:15:38
+<transcript>: it
+
+00:15:41
+<transcript>: It We're gonna learn P. Max.
+
+00:15:41
+<transcript>: okay
+
+00:15:43
+<transcript>: Okay.
+
+00:15:43
+<transcript>: what
+
+00:15:44
+<transcript>: What.
+
+00:15:44
+<transcript>: is team
+
+00:15:45
+<transcript>: Is TeamMax.
+
+00:15:45
+<transcript>: so
+
+00:15:47
+<transcript>: So I know.
+
+00:15:47
+<transcript>: generally
+
+00:15:50
+<transcript>: Generally. What it is. Cafes. Where should I start.
+
+00:15:54
+<transcript>: Can I just like Team X? No. Okay.
+
+00:15:56
+<transcript>: Good to know.
+
+00:15:56
+<transcript>: that's install
+
+00:15:58
+<transcript>: That's install it.
+
+00:16:03
+cowfacedude99: Install tmux via brew
+
+00:16:06
+<transcript>: Boss me cow face boss me around.
+
+00:16:06
+<transcript>: install
+
+00:16:13
+<transcript>: Install PMX via brew. Well, that was easy. Brew install teamut. I just kind of thought it was built in, actually.
+
+00:16:16
+<transcript>: Root install Team X.
+
+00:16:19
+linusekenstam1: “I need bananas!” that’s my daughters fav punch line right now 😂
+
+00:16:25
+<transcript>: I hate every time I install some of the brew it installs like 45 things.
+
+00:16:25
+<transcript>: ottawa
+
+00:16:33
+<transcript>: Ottawa updated. I need to fix that. Whatever the auto update thing is, I don't want that, okay, we've got tmux.
+
+00:16:33
+<transcript>: lexus
+
+00:16:35
+<transcript>: Lexus. Here.
+
+00:16:39
+<transcript>: If you're curious.
+
+00:16:39
+<transcript>: it's
+
+00:16:45
+<transcript>: It's Pmux version no oh, what did I do? Oh, Geez.
+
+00:16:45
+<transcript>: i shouldn't have tried
+
+00:16:46
+<transcript>: I shouldn't have tried that.
+
+00:16:50
+<transcript>: I need bananas.
+
+00:16:50
+<transcript>: welcome lennon
+
+00:16:51
+cowfacedude99: verbose mode
+
+00:16:55
+<transcript>: Welcome, Lennons, Linus. Sorry, Lennon. That was a terrible pronunciation. Welcome, Linus.
+
+00:17:00
+<transcript>: To chat first time chatter verbose mode Oops.
+
+00:17:02
+<transcript>: How do I exit.
+
+00:17:05
+<transcript>: I Exit T. Max.
+
+00:17:10
+<transcript>: Also. How do I them. It okay. Sorry. I'll let you go. You go. Your turn.
+
+00:17:10
+linusekenstam1: No worries 😁
+
+00:17:12
+niftynate80: “Be my boss” = give me free consulting services hours
+
+00:17:14
+<transcript>: Xitima.
+
+00:17:18
+cowfacedude99: tmux is basically a shell
+
+00:17:19
+<transcript>: Give me free controlling surface hours.
+
+00:17:21
+<transcript>: That's one way to look at it. Nifty.
+
+00:17:26
+<transcript>: Basically a shell. Okay.
+
+00:17:31
+<transcript>: Am I using it instead of.
+
+00:17:31
+<transcript>: instead
+
+00:17:33
+<transcript>: Instead of.
+
+00:17:39
+<transcript>: Like instead of Michelle. No. Clearly, I'm still using fish. It's got my little atom.
+
+00:17:39
+<transcript>: prompt
+
+00:17:40
+<transcript>: Prompt.
+
+00:17:46
+<transcript>: Detach.
+
+00:17:50
+<transcript>: Control B, then D.
+
+00:17:57
+<transcript>: All the control, plus the Lego of both the keys and prestige.
+
+00:17:57
+cowfacedude99: so you can exit via 'exit'.
+
+00:18:01
+<transcript>: Oh, I did it. Detached from Session zero.
+
+00:18:01
+<transcript>: tmuk list
+
+00:18:02
+<transcript>: Tmuk list.
+
+00:18:04
+<transcript>: I'm just making stuff up.
+
+00:18:08
+<transcript>: List. Buffers list. Okay, this session.
+
+00:18:09
+aurumnameistaken: hellowo i made a poopy neovim plugin that works like bs code live server 🙀
+
+00:18:12
+<transcript>: You like me just trying to, like, figure stuff out.
+
+00:18:14
+<transcript>: There's one window.
+
+00:18:20
+<transcript>: With a window manager. I knew this about Team X. It's like a way to have, like, tabs inside your one terminal.
+
+00:18:20
+<transcript>: oh i can ex
+
+00:18:23
+<transcript>: Oh, I can exit via exit. Okay.
+
+00:18:25
+<transcript>: T. Max.
+
+00:18:25
+<transcript>: so i'm in a thing
+
+00:18:29
+<transcript>: So I'm in a thing I can say exit an amount.
+
+00:18:31
+<transcript>: I still have sessions.
+
+00:18:31
+<transcript>: yes
+
+00:18:32
+<transcript>: Yes.
+
+00:18:35
+<transcript>: Okay.
+
+00:18:37
+<transcript>: Hello.
+
+00:18:37
+<transcript>: i made
+
+00:18:42
+cowfacedude99: you can attach via tmux a
+
+00:18:44
+<transcript>: I made a poppy Neovan plugin that works like BS code live OVs code live server. What? That sounds cool.
+
+00:19:01
+<transcript>: You can attach via tmux. A. Okay. So I can attach to the previously. Okay. So let's do something in this window so I can just list and then let's exit and then let's go. I want to see my sessions again. No server running.
+
+00:19:01
+<transcript>: uhoh
+
+00:19:02
+<transcript>: Uhoh.
+
+00:19:07
+<transcript>: Oh, so when you exit.
+
+00:19:07
+<transcript>: it
+
+00:19:09
+<transcript>: It. It actually kills that session.
+
+00:19:21
+<transcript>: Okay, so if I do T Max a it's gonna say there is no session. Cia Tmax list inside this one. There we go. We got some stuff. And now we're gonna say.
+
+00:19:25
+<transcript>: Control? What was it? Deposit control.
+
+00:19:25
+<transcript>: b
+
+00:19:27
+<transcript>: B, and then D.
+
+00:19:30
+cowfacedude99: If you detach, the session stays
+
+00:19:31
+<transcript>: Just like that. We detached.
+
+00:19:31
+<transcript>: okay
+
+00:19:34
+<transcript>: Okay, so now I can tuck list sessions.
+
+00:19:34
+<transcript>: there's my
+
+00:19:37
+<transcript>: There's my window. If I go back into that one.
+
+00:19:49
+<transcript>: There it is. There's my history. Okay. Yeah. If you detach the session States. Okay, so I don't love control B. Control D. Why is this or I did hit the be key all of a sudden.
+
+00:19:55
+<transcript>: What finger do? I used to hit B. So I used my left drummer. It's right in the middle, you know.
+
+00:19:59
+<transcript>: So Control B, control D is actually quite hard.
+
+00:19:59
+<transcript>: i guess
+
+00:20:04
+<transcript>: I guess it's not a common thing I'll do let's get some keycasts are going.
+
+00:20:04
+<transcript>: there we go
+
+00:20:04
+cowfacedude99: everyone changes the default mapper.
+
+00:20:05
+<transcript>: There we go.
+
+00:20:12
+<transcript>: You can see what I'm doing now. Everyone changes the default Mapper. Oh, perfect. Okay.
+
+00:20:16
+<transcript>: So does tmux. Config live.
+
+00:20:24
+<transcript>: That live in here.
+
+00:20:31
+cowfacedude99: I have it on c-t. most people have it on c-a
+
+00:20:32
+<transcript>: So let's see basic TVs config.
+
+00:20:38
+<transcript>: You have an uncontrolled T. Most people have it on control. A. Okay.
+
+00:20:39
+cowfacedude99: it lives on .tmux.conf in home dir
+
+00:20:40
+<transcript>: Good to know.
+
+00:20:46
+<transcript>: Lives on tmux. Cough in Home Directory. Okay.
+
+00:20:46
+<transcript>: i can live with that
+
+00:20:47
+<transcript>: I can live with that.
+
+00:20:51
+<transcript>: In them.
+
+00:20:51
+<transcript>: wonder if it's
+
+00:20:53
+<transcript>: Wonder if it's already exist.
+
+00:21:03
+<transcript>: There's some logs. Oh, I'm in. Where am I? No.
+
+00:21:11
+<transcript>: Okay. So if I do.
+
+00:21:16
+<transcript>: So maybe I don't have a config yet. I have to create it.
+
+00:21:23
+<transcript>: Has like some theming clearly there's like a green thing at the bottom.
+
+00:21:23
+<transcript>: i
+
+00:21:27
+<transcript>: I green thing I don't know what that is.
+
+00:21:30
+cowfacedude99: ls -a
+
+00:21:30
+<transcript>: That's T. Max, I guess.
+
+00:21:30
+<transcript>: so
+
+00:21:33
+<transcript>: So how does that work? So if I'm in.
+
+00:21:39
+<transcript>: I'm in? Let's say I'm in my overlays project? I'm not gonna work in the overlays. Calm down.
+
+00:21:39
+<transcript>: but if i
+
+00:21:43
+<transcript>: But if I open this? Oh, did you just, like, put some colors on everything.
+
+00:21:46
+<transcript>: Did is that.
+
+00:21:49
+<transcript>: What's going on here.
+
+00:21:49
+<transcript>: or am i
+
+00:21:51
+<transcript>: Or am I just imagining that.
+
+00:21:51
+<transcript>: so
+
+00:21:58
+<transcript>: So I see it kind of shoved all my stuff up there's like a bottom bar. Now that's a tbox bar.
+
+00:22:00
+<transcript>: I want to style that.
+
+00:22:03
+<transcript>: Or I want to hide it. I don't know.
+
+00:22:05
+<transcript>: List a.
+
+00:22:05
+<transcript>: oh sorry
+
+00:22:07
+<transcript>: Oh, sorry. Yeah.
+
+00:22:10
+<transcript>: Like.
+
+00:22:18
+<transcript>: Show all the hidden files to oh, I'm in code.
+
+00:22:26
+<transcript>: Scroll.
+
+00:22:37
+<transcript>: Guess I could list a grip.
+
+00:22:39
+<transcript>: Team.
+
+00:22:41
+<transcript>: Out there.
+
+00:22:44
+<transcript>: We'll create it.
+
+00:22:47
+<transcript>: You will create a tmux? Config.
+
+00:22:47
+<transcript>: in home directory
+
+00:22:51
+<transcript>: In Home Directory is there an option to put it in your config.
+
+00:22:53
+<transcript>: I certainly like the idea of everything just being.
+
+00:22:53
+<transcript>: in config
+
+00:22:55
+<transcript>: In config.
+
+00:22:55
+cowfacedude99: you will need this if you want to add plugins.
+
+00:22:58
+<transcript>: Wow, this is a mess. Look at my.
+
+00:22:58
+<transcript>: what is
+
+00:23:00
+cowfacedude99: https://github.com/tmux-plugins/tpm
+
+00:23:02
+<transcript>: What is what's going on in my home directory? Why is there a note? Modules.
+
+00:23:06
+<transcript>: What a mess.
+
+00:23:14
+<transcript>: Okay. T. Max plugins. Ppm. You'll need this to add plugins. Okay.
+
+00:23:18
+<transcript>: Let's see.
+
+00:23:24
+cowfacedude99: You like dracula right?
+
+00:23:28
+<transcript>: Max Plugin manager.
+
+00:23:28
+<transcript>: i do like
+
+00:23:34
+<transcript>: I do like Dracula. So you've seen your Team X? It's another thing that gets some theming. Alright.
+
+00:23:34
+<transcript>: i can live with that
+
+00:23:36
+<transcript>: I can live with that.
+
+00:23:41
+<transcript>: Put this at the bottom of tmux. Comp. So let's just envy.
+
+00:23:48
+<transcript>: So here's our team config.
+
+00:23:51
+<transcript>: configure
+
+00:23:55
+<transcript>: Configure, Google Basic, Pmux, Config, and they have one that they really like.
+
+00:24:07
+<transcript>: Supercharges your team X to build cozy and cool terminal environment.
+
+00:24:22
+<transcript>: Oh so many things.
+
+00:24:22
+cowfacedude99: here's the theme. https://draculatheme.com/tmux
+
+00:24:26
+<transcript>: So many things on this. I don't think I want all those things.
+
+00:24:30
+<transcript>: Basic T Max config.
+
+00:24:39
+<transcript>: Simple tmux? Config.
+
+00:24:49
+<transcript>: Profile or prefix to control a unmapped be allowed double A to go through.
+
+00:24:57
+<transcript>: Okay.
+
+00:25:02
+<transcript>: Let's seem like a.
+
+00:25:02
+<transcript>: an okay
+
+00:25:04
+<transcript>: An okay start.
+
+00:25:11
+<transcript>: What do you think.
+
+00:25:11
+<transcript>: it's an okay
+
+00:25:13
+<transcript>: It's an okay, start.
+
+00:25:22
+<transcript>: What's this one look like? 2021. Sounds more recent.
+
+00:25:22
+<transcript>: so you got
+
+00:25:26
+<transcript>: So you got the Dracula theme for tmux. We'll add that.
+
+00:25:30
+<transcript>: So many people love teammates. Okay.
+
+00:25:37
+<transcript>: Don't need tabs. Tabs. Who needs tabs? I want to add this function to your bash.
+
+00:25:37
+<transcript>: our c or
+
+00:25:39
+<transcript>: Our C, or ZH.
+
+00:25:39
+<transcript>: zhrc or
+
+00:25:41
+<transcript>: Zhrc or whichever shell you're using.
+
+00:25:43
+<transcript>: Pmx, attack.
+
+00:25:46
+<transcript>: Okay.
+
+00:25:49
+<transcript>: Window Management let's see.
+
+00:26:02
+<transcript>: Much Navigator.
+
+00:26:10
+<transcript>: Cool status bar. Okay, I need to slow down, so we've got a basic.
+
+00:26:13
+<transcript>: We gotta install this thing.
+
+00:26:15
+cowfacedude99: https://dev.to/iggredible/tmux-tutorial-for-beginners-5c52 A bit about the terminology.
+
+00:26:19
+<transcript>: Let's look at the basic config here. So we've got bind something.
+
+00:26:19
+<transcript>: switch
+
+00:26:23
+<transcript>: Switch prefix to control a that sounds good.
+
+00:26:23
+<transcript>: thank you so much
+
+00:26:26
+<transcript>: Thank you so much, Linus, for the follow. I appreciate that.
+
+00:26:26
+<transcript>: a bit about
+
+00:26:28
+<transcript>: A bit about the terminology.
+
+00:26:30
+<transcript>: Okay.
+
+00:26:33
+<transcript>: Cow face is Boston Merry.
+
+00:26:35
+<transcript>: Some key mucks.
+
+00:26:35
+<transcript>: love it
+
+00:26:37
+<transcript>: Love it.
+
+00:26:39
+<transcript>: T mixes life.
+
+00:26:39
+<transcript>: saturation
+
+00:26:43
+<transcript>: Saturation wow, people really love T Bucks.
+
+00:26:49
+<transcript>: Okay.
+
+00:26:55
+<transcript>: Oh, why do I want to use too much.
+
+00:27:09
+<transcript>: Okay.
+
+00:27:18
+<transcript>: So tumks creating new session attaching and detaching a session.
+
+00:27:18
+<transcript>: prefix
+
+00:27:20
+<transcript>: Prefix.
+
+00:27:23
+<transcript>: Plus D? What's prefix.
+
+00:27:28
+<transcript>: Prefix.
+
+00:27:35
+cowfacedude99: prefix is c-b for you now
+
+00:27:37
+<transcript>: Oh, well, there's a prefix. I don't see any prefix. Human keyboard the previous key can be anything you want. Many TMX shortcuts require you to press a prefix key first.
+
+00:27:37
+<transcript>: similar to concept
+
+00:27:49
+<transcript>: Similar to concept leader key, but shouldn't probably be the same as my leader key, right? Think of it like a key to signal Tux that you're executing a T Max command by default. Tmux users control B. Oh, that's what gets remapped to control A. Got it.
+
+00:27:49
+<transcript>: each
+
+00:27:52
+<transcript>: Each time you see prefix means Scroll B. Okay.
+
+00:27:55
+<transcript>: Okay.
+
+00:28:00
+<transcript>: To attach from the terminal. Run teamks. Attach tmux. Detach.
+
+00:28:17
+<transcript>: With too much you can liberally generate as many sessions as you need. Right now we have only one session running to generate more sessions. You first need to be on a regular tournament, not inside of session this time though, let's give our session a name. Okay, so you can new.
+
+00:28:20
+<transcript>: Breakfast.
+
+00:28:20
+<transcript>: i'll
+
+00:28:23
+<transcript>: I'll turn over both command is new session.
+
+00:28:35
+<transcript>: Okay, while you're inside the breakfast, I should recall that we also have the original session running, see a little sessions and travel between sessions. Prefix S. Okay.
+
+00:28:40
+<transcript>: So we need to remap. We need to do all this. Let's save this file.
+
+00:28:47
+<transcript>: Does this just automatically get picked up? Do I need to like restart T mix? I don't know team up.
+
+00:28:51
+<transcript>: Cb for me. Yeah, yeah, okay.
+
+00:28:51
+<transcript>: so if
+
+00:28:53
+<transcript>: So if I want to.
+
+00:28:57
+cowfacedude99: You need to restart it now,
+
+00:29:01
+<transcript>: Exit this session. I forgot already. It should be control a now and then or just exit.
+
+00:29:01
+<transcript>: exit
+
+00:29:03
+<transcript>: Exit. I'm out.
+
+00:29:03
+<transcript>: so
+
+00:29:05
+cj_crew: Hey, how's it going
+
+00:29:06
+<transcript>: So if I wanted to tmux list.
+
+00:29:09
+<transcript>: Is that and then.
+
+00:29:14
+<transcript>: Pmux new and I can name sessions so tmux.
+
+00:29:15
+<transcript>: New.
+
+00:29:15
+<transcript>: schema
+
+00:29:18
+<transcript>: Schema config so meta.
+
+00:29:21
+<transcript>: Okay.
+
+00:29:24
+cowfacedude99: next time you can do prefix + r to reload config
+
+00:29:24
+<transcript>: So I'm in T? Maxx config.
+
+00:29:24
+<transcript>: here
+
+00:29:25
+<transcript>: Here. And if I do.
+
+00:29:25
+<transcript>: leader
+
+00:29:27
+<transcript>: Leader s.
+
+00:29:31
+<transcript>: No.
+
+00:29:33
+<transcript>: Maybe my.
+
+00:29:33
+<transcript>: yeah okay
+
+00:29:39
+<transcript>: Yeah. Okay. So my leader key is a three math yet, and it's gonna show me.
+
+00:29:39
+<transcript>: it looks like thirty guys
+
+00:29:40
+laytanl_: hey Adam adamel4Animadam
+
+00:29:41
+<transcript>: It looks like 30 guys.
+
+00:29:44
+<transcript>: I'm using J and K to go back and forth.
+
+00:29:48
+<transcript>: Tx. Config. And then what is this.
+
+00:29:53
+<transcript>: I do have two of them going right now, so here's the other one. Okay.
+
+00:29:53
+<transcript>: exit
+
+00:29:54
+<transcript>: Exit.
+
+00:29:54
+<transcript>: and then
+
+00:29:59
+<transcript>: And then now I only have one running. Yeah, yeah. T Max Config. Okay.
+
+00:30:03
+<transcript>: So what do I do to reload the config? I wonder.
+
+00:30:07
+urobeat: tmux kill-server
+
+00:30:07
+<transcript>: Hey, laden.
+
+00:30:11
+<transcript>: Need to restart it now. Okay.
+
+00:30:17
+<transcript>: Hey CJ, it's going well how are you next time you can do prefix plus R to reload config team.
+
+00:30:19
+<transcript>: Thank you so much.
+
+00:30:22
+<transcript>: Timo.
+
+00:30:24
+<transcript>: Server.
+
+00:30:31
+<transcript>: Learning stuff on Twitch is so much easier than what learning it alone. Just saying, okay, so now if I do.
+
+00:30:37
+<transcript>: T Max list no server running. I got a start. Team up like that.
+
+00:30:37
+<transcript>: there we are
+
+00:30:40
+<transcript>: There we are no current window.
+
+00:30:49
+<transcript>: By the task that.
+
+00:30:56
+<transcript>: Was on no current window nonsense tmux. A. For attached.
+
+00:30:56
+cowfacedude99: that's why you start building your config incrementally LUL
+
+00:30:58
+<transcript>: Like, what is this about.
+
+00:30:58
+<transcript>: no current window
+
+00:31:00
+<transcript>: No current window.
+
+00:31:02
+<transcript>: This a plugin or something. I just added.
+
+00:31:02
+<transcript>: let's get
+
+00:31:04
+<transcript>: Let's get out of here.
+
+00:31:11
+<transcript>: Control. A. D. Nope. Control. Ad. Okay.
+
+00:31:16
+<transcript>: Let's do Inv.
+
+00:31:18
+<transcript>: inventory
+
+00:31:19
+<transcript>: Inventory.
+
+00:31:30
+<transcript>: I can do control R. So you start building your config incrementally. Yeah. I don't know what else in here. I should probably know.
+
+00:31:30
+<transcript>: set window
+
+00:31:35
+<transcript>: Set window option so the vote okay so vim style movement is here.
+
+00:31:40
+<transcript>: Then style through resizing.
+
+00:31:42
+<transcript>: Then sell through windows.
+
+00:31:45
+<transcript>: Control. H.
+
+00:31:48
+<transcript>: How does how I read that.
+
+00:31:52
+<transcript>: Paint.
+
+00:32:09
+<transcript>: Okay, so default terminal screen to the color. What is this about.
+
+00:32:12
+<transcript>: I'm just kind of bouncing around.
+
+00:32:12
+<transcript>: so
+
+00:32:14
+<transcript>: So.
+
+00:32:19
+<transcript>: We switched it to CA, which we like.
+
+00:32:21
+<transcript>: Unbind CB.
+
+00:32:21
+<transcript>: and
+
+00:32:22
+cowfacedude99: that is to make sure that colors are proper
+
+00:32:24
+<transcript>: And then what else.
+
+00:32:34
+<transcript>: Make sure that colors are proper. Yeah, just it shouldn't be X term 256 or something. I've seen that places, but.
+
+00:32:39
+<transcript>: Repeat time. Default is 500 ml.
+
+00:32:44
+<transcript>: Okay. So they're making a slower repeat time.
+
+00:32:44
+<transcript>: you maximize
+
+00:32:47
+laytanl_: What are we drinking today?
+
+00:32:48
+<transcript>: You maximize a lot of control. Sounds like Tmax influence is a lot of things.
+
+00:32:51
+<transcript>: So this TX lesson Two, one.
+
+00:32:54
+<transcript>: Now need that stuff. Apparently.
+
+00:32:54
+<transcript>: mouse on
+
+00:32:55
+<transcript>: Mouse on.
+
+00:32:58
+<transcript>: Okay. Remove. Delay.
+
+00:32:58
+<transcript>: set
+
+00:33:03
+<transcript>: Set window pane INEX to start at one. Is this why I was getting that air? I think so.
+
+00:33:03
+<transcript>: i do
+
+00:33:05
+<transcript>: I do believe so.
+
+00:33:08
+<transcript>: Maybe not that Space index.
+
+00:33:22
+<transcript>: Like I should comment some stuff out. What do we drink in today? Leighton? We're drinking water.
+
+00:33:28
+<transcript>: But I'm kind of wishing I had some Danny blend already.
+
+00:33:35
+<transcript>: Why, why.
+
+00:33:38
+<transcript>: Is Tmax.
+
+00:33:40
+<transcript>: Saying no current window.
+
+00:33:42
+<transcript>: Next. Comp.
+
+00:33:45
+<transcript>: No crime.
+
+00:33:45
+<transcript>: window
+
+00:33:46
+<transcript>: Window.
+
+00:33:54
+laytanl_: your wishing for what?
+
+00:33:55
+<transcript>: You don't have G on that second, so it needs a window to set the option on, but no windows exist yet.
+
+00:34:01
+<transcript>: G.
+
+00:34:04
+<transcript>: On that set command.
+
+00:34:05
+urobeat: whats on like 54?
+
+00:34:05
+<transcript>: Okay.
+
+00:34:05
+<transcript>: let's see if we
+
+00:34:07
+laytanl_: you're
+
+00:34:07
+cowfacedude99: can you show the config?
+
+00:34:08
+<transcript>: Let's see if we can figure that out.
+
+00:34:09
+urobeat: line*
+
+00:34:11
+<transcript>: And then.
+
+00:34:15
+<transcript>: Oh Gee don't have G on that set command.
+
+00:34:15
+<transcript>: that
+
+00:34:19
+<transcript>: That set, set, set, set, set. There's G's on all these.
+
+00:34:24
+<transcript>: Window option. I don't see a G on this one.
+
+00:34:29
+<transcript>: Just pretending I know what I'm doing if someone has a better idea.
+
+00:34:29
+<transcript>: i can
+
+00:34:33
+<transcript>: I can do that. Better idea. Okay. Control. R.
+
+00:34:33
+<transcript>: almost
+
+00:34:36
+<transcript>: Almost at newest already at News change.
+
+00:34:44
+laytanl_: don't we all pretend
+
+00:34:44
+<transcript>: You see, I bound R. Oh, I have to control A. And then R.
+
+00:34:44
+<transcript>: no
+
+00:34:45
+cowfacedude99: You are not inside tmux
+
+00:34:46
+<transcript>: No.
+
+00:34:51
+<transcript>: Can you show the yeah cafes? Do you see this.
+
+00:34:54
+<transcript>: See this.
+
+00:34:54
+<transcript>: what's online
+
+00:34:57
+<transcript>: What's Online? 54.
+
+00:35:03
+<transcript>: I'm wishing Leighton that I had my Dandy blend, which is like my fake coffee. It's a tea.
+
+00:35:03
+<transcript>: it tastes
+
+00:35:06
+<transcript>: It tastes like coffee, but it doesn't have caffeine in it.
+
+00:35:07
+<transcript>: line
+
+00:35:09
+cowfacedude99: RAID!!!!
+
+00:35:10
+<transcript>: Line 54 said quality.
+
+00:35:10
+<transcript>: welcome
+
+00:35:13
+<transcript>: Welcome, said quali.
+
+00:35:13
+<transcript>: and you're
+
+00:35:15
+<transcript>: And you're, Raider, welcome.
+
+00:35:15
+<transcript>: good to see you
+
+00:35:17
+<transcript>: Good to see you.
+
+00:35:24
+<transcript>: Line 54, you say Line 54.
+
+00:35:30
+<transcript>: I don't. Yeah. Set window option G. So I'm just trying to reload it now, and I apparently I don't know how to reload.
+
+00:35:34
+<transcript>: You're not inside, teammate.
+
+00:35:34
+<transcript>: oh
+
+00:35:35
+<transcript>: Oh.
+
+00:35:36
+<transcript>: Good call.
+
+00:35:36
+<transcript>: it's good call
+
+00:35:38
+<transcript>: It's good call.
+
+00:35:38
+<transcript>: so
+
+00:35:40
+<transcript>: So let's exit.
+
+00:35:40
+<transcript>: let's
+
+00:35:42
+cedpoilly: hello Adam! hello all 👋
+
+00:35:47
+<transcript>: Let's quit out of our. Oh, I didn't save yet. Okay, so we saved. Now let's team X.
+
+00:35:50
+<transcript>: What are my sessions.
+
+00:35:56
+<transcript>: From out here. I want to create a new one. T. Max.
+
+00:36:07
+<transcript>: Session. No new fashion Pmux config. Okay, we're in tmux. Now look at us. We also fixed our issue. I think.
+
+00:36:07
+<transcript>: so now
+
+00:36:10
+<transcript>: So now if I go into.
+
+00:36:10
+<transcript>: inv
+
+00:36:10
+<transcript>: Inv.
+
+00:36:12
+cedpoilly: Raided your stream. did it work? 🤔
+
+00:36:16
+laytanl_: never heard of that, sounds weird, tea that tastes like coffee
+
+00:36:18
+<transcript>: Now I'm in tmux. I don't like this haze that it's put over my thing. It's like colored. It do less.
+
+00:36:18
+<transcript>: do less please
+
+00:36:19
+<transcript>: Do less please.
+
+00:36:24
+<transcript>: So here. That worked. Now I can just control R.
+
+00:36:24
+<transcript>: this is
+
+00:36:27
+<transcript>: This is already at newest change.
+
+00:36:27
+<transcript>: just because
+
+00:36:30
+<transcript>: Just because I just opened this new TMUK session.
+
+00:36:35
+<transcript>: Or is it leader key are Reloaded there we are sympax error.
+
+00:36:39
+<transcript>: How do I go back.
+
+00:36:43
+<transcript>: It did work. So.
+
+00:36:44
+laytanl_: @cedpoilly yeah it did
+
+00:36:45
+<transcript>: Hello? Hello? You're here.
+
+00:36:51
+<transcript>: Tease. It tastes like coffee. Exactly. It's delicious. Dandy blend.
+
+00:36:58
+<transcript>: Let's see so syntax era on my tmux. Comp feels that.
+
+00:36:59
+cedpoilly: 🥳
+
+00:37:02
+<transcript>: Feels bad.
+
+00:37:08
+cowfacedude99: next thing you need to learn is to split panes and windows
+
+00:37:09
+<transcript>: Exists. That's all I'm gonna type. I guess I'm gonna detach because I don't know what else to do.
+
+00:37:13
+<transcript>: I detached.
+
+00:37:19
+<transcript>: So we've got that window.
+
+00:37:19
+<transcript>: i need to
+
+00:37:22
+<transcript>: I need to go back into my config. I guess.
+
+00:37:22
+<transcript>: let's see can i
+
+00:37:23
+<transcript>: Let's see can I.
+
+00:37:29
+<transcript>: Team ups. How do I open a specific one? I config.
+
+00:37:32
+<transcript>: configure
+
+00:37:33
+<transcript>: Configure.
+
+00:37:35
+<transcript>: Config.
+
+00:37:38
+<transcript>: In the arguments need it most zero.
+
+00:37:38
+<transcript>: tmax
+
+00:37:40
+<transcript>: Tmax a.
+
+00:37:40
+<transcript>: so see this is not
+
+00:37:41
+<transcript>: So see, this is not.
+
+00:37:49
+<transcript>: Next you need to learn is to split pains and Windows. Okay, that sounds good. Let's do that.
+
+00:37:49
+<transcript>: let's
+
+00:37:51
+<transcript>: Let's learn how to do that.
+
+00:37:51
+<transcript>: i also need to learn
+
+00:37:56
+<transcript>: I also need to learn how to fix my teammix TMX configuration because I broke it.
+
+00:38:00
+<transcript>: I guess I could do that and plain old.
+
+00:38:00
+<transcript>: here
+
+00:38:01
+cowfacedude99: You can press q and go about your stuff
+
+00:38:01
+<transcript>: Here.
+
+00:38:05
+<transcript>: Since that I broke it. Did I mess this line up.
+
+00:38:05
+<transcript>: did i actually
+
+00:38:08
+<transcript>: Did I actually type stuff here on accident.
+
+00:38:10
+<transcript>: Looks kind of different.
+
+00:38:17
+<transcript>: I'm need to add this plugin manager thing.
+
+00:38:17
+<transcript>: we get there
+
+00:38:18
+<transcript>: We get there.
+
+00:38:18
+cowfacedude99: the ~j
+
+00:38:25
+<transcript>: The J. Yeah, that looks weird.
+
+00:38:29
+<transcript>: Looks like I added A. J. You know.
+
+00:38:29
+<transcript>: sometimes
+
+00:38:31
+<transcript>: Sometimes I add jades.
+
+00:38:36
+<transcript>: I'm still learning them. Okay, so that looks better.
+
+00:38:36
+<transcript>: whoa
+
+00:38:39
+stroopwafel26: hello again, friends!
+
+00:38:40
+<transcript>: Whoa, Leighton, thank you so much.
+
+00:38:40
+<transcript>: ley
+
+00:38:42
+<transcript>: Leyton with Gift subs.
+
+00:38:42
+<transcript>: i
+
+00:38:45
+<transcript>: I appreciate it. Stroop is here.
+
+00:38:48
+cowfacedude99: It should be ~/.tmux.conf
+
+00:38:48
+<transcript>: Gift subs so early in the morning latent.
+
+00:38:48
+<transcript>: i'm still wake up
+
+00:38:50
+<transcript>: I'm still wake up.
+
+00:38:56
+<transcript>: Need to get my energy levels up so I can properly thank you for those gifts.
+
+00:39:02
+<transcript>: Okay. I'm getting a Lara bar. Hang on.
+
+00:39:05
+stroopwafel26: hey it's tmux. love tmux
+
+00:39:07
+<transcript>: Okay, I got a Lara Bar. I'm back.
+
+00:39:07
+<transcript>: they're in my office
+
+00:39:11
+<transcript>: They're in my office now. I have a whole jar of them kind of.
+
+00:39:16
+<transcript>: It's Timok Streep. Waffle. We're learning Coffee's. Gonna teach us in an hour. We got 1 hour.
+
+00:39:16
+<transcript>: well we got
+
+00:39:18
+<transcript>: Well, we got less than that now.
+
+00:39:24
+<transcript>: Oh.
+
+00:39:26
+<transcript>: Yes. Thank you.
+
+00:39:26
+<transcript>: thank you god
+
+00:39:26
+laytanl_: really enjoying the streams!
+
+00:39:29
+<transcript>: Thank you, God. Base. I should just read.
+
+00:39:33
+<transcript>: So we saved this.
+
+00:39:33
+<transcript>: let's go back
+
+00:39:34
+<transcript>: Let's go back here.
+
+00:39:38
+<transcript>: Timox.
+
+00:39:38
+<transcript>: we want
+
+00:39:40
+<transcript>: We want to team ups, attach.
+
+00:39:56
+<transcript>: Reloaded.
+
+00:40:01
+<transcript>: Sessions just broken.
+
+00:40:01
+<transcript>: and i can't do
+
+00:40:03
+<transcript>: And I can't do anything with anymore.
+
+00:40:06
+cowfacedude99: I usually go for tmux a and prefix s to switch session
+
+00:40:19
+<transcript>: Reloaded okay.
+
+00:40:21
+<transcript>: It's not broken now.
+
+00:40:21
+<transcript>: i seem to have
+
+00:40:23
+stroopwafel26: i use this in my shell config: alias t="tmux new -A -s 0"
+
+00:40:25
+<transcript>: I seem to have a working TMX config. Let's fix it now.
+
+00:40:27
+<transcript>: Bad things to it.
+
+00:40:36
+<transcript>: Layton. Thank you so much. I really appreciate that you're enjoying the streams. I'm really enjoying having you here.
+
+00:40:43
+<transcript>: And I love how much you've improved my life with cloak. Thank you again for cloak.
+
+00:40:43
+<transcript>: i
+
+00:40:49
+<transcript>: I see you as more than just Cloak, but I can't see your name and not think of how awesome Cloak is.
+
+00:40:59
+<transcript>: Alias T. T. Max new Aso that's a lot Stroop. I'm gonna have to learn what all that means.
+
+00:41:00
+cowfacedude99: You can do prefix + c to create new windows.
+
+00:41:02
+andom: Howdy HeyGuys
+
+00:41:04
+<transcript>: Okay. Coffee. So I usually go for tmux. A.
+
+00:41:04
+<transcript>: and previx
+
+00:41:07
+<transcript>: And Previx. S.
+
+00:41:09
+<transcript>: To switch session.
+
+00:41:11
+<transcript>: Okay.
+
+00:41:11
+<transcript>: and you've
+
+00:41:12
+laytanl_: "the cloak guy"
+
+00:41:17
+<transcript>: And you've prefix plus C to create new Windows. Okay, let's do that. The cloak guy.
+
+00:41:17
+<transcript>: but then on your
+
+00:41:19
+<transcript>: But then on your Twitter, bio.
+
+00:41:21
+<transcript>: Okay. So we want to do.
+
+00:41:21
+<transcript>: predict
+
+00:41:24
+<transcript>: Predict C to create new windows.
+
+00:41:28
+<transcript>: I did it. I created a new window.
+
+00:41:29
+<transcript>: So.
+
+00:41:29
+<transcript>: there's a
+
+00:41:31
+<transcript>: There's a session.
+
+00:41:34
+<transcript>: Which is made up of windows.
+
+00:41:39
+<transcript>: So I'm on Windows Two right now is what I'm gathering. That's what that Two is.
+
+00:41:46
+<transcript>: Telling me the first one has invim open the second one is fish.
+
+00:41:46
+<transcript>: thank you for
+
+00:41:48
+<transcript>: Thank you for the follow UBI code.
+
+00:41:54
+<transcript>: I'm so new? I'm so new to Team X.
+
+00:41:57
+<transcript>: I thought it was built in.
+
+00:41:57
+<transcript>: that's how new i
+
+00:41:58
+danielgerep: What bothers me about tmux is the clipboard.
+
+00:41:59
+<transcript>: That's how new I am.
+
+00:42:05
+stroopwafel26: prefix d for detach, prefix for new windows, prefix comma for renaming the window
+
+00:42:06
+stroopwafel26: tmux <3
+
+00:42:07
+<transcript>: The clipboard I o Daniel, now you got me worried that my clipboard is gonna be all screwed up.
+
+00:42:12
+<transcript>: Prefix D for attach or for Dtach prefix for new windows.
+
+00:42:15
+<transcript>: Prefix. Comma for rename in the window.
+
+00:42:19
+<transcript>: Prefix comma.
+
+00:42:19
+<transcript>: renames the wind
+
+00:42:20
+<transcript>: Renames the window.
+
+00:42:25
+<transcript>: Okay. We need to install this thing.
+
+00:42:33
+danielgerep: prefix is like the nvim leader key.
+
+00:42:43
+<transcript>: Yeah, like the leader key. We've got control a as a as our prefix.
+
+00:42:45
+<transcript>: Per.
+
+00:42:45
+<transcript>: some recommendation
+
+00:42:47
+<transcript>: Some recommendation I don't even remember.
+
+00:42:47
+<transcript>: list the plug
+
+00:42:50
+<transcript>: List the plugins here. Okay, so clone.
+
+00:42:50
+<transcript>: i have to clone
+
+00:42:54
+<transcript>: I have to clone it into TMX. Plot. Okay.
+
+00:42:57
+<transcript>: Let's do that.
+
+00:43:01
+<transcript>: Well, maybe without the dollar sign, though.
+
+00:43:01
+danielgerep: I think ctrl+a is the default.
+
+00:43:05
+<transcript>: Now we're in a new.
+
+00:43:12
+<transcript>: Oh, CTRL A, it was Control B for me, Daniel.
+
+00:43:12
+<transcript>: on a mac
+
+00:43:13
+<transcript>: On a Mac.
+
+00:43:13
+<transcript>: i don't know
+
+00:43:15
+<transcript>: I don't know if it matters that I'm on a Mac.
+
+00:43:19
+stroopwafel26: also, if you use esc in vim, make sure you shorten the escape time: set -s escape-time 50
+
+00:43:21
+danielgerep: Ah! Sorry, you are right.
+
+00:43:23
+<transcript>: So I did this. Put this at the bottom of your team X. Comp. How do I go back to the previous window.
+
+00:43:27
+cowfacedude99: @danielgerep control b is window.
+
+00:43:31
+<transcript>: Also, if you use the escape and vim, make sure you shorten the escape time. Set? S escape time to 50.
+
+00:43:33
+<transcript>: Oh boy.
+
+00:43:33
+<transcript>: control
+
+00:43:34
+<transcript>: Control. B is window.
+
+00:43:34
+<transcript>: like
+
+00:43:36
+<transcript>: Like leader.
+
+00:43:41
+<transcript>: Like prefix then B or just control B.
+
+00:43:45
+<transcript>: Control. B. So.
+
+00:43:48
+<transcript>: Did that do it.
+
+00:43:48
+<transcript>: i
+
+00:43:49
+danielgerep: leader + arrows I think?
+
+00:43:49
+<transcript>: I should have looked.
+
+00:43:53
+<transcript>: The control. B. Do it now.
+
+00:43:57
+<transcript>: Probe B is window.
+
+00:44:03
+<transcript>: Oh, you're. I'm sorry. Coffee? Is you're responding to Daniel.
+
+00:44:03
+<transcript>: yeah yeah
+
+00:44:04
+<transcript>: Yeah, Yeah.
+
+00:44:05
+cowfacedude99: Not relevent @adamelmore it was an answer
+
+00:44:11
+<transcript>: So if you're new if you're just joining we're learning teamucks for 1 hour starting.
+
+00:44:11
+<transcript>: some
+
+00:44:16
+stroopwafel26: you can also start new windows in the same path; bind c new-window -c "#{pane_current_path}"
+
+00:44:21
+<transcript>: Some time ago. Maybe 20 minutes ago. So we got, like 40 minutes left. I'm gonna crash course Pmux here. And then we're gonna work on AW, guess which is in T three stack.
+
+00:44:22
+stroopwafel26: i got some tmux tips
+
+00:44:22
+urobeat: prefix + number for specific window or prefix + p for previous window or prefix + n for next window
+
+00:44:25
+<transcript>: Not relevant? Yeah, yeah? Gotcha.
+
+00:44:31
+<transcript>: You can also start new windows in the same path. Buying C new window.
+
+00:44:31
+<transcript>: see
+
+00:44:32
+<transcript>: See.
+
+00:44:39
+<transcript>: You got some TMUK tips? Roof Stroop your way ahead of me on the tmux. We're the same person except you know TMX.
+
+00:44:47
+<transcript>: Prefix plus number for specific window or prefix plus P for previous window or prefix plus in for next window that makes sense.
+
+00:44:51
+stroopwafel26: you're more than welcome to the tmux club
+
+00:44:53
+<transcript>: So prefix N goes to the next window. Finally up two of them. Then they basically just cycle. Right.
+
+00:44:59
+cowfacedude99: @urobeat p and n is my usual way to move around
+
+00:45:00
+<transcript>: You said prefix number for a specific window. So if I want to go to fish prefix number cool. Okay.
+
+00:45:06
+<transcript>: Pnn is my usually way to move around okay got it.
+
+00:45:06
+<transcript>: i'm
+
+00:45:09
+<transcript>: I'm welcome to the Team X Club. That feels good.
+
+00:45:16
+<transcript>: Right now I'm in the Eaten Alarm Bar at 05:00 a.m. Club, which is early for me to utilize.
+
+00:45:28
+<transcript>: Okay. We did this.
+
+00:45:30
+<transcript>: Let's go.
+
+00:45:30
+<transcript>: so
+
+00:45:31
+<transcript>: So.
+
+00:45:31
+<transcript>: here
+
+00:45:33
+<transcript>: Here.
+
+00:45:33
+<transcript>: we need to
+
+00:45:36
+<transcript>: We need to add this to the bottom of our.
+
+00:45:36
+<transcript>: bottom
+
+00:45:39
+<transcript>: Bottom of T. Mix. Comp.
+
+00:45:46
+stroopwafel26: oh yeah, you said you're gonna change your twitch URL, will it be twitch.tv/LarabarFanClub?
+
+00:45:53
+<transcript>: Okay.
+
+00:45:59
+<transcript>: Listen to plugins.
+
+00:46:02
+cowfacedude99: set -g @plugin 'dracula/tmux' add this in the list of plugins. for dracula theme
+
+00:46:03
+<transcript>: Initialize TX plugin mangers.
+
+00:46:12
+<transcript>: Use this thing at the bottom. This additional line.
+
+00:46:17
+<transcript>: Okay reload.
+
+00:46:28
+<transcript>: I can just do this to Reload. Right? Reloaded. Okay, we have some plugins now. Allegedly.
+
+00:46:28
+<transcript>: sensible
+
+00:46:30
+<transcript>: Sensible and TPM.
+
+00:46:33
+<transcript>: Okay.
+
+00:46:39
+<transcript>: Laura Barbara, Fan Club, no.
+
+00:46:50
+<transcript>: Set G Plugins Dracula tmux add this in with the plugins for Jacket theme. Thanks for follow dust nizzle dust nizzle.
+
+00:46:50
+<transcript>: i appreciate
+
+00:46:51
+<transcript>: I appreciate it.
+
+00:46:54
+<transcript>: Appreciate your follow.
+
+00:46:54
+<transcript>: a lot
+
+00:46:57
+<transcript>: A lot. Okay. We're adding Dracula.
+
+00:46:57
+<transcript>: like this
+
+00:46:59
+<transcript>: Like this.
+
+00:47:06
+<transcript>: So.
+
+00:47:11
+laytanl_: yeah the tmux bar is to bright imo
+
+00:47:11
+<transcript>: Dracula? Tmax.
+
+00:47:13
+<transcript>: Save.
+
+00:47:13
+<transcript>: let's reload
+
+00:47:16
+<transcript>: Let's? Reload thank you so much for the follows.
+
+00:47:16
+<transcript>: wish
+
+00:47:17
+dustnzl: :)
+
+00:47:18
+<transcript>: Wish go and Lo Chitty.
+
+00:47:18
+<transcript>: i'm sorry
+
+00:47:23
+<transcript>: I'm sorry. I am. I'm from the Midwestern, United States.
+
+00:47:23
+<transcript>: people in new york
+
+00:47:26
+danielgerep: I love these names hahaha
+
+00:47:31
+cowfacedude99: You need to install plugins in tmux
+
+00:47:33
+danielgerep: So easy to pronounce, right?
+
+00:47:36
+<transcript>: People in New York might call me a hillbilly, which means I live in kind of the Woods in the rural, like Southern Missouri, Ozar kills. So I don't. I don't pronounce things very well. I'm sorry. I'm very sorry.
+
+00:47:36
+<transcript>: it's especially
+
+00:47:38
+stroopwafel26: I have no tmux tips as far as pugins go, I do things the hard way and don't use plugins
+
+00:47:45
+<transcript>: It's especially unfortunate because I wake up really early and I work with people all over the world because I don't really work with people in America. They're just a sleep.
+
+00:47:54
+andreull: I bet you have beer in that cup
+
+00:47:55
+<transcript>: It's especially unfortunate because when I interact with those people, I feel like I botch everyone's name so so badly. Don't take offense. Please, please don't take offense. I'm just bad. I'm bad at speaking.
+
+00:48:00
+cowfacedude99: You need to run prefix I to install
+
+00:48:04
+<transcript>: But thank you all for the follows. I appreciate them so much. And also dust. Welcome to chat with your little smiley face. Welcome.
+
+00:48:04
+<transcript>: the t
+
+00:48:07
+<transcript>: The Tbox bar is too bright. I agree.
+
+00:48:08
+qubiz: Hi Adam!
+
+00:48:12
+<transcript>: You need to install plugins and Team X.
+
+00:48:21
+<transcript>: I bet you have beer in that cup. No, I don't. I promise it's. Why.
+
+00:48:21
+<transcript>: i
+
+00:48:23
+woycieszko: it's not important, the important thing is that we have programming in common
+
+00:48:27
+<transcript>: I just. I'm struggling to wake up today. It's. I went to bed late.
+
+00:48:27
+<transcript>: i was in
+
+00:48:36
+<transcript>: I was in the stake. I have a very like regimented routine. Sometimes I stray from it for various reasons. And I did last night.
+
+00:48:36
+<transcript>: and here i am
+
+00:48:37
+<transcript>: And here I am.
+
+00:48:37
+<transcript>: prefix
+
+00:48:40
+<transcript>: Prefix I to install. Okay.
+
+00:48:42
+madlep: Your early wake up schedule works with us folks in Australia tuning in after work :D
+
+00:48:43
+<transcript>: Prefix I was at capital I.
+
+00:48:43
+<transcript>: or
+
+00:48:45
+<transcript>: Or.
+
+00:48:45
+<transcript>: used
+
+00:48:46
+nutlesssquirrel: HeyGuys
+
+00:48:49
+<transcript>: Used it. Or is that an L? Maybe that's an L actually.
+
+00:48:49
+<transcript>: no
+
+00:48:57
+<transcript>: No, probably. I for install, right? Hey, Cuba's. Cuba is here. We're gonna work on AW guests shortly. Cubis. Thank you for the name again.
+
+00:48:57
+cowfacedude99: capital I
+
+00:49:00
+<transcript>: Prepix. I to install.
+
+00:49:00
+<transcript>: i
+
+00:49:01
+<transcript>: I.
+
+00:49:01
+<transcript>: wish welcome
+
+00:49:08
+<transcript>: Wish. Welcome to Chat Voice. It's not important. The important thing is that we have a programming in common. That's right. That's exactly right.
+
+00:49:08
+<transcript>: we enjoy
+
+00:49:10
+<transcript>: We enjoy.
+
+00:49:10
+<transcript>: programming
+
+00:49:11
+<transcript>: Programming.
+
+00:49:11
+<transcript>: your early wake up skill
+
+00:49:24
+<transcript>: Your early wake up skill schedule works with us folks in Australia tuning in after work. Welcome Madlep from Australia. It kind of blows my mind. Actually, the Internet is pretty amazing that you're all the way across the world.
+
+00:49:24
+<transcript>: and
+
+00:49:26
+<transcript>: And here we are together.
+
+00:49:26
+<transcript>: doing things
+
+00:49:27
+<transcript>: Doing things in real life.
+
+00:49:34
+<transcript>: Capitalization matters so.
+
+00:49:42
+<transcript>: That was a lot to do. Installing. Oh, cool. Okay. So I have to do that. That's kind of like, Packer sync or Packer install.
+
+00:49:42
+<transcript>: sorry
+
+00:49:48
+<transcript>: Sorry. I'm just. I'm getting all this straight, you know, I'm new to Neovan. I'm new to T. Max.
+
+00:49:52
+<transcript>: I feel new to computers. All this new.
+
+00:50:03
+stroopwafel26: the weather in tmux status? in this economy?
+
+00:50:07
+cowfacedude99: look, your bar changed
+
+00:50:08
+dypox: Greetings from Germany
+
+00:50:09
+<transcript>: Okay, press enter to continue. We did it. Oh, look at all these things. Look at this stuff at the bottom. What is that.
+
+00:50:09
+<transcript>: is that
+
+00:50:11
+<transcript>: Is that sensible or TPM.
+
+00:50:20
+<transcript>: Gonna need to change that. Not a huge fan of The Smiley face.
+
+00:50:25
+<transcript>: I don't know what AC stands for.
+
+00:50:25
+<transcript>: what's elmw
+
+00:50:27
+<transcript>: What's? Elmwar? What is going on here.
+
+00:50:29
+cowfacedude99: that is dracula
+
+00:50:34
+<transcript>: I mean no more is my last name. But why is it there.
+
+00:50:37
+danielgerep: @madlep Cool! I'm in Brazil. The internet and the English language uniting us all =)
+
+00:50:38
+<transcript>: Must Dracula doing that.
+
+00:50:40
+<transcript>: You kidding me.
+
+00:50:41
+cowfacedude99: I guess hostname
+
+00:50:44
+laytanl_: even more distracting now
+
+00:50:45
+<transcript>: That bottom bar.
+
+00:50:45
+<transcript>: is dracul
+
+00:50:47
+<transcript>: Is Dracula.
+
+00:50:52
+princejoogie: "whats elmore?" - Adam Elmore
+
+00:50:58
+laytanl_: it should just blend into the background imo
+
+00:51:00
+<transcript>: What's out more adamant.
+
+00:51:00
+<transcript>: that's
+
+00:51:02
+<transcript>: That's funny.
+
+00:51:09
+corfliss: Hello there, how many snack bars that you have right now?
+
+00:51:12
+<transcript>: Yeah, I'm not impressive. Dracula. Tmux. Surely they don't have that many opinions. Now. Dracula plugin. Right.
+
+00:51:18
+<transcript>: Should it be some colors? People.
+
+00:51:20
+<transcript>: That's it.
+
+00:51:21
+stroopwafel26: next stream we're gonna switch to zsh
+
+00:51:26
+<transcript>: How many snack bars do you have.
+
+00:51:26
+<transcript>: that i have right now
+
+00:51:29
+<transcript>: That I have right now. I've I mean, I just had one.
+
+00:51:31
+<transcript>: I've got the receipts. Just one.
+
+00:51:36
+cowfacedude99: @stroopwafel26 he's in zsh right now
+
+00:51:37
+<transcript>: But I have a jar of like, I don't know, 30.
+
+00:51:37
+<transcript>: right next to me
+
+00:51:38
+<transcript>: Right next to me.
+
+00:51:44
+<transcript>: So if I ever get really stressed, you'll see me start eating more of them.
+
+00:51:46
+stroopwafel26: mind=blown
+
+00:51:51
+<transcript>: Next stream. We're gonna switch to DSH. Yeah, I do want to switch.
+
+00:51:51
+<transcript>: i think
+
+00:51:53
+<transcript>: I think I'm in fish.
+
+00:51:59
+cowfacedude99: oh.
+
+00:52:00
+<transcript>: I really do want to switch back to CSH. I used to use Omy Zsh then I moved at some point to owe my fish.
+
+00:52:00
+<transcript>: and
+
+00:52:03
+<transcript>: And I think I missed the sh.
+
+00:52:03
+<transcript>: i
+
+00:52:06
+<transcript>: I'm not getting notifications. Thank you so much.
+
+00:52:11
+<transcript>: Muskill? Noobs. For the follow. Thank you so much.
+
+00:52:17
+<transcript>: I really I've said it before there's been a handful of you now I'm gonna say it again.
+
+00:52:17
+<transcript>: i
+
+00:52:21
+<transcript>: I really enjoy seeing Follows. It makes me think you'll come back.
+
+00:52:21
+<transcript>: and that
+
+00:52:25
+<transcript>: And that's just more friends to hang out with while I work. I love it.
+
+00:52:25
+<transcript>: and more
+
+00:52:28
+laytanl_: I would not be able to live without zsh autojump
+
+00:52:29
+<transcript>: And more friends to teach me how to use things like pmux.
+
+00:52:34
+laytanl_: best thing ever
+
+00:52:39
+<transcript>: Okay would not be able to live without Zsh auto jump. Okay latent and Stroop, both lobbying for Zsa.
+
+00:52:43
+<transcript>: I'm told.
+
+00:52:44
+cowfacedude99: I think the tmux bar can be dealt with later.
+
+00:52:45
+<transcript>: The question is.
+
+00:52:50
+<transcript>: Who customize the Dracula plugin? No configuration. Here. We got.
+
+00:52:58
+<transcript>: I'm so surprised that it does all this stuff.
+
+00:53:02
+<transcript>: Is this the official Dracula T mocks? Like why.
+
+00:53:02
+<transcript>: it seems so
+
+00:53:05
+<transcript>: It seems so out of character for Dracula, it's just a theme.
+
+00:53:05
+<transcript>: just colors
+
+00:53:06
+<transcript>: Just colors.
+
+00:53:06
+<transcript>: why is it doing
+
+00:53:08
+<transcript>: Why is it doing all this stuff.
+
+00:53:12
+stroopwafel26: the smiley should be a larabar obviously
+
+00:53:14
+<transcript>: Kind of like how it says the temperature and the current location, that's kind of cool.
+
+00:53:17
+<transcript>: Dark Theme for Team X. Let's see.
+
+00:53:21
+<transcript>: Activating.
+
+00:53:30
+<transcript>: To enable plugins set up the Dracket plugins option in your TMX config.
+
+00:53:39
+<transcript>: Oh, we can deal with it later. Okay, that sounds fine. Cafe. Yeah. Let's focus on what's important.
+
+00:53:41
+<transcript>: So what's important.
+
+00:53:41
+<transcript>: could you tell me again
+
+00:53:43
+<transcript>: Could you tell me again.
+
+00:53:46
+<transcript>: Said something earlier. I needed to learn next.
+
+00:53:51
+<transcript>: Smiley should be anything else. Really.
+
+00:53:53
+<transcript>: This is just not exist. Maybe.
+
+00:53:54
+madlep: You can have colours set up totally in your terminal emulator setup, and skip tmux theme - tmux themes end up doing a lot of stuff for the status bar though, cause that's just the easiest place to put it
+
+00:54:01
+<transcript>: It's. It's a little drawing to me to have these two bars at the bottom. I might move it to the top. I think I saw earlier. Somebody had it at the top.
+
+00:54:01
+<transcript>: also just don't
+
+00:54:07
+<transcript>: Also just don't like the color. Like everything just seems hazy. Was it like this before I had tmachs let's just see.
+
+00:54:07
+<transcript>: if i
+
+00:54:09
+<transcript>: If I.
+
+00:54:11
+<transcript>: Don't remember how to exit.
+
+00:54:14
+cowfacedude99: I can show you how to split panes into horizontal and vertical  and move around
+
+00:54:14
+<transcript>: I could detach.
+
+00:54:17
+stroopwafel26: prob caused by tmux
+
+00:54:22
+laytanl_: In case you forget your last name it is in your status bar
+
+00:54:22
+<transcript>: That haze. Oh, there's the haze. Okay, so the haze is actually Neoven my fault.
+
+00:54:26
+stroopwafel26: oh
+
+00:54:27
+<transcript>: I don't like this. This is so new and bad.
+
+00:54:27
+<transcript>: turns out
+
+00:54:30
+<transcript>: Turns out that's always been okay. Cool.
+
+00:54:38
+<transcript>: I have, like, a fundamental question. I'm gonna go and ask it.
+
+00:54:38
+<transcript>: okay
+
+00:54:41
+<transcript>: Okay, Cafe is gonna show me how to.
+
+00:54:41
+<transcript>: split pain
+
+00:54:46
+<transcript>: Split pains into horizontal and vertical, and move around. Yes, please.
+
+00:54:46
+<transcript>: you can
+
+00:54:51
+<transcript>: You can have color setup totally in your terminal emulator setup and skip Femax theme.
+
+00:54:51
+<transcript>: daniel
+
+00:54:54
+<transcript>: Daniel, thank you so much for the subscription.
+
+00:54:54
+<transcript>: wow
+
+00:54:55
+<transcript>: Wow.
+
+00:54:55
+<transcript>: you guys
+
+00:54:57
+<transcript>: You guys.
+
+00:54:57
+<transcript>: you're showing
+
+00:55:08
+<transcript>: You're showing up this morning and just throwing stuff at me. Follows and subscriptions and gift subs. I really appreciate it. I feel like I'm not even fully awake yet and I'm not I don't deserve.
+
+00:55:19
+<transcript>: The outpouring of support. I really don't. I'm not on my A game right now. I had a Lara bar. Hopefully that wakes me up soon, and then I can make it up to you all.
+
+00:55:19
+<transcript>: thank you
+
+00:55:21
+<transcript>: Thank you Musa, for the follow.
+
+00:55:28
+danielgerep: You'll wake up in 3....2.....1....
+
+00:55:34
+stroopwafel26: you can also start window numbers from 1 and reorder them automatically   set -g base-index 1 set -g renumber-windows on
+
+00:55:35
+<transcript>: So T. Max scenes themes end up doing a lot of stuff for the status bar, though, because that's just easiest place, but yeah, maybe mad up. We're gonna we're gonna figure it out. I'm gonna do. I do still feel like this is hazier, isn't it? It's hazier. We're gonna get rid of that. Haziness.
+
+00:55:39
+<transcript>: So, cafes. How do I split? How do I do those things.
+
+00:55:43
+<transcript>: In case you forget your last name. Yeah. Exactly.
+
+00:55:50
+<transcript>: Start windows. I'll wake up in three, two. Did you hypnotize me? Daniel.
+
+00:55:55
+<transcript>: You can also start window numbers from one and reorder them automatically.
+
+00:55:55
+<transcript>: set
+
+00:55:57
+cowfacedude99: I have these inside mine. They change per person
+
+00:56:03
+stroopwafel26: I split using - and |, should i share my config?
+
+00:56:07
+<transcript>: Set G base index one set G re number windows on Stroop I feel like you are. You are giving me too much credit. You think I am further along in my team's journey. Calf a.
+
+00:56:07
+<transcript>: nose but i
+
+00:56:18
+<transcript>: Nose, but I know nothing. And he's starting at like, what is tmux brew install it. Things like that. And Stroop your saying things that are just they're flying right over my head. I got nothing.
+
+00:56:18
+<transcript>: i have no
+
+00:56:21
+fragaverage: starting at -1 LUL
+
+00:56:28
+<transcript>: I have no context for what is coming out of your mouth. Your fingers. I split using dash and something. Should I share my config? Yeah, share your config.
+
+00:56:34
+<transcript>: We'll see that. Okay. I have these inside mine. They change per person.
+
+00:56:38
+<transcript>: I didn't understand that one cow face.
+
+00:56:38
+nexxeln: tmux?!
+
+00:56:39
+cowfacedude99: I split using h and v
+
+00:56:41
+nexxeln: hello
+
+00:56:41
+cowfacedude99: https://github.com/adgai19/ansible-config-ubuntu/blob/a3326f7f5d7eefd382c86ee9994888256e5abf71/roles/tmux/files/tmux#L70
+
+00:56:42
+<transcript>: I have these inside mine. They change per person.
+
+00:56:42
+<transcript>: oh
+
+00:56:46
+<transcript>: Oh, H and V. Okay, you're getting a link. Something.
+
+00:56:46
+<transcript>: next
+
+00:56:48
+<transcript>: Next home. Yeah.
+
+00:56:48
+<transcript>: so next
+
+00:56:54
+stroopwafel26: https://github.com/mijndert/dotfiles/blob/main/.tmux.conf#L37
+
+00:56:57
+<transcript>: So next one we are. We're learning Team X. I gave Calfhased onehour crash course. Is what we're doing here. How long ago did I start that.
+
+00:57:04
+<transcript>: I'd say we're halfway through. So let's say we're 30 minutes. In some of these set of timer, we got 30 more minutes.
+
+00:57:16
+<transcript>: When that says Hour and 30, we're moving on to T three stack. Next one. That's why I did this whole thing. Because I wanted to tell you, we're gonna be back on the T three stack. We're building. Aw, guess for the rest of stream.
+
+00:57:20
+<transcript>: Okay calf a so you've given me.
+
+00:57:20
+<transcript>: you
+
+00:57:22
+nexxeln: very cool
+
+00:57:28
+<transcript>: You split using H and V makes sense. Horizontal, vertical. Got it. Okay. And then these are your easier Windowslit keys. Okay.
+
+00:57:35
+<transcript>: Buying key v split window hpane current path okay.
+
+00:57:40
+<transcript>: You know what? Maybe I don't need to understand this. Is that the deal? I don't need to understand this stuff.
+
+00:57:40
+<transcript>: i just need to
+
+00:57:42
+<transcript>: I just need to copy it.
+
+00:57:45
+<transcript>: Move better between pains.
+
+00:57:49
+<transcript>: Okay.
+
+00:57:55
+<transcript>: And this is your Team X Config, right? Yeah.
+
+00:58:02
+<transcript>: I'm just I can't help but look at all of it. And I'm like, what is all this stuff.
+
+00:58:09
+nexxeln: i just have oh-my-tmux it has very good defaults
+
+00:58:14
+<transcript>: Okay.
+
+00:58:14
+danielgerep: Baby steps Adam =)
+
+00:58:19
+<transcript>: So just just easier windows split keys.
+
+00:58:19
+<transcript>: baby
+
+00:58:21
+<transcript>: Baby steps. Yeah. Thank you, Daniel.
+
+00:58:25
+stroopwafel26: There's an "oh my" for everything isn't there? :P
+
+00:58:26
+cowfacedude99: you need 70 and 71 to to split current pane and 74 through 77 to to move around
+
+00:58:33
+<transcript>: You have o my tmux. You're telling me there's an oh, my team X and I could just use that cafe. I can just use all my teeth on my team ax. I love the oh, my family of things.
+
+00:58:33
+<transcript>: i
+
+00:58:37
+laytanl_: what is aw guess?
+
+00:58:37
+<transcript>: I like very good defaults too I'd love to not have a very.
+
+00:58:37
+<transcript>: custom
+
+00:58:38
+<transcript>: Custom.
+
+00:58:38
+<transcript>: pmux
+
+00:58:40
+<transcript>: Pmux. Config.
+
+00:58:44
+<transcript>: I'd love to use tea mucks, but not as to think about it. Too much.
+
+00:58:46
+cowfacedude99: I can't help you there. I haven't used it at all
+
+00:58:47
+nexxeln: https://github.com/gpakosz/.tmux
+
+00:58:48
+laytanl_: will probably find out later
+
+00:58:52
+<transcript>: Late in AW guests is a Tobs service guessing name we're gonna make with T three stack.
+
+00:58:52
+<transcript>: you will find out later
+
+00:58:54
+<transcript>: You will find out later. That's right.
+
+00:58:59
+<transcript>: Oh, my team X cow face, come and just use that.
+
+00:58:59
+<transcript>: oh you haven't
+
+00:59:01
+<transcript>: Oh, you haven't used it at all.
+
+00:59:06
+<transcript>: But my team makes myself contained pretty and versatile T Max configuration made with love.
+
+00:59:06
+<transcript>: seventeen
+
+00:59:09
+<transcript>: 170 stars.
+
+00:59:12
+<transcript>: Is this all team X at the bottom here? That's a lot.
+
+00:59:12
+<transcript>: i probably not
+
+00:59:14
+<transcript>: I probably not want a lot of that.
+
+00:59:14
+<transcript>: but
+
+00:59:16
+<transcript>: But.
+
+00:59:23
+nexxeln: you can disbale stuff
+
+00:59:24
+<transcript>: I'm open to the idea of a easy mode.
+
+00:59:37
+<transcript>: Oh CA is a secondary prefix for keeping default control. B. Prefix Visual themespired by Power line maximize any pain to a new window with prefix plus.
+
+00:59:37
+<transcript>: ssh
+
+00:59:39
+stroopwafel26: my tmux status bar is just windows listed, no other bs
+
+00:59:43
+<transcript>: Ssh mosh aware username is hostname satisfying information mouse mode toggle with prefix M.
+
+00:59:45
+nexxeln: its easy to customize, just have to comment stuff
+
+00:59:51
+<transcript>: Well, I need cafes to hold my hand is the thing you know. So if I if I use something he doesn't use.
+
+00:59:51
+<transcript>: you can disable
+
+00:59:53
+<transcript>: You can disable stuff.
+
+00:59:53
+<transcript>: easy
+
+01:00:01
+<transcript>: Easy customizers have to comment stuff. Is it just one big config file? Is that all you install? It is just like copy the config. Here we go.
+
+01:00:06
+nexxeln: yeah exactly
+
+01:00:08
+<transcript>: Run the following per terminal.
+
+01:00:12
+<transcript>: Yeah, it's just a big convict file, isn't it.
+
+01:00:20
+<transcript>: I'm tempted, I'm tempted, but I.
+
+01:00:20
+<transcript>: cafe
+
+01:00:24
+laytanl_: Isn't this just going to be like the nvim config you tried and didn't get
+
+01:00:25
+<transcript>: Cafe has been graciously giving me a crash course and I feel like if I use this.
+
+01:00:25
+<transcript>: he won't be able to
+
+01:00:27
+<transcript>: He won't be able to do that anymore.
+
+01:00:33
+madlep: tweaking to get window movement consistent between tmux and vim is a game changer. Could not computer without it
+
+01:00:36
+<transcript>: Maybe later. Yeah. Maybe I did try to use, like, a pre. I should just learn it. Let's just learn it. We got 30 more minutes.
+
+01:00:36
+<transcript>: but
+
+01:00:46
+nexxeln: ah yeah you should stick with the crash course then
+
+01:00:53
+<transcript>: But I might end up coming back to this. I do like, oh, my zsh know my fish. And if this is like that, then sounds nice. But I did end up just feeling like I already knew pretty quickly what I wanted with new event, and I just wanted to roll my own config. So I think let's just start there with.
+
+01:00:53
+<transcript>: tmux
+
+01:00:56
+<transcript>: Tmux. So I'm gonna add these binding keys.
+
+01:01:02
+<transcript>: Style Movement List of Plugins so like right here.
+
+01:01:07
+<transcript>: Split window. I don't already have this. Do I know.
+
+01:01:12
+<transcript>: File fruit. Oh, here we go. Remap split pane. So somebody they started to yeah, okay.
+
+01:01:15
+<transcript>: So.
+
+01:01:17
+<transcript>: Okay.
+
+01:01:17
+<transcript>: thank you for the follow
+
+01:01:20
+<transcript>: Thank you for the followup part time married.
+
+01:01:22
+<transcript>: Yesterday.
+
+01:01:24
+<transcript>: I think.
+
+01:01:27
+<transcript>: Tweaking to get winners.
+
+01:01:34
+<transcript>: Movement. Window movement consistent between P Max and VM is a game changer. Could not compute or without it. Okay.
+
+01:01:34
+<transcript>: madlip
+
+01:01:37
+<transcript>: Madlip. You have further sold me? I was already sold.
+
+01:01:37
+<transcript>: but i'm
+
+01:01:39
+<transcript>: But I'm further sold.
+
+01:01:39
+<transcript>: i'm already
+
+01:01:42
+<transcript>: I'm already sold I can't sold anymore.
+
+01:01:42
+<transcript>: the super
+
+01:01:44
+<transcript>: The super troopers.
+
+01:01:44
+<transcript>: i'm already
+
+01:01:47
+<transcript>: I'm already pulled over can't pull over anymore.
+
+01:01:53
+<transcript>: Okay, we're sticking with the crash course. Next one. But thank you so much. I didn't know this was a thing.
+
+01:01:53
+<transcript>: and i will definitely
+
+01:02:02
+<transcript>: And I will definitely be digging into it over the weekend. Actually, I'm taking on vacation. I'll probably dig into it on vacation. That's the kind of thing I'd want to Google on my phone and read about Tim X.
+
+01:02:02
+<transcript>: okay so we
+
+01:02:04
+cowfacedude99: I move around pane with prefix + c-h c-j c-k c-l because I don't have to release ctrl key
+
+01:02:05
+<transcript>: Okay. So we added these, I'm gonna reload.
+
+01:02:05
+<transcript>: cafe
+
+01:02:07
+<transcript>: Cafes. I'm still with you.
+
+01:02:12
+stroopwafel26: tmux is pretty cool when using alacritty
+
+01:02:13
+<transcript>: I'm reloading we Reloaded so now I can split pains using your method.
+
+01:02:13
+<transcript>: cafe
+
+01:02:23
+<transcript>: Cafe The Cow Face Method I'm A round pain with prefix C H J C A Yep Don't have to release control key.
+
+01:02:27
+<transcript>: So prefix plus CTRL H.
+
+01:02:29
+<transcript>: Okay.
+
+01:02:29
+<transcript>: so i don't
+
+01:02:32
+<transcript>: So I don't have to release control key.
+
+01:02:34
+<transcript>: I see.
+
+01:02:34
+<transcript>: it allow
+
+01:02:46
+<transcript>: It allows you to leave your yeah, it does feel weird to me doing the prefix and then letting off everything and then hitting something that feels weird so that's feels nice. Control H. So if I want to split a window.
+
+01:02:48
+<transcript>: Horizontally.
+
+01:02:48
+<transcript>: i would do
+
+01:02:49
+<transcript>: I would do.
+
+01:02:55
+<transcript>: V wait.
+
+01:02:59
+<transcript>: Hj.
+
+01:02:59
+<transcript>: hjk and
+
+01:03:03
+<transcript>: Hjk and L, I don't see those see.
+
+01:03:06
+<transcript>: Current path.
+
+01:03:07
+cowfacedude99: prefix v
+
+01:03:19
+<transcript>: Oh, there they are. H. L. J. Okay, that's selecting pain. How do I split though I split with I just can't even read these lines and so bad everything.
+
+01:03:19
+<transcript>: split wind
+
+01:03:21
+<transcript>: Split window.
+
+01:03:21
+<transcript>: bind key so
+
+01:03:23
+<transcript>: Bind key so just liter v.
+
+01:03:29
+<transcript>: I like tmux. That's cool.
+
+01:03:29
+<transcript>: okay
+
+01:03:32
+fullstacklive: Remember that the prefix is silent. :D
+
+01:03:36
+<transcript>: Okay. So if I want to select a pain, you're saying I can just do leader, and then there's, like, just do that. Oh, no, that was not it.
+
+01:03:36
+<transcript>: that was
+
+01:03:38
+<transcript>: That was not it. What did I do.
+
+01:03:41
+<transcript>: I just switched.
+
+01:03:41
+<transcript>: windows
+
+01:03:42
+<transcript>: Windows.
+
+01:03:42
+<transcript>: jeez
+
+01:03:51
+<transcript>: Jeez. So the thing that bothers me about two months so far is that we have, like, four containers. There's sessions. They're full of windows, which are full of pains, which are full of it's a lot.
+
+01:03:51
+<transcript>: it's a lot
+
+01:03:54
+<transcript>: It's a lot all at once.
+
+01:03:54
+<transcript>: i still trust
+
+01:03:59
+<transcript>: I still trust you. Calf. A prefix. Prefix V. So what? I ended up here.
+
+01:03:59
+<transcript>: yes
+
+01:04:12
+stroopwafel26: I never use multiple sessions, I use one session called "0" and restore that using aforementioned alias
+
+01:04:13
+<transcript>: Yes, Drupe. That's what I'm thinking. I'm thinking Alacrity or alecry, whatever it is, I'm thinking having Alacrity as like this very simple, single pane. And it doesn't have tabs. And that's a feature kind of leans you into the Team X world, and I like it.
+
+01:04:17
+<transcript>: Prefix is silent.
+
+01:04:17
+<transcript>: what
+
+01:04:20
+<transcript>: What? The prefix is silent.
+
+01:04:20
+<transcript>: what
+
+01:04:25
+<transcript>: What do you mean? Like don't say it. It's always assumed.
+
+01:04:30
+fullstacklive: I meant it's implied in the configuration file.
+
+01:04:35
+<transcript>: I use one session called Zero and restore that using Affirmation alien. That makes sense. I think I don't need multiple sessions. I need one session. Multiple windows.
+
+01:04:35
+<transcript>: and
+
+01:04:43
+<transcript>: And pain. But how do I get back to my previous window? These are called windows, right? I have one and two, and I already forgot how to get to them.
+
+01:04:46
+<transcript>: Not that way.
+
+01:04:46
+<transcript>: leader
+
+01:04:47
+stroopwafel26: prefix 1
+
+01:04:53
+<transcript>: Leader to Nope. I'm already on that one liter one. There we are. Okay, but you said it was in.
+
+01:04:56
+<transcript>: Next and previous.
+
+01:04:57
+<transcript>: Is what you do.
+
+01:04:57
+<transcript>: yeah okay
+
+01:05:00
+<transcript>: Yeah. Okay. Cool.
+
+01:05:00
+<transcript>: cool
+
+01:05:05
+<transcript>: Cool. So we're back here now. I want to do Leader V. You said.
+
+01:05:13
+<transcript>: That was to that was to. Yeah, yeah, that's a split V. But how do I select a pain? I expected.
+
+01:05:15
+<transcript>: Expected.
+
+01:05:15
+<transcript>: a leader
+
+01:05:16
+<transcript>: A leader.
+
+01:05:22
+<transcript>: If I do liter and then control, I have to hold down control.
+
+01:05:26
+<transcript>: Now that's taken me.
+
+01:05:26
+stroopwafel26: @FullStackLive I thought you meant prefix is like fight club
+
+01:05:28
+cowfacedude99: c-a c-h
+
+01:05:29
+stroopwafel26: MaxLOL
+
+01:05:34
+<transcript>: I'm not actually getting the pain. I'm trying to move between pains.
+
+01:05:38
+<transcript>: Control. A control. H.
+
+01:05:38
+<transcript>: i thought you mean
+
+01:05:40
+<transcript>: I thought you meant Prefixes the Fight club.
+
+01:05:40
+<transcript>: i was
+
+01:05:42
+cowfacedude99: or c-a c-j
+
+01:05:43
+<transcript>: I was Lightfight Club. It's silent.
+
+01:05:57
+<transcript>: Oh, you meant it's implied in the configuration file. Thank you. Full Stack Live. Yeah, yeah, I figured that out eventually, that there always is a leader. Assumed. So when I see a key map. Okay, so CA CJ or CACH.
+
+01:05:59
+<transcript>: So if I wanted to go.
+
+01:06:02
+<transcript>: To.
+
+01:06:09
+<transcript>: I'm in this pane. I want to go to this pain. So I would use L right. I would do like CA.
+
+01:06:11
+<transcript>: That's not.
+
+01:06:22
+<transcript>: Let off and then reapply the control I thought you saw you said you could just leave it down.
+
+01:06:26
+cowfacedude99: You released the ctrl key
+
+01:06:27
+<transcript>: Did I did I reload this config.
+
+01:06:31
+<transcript>: Reloaded. I got a strategy.
+
+01:06:31
+<transcript>: control
+
+01:06:33
+<transcript>: Control. A. Control. L.
+
+01:06:36
+<transcript>: ly
+
+01:06:36
+<transcript>: lytt cycling
+
+01:06:41
+<transcript>: Lytt cycling through my oh, do they have a debit remap down here somewhere? I bet they do.
+
+01:06:41
+<transcript>: then style
+
+01:06:43
+<transcript>: Then style through pains.
+
+01:06:48
+<transcript>: Split. So here we have selected twice.
+
+01:06:53
+corfliss: Hey, sorry for kinda ruining the vibe a bit. So I got a relay from someone that some streams ago you said something... not comforting to him. Idk what it is, so I am just relaying.
+
+01:06:53
+<transcript>: And then I bet there's a remap it down here too.
+
+01:06:53
+<transcript>: through windows
+
+01:06:56
+<transcript>: Through windows. Here. Hahaha.
+
+01:06:56
+<transcript>: control agent
+
+01:07:02
+<transcript>: Control. Agent. Control. L. There it is. We remapped it. That's the problem.
+
+01:07:11
+<transcript>: Core Flis. Hey, sorry for kind of room. The vibe a bit, so I got a relay from someone that some streams ago. You said something not comforting to him. Oh, what.
+
+01:07:15
+<transcript>: Corpus. What? As I said something that comforting to someone.
+
+01:07:23
+<transcript>: That is hurting my vibe. I mean in a in a constructive way. Thank you for the feedback. I would love to know what I said.
+
+01:07:33
+<transcript>: Who was it? Can you DM me or something? Got a relay from someone that some streams ago. You said something not comforting to him. I don't know what it is, so I'm just relaying.
+
+01:07:33
+<transcript>: poor
+
+01:07:35
+<transcript>: Poor fly.
+
+01:07:39
+<transcript>: I said something not comforting.
+
+01:07:44
+corfliss: I can DM him.
+
+01:07:47
+mryasser2194: sounds like  troll tbh
+
+01:07:52
+corfliss: Don't worry, you'll be fine.
+
+01:07:52
+andom: ^
+
+01:07:52
+<transcript>: Well, if you want to DM me, I'd love to learn more.
+
+01:07:52
+<transcript>: just like let me know
+
+01:08:00
+<transcript>: Just like, let me know. I don't mean to say things that aren't comforting to people. Now. I opened up your profile thing, and I can't close it.
+
+01:08:00
+<transcript>: okay
+
+01:08:02
+<transcript>: Okay. Feels good.
+
+01:08:03
+cowfacedude99: You might need to remove the vim style stuff.
+
+01:08:05
+<transcript>: Refresh.
+
+01:08:05
+<transcript>: refresh
+
+01:08:08
+<transcript>: Refresh in my chat because I can't see anything now.
+
+01:08:11
+<transcript>: Okay.
+
+01:08:16
+<transcript>: I need to remove the Vim style stuff. Yeah, yeah, I think so.
+
+01:08:18
+<transcript>: I really.
+
+01:08:26
+laytanl_: "from someone", "some streams ago", "said something"
+
+01:08:26
+<transcript>: I think it's just this right. We've just got them south through windows.
+
+01:08:26
+cowfacedude99: that's clashing
+
+01:08:30
+<transcript>: These need to be let's just comment them.
+
+01:08:30
+<transcript>: right
+
+01:08:32
+<transcript>: Right.
+
+01:08:32
+laytanl_: not much to go off
+
+01:08:33
+fullstacklive: Doesn't matter if you release the Ctrl key.
+
+01:08:34
+<transcript>: Let's comment. Those.
+
+01:08:40
+<transcript>: Reload Reloaded. Okay. Now I should be able to do.
+
+01:08:40
+<transcript>: then southrop
+
+01:08:43
+<transcript>: Then southropanes. I can delete this.
+
+01:08:45
+<transcript>: Let's do this a cool way.
+
+01:08:45
+<transcript>: delet
+
+01:08:48
+<transcript>: Delete. Four day Oh.
+
+01:08:48
+<transcript>: what is that
+
+01:08:49
+<transcript>: What is that.
+
+01:08:49
+<transcript>: five
+
+01:08:57
+<transcript>: Five day. Oh, I didn't like that. Actually, that thing popping up in my face. Vince. File through windows.
+
+01:09:06
+<transcript>: That's the thing I just commented. Yeah. Yeah. Okay.
+
+01:09:16
+<transcript>: Reload. Okay. So now should be able to do what? Yeah. I'm in my pain now. Feels good. That feels good. Cuff. I like that approved.
+
+01:09:16
+<transcript>: approve
+
+01:09:17
+<transcript>: Approve.
+
+01:09:24
+<transcript>: Doesn't matter if you release let's see from someone some should have said something yeah like.
+
+01:09:30
+<transcript>: I want to give the benefit of that here. I don't know your Corp list that well, but if I said something offensive.
+
+01:09:30
+<transcript>: i take that
+
+01:09:34
+<transcript>: I take that seriously. I don't want to send let me know.
+
+01:09:39
+<transcript>: Doesn't matter if you release the control key.
+
+01:09:43
+<transcript>: I think the way we have it.
+
+01:09:43
+<transcript>: the way we have
+
+01:09:50
+<transcript>: The way we have it configured. Now, I think we're good on that. I think I know what I had done wrong. I was just remapping it down here.
+
+01:09:53
+<transcript>: Now I don't have a good way to select window. Maybe.
+
+01:09:57
+<transcript>: Or wait already. Yeah. No. Cafe says he just says the bill.
+
+01:09:59
+<transcript>: Just use a builtin which is that.
+
+01:09:59
+<transcript>: yeah
+
+01:10:01
+<transcript>: Yeah.
+
+01:10:03
+cowfacedude99: And that's enough to start you off.
+
+01:10:03
+<transcript>: I can get used to that.
+
+01:10:08
+<transcript>: Okay.
+
+01:10:12
+<transcript>: So here we are we can navigate between pains now.
+
+01:10:15
+<transcript>: Feels good.
+
+01:10:15
+<transcript>: a fascinating
+
+01:10:16
+<transcript>: A fascinating.
+
+01:10:19
+<transcript>: How fast the capacity.
+
+01:10:31
+<transcript>: Enough to start you off. Oh, you did it.
+
+01:10:35
+<transcript>: You did it countless. You gave me the primer. We're good.
+
+01:10:39
+<transcript>: That's enough to start you off now. I just want to make it look better, you know.
+
+01:10:44
+<transcript>: I've got this now I've got pains but I want to fix the theme.
+
+01:10:44
+<transcript>: and we fix
+
+01:10:45
+fullstacklive: I set my tmux and vim to use Ctrl-HJKL without any prefix to switch panes.
+
+01:10:48
+<transcript>: And we fix the theme. Now can I go into the Drakkill. Config and make it not so bad.
+
+01:10:53
+<transcript>: Switch the left smiley icon. That'd be great.
+
+01:10:58
+<transcript>: So I'm just doing these inside.
+
+01:11:06
+parttimemarried: !project
+
+01:11:06
+fossabot: Building a Twitch overlay in Next.JS
+
+01:11:10
+<transcript>: I set my tmux and Vim to use CTRL Hjkl Oh, Yeah.
+
+01:11:10
+<transcript>: so
+
+01:11:11
+madlep: dracula has a bunch of config options for status bar etc, which is cool
+
+01:11:15
+<transcript>: So I gotta fix that. How do I? How do I fix that project command.
+
+01:11:20
+<transcript>: Directly's a bunch of config options your status for etc which is cool.
+
+01:11:22
+<transcript>: Yeah, so.
+
+01:11:22
+<transcript>: it just occurred
+
+01:11:25
+<transcript>: It just occurred to me you can VSplit in vim.
+
+01:11:31
+<transcript>: If you use tmux. Do you stop V splitting in vim? Is that what you do.
+
+01:11:34
+<transcript>: People normal people.
+
+01:11:34
+<transcript>: what do you
+
+01:11:36
+cowfacedude99: @FullStackLive i found that it interfered with some stuff
+
+01:11:37
+<transcript>: What do you do? Do you do both.
+
+01:11:39
+<transcript>: If so, why.
+
+01:11:42
+madlep: why not both?
+
+01:11:49
+<transcript>: Oh, I guess you still have split cuz like it's like a project you have open in vim. You might still want to split that horizontally or vertically.
+
+01:11:49
+<transcript>: i guess
+
+01:11:51
+fullstacklive: No, I split windows in tmux for shells and split buffers in vim for files.
+
+01:11:56
+<transcript>: I guess. But then navigating between those and then navigating between the pains and tmux. It's just like.
+
+01:11:56
+<transcript>: it's a lot
+
+01:11:57
+<transcript>: It's a lot.
+
+01:11:59
+madlep: I have vim in one pane with files and things, then another tmux split running tests/doing git etc
+
+01:12:01
+parttimemarried: Already abandoned Awguess???
+
+01:12:04
+fullstacklive: That's why I set the same keybinds.
+
+01:12:19
+<transcript>: No. I split Windows and tea mucks for shells and split buffers in Vim for files. Yeah, yeah. It occurred to me that there's utility to use both. I get it now. I have them in one pane with files and things, then another team like split running tests and get yeah, Yeah.
+
+01:12:19
+<transcript>: no parttime
+
+01:12:29
+<transcript>: No parttime married. I did not abandon you. Guess we're just learning tmux. I gave Catholics 1 hour to give me a crash course. We are fast approaching that hour and.
+
+01:12:29
+<transcript>: we
+
+01:12:33
+<transcript>: We might already be done. I just kind of want to fix there's just some glaring.
+
+01:12:33
+<transcript>: bad things
+
+01:12:35
+<transcript>: Bad things aesthetic that I can't handle.
+
+01:12:35
+<transcript>: vince
+
+01:12:43
+<transcript>: Vince thy through resizing. So if I'm Resize, I'm going to what's the R stand for.
+
+01:12:44
+<transcript>: Find.
+
+01:12:47
+<transcript>: Eight.
+
+01:12:47
+<transcript>: resize
+
+01:12:54
+<transcript>: Resize pane left. So if I do, what is the R? I don't know what the R is. Leader. Capital H.
+
+01:12:57
+<transcript>: Oh, yeah? Okay.
+
+01:12:57
+<transcript>: i was like
+
+01:13:03
+<transcript>: I was like, Does the army. I can just keep doing it without hitting the leader key again. I bet that's what it means.
+
+01:13:03
+<transcript>: that's
+
+01:13:05
+<transcript>: That's cool. Okay.
+
+01:13:07
+<transcript>: If I'm gonna VSplit.
+
+01:13:11
+<transcript>: Let's do a V slit real quick, so it's just leader v.
+
+01:13:14
+<transcript>: And not control.
+
+01:13:21
+<transcript>: Oh, that's already what I did. How do you kill a pain? How do I kill a pain? I want to delete this pain.
+
+01:13:27
+<transcript>: It's not gonna be what I'm about to click, but I'm gonna do it anyway. Oh, it was not that.
+
+01:13:28
+cowfacedude99: leader x
+
+01:13:30
+fullstacklive: End the shell, Ctrl-D or exit.
+
+01:13:30
+<transcript>: Oh, man.
+
+01:13:31
+zaphoidx: Should be Leader + X
+
+01:13:33
+<transcript>: It's funny.
+
+01:13:36
+<transcript>: Leader X thank you so much.
+
+01:13:36
+<transcript>: zapped
+
+01:13:40
+<transcript>: Zapped. Welcome to Chat. End the shell control, B or exit.
+
+01:13:46
+<transcript>: Leader X calfh says, okay, so I've got a let's just drag this over here.
+
+01:13:48
+cowfacedude99: I forgot about that one.
+
+01:13:52
+<transcript>: Switch places if you will. No, not like that.
+
+01:13:52
+<transcript>: not
+
+01:13:54
+<transcript>: Not like this. Come on, you buy.
+
+01:13:58
+<transcript>: Let's do it you buy have a good day.
+
+01:13:58
+<transcript>: we
+
+01:14:00
+<transcript>: We were doing so good.
+
+01:14:02
+kultiviert: I love the Ozark series Kreygasm
+
+01:14:02
+<transcript>: Well here I think I know how to.
+
+01:14:09
+<transcript>: And then there's windows in my Mac, and there's spaces in my Mac, there's just so many containers.
+
+01:14:09
+<transcript>: if i
+
+01:14:13
+<transcript>: If I ever get to where I can navigate between all these things efficiently.
+
+01:14:13
+<transcript>: i'll be
+
+01:14:14
+<transcript>: I'll be impressed.
+
+01:14:18
+fullstacklive: It's containers all the way down.
+
+01:14:19
+<transcript>: That seems like a lot I have some navigate workspaces.
+
+01:14:23
+madlep: can just exit the shell process too, and it'll close the pane
+
+01:14:24
+<transcript>: Or spaces or whatever the call then my Mac, and then I've got windows.
+
+01:14:29
+<transcript>: And then inside of a window, like inside of my emulator. I could have.
+
+01:14:29
+<transcript>: tmuk se
+
+01:14:35
+cowfacedude99: that's why I am one thing per window LUL
+
+01:14:39
+<transcript>: Tmuk sessions that have windows that have pains that have inverted with pains. V. Splits.
+
+01:14:43
+<transcript>: It's enough to make your brain explode.
+
+01:14:45
+<transcript>: Like it really is.
+
+01:14:48
+<transcript>: Containers. All the way down. That's right.
+
+01:14:55
+<transcript>: Cultivate you love the Ozark series. I'm glad to hear that. Welcome to Chat. I live in the Ozarks, just like that show.
+
+01:15:09
+<transcript>: Now I gotta get back to okay. I want to move this your one thing per window. I love that cafe. I think that's the way to do it. I think it's. I think that's the way to do it cultivirt. Thank you so much for the follow. I appreciate that.
+
+01:15:14
+zaphoidx: There's a bit of a divide where I work on whether to use multiple vim instances in tmux, or vim panes
+
+01:15:18
+madlep: `tmux attach-session` to reconnect
+
+01:15:23
+<transcript>: That's why I'm one thing for window. Yeah. So you don't have a browser and you just have a single thing and then you just, like, slide over to your browser or something. You never cowfac. You never feel like you need to have a browser up and a thing up to see at the same time. You never feel like that.
+
+01:15:27
+cowfacedude99: I took it from prime,
+
+01:15:32
+<transcript>: Attach. Yeah. Mad's up. We're gonna get there. I just want to position this. You buy style, and I think it's no, I think it's this.
+
+01:15:35
+<transcript>: Nope. So if I want to go up to that one.
+
+01:15:38
+<transcript>: Yeah.
+
+01:15:38
+<transcript>: i'm gonna go down to
+
+01:15:40
+<transcript>: I'm gonna go down to this one.
+
+01:15:40
+<transcript>: yep
+
+01:15:44
+<transcript>: Yep. Okay. So that's how I navigate with SKD.
+
+01:15:44
+<transcript>: now
+
+01:15:46
+<transcript>: Now I want to move the pain over there.
+
+01:15:49
+<transcript>: Go, it's not working.
+
+01:15:49
+<transcript>: you
+
+01:15:51
+<transcript>: You buy hates me.
+
+01:15:53
+<transcript>: I can't ever.
+
+01:16:00
+<transcript>: I want you by to do this horizontally or whatever vertically. Not like this.
+
+01:16:00
+<transcript>: not
+
+01:16:04
+<transcript>: Not like this you buy not like this.
+
+01:16:10
+<transcript>: I wanted to open another thing just so that I can let's see.
+
+01:16:15
+<transcript>: Oh, Geez.
+
+01:16:21
+<transcript>: Now fix it, fix it for me.
+
+01:16:27
+<transcript>: I just have to get rid of the browser. Is that what I'm have to do.
+
+01:16:31
+fullstacklive: Bad Yabai, no cookie!
+
+01:16:33
+<transcript>: Come on. You by. I want it right there. I want it. No, it's worse.
+
+01:16:39
+<transcript>: Oh, you buy sometimes you buy just too much for me.
+
+01:16:40
+laytanl_: I don't use tmux for exactly that reason, I am running out of modifier keys lol
+
+01:16:42
+<transcript>: I.
+
+01:16:46
+<transcript>: Got to be like key commands I just haven't learned with you by.
+
+01:16:47
+cowfacedude99: I have my terminal on 0, browser on 1 and other things on rest.
+
+01:16:50
+<transcript>: Bad you buy no cookie.
+
+01:16:59
+<transcript>: Or I work on whether to use multiple vitamins. This is in T, Max or Vim pains.
+
+01:16:59
+<transcript>: you can see
+
+01:17:02
+<transcript>: You can see there could be a lot of debates on over this stuff.
+
+01:17:05
+<transcript>: Running on a modifier keys. Yeah, exactly.
+
+01:17:10
+cedpoilly: defeated by your window manager
+
+01:17:12
+fullstacklive: And that's where we convince Adam to switch to Linux and a proper window manager. LUL
+
+01:17:14
+<transcript>: Terminal on Zero browser on one other thing's on rest. I kind of like that. You said you stole it from prime. I really like it if prime does it.
+
+01:17:14
+<transcript>: why are you doing
+
+01:17:15
+parkour_peter: maybe app with windows window features?
+
+01:17:15
+<transcript>: Why are you doing this.
+
+01:17:15
+<transcript>: the horizontal
+
+01:17:18
+<transcript>: The horizontal, horizontal thing. This is awful.
+
+01:17:18
+<transcript>: why would
+
+01:17:18
+zgredfred1: get browser out of workspace and insert again, may help
+
+01:17:19
+laytanl_: Yabai has a rotate keybind which is great
+
+01:17:20
+<transcript>: Why would anyone want it this way? Let's open another.
+
+01:17:23
+<transcript>: Alacrity.
+
+01:17:31
+<transcript>: 's Now I shouldn't do that. I don't want to. Alacrates. But I'm trying to.
+
+01:17:36
+<transcript>: Fix my window layout. I guess I'm just gonna do this.
+
+01:17:36
+<transcript>: yeah yeah
+
+01:17:37
+<transcript>: Yeah, Yeah.
+
+01:17:40
+<transcript>: And then I can. I can kill this one.
+
+01:17:40
+<transcript>: now go
+
+01:17:42
+<transcript>: Now, go.
+
+01:17:42
+<transcript>: one
+
+01:17:47
+karrbs: The only time I want horizontal stacking is on a vertical monitor
+
+01:17:49
+<transcript>: One. Alacrity. Open. Let's just forget about the browser for men. We don't need a browser, except when I want to configure Dracula. And then I want to see some stuff.
+
+01:17:49
+<transcript>: so
+
+01:17:52
+<transcript>: So tmux.
+
+01:17:52
+laytanl_: hyper - r : yabai -m space --rotate 270
+
+01:17:53
+<transcript>: We're back.
+
+01:17:53
+<transcript>: we're back
+
+01:17:59
+<transcript>: We're back. And what do I want to do here? I want to so navigating pains just learning.
+
+01:17:59
+<transcript>: oh that's
+
+01:18:02
+<transcript>: Oh, that's did not go the direction I expected.
+
+01:18:05
+<transcript>: What.
+
+01:18:07
+<transcript>: Our face. It's Macwood.
+
+01:18:11
+<transcript>: Are the backward.
+
+01:18:14
+<transcript>: Seems so backward to me.
+
+01:18:20
+<transcript>: Select pain H is to the right now. Http to the left.
+
+01:18:23
+<transcript>: Cafes. Do you see this.
+
+01:18:29
+<transcript>: Fixing it. Why do you do that? I need to know why you do that now.
+
+01:18:33
+<transcript>: And so backwards to me.
+
+01:18:36
+<transcript>: Okay, well, I'm making this config my own.
+
+01:18:40
+cowfacedude99: I use 2 panes onvsplit and hsplit
+
+01:18:40
+<transcript>: Didn't notice it when I only had two panes. Now I notice it.
+
+01:18:46
+cowfacedude99: so it doesn't matter for me
+
+01:18:50
+<transcript>: These two pains. Oh, okay. So you only ever use two. So you never notice that you have a bug.
+
+01:18:52
+<transcript>: I'm calling it a bug.
+
+01:18:53
+fullstacklive: I was confused myself when I saw H key with -R and L ke with -L.
+
+01:18:59
+<transcript>: That's where we convince Adam to switch to Linux, and a proper window manager.
+
+01:18:59
+<transcript>: if
+
+01:19:04
+<transcript>: If a Linux could fully take care of my Mac studio or not take care if it could fully.
+
+01:19:09
+<transcript>: Take advantage of my Mac studio and all of the M one.
+
+01:19:09
+<transcript>: max web
+
+01:19:13
+<transcript>: Max web whatever your ultra thing if it could take advantage of all that hardware.
+
+01:19:13
+<transcript>: then i could be
+
+01:19:22
+parkour_peter: windows with wsl2
+
+01:19:29
+<transcript>: Then I could be on board. I don't really think there's anything about Mac OS that I care for. There's nothing macOS specific. One thing I care for is that if I need to install something because I want to use it, that it's easy to find a way to install it. Now I have to like, build from source, like install CMake or whatever.
+
+01:19:31
+<transcript>: Gcc.
+
+01:19:31
+<transcript>: none of that
+
+01:19:33
+cowfacedude99: Your audio stuff might be an issue
+
+01:19:40
+<transcript>: None of that nonsense. I just want to install things. So I do like brew. I guess in that sense that's my speed on computers. I'm not like tinkerer.
+
+01:19:43
+zaphoidx: Yeah but apt etc. is so much better than brew
+
+01:19:44
+cowfacedude99: you get used to building stuff directly
+
+01:19:46
+<transcript>: Defeated by your window manager exactly.
+
+01:19:52
+<transcript>: App with Windows. Window features.
+
+01:19:52
+<transcript>: carbs
+
+01:19:56
+<transcript>: Carbs. Thanks so much for the follow. Also, cultivate. Did I see that cultivity.
+
+01:19:56
+<transcript>: thank
+
+01:19:57
+cedpoilly: @adamelmore it's time to customise your own Linux distro 👀
+
+01:20:02
+zgredfred1: linux vm?
+
+01:20:04
+<transcript>: Thank you for the follow. Five minutes ago. Get browser out of workspace and insert again. Yeah, yeah, good calls. That grid. Welcome to Chat. I appreciate you.
+
+01:20:04
+<transcript>: i think we're hitting
+
+01:20:08
+<transcript>: I think we're hitting our hour Mark. It's about time to AW, guess.
+
+01:20:08
+<transcript>: start time
+
+01:20:10
+nutlesssquirrel: Ricing time? Lets gooo
+
+01:20:11
+<transcript>: Start time as time start building AW guess.
+
+01:20:15
+<transcript>: You buy has a rotate key bind which is great.
+
+01:20:15
+<transcript>: oh maybe
+
+01:20:24
+<transcript>: Oh, maybe that's what I need. I need to look at my I'm gonna do some stuff over my vacation. I'm gonna get way better at computers, and then I'm gonna come back and you're gonna be like, Wow.
+
+01:20:24
+<transcript>: i'm so
+
+01:20:27
+<transcript>: I'm so good at computers.
+
+01:20:27
+<transcript>: carbs
+
+01:20:36
+<transcript>: Carbs. Welcome to Chat. The only time I want horizontal stacking is on a vertical monitor. Exactly. I never want to that split. Whatever that is for is a horizontal split.
+
+01:20:38
+<transcript>: Hyper.
+
+01:20:38
+<transcript>: are
+
+01:20:47
+<transcript>: Are you buy M space rotate 270. Oh Geez latent. What do I do with that? That's the thing I could type in my terminal and hit enter and it would do stuff.
+
+01:21:07
+<transcript>: I used two panes so it doesn't matter. Me. Yeah, yeah. Makes sense. I was confused myself when I saw H key with our Ya. Me too. Windows with WSL two your audio stuff might be an issue. That's true. The Linux audio stuff, but Apt etc. Is so much better than Brew. That makes sense. I guess I've done that in my days of system administration.
+
+01:21:14
+laytanl_: That's the skhd line, you got skhd with yabai right?
+
+01:21:15
+<transcript>: You get used to building stuff directly. Interesting. I don't know about that. It's time to customize your own Linux distro. Oh Gees, stop it.
+
+01:21:15
+<transcript>: okay
+
+01:21:17
+<transcript>: Okay.
+
+01:21:21
+<transcript>: It's a Ricing time. What's ricing.
+
+01:21:28
+laytanl_: just paste it into the skhd config
+
+01:21:32
+<transcript>: Oh, that's the SK. Yeah, I've got SKD. So you're just giving me the line. I think I already even have it in there. I just need to learn the keyboard. There's just so many new key maps to learn. You know, your brain can only hold so much.
+
+01:21:32
+<transcript>: so
+
+01:21:39
+<transcript>: So I know how to do pains. And then somebody told me how I can kill a pain. So, leader X.
+
+01:21:41
+<transcript>: No pain, Yes.
+
+01:21:44
+<transcript>: So it just come, it confirmed.
+
+01:21:52
+<transcript>: Okay, I feel good. I can create pains now. I don't know about sessions or windows. How do I kill windows? Like I don't want that second window.
+
+01:21:52
+<transcript>: get out of here
+
+01:21:55
+<transcript>: Get out of here second window. How do I go back to it.
+
+01:22:04
+<transcript>: Selecting windows was next like that. So here's this window. How do I kill this window? So let me just give me that. And then I can move on to life.
+
+01:22:08
+nutlesssquirrel: I was going off what @cedpoilly suggested. Linux ricing. It's an interesting way of life.
+
+01:22:12
+<transcript>: Yeah late. I think already have the SKD binding for that. I just didn't learn the binding.
+
+01:22:14
+cowfacedude99: same way
+
+01:22:18
+<transcript>: Same way.
+
+01:22:18
+<transcript>: x
+
+01:22:20
+<transcript>: X.
+
+01:22:20
+<transcript>: bill pain
+
+01:22:21
+fullstacklive: The window will close when you end your shell session, just just press Ctrl-d.
+
+01:22:22
+<transcript>: Bill Pain. Yes.
+
+01:22:23
+<transcript>: Okay.
+
+01:22:23
+<transcript>: a window
+
+01:22:24
+madlep: exit
+
+01:22:28
+<transcript>: A window my multiple pains. I don't even want to show windows so I'm only gonna use one window.
+
+01:22:28
+<transcript>: is that true
+
+01:22:29
+<transcript>: Is that true.
+
+01:22:31
+cowfacedude99: killing all panes inside will kill the windew
+
+01:22:39
+<transcript>: One session, one window. Can I just ignore some windows and tmux and just have one of each and then all the pains I want.
+
+01:22:39
+<transcript>: it's okay
+
+01:22:41
+<transcript>: It's okay.
+
+01:22:41
+<transcript>: so a reason
+
+01:22:43
+<transcript>: So a reason that that's a bad idea.
+
+01:22:48
+cowfacedude99: You are going to use more than one window
+
+01:22:49
+<transcript>: That makes sense cafes okay killing all session all pains kills the window.
+
+01:22:54
+<transcript>: Going to use more than one window. Okay, fine.
+
+01:22:54
+<transcript>: i guess
+
+01:23:00
+<transcript>: I guess I just don't like having like a list of things I have. Open this. Let's why I don't like tabs. You know.
+
+01:23:05
+<transcript>: I'd really like to make this look better, because the Dracula thing, it's just bad.
+
+01:23:05
+<transcript>: if i can
+
+01:23:07
+<transcript>: If I can get.
+
+01:23:07
+<transcript>: it and not hate me
+
+01:23:16
+<transcript>: It and not hate me. Oh, my God, I hate you. I hate you. You buy. This is. This is what happened the other day. And then I left you by. I was out.
+
+01:23:16
+fullstacklive: You can name windows, makes it easier to see what's where.
+
+01:23:21
+corfliss: Sorry what did I miss?
+
+01:23:23
+<transcript>: And then I came crawling back. Something about it. I just like opinions, you know? I like something to tell me, what to do.
+
+01:23:23
+<transcript>: and
+
+01:23:24
+<transcript>: And.
+
+01:23:28
+<transcript>: I like that about you by but I don't like this.
+
+01:23:36
+<transcript>: I don't like it. Okay, so I need to rotate. That's what you're telling me. Let's learn it. Let's learn the rotate. Let's.
+
+01:23:38
+<transcript>: Invent.
+
+01:23:40
+<transcript>: Config.
+
+01:23:40
+<transcript>: sk
+
+01:23:42
+<transcript>: Skd.
+
+01:23:50
+<transcript>: Okay. So focus. Warp navigating.
+
+01:23:50
+<transcript>: move folks
+
+01:23:51
+<transcript>: Move, folks.
+
+01:23:54
+<transcript>: Resize windows.
+
+01:23:59
+fullstacklive: Naming windows is <prefix>Comma, at least for me.
+
+01:24:00
+<transcript>: Rotate. Here we go.
+
+01:24:00
+<transcript>: alt
+
+01:24:01
+cowfacedude99: more panes occupy your screen -> so it is better to use more than one window.
+
+01:24:05
+<transcript>: Altr. There's no leader key involved here. I just hit alt R, and it's gonna do that.
+
+01:24:07
+madlep: usual workflow I have is session per "area" (ie one for work, one for config, one for open source or whatever); window per project (ie each source repo from work), then multiple panes per window changed often
+
+01:24:12
+<transcript>: Apparently. There we go. Hey, it worked. Leighton. You saved me.
+
+01:24:23
+<transcript>: What did you miss? Corpolis? You didn't miss much. I'm still just. I'm getting my feet wet here with Tmachs and we're getting ready to start working on AW, guess.
+
+01:24:28
+<transcript>: Name Windows makes it easier to see what's? Where? That makes sense. Okay.
+
+01:24:28
+<transcript>: nam
+
+01:24:31
+<transcript>: Naming Windows is prefix. Comma.
+
+01:24:31
+<transcript>: at least for you
+
+01:24:34
+<transcript>: At least for you. Okay, let's try it.
+
+01:24:35
+<transcript>: Prefix.
+
+01:24:35
+<transcript>: comm
+
+01:24:38
+<transcript>: Comma. Rename window.
+
+01:24:38
+<transcript>: we're gonna call
+
+01:24:39
+<transcript>: We're gonna call this one.
+
+01:24:44
+<transcript>: What's my it's my Team X, config.
+
+01:24:46
+cowfacedude99: and you an zoom in and out of window with prefix z
+
+01:24:48
+<transcript>: Okay, team X can be cool. That feels good.
+
+01:24:50
+<transcript>: We can go over here.
+
+01:24:50
+<transcript>: we can make
+
+01:24:54
+<transcript>: We can make it bigger. What did I say? Resize was.
+
+01:24:54
+<transcript>: a leader
+
+01:24:57
+<transcript>: A leader in them Capital H.
+
+01:25:00
+<transcript>: Yeah. So we can do that. Okay. Cool.
+
+01:25:03
+<transcript>: And then.
+
+01:25:03
+<transcript>: in
+
+01:25:06
+<transcript>: In you buy we can say.
+
+01:25:06
+<transcript>: so if i
+
+01:25:09
+<transcript>: So if I want to.
+
+01:25:11
+<transcript>: Hear I want to Resize windows.
+
+01:25:11
+<transcript>: it's control
+
+01:25:13
+<transcript>: It's control.
+
+01:25:13
+<transcript>: alt
+
+01:25:14
+<transcript>: Alt.
+
+01:25:14
+cowfacedude99: pane*
+
+01:25:16
+<transcript>: Like that.
+
+01:25:24
+<transcript>: So. Okay, there's white cow face is a one thing for window person. And I get it, I get it, I get it.
+
+01:25:31
+<transcript>: Let's fix our Dracula, and then we're gonna move on to AW. Guess stats, bar options enable. So what do I need to do here.
+
+01:25:31
+<transcript>: conf
+
+01:25:35
+laytanl_: You should look at this for yabai too https://user-images.githubusercontent.com/4488655/61372700-23c32e00-a898-11e9-8052-aeb5db9f4e13.png
+
+01:25:39
+<transcript>: Configuration to enable plugins set up the Dracula Plugins option in your Team X Config file. Separate plugin by space.
+
+01:25:39
+<transcript>: the order
+
+01:25:44
+<transcript>: The order that you define the plugins will be the order on the status bar left to right. Okay.
+
+01:25:44
+<transcript>: make
+
+01:25:49
+<transcript>: Make sure that is the bottom. Yeah. Run TMX use the TPM install. Okay.
+
+01:25:52
+<transcript>: For each plugin is possible.
+
+01:25:52
+<transcript>: to customize
+
+01:26:01
+<transcript>: To customize background and foreground colors. Why would I want to do that? It's Dracula. You are the one that sets the colors. I don't want to change them. I just want you to have opinions.
+
+01:26:03
+<transcript>: Come on. People.
+
+01:26:03
+<transcript>: boss me around
+
+01:26:05
+<transcript>: Boss me around.
+
+01:26:10
+laytanl_: It shows regions you can drag a window and what it does, so if you drag a window on the far right of another they will warp like you wanted
+
+01:26:11
+<transcript>: More pains occupy your screen so it is better to use more than one window. Okay, that makes sense.
+
+01:26:29
+<transcript>: Usual workflow I have is session per area, I. E. One for work, one for config, one for open source or whatever. Okay, window per project. Each source repo from work. Okay, then multiple panes per window changed often. Thank you for the follow. Jack. I appreciate that. Follow.
+
+01:26:32
+<transcript>: I'm sure all the.
+
+01:26:32
+<transcript>: feel for it
+
+01:26:34
+<transcript>: Feel for it what I like here with tmucks.
+
+01:26:40
+<transcript>: You Zoom in and out of window with prefix Z. Zoom in and out.
+
+01:26:41
+<transcript>: Prefix.
+
+01:26:49
+<transcript>: Of a pain. How do I Zoom in? So you're saying prefix Z? Oh, I can just like, focus. It.
+
+01:26:52
+<transcript>: Like focus mode like.
+
+01:26:55
+<transcript>: I'm zooming? Oh, Geez, what did I do.
+
+01:27:01
+<transcript>: Okay. That's cool. So if I want to make it the only thing that's how.
+
+01:27:09
+<transcript>: Okay. You should look at this for you. Buy too late in I'm gonna pause on that latent can you remind me some other time.
+
+01:27:11
+cowfacedude99: I call it zooming LUL
+
+01:27:14
+<transcript>: Shows regions you can drag it window to oh, that sounds actually really helpful.
+
+01:27:20
+<transcript>: Okay. I will look at it now. Oh, okay. So that's warping.
+
+01:27:20
+<transcript>: swapping
+
+01:27:21
+<transcript>: Swapping.
+
+01:27:23
+<transcript>: Okay. Okay.
+
+01:27:23
+<transcript>: feels good
+
+01:27:25
+<transcript>: Feels good.
+
+01:27:28
+<transcript>: Let's.
+
+01:27:36
+<transcript>: Fix the Dracula thing. Like I said, gonna fix it.
+
+01:27:41
+<transcript>: Gonna fix Dracula status? Bar options.
+
+01:27:46
+<transcript>: Show Power line.
+
+01:27:48
+<transcript>: So what happens if I turn this up.
+
+01:28:03
+<transcript>: So that's showing the power line with I say false.
+
+01:28:07
+<transcript>: Okay. So now I have nothing at the bottom. There.
+
+01:28:09
+<transcript>: No, I do.
+
+01:28:09
+<transcript>: power line
+
+01:28:14
+<transcript>: Power line. I'm not power line is our line. Symbols.
+
+01:28:21
+<transcript>: Available plugins.
+
+01:28:27
+<transcript>: Set G CPU usage GPU usage Ram usage. So this is how I can set.
+
+01:28:27
+<transcript>: i don't know
+
+01:28:29
+<transcript>: I don't know what power line was.
+
+01:28:29
+<transcript>: you call it zero
+
+01:28:32
+<transcript>: You call it Zeroing. Okay, cool.
+
+01:28:36
+<transcript>: I don't know if that's what it's called. You're saying that's just what you call it.
+
+01:28:39
+<transcript>: Dracula plugins.
+
+01:28:45
+<transcript>: It says this actually going to do something.
+
+01:28:47
+<transcript>: Let's Zoom in.
+
+01:28:53
+<transcript>: Dracula Plugins if you use a GPU usage Ram usage. Okay.
+
+01:28:57
+<transcript>: Now that should be different.
+
+01:28:57
+<transcript>: it is not
+
+01:28:58
+<transcript>: It is not.
+
+01:28:58
+<transcript>: unless
+
+01:29:06
+<transcript>: Unless the left side is always the same. And then that's. Yeah. Cpu GPU. Okay. It is right. Yeah. Yeah. That works. Gpu unknown.
+
+01:29:06
+<transcript>: so here's
+
+01:29:10
+<transcript>: So here's the available plugins battery, CPU usage, git.
+
+01:29:18
+<transcript>: Gpu usage Ram usage Network Do I need Git? I feel like I already have Git on my vim.
+
+01:29:23
+<transcript>: Maybe I don't let's see what get looks like.
+
+01:29:29
+<transcript>: This for sure.
+
+01:29:32
+therhodiumman: how do you fine text in vim ?
+
+01:29:34
+<transcript>: Let's do get.
+
+01:29:34
+<transcript>: and then
+
+01:29:37
+<transcript>: And then not Gpusage, no.
+
+01:29:42
+<transcript>: Not Ram usage so get.
+
+01:29:47
+<transcript>: Weather. I can't like the weather.
+
+01:29:47
+<transcript>: and time sure
+
+01:29:48
+<transcript>: And Time, sure.
+
+01:29:53
+<transcript>: Not used to the leader, the control a thing.
+
+01:29:56
+<transcript>: They'll hit me a little funny.
+
+01:29:56
+<transcript>: okay so
+
+01:30:14
+<transcript>: Okay, so we got weather in time. Sure. Git is nothing because there's no get on this. Okay, that's fine. Okay. I really I need to pee. I'm gonna make some dandy blend when I come back, we're gonna forget about Dracula. We're just gonna get back to it. Aw. Guess when I come back, we've learned enough T Max to be dangerous.
+
+01:30:17
+<transcript>: I will be back.
+
+01:30:35
+stroopwafel26: Just as I get back, a break lol
+
+01:42:01
+pahuho_: this camera angle looks like an unsplash photo LUL
+
+01:43:00
+jaystation3x: now even moreso
+
+01:43:04
+laytanl_: So that is tea?
+
+01:43:09
+laytanl_: It foams
+
+01:43:16
+<transcript>: It foams. It is. It's just like coffee without the caffeine.
+
+01:43:16
+<transcript>: i guess i
+
+01:43:20
+<transcript>: I guess I could doing decaf, but.
+
+01:43:20
+<transcript>: it's
+
+01:43:21
+<transcript>: It's tea.
+
+01:43:21
+<transcript>: it's
+
+01:43:28
+<transcript>: It's called Dandy Blend. Let's see, how do you find text invent.
+
+01:43:28
+<transcript>: flash
+
+01:43:29
+<transcript>: Flash.
+
+01:43:35
+<transcript>: Stroop. I'm sorry you got back just in time for break.
+
+01:43:38
+<transcript>: It looks like an unslash shutter.
+
+01:43:41
+<transcript>: J if you've been here lurking Jay.
+
+01:43:41
+<transcript>: you've been here
+
+01:43:43
+<transcript>: You've been here the whole time.
+
+01:43:43
+jaystation3x: Or ? to find it backwards.
+
+01:43:54
+jaystation3x: nope; joined in the break.
+
+01:43:58
+corfliss: Coffee? I have that tonight, and it is night. So...
+
+01:43:59
+<transcript>: Or the question Mark, find it backwards. I didn't know that was the thing. J. I just. I just do forward slash, and then I just cycle back through. So I'm like, set, and I just like, Oops, and I would just take.
+
+01:43:59
+<transcript>: in a million
+
+01:44:04
+<transcript>: In a million times until I get to the top. I didn't know you could go backward. Interesting.
+
+01:44:08
+<transcript>: Okay. So we're gonna we're gonna forget about T. Max.
+
+01:44:08
+<transcript>: i'm gonna feel
+
+01:44:14
+jaystation3x: l is the reverse of n too
+
+01:44:15
+<transcript>: I'm gonna feel good that I have tmux now and if I want to split I just do oh, that's so jarring.
+
+01:44:21
+stroopwafel26: no cowface!
+
+01:44:21
+<transcript>: Calf face with a Rick roll? Another Rick roll? Did you just I think you just Rick rolled me.
+
+01:44:21
+<transcript>: wasn't
+
+01:44:23
+<transcript>: Wasn't that long ago.
+
+01:44:26
+<transcript>: You can see I've been watching some Prime.
+
+01:44:26
+<transcript>: some
+
+01:44:28
+<transcript>: Some prime streams.
+
+01:44:32
+<transcript>: I'm sorry. Prime YouTube videos.
+
+01:44:32
+<transcript>: on how
+
+01:44:35
+<transcript>: On how to vim edit.
+
+01:44:35
+cowfacedude99: I haven't in past few days.
+
+01:44:38
+otifex: HeyGuys
+
+01:44:42
+<transcript>: All right, well, this will listen this for a second. You haven't the past few days, okay.
+
+01:44:42
+otifex: we tmuxing already?
+
+01:44:46
+<transcript>: El is the reverse of N two.
+
+01:44:47
+cowfacedude99: check his workflow video.
+
+01:44:49
+<transcript>: That's awesome.
+
+01:44:55
+<transcript>: His workflow video. Okay, I will, I will. Cafe.
+
+01:44:55
+<transcript>: we're team
+
+01:44:58
+jaystation3x: next/last
+
+01:44:59
+stroopwafel26: we tmuxin'!
+
+01:45:02
+<transcript>: We're teamxing our team Huxing already oat effects we've we've had our crash course now we're gonna get on to AW guess.
+
+01:45:02
+<transcript>: the game
+
+01:45:09
+<transcript>: The game where you have to choose, you have to select the right AWS service, given an icon.
+
+01:45:14
+<transcript>: Okay.
+
+01:45:14
+<transcript>: next last
+
+01:45:17
+<transcript>: Next last. That makes sense. That makes sense.
+
+01:45:19
+<transcript>: All right, we're out of here.
+
+01:45:19
+<transcript>: we're out of here
+
+01:45:30
+<transcript>: We're out of here. Rick Roll. I don't know if you've noticed, but there's now something to save up 100,000 points for. And that's a oneonone call with me. Possibly on stream. Jake is to do it all the time. He doesn't have to spend points.
+
+01:45:32
+stroopwafel26: I've been working with AWS for 14 years but I'd be so bad at awguess MaxLOL
+
+01:45:34
+<transcript>: But I've known Jay for like a decade, so.
+
+01:45:38
+<transcript>: I guess that makes sense, doesn't it.
+
+01:45:42
+stroopwafel26: I can never remember the service icons
+
+01:45:46
+<transcript>: Kill this thing. This is what Kitties for Kitty is for shielding.
+
+01:45:46
+<transcript>: my alac
+
+01:45:48
+<transcript>: My alacrity.
+
+01:45:51
+<transcript>: Three Open Chrome.
+
+01:45:56
+<transcript>: I guess I want all the windows back. I guess so.
+
+01:46:00
+<transcript>: I don't need those open.
+
+01:46:03
+<transcript>: I need to move this.
+
+01:46:03
+<transcript>: over here
+
+01:46:05
+<transcript>: Over here. Nope.
+
+01:46:08
+<transcript>: That way. There we go. Okay.
+
+01:46:08
+stroopwafel26: maybe because most don't make any sense
+
+01:46:14
+jaystation3x: AWS is only 5 years old in my brain
+
+01:46:16
+<transcript>: Here we go. Feels good. Okay.
+
+01:46:16
+<transcript>: here we go
+
+01:46:20
+<transcript>: Here we go. T three, stack, T three, stack, everybody.
+
+01:46:22
+<transcript>: Where is it.
+
+01:46:22
+<transcript>: where
+
+01:46:27
+corfliss: Ah yes, many windows, programmer aesthetic of tryharding a feature.
+
+01:46:29
+<transcript>: Where is do I have it running over here? So we had some stuff in iterm. I don't need this stuff anymore.
+
+01:46:29
+<transcript>: get out
+
+01:46:31
+<transcript>: Get out of here. Eye term.
+
+01:46:32
+<transcript>: What was this.
+
+01:46:32
+<transcript>: this is
+
+01:46:35
+<transcript>: This is my Invig get ID.
+
+01:46:38
+<transcript>: We can use tmux now.
+
+01:46:41
+<transcript>: What is this one? This is.
+
+01:46:41
+<transcript>: oh this is
+
+01:46:44
+<transcript>: Oh, this is my planet skill.
+
+01:46:48
+<transcript>: So I'm going to copy this one.
+
+01:46:48
+<transcript>: we're gonna bring
+
+01:46:51
+<transcript>: We're gonna bring it over here to our main.
+
+01:47:00
+<transcript>: Space. Okay, so we're gonna open a new this is probably a new window. Probably worthy of a new window. If I could remember how to create new windows.
+
+01:47:05
+stroopwafel26: prefix c
+
+01:47:07
+<transcript>: Anybody.
+
+01:47:10
+<transcript>: Prefixee.
+
+01:47:13
+<transcript>: New window. Okay.
+
+01:47:18
+<transcript>: If it's committed to rename it, this is going to be.
+
+01:47:18
+<transcript>: p scale
+
+01:47:20
+stroopwafel26: c for create
+
+01:47:20
+<transcript>: P Scale proxy.
+
+01:47:27
+<transcript>: And there it is. Psc Connect Blurt old oh, no, that's when we were gonna build Blurtle.
+
+01:47:27
+<transcript>: secure connections
+
+01:47:30
+<transcript>: Secure connections to database Blurtle, and branch Maine is established.
+
+01:47:30
+<transcript>: okay
+
+01:47:32
+<transcript>: Okay.
+
+01:47:32
+<transcript>: and then
+
+01:47:34
+<transcript>: And then if I want to go back.
+
+01:47:34
+<transcript>: leader
+
+01:47:37
+<transcript>: Leader in cool.
+
+01:47:40
+<transcript>: Okay, so T. Max config. Let's create a new window.
+
+01:47:45
+<transcript>: And this is gonna be we're gonna open Inv.
+
+01:47:47
+<transcript>: Code.
+
+01:47:47
+<transcript>: playground
+
+01:47:48
+<transcript>: Playground.
+
+01:47:48
+<transcript>: aw
+
+01:47:50
+<transcript>: Aw guess.
+
+01:47:58
+<transcript>: Okay. I still. I can't. No, I can't. I can't live with the coloring. I can't live with whatever Team Mucks is doing.
+
+01:48:04
+<transcript>: Let's rename this one to.
+
+01:48:07
+<transcript>: Aw guess.
+
+01:48:11
+<transcript>: And then let's create a new window. Look at me. I'm just going window crazy.
+
+01:48:14
+<transcript>: This one's gonna be.
+
+01:48:14
+<transcript>: we're gonna
+
+01:48:18
+<transcript>: We're gonna run the Dev server. I guess I could.
+
+01:48:18
+<transcript>: i want to actually
+
+01:48:20
+<transcript>: I want to actually run the dead server in a separate way.
+
+01:48:20
+<transcript>: yeah
+
+01:48:22
+<transcript>: Yeah.
+
+01:48:22
+<transcript>: i guess so
+
+01:48:23
+<transcript>: I guess so.
+
+01:48:33
+<transcript>: Dev server these Windows names are probably too long, so this one's gonna be PMPM run Dev.
+
+01:48:36
+<transcript>: Oh, I'm not in the right place.
+
+01:48:37
+stroopwafel26: I had to "set background=dark" in my vimrc to make it play nice with tmux for colors
+
+01:48:39
+<transcript>: Code.
+
+01:48:41
+<transcript>: Playground.
+
+01:48:43
+<transcript>: Aw guess.
+
+01:48:45
+<transcript>: Okay.
+
+01:48:53
+<transcript>: And this set background dark in my VM RC to make it play nice with team X for colors.
+
+01:48:56
+<transcript>: There's not just a way to.
+
+01:49:00
+corfliss: !today
+
+01:49:00
+fossabot: Building a Twitch overlay in Next.JS
+
+01:49:03
+<transcript>: Okay, let's get our T three stack app. There it is. T three SEC. Let's go back here.
+
+01:49:07
+<transcript>: Oh, no, I didn't do it. I thought it would do. I thought.
+
+01:49:14
+<transcript>: Oh, yeah, I did next. Okay. So there's a peace go proxy here's our AW. Guess. Okay.
+
+01:49:14
+<transcript>: i can't live
+
+01:49:17
+<transcript>: I can't live with this tmux.
+
+01:49:21
+<transcript>: No background color or something.
+
+01:49:23
+cowfacedude99: I would recommend to run all things for running stuff inside one window with splits
+
+01:49:24
+<transcript>: Transferring satisfy.
+
+01:49:31
+<transcript>: Background Color on the status left of change.
+
+01:49:31
+<transcript>: on it
+
+01:49:32
+<transcript>: On it.
+
+01:49:34
+<transcript>: Now.
+
+01:49:49
+<transcript>: Like this is definitely not normal, right? I mean, I mean, it's not like my other setup.
+
+01:49:51
+stroopwafel26: it's a vim thing
+
+01:49:57
+<transcript>: Doesn't look like the colors without tmux and that's gonna bother me a lot.
+
+01:49:59
+cowfacedude99: at least that's how I do it
+
+01:50:03
+<transcript>: Like that. Just that it looks Brown.
+
+01:50:03
+<transcript>: it's a vin
+
+01:50:05
+<transcript>: It's a Vin thing.
+
+01:50:08
+<transcript>: Run all things we're running stuff inside one window with splits.
+
+01:50:11
+<transcript>: Okay. I see yourself.
+
+01:50:16
+<transcript>: Corpless. Today is not up to date. Sorry.
+
+01:50:16
+<transcript>: so you're saying
+
+01:50:17
+<transcript>: So you're saying.
+
+01:50:17
+<transcript>: like
+
+01:50:17
+stroopwafel26: background=dark fixes it hehe
+
+01:50:21
+stroopwafel26: no idea for nvim
+
+01:50:22
+<transcript>: Like, AW, guess just do a split in here, so create a new pain.
+
+01:50:28
+<transcript>: I'm gonna have to go over here to see how to create paint again.
+
+01:50:28
+<transcript>: oh yeah it's just
+
+01:50:31
+<transcript>: Oh, yeah? It's just V and H. So.
+
+01:50:34
+<transcript>: I'm gonna get so fast at this someday.
+
+01:50:34
+<transcript>: peace deal
+
+01:50:37
+<transcript>: Peace deal, proxy. I'm gonna kill this one.
+
+01:50:42
+<transcript>: I'm just gonna kill that window, even which is literally X.
+
+01:50:44
+<transcript>: Yes.
+
+01:50:47
+<transcript>: So AW guess.
+
+01:50:47
+<transcript>: this one
+
+01:50:49
+<transcript>: This one is gonna have a new split.
+
+01:50:53
+<transcript>: I'm gonna do horror? Horizontal, vertical, split.
+
+01:51:00
+<transcript>: Smaller and it's gonna be peacecale, proxy.
+
+01:51:06
+<transcript>: And then I'm gonna horizontally split this one.
+
+01:51:10
+<transcript>: I'm gonna do my Dev server, but first.
+
+01:51:10
+<transcript>: over here
+
+01:51:12
+<transcript>: Over here and kill this.
+
+01:51:14
+<transcript>: And.
+
+01:51:17
+<transcript>: Liter X.
+
+01:51:19
+<transcript>: Okay.
+
+01:51:19
+<transcript>: here we are
+
+01:51:20
+<transcript>: Here we are.
+
+01:51:20
+<transcript>: cmd
+
+01:51:27
+<transcript>: Cmdm run death. That's a good call. Good call, conflate calface. We just got splits. I can always Zoom if I want.
+
+01:51:30
+<transcript>: I can just Zoom in on this guy.
+
+01:51:33
+<transcript>: Yeah. Okay. Cool, cool.
+
+01:51:33
+<transcript>: if i
+
+01:51:36
+<transcript>: If I unzoom I've got all that stuff up there.
+
+01:51:36
+<transcript>: that feels good
+
+01:51:39
+<transcript>: That feels good. Pure windows.
+
+01:51:41
+<transcript>: Okay.
+
+01:51:41
+cowfacedude99: I meant run everything inside another window with panes
+
+01:51:42
+otifex: are you setting the terminal colors for tmux? it could be that however not sure I can help more since I don't use the same terminal as you
+
+01:51:44
+<transcript>: So I want to do.
+
+01:51:45
+corfliss: Some basic question: what is the purpose of awguess?
+
+01:51:46
+<transcript>: Aw.
+
+01:51:46
+<transcript>: guess
+
+01:51:50
+<transcript>: Guess why? Is it say three that bothers me? Whatever.
+
+01:51:50
+<transcript>: what
+
+01:51:57
+<transcript>: What is the purpose of AW, guess, yeah. So AW, guess is a game. It's a game for you're gonna be presented by.
+
+01:52:04
+<transcript>: A Tobs service icon and you have to decide. You have to guess which one is which services it.
+
+01:52:12
+<transcript>: Yeah. Cafes. That's what I did, right? Background. Dark. Fixes it.
+
+01:52:12
+<transcript>: so
+
+01:52:15
+<transcript>: So in Vim, I have to say, background, dark.
+
+01:52:15
+<transcript>: are you
+
+01:52:19
+<transcript>: Are you setting the terminal colors for Tmachs? It could be that However.
+
+01:52:19
+<transcript>: not
+
+01:52:23
+<transcript>: Not sure I can help more since I don't use the same terminal as you.
+
+01:52:25
+<transcript>: Tmux.
+
+01:52:27
+<transcript>: Is.
+
+01:52:29
+stroopwafel26: ah in nvim you can do: let g:dracula_colorterm = 1
+
+01:52:33
+<transcript>: Timox.
+
+01:52:34
+stroopwafel26: I think
+
+01:52:37
+<transcript>: Tmux invim background color.
+
+01:52:43
+<transcript>: You can do it. Let Dracula color term equal. One.
+
+01:52:45
+<transcript>: Here we go.
+
+01:52:50
+<transcript>: Yes.
+
+01:52:54
+<transcript>: And some of you gonna tell them how to fix this.
+
+01:53:02
+<transcript>: This is an issue with true color and tmux. It was fixed with TX attached set uption terminal overrides what.
+
+01:53:06
+<transcript>: Is that the answer.
+
+01:53:09
+<transcript>: Default default terminal.
+
+01:53:10
+stroopwafel26: Tc isn't enabled? WHAT?
+
+01:53:11
+<transcript>: Okay.
+
+01:53:16
+<transcript>: I like this better. Something in my config. So let's go.
+
+01:53:18
+<transcript>: Back here.
+
+01:53:21
+stroopwafel26: did you even look at my .tmux.conf :D
+
+01:53:21
+<transcript>: And I'll just do it up here at the top, I guess.
+
+01:53:23
+<transcript>: I'll do here.
+
+01:53:28
+otifex: those color commands is what I have, thought it could be differnt for yours
+
+01:53:29
+<transcript>: Default terminal. I think I was already set up here, wasn't it.
+
+01:53:32
+<transcript>: Okay.
+
+01:53:41
+<transcript>: Delete that one.
+
+01:53:44
+<transcript>: Then delete both of these.
+
+01:53:47
+<transcript>: Okay.
+
+01:53:47
+<transcript>: save it
+
+01:53:49
+<transcript>: Save it, reload it.
+
+01:53:49
+<transcript>: fix it
+
+01:53:51
+<transcript>: Fix it. No.
+
+01:53:53
+<transcript>: No.
+
+01:53:57
+<transcript>: nox maybe
+
+01:53:58
+<transcript>: Nox. Maybe.
+
+01:54:02
+<transcript>: Terminal Overrides Susie.
+
+01:54:03
+stroopwafel26: reopen tmux
+
+01:54:06
+<transcript>: Let's see what let's see what they say.
+
+01:54:06
+<transcript>: or is you'll see the
+
+01:54:08
+<transcript>: Or is you'll see the.
+
+01:54:09
+cowfacedude99: detach and reattach
+
+01:54:11
+<transcript>: Detach.
+
+01:54:14
+<transcript>: Team X list.
+
+01:54:21
+<transcript>: Which one? Was it? Session two. The two windows. How do I kill sessions? I want to.
+
+01:54:23
+<transcript>: Kill those.
+
+01:54:23
+<transcript>: tmax
+
+01:54:26
+<transcript>: Tmax set option Ga terminal overrides.
+
+01:54:33
+<transcript>: Detach and reattach, so just reattach team up. Say you're saying it should be better? No.
+
+01:54:38
+<transcript>: I think I think I should do what these people said. They got 20 hearts.
+
+01:54:43
+<transcript>: So.
+
+01:54:48
+alpha_man_47: !distro
+
+01:54:48
+<transcript>: I did not. Oh, no. Someone warned me about this.
+
+01:54:48
+<transcript>: is my
+
+01:54:49
+cowfacedude99: or restart vim
+
+01:54:52
+<transcript>: Is my clipboard not gonna work in tmux let's go drive me crazy.
+
+01:54:52
+<transcript>: you start
+
+01:54:53
+stroopwafel26: xterm-256color = life
+
+01:54:54
+<transcript>: You start vim.
+
+01:54:59
+<transcript>: Copy.
+
+01:55:01
+<transcript>: I feel like.
+
+01:55:01
+<transcript>: if i
+
+01:55:04
+<transcript>: If I can't paste.
+
+01:55:06
+<transcript>: I got to fix that.
+
+01:55:06
+<transcript>: like i can't
+
+01:55:09
+<transcript>: Like, I can't paste, and I gotta fix it.
+
+01:55:11
+<transcript>: X term.
+
+01:55:13
+stroopwafel26: set-option -g  default-terminal "xterm-256color" set-option -ga terminal-overrides ",xterm-256color:Tc"
+
+01:55:13
+<transcript>: 256.
+
+01:55:17
+<transcript>: Color TC.
+
+01:55:23
+<transcript>: So maybe close in them.
+
+01:55:30
+<transcript>: That's so bad. What's? Try detached.
+
+01:55:33
+<transcript>: Try.
+
+01:55:33
+<transcript>: set
+
+01:55:35
+<transcript>: Set Option G.
+
+01:55:35
+<transcript>: default
+
+01:55:39
+<transcript>: Default Terminal X Term set option.
+
+01:55:40
+purrplish: I usually have to killall my tmux windows for changes.
+
+01:55:44
+stroopwafel26: did you reload the config in your running session?
+
+01:55:50
+<transcript>: Kill all my T Max windows for changes, okay, how do I kill all I did that earlier? Didn't I kill server, kill all.
+
+01:55:54
+purrplish: killall tmux
+
+01:55:56
+<transcript>: Did you mean like kill and then.
+
+01:55:59
+<transcript>: All tmux.
+
+01:55:59
+<transcript>: still i
+
+01:56:00
+<transcript>: Still I.
+
+01:56:06
+<transcript>: Reload the config I did in my running session. Yes.
+
+01:56:06
+<transcript>: timox
+
+01:56:11
+<transcript>: Timox. Okay, we got a new thing. How that killed all my things, didn't it.
+
+01:56:11
+<transcript>: kill
+
+01:56:13
+<transcript>: Kill all does.
+
+01:56:13
+<transcript>: let's go
+
+01:56:16
+<transcript>: Let's go back. Let's see here.
+
+01:56:17
+stroopwafel26: all of em
+
+01:56:19
+<transcript>: Attached.
+
+01:56:23
+<transcript>: Next list. Okay, too much attach.
+
+01:56:25
+purrplish: yes, all of them
+
+01:56:28
+<transcript>: In them. So we'll open my Tmax finger.
+
+01:56:30
+<transcript>: In them.
+
+01:56:32
+<transcript>: P Max.
+
+01:56:32
+<transcript>: config
+
+01:56:34
+<transcript>: Config colors are still bad.
+
+01:56:37
+<transcript>: Feels bad.
+
+01:56:49
+<transcript>: So here it works. Like I can paste that.
+
+01:56:51
+stroopwafel26: your weather is double
+
+01:57:03
+<transcript>: Color is bad.
+
+01:57:08
+<transcript>: My weather is double. That looks wrong, doesn't it.
+
+01:57:11
+<transcript>: Weather? Oh, that's.
+
+01:57:11
+<transcript>: i miss
+
+01:57:13
+<transcript>: I missed that character up somehow.
+
+01:57:15
+sergioquijano: Oh I have the same exact problem!
+
+01:57:20
+<transcript>: I have no weather.
+
+01:57:27
+<transcript>: Why are the colors bad? Why aren't they better.
+
+01:57:29
+stroopwafel26: then set dracula_colorterm to 1
+
+01:57:34
+<transcript>: I really want to work on AWS, I've only got like an hour left.
+
+01:57:42
+<transcript>: You have to say exact same problem. Sergio, did you fix it.
+
+01:57:42
+<transcript>: dracular color turn
+
+01:57:45
+<transcript>: Dracular color. Turn to one. Where did you see that.
+
+01:57:50
+<transcript>: Stripe. Where did you see that Dracula color term to one.
+
+01:57:53
+sergioquijano: Nope, I couldn't fix it
+
+01:57:56
+otifex: can you try on line 13 to change "screen" to "xterm"?
+
+01:58:02
+<transcript>: Dracula Color term. Can you try on line 13? Change screen to X term.
+
+01:58:04
+sergioquijano: Happens to me when I have more than one tmux session, which is weird
+
+01:58:06
+<transcript>: Yeah.
+
+01:58:06
+<transcript>: i can
+
+01:58:07
+<transcript>: I can.
+
+01:58:09
+<transcript>: I.
+
+01:58:14
+<transcript>: 'll.
+
+01:58:21
+<transcript>: Terminal X term 256 color. Is that it.
+
+01:58:28
+<transcript>: No.
+
+01:58:31
+powa1337: you should open more tabs :P
+
+01:58:38
+<transcript>: Bothers me it bothers me.
+
+01:58:43
+<transcript>: Let's see.
+
+01:58:43
+<transcript>: color
+
+01:58:45
+<transcript>: Color.
+
+01:58:47
+cowfacedude99: quit and restar
+
+01:58:53
+<transcript>: Quit and restart. I should open more tabs.
+
+01:58:55
+<transcript>: In my browser.
+
+01:58:55
+<transcript>: i feel like
+
+01:59:09
+<transcript>: I feel like we haven't changed anything yet. Campus. Have we have more than one team accession? Which is weird. Try on line 13. Nope. Can fix it. So Dracular color term to one. What is that? I can quit and restart. You mean in them? Or you mean Tim X.
+
+01:59:12
+<transcript>: Let's do this.
+
+01:59:12
+<transcript>: let's do
+
+01:59:14
+<transcript>: Let's do exit.
+
+01:59:22
+<transcript>: Kills. Server? Was it kill server.
+
+01:59:26
+<transcript>: Okay.
+
+01:59:26
+<transcript>: restart team
+
+01:59:29
+<transcript>: Restart, team ups.
+
+01:59:30
+<transcript>: In them.
+
+01:59:33
+<transcript>: So bad.
+
+01:59:35
+shindigz11: I think it’s alacritty , try it in iterm
+
+01:59:37
+<transcript>: Mvm team.
+
+01:59:43
+<transcript>: I don't want to use it though.
+
+01:59:49
+<transcript>: I mean, I want to fix it in Alacrity, you know.
+
+01:59:54
+<transcript>: Starting with two forced two. Max. Assumes terminal supports two D. Six colors.
+
+01:59:56
+stroopwafel26: @shindigz11 it's universal
+
+02:00:00
+<transcript>: And vim. I need to do screen. Two T, six color.
+
+02:00:06
+<transcript>: Same problem on the one, two.
+
+02:00:06
+<transcript>: which of these things
+
+02:00:08
+corfliss: Still struggling with transparent tmux?
+
+02:00:09
+<transcript>: Which of these things should I try.
+
+02:00:13
+stroopwafel26: and it's a theme issue
+
+02:00:14
+<transcript>: Set default terminal. We're doing that.
+
+02:00:14
+<transcript>: g def
+
+02:00:19
+<transcript>: G defernal screenshots. And then in my VM. Config. Do I need to do that.
+
+02:00:26
+<transcript>: Still struggling? Yes, corpus with transparent tmux. It's driving me crazy.
+
+02:00:31
+<transcript>: It's a theme issue. It's universal.
+
+02:00:34
+<transcript>: It's a what invent theme issue.
+
+02:00:34
+<transcript>: we
+
+02:00:36
+<transcript>: We can open up my invent.
+
+02:00:39
+<transcript>: Config config in vim.
+
+02:00:44
+<transcript>: Let's see.
+
+02:00:51
+<transcript>: What Team Dracula.
+
+02:00:51
+tinydien: Hello, where can i found your vim config?
+
+02:00:55
+<transcript>: Where can I say big.
+
+02:00:58
+<transcript>: Hub command.
+
+02:01:01
+<transcript>: So in here? Is there something I can set.
+
+02:01:01
+<transcript>: term
+
+02:01:04
+<transcript>: Term equal screen color to the.
+
+02:01:07
+tinydien: !command
+
+02:01:07
+<transcript>: Right.
+
+02:01:14
+adamelmore: !github
+
+02:01:15
+fossabot: Adam's neovim config lives here: https://github.com/adamelmore/nvim
+
+02:01:15
+shindigz11: set -ga terminal-overrides “,alacritty:TC”
+
+02:01:20
+<transcript>: There Tiny Deen. Welcome to Chat as well.
+
+02:01:20
+<transcript>: thank you elias
+
+02:01:23
+<transcript>: Thank you, Elias, for the follow. I appreciate the following.
+
+02:01:28
+<transcript>: So do we see we study do we find the answers.
+
+02:01:28
+<transcript>: ga terminal
+
+02:01:31
+<transcript>: Ga terminal overrides Alacrity. Tc.
+
+02:01:31
+<transcript>: that
+
+02:01:31
+stroopwafel26: I also always set termguicolors in my vimrc
+
+02:01:32
+shindigz11: in tmux
+
+02:01:33
+<transcript>: That works in dig.
+
+02:01:50
+<transcript>: So many kind of answers. I think I need one definitive answer.
+
+02:01:51
+cowfacedude99: try this https://www.reddit.com/r/vim/comments/75zvux/comment/dob453f/
+
+02:01:55
+<transcript>: Them isn't.
+
+02:01:55
+<transcript>: that problem
+
+02:01:57
+<transcript>: That problem them isn't using 256 color.
+
+02:02:07
+<transcript>: Like why is nobody accepted an answer in here? Because they're all mediocre answers.
+
+02:02:09
+<transcript>: Team.
+
+02:02:19
+<transcript>: Yeah, all of these.
+
+02:02:25
+corfliss: Can I help with a resource in Reddit?
+
+02:02:27
+<transcript>: Thanks for the following tiny DN. Try this. Thank you. Cafes.
+
+02:02:29
+<transcript>: Try this.
+
+02:02:32
+<transcript>: Let's see.
+
+02:02:40
+<transcript>: Turns out solve it with MRC.
+
+02:02:47
+<transcript>: So that's all set. Turnal overrides default varides. Okay, let's try this.
+
+02:02:54
+<transcript>: After changing any TMX config, I was creating a new team Excession, but I had just had to kill the server before trying new config.
+
+02:02:57
+<transcript>: Okay.
+
+02:03:07
+<transcript>: But this is in their VM RC. If exists TMX colors and tmux what set term GUI colors that background dark.
+
+02:03:12
+<transcript>: So that was something stupid said. Just set back on dark. I could do that.
+
+02:03:14
+kindrak: this live will be available to watch later? I wanna watch since the beginning to try tmux too
+
+02:03:16
+<transcript>: There a neovem correct way to do that.
+
+02:03:16
+stroopwafel26: I've been giving all these lol
+
+02:03:23
+stroopwafel26: background=dark is the way
+
+02:03:25
+<transcript>: Background equal Dark Is it just an option? Kind of just use them. Opt background Equal dark.
+
+02:03:31
+<transcript>: Can I just do that.
+
+02:03:47
+stroopwafel26: also termguicolors
+
+02:03:50
+corfliss: @KindraK Past broadcast is now stored for 7 days, if the streamer allows it.
+
+02:03:52
+<transcript>: Oh.
+
+02:03:58
+sinamobasheri: THE 📦 BOX
+
+02:03:58
+<transcript>: Feels bad. Feels bad to be messing with this stuff, but I just. I can't handle the color. It's too much for me.
+
+02:04:03
+cowfacedude99: termguicolors is there I think.
+
+02:04:16
+<transcript>: Term. Gui colors, is there. I think.
+
+02:04:21
+<transcript>: The box? What's in the box? Cena. Welcome to chat.
+
+02:04:32
+<transcript>: Yeah, Kendrick, it is. It will be on the VODs.
+
+02:04:37
+<transcript>: Background dark is the way. Also term gooey colors.
+
+02:04:41
+<transcript>: Term gooey colors true.
+
+02:04:44
+<transcript>: So how do I do background, dark.
+
+02:04:55
+<transcript>: Because if I just sit like, here, this is my problem. If I say background dark, that's not that's not gonna work in my new of info, right? I have to like them.
+
+02:04:58
+<transcript>: Like Vin command.
+
+02:04:58
+<transcript>: and go
+
+02:05:01
+<transcript>: And go crazy. Is this it.
+
+02:05:06
+<transcript>: Right there.
+
+02:05:12
+<transcript>: Oh.
+
+02:05:25
+cowfacedude99: you can try it out by :set background=dark
+
+02:05:25
+<transcript>: There's.
+
+02:05:25
+<transcript>: me it both
+
+02:05:29
+<transcript>: Me. It bothers me and I can't not be bothered by it.
+
+02:05:45
+stroopwafel26: nvim is so weird
+
+02:05:50
+<transcript>: Sit back on dark. You can try it out by set background. Dark. Invim is so weird.
+
+02:05:56
+<transcript>: So in them. Let's see. Alacrity.
+
+02:05:56
+<transcript>: in them
+
+02:05:58
+<transcript>: In them.
+
+02:05:58
+<transcript>: tmaps
+
+02:05:59
+corfliss: Do you have any wal?
+
+02:05:59
+<transcript>: Tmaps.
+
+02:05:59
+<transcript>: background
+
+02:06:01
+<transcript>: Background color.
+
+02:06:01
+<transcript>: bad
+
+02:06:02
+<transcript>: Bad.
+
+02:06:09
+<transcript>: Do you have any wall? I'm sorry, Corflas. What's a wall? W Al.
+
+02:06:09
+<transcript>: what it's
+
+02:06:15
+<transcript>: What it's that in correct color rendering using Pmux. Come on, Alacrity, give me something.
+
+02:06:25
+<transcript>: Now what is Echo term.
+
+02:06:29
+<transcript>: On my machine term.
+
+02:06:29
+<transcript>: screen
+
+02:06:33
+<transcript>: Screen to 56 color? Should it be not that.
+
+02:06:33
+corfliss: https://vimawesome.com/plugin/wal-vim This one.
+
+02:06:42
+<transcript>: Oh, hang on. Where's the lacarde config.
+
+02:06:42
+<transcript>: inv
+
+02:06:43
+<transcript>: Inv.
+
+02:06:45
+<transcript>: invig
+
+02:06:46
+<transcript>: Invig.
+
+02:06:46
+<transcript>: alacrity
+
+02:06:50
+<transcript>: Alacrity, yeah, yeah? Check it out. This.
+
+02:06:53
+<transcript>: Should not be this. Maybe.
+
+02:06:53
+<transcript>: screen
+
+02:06:54
+<transcript>: Screen.
+
+02:06:58
+<transcript>: 256 color.
+
+02:06:59
+<transcript>: Maybe.
+
+02:06:59
+<transcript>: that's problem
+
+02:07:01
+<transcript>: That's problem.
+
+02:07:06
+<transcript>: Let's just straight up quid alacrity, and let's open it again.
+
+02:07:09
+<transcript>: Okay. Here we go.
+
+02:07:13
+<transcript>: Tmax.
+
+02:07:15
+<transcript>: In them.
+
+02:07:19
+<transcript>: The better, it's better.
+
+02:07:22
+<transcript>: Fix it, did it fix it.
+
+02:07:24
+<transcript>: I think it's.
+
+02:07:29
+<transcript>: Open our.
+
+02:07:31
+cowfacedude99: it's different
+
+02:07:32
+<transcript>: No, let's open our Inv.
+
+02:07:35
+<transcript>: invitable
+
+02:07:39
+<transcript>: Invitable it's fixed it's better. We have team.
+
+02:07:42
+<transcript>: And things are better, okay.
+
+02:07:42
+corfliss: Ah yes, I just realized.
+
+02:07:44
+<transcript>: Base.
+
+02:07:49
+<transcript>: In here. I changed something.
+
+02:07:53
+<transcript>: That's.
+
+02:07:53
+<transcript>: okay
+
+02:07:54
+<transcript>: Okay.
+
+02:07:56
+<transcript>: Save.
+
+02:07:59
+<transcript>: Make sure I didn't break it.
+
+02:08:02
+<transcript>: We're good, we're good.
+
+02:08:16
+<transcript>: Cool. So then break anything else that I changed anything else while I was in a flurry of what was my teammaks big. Did I do anything weird in here? Oh, yeah, I did this stuff. I don't know if I need to do this anymore.
+
+02:08:21
+<transcript>: Let's see if we don't need to do it anymore.
+
+02:08:27
+<transcript>: Kill server.
+
+02:08:29
+<transcript>: Tmux.
+
+02:08:29
+<transcript>: okay
+
+02:08:30
+<transcript>: Okay.
+
+02:08:32
+<transcript>: In vim.
+
+02:08:35
+<transcript>: Oh, I did need that. Okay.
+
+02:08:37
+<transcript>: Good to know.
+
+02:08:42
+carlosgn: Hi!
+
+02:08:42
+<transcript>: Back there we go. I'm back.
+
+02:08:46
+<transcript>: Cool. Well, now you know, the more you know.
+
+02:08:47
+stroopwafel26: Yeah you definitly need to tell tmux to use TrueColor :P
+
+02:08:57
+<transcript>: I'm going to have to kill them again.
+
+02:09:03
+<transcript>: So all right, I got much time left.
+
+02:09:08
+<transcript>: Not much time left for.
+
+02:09:08
+<transcript>: my
+
+02:09:10
+<transcript>: My lacarde. Cool. Okay.
+
+02:09:16
+<transcript>: Let's talk, let's talk.
+
+02:09:24
+<transcript>: All right.
+
+02:09:30
+<transcript>: We figured it out. We got the color thing fix. I have exactly.
+
+02:09:30
+<transcript>: forty
+
+02:09:32
+<transcript>: 48 minutes left.
+
+02:09:32
+<transcript>: and
+
+02:09:36
+<transcript>: And my wife expects me at this sharp.
+
+02:09:36
+<transcript>: eight am my
+
+02:09:41
+<transcript>: 08:00 a.m.. My time, Scogan says. Scogen thank you for following so much.
+
+02:09:50
+<transcript>: So I kind of feel like if I only have.
+
+02:09:53
+<transcript>: 48 minutes left.
+
+02:09:53
+<transcript>: maybe
+
+02:09:57
+<transcript>: Maybe I should just fix Dracula.
+
+02:09:58
+laytanl_: short stream today
+
+02:10:01
+<transcript>: Into Max because it's driving crazy. It's ugly.
+
+02:10:06
+<transcript>: Yeah, it's a short stream. Daylight actually lost a bet with my wife.
+
+02:10:08
+<transcript>: So I can't work today.
+
+02:10:08
+<transcript>: i have to be
+
+02:10:11
+<transcript>: I have to be up there when the boys are up.
+
+02:10:14
+<transcript>: Sometimes that happens.
+
+02:10:16
+<transcript>: On occasion.
+
+02:10:16
+<transcript>: but
+
+02:10:17
+stroopwafel26: lost a bet MaxLOL
+
+02:10:18
+laytanl_: lol
+
+02:10:20
+<transcript>: But Thursday will be a long one. I'll stream till noon. My time. It'll be like a six hour.
+
+02:10:30
+<transcript>: The only thing I can get my wife that she cares about is.
+
+02:10:30
+<transcript>: less time of
+
+02:10:31
+cowfacedude99: !lurk
+
+02:10:35
+<transcript>: Less time of me working so when we bet it's always with my time.
+
+02:10:35
+<transcript>: lurk
+
+02:10:37
+<transcript>: Lurk.
+
+02:10:39
+<transcript>: All right come.
+
+02:10:42
+<transcript>: On I'm going to.
+
+02:10:42
+<transcript>: fix
+
+02:10:53
+<transcript>: Fix my I'm gonna work on tmux a little bit more just because contact switching at this point feels bad. I think that means Thursday. We should build front to back, beginning to end all of AW guess.
+
+02:10:53
+<transcript>: as a reminder
+
+02:10:56
+<transcript>: As a reminder. Because do I want to show up for that.
+
+02:10:56
+<transcript>: aw
+
+02:10:59
+<transcript>: Aw, guess is going to be a.
+
+02:11:01
+<transcript>: Gain.
+
+02:11:01
+<transcript>: multip
+
+02:11:03
+<transcript>: Multiplayer where you log in.
+
+02:11:16
+<transcript>: And you're presenting you in a competitor presented with AWS service Icons, and you have to guess which one it is. Whoever guesses first wins that round. It's like that right. 80 View AW. Guess.
+
+02:11:22
+<transcript>: Cubic. Cuba's Ever heard of forgotten your name. I'm so sorry. Cuba. Cubis.
+
+02:11:26
+<transcript>: Cubis, I think came up with the name.
+
+02:11:31
+<transcript>: And we've just gotten to know each other. Cubas. So if it's not Cuba's, I'm so sorry.
+
+02:11:31
+<transcript>: i did this in a
+
+02:11:36
+<transcript>: I did this in a person too. Like when I meet people so that are remembering names.
+
+02:11:38
+<transcript>: So.
+
+02:11:39
+qubiz: Yes that's it
+
+02:11:42
+karrbs: Sounds like my style of learning aws lol
+
+02:11:45
+karrbs: names are hard
+
+02:11:47
+<transcript>: It's gonna be built with Cuba's. That's it cool. Cuba's came up with the name. We bought all the domains. We're gonna build it.
+
+02:11:47
+<transcript>: yeah
+
+02:11:48
+stroopwafel26: geohot did something like that but with tic tac toe https://github.com/geohot/twitchtactoe
+
+02:11:53
+<transcript>: Yeah, names are hard. That's exactly that carbs. It's gonna be built with T three stack.
+
+02:11:53
+<transcript>: so that's a whole purpose
+
+02:11:57
+<transcript>: So that's a whole purpose. I want to build something new with T three stack just to play with it.
+
+02:11:57
+purrplish: Sounds fun but I will be horrible at it LUL
+
+02:12:06
+<transcript>: So as we're doing on Thursday, that'll be the whole thing. I think we've been barely touched it last train. Like we just kind of like getting familiar with the project structure.
+
+02:12:07
+stroopwafel26: he's using peerjs
+
+02:12:12
+<transcript>: So really, I think Thursday will be like a single session. Build the whole thing front to back.
+
+02:12:18
+<transcript>: Geo Hot did something like that. But with tic Tok toe.
+
+02:12:18
+<transcript>: what is this
+
+02:12:19
+<transcript>: What is this.
+
+02:12:22
+<transcript>: Pure JS.
+
+02:12:25
+<transcript>: Maybe I want to use beer task.
+
+02:12:31
+<transcript>: Lives on IPFS. You find you play? What is this.
+
+02:12:39
+<transcript>: See, you have to wait for a Pier. Oh, cool.
+
+02:12:43
+<transcript>: I'm clicking a user to challenge them.
+
+02:12:43
+<transcript>: i'm
+
+02:12:45
+schrew: Gm!
+
+02:12:47
+<transcript>: I'm playing Tiktik toe. I didn't wasn't.
+
+02:12:49
+<transcript>: I just saw.
+
+02:12:49
+<transcript>: yes
+
+02:12:52
+<transcript>: Yesterday prime stream true. Good morning.
+
+02:12:52
+stroopwafel26: geohot is the dude that jailbroke the iphone first
+
+02:12:57
+stroopwafel26: and the playstation
+
+02:12:57
+<transcript>: I think Prime Yesterday was building Ticto, wasn't he? Was he following this guy.
+
+02:13:00
+<transcript>: Oh, he broke? He jebrook the first iphone? Wow.
+
+02:13:11
+<transcript>: Okay. Cool. Well, this is a good find. Might need to look at that for the pure JS stuff. I'm not sure what you're JS's.
+
+02:13:26
+<transcript>: Well, let's go back. I'm gonna just spit a little more. I'm probably not that fun. I'm really tired of, like doing environmental stuff. Like setting up stuff in my environment. On stream. I just I stream the whole time I'm in my office. So.
+
+02:13:26
+<transcript>: you end up seeing
+
+02:13:28
+<transcript>: You end up seeing stuff.
+
+02:13:28
+<transcript>: but maybe
+
+02:13:29
+stroopwafel26: peerjs is WebRTC
+
+02:13:30
+<transcript>: But maybe it's less than ideal.
+
+02:13:43
+<transcript>: I could stream less. I'm not actually right now. I'm doing four days, so I stop doing Wednesday. You know, I'm not actually close to three days so I can really get started on YouTube. I feel like I'm not really gonna make progress on YouTube or many things if I stream every single day.
+
+02:13:43
+<transcript>: so i might cut out
+
+02:13:44
+<transcript>: So I might cut out.
+
+02:13:46
+corfliss: Ah yes, George Hotz.
+
+02:13:47
+<transcript>: Well, let me ask you this.
+
+02:13:47
+<transcript>: if
+
+02:13:48
+<transcript>: If.
+
+02:13:52
+<transcript>: I only stream three days a week. What day should I cut out.
+
+02:13:52
+<transcript>: i stream
+
+02:14:00
+<transcript>: I stream right now Monday, Tuesday, Thursday, Friday. What day should I not stream if I want to claim another day to get more done.
+
+02:14:04
+<transcript>: I might get more done. I mean like do things that are just not gonna be fun to watch.
+
+02:14:04
+<transcript>: i feel
+
+02:14:07
+schrew: Cutout monday is my preference :)
+
+02:14:08
+<transcript>: I feel like right now I just I put you all through it.
+
+02:14:08
+<transcript>: even if it's
+
+02:14:11
+laytanl_: Monday
+
+02:14:16
+<transcript>: Even if it's not that bad if you want to set up tmux and you cut out Monday, okay, true. That's good to hear Monday. Another Monday. Okay.
+
+02:14:19
+laytanl_: I can't join anyway
+
+02:14:19
+corfliss: Monday
+
+02:14:19
+<transcript>: So Monday is not a great day to watch streams, so I'm gathering.
+
+02:14:23
+<transcript>: I.
+
+02:14:23
+<transcript>: three monday
+
+02:14:25
+<transcript>: Three, Mondays.
+
+02:14:27
+<transcript>: It's unanimous.
+
+02:14:32
+stroopwafel26: I can't join Thursdays hehe
+
+02:14:33
+schrew: might be worth checking stream stats, fwiw
+
+02:14:35
+purrplish: Monday
+
+02:14:36
+<transcript>: Okay. So we might do that soon. I'll probably be here. No, I won't be here next Monday. So I'm on vacation Monday and Tuesday.
+
+02:14:36
+<transcript>: a stroop can't
+
+02:14:39
+<transcript>: A Stroop. Can't join Thursdays. Okay.
+
+02:14:39
+<transcript>: stream
+
+02:14:40
+log1400: Wednesday Thursday Friday
+
+02:14:40
+<transcript>: Stream stats.
+
+02:14:47
+<transcript>: Maybe I'll check streams that so let's that tell me. Log says don't stream Wednesday, Thursday or Friday.
+
+02:14:47
+<transcript>: so just
+
+02:14:49
+<transcript>: So just don't stream basically.
+
+02:14:49
+nexxeln: hihi
+
+02:14:57
+<transcript>: Hi. Hi. Next one. Hey. So next one we because I have a short stream today.
+
+02:14:57
+<transcript>: i'm not actually
+
+02:15:00
+log1400: xd
+
+02:15:03
+<transcript>: I'm not actually gonna work on Thursday. Next one is going to be an all day stream. Well 6 hours is my day.
+
+02:15:13
+log1400: no, i mean, you ask about 3 day
+
+02:15:18
+<transcript>: Building. Aw, guess with P three stack today, we got kind of a late start, and it's a short stream. It's a whole thing I lost about with my wife. I explained a second ago, so we're just gonna mess with my TeamMax configs more, and then I'm gonna be done here in, like, 30 minutes.
+
+02:15:18
+<transcript>: forty minutes
+
+02:15:19
+<transcript>: 40 minutes.
+
+02:15:25
+nexxeln: ohh
+
+02:15:25
+<transcript>: Oh, that's about three days. I got you. Those are the three days you'd want me to stream Wednesday, Thursday, Friday, I gotcha.
+
+02:15:25
+<transcript>: yeah
+
+02:15:28
+<transcript>: Yeah. So next week I'll be out Monday, Tuesday.
+
+02:15:28
+<transcript>: offstream
+
+02:15:32
+<transcript>: Offstream Wednesday, Thursday, Friday. Next week.
+
+02:15:35
+<transcript>: Yeah.
+
+02:15:35
+<transcript>: but then maybe
+
+02:15:48
+<transcript>: But then maybe following the following week, I might start streaming just three days a week, just so I can have more time for YouTube and other things that I want to pursue. Cool. Let's let's mess with this stupid Dracula. I can't believe this is the default.
+
+02:15:48
+<transcript>: except the stupid
+
+02:15:55
+stroopwafel26: what about you stream monday to sunday MaxLOL
+
+02:15:58
+log1400: How was the experience with t3 stack yesterday?
+
+02:15:59
+<transcript>: Except the stupid smiley face in the bottom. It drives me crazy. I mean, I appreciate all the open source work. Thank you so much for making a Dracula theme. Just why? With the with the smiley face. I don't understand.
+
+02:16:04
+<transcript>: Power Lines, symbols.
+
+02:16:06
+<transcript>: Window, flags.
+
+02:16:09
+<transcript>: What are window, flags.
+
+02:16:11
+<transcript>: Refresh rate.
+
+02:16:21
+<transcript>: Okay, switch the left smiley icon. It can accept sessions, smiley, window, or any character. Okay.
+
+02:16:24
+<transcript>: What would session be.
+
+02:16:29
+<transcript>: So.
+
+02:16:32
+nexxeln: i would recommend session
+
+02:16:37
+<transcript>: Let's see.
+
+02:16:37
+nexxeln: that will the name of your session name
+
+02:16:41
+<transcript>: Here's our Dracula Show power line. False.
+
+02:16:41
+<transcript>: get weather
+
+02:16:43
+<transcript>: Get weather time.
+
+02:16:45
+<transcript>: Paste. This.
+
+02:16:45
+<transcript>: session
+
+02:16:46
+<transcript>: Session.
+
+02:16:50
+<transcript>: What is that.
+
+02:16:54
+<transcript>: Zero. So it's just saying the section number that I'm in.
+
+02:16:54
+<transcript>: probably
+
+02:16:59
+<transcript>: Probably always gonna be in session Zero. Let's see what window looks like.
+
+02:17:13
+<transcript>: So just as the name of the current window. But I can, like, see that right there. Right. I kind of don't want to show the available windows that's more my style.
+
+02:17:13
+<transcript>: just
+
+02:17:16
+<transcript>: Just to not take up the space. Can I do that.
+
+02:17:17
+nexxeln: you can also name sessions with meaningful words
+
+02:17:19
+<transcript>: High contrast Pain border.
+
+02:17:22
+<transcript>: Can I move it to the top.
+
+02:17:22
+<transcript>: can i move this whole
+
+02:17:25
+<transcript>: Can I move this whole thing to the top.
+
+02:17:33
+<transcript>: Like you're telling me, the Dracula plugin, this is all just a Dracula plugin. Or this is a different plugin that Dracula is messing with.
+
+02:17:33
+<transcript>: anyone now
+
+02:17:35
+<transcript>: Anyone now.
+
+02:17:37
+<transcript>: Status? Bar.
+
+02:17:50
+stroopwafel26: set-option -g status-position top
+
+02:17:56
+<transcript>: Name of your session. Name also name sessions with meaningful words that make sense.
+
+02:17:59
+<transcript>: Oh, there you go. So, option G status. Position. Top.
+
+02:17:59
+<transcript>: so
+
+02:18:04
+<transcript>: So is the status bar thing, not a plugin. Is that just built in.
+
+02:18:12
+stroopwafel26: it's built-in yeah
+
+02:18:20
+stroopwafel26: dracula theme just adds stuff to it
+
+02:18:22
+<transcript>: Is that a built in thing? Okay.
+
+02:18:33
+<transcript>: So do I want any of these plugins? Do I want the weather in the time, in my thing.
+
+02:18:38
+<transcript>: But I'm gonna have time. I want to be shorter.
+
+02:18:49
+<transcript>: Swap date today month not doing that.
+
+02:18:53
+nexxeln: i just have date time and battery
+
+02:18:56
+<transcript>: Not doing that.
+
+02:19:03
+<transcript>: Okay.
+
+02:19:09
+<transcript>: This is just kind of weird to me. This is kind of a weird plugin.
+
+02:19:12
+<transcript>: I don't think I want.
+
+02:19:12
+<transcript>: the weather
+
+02:19:15
+<transcript>: The weather there's a cool idea.
+
+02:19:17
+<transcript>: Yet why they did it.
+
+02:19:17
+<transcript>: but i'm not
+
+02:19:19
+<transcript>: But I'm not in love with it.
+
+02:19:21
+<transcript>: A lot of people like that. But.
+
+02:19:27
+<transcript>: I'm one of those people. So we have our windows. I kind of don't want to show the available windows, you know.
+
+02:19:32
+<transcript>: Get options.
+
+02:19:48
+<transcript>: You have date time and battery, so I'm on a Max studio so I don't have a battery, but you just have date time.
+
+02:19:48
+<transcript>: that's it
+
+02:19:49
+<transcript>: That's it.
+
+02:19:50
+stroopwafel26: I never liked this plugin, or any plugin, I changed the colors of my default statusbar to loosely match my terminal and I'm fine with that
+
+02:19:53
+<transcript>: Oh, Jime.
+
+02:19:53
+<transcript>: or what
+
+02:19:54
+<transcript>: Or what.
+
+02:19:54
+<transcript>: keep doing
+
+02:19:58
+<transcript>: Keep doing this. I keep accidentally putting Jays places.
+
+02:19:58
+<transcript>: and then finding out
+
+02:19:59
+<transcript>: And then finding out later.
+
+02:20:01
+purrplish: I have date time and server
+
+02:20:06
+corfliss: Your dracula plugins have a typo jime
+
+02:20:06
+<transcript>: No, it's still working. Yeah, I don't know if I need get. I'm being honest.
+
+02:20:11
+<transcript>: Okay. So we're just gonna put the time up there in the top, the date and time.
+
+02:20:14
+nexxeln: yeah ^ the thing i like about oh-my-tmux is tha it doesn't uses any plugins
+
+02:20:16
+<transcript>: Yeah. Thank you. Corpus. Yes, they did.
+
+02:20:20
+<transcript>: Just add stuff to it so I want to let's see tmux.
+
+02:20:24
+<transcript>: I want to.
+
+02:20:26
+<transcript>: Add.
+
+02:20:30
+<transcript>: Bar Don't Show session.
+
+02:20:30
+<transcript>: like i think
+
+02:20:36
+<transcript>: Like, I think it's my style to not have the sessions listed, and I just have to, like, move around in them and find them.
+
+02:20:44
+<transcript>: Satisfiguration.
+
+02:20:52
+<transcript>: Is putting us at the top. Terrible. I'm just so used to the bottom of my thing being.
+
+02:20:55
+<transcript>: Like this.
+
+02:20:55
+<transcript>: whatever
+
+02:20:58
+<transcript>: Whatever this plugin is called in NVM, and then.
+
+02:20:58
+<transcript>: where i type
+
+02:21:03
+<transcript>: Where I type. I'm just used to invent going to the bottom and it feels weird for it not to.
+
+02:21:04
+nexxeln: https://stackoverflow.com/questions/56973600/how-to-hide-window-list-in-tmux-status-bar
+
+02:21:06
+stroopwafel26: set -g window-status-current-format '' set -g window-status-format ''
+
+02:21:08
+<transcript>: Aspect on red.
+
+02:21:12
+<transcript>: Power line.
+
+02:21:14
+stroopwafel26: this hides the windows list
+
+02:21:14
+otifex: sessions aren't displayed, you probably want to look for windows
+
+02:21:16
+<transcript>: But it's Timox Power line.
+
+02:21:22
+<transcript>: Oh, that looks nice.
+
+02:21:26
+<transcript>: Oh current song interesting.
+
+02:21:31
+<transcript>: Oh, there you go. Stroop. Thank you.
+
+02:21:38
+<transcript>: And also next one. Thank you.
+
+02:21:45
+<transcript>: Oh, my team X doesn't use any plugins. Wow.
+
+02:21:51
+<transcript>: So I'll just straight configuring the builtin stuff.
+
+02:22:04
+<transcript>: Can you tell me this.
+
+02:22:23
+<transcript>: Well, I thought it looks like it went away for a second. Still showing. I'm sending Windows Status current format.
+
+02:22:29
+stroopwafel26: Sometimes I feel like I'm missing out by not using all these plugins but I'm very happy with using the defaults and figuring stuff out myself
+
+02:22:46
+<transcript>: Says use session there and I'm gonna trust him that I'm ever gonna create a second session.
+
+02:22:50
+<transcript>: Time. I want to show. Let's see what next.
+
+02:22:50
+<transcript>: one
+
+02:22:52
+<transcript>: One's link. Give me here.
+
+02:23:01
+corfliss: Question: ever heard about LibGDX for Java?
+
+02:23:01
+<transcript>: Max windows from Stats bar. In this case I want to get rid of.
+
+02:23:06
+<transcript>: So this is what this is what you sent me.
+
+02:23:10
+<transcript>: I'll show you.
+
+02:23:21
+stroopwafel26: maybe it's set somewhere else as well
+
+02:23:22
+nexxeln: i think you're using tmux wrong, the most powerfull thing about tmux is returning to wherever you left off
+
+02:23:23
+<transcript>: Well.
+
+02:23:31
+<transcript>: Doesn't seem to be hiding it. Sometimes I feel like I'm missing out by not using all these plugins, and I'm very happy with using the defaults and bring yourself out myself.
+
+02:23:36
+<transcript>: Cordless. I don't know what that is for Java. Now.
+
+02:23:46
+<transcript>: Maybe it says somewhere else as well. Oh, maybe I'm using tmux wrong. Most Papa thing about tmux is returning to wherever you left off.
+
+02:23:46
+<transcript>: oh
+
+02:23:47
+<transcript>: Oh.
+
+02:23:50
+<transcript>: I'm probably using your own then.
+
+02:23:55
+<transcript>: I guess I've been doing a lot of research.
+
+02:23:55
+<transcript>: changes
+
+02:23:58
+<transcript>: Changes. Have I just not.
+
+02:24:02
+<transcript>: Have it just not gotten there.
+
+02:24:02
+<transcript>: i've not had
+
+02:24:04
+<transcript>: I've not had a chance to actually.
+
+02:24:08
+nexxeln: https://www.nexxel.dev/blog/wsl-workflow#persistent-terminal-sessions-with-tmux check this out
+
+02:24:10
+stroopwafel26: exactly
+
+02:24:12
+<transcript>: To come back to a session because I just keep restarting all of team X.
+
+02:24:16
+<transcript>: xistent terminals
+
+02:24:16
+<transcript>: xistent terminals sessions
+
+02:24:17
+<transcript>: Xistent, Terminals, sessions.
+
+02:24:17
+<transcript>: okay
+
+02:24:18
+stroopwafel26: didn't have a chance yet :P
+
+02:24:19
+<transcript>: Okay. Okay.
+
+02:24:27
+stroopwafel26: we're just restarting tmux a lot for config changes now
+
+02:24:28
+<transcript>: Precision Terminal session with T. Max Terminal Mark blue.
+
+02:24:39
+<transcript>: Go to my website's workspace subtype website and I'm there.
+
+02:24:46
+purrplish: my current tmux session has been running for 14 days
+
+02:24:47
+<transcript>: Yeah, this does sound great. Just like, keep up everything for a thing I need and not have to reset it all up every single time.
+
+02:24:47
+<transcript>: how does
+
+02:24:50
+<transcript>: How does Typing website take you there? What is that? Shortcut.
+
+02:24:50
+<transcript>: oh it's an alias
+
+02:24:52
+<transcript>: Oh, it's an alias. Here we go.
+
+02:24:52
+<transcript>: that's
+
+02:24:54
+<transcript>: That's cool. Yeah. Good idea.
+
+02:24:59
+<transcript>: That's a great idea. Just like have aliases for all your projects.
+
+02:25:02
+<transcript>: Love it.
+
+02:25:07
+<transcript>: Okay.
+
+02:25:07
+<transcript>: so
+
+02:25:15
+<transcript>: So I think I think I will be attaching to sessions and using it like a normal person once I'm not just restarting it constantly.
+
+02:25:15
+nexxeln: there's also tmuxinator that does this all for you
+
+02:25:19
+<transcript>: My current team exception has been running for 14 days.
+
+02:25:26
+<transcript>: Team Xinator does all this for you. Oh like it does the aliases and stuff.
+
+02:25:32
+<transcript>: So windows status current format did not work. We got to restart.
+
+02:25:36
+<transcript>: About the restart. Let's restart again.
+
+02:25:44
+stroopwafel26: shouldn't have to restart for that
+
+02:25:46
+<transcript>: Kill server. I know this is not how I should use it, but we're trying to figure out. Okay, fish. Now it still shows. Yeah, still shows. The windows.
+
+02:25:52
+<transcript>: Yeah, I still haven't worked out in my brain. How.
+
+02:25:56
+<transcript>: How I'm gonna use tmux in terms of number of sessions.
+
+02:25:59
+<transcript>: I haven't worked out my.
+
+02:26:04
+<transcript>: List. I worked at my workflow, you know, but I know I could rename.
+
+02:26:08
+<transcript>: I could rename that session. How.
+
+02:26:17
+<transcript>: Do I rename a session.
+
+02:26:27
+stroopwafel26: man tmux
+
+02:26:31
+karrbs: I guess the next step is to use it and make a list of things you would want to change and then what is most important sylessThink
+
+02:26:37
+<transcript>: Man Tim X. Thank you. I'm such a not Linux person.
+
+02:26:40
+stroopwafel26: prefix $
+
+02:26:44
+nexxeln: tmux rename-session -t oldname new name
+
+02:26:48
+<transcript>: Files. Okay.
+
+02:26:56
+<transcript>: Default Key Binding Don't care, don't care, don't care.
+
+02:26:59
+<transcript>: Rename.
+
+02:27:01
+stroopwafel26: you can search in 'man' like vim :P
+
+02:27:08
+<transcript>: Rename session.
+
+02:27:08
+<transcript>: t old name
+
+02:27:11
+<transcript>: T old name new name okay.
+
+02:27:16
+purrplish: I have scripts that create a named session for a project, makes my splits, and opens the directories in the splits the way I like it.
+
+02:27:19
+<transcript>: I guess the next step is to use it and make a list of things you would want to change. And then what is most important? Yeah. It's a great call. Carbs.
+
+02:27:20
+stroopwafel26: prefix $ renames the current session
+
+02:27:20
+karrbs: I use linux but I am not a terminal editor user
+
+02:27:24
+<transcript>: I'm just kind of in that early, just like that first.
+
+02:27:32
+<transcript>: Those first moments where, you know, there's things you want to change. There's already things I just kind of want to, like, settle in a little bit.
+
+02:27:40
+<transcript>: Like for instance, I don't want.
+
+02:27:47
+<transcript>: These dice. Format. Zero.
+
+02:28:01
+<transcript>: How about this.
+
+02:28:03
+corfliss: I need to install Arch, with WSL if possible.
+
+02:28:06
+<transcript>: Oh, that got rid of the whole status bar.
+
+02:28:24
+<transcript>: Once the Sasbar. I just thought I could maybe not show.
+
+02:28:26
+<transcript>: You, Max.
+
+02:28:32
+<transcript>: Yeah. Okay.
+
+02:28:43
+nexxeln: i think the dracula plugin is messing with that status bar stuff, thats why you aren't able to disable windows
+
+02:28:45
+<transcript>: So ever satisfy I don't know maybe I just give up on that.
+
+02:28:47
+stroopwafel26: set -g window-status-current-format '' set -g window-status-format ''  this works on my tmux
+
+02:28:48
+<transcript>: Prefix.
+
+02:28:52
+<transcript>: Dollar sign Renames current session session. Oh, that's good to know. Okay.
+
+02:28:52
+<transcript>: so if
+
+02:28:54
+<transcript>: So if I want to rename.
+
+02:28:58
+<transcript>: This is going to be now.
+
+02:28:58
+<transcript>: def
+
+02:29:02
+<transcript>: Default. It's gonna be my default session. I'm just gonna have a default session.
+
+02:29:11
+<transcript>: I've scripted create a name session for a project, make my splits and opens the directories and slits the way I like it.
+
+02:29:14
+<transcript>: Purplish.
+
+02:29:16
+<transcript>: You can search.
+
+02:29:21
+stroopwafel26: @nexxeln yep
+
+02:29:31
+<transcript>: And man like them. Yeah. Yeah. If I figured that out, Stroop, I actually did figured it out all by myself. And then I saw your comment you're dragged to a plugin is messing with that status for stuff. That's why you're that makes sense. That makes sense. Next one.
+
+02:29:31
+<transcript>: said g
+
+02:29:36
+<transcript>: Said G in description. This works for my two X. Yeah, I think it's the Dracula.
+
+02:29:51
+<transcript>: Just try this. We'll try it. T. Max. Dracula.
+
+02:29:53
+<transcript>: Hide.
+
+02:29:58
+<transcript>: Hide my window.
+
+02:29:59
+<transcript>: Name.
+
+02:30:10
+nexxeln: but i think having the windows is helpful
+
+02:30:14
+stroopwafel26: I'm gonna to actual dracula colors but without the plugin in my tmux.conf now brb
+
+02:30:15
+nexxeln: it gets messy real quick
+
+02:30:15
+<transcript>: Window names enable. Window flags.
+
+02:30:18
+<transcript>: Just refresh rate. What are window flags.
+
+02:30:22
+<transcript>: Let's see.
+
+02:30:31
+<transcript>: What's true do.
+
+02:30:39
+<transcript>: It's got like a little star. Like something's changed in it. What's that star mean.
+
+02:30:41
+<transcript>: I don't know.
+
+02:30:43
+<transcript>: Crazy about it.
+
+02:30:51
+<transcript>: So Noing. And then like, I'll save the file and I'll reload, and it won't change.
+
+02:30:52
+stroopwafel26: * is "this is the current one selected"
+
+02:30:56
+<transcript>: The reload sometimes works for certain things, but for lots of things. It does not.
+
+02:31:00
+<transcript>: Or maybe I have to explicitly say false.
+
+02:31:03
+<transcript>: I did it. Okay.
+
+02:31:07
+<transcript>: Good semester real quick gonna.
+
+02:31:13
+<transcript>: Actual Draco colors but without the plugin in my TX Tmax config now BRB.
+
+02:31:21
+<transcript>: Thing. Having the window is helpful. Yeah. Next one. I think it. I think of it like my it's like a Neil. Them.
+
+02:31:21
+<transcript>: if i
+
+02:31:25
+<transcript>: If I open multiple buffers in neovem like.
+
+02:31:25
+<transcript>: forgot
+
+02:31:29
+<transcript>: Forgot I was in this thing. Let's open.
+
+02:31:29
+<transcript>: the
+
+02:31:30
+<transcript>: The.
+
+02:31:35
+<transcript>: Yarn or feature. So if I open like multiple buffers.
+
+02:31:35
+<transcript>: in my neove
+
+02:31:55
+<transcript>: In my neovem. I don't like showing like a buffer line. That's just a stylistic thing for me. I just feel guilty when I have a list of all the things I have open. I wish I could do it in Chrome. I wish I could not have tabs. And just like I have to always open a new thing. Maybe you can turn off tabs. I don't know. This just makes me feel guilty. I see all these tabs. I think. Oh, I should have closed those when I had them open. I only.
+
+02:31:55
+<transcript>: need it for a
+
+02:31:57
+<transcript>: Need it for a short time most of the time.
+
+02:32:05
+nexxeln: use a tab manager
+
+02:32:07
+<transcript>: Yeah. So I kind of like, prefer not displaying those lists of things, but I guess this might be different. Timox is a little more intentional. I'm choosing to create windows for each thing.
+
+02:32:12
+<transcript>: I guess I wish I at least could maybe remove the numbers.
+
+02:32:12
+<transcript>: but i guess those
+
+02:32:16
+<transcript>: But I guess those are also helpful if I have lots of windows so like.
+
+02:32:16
+<transcript>: if i
+
+02:32:19
+<transcript>: If I create a new window and this is gonna be.
+
+02:32:24
+<transcript>: Well, let's see. This one is gonna be.
+
+02:32:26
+karrbs: right click a tab and close all lol
+
+02:32:29
+<transcript>: Let's open up, let's just get my project ready for Thursday, so I'm gonna open up.
+
+02:32:29
+<transcript>: let's go
+
+02:32:31
+laytanl_: Didn't you have an invite for the browser company?
+
+02:32:33
+<transcript>: Let's go to CD yeah. Aw, guess.
+
+02:32:35
+<transcript>: In them.
+
+02:32:38
+<transcript>: I would have my editor.
+
+02:32:38
+<transcript>: or nvm
+
+02:32:40
+<transcript>: Or NVM open. I would have.
+
+02:32:48
+<transcript>: This one will do? Oh, no, no, see, I don't know what I'm gonna use? Oops, I did not mean to split that.
+
+02:32:52
+<transcript>: Yes. So I don't know.
+
+02:32:52
+<transcript>: i'm still not
+
+02:32:55
+<transcript>: I'm still not sold online.
+
+02:32:59
+<transcript>: I just don't know my workflow, and that's part of the problem.
+
+02:33:02
+stroopwafel26: @laytanl_ I do, don't like the browser all that much at this point
+
+02:33:03
+<transcript>: What did I just do? I created a new pain. I didn't even mean to.
+
+02:33:06
+<transcript>: No. I created a new window.
+
+02:33:06
+<transcript>: is that a new window
+
+02:33:07
+<transcript>: Is that a new window.
+
+02:33:09
+<transcript>: Or a pain.
+
+02:33:14
+<transcript>: I think it's a new way I knew I opened a new alacrity. I don't even know what I did.
+
+02:33:16
+<transcript>: What do I do.
+
+02:33:18
+<transcript>: Size of this.
+
+02:33:21
+nexxeln: i got an invite but i don't have mac lmao
+
+02:33:25
+<transcript>: No, that's not. Is that a T mock pain? What is that.
+
+02:33:36
+<transcript>: There must be a T. Max window paint. It's a T Max pane. Okay.
+
+02:33:36
+<transcript>: so conducing
+
+02:33:38
+<transcript>: So conducing.
+
+02:33:43
+<transcript>: Oh, yeah, I do have the browser company. So I have Arc the browser. Arc.
+
+02:33:44
+laytanl_: @stroopwafel26 Oh that's too bad, was looking forward to having better browsers
+
+02:33:49
+<transcript>: Use a Tab Manager, right click a tab and close all.
+
+02:33:52
+<transcript>: Oh, you mean all these? Yeah.
+
+02:33:54
+<transcript>: That's a good call.
+
+02:33:56
+<transcript>: Don't have a Mac.
+
+02:33:56
+<transcript>: i was looking forward to
+
+02:33:58
+<transcript>: I was looking forward to having better browsers.
+
+02:33:58
+<transcript>: yeah yeah
+
+02:34:00
+<transcript>: Yeah, Yeah.
+
+02:34:09
+<transcript>: I played this a little bit Stroop, and I don't know. I don't know if I'm sold or not. There's some ideas about it that I like.
+
+02:34:09
+<transcript>: so i'm gonna close
+
+02:34:10
+<transcript>: So I'm gonna close this pain.
+
+02:34:16
+<transcript>: Yes. So when I created a new pain, how did I do that? I don't even remember anymore.
+
+02:34:16
+<transcript>: i think
+
+02:34:18
+<transcript>: I think it was.
+
+02:34:18
+<transcript>: leader
+
+02:34:19
+<transcript>: Leader.
+
+02:34:25
+<transcript>: Leaders C. Creates a new window, right.
+
+02:34:33
+<transcript>: But then new pains? It's V and H. Right? So control? V? Yeah, that vertical splits.
+
+02:34:33
+<transcript>: okay
+
+02:34:34
+<transcript>: Okay.
+
+02:34:38
+stroopwafel26: there's definitly some UI ideas I really like but it feels like it has an identity crisis
+
+02:34:44
+<transcript>: Let's see. So the difference in windows and panes and what I want to put in the.
+
+02:34:46
+<transcript>: Questions that I have.
+
+02:34:52
+<transcript>: Like show the session. Just be. I think sessions I should do per project. I think that makes sense.
+
+02:35:02
+<transcript>: I think that makes sense. I think per project. So like this session.
+
+02:35:02
+<transcript>: i'm gonna
+
+02:35:09
+<transcript>: I'm gonna do leader I'm gonna rename this session. Eight abuse guest AW, guess.
+
+02:35:09
+<transcript>: this
+
+02:35:11
+<transcript>: This is my AW guest session.
+
+02:35:21
+<transcript>: And I want to detach. I can go back here TeamMax list. I've got a to be guess I could do a new team X. Is that how you do it? Just like that.
+
+02:35:27
+<transcript>: List. Yeah. So now I've got this new one.
+
+02:35:32
+<transcript>: And if I do attach is it just attached to the first one.
+
+02:35:44
+<transcript>: Now I've just got Tmax or just AW guest Pux attach. Okay, so I'm in AW guess I'm gonna do windows.
+
+02:35:44
+<transcript>: and then
+
+02:35:49
+nexxeln: tmux a attaches the to last tmux session you were in
+
+02:35:55
+<transcript>: And then pains. So maybe I'll have, like, an envim window. Okay, hear me out. I've got this invent window. This where I'm gonna work my editing. And then I'm gonna have a window.
+
+02:35:55
+<transcript>: for
+
+02:35:56
+<transcript>: For.
+
+02:35:59
+<transcript>: Maybe like.
+
+02:36:02
+nexxeln: i suck at typing omg
+
+02:36:02
+<transcript>: We'll call this one.
+
+02:36:07
+<transcript>: Processes.
+
+02:36:13
+<transcript>: You might say it attached. Just the last two xssions you were in. Okay, that makes sense.
+
+02:36:22
+<transcript>: That makes sense. I still have, like, processes. Maybe. And I'll split this into some pain. So like, I'll have a pnpm run Dev in here.
+
+02:36:22
+<transcript>: oh
+
+02:36:24
+<transcript>: Oh no CD.
+
+02:36:26
+<transcript>: In it.
+
+02:36:30
+<transcript>: So I'll run down Devin here, and then I'll VSplit.
+
+02:36:34
+<transcript>: All these split.
+
+02:36:34
+<transcript>: and
+
+02:36:36
+<transcript>: And have my.
+
+02:36:36
+<transcript>: p scale
+
+02:36:37
+<transcript>: P scale.
+
+02:36:37
+<transcript>: connect
+
+02:36:46
+<transcript>: Connect. So I'll have this thing running. Maybe all for Azime split to run more stuff or I'll just leave this one open. I got the terminal I can play with.
+
+02:36:49
+stroopwafel26: woosh that tmux dracula plugin runs a shell script every time you open tmux to set options at runtime, this is also probably why it messes with tmux reload for you
+
+02:36:51
+<transcript>: Yeah.
+
+02:36:59
+<transcript>: Okay. So then I want to go back to here. Then maybe I'd have so I have processes. I don't really need another one.
+
+02:37:02
+<transcript>: Okay. So we have Inv.
+
+02:37:06
+<transcript>: inventory
+
+02:37:07
+<transcript>: Inventory.
+
+02:37:15
+<transcript>: This is where I would edit. I would come over here if I need to do terminal things like I want to get status. I'm gonna do all that, right.
+
+02:37:21
+<transcript>: Are you serious? Droop.
+
+02:37:21
+<transcript>: it run
+
+02:37:29
+<transcript>: It runs a shell script every time you open tmucks set options at runtime. This is also probably messes with tmux reload for you.
+
+02:37:29
+<transcript>: so
+
+02:37:33
+stroopwafel26: https://github.com/dracula/tmux/blob/master/scripts/dracula.sh
+
+02:37:34
+<transcript>: So what if we didn't use the Dracula plugin? What if what if.
+
+02:37:34
+<transcript>: regular
+
+02:37:37
+<transcript>: Regular colors. What if we just got the colors.
+
+02:37:45
+<transcript>: We didn't do this stupid plugin. I just don't think it's very good. I feel like the Dracula authors.
+
+02:37:45
+<transcript>: i don't know
+
+02:37:51
+<transcript>: I don't know. Did they sanction this thing? It's on the Dracula Webpage. It's just. I don't know about it.
+
+02:37:51
+<transcript>: not
+
+02:37:58
+<transcript>: Not a fan. I expect a Dracula theme to just change some colors and then get out of the way, you know.
+
+02:37:58
+<transcript>: maybe
+
+02:38:00
+<transcript>: Maybe this is one.
+
+02:38:02
+<transcript>: Let's see.
+
+02:38:08
+karrbs: Some of the dracula themes are bad
+
+02:38:09
+<transcript>: If there's gonna be somebody who's made a minimal one that doesn't touch all these things.
+
+02:38:21
+<transcript>: There's now an official Dracula theme. Is that best, though.
+
+02:38:21
+<transcript>: it's best
+
+02:38:28
+<transcript>: It's best. What's task worker does this thing come with Tag Warrior? And why is it including that just to give me colors.
+
+02:38:32
+<transcript>: Anyone anyone thinks this is good.
+
+02:38:32
+<transcript>: nineteen
+
+02:38:34
+<transcript>: 19 stars.
+
+02:38:34
+<transcript>: two
+
+02:38:36
+<transcript>: Two 90 Forks.
+
+02:38:42
+<transcript>: How can I have that many Forks in that few stars.
+
+02:38:45
+<transcript>: Seems rude.
+
+02:38:48
+backkflipp: Hello
+
+02:38:51
+<transcript>: Top down terminally.
+
+02:38:54
+<transcript>: Zsh.
+
+02:38:56
+<transcript>: Oh my zsh.
+
+02:39:00
+backkflipp: How is everyone_
+
+02:39:03
+purrplish: Big configs are bloated if you just want a basic colored status bar.
+
+02:39:09
+<transcript>: Hey, back flip. We're doing well. We're messing with tmux today. I've just got a short stream.
+
+02:39:13
+<transcript>: Some of the Dracular themes are bad, it turns out.
+
+02:39:15
+<transcript>: Turns out.
+
+02:39:23
+<transcript>: Yeah. I don't want all this. I just want to change the colors to be Dracula colors, you know.
+
+02:39:29
+<transcript>: What am I doing? This thing. I'm looking for Dracula.
+
+02:39:31
+nexxeln: i would just copy over the dracula colours into the config file
+
+02:39:34
+<transcript>: Change you think Jacula.
+
+02:39:41
+<transcript>: Emojs and Dracula Themes let's see.
+
+02:39:45
+<transcript>: They use just the Dracula plugin.
+
+02:39:47
+stroopwafel26: My current statusbar isn't offensive in dracula
+
+02:39:48
+<transcript>: Yeah, yeah, they did.
+
+02:39:50
+<transcript>: Okay.
+
+02:39:56
+<transcript>: I don't love it.
+
+02:39:58
+<transcript>: Don't love it.
+
+02:40:14
+<transcript>: What's riced out mean? Not nearly as riced out as yours.
+
+02:40:14
+<transcript>: is that gen
+
+02:40:19
+<transcript>: Is that Gen Z tank term hang on gin Z rice out.
+
+02:40:25
+backkflipp: Once you start using tmux + neovim on a daily basis you will feel the Master of the Universe.
+
+02:40:26
+<transcript>: Does that terminology from Gin Z.
+
+02:40:26
+nexxeln: like linux ricing
+
+02:40:28
+<transcript>: Maybe not.
+
+02:40:29
+corfliss: Still fixing tmux?
+
+02:40:35
+<transcript>: Like Linux racing.
+
+02:40:35
+<transcript>: oh linux
+
+02:40:37
+<transcript>: Oh, Linux, ricing.
+
+02:40:37
+<transcript>: once you start
+
+02:40:37
+nexxeln: no its old terminology
+
+02:40:42
+<transcript>: Once you start using Tmax plus ne of them on a daily basis, you will feel the Master of the universe.
+
+02:40:42
+<transcript>: i like
+
+02:40:45
+<transcript>: I like doing shrimp. I will feel the math.
+
+02:40:52
+purrplish: No riced has been around forever for tweaking your setup a lot
+
+02:40:53
+<transcript>: Yeah. I want to just copy the Dragon codes into my config file. That's exactly what I want. Next one. How do I do that.
+
+02:40:53
+<transcript>: where are the
+
+02:40:55
+<transcript>: Where are the Jack yellow colors.
+
+02:40:58
+<transcript>: It's old terminology.
+
+02:41:01
+<transcript>: Rice has been around forever for tweaking your setup a lot okay.
+
+02:41:01
+<transcript>: never heard of that
+
+02:41:03
+<transcript>: Never heard of that.
+
+02:41:03
+laytanl_: its like how aesthetic your setup is
+
+02:41:07
+<transcript>: So can I just copy the colors? Too much config.
+
+02:41:11
+<transcript>: How aesthetic your setup is. Okay.
+
+02:41:18
+<transcript>: So many opinions.
+
+02:41:23
+<transcript>: Like, what is all this? Just Dracula, right.
+
+02:41:27
+<transcript>: Wait. Now, this is this person's whole config.
+
+02:41:30
+<transcript>: Facebook Path picker.
+
+02:41:33
+<transcript>: Akula.
+
+02:41:36
+<transcript>: Wait.
+
+02:41:36
+<transcript>: color
+
+02:41:37
+<transcript>: Color.
+
+02:41:41
+<transcript>: Is there Dracula color in this.
+
+02:41:46
+<transcript>: That's going to be everything.
+
+02:41:49
+<transcript>: To see some color Hex codes or something.
+
+02:41:56
+<transcript>: Okay. I'm out of that one. So does this thing list the colors? Maybe.
+
+02:41:56
+<transcript>: let's
+
+02:41:56
+rrittenhouse: I've heard "riced out" back in the day when people were modding their cars with exhausts and whatnot.
+
+02:41:57
+<transcript>: Let's see.
+
+02:41:58
+purrplish: # Dracula Color Pallette   white='#f8f8f2'   gray='#44475a'   dark_gray='#282a36'   light_purple='#bd93f9'   dark_purple='#6272a4'   cyan='#8be9fd'   green='#50fa7b'   orange='#ffb86c'   red='#ff5555'   pink='#ff79c6'   yellow='#f1fa8c'
+
+02:42:20
+<transcript>: Like, could I live with this? I guess. What do I not like about this? I guess we've gotten this down. Okay. If I'm okay with showing those, I don't like that. It runs a shell script every time. Open beat. Like that seems bad.
+
+02:42:29
+<transcript>: But.
+
+02:42:33
+<transcript>: But it does give me the colors.
+
+02:42:33
+<transcript>: we got some
+
+02:42:36
+backkflipp: Why is it bad?
+
+02:42:39
+<transcript>: We got some Dragon colors up here on this bar. Is that the only Tim X thing that's steamed like? Is that the only thing that has colors, even.
+
+02:42:43
+<transcript>: Why is it bad? I don't know. Maybe it's not bad.
+
+02:42:47
+<transcript>: I written. House. Welcome to chat.
+
+02:42:47
+<transcript>: it's nice to see
+
+02:42:49
+<transcript>: It's nice to see a new chatter here.
+
+02:42:50
+stroopwafel26: looks like it yeah, i'm porting it to regular .tmux.conf
+
+02:42:57
+<transcript>: You've heard Rice out back in the day, people were modding their cars with big sauce and whatnot? Okay.
+
+02:42:58
+rrittenhouse: Thanks :)
+
+02:43:03
+<transcript>: Dracula Color palette. White grade. So that's all the colors. But how do I set them.
+
+02:43:12
+<transcript>: Looks like it. Yeah, I'm porting it to regular tmux config. Okay, let me know Stroop when you do that, and I might try out yours.
+
+02:43:12
+<transcript>: might try
+
+02:43:14
+<transcript>: Might try it out.
+
+02:43:20
+backkflipp: Linux is almost basically that, shell scripts running constantly.
+
+02:43:24
+<transcript>: But for now, we'll just keep it. So what? I not know and not like about Timucks. I guess I'm still figuring out my workflow. Nexo VEC. Thanks so much for follow.
+
+02:43:28
+<transcript>: So my let's see that changes.
+
+02:43:31
+<transcript>: Toggles between windows.
+
+02:43:31
+<transcript>: can i also just do
+
+02:43:32
+<transcript>: Can I also just do like.
+
+02:43:32
+<transcript>: that to go
+
+02:43:34
+nexovec: You're welcome!
+
+02:43:35
+<transcript>: That to go to second window? Yeah, Yeah.
+
+02:43:35
+<transcript>: if i create a new
+
+02:43:41
+<transcript>: If I create a new window and then a new window and then a new window I can do like.
+
+02:43:41
+<transcript>: three to go
+
+02:43:42
+<transcript>: Three to go to three.
+
+02:43:42
+<transcript>: one
+
+02:43:44
+<transcript>: One to the one. Okay.
+
+02:43:44
+<transcript>: not to be confused
+
+02:43:48
+<transcript>: Not to be confused with spaces which I can do like that.
+
+02:43:54
+<transcript>: Oh, Geez, so many things there's spaces in my Mac.
+
+02:43:54
+<transcript>: and
+
+02:44:03
+<transcript>: And each space has apps running which are in their own window. If I'm running lacarde that might have TML.
+
+02:44:03
+<transcript>: sessions
+
+02:44:06
+<transcript>: Sessions. Each session might have.
+
+02:44:16
+backkflipp: I use shell scripts for everything, my desktop status bar is running shell scripts every second.
+
+02:44:23
+nexovec: Is there any alternative to tmux?
+
+02:44:23
+purrplish: prefix n is next window for tmux
+
+02:44:24
+tayloreddev: this is why you need a mac studio LUL
+
+02:44:26
+<transcript>: Windows. Each window might have pains. Each pane might have envym, which has V splits and H splits. And, oh, my word, it's enough to make you want to screen. I'm getting anxiety. I'm literally, like, I'm anxious. I'm have to go do some breathing exercises to just get over the containers, all of the things that go all the way down and then.
+
+02:44:26
+<transcript>: trying
+
+02:44:29
+<transcript>: Trying to navigate them all with your keyboard.
+
+02:44:32
+<transcript>: This is why you need a Mac studio. Exactly.
+
+02:44:32
+rrittenhouse: I've used byobu, is that similar?
+
+02:44:37
+<transcript>: Prefix in you. I got that one.
+
+02:44:37
+<transcript>: i was just
+
+02:44:40
+<transcript>: I was just trying to see if the numbers came in handy. Like if I could actually.
+
+02:44:40
+<transcript>: so
+
+02:44:42
+<transcript>: So in and P right.
+
+02:44:45
+rrittenhouse: I think it uses tmux or something. I've not explored this area much.
+
+02:44:46
+<transcript>: I was just trying to figure out what are my options here.
+
+02:44:51
+corfliss: Take a deep breath.
+
+02:44:52
+<transcript>: And the answer is too many. There are too many options. I do like this. So, Timux, I'm sold.
+
+02:44:52
+<transcript>: i'm sold on t
+
+02:44:54
+<transcript>: I'm sold on Tmax.
+
+02:45:00
+<transcript>: I knew I needed to get here. I just didn't know it'd be this soon. But Cafe showed up today, and he said.
+
+02:45:00
+<transcript>: ready
+
+02:45:05
+<transcript>: Ready? I'm ready to just teach you? You're ready? He told me I was ready.
+
+02:45:05
+<transcript>: and then here we
+
+02:45:07
+<transcript>: And then here we are.
+
+02:45:07
+<transcript>: i'm
+
+02:45:08
+backkflipp: Tmux on a mac is essential
+
+02:45:08
+faiataiga: byobu is a wrapper for screen or tmux. so pretty similar
+
+02:45:15
+backkflipp: Yes, you are ready.
+
+02:45:16
+<transcript>: I'm saying he cafes. I if you're a woman. I'm sorry. I'm sorry. I shouldn't assume your pronouns. I just jumped to conclusions.
+
+02:45:23
+<transcript>: I've used bioboo. Is that similar? I don't know. I don't know what it is.
+
+02:45:27
+<transcript>: It's. There an alternative alternative team ax is that we're talking about.
+
+02:45:30
+<transcript>: So we're talking about.
+
+02:45:35
+<transcript>: Shellips running constantly that makes sense.
+
+02:45:43
+<transcript>: Think it uses too much or something. I'm not explored this area much. Take a deep breath.
+
+02:45:46
+backkflipp: The force is within you.
+
+02:45:51
+<transcript>: Tmux on a Mac is essential. Biobo is a wrapper for screen or tmux, so pretty similar.
+
+02:45:54
+<transcript>: The force is within me.
+
+02:46:07
+<transcript>: Thank you backflip. I think Calface has now gone to into lurk mode. He has taught me all he can teach me. Well, no, he's just he's he or she has given up. I'm teaching me anymore. Today they've decided that was enough.
+
+02:46:13
+<transcript>: So I'm gonna just practice some navigating around in Timuks, and then we're gonna call it here shortly.
+
+02:46:16
+<transcript>: That does that. What did that do.
+
+02:46:25
+andreull: you once told me "thanks man", however I was not offended, even though my preferred pronouns are  emperor/god
+
+02:46:25
+<transcript>: But did that do? Why did I hit L why did I think that would do something that navigate pains. There are no pains in this one. If I go to.
+
+02:46:27
+<transcript>: Two. Then I can.
+
+02:46:27
+<transcript>: no
+
+02:46:28
+<transcript>: No.
+
+02:46:28
+<transcript>: novigate
+
+02:46:30
+corfliss: !lurk to finish some LibGDX project.
+
+02:46:31
+<transcript>: Novigate pains. It's like that. Yeah.
+
+02:46:37
+<transcript>: Okay. So that case me there that takes me there if I'm gonna go down.
+
+02:46:37
+<transcript>: i'm just like
+
+02:46:41
+<transcript>: I'm just like that up, down, up, down.
+
+02:46:46
+<transcript>: Left. Okay, that feels good. I can navigate pains pretty smoothly.
+
+02:46:46
+<transcript>: that
+
+02:46:48
+<transcript>: That all feels good.
+
+02:46:57
+<transcript>: So what? I have multiple panes for my editor? Probably not, but if I want to increase the size of this window.
+
+02:47:00
+<transcript>: Saving it first try.
+
+02:47:02
+<transcript>: No.
+
+02:47:05
+<transcript>: That's gonna flip it over there.
+
+02:47:09
+<transcript>: Why something is conflicting with my.
+
+02:47:14
+<transcript>: New problem.
+
+02:47:16
+<transcript>: Oh, There it is.
+
+02:47:16
+<transcript>: i'm gonna
+
+02:47:21
+<transcript>: I'm gonna Resize my windows with SKD and you buy.
+
+02:47:21
+<transcript>: how i do it
+
+02:47:22
+<transcript>: How I do it.
+
+02:47:28
+<transcript>: Okay if I want to shift over to there my focus over to there.
+
+02:47:34
+<transcript>: I'm toggling through tabs because I.
+
+02:47:34
+<transcript>: browse
+
+02:47:37
+<transcript>: Browser also has tabs.
+
+02:47:45
+<transcript>: At least a tab is as low as it goes in a browser. There are no pains inside of my tabs or Windows or sessions or.
+
+02:47:52
+<transcript>: You once told me thanks man. However, I was not offended even though my preferred pronuns are Emperor and God. Okay, Andre.
+
+02:47:54
+<transcript>: Thank you, God.
+
+02:48:04
+andreull: lmao
+
+02:48:07
+andom: LUL
+
+02:48:09
+<transcript>: Lurk to finish some Lib GDX project. All right, you all don't have to command Lurk. You don't have to. I guess that just does. It does. Let me know. It's nice. Like, I know cow face is lurking now, and it's because he did the lurk.
+
+02:48:09
+<transcript>: command
+
+02:48:10
+<transcript>: Command.
+
+02:48:10
+<transcript>: and
+
+02:48:13
+<transcript>: And I hadn't seen you today. And how you doing.
+
+02:48:17
+<transcript>: What are your preferred pronouns and.
+
+02:48:21
+<transcript>: Would you also like to be called God? It'll get confusing if we have multiple gods here.
+
+02:48:21
+<transcript>: little poly
+
+02:48:23
+<transcript>: Little polytheism.
+
+02:48:25
+<transcript>: Be a little confusing.
+
+02:48:25
+<transcript>: if i say
+
+02:48:31
+<transcript>: If I say, oh, hey, God, what was the Anom? And Andre will be like, Yes.
+
+02:48:31
+<transcript>: can i help
+
+02:48:33
+<transcript>: Can I help.
+
+02:48:36
+<transcript>: You refer to me in my preferred pronoun.
+
+02:48:43
+<transcript>: Okay, let's just call it. We learned enough teammucks today. Feeling good.
+
+02:48:45
+laytanl_: !watching
+
+02:48:50
+laytanl_: !leaving
+
+02:48:51
+<transcript>: I want to thank Mattie Two Shoes for the animation and Kilian for the mini mini animations.
+
+02:48:51
+<transcript>: the mini
+
+02:48:55
+<transcript>: The mini mini animations that we've used that are killing.
+
+02:48:55
+<transcript>: i need to ride
+
+02:48:55
+andom: I did howdy earlier today  been lurking since :D
+
+02:48:58
+<transcript>: I need to ride up a little like we need a command for.
+
+02:49:01
+<transcript>: I'm sorry you did Howdy earlier and.
+
+02:49:05
+<transcript>: I missed it.
+
+02:49:08
+<transcript>: I need to have a command for like.
+
+02:49:08
+<transcript>: transitions
+
+02:49:09
+<transcript>: Transitions.
+
+02:49:09
+<transcript>: like when
+
+02:49:11
+<transcript>: Like when you type.
+
+02:49:13
+adamelmore: !transitions
+
+02:49:13
+<transcript>: Transitions.
+
+02:49:17
+<transcript>: It should tell you how you can contribute.
+
+02:49:17
+<transcript>: your own
+
+02:49:22
+<transcript>: Your own Animations for My Transitions. Transition Animations, if you will.
+
+02:49:31
+<transcript>: Because it's pretty cool. It's open source. And you'll see we credit you if yours is accepted.
+
+02:49:31
+<transcript>: into the
+
+02:49:33
+<transcript>: Into the list.
+
+02:49:33
+<transcript>: of
+
+02:49:36
+laytanl_: doesn't work hehe
+
+02:49:37
+<transcript>: Of animation if we like it which the bar is low.
+
+02:49:37
+<transcript>: if i'm being honest
+
+02:49:41
+nexxeln: !lurk
+
+02:49:46
+schrew: readme finna get some attention cmonBruh
+
+02:49:51
+<transcript>: If I'm being honest, Maddie, I love you, but your animation, I don't know, looks a lot like the default, but you submitted a PR. We will accept it. It will be merged in and you'll get credit every time it's randomly selected.
+
+02:49:55
+<transcript>: Read me, Finna. Get some attention. Yeah, I need to get somebody.
+
+02:49:55
+<transcript>: see
+
+02:50:00
+<transcript>: See the next one. I mean, you can continue lurking. I'm getting ready to say goodbye. Actually.
+
+02:50:12
+nexxeln: i can
+
+02:50:14
+<transcript>: Yeah, I need somebody on my README who can I hire to, like, fix all my READMEs? Just like every project I actually need somebody to go through all my websites that I've published and fixed my Twitter handle because it links to a dead Twitter handle.
+
+02:50:21
+<transcript>: You can next one. I would. I would love. I feel like that's. Like Michael Jordan helping out.
+
+02:50:25
+<transcript>: A child learning how to play basketball, like.
+
+02:50:25
+<transcript>: this feels
+
+02:50:31
+<transcript>: This feels a little like below you, but I would appreciate it a whole lot if you wanted to help.
+
+02:50:31
+<transcript>: the
+
+02:50:34
+<transcript>: The read me to my overlays this one I'm referring to.
+
+02:50:34
+<transcript>: http
+
+02:50:35
+rrittenhouse: LOL
+
+02:50:35
+<transcript>: Http.
+
+02:50:35
+<transcript>: github
+
+02:50:38
+adamelmore: https://github.com/adamelmore/overlays
+
+02:50:39
+<transcript>: Github.com Adam Omor overlays.
+
+02:50:39
+<transcript>: that is
+
+02:50:41
+<transcript>: That is the project.
+
+02:50:41
+<transcript>: and read
+
+02:50:41
+nexxeln: sure
+
+02:50:43
+<transcript>: And README is terrible.
+
+02:50:43
+parttimemarried: !commands
+
+02:50:44
+fossabot: @parttimemarried Channel commands are available at: https://fossabot.com/adamelmore/commands
+
+02:50:47
+<transcript>: Yeah. Now we'll talk about it. Maybe offline.
+
+02:50:47
+<transcript>: don't do a ton of work
+
+02:50:57
+<transcript>: Don't do a ton of work, but if you like immediately see things you can improve and that goes for everyone. I will love your PRS. Maybe there's even one right now. I should check. I haven't even looked.
+
+02:50:57
+<transcript>: it looked
+
+02:50:59
+karrbs: Store your socials in a db table solely for the handles and just have it pull it every time karrbsHaha
+
+02:51:02
+<transcript>: It looked if there's any PRS that I need to get to my balls on.
+
+02:51:02
+<transcript>: i will
+
+02:51:09
+<transcript>: I will most likely if I see your PR. I will do an LG. Tm. Looks good to me. And we will merge it.
+
+02:51:09
+<transcript>: so don't do anything
+
+02:51:12
+<transcript>: So don't do anything malicious. Please, because I don't look that closely.
+
+02:51:23
+nexxeln: can i dm you on discord?
+
+02:51:25
+<transcript>: All right. Thank you so much. Oh, that's a great idea, Carbs. Actually, I was gonna put that into public Dev, like, store all your social metadata in public Dev, and it automatically syncs like you OAuth to each of them, and it just keeps them up to date. I thought about doing that.
+
+02:51:29
+stroopwafel26: I'm done @adamelmore
+
+02:51:31
+adamelmore: !discord
+
+02:51:31
+fossabot: Adam has a Discord server and he'd love to see you there: https://discord.gg/E92M2chd3e
+
+02:51:33
+<transcript>: You can DM me on discord. I would appreciate that very much, Nixon. I would love it. Discord. There you go.
+
+02:51:33
+<transcript>: you're done
+
+02:51:35
+<transcript>: You're done? Stroop.
+
+02:51:35
+<transcript>: send it to me on
+
+02:51:42
+stroopwafel26: I will
+
+02:51:46
+nexxeln: done, ill hyu later
+
+02:51:48
+schrew: See ya!
+
+02:51:51
+<transcript>: Send it to me on Discord Stroop. I am signing off once again. Been a ton of fun that's short stream today. I'm off on Wednesdays, but Thursday all day we're building AW, guess with the T Three stack a bigger time. Looking forward to it. Yeah. Been great. Maybe we could do it again sometime.

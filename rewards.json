@@ -66,5 +66,13 @@
     "cost": 500,
     "id": "7b6849f5-2c56-4379-b3ba-39bce59a21d6",
     "description": "Where it all began..."
+  },
+  {
+    "title": "1-on-1 Call w/ Adam",
+    "type": "meeting",
+    "cost": 100000,
+    "description": "You'll be sent a scheduling link to have a 30-minute, 1-on-1 call with Adam live on Twitch!",
+    "id": "ab76dd31-01ce-4af5-84a5-d8f747c1a415",
+    "prompt": "Email address"
   }
 ]

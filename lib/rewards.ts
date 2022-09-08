@@ -10,6 +10,7 @@ export interface RewardBase {
   cooldown?: number
   enabled?: boolean
   scene?: Scene
+  prompt?: string
 }
 
 export interface GiveawayEntryReward extends RewardBase {
@@ -27,6 +28,14 @@ export interface ShellScriptReward extends RewardBase {
   script: string
 }
 
-export type Reward = SnapFilterReward | ShellScriptReward | GiveawayEntryReward
+export interface MeetingReward extends RewardBase {
+  type: "meeting"
+}
+
+export type Reward =
+  | SnapFilterReward
+  | ShellScriptReward
+  | GiveawayEntryReward
+  | MeetingReward
 
 export const defaultSnapFilterDuration = 5 * 60 * 1000

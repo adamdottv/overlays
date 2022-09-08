@@ -71,12 +71,23 @@ export default class StreamController {
     this.current = `./streams/${today}.txt`
 
     this.twitch.on("new-chat-message", this.handleNewChatMessage.bind(this))
+    this.twitch.on("online", this.handleStreamOnline.bind(this))
+    this.twitch.on("offline", this.handleStreamOffline.bind(this))
+
     this.init()
   }
 
   async init() {
     const info = await this.twitch.getStreamInfo()
     this.streamStartTime = info?.startDate
+  }
+
+  async handleStreamOnline() {
+    await this.init()
+  }
+
+  async handleStreamOffline() {
+    await this.init()
   }
 
   handleNewChatMessage(payload: {
