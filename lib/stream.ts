@@ -22,6 +22,12 @@ export interface GetStreamResponse {
   schedule: ScheduledStream[]
 }
 
+export const songs = [
+  "theme-synth-pop.wav",
+  "theme-piano-stem.wav",
+  "theme-lofi.wav",
+]
+
 export const getStreamInfo = async (
   res: NextApiResponseServerIO
 ): Promise<GetStreamResponse> => {

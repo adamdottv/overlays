@@ -1,0 +1,1309 @@
+
+
+11:45:10
+<transcript>: You.
+
+11:46:59
+<transcript>: Check, check.
+
+11:47:02
+<transcript>: Check.
+
+12:02:49
+<transcript>: You.
+
+12:03:58
+adamdotdev: !topic greeting you all, again, very late-ly
+
+00:03:29
+monciego: present🙋
+
+00:04:11
+daeeyy: nice music
+
+00:07:01
+sargath666: good afternoon @adamdotdev
+
+00:08:14
+sargath666: These town hall mock-ups reminds me our famous "kolejkowo" spot where everything is perfectly reproduced https://kolejkowo.pl/en/gliwice
+
+00:09:42
+yeltrah_: just in time for Adams stream
+
+00:10:36
+andom: Howdy HeyGuys
+
+00:10:43
+theruggedbear: hey everyone !
+
+00:10:57
+<transcript>: Good day, good day. Good day to you all. Who's here? Montego.
+
+00:10:57
+<transcript>: present
+
+00:10:59
+<transcript>: Present hand up.
+
+00:11:02
+<transcript>: Hi DA.
+
+00:11:02
+<transcript>: sargass
+
+00:11:04
+<transcript>: Sargass is here.
+
+00:11:12
+<transcript>: And heart. Gene is here. And the Rugged Bear. Hey, everybody, I'm still sick. I'm sorry I'm late. Because.
+
+00:11:12
+<transcript>: i'm sick
+
+00:11:15
+<transcript>: I'm sick. You might not even know what I'm supposed to start. I don't even know.
+
+00:11:23
+<transcript>: I don't know what anyone knows. I just normally start an hour earlier than this little more than an hour earlier.
+
+00:11:25
+<transcript>: But I've been sleeping a lot.
+
+00:11:25
+<transcript>: because
+
+00:11:27
+<transcript>: Because I'm sick.
+
+00:11:32
+<transcript>: Not looking for Synthesia? I'm just gonna say I'm sick, like 35 times today.
+
+00:11:38
+<transcript>: I'm actually feeling quite a bit better. My hair was a mess.
+
+00:11:38
+<transcript>: i mean
+
+00:11:46
+<transcript>: I mean, like, you know, it's normally a mess. It was such a mess that I'm wearing a hat. That's how big of a mess it was. You can imagine. Thanks for the follow. Really dizzy.
+
+00:11:49
+<transcript>: Or Disse.
+
+00:11:50
+aminunes: Im subed
+
+00:11:51
+<transcript>: Gotta get that X in there.
+
+00:11:53
+<transcript>: See.
+
+00:11:55
+aminunes: subbed now
+
+00:11:56
+<transcript>: Amy is subbed. Hi, there Amy.
+
+00:11:57
+aminunes: yey
+
+00:11:59
+<transcript>: Subbed now.
+
+00:12:01
+<transcript>: He made.
+
+00:12:01
+<transcript>: a gift
+
+00:12:06
+<transcript>: A gift. There was a bit of a gift. Sub competition on the last stream.
+
+00:12:09
+<transcript>: We had some folks.
+
+00:12:09
+<transcript>: trying
+
+00:12:12
+<transcript>: Trying to outdo each other.
+
+00:12:16
+<transcript>: All right, so it's.
+
+00:12:16
+<transcript>: thursday
+
+00:12:19
+<transcript>: Thursday. I've changed some things.
+
+00:12:19
+<transcript>: for instance
+
+00:12:20
+<transcript>: For instance.
+
+00:12:20
+<transcript>: this
+
+00:12:20
+aminunes: Yes i got, i already said thanks to the guy o gived
+
+00:12:23
+<transcript>: This background. You see, it's not real.
+
+00:12:23
+<transcript>: should i
+
+00:12:25
+<transcript>: Should I tell you that.
+
+00:12:25
+<transcript>: shiv
+
+00:12:35
+sargath666: It's pretty normal when males are having 37C during some cold, we're dying every-time xD
+
+00:12:37
+<transcript>: Shivan, I tell you that. I'm just. It's actually all green screen. Now it's so that I can do stuff like this. Like I can pull up stuff behind me. Oh, that's that's kind of creepy, actually. Oh, it's gonna be infinite. Look at this.
+
+00:12:46
+<transcript>: Pretty normal and males are having 37 degrees Celsius during some cold we're dying every time.
+
+00:12:52
+<transcript>: Wait. 37 Degrees Celsius. What is that? Is that a fever.
+
+00:12:52
+<transcript>: that hotter
+
+00:12:55
+<transcript>: That hotter than 98 six.
+
+00:12:57
+<transcript>: Hot hotter than humans should be.
+
+00:13:02
+<transcript>: I only know Fahrenheit. I should do the math. I don't know the math.
+
+00:13:07
+<transcript>: We're gonna play with the camera today.
+
+00:13:07
+<transcript>: we're gonna play
+
+00:13:11
+<transcript>: We're gonna play with. Well, it's the camera that's normally it's like my keyboard. Camera.
+
+00:13:11
+<transcript>: we're gonna put
+
+00:13:13
+<transcript>: We're gonna put it.
+
+00:13:13
+<transcript>: it's on a
+
+00:13:17
+aminunes: 98.6F
+
+00:13:18
+<transcript>: It's on a mechanical Dib and rotating unit.
+
+00:13:18
+<transcript>: all of these
+
+00:13:22
+<transcript>: All of these mechanical 98 gotcha.
+
+00:13:22
+<transcript>: i got
+
+00:13:24
+<transcript>: I gotcha.
+
+00:13:25
+theruggedbear: more camera game ?
+
+00:13:38
+<transcript>: I'm a terrible patient. I really am my wife is she can be sick and still do everything like she didn't skip a beat. And I'm kind of like the slightest bit of sickness, and I'm out.
+
+00:13:38
+<transcript>: yeah
+
+00:13:51
+<transcript>: Yeah. More camera stuff. So I've got a camera. It's on a mechanical jib. And you can control it with an SDK. So that's sounds extremely fun. Like we can. I can move the thing around.
+
+00:13:51
+<transcript>: in my
+
+00:13:56
+<transcript>: In my Twitch app. My Twitch overlays like we could have it do things.
+
+00:13:56
+<transcript>: i don't know
+
+00:14:03
+<transcript>: I don't know what I think it'll just be like when I go to break, I'll just have it kind of like panning and doing something weird in the office.
+
+00:14:08
+<transcript>: Instead of just staring at the keyboard and a fixed position that's my current thought.
+
+00:14:08
+<transcript>: but we
+
+00:14:11
+<transcript>: But we could do a lot of things with it. Who knows.
+
+00:14:13
+cristhianjhlcom: Hello adam, how you doing?
+
+00:14:15
+<transcript>: Yeah, I'm gonna Actually, I'm just gonna add it to this scene.
+
+00:14:15
+<transcript>: watch this
+
+00:14:16
+<transcript>: Watch this.
+
+00:14:16
+<transcript>: just because
+
+00:14:18
+<transcript>: Just because I can.
+
+00:14:20
+<transcript>: Let's add.
+
+00:14:20
+<transcript>: a new
+
+00:14:21
+<transcript>: A new.
+
+00:14:23
+<transcript>: What do I want to add.
+
+00:14:23
+<transcript>: i guess i can just add
+
+00:14:28
+<transcript>: I guess I can just add the scene. Got the office keyboard scene. Here we go.
+
+00:14:33
+<transcript>: Okay, it's too big.
+
+00:14:35
+<transcript>: Clearly it's taking up the entire.
+
+00:14:35
+<transcript>: all right
+
+00:14:37
+<transcript>: All right.
+
+00:14:39
+<transcript>: How about this.
+
+00:14:42
+<transcript>: We can put it in the scene.
+
+00:14:42
+<transcript>: behind me
+
+00:14:45
+<transcript>: Behind me now I'm just doing stuff because I can really.
+
+00:14:45
+<transcript>: fill it
+
+00:14:47
+<transcript>: Fill it.
+
+00:14:49
+<transcript>: Too far? That was too far.
+
+00:14:52
+<transcript>: Hundreds of layering it.
+
+00:14:52
+<transcript>: there
+
+00:14:54
+<transcript>: There.
+
+00:14:54
+<transcript>: yeah
+
+00:14:55
+<transcript>: Yeah.
+
+00:14:55
+<transcript>: now it's behind
+
+00:15:04
+<transcript>: Now it's behind my head. Right. So this is the camera and we can move it around. Let's see if I can do it really quick. I just was playing with it before I started the stream.
+
+00:15:04
+<transcript>: so i've
+
+00:15:08
+<transcript>: So I've got like a little this thing until we get the SDK going.
+
+00:15:08
+<transcript>: hi there
+
+00:15:12
+<transcript>: Hi, there. Kristen. I'm doing Well, how are you doing.
+
+00:15:14
+sikmofo: morning sir
+
+00:15:16
+<transcript>: So if we move it to pose one.
+
+00:15:16
+jackysono: Morning Adam, are we getting hand cam?
+
+00:15:22
+<transcript>: I don't know oh connection loss select key to reset.
+
+00:15:29
+<transcript>: And Jackie Sono, we are getting something. It's a keyboard Cam.
+
+00:15:29
+<transcript>: but
+
+00:15:32
+<transcript>: But we're gonna move it around.
+
+00:15:32
+<transcript>: join
+
+00:15:38
+<transcript>: Join a paired group? I don't know. Do I want to join a paired group? Let's just share my screen. Let's just go over here.
+
+00:15:44
+<transcript>: This is the web app that controls it. Let's see. Is it still connected.
+
+00:15:44
+<transcript>: guess
+
+00:15:46
+andom: Got a salary raise yesterday whoop whoop
+
+00:15:49
+<transcript>: Guess gonna work still let's see join a paired group.
+
+00:15:50
+<transcript>: Okay.
+
+00:15:54
+<transcript>: Connecting.
+
+00:15:54
+<transcript>: cool
+
+00:15:55
+<transcript>: Cool.
+
+00:15:55
+<transcript>: maybe
+
+00:15:57
+<transcript>: Maybe maybe cool.
+
+00:16:05
+caldotjs: hello adam :) how are you doing?
+
+00:16:05
+<transcript>: Connection problem.
+
+00:16:07
+jackysono: @Andom whoop whoop!
+
+00:16:08
+<transcript>: Let's just start over.
+
+00:16:08
+<transcript>: let's just
+
+00:16:10
+<transcript>: Let's just let's start out.
+
+00:16:11
+delvoid: Heyooo
+
+00:16:13
+<transcript>: Hey, Kyle, that I'm doing well.
+
+00:16:13
+<transcript>: whoa and i'm you guys
+
+00:16:14
+<transcript>: Whoa, and I'm, you guys.
+
+00:16:16
+<transcript>: Nice.
+
+00:16:18
+<transcript>: That's awesome.
+
+00:16:18
+<transcript>: double
+
+00:16:20
+<transcript>: Double cheer.
+
+00:16:24
+<transcript>: Congratulations on your Rays. That's super cool.
+
+00:16:27
+caldotjs: what are we doing today?
+
+00:16:28
+<transcript>: Okay. So I need to connect to this thing.
+
+00:16:31
+<transcript>: Let's see.
+
+00:16:31
+<transcript>: pair and connect
+
+00:16:31
+tayloreddev: afternoon, this looks new
+
+00:16:35
+<transcript>: Pair. And connect. Paired groups. Authority. Paired. Okay, connect to it.
+
+00:16:35
+<transcript>: oh
+
+00:16:39
+yeltrah_: @Andom Great job man, well deserved
+
+00:16:39
+<transcript>: Oh, okay, let's recreate. Let's start over.
+
+00:16:43
+<transcript>: Switch set up.
+
+00:16:46
+<transcript>: Let's.
+
+00:16:49
+<transcript>: Pare, and connect.
+
+00:16:55
+<transcript>: I'm gonna have to turn them off one SEC.
+
+00:16:55
+i_processor: Hey Adam. An off-topic question, Do you recommend using a complete all-in-one headset or just a headphone + external microphone ? ;)
+
+00:17:21
+<transcript>: Alright.
+
+00:17:24
+<transcript>: Eye Processor welcome to Chat first time chat.
+
+00:17:34
+<transcript>: Off topic do you recommend using a complete Allinone headset or just a headphone plus external microphone? I like external microphones. I think.
+
+00:17:34
+<transcript>: there probably are
+
+00:17:35
+<transcript>: There probably are.
+
+00:17:38
+<transcript>: Combine units that are pretty good, but.
+
+00:17:40
+<transcript>: I generally prefer.
+
+00:17:41
+cowfacedude99: !today
+
+00:17:41
+fossabot: Building awguess with the t3 stack (!awguess)
+
+00:17:51
+<transcript>: Separate. I think you get better quality with both of them, but that's it. I'm not tested any of I think they're could be great combined ones these days. I just it's been a long time since I've used one.
+
+00:17:53
+<transcript>: Let's see.
+
+00:17:53
+<transcript>: pair
+
+00:17:55
+<transcript>: Pair and connect.
+
+00:17:58
+<transcript>: But.
+
+00:18:00
+<transcript>: Okay.
+
+00:18:04
+<transcript>: I'm gonna connect all those.
+
+00:18:05
+caldotjs: handed in my 50 page thesis on monday! preparing my presentation and then I am a free man :D
+
+00:18:07
+<transcript>: Alright.
+
+00:18:07
+<transcript>: we've created
+
+00:18:10
+<transcript>: We've created a group. I'm gonna connect to it.
+
+00:18:10
+<transcript>: and
+
+00:18:13
+<transcript>: And now I think we should be able to move it around.
+
+00:18:16
+<transcript>: Yeah, yeah? So I gotta create some poses.
+
+00:18:20
+<transcript>: Let's see.
+
+00:18:20
+<transcript>: how come
+
+00:18:27
+<transcript>: How come I do this in a way that you guys can see it? I need to let's just add it to this scene, too. Let's add.
+
+00:18:29
+<transcript>: Add scene.
+
+00:18:31
+<transcript>: Office.
+
+00:18:31
+<transcript>: keyboard
+
+00:18:32
+<transcript>: Keyboard.
+
+00:18:34
+<transcript>: Okay.
+
+00:18:37
+<transcript>: We'll scale it down.
+
+00:18:37
+<transcript>: i'll just put
+
+00:18:40
+<transcript>: I'll just put it up here in the corner somewhere.
+
+00:18:40
+<transcript>: and
+
+00:18:42
+<transcript>: And then this.
+
+00:18:42
+<transcript>: scene
+
+00:18:43
+<transcript>: Scene.
+
+00:19:00
+<transcript>: We need to put. Okay, so let's see that's the camera. So I'm gonna move it around and we're gonna create poses. I think that's the idea. Here. We save poses. We'll just call the current pose pose once. Okay.
+
+00:19:08
+<transcript>: Yeah. What do we think.
+
+00:19:19
+<transcript>: We'll try that pose.
+
+00:19:24
+<transcript>: Okay. So now we should be able to from the SDK.
+
+00:19:28
+<transcript>: Theoretically we should be able to.
+
+00:19:28
+<transcript>: like call
+
+00:19:31
+<transcript>: Like call those two poses and make the camera move around.
+
+00:19:31
+<transcript>: let's just
+
+00:19:33
+<transcript>: Let's just test that it actually.
+
+00:19:33
+<transcript>: moves
+
+00:19:34
+<transcript>: Moves.
+
+00:19:37
+<transcript>: Is it moving.
+
+00:19:45
+<transcript>: Very slowly, so we need to speed it up.
+
+00:19:48
+<transcript>: Do you see the moving see it.
+
+00:19:52
+<transcript>: Removing let's just go over to the scene.
+
+00:19:52
+<transcript>: ooh
+
+00:19:54
+<transcript>: Ooh cinematic.
+
+00:19:58
+<transcript>: Now if only there was something interesting going on in this room.
+
+00:19:59
+theruggedbear: this looks dooope !
+
+00:20:01
+<transcript>: To justify all the cinema.
+
+00:20:03
+andom: OOh this is cool
+
+00:20:03
+<transcript>: Yeah, it looks pretty cool, isn't it.
+
+00:20:03
+<transcript>: like
+
+00:20:07
+sikmofo: this production value
+
+00:20:07
+<transcript>: Like it's moving. It's not nice and smooth too.
+
+00:20:09
+sikmofo: how about that
+
+00:20:11
+jackysono: Bro thats awesome lol
+
+00:20:14
+<transcript>: So how do we introduce this into the stream in a way that's worth doing.
+
+00:20:16
+<transcript>: That's the question.
+
+00:20:17
+yeltrah_: Wow
+
+00:20:18
+<transcript>: How do we.
+
+00:20:18
+<transcript>: how do
+
+00:20:18
+delvoid: zoom zoom zoom
+
+00:20:24
+oetziofficial: yooo that looks dope!
+
+00:20:25
+sargath666: Is it loud?
+
+00:20:25
+<transcript>: How do we how do we want to do this? I think just during the break, like, every time I take a break, so like every time I pee.
+
+00:20:25
+<transcript>: there's gonna be some
+
+00:20:26
+andom: how fast can it be
+
+00:20:30
+laytanl_: Hello!
+
+00:20:45
+<transcript>: There's gonna be some production value involved. I'll say, like, oh, got a pee because I drink all this stuff, and then I'll leave and the camera will be like, panning and like, watching the office or something, and then go to the keyboard or something. I don't know. We think the cool thing is, it's just an SDK, just a web app that I can, like, a web endpoint. I can hit locally on my local network.
+
+00:20:45
+<transcript>: and
+
+00:20:50
+jackysono: following you as you leave the room
+
+00:20:53
+<transcript>: And I can change poses so we can set as many poses as we want. Well, I say that I think we can set six poses.
+
+00:20:53
+<transcript>: it can be
+
+00:20:53
+tayloreddev: chat controls the movement then chaos insues LUL
+
+00:21:06
+<transcript>: It can be in all these different poses. I can have it animate just between them just bounce around continuously. They could just pop in every once in a while. I don't know. There's a lot of stuff we can do with it. I still haven't. Really. I don't know. I've been sick. These ideas have been like, as I've been laying in bed.
+
+00:21:08
+<transcript>: Okay.
+
+00:21:08
+<transcript>: let's see
+
+00:21:11
+<transcript>: Let's see. What do we think? You may have great ideas.
+
+00:21:19
+<transcript>: Oh, shoot, cafe today we are not building. Aw, guess I should update that. I just. I don't know how to do that quickly.
+
+00:21:19
+<transcript>: false a bot like
+
+00:21:24
+<transcript>: False a bot. Like I always come in here and there's. I know there's a way to do it, like from the chat.
+
+00:21:26
+<transcript>: Let's see today.
+
+00:21:30
+daeeyy: @TayloredDev coupled with a chat controlled nerf gun
+
+00:21:33
+<transcript>: As short for project.
+
+00:21:33
+<transcript>: yeah
+
+00:21:38
+<transcript>: Yeah. Edit. I think that's probably not what I want to do, but.
+
+00:21:38
+<transcript>: playing
+
+00:21:41
+daeeyy: thanks to whoever gifted me a sub btw
+
+00:21:42
+<transcript>: Playing with a mechanical camera.
+
+00:21:43
+cowfacedude99: check if it has editcom inside chat.
+
+00:21:43
+<transcript>: And.
+
+00:21:43
+<transcript>: an
+
+00:21:47
+<transcript>: An SDK to control it. I don't know.
+
+00:21:52
+<transcript>: So all this stuff is called.
+
+00:21:53
+<transcript>: It's. Edelcrom.
+
+00:21:53
+<transcript>: is the hardware
+
+00:21:55
+<transcript>: Is the hardware.
+
+00:21:57
+<transcript>: And.
+
+00:22:00
+yeltrah_: !today
+
+00:22:00
+oetziofficial: Can you add/remove via the SDK poses? then you could have infinite possibilities! :O
+
+00:22:00
+fossabot: Playing with a mechanical camera and an SDK to control it
+
+00:22:03
+<transcript>: Woke how that you hand it in your 50 page thesis? Ooh.
+
+00:22:03
+<transcript>: is this for
+
+00:22:04
+<transcript>: Is this for.
+
+00:22:10
+<transcript>: For like a Masters or a PhD or. I don't know. They called that everywhere else.
+
+00:22:10
+<transcript>: that's what we call
+
+00:22:12
+<transcript>: That's what we call them in the us.
+
+00:22:14
+tayloreddev: mount a nerd gun on the camera then chat tries to hit the target genius
+
+00:22:20
+caldotjs: bachelors thesis
+
+00:22:23
+<transcript>: Chat controls the movement, then chaos, and Sues, Hey, Taylor.
+
+00:22:23
+<transcript>: i love it
+
+00:22:26
+<transcript>: I love it light. And here. Hello, Layton.
+
+00:22:30
+<transcript>: Chat controlled Nerf gun. Now we're just getting into.
+
+00:22:30
+<transcript>: some crazy
+
+00:22:32
+<transcript>: Some crazy ideas.
+
+00:22:39
+<transcript>: Check if it has Edit. Comm inside chat. Oh, Edit command.
+
+00:22:39
+andom: how fast can the camera move?
+
+00:22:42
+<transcript>: That be in here, like built in or something.
+
+00:22:45
+<transcript>: Edit.com.
+
+00:22:45
+<transcript>: edit
+
+00:22:47
+<transcript>: Edit CMD. There we go.
+
+00:22:47
+<transcript>: enable
+
+00:22:50
+<transcript>: Enable. So now I should be able to edit.
+
+00:22:50
+<transcript>: let's just
+
+00:22:59
+<transcript>: Let's just try this. I need to be able to do this. Bachelor's thesis gotcha very cool, Calvar. How fast can the camera move? Let's just find out.
+
+00:22:59
+<transcript>: let's just see
+
+00:23:14
+<transcript>: Let's just see how fast it can move. Can you add remove via this SDK poses? You can. Yeah. You can actually change the poses. The problem is like, Well, I guess. Yeah, we could control we could actually move the camera around with the SDK and then save a pose. Yeah.
+
+00:23:14
+<transcript>: i mean we could do
+
+00:23:16
+<transcript>: I mean we could do anything we want.
+
+00:23:16
+<transcript>: i think it
+
+00:23:18
+<transcript>: I think it's pretty.
+
+00:23:18
+<transcript>: pretty open
+
+00:23:21
+<transcript>: Pretty open ended. So how do I edit it? Command. Let's just try this edit.
+
+00:23:21
+<transcript>: command
+
+00:23:25
+<transcript>: Command and I guess I just do like the name. And then what I want it to say.
+
+00:23:25
+<transcript>: so like today
+
+00:23:26
+<transcript>: So like today.
+
+00:23:32
+<transcript>: We're playing with mechanical.
+
+00:23:32
+<transcript>: mechanics
+
+00:23:34
+adamdotdev: !editcmd today we're playing with mechanical cameras!
+
+00:23:34
+fossabot: @adamdotdev Successfully updated command "!project"
+
+00:23:35
+<transcript>: Mechanics, cameras.
+
+00:23:42
+andom: !project
+
+00:23:42
+fossabot: we're playing with mechanical cameras!
+
+00:23:45
+yeltrah_: !project
+
+00:23:46
+<transcript>: Oh, it works. Wait. Yeah. Project. So it worked with the Alias because today is actually an alias. Cool. Thanks so much for the follows. Larry Dane.
+
+00:23:46
+<transcript>: an exc
+
+00:23:48
+<transcript>: An exception.
+
+00:23:55
+cowfacedude99: you might want to play with the permissions
+
+00:23:56
+<transcript>: Cool. Cool. So that works. Now know how to do the edit command. That that's gonna save some time. Okay, let's see how fast we can move this camera. That sounds fun.
+
+00:23:56
+<transcript>: here we
+
+00:23:58
+yeltrah_: !dadjoke
+
+00:23:59
+fossabot: @yeltrah_ What do I look like? A JOKE MACHINE!?
+
+00:24:02
+<transcript>: Here we go. So speed hundred percent here's the fastest.
+
+00:24:02
+<transcript>: fastest
+
+00:24:04
+<transcript>: Fastest we can move it.
+
+00:24:09
+<transcript>: What's doing? Is it going to the.
+
+00:24:15
+<transcript>: Pose. It was on. I guess.
+
+00:24:17
+theruggedbear: pose 1 is the keyboard
+
+00:24:17
+<transcript>: I guess I was supposed.
+
+00:24:21
+<transcript>: One or two.
+
+00:24:27
+<transcript>: It's making a noise.
+
+00:24:31
+<transcript>: This is doing nothing though.
+
+00:24:31
+<transcript>: let's try
+
+00:24:33
+<transcript>: Let's try. Post two.
+
+00:24:37
+<transcript>: Okay, it's set on the fastest.
+
+00:24:41
+<transcript>: So I guess this is the fastest.
+
+00:24:46
+<transcript>: I don't know. That's not all that fast, is it.
+
+00:24:52
+<transcript>: 's Pretty slow.
+
+00:24:52
+<transcript>: actually
+
+00:24:53
+<transcript>: Actually.
+
+00:24:57
+<transcript>: Well.
+
+00:24:59
+<transcript>: I mean it's.
+
+00:24:59
+oetziofficial: is it the ease function?
+
+00:25:03
+<transcript>: Let's see what's the slowest then I feel like.
+
+00:25:06
+<transcript>: That's the fastest.
+
+00:25:11
+yeltrah_: Man that room you are in is pretty dope...movie production
+
+00:25:14
+<transcript>: So go faster in this direction. I feel like it's weird that you're seeing my whole profile. I don't know. This is like a side of me that the internet hasn't seen kind of creeps me out.
+
+00:25:17
+<transcript>: Sick Mofo.
+
+00:25:17
+<transcript>: ten subs
+
+00:25:25
+<transcript>: Ten subs. Hey, we got the we got the keyboard ship to Iceland. I hope it's okay that I just told them you live in Iceland. Sigma. So.
+
+00:25:28
+<transcript>: I'm so sorry.
+
+00:25:28
+<transcript>: if you didn't want
+
+00:25:31
+<transcript>: If you didn't want me to say that.
+
+00:25:31
+<transcript>: might want to
+
+00:25:33
+<transcript>: Might want to play with the permissions.
+
+00:25:33
+theruggedbear: dox ? Kappa
+
+00:25:36
+sikmofo: yeah of course, its fine
+
+00:25:38
+<transcript>: Yeah, that's a good call. Can anybody just edit a command? Is that what you're saying.
+
+00:25:41
+<transcript>: Oh, the ease function. Maybe it'll go faster if I turn.
+
+00:25:41
+<transcript>: easing off
+
+00:25:43
+<transcript>: Easing off.
+
+00:25:45
+yeltrah_: Iceland, nice !!
+
+00:25:47
+<transcript>: Maybe that's the maybe that's the trick.
+
+00:25:51
+<transcript>: Okay, it's fine.
+
+00:25:56
+cedpoilly: @sikmofo thanks for the gift!
+
+00:25:57
+yeltrah_: Haha
+
+00:26:00
+cedpoilly: Hi everyone
+
+00:26:02
+<transcript>: For a second I was like, what am I doing? Just told somebody I said, I mean, I sense a pretty big place. Like, I guess I didn't really like.
+
+00:26:02
+<transcript>: narrow
+
+00:26:04
+<transcript>: Narrow it down too much.
+
+00:26:04
+<transcript>: so
+
+00:26:09
+<transcript>: So Sigmova yesterday or Tuesday. Won the Kinesis Advantage 360.
+
+00:26:09
+<transcript>: and it
+
+00:26:11
+<transcript>: And it has been shipped.
+
+00:26:14
+cedpoilly: Just hopping by to say hi
+
+00:26:17
+<transcript>: We got it shipped now. I just hope it makes its way through Customs, all that stuff.
+
+00:26:17
+<transcript>: let me
+
+00:26:21
+<transcript>: Let me know Sigmofo, let me know should be there soon.
+
+00:26:26
+<transcript>: What is this error? Unexpected token.
+
+00:26:30
+<transcript>: Accounts. That Spotify. Oh, that reminds me. We should be playing music.
+
+00:26:32
+<transcript>: Let's do that.
+
+00:26:36
+<transcript>: Guess I don't have to always come over here. I've got a button to do that.
+
+00:26:43
+<transcript>: Okay. So it's not very fast, but let's play with the ease in and out. So I turn E's in off.
+
+00:26:43
+<transcript>: so
+
+00:26:46
+sikmofo: UPS says monday sooo should be soon :D
+
+00:26:53
+<transcript>: So that's pose something that poses one was the camera. So it's always the keyboard. So it's on post two. No, it's on. I don't know.
+
+00:26:58
+<transcript>: Sorry on that. Positive.
+
+00:27:06
+<transcript>: There's a lot of, like, calibration and stuff you can do with these things. So I might need to play with it. Like that looked a little jerky.
+
+00:27:10
+<transcript>: Ups says Monday.
+
+00:27:10
+<transcript>: whoo
+
+00:27:12
+<transcript>: Whoo.
+
+00:27:12
+<transcript>: that's awesome
+
+00:27:13
+<transcript>: That's awesome.
+
+00:27:21
+daglee: @sikmofo So on sunday they will lose it.
+
+00:27:21
+<transcript>: Okay. So it's moving. I don't know that I notice the easing, the different.
+
+00:27:23
+<transcript>: You may notice that.
+
+00:27:23
+<transcript>: i feel like i'm
+
+00:27:27
+<transcript>: I feel like I'm in so many places on this frame because I am I'm in like.
+
+00:27:27
+<transcript>: infinite
+
+00:27:33
+<transcript>: Infinite places on this frame. This is gonna help me with my posture.
+
+00:27:36
+<transcript>: I'm gonna have to set up real straight.
+
+00:27:39
+<transcript>: So I'm like doing this.
+
+00:27:39
+<transcript>: you guys
+
+00:27:41
+<transcript>: You guys are watching from the side.
+
+00:27:47
+<transcript>: So on Sunday to lose it don't say that dagly.
+
+00:27:47
+<transcript>: no
+
+00:27:49
+<transcript>: No, don't say that.
+
+00:27:54
+<transcript>: Thank you so much, Chickmofo, for the Ten Gift subs. I really appreciate that.
+
+00:28:00
+<transcript>: Okay, let's change the topic because that's not what we're doing anymore.
+
+00:28:00
+<transcript>: topic
+
+00:28:02
+<transcript>: Topic is.
+
+00:28:06
+<transcript>: Getting familiar with.
+
+00:28:09
+<transcript>: Edel. Crown.
+
+00:28:09
+adamdotdev: !topic getting familiar with the edelkrone sdk
+
+00:28:11
+<transcript>: Sdk.
+
+00:28:15
+<transcript>: What we're doing. So what we're gonna be doing very shortly.
+
+00:28:15
+<transcript>: okay
+
+00:28:16
+<transcript>: Okay.
+
+00:28:16
+<transcript>: so
+
+00:28:20
+<transcript>: So is this in the way? I guess this is gonna be in the way of, like.
+
+00:28:28
+theruggedbear: i clicked on the herman miller chair and it's 2k$ wtf.
+
+00:28:31
+<transcript>: I'm just gonna hide it for now. Where is it? Office keyboard. I'm gonna hide it for a SEC while we kind of play with the SDK and learn how we connect to this thing. I just don't know anything at this point.
+
+00:28:31
+<transcript>: i've got some
+
+00:28:33
+<transcript>: I've got some Docs pulled up.
+
+00:28:33
+<transcript>: where is it
+
+00:28:35
+<transcript>: Where is it? Here we go.
+
+00:28:39
+<transcript>: Are these my. This is my overlay. I think.
+
+00:28:41
+<transcript>: Yeah.
+
+00:28:43
+<transcript>: So let's do this. Let's.

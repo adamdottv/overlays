@@ -4,21 +4,25 @@ import { useEvent, useSocket } from "../hooks"
 import { AudioSpectrum, Overlay, Grid } from "../components"
 import { fadeAudioOut } from "../lib/audio"
 import { NextApiResponseServerIO } from "../lib"
-import { getStreamInfo } from "../lib/stream"
+import { getStreamInfo, songs } from "../lib/stream"
+import { randomItem } from "../lib/utils"
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
   const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
   const stream = JSON.parse(JSON.stringify(rawStream))
+  const song = randomItem(songs)
 
   return {
     props: {
       stream,
+      song,
     },
   }
 }
 
 function Break({
   stream,
+  song,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) {
   const audioRef = useRef<HTMLAudioElement>(null)
 
@@ -37,12 +41,7 @@ function Break({
 
   return (
     <Overlay>
-      <audio
-        loop
-        ref={audioRef}
-        id="audio-element"
-        src="/media/theme-piano-stem.wav"
-      />
+      <audio loop ref={audioRef} id="audio-element" src={`/media/${song}`} />
       <Grid
         // topLeft={<BrandMark />}
         // topCenter={

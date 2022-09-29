@@ -4,12 +4,7 @@ import { RefreshingAuthProvider } from "@twurple/auth"
 import { ApiClient } from "@twurple/api"
 import { promises as fs, readFileSync, writeFileSync } from "fs"
 import { CustomServer } from "./server"
-import {
-  ShellScriptReward,
-  SnapFilterReward,
-  Reward,
-  MeetingReward,
-} from "./rewards"
+import { ShellScriptReward, SnapFilterReward, Reward } from "./rewards"
 import open from "open"
 import SnapController from "./snap"
 import GiveawaysController from "./giveaways"
@@ -189,7 +184,6 @@ export interface TwitchEventSubscription {
 export default class TwitchController extends EventEmitter {
   private server: CustomServer
   private snap: SnapController
-  private giveaways: GiveawaysController
   private obs: ObsController
   private apiClient?: ApiClient
   private clientId = process.env.TWITCH_CLIENT_ID as string
@@ -202,16 +196,10 @@ export default class TwitchController extends EventEmitter {
 
   chatClient?: ChatClient
 
-  constructor(
-    server: CustomServer,
-    snap: SnapController,
-    giveaways: GiveawaysController,
-    obs: ObsController
-  ) {
+  constructor(server: CustomServer, snap: SnapController, obs: ObsController) {
     super()
     this.server = server
     this.snap = snap
-    this.giveaways = giveaways
     this.obs = obs
 
     this.obs.on("sceneChange", (scene) => this.handleSceneChange(scene))
@@ -281,6 +269,23 @@ export default class TwitchController extends EventEmitter {
     this.apiClient = new ApiClient({ authProvider })
   }
 
+  async enableReward(id: string) {
+    console.log(`ENABLING REWARD: ${id}`)
+    try {
+      await this.apiClient?.channelPoints.updateCustomReward(this.userId, id, {
+        isPaused: false,
+      })
+    } catch (error) {
+      console.error(error)
+    }
+  }
+
+  async disableReward(id: string) {
+    await this.apiClient?.channelPoints.updateCustomReward(this.userId, id, {
+      isPaused: true,
+    })
+  }
+
   async enableRewards() {
     for (const reward of this.rewards) {
       if (
@@ -289,13 +294,7 @@ export default class TwitchController extends EventEmitter {
       )
         continue
 
-      await this.apiClient?.channelPoints.updateCustomReward(
-        this.userId,
-        reward.id,
-        {
-          isPaused: false,
-        }
-      )
+      await this.enableReward(reward.id)
     }
   }
 
@@ -307,13 +306,7 @@ export default class TwitchController extends EventEmitter {
       )
         continue
 
-      await this.apiClient?.channelPoints.updateCustomReward(
-        this.userId,
-        reward.id,
-        {
-          isPaused: true,
-        }
-      )
+      await this.disableReward(reward.id)
     }
   }
 
@@ -398,10 +391,6 @@ export default class TwitchController extends EventEmitter {
         message: string,
         msg: PrivateMessage
       ) => {
-        if (message.startsWith("!winner") && user === this.username) {
-          this.server.giveaways.selectWinner()
-        }
-
         this.emit("new-chat-message", { channel, user, message })
 
         this.server.ws.emit("twitch-chat-event", {
@@ -481,8 +470,8 @@ export default class TwitchController extends EventEmitter {
     }
   }
 
-  async redeemGiveawayEntry(userName: string) {
-    this.giveaways.handleNewEntry(userName)
+  async redeemGiveawayEntry(username: string) {
+    this.emit("new-giveaway-entry", username)
   }
 
   async redeemMeeting(event: TwitchChannelRedemptionEvent) {

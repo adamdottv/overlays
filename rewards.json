@@ -2,11 +2,11 @@
   {
     "title": "Giveaway Entry",
     "type": "giveaway-entry",
-    "cost": 500,
+    "cost": 300,
     "enabled": false,
     "userMax": 4,
     "description": "1x entry into the current giveaway.\n\nDon't redeem unless Adam says you can.",
-    "id": "34e8ba74-c215-4daf-bd86-e4742b395795"
+    "id": "3f1bbe3d-9188-4150-938d-07b8d0bf8f85"
   },
   {
     "title": "Rick Roll",

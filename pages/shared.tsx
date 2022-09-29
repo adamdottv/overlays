@@ -18,8 +18,8 @@ import { delay } from "../lib/utils"
 import { getStreamInfo, GetStreamResponse } from "../lib/stream"
 import { NextApiResponseServerIO } from "../lib"
 
-const MAX_NOTIFICATIONS = 2
-const NOTIFICATION_DURATION = 3
+const MAX_NOTIFICATIONS = 5
+const NOTIFICATION_DURATION = 1
 const NOTIFICATION_PANEL_HEIGHT = MAX_NOTIFICATIONS * 100 + 65
 
 export interface SharedSsrProps {

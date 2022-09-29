@@ -14,13 +14,15 @@ import { fadeAudioOut } from "../lib/audio"
 import React from "react"
 import metadata from "../stream.json"
 import { NextApiResponseServerIO } from "../lib"
-import { getStreamInfo, GetStreamResponse } from "../lib/stream"
+import { getStreamInfo, GetStreamResponse, songs } from "../lib/stream"
+import { randomItem } from "../lib/utils"
 
 const AUDIO_FADE_LENGTH = 5 * 1000
 const LOADING_INTERVAL = 200
 
 export interface IntroSsrProps {
   stream: GetStreamResponse
+  song: string
   debug: boolean
 }
 
@@ -29,10 +31,12 @@ export const getServerSideProps: GetServerSideProps<IntroSsrProps> = async (
 ) => {
   const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
   const stream = JSON.parse(JSON.stringify(rawStream))
+  const song = randomItem(songs)
 
   return {
     props: {
       stream,
+      song,
       debug: context.query.debug === "true",
     },
   }
@@ -41,6 +45,7 @@ export const getServerSideProps: GetServerSideProps<IntroSsrProps> = async (
 function Intro({
   debug,
   stream,
+  song,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) {
   const [showTitleScreen, setShowTitleScreen] = useState(false)
   const audioRef = useRef<HTMLAudioElement>(null)
@@ -60,13 +65,7 @@ function Intro({
 
   return (
     <Overlay>
-      <audio
-        loop
-        ref={audioRef}
-        id="audio-element"
-        src="/media/theme-lofi.wav"
-        // src="/media/theme-piano-stem.mp3"
-      />
+      <audio loop ref={audioRef} id="audio-element" src={`/media/${song}`} />
       {showTitleScreen ? (
         metadata.mode === "guest" ? (
           <GuestTitleScreen stream={stream} />
@@ -78,7 +77,7 @@ function Intro({
           topLeft={<BrandMark />}
           topCenter={
             <div className="flex h-full items-center text-mauve-12">
-              Streaming web development every weekday
+              Streaming web development every Tuesday and Thursday
             </div>
           }
           centerLeft={

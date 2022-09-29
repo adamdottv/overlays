@@ -51,12 +51,14 @@ async function init() {
   const wsController = new WsController(server)
   const obsController = new ObsController(wsController)
   const snapController = new SnapController(obsController)
-  const giveawaysController = new GiveawaysController(wsController)
   const twitchController = new TwitchController(
     server,
     snapController,
-    giveawaysController,
     obsController
+  )
+  const giveawaysController = new GiveawaysController(
+    wsController,
+    twitchController
   )
   const streamController = new StreamController(twitchController)
 
