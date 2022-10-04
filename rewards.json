@@ -70,7 +70,7 @@
   {
     "title": "1-on-1 Call w/ Adam",
     "type": "meeting",
-    "cost": 100000,
+    "cost": 50000,
     "description": "You'll be sent a scheduling link to have a 30-minute, 1-on-1 call with Adam live on Twitch!",
     "id": "ab76dd31-01ce-4af5-84a5-d8f747c1a415",
     "prompt": "Email address"
