@@ -74,7 +74,7 @@ export default class StreamController {
   constructor(twitch: TwitchController) {
     this.twitch = twitch
     const [today] = new Date().toISOString().split("T")
-    this.current = `./streams/${today}.txt`
+    this.current = `./data/transcripts/${today}.txt`
 
     this.twitch.on("new-chat-message", this.handleNewChatMessage.bind(this))
     this.twitch.on("online", this.handleStreamOnline.bind(this))

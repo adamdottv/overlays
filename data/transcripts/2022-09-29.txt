@@ -1,0 +1,8425 @@
+
+
+11:45:10
+<transcript>: You.
+
+11:46:59
+<transcript>: Check, check.
+
+11:47:02
+<transcript>: Check.
+
+12:02:49
+<transcript>: You.
+
+12:03:58
+adamdotdev: !topic greeting you all, again, very late-ly
+
+00:03:29
+monciego: present🙋
+
+00:04:11
+daeeyy: nice music
+
+00:07:01
+sargath666: good afternoon @adamdotdev
+
+00:08:14
+sargath666: These town hall mock-ups reminds me our famous "kolejkowo" spot where everything is perfectly reproduced https://kolejkowo.pl/en/gliwice
+
+00:09:42
+yeltrah_: just in time for Adams stream
+
+00:10:36
+andom: Howdy HeyGuys
+
+00:10:43
+theruggedbear: hey everyone !
+
+00:10:57
+<transcript>: Good day, good day. Good day to you all. Who's here? Montego.
+
+00:10:57
+<transcript>: present
+
+00:10:59
+<transcript>: Present hand up.
+
+00:11:02
+<transcript>: Hi DA.
+
+00:11:02
+<transcript>: sargass
+
+00:11:04
+<transcript>: Sargass is here.
+
+00:11:12
+<transcript>: And heart. Gene is here. And the Rugged Bear. Hey, everybody, I'm still sick. I'm sorry I'm late. Because.
+
+00:11:12
+<transcript>: i'm sick
+
+00:11:15
+<transcript>: I'm sick. You might not even know what I'm supposed to start. I don't even know.
+
+00:11:23
+<transcript>: I don't know what anyone knows. I just normally start an hour earlier than this little more than an hour earlier.
+
+00:11:25
+<transcript>: But I've been sleeping a lot.
+
+00:11:25
+<transcript>: because
+
+00:11:27
+<transcript>: Because I'm sick.
+
+00:11:32
+<transcript>: Not looking for Synthesia? I'm just gonna say I'm sick, like 35 times today.
+
+00:11:38
+<transcript>: I'm actually feeling quite a bit better. My hair was a mess.
+
+00:11:38
+<transcript>: i mean
+
+00:11:46
+<transcript>: I mean, like, you know, it's normally a mess. It was such a mess that I'm wearing a hat. That's how big of a mess it was. You can imagine. Thanks for the follow. Really dizzy.
+
+00:11:49
+<transcript>: Or Disse.
+
+00:11:50
+aminunes: Im subed
+
+00:11:51
+<transcript>: Gotta get that X in there.
+
+00:11:53
+<transcript>: See.
+
+00:11:55
+aminunes: subbed now
+
+00:11:56
+<transcript>: Amy is subbed. Hi, there Amy.
+
+00:11:57
+aminunes: yey
+
+00:11:59
+<transcript>: Subbed now.
+
+00:12:01
+<transcript>: He made.
+
+00:12:01
+<transcript>: a gift
+
+00:12:06
+<transcript>: A gift. There was a bit of a gift. Sub competition on the last stream.
+
+00:12:09
+<transcript>: We had some folks.
+
+00:12:09
+<transcript>: trying
+
+00:12:12
+<transcript>: Trying to outdo each other.
+
+00:12:16
+<transcript>: All right, so it's.
+
+00:12:16
+<transcript>: thursday
+
+00:12:19
+<transcript>: Thursday. I've changed some things.
+
+00:12:19
+<transcript>: for instance
+
+00:12:20
+<transcript>: For instance.
+
+00:12:20
+<transcript>: this
+
+00:12:20
+aminunes: Yes i got, i already said thanks to the guy o gived
+
+00:12:23
+<transcript>: This background. You see, it's not real.
+
+00:12:23
+<transcript>: should i
+
+00:12:25
+<transcript>: Should I tell you that.
+
+00:12:25
+<transcript>: shiv
+
+00:12:35
+sargath666: It's pretty normal when males are having 37C during some cold, we're dying every-time xD
+
+00:12:37
+<transcript>: Shivan, I tell you that. I'm just. It's actually all green screen. Now it's so that I can do stuff like this. Like I can pull up stuff behind me. Oh, that's that's kind of creepy, actually. Oh, it's gonna be infinite. Look at this.
+
+00:12:46
+<transcript>: Pretty normal and males are having 37 degrees Celsius during some cold we're dying every time.
+
+00:12:52
+<transcript>: Wait. 37 Degrees Celsius. What is that? Is that a fever.
+
+00:12:52
+<transcript>: that hotter
+
+00:12:55
+<transcript>: That hotter than 98 six.
+
+00:12:57
+<transcript>: Hot hotter than humans should be.
+
+00:13:02
+<transcript>: I only know Fahrenheit. I should do the math. I don't know the math.
+
+00:13:07
+<transcript>: We're gonna play with the camera today.
+
+00:13:07
+<transcript>: we're gonna play
+
+00:13:11
+<transcript>: We're gonna play with. Well, it's the camera that's normally it's like my keyboard. Camera.
+
+00:13:11
+<transcript>: we're gonna put
+
+00:13:13
+<transcript>: We're gonna put it.
+
+00:13:13
+<transcript>: it's on a
+
+00:13:17
+aminunes: 98.6F
+
+00:13:18
+<transcript>: It's on a mechanical Dib and rotating unit.
+
+00:13:18
+<transcript>: all of these
+
+00:13:22
+<transcript>: All of these mechanical 98 gotcha.
+
+00:13:22
+<transcript>: i got
+
+00:13:24
+<transcript>: I gotcha.
+
+00:13:25
+theruggedbear: more camera game ?
+
+00:13:38
+<transcript>: I'm a terrible patient. I really am my wife is she can be sick and still do everything like she didn't skip a beat. And I'm kind of like the slightest bit of sickness, and I'm out.
+
+00:13:38
+<transcript>: yeah
+
+00:13:51
+<transcript>: Yeah. More camera stuff. So I've got a camera. It's on a mechanical jib. And you can control it with an SDK. So that's sounds extremely fun. Like we can. I can move the thing around.
+
+00:13:51
+<transcript>: in my
+
+00:13:56
+<transcript>: In my Twitch app. My Twitch overlays like we could have it do things.
+
+00:13:56
+<transcript>: i don't know
+
+00:14:03
+<transcript>: I don't know what I think it'll just be like when I go to break, I'll just have it kind of like panning and doing something weird in the office.
+
+00:14:08
+<transcript>: Instead of just staring at the keyboard and a fixed position that's my current thought.
+
+00:14:08
+<transcript>: but we
+
+00:14:11
+<transcript>: But we could do a lot of things with it. Who knows.
+
+00:14:13
+cristhianjhlcom: Hello adam, how you doing?
+
+00:14:15
+<transcript>: Yeah, I'm gonna Actually, I'm just gonna add it to this scene.
+
+00:14:15
+<transcript>: watch this
+
+00:14:16
+<transcript>: Watch this.
+
+00:14:16
+<transcript>: just because
+
+00:14:18
+<transcript>: Just because I can.
+
+00:14:20
+<transcript>: Let's add.
+
+00:14:20
+<transcript>: a new
+
+00:14:21
+<transcript>: A new.
+
+00:14:23
+<transcript>: What do I want to add.
+
+00:14:23
+<transcript>: i guess i can just add
+
+00:14:28
+<transcript>: I guess I can just add the scene. Got the office keyboard scene. Here we go.
+
+00:14:33
+<transcript>: Okay, it's too big.
+
+00:14:35
+<transcript>: Clearly it's taking up the entire.
+
+00:14:35
+<transcript>: all right
+
+00:14:37
+<transcript>: All right.
+
+00:14:39
+<transcript>: How about this.
+
+00:14:42
+<transcript>: We can put it in the scene.
+
+00:14:42
+<transcript>: behind me
+
+00:14:45
+<transcript>: Behind me now I'm just doing stuff because I can really.
+
+00:14:45
+<transcript>: fill it
+
+00:14:47
+<transcript>: Fill it.
+
+00:14:49
+<transcript>: Too far? That was too far.
+
+00:14:52
+<transcript>: Hundreds of layering it.
+
+00:14:52
+<transcript>: there
+
+00:14:54
+<transcript>: There.
+
+00:14:54
+<transcript>: yeah
+
+00:14:55
+<transcript>: Yeah.
+
+00:14:55
+<transcript>: now it's behind
+
+00:15:04
+<transcript>: Now it's behind my head. Right. So this is the camera and we can move it around. Let's see if I can do it really quick. I just was playing with it before I started the stream.
+
+00:15:04
+<transcript>: so i've
+
+00:15:08
+<transcript>: So I've got like a little this thing until we get the SDK going.
+
+00:15:08
+<transcript>: hi there
+
+00:15:12
+<transcript>: Hi, there. Kristen. I'm doing Well, how are you doing.
+
+00:15:14
+sikmofo: morning sir
+
+00:15:16
+<transcript>: So if we move it to pose one.
+
+00:15:16
+jackysono: Morning Adam, are we getting hand cam?
+
+00:15:22
+<transcript>: I don't know oh connection loss select key to reset.
+
+00:15:29
+<transcript>: And Jackie Sono, we are getting something. It's a keyboard Cam.
+
+00:15:29
+<transcript>: but
+
+00:15:32
+<transcript>: But we're gonna move it around.
+
+00:15:32
+<transcript>: join
+
+00:15:38
+<transcript>: Join a paired group? I don't know. Do I want to join a paired group? Let's just share my screen. Let's just go over here.
+
+00:15:44
+<transcript>: This is the web app that controls it. Let's see. Is it still connected.
+
+00:15:44
+<transcript>: guess
+
+00:15:46
+andom: Got a salary raise yesterday whoop whoop
+
+00:15:49
+<transcript>: Guess gonna work still let's see join a paired group.
+
+00:15:50
+<transcript>: Okay.
+
+00:15:54
+<transcript>: Connecting.
+
+00:15:54
+<transcript>: cool
+
+00:15:55
+<transcript>: Cool.
+
+00:15:55
+<transcript>: maybe
+
+00:15:57
+<transcript>: Maybe maybe cool.
+
+00:16:05
+caldotjs: hello adam :) how are you doing?
+
+00:16:05
+<transcript>: Connection problem.
+
+00:16:07
+jackysono: @Andom whoop whoop!
+
+00:16:08
+<transcript>: Let's just start over.
+
+00:16:08
+<transcript>: let's just
+
+00:16:10
+<transcript>: Let's just let's start out.
+
+00:16:11
+delvoid: Heyooo
+
+00:16:13
+<transcript>: Hey, Kyle, that I'm doing well.
+
+00:16:13
+<transcript>: whoa and i'm you guys
+
+00:16:14
+<transcript>: Whoa, and I'm, you guys.
+
+00:16:16
+<transcript>: Nice.
+
+00:16:18
+<transcript>: That's awesome.
+
+00:16:18
+<transcript>: double
+
+00:16:20
+<transcript>: Double cheer.
+
+00:16:24
+<transcript>: Congratulations on your Rays. That's super cool.
+
+00:16:27
+caldotjs: what are we doing today?
+
+00:16:28
+<transcript>: Okay. So I need to connect to this thing.
+
+00:16:31
+<transcript>: Let's see.
+
+00:16:31
+<transcript>: pair and connect
+
+00:16:31
+tayloreddev: afternoon, this looks new
+
+00:16:35
+<transcript>: Pair. And connect. Paired groups. Authority. Paired. Okay, connect to it.
+
+00:16:35
+<transcript>: oh
+
+00:16:39
+yeltrah_: @Andom Great job man, well deserved
+
+00:16:39
+<transcript>: Oh, okay, let's recreate. Let's start over.
+
+00:16:43
+<transcript>: Switch set up.
+
+00:16:46
+<transcript>: Let's.
+
+00:16:49
+<transcript>: Pare, and connect.
+
+00:16:55
+<transcript>: I'm gonna have to turn them off one SEC.
+
+00:16:55
+i_processor: Hey Adam. An off-topic question, Do you recommend using a complete all-in-one headset or just a headphone + external microphone ? ;)
+
+00:17:21
+<transcript>: Alright.
+
+00:17:24
+<transcript>: Eye Processor welcome to Chat first time chat.
+
+00:17:34
+<transcript>: Off topic do you recommend using a complete Allinone headset or just a headphone plus external microphone? I like external microphones. I think.
+
+00:17:34
+<transcript>: there probably are
+
+00:17:35
+<transcript>: There probably are.
+
+00:17:38
+<transcript>: Combine units that are pretty good, but.
+
+00:17:40
+<transcript>: I generally prefer.
+
+00:17:41
+cowfacedude99: !today
+
+00:17:41
+fossabot: Building awguess with the t3 stack (!awguess)
+
+00:17:51
+<transcript>: Separate. I think you get better quality with both of them, but that's it. I'm not tested any of I think they're could be great combined ones these days. I just it's been a long time since I've used one.
+
+00:17:53
+<transcript>: Let's see.
+
+00:17:53
+<transcript>: pair
+
+00:17:55
+<transcript>: Pair and connect.
+
+00:17:58
+<transcript>: But.
+
+00:18:00
+<transcript>: Okay.
+
+00:18:04
+<transcript>: I'm gonna connect all those.
+
+00:18:05
+caldotjs: handed in my 50 page thesis on monday! preparing my presentation and then I am a free man :D
+
+00:18:07
+<transcript>: Alright.
+
+00:18:07
+<transcript>: we've created
+
+00:18:10
+<transcript>: We've created a group. I'm gonna connect to it.
+
+00:18:10
+<transcript>: and
+
+00:18:13
+<transcript>: And now I think we should be able to move it around.
+
+00:18:16
+<transcript>: Yeah, yeah? So I gotta create some poses.
+
+00:18:20
+<transcript>: Let's see.
+
+00:18:20
+<transcript>: how come
+
+00:18:27
+<transcript>: How come I do this in a way that you guys can see it? I need to let's just add it to this scene, too. Let's add.
+
+00:18:29
+<transcript>: Add scene.
+
+00:18:31
+<transcript>: Office.
+
+00:18:31
+<transcript>: keyboard
+
+00:18:32
+<transcript>: Keyboard.
+
+00:18:34
+<transcript>: Okay.
+
+00:18:37
+<transcript>: We'll scale it down.
+
+00:18:37
+<transcript>: i'll just put
+
+00:18:40
+<transcript>: I'll just put it up here in the corner somewhere.
+
+00:18:40
+<transcript>: and
+
+00:18:42
+<transcript>: And then this.
+
+00:18:42
+<transcript>: scene
+
+00:18:43
+<transcript>: Scene.
+
+00:19:00
+<transcript>: We need to put. Okay, so let's see that's the camera. So I'm gonna move it around and we're gonna create poses. I think that's the idea. Here. We save poses. We'll just call the current pose pose once. Okay.
+
+00:19:08
+<transcript>: Yeah. What do we think.
+
+00:19:19
+<transcript>: We'll try that pose.
+
+00:19:24
+<transcript>: Okay. So now we should be able to from the SDK.
+
+00:19:28
+<transcript>: Theoretically we should be able to.
+
+00:19:28
+<transcript>: like call
+
+00:19:31
+<transcript>: Like call those two poses and make the camera move around.
+
+00:19:31
+<transcript>: let's just
+
+00:19:33
+<transcript>: Let's just test that it actually.
+
+00:19:33
+<transcript>: moves
+
+00:19:34
+<transcript>: Moves.
+
+00:19:37
+<transcript>: Is it moving.
+
+00:19:45
+<transcript>: Very slowly, so we need to speed it up.
+
+00:19:48
+<transcript>: Do you see the moving see it.
+
+00:19:52
+<transcript>: Removing let's just go over to the scene.
+
+00:19:52
+<transcript>: ooh
+
+00:19:54
+<transcript>: Ooh cinematic.
+
+00:19:58
+<transcript>: Now if only there was something interesting going on in this room.
+
+00:19:59
+theruggedbear: this looks dooope !
+
+00:20:01
+<transcript>: To justify all the cinema.
+
+00:20:03
+andom: OOh this is cool
+
+00:20:03
+<transcript>: Yeah, it looks pretty cool, isn't it.
+
+00:20:03
+<transcript>: like
+
+00:20:07
+sikmofo: this production value
+
+00:20:07
+<transcript>: Like it's moving. It's not nice and smooth too.
+
+00:20:09
+sikmofo: how about that
+
+00:20:11
+jackysono: Bro thats awesome lol
+
+00:20:14
+<transcript>: So how do we introduce this into the stream in a way that's worth doing.
+
+00:20:16
+<transcript>: That's the question.
+
+00:20:17
+yeltrah_: Wow
+
+00:20:18
+<transcript>: How do we.
+
+00:20:18
+<transcript>: how do
+
+00:20:18
+delvoid: zoom zoom zoom
+
+00:20:24
+oetziofficial: yooo that looks dope!
+
+00:20:25
+sargath666: Is it loud?
+
+00:20:25
+<transcript>: How do we how do we want to do this? I think just during the break, like, every time I take a break, so like every time I pee.
+
+00:20:25
+<transcript>: there's gonna be some
+
+00:20:26
+andom: how fast can it be
+
+00:20:30
+laytanl_: Hello!
+
+00:20:45
+<transcript>: There's gonna be some production value involved. I'll say, like, oh, got a pee because I drink all this stuff, and then I'll leave and the camera will be like, panning and like, watching the office or something, and then go to the keyboard or something. I don't know. We think the cool thing is, it's just an SDK, just a web app that I can, like, a web endpoint. I can hit locally on my local network.
+
+00:20:45
+<transcript>: and
+
+00:20:50
+jackysono: following you as you leave the room
+
+00:20:53
+<transcript>: And I can change poses so we can set as many poses as we want. Well, I say that I think we can set six poses.
+
+00:20:53
+<transcript>: it can be
+
+00:20:53
+tayloreddev: chat controls the movement then chaos insues LUL
+
+00:21:06
+<transcript>: It can be in all these different poses. I can have it animate just between them just bounce around continuously. They could just pop in every once in a while. I don't know. There's a lot of stuff we can do with it. I still haven't. Really. I don't know. I've been sick. These ideas have been like, as I've been laying in bed.
+
+00:21:08
+<transcript>: Okay.
+
+00:21:08
+<transcript>: let's see
+
+00:21:11
+<transcript>: Let's see. What do we think? You may have great ideas.
+
+00:21:19
+<transcript>: Oh, shoot, cafe today we are not building. Aw, guess I should update that. I just. I don't know how to do that quickly.
+
+00:21:19
+<transcript>: false a bot like
+
+00:21:24
+<transcript>: False a bot. Like I always come in here and there's. I know there's a way to do it, like from the chat.
+
+00:21:26
+<transcript>: Let's see today.
+
+00:21:30
+daeeyy: @TayloredDev coupled with a chat controlled nerf gun
+
+00:21:33
+<transcript>: As short for project.
+
+00:21:33
+<transcript>: yeah
+
+00:21:38
+<transcript>: Yeah. Edit. I think that's probably not what I want to do, but.
+
+00:21:38
+<transcript>: playing
+
+00:21:41
+daeeyy: thanks to whoever gifted me a sub btw
+
+00:21:42
+<transcript>: Playing with a mechanical camera.
+
+00:21:43
+cowfacedude99: check if it has editcom inside chat.
+
+00:21:43
+<transcript>: And.
+
+00:21:43
+<transcript>: an
+
+00:21:47
+<transcript>: An SDK to control it. I don't know.
+
+00:21:52
+<transcript>: So all this stuff is called.
+
+00:21:53
+<transcript>: It's. Edelcrom.
+
+00:21:53
+<transcript>: is the hardware
+
+00:21:55
+<transcript>: Is the hardware.
+
+00:21:57
+<transcript>: And.
+
+00:22:00
+yeltrah_: !today
+
+00:22:00
+oetziofficial: Can you add/remove via the SDK poses? then you could have infinite possibilities! :O
+
+00:22:00
+fossabot: Playing with a mechanical camera and an SDK to control it
+
+00:22:03
+<transcript>: Woke how that you hand it in your 50 page thesis? Ooh.
+
+00:22:03
+<transcript>: is this for
+
+00:22:04
+<transcript>: Is this for.
+
+00:22:10
+<transcript>: For like a Masters or a PhD or. I don't know. They called that everywhere else.
+
+00:22:10
+<transcript>: that's what we call
+
+00:22:12
+<transcript>: That's what we call them in the us.
+
+00:22:14
+tayloreddev: mount a nerd gun on the camera then chat tries to hit the target genius
+
+00:22:20
+caldotjs: bachelors thesis
+
+00:22:23
+<transcript>: Chat controls the movement, then chaos, and Sues, Hey, Taylor.
+
+00:22:23
+<transcript>: i love it
+
+00:22:26
+<transcript>: I love it light. And here. Hello, Layton.
+
+00:22:30
+<transcript>: Chat controlled Nerf gun. Now we're just getting into.
+
+00:22:30
+<transcript>: some crazy
+
+00:22:32
+<transcript>: Some crazy ideas.
+
+00:22:39
+<transcript>: Check if it has Edit. Comm inside chat. Oh, Edit command.
+
+00:22:39
+andom: how fast can the camera move?
+
+00:22:42
+<transcript>: That be in here, like built in or something.
+
+00:22:45
+<transcript>: Edit.com.
+
+00:22:45
+<transcript>: edit
+
+00:22:47
+<transcript>: Edit CMD. There we go.
+
+00:22:47
+<transcript>: enable
+
+00:22:50
+<transcript>: Enable. So now I should be able to edit.
+
+00:22:50
+<transcript>: let's just
+
+00:22:59
+<transcript>: Let's just try this. I need to be able to do this. Bachelor's thesis gotcha very cool, Calvar. How fast can the camera move? Let's just find out.
+
+00:22:59
+<transcript>: let's just see
+
+00:23:14
+<transcript>: Let's just see how fast it can move. Can you add remove via this SDK poses? You can. Yeah. You can actually change the poses. The problem is like, Well, I guess. Yeah, we could control we could actually move the camera around with the SDK and then save a pose. Yeah.
+
+00:23:14
+<transcript>: i mean we could do
+
+00:23:16
+<transcript>: I mean we could do anything we want.
+
+00:23:16
+<transcript>: i think it
+
+00:23:18
+<transcript>: I think it's pretty.
+
+00:23:18
+<transcript>: pretty open
+
+00:23:21
+<transcript>: Pretty open ended. So how do I edit it? Command. Let's just try this edit.
+
+00:23:21
+<transcript>: command
+
+00:23:25
+<transcript>: Command and I guess I just do like the name. And then what I want it to say.
+
+00:23:25
+<transcript>: so like today
+
+00:23:26
+<transcript>: So like today.
+
+00:23:32
+<transcript>: We're playing with mechanical.
+
+00:23:32
+<transcript>: mechanics
+
+00:23:34
+adamdotdev: !editcmd today we're playing with mechanical cameras!
+
+00:23:34
+fossabot: @adamdotdev Successfully updated command "!project"
+
+00:23:35
+<transcript>: Mechanics, cameras.
+
+00:23:42
+andom: !project
+
+00:23:42
+fossabot: we're playing with mechanical cameras!
+
+00:23:45
+yeltrah_: !project
+
+00:23:46
+<transcript>: Oh, it works. Wait. Yeah. Project. So it worked with the Alias because today is actually an alias. Cool. Thanks so much for the follows. Larry Dane.
+
+00:23:46
+<transcript>: an exc
+
+00:23:48
+<transcript>: An exception.
+
+00:23:55
+cowfacedude99: you might want to play with the permissions
+
+00:23:56
+<transcript>: Cool. Cool. So that works. Now know how to do the edit command. That that's gonna save some time. Okay, let's see how fast we can move this camera. That sounds fun.
+
+00:23:56
+<transcript>: here we
+
+00:23:58
+yeltrah_: !dadjoke
+
+00:23:59
+fossabot: @yeltrah_ What do I look like? A JOKE MACHINE!?
+
+00:24:02
+<transcript>: Here we go. So speed hundred percent here's the fastest.
+
+00:24:02
+<transcript>: fastest
+
+00:24:04
+<transcript>: Fastest we can move it.
+
+00:24:09
+<transcript>: What's doing? Is it going to the.
+
+00:24:15
+<transcript>: Pose. It was on. I guess.
+
+00:24:17
+theruggedbear: pose 1 is the keyboard
+
+00:24:17
+<transcript>: I guess I was supposed.
+
+00:24:21
+<transcript>: One or two.
+
+00:24:27
+<transcript>: It's making a noise.
+
+00:24:31
+<transcript>: This is doing nothing though.
+
+00:24:31
+<transcript>: let's try
+
+00:24:33
+<transcript>: Let's try. Post two.
+
+00:24:37
+<transcript>: Okay, it's set on the fastest.
+
+00:24:41
+<transcript>: So I guess this is the fastest.
+
+00:24:46
+<transcript>: I don't know. That's not all that fast, is it.
+
+00:24:52
+<transcript>: 's Pretty slow.
+
+00:24:52
+<transcript>: actually
+
+00:24:53
+<transcript>: Actually.
+
+00:24:57
+<transcript>: Well.
+
+00:24:59
+<transcript>: I mean it's.
+
+00:24:59
+oetziofficial: is it the ease function?
+
+00:25:03
+<transcript>: Let's see what's the slowest then I feel like.
+
+00:25:06
+<transcript>: That's the fastest.
+
+00:25:11
+yeltrah_: Man that room you are in is pretty dope...movie production
+
+00:25:14
+<transcript>: So go faster in this direction. I feel like it's weird that you're seeing my whole profile. I don't know. This is like a side of me that the internet hasn't seen kind of creeps me out.
+
+00:25:17
+<transcript>: Sick Mofo.
+
+00:25:17
+<transcript>: ten subs
+
+00:25:25
+<transcript>: Ten subs. Hey, we got the we got the keyboard ship to Iceland. I hope it's okay that I just told them you live in Iceland. Sigma. So.
+
+00:25:28
+<transcript>: I'm so sorry.
+
+00:25:28
+<transcript>: if you didn't want
+
+00:25:31
+<transcript>: If you didn't want me to say that.
+
+00:25:31
+<transcript>: might want to
+
+00:25:33
+<transcript>: Might want to play with the permissions.
+
+00:25:33
+theruggedbear: dox ? Kappa
+
+00:25:36
+sikmofo: yeah of course, its fine
+
+00:25:38
+<transcript>: Yeah, that's a good call. Can anybody just edit a command? Is that what you're saying.
+
+00:25:41
+<transcript>: Oh, the ease function. Maybe it'll go faster if I turn.
+
+00:25:41
+<transcript>: easing off
+
+00:25:43
+<transcript>: Easing off.
+
+00:25:45
+yeltrah_: Iceland, nice !!
+
+00:25:47
+<transcript>: Maybe that's the maybe that's the trick.
+
+00:25:51
+<transcript>: Okay, it's fine.
+
+00:25:56
+cedpoilly: @sikmofo thanks for the gift!
+
+00:25:57
+yeltrah_: Haha
+
+00:26:00
+cedpoilly: Hi everyone
+
+00:26:02
+<transcript>: For a second I was like, what am I doing? Just told somebody I said, I mean, I sense a pretty big place. Like, I guess I didn't really like.
+
+00:26:02
+<transcript>: narrow
+
+00:26:04
+<transcript>: Narrow it down too much.
+
+00:26:04
+<transcript>: so
+
+00:26:09
+<transcript>: So Sigmova yesterday or Tuesday. Won the Kinesis Advantage 360.
+
+00:26:09
+<transcript>: and it
+
+00:26:11
+<transcript>: And it has been shipped.
+
+00:26:14
+cedpoilly: Just hopping by to say hi
+
+00:26:17
+<transcript>: We got it shipped now. I just hope it makes its way through Customs, all that stuff.
+
+00:26:17
+<transcript>: let me
+
+00:26:21
+<transcript>: Let me know Sigmofo, let me know should be there soon.
+
+00:26:26
+<transcript>: What is this error? Unexpected token.
+
+00:26:30
+<transcript>: Accounts. That Spotify. Oh, that reminds me. We should be playing music.
+
+00:26:32
+<transcript>: Let's do that.
+
+00:26:36
+<transcript>: Guess I don't have to always come over here. I've got a button to do that.
+
+00:26:43
+<transcript>: Okay. So it's not very fast, but let's play with the ease in and out. So I turn E's in off.
+
+00:26:43
+<transcript>: so
+
+00:26:46
+sikmofo: UPS says monday sooo should be soon :D
+
+00:26:53
+<transcript>: So that's pose something that poses one was the camera. So it's always the keyboard. So it's on post two. No, it's on. I don't know.
+
+00:26:58
+<transcript>: Sorry on that. Positive.
+
+00:27:06
+<transcript>: There's a lot of, like, calibration and stuff you can do with these things. So I might need to play with it. Like that looked a little jerky.
+
+00:27:10
+<transcript>: Ups says Monday.
+
+00:27:10
+<transcript>: whoo
+
+00:27:12
+<transcript>: Whoo.
+
+00:27:12
+<transcript>: that's awesome
+
+00:27:13
+<transcript>: That's awesome.
+
+00:27:21
+daglee: @sikmofo So on sunday they will lose it.
+
+00:27:21
+<transcript>: Okay. So it's moving. I don't know that I notice the easing, the different.
+
+00:27:23
+<transcript>: You may notice that.
+
+00:27:23
+<transcript>: i feel like i'm
+
+00:27:27
+<transcript>: I feel like I'm in so many places on this frame because I am I'm in like.
+
+00:27:27
+<transcript>: infinite
+
+00:27:33
+<transcript>: Infinite places on this frame. This is gonna help me with my posture.
+
+00:27:36
+<transcript>: I'm gonna have to set up real straight.
+
+00:27:39
+<transcript>: So I'm like doing this.
+
+00:27:39
+<transcript>: you guys
+
+00:27:41
+<transcript>: You guys are watching from the side.
+
+00:27:47
+<transcript>: So on Sunday to lose it don't say that dagly.
+
+00:27:47
+<transcript>: no
+
+00:27:49
+<transcript>: No, don't say that.
+
+00:27:54
+<transcript>: Thank you so much, Chickmofo, for the Ten Gift subs. I really appreciate that.
+
+00:28:00
+<transcript>: Okay, let's change the topic because that's not what we're doing anymore.
+
+00:28:00
+<transcript>: topic
+
+00:28:02
+<transcript>: Topic is.
+
+00:28:06
+<transcript>: Getting familiar with.
+
+00:28:09
+<transcript>: Edel. Crown.
+
+00:28:09
+adamdotdev: !topic getting familiar with the edelkrone sdk
+
+00:28:11
+<transcript>: Sdk.
+
+00:28:15
+<transcript>: What we're doing. So what we're gonna be doing very shortly.
+
+00:28:15
+<transcript>: okay
+
+00:28:16
+<transcript>: Okay.
+
+00:28:16
+<transcript>: so
+
+00:28:20
+<transcript>: So is this in the way? I guess this is gonna be in the way of, like.
+
+00:28:28
+theruggedbear: i clicked on the herman miller chair and it's 2k$ wtf.
+
+00:28:31
+<transcript>: I'm just gonna hide it for now. Where is it? Office keyboard. I'm gonna hide it for a SEC while we kind of play with the SDK and learn how we connect to this thing. I just don't know anything at this point.
+
+00:28:31
+<transcript>: i've got some
+
+00:28:33
+<transcript>: I've got some Docs pulled up.
+
+00:28:33
+<transcript>: where is it
+
+00:28:35
+<transcript>: Where is it? Here we go.
+
+00:28:39
+<transcript>: Are these my. This is my overlay. I think.
+
+00:28:41
+<transcript>: Yeah.
+
+00:28:43
+<transcript>: So let's do this. Let's.
+
+00:28:52
+<transcript>: Add all this.
+
+00:28:57
+<transcript>: Oh, no. What I did I think.
+
+00:29:02
+<transcript>: Better giveaway support. I want to just be able to do a giveaway.
+
+00:29:02
+<transcript>: on a whim
+
+00:29:06
+caldotjs: @theruggedbear but its worth it :) aeron gang assemble
+
+00:29:18
+<transcript>: On a whim. That's what I was hoping to accomplish with that last stream is like, make it so solid that I felt like I could just hit the button when I went to do one, hit the button when I want to stop it, you know? I mean, and we almost got there, but I think there's still some little ironing out stuff to do.
+
+00:29:24
+<transcript>: Cars 21, nine. Thanks so much for the follow. Appreciate that. Follow.
+
+00:29:28
+<transcript>: Okay. So we've committed.
+
+00:29:28
+<transcript>: did i push
+
+00:29:30
+<transcript>: Did I push that stuff.
+
+00:29:32
+andom: do you have some tips to automate aws iam access keys rotation/renewal
+
+00:29:34
+<transcript>: Then I push it.
+
+00:29:40
+<transcript>: No. Okay. Okay. So I just got to upload my huge music file.
+
+00:29:45
+<transcript>: Okay.
+
+00:29:45
+<transcript>: let's
+
+00:29:55
+<transcript>: Let's go to let's see, how am I gonna want to do this? So I think during break, is that's actually perfect? We're in the brake file. This is when I'm probably gonna want to do something.
+
+00:29:58
+<transcript>: That I can immediately think of.
+
+00:30:06
+<transcript>: So what am I gonna want to do? I'm going to want to with the brake scene today.
+
+00:30:06
+<transcript>: oh wait
+
+00:30:10
+<transcript>: Oh, wait, I can just go to the brake scene. It's gonna.
+
+00:30:14
+<transcript>: Do if I go to the brake scene.
+
+00:30:14
+<transcript>: can i
+
+00:30:15
+<transcript>: Can I do that.
+
+00:30:15
+<transcript>: i can't remember
+
+00:30:19
+<transcript>: I can't remember if stuff starts kicking in.
+
+00:30:20
+<transcript>: I don't remember.
+
+00:30:40
+<transcript>: And do you have some tips to automate AWS. I am access keys rotation renewal. I got a tip. Don't use IAM users so they don't have access keys. Seriously, don't AWS. Ssl. It's called something else.
+
+00:30:40
+<transcript>: now
+
+00:30:47
+<transcript>: Now, but that's the way that's the way you manage access into your database accounts.
+
+00:30:52
+<transcript>: You really there are very rare circumstances where you should ever have to create.
+
+00:30:52
+<transcript>: an iam user
+
+00:30:57
+<transcript>: An IAM user and have access keys floating around. Those are long lived credentials.
+
+00:30:57
+<transcript>: the best
+
+00:30:59
+<transcript>: The best approach is.
+
+00:30:59
+<transcript>: use something like
+
+00:31:01
+<transcript>: Use something like SSO. It's got a big.
+
+00:31:01
+<transcript>: directory
+
+00:31:07
+<transcript>: Directory if you don't have another IDP, like Google or something you're gonna use for SSO.
+
+00:31:07
+<transcript>: so
+
+00:31:25
+<transcript>: So it's got a built in directory. You can create users in there, but then they're using short lived credentials. Their credentials aren't long living on their machine, like, they basically log in to the SSO portal and they get shortlived temporary credentials. Then you don't have anything. You can leak that's permanent and you have to, like, kill it or rotate it or whatever. It's just a lot safer.
+
+00:31:35
+<transcript>: So there there's your answer. Just don't use IAM users if at all possible. There are very few cases. Like if I do stuff with Versaille and I want to interact with.
+
+00:31:35
+<transcript>: a queue or something
+
+00:31:37
+<transcript>: A queue or something.
+
+00:31:37
+<transcript>: in my
+
+00:31:38
+<transcript>: In my the best account.
+
+00:31:38
+<transcript>: those are the
+
+00:31:41
+<transcript>: Those are the rare circumstances where.
+
+00:31:48
+<transcript>: I have to actually create an Im user for Versaille to connect into my account and have very specific permissions.
+
+00:31:58
+<transcript>: That that's like machine machine. It really should never be a case where you create an Im user for a user for an actual person where they're gonna have those credentials sitting on their machine.
+
+00:31:58
+<transcript>: you should only
+
+00:32:06
+<transcript>: You should only really create them for cases where you need like machined machine server to server communication between systems that don't support.
+
+00:32:06
+<transcript>: like
+
+00:32:20
+<transcript>: Like role based authentication. Okay, there you go. There's my answer. And I'm glad someone asked me an AWS question. Actually know some stuff about AWS. I don't know much about Web Dev. I do it every day. I don't know much about it.
+
+00:32:22
+<transcript>: I know some AWS stuff.
+
+00:32:25
+theruggedbear: AWS course coming soon ?
+
+00:32:29
+andom: this is my company where I work at soo that is propably not a possibility to change that :D
+
+00:32:37
+<transcript>: Okay, we're gonna go to the brake scene. I'm not taking a break. This is not a real break. Don't look like Mario. Like if Mario, or like, trying to, like, break into something and be all sneaky. He was like, wearing all black.
+
+00:32:37
+<transcript>: kind
+
+00:32:39
+<transcript>: Kind of like.
+
+00:32:39
+<transcript>: mario
+
+00:32:41
+<transcript>: Mario is a theft.
+
+00:32:41
+<transcript>: a little bit
+
+00:32:43
+<transcript>: A little bit. I don't know.
+
+00:32:47
+oetziofficial: mario the robber
+
+00:32:49
+<transcript>: Okay, so here's the break scene. We're not taking a break. If you can, you can't hear me.
+
+00:32:56
+<transcript>: So that's one side effect of the break scene as you can't hear me I forgot.
+
+00:32:56
+<transcript>: but
+
+00:32:59
+delvoid: "you cant hear me"
+
+00:33:00
+<transcript>: But that wasn't an actual break. Mario the Robert exactly.
+
+00:33:13
+<transcript>: Aws course. Coming soon. Yeah. Rugged Bear. More than that. Like my whole career. From this point forward, all I care is to teach like that's. The only thing I really want to do.
+
+00:33:13
+<transcript>: so
+
+00:33:17
+<transcript>: So I'm gonna not only create a course I'm gonna be creating.
+
+00:33:17
+<transcript>: courses
+
+00:33:23
+<transcript>: Courses and maybe not, like, individually selling them. I'm just gonna create, like a ton of content.
+
+00:33:23
+<transcript>: training
+
+00:33:28
+<transcript>: Training content. And I'm gonna put it on YouTube, and I'm gonna just teach people stuff.
+
+00:33:28
+<transcript>: sounds
+
+00:33:30
+<transcript>: Sounds very fulfilling.
+
+00:33:32
+laytanl_: Ooh we got a teaser video again today HypeCheer
+
+00:33:35
+parkour_peter: Hello everyone!
+
+00:33:47
+<transcript>: What was I done? Oh, yes, the brake scene. We're gonna change the brake scene. Oh, it's already on the camera. So the brakes, they've already uses this camera. It's just we're gonna be moving it around. So when we switch to a break, I want the camera to go between posts. That's the first thing we want to try and accomplish here. So how do we do that? Let's see.
+
+00:33:47
+<transcript>: how to interface
+
+00:33:50
+<transcript>: How to interface with the Edelkrone SDK.
+
+00:33:50
+<transcript>: so the s
+
+00:33:58
+<transcript>: So the SDK runs. I'm already running it. It runs in the background. Geez, I got so much stuff running now. Here's the SDK version.
+
+00:33:58
+<transcript>: nine
+
+00:34:02
+<transcript>: 9110, or zero nine. Okay.
+
+00:34:02
+<transcript>: sdk
+
+00:34:04
+<transcript>: Sdk version Update okay.
+
+00:34:16
+<transcript>: If your program language or software environment, consider http Yep Yep we're good periodic status update highlevel motion control methods so I can joystick move it. That's awesome.
+
+00:34:27
+<transcript>: I wonder if I can move it faster if I do it manually. Like if we don't use this letter.
+
+00:34:27
+<transcript>: this web app
+
+00:34:28
+<transcript>: This Web app.
+
+00:34:34
+<transcript>: Like this is just an app using the SDK. I wonder if we could like.
+
+00:34:37
+<transcript>: Move it really fast if we just did it.
+
+00:34:37
+<transcript>: with
+
+00:34:42
+<transcript>: With like joystick commands. You know I'm saying thanks for the follow Transmax.
+
+00:34:46
+<transcript>: Speed ramping.
+
+00:34:56
+<transcript>: Oh Safety Feature In order for system to move in this mode, you must send periodic updates if you stop sending a joystick move command system stops moving after around 1 second. Okay.
+
+00:34:56
+<transcript>: so i could
+
+00:35:02
+<transcript>: So I could just be peppering it with move commands. And it might just like, spin around in circles. Who knows.
+
+00:35:11
+<transcript>: Okay. So keepos that's what I was trying to do.
+
+00:35:14
+<transcript>: I can store current poses.
+
+00:35:19
+<transcript>: Keep it. Okay. This is documentation. Is not that helpful. I want to like.
+
+00:35:19
+<transcript>: real stuff
+
+00:35:22
+<transcript>: Real stuff you know.
+
+00:35:22
+<transcript>: low level
+
+00:35:30
+<transcript>: Low level, real time move. You can move. You can use this method to tell your Edocron Motion control bundle to move to a particular position with dynamic set points along the way.
+
+00:35:34
+<transcript>: What's that mean? I don't get it. How's that different from pose.
+
+00:35:41
+<transcript>: Can we use the sin and play back our precomputed motion profile data to real motion control system in real time. Okay.
+
+00:35:54
+<transcript>: Must create a wired setup to fill this functioning application. Wireless Hoops are not that deterministic enough to send continuous set points with down to 16 millisecond resolution. I actually do have all the wired stuff I have it all wired except.
+
+00:35:54
+<transcript>: the
+
+00:35:56
+<transcript>: The the Jib one.
+
+00:35:56
+<transcript>: the jib
+
+00:35:59
+<transcript>: The jib thing I use.
+
+00:35:59
+<transcript>: it doesn't
+
+00:36:08
+<transcript>: It doesn't have the wired thing, so it's wireless, so I don't know if that would mess it up. Hey, park, four.
+
+00:36:10
+<transcript>: How you doing.
+
+00:36:27
+<transcript>: You did get a teaser video late and you'll get one every day today's. Wasn't that great? If I'm being honest, this is kind of like I've set the bar a little higher for myself today's the Subpar. But I woke up an hour late and I'm sick, so they'll get back to being the decent again.
+
+00:36:27
+<transcript>: i promise
+
+00:36:28
+<transcript>: I promise.
+
+00:36:34
+aminunes: im sick too
+
+00:36:35
+laytanl_: There was none on Tuesday
+
+00:36:37
+<transcript>: The witty, the Widey, the witty, Whitey, witty, Whitey. Thank you for the follow. I really do appreciate your follow.
+
+00:36:39
+aminunes: i feel you
+
+00:36:42
+<transcript>: Okay. So I just need to send some http stuff.
+
+00:36:42
+<transcript>: not
+
+00:36:45
+<transcript>: Not send a complete motion profile at once.
+
+00:36:57
+<transcript>: Okay. Full control of pairing a single or multiple Edochrome Motion motion control systems into a bundle connected.
+
+00:36:57
+<transcript>: via wireless
+
+00:37:05
+<transcript>: Via wireless or wired interfaces. After creating a bundle, you can control motion in systems receive periodic response. Okay. Yeah, I get it.
+
+00:37:08
+<transcript>: What if I just want to connect to an existing bundle.
+
+00:37:17
+<transcript>: Or I can restore the Mac addresses and create the bundle at the beginning. Every time I run the app, that'd be better. I don't want to use this control thing.
+
+00:37:22
+<transcript>: High level.
+
+00:37:24
+<transcript>: Let's see.
+
+00:37:30
+<transcript>: High level motion control methods. Keep those move.
+
+00:37:35
+<transcript>: Can we get to the actual like stuff.
+
+00:37:41
+<transcript>: Where's the stuff you know, whereas like, oh, here we go. Http interface.
+
+00:37:49
+<transcript>: Initiate wireless scan.
+
+00:37:49
+<transcript>: full
+
+00:37:54
+<transcript>: Full control of pairing a single or multiple edochrone. Okay.
+
+00:38:03
+<transcript>: So I can scan that way. That's just defined devices. Let's just do this. I need to do something. I need to hit the thing with something.
+
+00:38:03
+<transcript>: what
+
+00:38:05
+<transcript>: What is the dress.
+
+00:38:05
+<transcript>: where's the
+
+00:38:09
+<transcript>: Where's the oh, there's a WebSocket interface.
+
+00:38:11
+<transcript>: Okay.
+
+00:38:16
+<transcript>: Where is the address.
+
+00:38:16
+<transcript>: that's what i
+
+00:38:18
+<transcript>: That's what I need to know right now.
+
+00:38:22
+<transcript>: Default configuration. Okay. So it's up here. Maybe configure.
+
+00:38:29
+<transcript>: Http server.
+
+00:38:31
+<transcript>: Is.
+
+00:38:31
+<transcript>: on
+
+00:38:34
+<transcript>: On Port this thing. Okay.
+
+00:38:34
+<transcript>: so let's just do
+
+00:38:37
+<transcript>: So let's just do this. Let's say.
+
+00:38:43
+<transcript>: I created a new.
+
+00:38:50
+<transcript>: How do I create a new tab or window or whatever in T. Mouse anyone.
+
+00:38:52
+<transcript>: Anyone.
+
+00:38:59
+<transcript>: Yeah. Late Night. I missed it on Tuesday. Yeah, that's right. I'm back. I'm back to making my teasers.
+
+00:38:59
+<transcript>: that should be the
+
+00:39:01
+<transcript>: That should be the only miss.
+
+00:39:10
+daglee: <c-b>c
+
+00:39:12
+<transcript>: Oh, you're sick to Amy. I'm sorry about that. I'm mostly coming out of it. I think I'm feeling a lot better, but last I was kind of rough, and I didn't expect it to be. I thought I thought I was out of it completely.
+
+00:39:12
+<transcript>: tmu
+
+00:39:15
+<transcript>: Tmux control a CEO. Okay.
+
+00:39:15
+<transcript>: there we go
+
+00:39:17
+<transcript>: There we go.
+
+00:39:17
+<transcript>: new team
+
+00:39:21
+<transcript>: New team Hux. What I want to do is just do some curling.
+
+00:39:23
+<transcript>: Curl.
+
+00:39:27
+<transcript>: Just like this. Maybe.
+
+00:39:29
+<transcript>: And then Port.
+
+00:39:29
+<transcript>: three
+
+00:39:30
+<transcript>: Three.
+
+00:39:30
+<transcript>: two
+
+00:39:32
+<transcript>: Two, two.
+
+00:39:36
+<transcript>: Four, two.
+
+00:39:38
+<transcript>: I'm gonna curl it over like that.
+
+00:39:40
+<transcript>: The the end point is what.
+
+00:39:49
+daglee: Now I have thought you about 20% of what I know about tmux.
+
+00:39:52
+<transcript>: Let's just do this. What's link? Id. How do I get the links? The available links.
+
+00:40:07
+<transcript>: Oh, I have to post the payload body. I don't even know how to do that in curl. I'm gonna be honest. Curl. Postbody. I've searched this before clearly.
+
+00:40:11
+<transcript>: So.
+
+00:40:11
+<transcript>: let's
+
+00:40:12
+<transcript>: Let's.
+
+00:40:12
+<transcript>: do this
+
+00:40:14
+<transcript>: Do this.
+
+00:40:23
+<transcript>: Curl X, post.
+
+00:40:23
+<transcript>: there's
+
+00:40:25
+<transcript>: There's, the URL.
+
+00:40:33
+<transcript>: H content type.
+
+00:40:37
+jenswoeste: hey adam & chat!
+
+00:40:37
+<transcript>: Content type.
+
+00:40:40
+<transcript>: Application.
+
+00:40:43
+<transcript>: Json.
+
+00:40:45
+<transcript>: D.
+
+00:40:45
+<transcript>: and then here's
+
+00:40:47
+<transcript>: And then here's my body. Okay.
+
+00:40:50
+<transcript>: Okay.
+
+00:40:50
+<transcript>: so i
+
+00:41:01
+<transcript>: So I want to hit. I'm gonna hit one endpoint here. I thought I could do this one, but I don't know the link ID. Am I supposed to know the link ID? Is it on here? Maybe it's on here. Oh, there it is. Link ID. Cool.
+
+00:41:07
+<transcript>: I guess that's always gonna be that like the Link II will stay that way. Maybe.
+
+00:41:13
+<transcript>: Let's see.
+
+00:41:19
+<transcript>: Link ID. So this is going to be version one link.
+
+00:41:22
+<transcript>: The link ID.
+
+00:41:29
+<transcript>: And then the body is wireless pairing scan start no.
+
+00:41:31
+<transcript>: Of course.
+
+00:41:34
+<transcript>: I.
+
+00:41:44
+<transcript>: And start.
+
+00:41:44
+<transcript>: okay
+
+00:41:45
+<transcript>: Okay.
+
+00:41:58
+<transcript>: Does it work? Link command is ignored. Link is already paired. Un. Paired. The link adapter. If you want to send a link related to command, okay, well, I don't. I don't want to unpare it because it was kind of a pain to get it paired.
+
+00:41:58
+<transcript>: let's just try and
+
+00:42:01
+<transcript>: Let's just try and send a key pose thing.
+
+00:42:04
+parkour_peter: Do you prefer AWS or GCP?
+
+00:42:05
+<transcript>: Keypose move with fixed speed.
+
+00:42:10
+<transcript>: Let's try this. I guess I need to know the bundle.
+
+00:42:17
+<transcript>: Can I just get this the information. Let's see.
+
+00:42:20
+<transcript>: Link, adapter.
+
+00:42:20
+<transcript>: get link
+
+00:42:24
+<transcript>: Get Linked module list? Yeah, I need to know. Like the bundle.
+
+00:42:24
+<transcript>: or something
+
+00:42:25
+<transcript>: Or something.
+
+00:42:25
+<transcript>: what is the
+
+00:42:29
+<transcript>: What is the bundle? Oh, let's just link ID. Okay.
+
+00:42:29
+<transcript>: so
+
+00:42:35
+<transcript>: So I pass it command keypose, move, fix, speed, index, acceleration and speed.
+
+00:42:35
+<transcript>: okay
+
+00:42:40
+<transcript>: Okay, so index is just zero through 50. Base on the poses.
+
+00:42:40
+<transcript>: oh easy this
+
+00:42:42
+<transcript>: Oh, easy. This is too easy. Look at this.
+
+00:42:42
+<transcript>: so we're
+
+00:42:44
+<transcript>: So we're just gonna say.
+
+00:42:47
+<transcript>: In this last words, too easy.
+
+00:42:58
+<transcript>: Version One Slash bundle.
+
+00:43:00
+<transcript>: Bundle.
+
+00:43:02
+<transcript>: And then.
+
+00:43:07
+<transcript>: Link ID is that yeah, we're gonna post.
+
+00:43:07
+<transcript>: a body
+
+00:43:09
+<transcript>: A body.
+
+00:43:09
+<transcript>: oh
+
+00:43:10
+<transcript>: Oh, we're gonna post.
+
+00:43:10
+<transcript>: virtual
+
+00:43:17
+<transcript>: Virtual and bundle it's gonna have command which is key pose.
+
+00:43:17
+<transcript>: move
+
+00:43:20
+<transcript>: Move fixed speed.
+
+00:43:22
+<transcript>: Okay.
+
+00:43:24
+<transcript>: And then.
+
+00:43:24
+<transcript>: in that
+
+00:43:26
+<transcript>: In that.
+
+00:43:31
+<transcript>: We're gonna do one. I don't know what Pose? It's currently on.
+
+00:43:31
+<transcript>: but
+
+00:43:33
+<transcript>: But that would be post.
+
+00:43:33
+<transcript>: two
+
+00:43:34
+<transcript>: Two.
+
+00:43:34
+<transcript>: acceler
+
+00:43:36
+<transcript>: Acceleration.
+
+00:43:37
+<transcript>: Excel.
+
+00:43:37
+<transcript>: duration
+
+00:43:39
+<transcript>: Duration.
+
+00:43:41
+<transcript>: Do one.
+
+00:43:41
+<transcript>: and
+
+00:43:42
+<transcript>: And then.
+
+00:43:45
+<transcript>: Speed.
+
+00:43:45
+<transcript>: we'll also do
+
+00:43:47
+<transcript>: We'll also do one.
+
+00:43:47
+<transcript>: alright how's
+
+00:43:49
+<transcript>: Alright, How's that look.
+
+00:43:54
+<transcript>: Results okay? Oh Oh.
+
+00:43:57
+<transcript>: We're moving.
+
+00:44:00
+<transcript>: It's speed one. The slowest.
+
+00:44:05
+laytanl_: So is this for an extra camera you got?
+
+00:44:06
+<transcript>: Or I'm already on that pose. I'm already on that pose. That's what the problem was. Okay, let's turn that back on. Let's try.
+
+00:44:06
+<transcript>: pos
+
+00:44:09
+<transcript>: Pose zero.
+
+00:44:13
+<transcript>: I should have done the right thing here.
+
+00:44:13
+<transcript>: i did not do the
+
+00:44:15
+<transcript>: I did not do the right thing.
+
+00:44:18
+<transcript>: Zero.
+
+00:44:22
+<transcript>: Oh, is it doing it.
+
+00:44:25
+laytanl_: Did you buy this camera just for the SDK Kappa
+
+00:44:29
+<transcript>: It doesn't seem very fast, but it is moving. It's moving. We're moving.
+
+00:44:31
+oetziofficial: its mooving thoooo
+
+00:44:37
+oetziofficial: that is incredible
+
+00:44:38
+<transcript>: Do you prefer AWS or GCP. I prefer AWS. Ian's is here. Hey, Ian's, in chat.
+
+00:44:40
+<transcript>: Now I have.
+
+00:44:40
+<transcript>: thought you
+
+00:44:44
+<transcript>: Thought you about 20% of what I know about Timok. You've taught me 20%.
+
+00:44:44
+<transcript>: that's awesome
+
+00:44:46
+<transcript>: That's awesome.
+
+00:44:51
+<transcript>: So is this for an extra camera? You got it's. The camera I was pointing at my keyboard.
+
+00:45:03
+shaaah: how does it zoom automatically
+
+00:45:07
+laytanl_: How does this look from your perspective?
+
+00:45:07
+<transcript>: It's the keyboard Cam. We've just got it now on a mechanical dip so it can move around the office. So now if I do zero, let's see. That was one. Okay, so now if I go back to one, it's gonna move back to that previous position. I'll cinematic, like.
+
+00:45:07
+<transcript>: here goes
+
+00:45:09
+<transcript>: Here goes.
+
+00:45:25
+<transcript>: Did you buy this camera just for the SDK? It's not actually the camera, this mechanical. It's just my Sony 87410f. My Sony is seven fours. It's the Edochrome system that's actually.
+
+00:45:25
+<transcript>: mechanical
+
+00:45:30
+<transcript>: Mechanical and moves around how does it look for my perspective? I wish I could show you.
+
+00:45:33
+<transcript>: See? I don't know, I don't know how I could do it.
+
+00:45:40
+<transcript>: That's a great question. Latent. I don't know how I could .1 of my current cameras. They're in fixed positions.
+
+00:45:44
+<transcript>: I could take a picture oh, I can take a picture here we go.
+
+00:45:46
+<transcript>: I'll take a video. Even.
+
+00:45:46
+<transcript>: from my phone
+
+00:45:48
+<transcript>: From my phone.
+
+00:45:54
+<transcript>: There's so many cameras in the top at this point. Okay, so check it out. I'm gonna do a video.
+
+00:45:54
+<transcript>: of
+
+00:45:57
+<transcript>: Of this whole thing doing its thing.
+
+00:45:57
+<transcript>: we're gonna
+
+00:45:57
+shaaah: Damn that entire setup is lit
+
+00:45:59
+<transcript>: We're gonna move it.
+
+00:46:02
+laytanl_: Camera sception
+
+00:46:03
+<transcript>: Okay. Ready for this.
+
+00:46:11
+kevprodev: What kinds of Jib is this ?
+
+00:46:12
+<transcript>: This is so messed up. Cameraception. Exactly. Okay, we ready for this. I'm gonna hit that's not the one. I'm gonna hit this button.
+
+00:46:15
+<transcript>: To go back to Pose zero.
+
+00:46:15
+<transcript>: i'm gonna record
+
+00:46:17
+<transcript>: I'm gonna record.
+
+00:46:20
+<transcript>: You can see it moving around.
+
+00:46:26
+caldotjs: your setup is really nice! I really love it
+
+00:46:28
+<transcript>: Yeah, the setup looks great from this angle. Just wait till you see this video. You can see the corner where it doesn't look so great.
+
+00:46:31
+<transcript>: Here it comes.
+
+00:46:31
+<transcript>: it
+
+00:46:32
+<transcript>: It's moving.
+
+00:46:36
+<transcript>: So it's the way it works.
+
+00:46:36
+<transcript>: i'm kind of
+
+00:46:45
+<transcript>: I'm kind of trying to point some things out. This piece right here. This L piece is like a mechanical head. So the camera can rotate this way. Or this way.
+
+00:46:50
+plzcompile: clean
+
+00:46:51
+<transcript>: Does that make sense? And then this big, long piece is the jib. This all makes sense. When I show you this video.
+
+00:46:51
+<transcript>: this
+
+00:46:59
+<transcript>: This is the jib. And then it's on a rotating thing that rotates as well. Okay, I'm gonna send you the video now.
+
+00:47:04
+<transcript>: I think I can just share this with my Mac.
+
+00:47:05
+plzcompile: acorn1Eyes
+
+00:47:10
+zappy_idk: living in the matrix xD
+
+00:47:12
+<transcript>: What kind of GYB is this? Is an edelchrone edocrone jib.
+
+00:47:12
+<transcript>: let's pull this
+
+00:47:14
+<transcript>: Let's pull this video up.
+
+00:47:14
+<transcript>: and
+
+00:47:16
+<transcript>: And.
+
+00:47:16
+<transcript>: let's see
+
+00:47:18
+<transcript>: Let's see options.
+
+00:47:18
+<transcript>: open
+
+00:47:19
+<transcript>: Open.
+
+00:47:23
+<transcript>: Here it is.
+
+00:47:23
+<transcript>: okay
+
+00:47:24
+<transcript>: Okay.
+
+00:47:28
+<transcript>: I don't know if I can play this, if the music will I don't know what'll happen.
+
+00:47:34
+<transcript>: Welcome to Chat keep proud of Keep pro Dev welcome.
+
+00:47:41
+<transcript>: To chat. Please. Compile. Please. Compile. I can totally resonate with your name.
+
+00:47:42
+oetziofficial: wow its a giant system
+
+00:47:45
+<transcript>: Okay, here we go. I'm gonna play this video. You can see this thing moving around.
+
+00:47:45
+<transcript>: i don't know if you
+
+00:47:47
+<transcript>: I don't know if you can hear that probably not.
+
+00:47:53
+oetziofficial: we can hear it
+
+00:47:56
+<transcript>: I'll try to explain with my mouse. Here what's going on. So that's the jib, this long piece. It can rotate like up and down.
+
+00:47:56
+<transcript>: you know
+
+00:47:59
+<transcript>: You know like see how it's going up now.
+
+00:47:59
+<transcript>: it's moving
+
+00:48:10
+<transcript>: It's moving upward. And then this L piece right here controls the head with the camera on. It can rotate in, like, all accesses, basically. So see how it's kind of tilting it downward.
+
+00:48:10
+<transcript>: but what
+
+00:48:10
+shaaah: Thoughts on the automatically moving camera?
+
+00:48:11
+<transcript>: But what's cool is.
+
+00:48:11
+<transcript>: you can just move
+
+00:48:13
+caldotjs: how much is that thing? its really cool
+
+00:48:16
+shaaah: by detecting the face
+
+00:48:19
+laytanl_: That's so cool
+
+00:48:21
+<transcript>: you can just move it into a position and then save that as opposed you don't have to like figure out how to move it all in concert you just kind of like drag the thing around and then save it as a key pose
+
+00:48:21
+<transcript>: that makes sense
+
+00:48:22
+<transcript>: That makes sense.
+
+00:48:24
+parkour_peter: Do you use it for anything besides streaming?
+
+00:48:26
+jackysono: That's legit
+
+00:48:36
+<transcript>: Oh, in this piece down here at the bottom, rotates. It's funny to watch it without audio. Like this is like a pan thing where the whole jib can rotate. If that makes sense, it's pretty cool. Do I use it for anything beside streaming? So I got it.
+
+00:48:36
+<transcript>: for
+
+00:48:37
+<transcript>: For.
+
+00:48:44
+<transcript>: Where's my OBS go? Is this the screen I had OBS on? I got it for YouTube.
+
+00:48:46
+<transcript>: I've got some plans.
+
+00:48:46
+<transcript>: but
+
+00:48:47
+shaaah: I think its called Insta360
+
+00:48:50
+nunescoffespace: i think my name is updated yey
+
+00:48:51
+<transcript>: But I thought I'd use it on stream. Where's my OBS. There it is.
+
+00:48:53
+<transcript>: Here we go.
+
+00:48:53
+<transcript>: yeah so
+
+00:48:53
+laytanl_: Most overkill setup on twitch though Kappa
+
+00:48:56
+<transcript>: Yeah. So the original intent was YouTube.
+
+00:49:07
+<transcript>: But now it's all kind of blurring together, like YouTube streaming. I'm just trying to teach people stuff. That's all. That's all I want to do.
+
+00:49:10
+<transcript>: Okay.
+
+00:49:14
+zappy_idk: how fast can it move?
+
+00:49:18
+<transcript>: I've actually had this mechanical jib for like a year now, and I've used it for some stuff, mostly, just like testing.
+
+00:49:22
+<transcript>: I'm trying to get this thing to lay out better.
+
+00:49:22
+<transcript>: driving crazy
+
+00:49:23
+<transcript>: Driving crazy.
+
+00:49:30
+<transcript>: I can't hide the stream deck thing, or it'll just go to the other profile and it drives me nuts. Okay.
+
+00:49:34
+<transcript>: Oh you buy Sometimes I love you by sometimes.
+
+00:49:34
+<transcript>: i don't
+
+00:49:41
+<transcript>: I don't love you by okay, that's good enough. So we know how to send http commands. Now.
+
+00:49:41
+<transcript>: that
+
+00:49:43
+<transcript>: That will move it between key poses.
+
+00:49:43
+<transcript>: that's the simplest
+
+00:49:51
+<transcript>: That's the simplest thing we could do is just have I like some poses before I start the stream. And then on break it kind of like moves between those two poses.
+
+00:49:51
+<transcript>: so just kind
+
+00:49:55
+<transcript>: So just kind of signify that I'm going to break. I don't know. Something like that.
+
+00:50:01
+<transcript>: So this is Pose zero.
+
+00:50:01
+<transcript>: and the far
+
+00:50:15
+<transcript>: And the farther away pose is one. I think I would want it to start at one and come to zero so that you spend most of the break just looking at my keyboard right here. But it starts out kind of zoomed out where you can see the whole zoomed out view in my office. And then it comes into it right.
+
+00:50:17
+<transcript>: Let's do that.
+
+00:50:21
+<transcript>: So I guess now I'm ready to.
+
+00:50:26
+<transcript>: Do some stuff we can start doing like a.
+
+00:50:26
+<transcript>: just fetching
+
+00:50:29
+<transcript>: Just fetching and like hitting this thing right.
+
+00:50:35
+<transcript>: How fast could lose Zappy? That was allegedly the fastest it can move.
+
+00:50:35
+<transcript>: i don't
+
+00:50:35
+th3_l3m0n: Hello o/
+
+00:50:39
+<transcript>: I don't know. It seems slower than I've seen it work before.
+
+00:50:43
+<transcript>: Thank you for the follow tepda.
+
+00:50:47
+<transcript>: Insta. 360.
+
+00:50:50
+<transcript>: Why is that familiar.
+
+00:50:56
+<transcript>: Oh, thoughts on the automatically moving camera. Wait, wait.
+
+00:51:08
+<transcript>: Automatically moving camera by detecting the face. Oh, you're saying like have it move around by looking at my face. So I have thought about.
+
+00:51:08
+<transcript>: autom
+
+00:51:09
+<transcript>: Automatic.
+
+00:51:18
+<transcript>: Camera changes because I've got three cameras going. If I look directly at one, just having it automatically switch my camera source to that. I thought about doing that.
+
+00:51:20
+<transcript>: I've thought about a lot of things.
+
+00:51:20
+<transcript>: i just
+
+00:51:23
+<transcript>: I just. I should stop thinking about things.
+
+00:51:37
+parkour_peter: add controls for twitch users haha
+
+00:51:41
+shaaah: But Insta360 moves  the camera with you, its really cool
+
+00:51:43
+<transcript>: Production stuff. Like I should focus more on making actual educational content, but this Stuff's just so fun. It's such a trope too. I feel like guy gets on Twitch, starts playing with cameras and Twitch overlays never gets out of cycle. I feel like that's just a trope and I don't want to be part of that. We've gone a while without messing with no overlays. So today.
+
+00:51:43
+<transcript>: we're
+
+00:51:50
+<transcript>: We're back at the overlays for a bit just to play with this thing. And then we'll be back to doing real stuff, I promise.
+
+00:51:50
+<transcript>: actually
+
+00:51:52
+jackysono: I enjoy watching this stuff, it's cool!
+
+00:51:54
+<transcript>: Actually have huge news. Like huge news that.
+
+00:51:54
+<transcript>: i
+
+00:51:56
+<transcript>: I won't be able to announce for another.
+
+00:51:56
+<transcript>: i don't know a few days
+
+00:51:57
+<transcript>: I don't know a few days.
+
+00:52:07
+<transcript>: Maybe next week, sometime, but it's it's gonna change things around here. And you'll see more of me. You'll see more of my face if you want to. I don't know. That might be a bad thing.
+
+00:52:12
+<transcript>: Yeah, definitely lighten. Most overkill setup. It's definitely overkill.
+
+00:52:17
+<transcript>: Insta. 360. Why is that familiar.
+
+00:52:17
+<transcript>: that name
+
+00:52:18
+<transcript>: That name.
+
+00:52:22
+<transcript>: Insta 360 Moves the camera with you. It's really cool.
+
+00:52:22
+<transcript>: i've heard
+
+00:52:24
+<transcript>: I've heard I've heard.
+
+00:52:24
+<transcript>: i've heard
+
+00:52:27
+<transcript>: I've heard of an Insta. 360. Why is that.
+
+00:52:31
+<transcript>: I cannot play foot. That is instead, 360.
+
+00:52:37
+<transcript>: With the GoPro thing. Okay. Okay.
+
+00:52:37
+<transcript>: so
+
+00:52:41
+<transcript>: So this thing actually has a vision module, which I also have.
+
+00:52:41
+<transcript>: i don't have
+
+00:52:43
+<transcript>: I don't have it hooked up right now.
+
+00:52:43
+<transcript>: and it's got some
+
+00:53:02
+<transcript>: And it's got some kind of laser. I don't know. It does something with a laser to, like, measure distance. And it's got an auto focus thing, which I also don't have hooked up because this lens doesn't really work with autofocus, but it's got a mechanical focus where you can have it, like, also change the focus. The manual focus as it moves around. It's really wild. There's some crazy stuff you can do with this thing.
+
+00:53:02
+<transcript>: okay
+
+00:53:04
+<transcript>: Okay.
+
+00:53:04
+<transcript>: and control
+
+00:53:06
+<transcript>: And Controls for Twitch users.
+
+00:53:13
+<transcript>: All right. So let's let's do a fetch when we go to break.
+
+00:53:23
+<transcript>: Well, right here. This is where right here. This is where we play the music on break. So this use effect. This runs once on load.
+
+00:53:23
+<transcript>: as this is a perfect
+
+00:53:29
+<transcript>: As, this is a perfect time to do the Edelkron thing, right? Although it's gonna fire twice. I don't know if that's a problem.
+
+00:53:30
+cristhianjhlcom: @sikmofo thanks for the sub, i was busy haha 🦾
+
+00:53:32
+<transcript>: Because react is awesome.
+
+00:53:37
+<transcript>: What do we think? Is that gonna be a problem? If we'll find out, we'll just let's find out. So I'm gonna do.
+
+00:53:37
+<transcript>: a wait
+
+00:53:42
+<transcript>: A wait. I can't wait. It. I'm just gonna fire it, right? I don't care. Fetch.
+
+00:53:46
+<transcript>: fetchp
+
+00:53:47
+<transcript>: Fetchp.
+
+00:53:47
+<transcript>: local
+
+00:53:49
+<transcript>: Localhost. Let's do this. Let's.
+
+00:53:51
+zappy_idk: redeem points to change positions VoHiYo
+
+00:53:52
+<transcript>: Let's copy this command.
+
+00:53:56
+<transcript>: Right.
+
+00:53:56
+xxsallythegoosexx: Why will it fire twice
+
+00:54:01
+<transcript>: And then I'm gonna paste it here. Okay.
+
+00:54:04
+<transcript>: So well let's just.
+
+00:54:06
+<transcript>: Do this.
+
+00:54:10
+<transcript>: Happy all that.
+
+00:54:23
+<transcript>: V.
+
+00:54:25
+<transcript>: And then.
+
+00:54:29
+<transcript>: I wanted to do.
+
+00:54:29
+<transcript>: there
+
+00:54:31
+<transcript>: There jank.
+
+00:54:34
+<transcript>: So little bad at them.
+
+00:54:34
+<transcript>: will i ever get
+
+00:54:34
+coddaf: why vim insted of vscode ?
+
+00:54:36
+laytanl_: because React Kappa
+
+00:54:36
+<transcript>: Will I ever get good.
+
+00:54:41
+<transcript>: Will I ever be good at them? Does anyone know? Okay. There's that.
+
+00:54:41
+<transcript>: and then i
+
+00:54:44
+<transcript>: And then I need to do.
+
+00:54:51
+<transcript>: Method.
+
+00:54:54
+<transcript>: Is post. Right? I'm doing this right, right? It's called Fetch. Right.
+
+00:54:58
+<transcript>: Why is this not giving me like.
+
+00:55:01
+<transcript>: Intellisense. There we go. Yeah. Okay.
+
+00:55:01
+<transcript>: input
+
+00:55:03
+shaaah: yes
+
+00:55:05
+<transcript>: Input is URL, and then.
+
+00:55:07
+<transcript>: Method post.
+
+00:55:07
+<transcript>: headers
+
+00:55:08
+<transcript>: Headers.
+
+00:55:09
+tayloreddev: When you try to go back to before VIM you realise how far you have come
+
+00:55:12
+daeeyy: You have entered the vim trough of sorrow.
+
+00:55:12
+<transcript>: Content type.
+
+00:55:15
+<transcript>: Applications.
+
+00:55:22
+<transcript>: And then what else? The body is JSON. That stringify.
+
+00:55:28
+<transcript>: Command is going to be.
+
+00:55:31
+<transcript>: Key pose. And we could like.
+
+00:55:31
+<transcript>: make some
+
+00:55:32
+<transcript>: Make some.
+
+00:55:32
+<transcript>: some things
+
+00:55:36
+<transcript>: Some things to make this a little easier to work with, but I don't know. I'm not going through right now.
+
+00:55:36
+<transcript>: keep those
+
+00:55:39
+<transcript>: Keep those move fix speed.
+
+00:55:39
+<transcript>: index
+
+00:55:40
+<transcript>: Index.
+
+00:55:41
+shaaah: this is why u should use axios
+
+00:55:45
+<transcript>: Is going to be from so we're going from what did I say.
+
+00:55:45
+<transcript>: this
+
+00:55:51
+<transcript>: This current pose is one. We want to go from no. We only go from one to zero. So index zero.
+
+00:55:55
+<transcript>: And then.
+
+00:55:55
+<transcript>: except
+
+00:55:56
+<transcript>: Except.
+
+00:56:05
+<transcript>: I'm not convinced that's the fact way I feel like I did one and speed one, but I feel like they're slow. I don't know. Maybe that's right.
+
+00:56:11
+<transcript>: Okay. Body. Is all this. So this is what we do to kick it off. Right.
+
+00:56:17
+<transcript>: Let's do this.
+
+00:56:22
+<transcript>: And then up here, this is when we fade the audio out.
+
+00:56:32
+<transcript>: So when it when something says, fade audio out, that means we're getting ready to talk away. Okay, so what if I do this.
+
+00:56:37
+<transcript>: I just do it here as well.
+
+00:56:42
+<transcript>: This time we're moving the pose one right.
+
+00:56:48
+<transcript>: Does that not work? Ctrl X. Now what's the increment.
+
+00:56:51
+<transcript>: Whatever.
+
+00:56:56
+<transcript>: Okay. Let's try this. Let's try it. Did it work? We'll see.
+
+00:56:56
+kedemel: I kind of like using default JS APIs instead of bringing in libraries.
+
+00:57:05
+kedemel: "fetch" is pretty good.
+
+00:57:10
+<transcript>: Do that. So here's the thing.
+
+00:57:10
+<transcript>: here's the thing
+
+00:57:11
+<transcript>: Here's the thing.
+
+00:57:16
+<transcript>: While it fired twice? Yeah, use effect.
+
+00:57:21
+<transcript>: It fires twice. Right in Dev. I guess not in production or something.
+
+00:57:25
+<transcript>: I'm gonna get to your other questions here. I see some actual chat activity.
+
+00:57:33
+theruggedbear: disable StrictMode in dev too.
+
+00:57:45
+<transcript>: Here's the thing about, like giving chat control and like being able to move around. I really don't want to do, like two gimmicky stuff that's I don't know. Not like accusing you of making I haven't gimmicky ideas, just I want to make sure, like I don't just do things because I can't like I think the mechanics, camera, the jib and everything.
+
+00:57:45
+<transcript>: could add
+
+00:57:49
+<transcript>: Could add to the production value of the stream. But if I start doing like.
+
+00:57:49
+<transcript>: redee
+
+00:57:54
+<transcript>: Redeem points to move it around. Like that starts to feel like.
+
+00:58:09
+<transcript>: A distraction from what the content I'm trying to create will be like when I'm streaming and I'm not doing stuff like today, I'm mostly gonna be trying to build stuff, teach stuff, whatever. And I feel like if you're able to then take the camera and move it around and like, I guess.
+
+00:58:19
+naomi_lago: hiiii
+
+00:58:29
+<transcript>: Counterpoint. I do let you Rick, roll me and take over my screen and like, pull up your gas Lea. I guess there's some of that where it's like, just for the sake of doing it. But I feel like we could go too far on that. And then I'm just giving you all these weird things you can do in the stream becomes about the stream, as opposed to about teaching.
+
+00:58:29
+<transcript>: does that make sense
+
+00:58:30
+<transcript>: Does that make sense.
+
+00:58:37
+<transcript>: I don't know in the head it makes sense, but I haven't haven't gotten there yet. Disabled strict mode in Dev two that makes sense.
+
+00:58:37
+<transcript>: i can just do
+
+00:58:39
+<transcript>: I can just do that if it's a problem.
+
+00:58:42
+<transcript>: This is why you choose Axios.
+
+00:58:42
+<transcript>: you have
+
+00:58:46
+<transcript>: You have entered the vim Troph of sorrow.
+
+00:58:49
+naomi_lago: nice setup
+
+00:58:52
+zappy_idk: makes sense :)
+
+00:58:53
+<transcript>: So someone asked why vim instead of vs. Code. Honestly, it's been just a ton of fun. So why Vim? I would say.
+
+00:58:55
+jenswoeste: copy elon and create "the_boring_stream"
+
+00:59:01
+<transcript>: Vim just has some really like nice feelings. It gives me nice feelings when I do things more efficiently with them.
+
+00:59:01
+<transcript>: why ne
+
+00:59:15
+shaaah: @zappy_idk he just told u to f off basically Kappa
+
+00:59:21
+<transcript>: Why Neil them instead of yes, code, I would say because it's fun. It's a hobby. I just do it for fun. Could I be as productive with vs. Code and then binding? Probably. I probably would have saved just on time. But all that time that I spent configuring my new event was a lot of fun. It's still fun. I get to tinker with it. It's updated all every day and see what breaks. I don't know something about that at this stage of my career. It's a lot of fun.
+
+00:59:37
+<transcript>: Before vim you realize how far you have come? Yeah, I guess if I haven't in a while used vs. Code if I went back I'd see I'd see the differences pretty quickly, I'm sure.
+
+00:59:37
+tayloreddev: axios kinda sucks, i like got
+
+00:59:43
+<transcript>: Kind of like using default JS APIs instead of bringing in libraries. Fetch is pretty good.
+
+00:59:43
+<transcript>: that's how
+
+00:59:45
+<transcript>: hi nancy
+
+00:59:45
+<transcript>: That's how that's my default sense as well.
+
+00:59:46
+<transcript>: Hi, Nancy.
+
+00:59:46
+<transcript>: welcome to chat
+
+00:59:48
+<transcript>: Welcome to chat.
+
+00:59:48
+<transcript>: and thank you for the
+
+00:59:50
+<transcript>: And thank you for the compliment.
+
+00:59:53
+2dorkstv: morning! \o
+
+00:59:54
+<transcript>: Copy Elon and create the boring Street.
+
+00:59:55
+naomi_lago: are you reading the chat from a kind of verbose? so nice
+
+00:59:58
+<transcript>: Zappi did not.
+
+00:59:58
+<transcript>: i did not
+
+01:00:00
+<transcript>: I did not say that.
+
+01:00:00
+<transcript>: was it
+
+01:00:08
+<transcript>: Was it Zappi that said, yeah, yeah, no, it's a totally natural thing. Like, that was also a thing I thought Zappi, like, oh, we could start doing.
+
+01:00:08
+<transcript>: i could
+
+01:00:15
+<transcript>: I could interact with rewards. You could, like, do stuff. And it's totally a thought I had. So you're not wrong to have that thought.
+
+01:00:18
+<transcript>: Good morning to dorks.
+
+01:00:23
+<transcript>: You were reading the chat from a kind of verbose.
+
+01:00:27
+<transcript>: Yeah. I just. I generally try to read every message, if that's what you mean.
+
+01:00:32
+<transcript>: And that maybe doesn't work long term if more of you start showing up.
+
+01:00:32
+<transcript>: but
+
+01:00:42
+<transcript>: But I enjoy seeing everything that said the whole reason I stream is to have you all here to hang out with me. So if I weren't reading the chat, this is all pointless.
+
+01:00:49
+<transcript>: I guess I'm gonna have to go to break.
+
+01:00:55
+<transcript>: To test this thing, I could take a fake break. Let's do a fake break. I'm gonna hit the button.
+
+01:00:55
+<transcript>: hang on i
+
+01:01:02
+<transcript>: Hang on. I just realized, like my hand is getting cut off for this quick think I moved this camera. I think that was a mistake.
+
+01:01:02
+<transcript>: i think i should
+
+01:01:06
+<transcript>: I think I should have move it back. I'm also like further this way now.
+
+01:01:06
+<transcript>: like over here
+
+01:01:08
+<transcript>: Like over here.
+
+01:01:12
+<transcript>: I should be more over here.
+
+01:01:12
+<transcript>: i don't know
+
+01:01:23
+<transcript>: I don't know. I move my desk. Everything in my office is different so that I can do well, so I can do this stuff. I'm gonna go to breakfast, and then we'll come back. I'm not actually taking a break. This is a fake break.
+
+01:01:23
+<transcript>: if you think
+
+01:01:30
+<transcript>: If you think I actually took a break and you go take a break. That's on you deal with it. You know, I'm saying, here we go, fake break.
+
+01:01:35
+<transcript>: Failed to fetch.
+
+01:01:42
+schrew: oof break
+
+01:01:45
+schrew: gm!
+
+01:01:49
+monciego: break
+
+01:01:49
+jenswoeste: seriously - you have a very polished conecpt. I agree that when deep diving into some issue its not appropriate to allow rickrolling, "deal with it" or other hidden gems. Maybe just disable these features while being serious?
+
+01:01:49
+andom: LUL
+
+01:01:50
+thdxr: CORS
+
+01:01:50
+<transcript>: failed to
+
+01:01:50
+<transcript>: Failed good Morning. Shrew.
+
+01:01:52
+<transcript>: Failed to fetch.
+
+01:01:53
+monciego: it break
+
+01:02:10
+<transcript>: Course. Is that what it was? Hey, DAX, it broke. What all? So why is my stream broken? Oh, camera was guests. What? Oh, no. Cameras. Scene. I haven't done the Oops, the secrets out. I'm not in my office. No, I really am in my office. It's just. We have a green screen.
+
+01:02:10
+<transcript>: behind me now
+
+01:02:15
+<transcript>: Behind me now on this view as well. So hang on. I got a fix something.
+
+01:02:15
+<transcript>: so
+
+01:02:16
+zappy_idk: break !== broke
+
+01:02:20
+<transcript>: So this camera, I was gonna have stuff on my face. This camera doesn't have the background.
+
+01:02:22
+<transcript>: Let's add.
+
+01:02:22
+<transcript>: let's
+
+01:02:25
+<transcript>: Let's add this.
+
+01:02:28
+<transcript>: What is it? It's an image.
+
+01:02:30
+<transcript>: Name image existing.
+
+01:02:33
+<transcript>: Office background.
+
+01:02:33
+<transcript>: okay
+
+01:02:35
+<transcript>: Okay Oh.
+
+01:02:38
+<transcript>: Sit down, sit.
+
+01:02:42
+<transcript>: Down scale transform fit.
+
+01:02:42
+<transcript>: to screen
+
+01:02:44
+<transcript>: To screen. Okay.
+
+01:02:44
+<transcript>: that's not
+
+01:02:46
+<transcript>: that's definitely
+
+01:02:46
+<transcript>: That's not where I want it, though.
+
+01:02:48
+<transcript>: That's definitely not worth it.
+
+01:02:51
+<transcript>: And then I need to do.
+
+01:02:57
+<transcript>: Studio modes so I can go to camera HD hang on, bear with me.
+
+01:03:00
+laytanl_: So you have a static background of your office for this scene lol
+
+01:03:00
+<transcript>: Break equals broke. Break does not equal broke.
+
+01:03:04
+<transcript>: Camera HD I need to copy.
+
+01:03:07
+<transcript>: This thing.
+
+01:03:09
+<transcript>: Filter.
+
+01:03:09
+<transcript>: chr
+
+01:03:10
+2dorkstv: @adamdotdev I cloned your neovim dotfiles. Really digging what you did here. `jk` to leave insert mode is awesome
+
+01:03:12
+thdxr: wow I've been trying to figure out the layout of your cameras and green screen for weeks and I didn't realize your office bg was fake
+
+01:03:12
+<transcript>: Chroma key, copy.
+
+01:03:15
+<transcript>: Close. Okay. I'm almost there.
+
+01:03:17
+thdxr: that explains a lot
+
+01:03:17
+laytanl_: Fake office
+
+01:03:18
+<transcript>: Full camera.
+
+01:03:19
+<transcript>: Let's see.
+
+01:03:22
+<transcript>: Sex, filters.
+
+01:03:24
+<transcript>: Hey.
+
+01:03:27
+<transcript>: Did not work.
+
+01:03:29
+<transcript>: There we go.
+
+01:03:32
+<transcript>: Okay. Well.
+
+01:03:35
+<transcript>: It's not quite.
+
+01:03:44
+<transcript>: Okay.
+
+01:03:44
+<transcript>: i think that's
+
+01:03:46
+yeltrah_: WHHATTT
+
+01:03:46
+<transcript>: I think that's close enough.
+
+01:03:47
+laytanl_: This view wasn't fake before though @thdxr
+
+01:03:48
+yeltrah_: The office is fake?
+
+01:03:51
+<transcript>: Studio mode off did it work.
+
+01:03:52
+yeltrah_: No it was not
+
+01:03:54
+<transcript>: So look like I'm in my office.
+
+01:03:59
+yeltrah_: Cause the quality isn't as good as before
+
+01:04:00
+<transcript>: The office is sake. It is now Howard Jean. It wasn't fake before.
+
+01:04:12
+<transcript>: No. Yeah. This is the first day I've done. I've done the fake background.
+
+01:04:16
+<transcript>: The reason I'm doing the fake bag is.
+
+01:04:24
+<transcript>: Because I'm trying to I want to put stuff between me and my office. Like I want to put graphics, you know.
+
+01:04:24
+<transcript>: and that's
+
+01:04:31
+yeltrah_: Cool
+
+01:04:41
+<transcript>: And that's why I didn't quite get the Chrome a key, right? That's why it's sake. It's not normally fake. This is my actual office. I can pull up the green screen and that's the view, but I want to be able to do stuff. You know, I want to put like words behind me. I want to do stuff between me and my office.
+
+01:04:41
+<transcript>: for product
+
+01:04:43
+<transcript>: For production quality reasons.
+
+01:04:47
+<transcript>: 19 other followers there are 1900 of you.
+
+01:04:47
+<transcript>: that's blows
+
+01:04:49
+<transcript>: That's blows my mind.
+
+01:04:50
+2dorkstv: lol. I've done that same thing. Picture of my office behind me but using a green screen. Fun stuff
+
+01:04:52
+<transcript>: I love Twitch. This has been so much fun.
+
+01:04:54
+yeltrah_: Are you going to create a second startup like Primeagen?
+
+01:05:00
+jenswoeste: heads up - dinosaur appearing shortly in the background
+
+01:05:01
+<transcript>: Okay. I've done the same thing. Picture of my office behind me, but using a green screen. Yeah, it is fun. It's actually pretty fun.
+
+01:05:04
+laytanl_: Ye if you look closely you can see it is a lower quality bg
+
+01:05:05
+<transcript>: Chris second startup like Privagin, no.
+
+01:05:11
+<transcript>: Dinosaur appearing shortly in the background. Maybe maybe.
+
+01:05:26
+<transcript>: Yeah, it's. No, it's definitely lower quality. I need to take a new image. I took a still and I did it with a different camera, and it just didn't do it that well, I'm gonna take a new. Would you explain? Leighton, what is lower quality about it? Like, just.
+
+01:05:32
+yeltrah_: The buildings
+
+01:05:33
+<transcript>: The Angle's not quite right. It's not like the old angle. The camera was a little different.
+
+01:05:33
+<transcript>: there's stuff floating
+
+01:05:35
+<transcript>: There's stuff floating around him.
+
+01:05:36
+yeltrah_: Isnt' as crisp
+
+01:05:39
+<transcript>: The buildings. Oh, the quality of the buildings isn't as good. Oh, no.
+
+01:05:43
+thdxr: the lighting glow on that orb
+
+01:05:43
+<transcript>: Ew. She Greenscreen artifacts.
+
+01:05:46
+laytanl_: yeah it isn't cris
+
+01:05:46
+<transcript>: I gotta fix all that you know.
+
+01:05:50
+<transcript>: The lighting glow on that Orb.
+
+01:05:50
+laytanl_: crisp
+
+01:05:51
+<transcript>: Oh, man.
+
+01:05:57
+<transcript>: Yeah, I got it, I gotta do better isn't Chris.
+
+01:06:03
+<transcript>: Don't like it.
+
+01:06:06
+<transcript>: I don't like it one bit.
+
+01:06:06
+<transcript>: if
+
+01:06:15
+<transcript>: If if it results in a lower quality thing here, if this view is worse because I'm trying to do these stupid effects behind me, I might go back. We'll see.
+
+01:06:23
+<transcript>: Okay. What's I doing? I was taking breaks. I was trying to test this Edelcron thing. It didn't work. It failed to fetch.
+
+01:06:28
+<transcript>: No, I didn't want to do that. What did I do? I'm gonna go over here.
+
+01:06:31
+<transcript>: So why did it feel to fetch.
+
+01:06:35
+<transcript>: Why did it fail to fetch.
+
+01:06:39
+cboorg: Hey Adam!
+
+01:06:42
+<transcript>: Now I don't have the log output.
+
+01:06:45
+<transcript>: Acborg.
+
+01:06:46
+kevprodev: Looks great to me. They just nit picking at this point.
+
+01:06:52
+<transcript>: Well, I'm gonna have to, like, actually handle errors or something, I guess.
+
+01:06:56
+<transcript>: Let's just create a function up here.
+
+01:06:56
+<transcript>: function
+
+01:06:57
+<transcript>: Function.
+
+01:07:00
+<transcript>: Go to keyboard.
+
+01:07:02
+<transcript>: And.
+
+01:07:06
+<transcript>: This is going to be asynchronous.
+
+01:07:12
+<transcript>: Come on, let's go on.
+
+01:07:16
+<transcript>: Async go to keyboard Cam, and then we're gonna have a sync function.
+
+01:07:20
+<transcript>: Go to Panned out.
+
+01:07:21
+<transcript>: Go to.
+
+01:07:21
+<transcript>: office
+
+01:07:26
+<transcript>: Office Cam. I don't know. Like that's. My zoomed out version.
+
+01:07:26
+<transcript>: then
+
+01:07:29
+<transcript>: Then I'm gonna Just copy this.
+
+01:07:31
+<transcript>: Or yank.
+
+01:07:31
+<transcript>: yank
+
+01:07:33
+<transcript>: Yank it out.
+
+01:07:38
+<transcript>: Go to keepboard.
+
+01:07:44
+<transcript>: So do I want to.
+
+01:07:52
+<transcript>: I'll handle the errors in here.
+
+01:07:52
+<transcript>: so
+
+01:07:54
+<transcript>: So we'll do.
+
+01:07:56
+<transcript>: and then we'll
+
+01:07:56
+<transcript>: Wait.
+
+01:07:59
+<transcript>: And then we'll do try.
+
+01:08:07
+<transcript>: Kind of like Yap. No. Can I.
+
+01:08:07
+<transcript>: dap
+
+01:08:08
+<transcript>: Dap.
+
+01:08:10
+<transcript>: Got two.
+
+01:08:15
+<transcript>: Gap.
+
+01:08:15
+laytanl_: @kevprodev It is nit picking for sure, if I didn't know it was fake I probably wouldn't have noticed
+
+01:08:17
+<transcript>: It almost works.
+
+01:08:20
+<transcript>: This gets a little too much.
+
+01:08:22
+<transcript>: so there's
+
+01:08:22
+<transcript>: Okay.
+
+01:08:24
+<transcript>: So there's my function.
+
+01:08:32
+<transcript>: Thanks for the follow new Pixel, Perfect and Lesser Lambda. I like those names. Both those names.
+
+01:08:41
+daglee: What did you want to delete?
+
+01:08:53
+<transcript>: Didn't know if it's sake, I probably wouldn't have noticed. Yeah, yeah, I'm gonna fix it. We'll make the quality better. I'll take a better image. I think I'm I think that image is a 4K image down down samples. I'll take an actual 1080p image so it's exactly like and I'll use the same camera. I was using an a seven four instead of a seven s three.
+
+01:08:55
+<transcript>: I'll use the exact same camera.
+
+01:08:55
+<transcript>: we'll get
+
+01:09:11
+<transcript>: We'll get an exact Pixel perfect image and you won't know the difference. I hope that's how it works. It might not work. Maybe the camera, the focus is changing slightly and like the background is more alive than I think. But I think I can just do a still image and get away with most of most of what I want to do.
+
+01:09:14
+<transcript>: What did I want to delete.
+
+01:09:14
+<transcript>: i was just
+
+01:09:16
+<transcript>: I was just pulling this function.
+
+01:09:16
+<transcript>: i
+
+01:09:22
+<transcript>: I was just trying to get it into my clipboard and move it out here. So then we want to do console.
+
+01:09:22
+<transcript>: error
+
+01:09:23
+<transcript>: right
+
+01:09:23
+<transcript>: Error.
+
+01:09:24
+<transcript>: Right.
+
+01:09:30
+<transcript>: Okay. So that's let's go to keyboard Cam.
+
+01:09:30
+<transcript>: if i
+
+01:09:33
+<transcript>: everything
+
+01:09:33
+<transcript>: If I want to let's see, I want to I want to copy.
+
+01:09:38
+<transcript>: Everything in here? Nope. Everything.
+
+01:09:38
+<transcript>: in
+
+01:09:41
+<transcript>: In here. There we go. And then.
+
+01:09:48
+<transcript>: That's what I want to do.
+
+01:09:48
+<transcript>: so
+
+01:09:52
+<transcript>: one
+
+01:09:52
+<transcript>: So office Cam is.
+
+01:09:55
+<transcript>: One and keyboard Cam is zero. Right.
+
+01:10:01
+<transcript>: So then down here I can just say.
+
+01:10:04
+<transcript>: Use effect.
+
+01:10:08
+<transcript>: Like here.
+
+01:10:11
+<transcript>: No.
+
+01:10:25
+swatee_: maybe just build a second office as a backdrop and film it constantly Kappa
+
+01:10:34
+<transcript>: Go to office Cam when we start no, go to keyboard damn go to keyboard Cam? And then where is here's? Where I want to do go to office Cam.
+
+01:10:34
+<transcript>: go to
+
+01:10:36
+<transcript>: Go to office. Cam.
+
+01:10:39
+<transcript>: I'm not awaiting those.
+
+01:10:40
+<transcript>: I think that's fine.
+
+01:10:43
+<transcript>: Think.
+
+01:10:49
+<transcript>: Well, I guess I can. This is use a vent. Wait, use a vent. Oh, yeah, Yeah.
+
+01:10:49
+<transcript>: okay
+
+01:10:53
+<transcript>: Okay, let's do a wait.
+
+01:10:59
+<transcript>: And then this one can awake, because it's okay. That's fine.
+
+01:11:04
+<transcript>: Let's test it. I actually do need to pee. So that works.
+
+01:11:11
+<transcript>: This is going to be an actual break. A real break.
+
+01:11:11
+<transcript>: just build
+
+01:11:14
+<transcript>: Just build a second off. This is backdrop and film. It constantly.
+
+01:11:19
+<transcript>: Yeah, video source. Now we're talking. Oh, Geez, don't give me ideas.
+
+01:11:25
+<transcript>: I can't fit a camera between. Oh, I'd had to be a separate room, so set up my office in a separate room.
+
+01:11:25
+<transcript>: film it
+
+01:11:31
+<transcript>: Film it continuously. Now we're talking now. We're talking about some stuff I should definitely not do.
+
+01:11:41
+<transcript>: Don't give me ideas. Don't give them to me. I don't need any ideas, okay? I'm gonna go to break. We're gonna see if this works. I don't really think it's going to. In fact, I know it's nine, one, two. Because.
+
+01:11:41
+<transcript>: we just have that
+
+01:11:43
+miwivon: Damn that mode80 sounds great
+
+01:11:45
+<transcript>: We just have that error, and I need to log the air, but whatever I'm going to break, I'll do that.
+
+01:12:18
+th3_l3m0n: and now there is no error xD
+
+01:14:08
+laytanl_: Wait it is an actual break now
+
+01:14:49
+laytanl_: yesterday was full of fake giveaways, today fake breaks and background LUL
+
+01:15:23
+<transcript>: Yes, it's been a lot of fake. A lot of fake things. Alaska.
+
+01:15:32
+<transcript>: Why am I showing that camera on the screen? I don't know. I guess this was I was trying to illustrate. I can put stuff between me in the office now. Like, see, look at this.
+
+01:15:43
+<transcript>: I was actually the reason I did this whole change. The reason I like for the fake put a green screen between me in my office and then put a picture of my office behind me is for YouTube. Actually.
+
+01:15:48
+<transcript>: I was I'm creating my first YouTube video before I got sick and.
+
+01:15:52
+caldotjs: damn thats cool :D
+
+01:15:57
+foobfoob: is all this streaming interface thing written in nextjs now?
+
+01:15:58
+<transcript>: The like I want to I want to put words and things between me and my background, like, just as a main kind of effect on my YouTube videos.
+
+01:15:58
+<transcript>: but
+
+01:16:04
+caldotjs: adam outdoing everyone on a daily basis
+
+01:16:18
+<transcript>: why i did
+
+01:16:18
+<transcript>: But Roto, Broch. It's like the tool you use in after effects, like, cut out you, and then, like, track you throughout the frames. It's so slow. And I thought, Man, if I'm gonna do this for, like, every video, it's gonna take forever. What if I just had a green screen? And I just filmed in front of a green screen and put my office behind it? And then I just, I don't have to do the rotor brush thing. So that's why that's.
+
+01:16:23
+<transcript>: Why I did this. I might first stream. I might just kill it. I might not ever do this. I don't know.
+
+01:16:23
+<transcript>: we'll see
+
+01:16:25
+<transcript>: We'll see.
+
+01:16:33
+<transcript>: Okay. We're gonna go back and figure out why did my camera not move? Why is it not moving? That bothers me. So.
+
+01:16:33
+<transcript>: we'll figure
+
+01:16:35
+<transcript>: We'll figure that.
+
+01:16:40
+trevordubu: I never would have noticed if it wasn't pointed out
+
+01:16:47
+<transcript>: Okay. So when I came back, did I get some air? I keep not seeing the logs. I'm gonna have to be able to do this in a way that I can see.
+
+01:16:51
+<transcript>: That's a trigger. This on command. You know.
+
+01:16:55
+<transcript>: I don't want to have to scroll the file to find the logs.
+
+01:16:58
+trevordubu: perhaps I'm just not too observant lol
+
+01:17:00
+<transcript>: I guess I could pull it up in my browser. Yeah, I could pull it up in the browser, right.
+
+01:17:00
+<transcript>: just pull
+
+01:17:02
+<transcript>: Just pull up the brake view.
+
+01:17:03
+wesleycoder: G'day mates
+
+01:17:04
+<transcript>: In the browser.
+
+01:17:04
+<transcript>: localhost
+
+01:17:06
+<transcript>: three
+
+01:17:06
+<transcript>: Localhost.
+
+01:17:07
+<transcript>: Three, three, three.
+
+01:17:07
+<transcript>: brake
+
+01:17:11
+<transcript>: Brake. Yeah, yeah, that's the one.
+
+01:17:12
+<transcript>: That's the one.
+
+01:17:17
+<transcript>: Now I guess when this thing loads, it should have yeah, yeah, here's the air.
+
+01:17:19
+<transcript>: Failed to fetch.
+
+01:17:21
+<transcript>: Just tell me why.
+
+01:17:25
+<transcript>: Tell me why it failed to fetch.
+
+01:17:25
+<transcript>: access
+
+01:17:29
+<transcript>: Access to fetch. Oh, it really is. Cores. It's actually cores.
+
+01:17:32
+oetziofficial: cors LUL
+
+01:17:37
+<transcript>: It's so funny to be somebody said it was gonna be cores. It actually is coarse.
+
+01:17:38
+thdxr: I knew it
+
+01:17:40
+<transcript>: Is all this streaming interfacing written in XJS. Now that's right.
+
+01:17:40
+<transcript>: it's all
+
+01:17:45
+<transcript>: It's all the next JS app it's all on GitHub too if you want to play around with it.
+
+01:17:57
+oetziofficial: different ports :D
+
+01:17:58
+<transcript>: Never would have noticed if it wasn't pointed out. Well, that's good. It's fooling some people a little bit.
+
+01:18:06
+<transcript>: Not to observe it. I'm not either. Good day, Wesley. I can't believe it's. Cores. Different ports. Oh, did I do the wrong Port.
+
+01:18:06
+<transcript>: oh yeah yeah
+
+01:18:06
+laytanl_: It is time for dedicated CORS engineers
+
+01:18:19
+laytanl_: 1mil a year
+
+01:18:19
+thdxr: make the request from the backend
+
+01:18:20
+<transcript>: Oh, yeah, yeah. Localhost, three, three verses. That so in order, I think I saw in the Edochron docks. It doesn't support. Oh, no. This could foil my plans. Oh, it's. No, I'll do it from the server. We'll do it from the server we don't need to do from the browser.
+
+01:18:20
+<transcript>: that was a dumb idea
+
+01:18:21
+<transcript>: That was a dumb idea.
+
+01:18:21
+<transcript>: i'm not doing it from the
+
+01:18:23
+<transcript>: I'm not doing it from the browser.
+
+01:18:29
+<transcript>: So what happens when I hit my break button? I think it makes a server call anyway.
+
+01:18:31
+<transcript>: Api.
+
+01:18:33
+<transcript>: What is it do.
+
+01:18:38
+<transcript>: Probably called a web socket event.
+
+01:18:38
+<transcript>: actually
+
+01:18:39
+<transcript>: Actually.
+
+01:18:42
+<transcript>: let's
+
+01:18:42
+<transcript>: Let's just see.
+
+01:18:44
+<transcript>: this
+
+01:18:44
+<transcript>: Let's go to my.
+
+01:18:46
+<transcript>: This thing.
+
+01:18:48
+<transcript>: Stream, deck.
+
+01:18:52
+deadrobotdev: That is a beautiful looking desk setup 👀
+
+01:18:53
+<transcript>: And see what API route we hit. So when I call it when I hit break.
+
+01:18:53
+<transcript>: this is so
+
+01:18:55
+<transcript>: This is so bad.
+
+01:18:55
+<transcript>: can't see
+
+01:18:56
+<transcript>: Can't see.
+
+01:18:58
+<transcript>: Anything.
+
+01:19:09
+<transcript>: I want to make it bigger, but I gotta be able to see there we go. Obs transition to break so it just it just does a straight transition.
+
+01:19:09
+<transcript>: instead we're gonna
+
+01:19:13
+<transcript>: Instead, we're gonna make like a break API route that does all the things we want to do.
+
+01:19:20
+<transcript>: It's gonna it's gonna ultimately transition the OBS scene. But it's also.
+
+01:19:20
+<transcript>: also going
+
+01:19:25
+<transcript>: Also going to fire off the Edel Crown SDK call right.
+
+01:19:36
+<transcript>: And then Unbreak does a fade out audio. And then and then what camera.
+
+01:19:36
+<transcript>: system
+
+01:19:40
+<transcript>: System Website camera? What.
+
+01:19:44
+<transcript>: Well, this happened. We'll have an Unbreak.
+
+01:19:44
+<transcript>: or a param
+
+01:19:49
+<transcript>: Or a Param on the brake API route that allows us to Unbreak and it won't do it this way.
+
+01:19:56
+<transcript>: What is this system? Website camera? Oh, it does transition to camera. Okay.
+
+01:19:58
+<transcript>: Yeah.
+
+01:20:06
+<transcript>: I kind of want it to not always go back to the scene when I Unbreak. It kind of bothers me.
+
+01:20:13
+<transcript>: Half a decade, of course, is just 1 million a year. Yeah. Yeah. We're gonna do it from the back end. That's right.
+
+01:20:13
+<transcript>: so
+
+01:20:17
+<transcript>: So let's just strip all this out.
+
+01:20:23
+<transcript>: We can take these functions and move them to the background. I guess that's the beauty.
+
+01:20:23
+<transcript>: of
+
+01:20:25
+<transcript>: what is going
+
+01:20:25
+<transcript>: Of writing.
+
+01:20:27
+<transcript>: What is going on? There we go.
+
+01:20:27
+<transcript>: that's the beauty
+
+01:20:29
+<transcript>: That's the beauty of writing.
+
+01:20:32
+<transcript>: Javascript everywhere.
+
+01:20:33
+<transcript>: You might say.
+
+01:20:39
+<transcript>: Okay. We're gonna cut all these.
+
+01:20:43
+<transcript>: Move them to the back end. Let's see. We want to do.
+
+01:20:48
+<transcript>: Api route We're gonna call it break TS.
+
+01:20:52
+<transcript>: First thing I'm gonna do is get those on my clipboard.
+
+01:20:56
+<transcript>: Async function.
+
+01:21:16
+<transcript>: Okay, I guess fetch. I've got a what can I be compiled under isolate modules? Because this is a glow group off. Oh, yeah, I've got to actually export something, right.
+
+01:21:20
+<transcript>: I gotta actually do something so we're gonna export.
+
+01:21:27
+<transcript>: To copy the contents of one of these things.
+
+01:21:30
+<transcript>: Let's do that.
+
+01:21:41
+<transcript>: Okay.
+
+01:21:49
+<transcript>: We got our handler.
+
+01:21:57
+<transcript>: This is a next API. Yep. One of those terrible name. Terrible name.
+
+01:22:04
+<transcript>: Let's. Yeah, yank this stuff up to the top.
+
+01:22:14
+<transcript>: Actually.
+
+01:22:18
+<transcript>: If I adapt? No, Yeah.
+
+01:22:25
+<transcript>: Move those to the bottom.
+
+01:22:39
+<transcript>: go to keyboard cam obviously we're not always
+
+01:22:39
+<transcript>: dry at the moment
+
+01:22:41
+<transcript>: Dry at the moment I don't care.
+
+01:22:41
+<transcript>: like these
+
+01:22:42
+<transcript>: Like these are doing exactly.
+
+01:22:47
+<transcript>: In a SEC.
+
+01:22:49
+<transcript>: Let's see.
+
+01:22:53
+<transcript>: What am I doing? I'm undoing things. Why am I.
+
+01:22:53
+<transcript>: doing
+
+01:22:55
+<transcript>: Doing this.
+
+01:23:01
+<transcript>: I meant to be page upping. Thank you for the followed Danny Laws and me. We von.
+
+01:23:03
+<transcript>: And circibi.
+
+01:23:10
+<transcript>: I think you did robot. Can you guys even see the code? I just realized I'm sharing.
+
+01:23:12
+<transcript>: I'm putting this thing on.
+
+01:23:16
+<transcript>: Can you not even see what I'm coding.
+
+01:23:19
+agemonkey: I was just about to write that
+
+01:23:21
+<transcript>: My blocking it. Let's put it over here. I'm probably blocking everything I'm doing.
+
+01:23:25
+<transcript>: I guess that just shows that you don't really care what I'm doing.
+
+01:23:26
+<transcript>: Which is fine.
+
+01:23:33
+<transcript>: Okay. So the request we're gonna say it can have a body with a.
+
+01:23:39
+<transcript>: I'm going to have break and then break a separate routes or just have like.
+
+01:23:44
+<transcript>: Yeah. I just want to have a separate route. Maybe that's.
+
+01:23:44
+<transcript>: but i just think
+
+01:23:46
+<transcript>: But I just think it sounds better.
+
+01:23:46
+<transcript>: this
+
+01:23:49
+<transcript>: This will just be break.
+
+01:23:59
+<transcript>: Don't care about the body. It just sends us to brand.
+
+01:24:07
+<transcript>: I'm gonna do that. It is going to go to.
+
+01:24:07
+<transcript>: await
+
+01:24:10
+<transcript>: Await. Go to.
+
+01:24:12
+<transcript>: Keyboard, Cam.
+
+01:24:18
+<transcript>: Gonna do that. And then it's also going to transition the OBS.
+
+01:24:23
+<transcript>: So it's gonna do a weight response up. So.
+
+01:24:25
+<transcript>: Obs.
+
+01:24:25
+<transcript>: ch
+
+01:24:30
+<transcript>: Chain. Set. Scene. Switch. Scene. What is it? I don't know. We'll find out.
+
+01:24:37
+<transcript>: Switching to scene. Okay.
+
+01:24:44
+<transcript>: There we go.
+
+01:24:53
+<transcript>: We want to go to.
+
+01:24:53
+<transcript>: break
+
+01:24:55
+<transcript>: Break.
+
+01:24:59
+<transcript>: That is.
+
+01:25:02
+<transcript>: Largely what I want to do, right.
+
+01:25:09
+<transcript>: Go to keyboard can.
+
+01:25:14
+<transcript>: We have like a helper or something for the Edelcron. I'm just not there yet.
+
+01:25:14
+<transcript>: okay
+
+01:25:21
+<transcript>: Okay, so if we hit the break end point, it should go to the brake scene. But first, it should go to keyboard Cam. So it should move.
+
+01:25:28
+<transcript>: Should move the camera. Let's see. Is this thing still connected? Is the web app so connected? Can I send the camera back.
+
+01:25:30
+<transcript>: Make sure to thank.
+
+01:25:41
+<transcript>: One. So we want to go to Pose two. Okay, so keyboard Cam. Keyboard Cam is confirmed.
+
+01:25:45
+<transcript>: To be index.
+
+01:25:54
+<transcript>: Zero. Oh, yeah, I've already got it. Okay. So the camera moved. We did it.
+
+01:25:58
+deadrobotdev: PogChamp
+
+01:26:01
+<transcript>: Camera moved.
+
+01:26:04
+<transcript>: And now we're going to.
+
+01:26:10
+<transcript>: We're going to test this out. So the break API.
+
+01:26:10
+<transcript>: route
+
+01:26:14
+<transcript>: Route I'm gonna do it on my tier.
+
+01:26:16
+<transcript>: Oh, Geez.
+
+01:26:21
+<transcript>: So break is now instead of.
+
+01:26:21
+<transcript>: a guy
+
+01:26:24
+<transcript>: A guy slash OBS. It's just gonna be API break.
+
+01:26:24
+<transcript>: this sends
+
+01:26:28
+<transcript>: This sends a message to that right. This hits, break.
+
+01:26:32
+<transcript>: And Unbreak is gonna hit Unbreak.
+
+01:26:38
+<transcript>: What was I doing before a fading audio out and then switching to the camera scene. So I need to remember that.
+
+01:26:43
+<transcript>: Fate audio out switch to the camera scene.
+
+01:26:48
+<transcript>: I'm gonna move it over here just so I have it saved.
+
+01:26:48
+<transcript>: and we'll just
+
+01:26:50
+<transcript>: And we'll just duplicate this one.
+
+01:26:54
+dnbull: whew this angle is clean
+
+01:26:56
+<transcript>: Okay. Unbreak.
+
+01:26:59
+<transcript>: Unbreak is gonna be.
+
+01:27:01
+<transcript>: Like that.
+
+01:27:12
+<transcript>: And this opens the door where I could actually save state, like I could save the last scene that I was in and then just come back to that scene instead of always going back to my camera scene. Sometimes that feels bad.
+
+01:27:12
+<transcript>: okay
+
+01:27:16
+<transcript>: Okay. So those two buttons. That's what they do now.
+
+01:27:22
+<transcript>: Let's let's see. I'm just gonna try and minimize this sometimes that breaks things.
+
+01:27:22
+<transcript>: oddly
+
+01:27:23
+<transcript>: Oddly.
+
+01:27:26
+<transcript>: Let's rotate.
+
+01:27:26
+<transcript>: oh no
+
+01:27:28
+<transcript>: Oh, no. What did I just do.
+
+01:27:28
+<transcript>: what
+
+01:27:30
+<transcript>: What did I just do.
+
+01:27:35
+<transcript>: I did not mean to do that.
+
+01:27:41
+<transcript>: Apparently I made this transform.
+
+01:27:45
+<transcript>: To but there we go. Okay, we're back, we're back.
+
+01:27:53
+<transcript>: Okay. So now I should be able to hit the break button, and it should.
+
+01:27:53
+<transcript>: go
+
+01:27:59
+<transcript>: Go to keyboard tab. Should Zoom in, and it should go to the brake scene. Okay.
+
+01:28:01
+<transcript>: You want to see if it works.
+
+01:28:01
+<transcript>: who's
+
+01:28:03
+<transcript>: want to see
+
+01:28:03
+<transcript>: Who's Whose game.
+
+01:28:05
+<transcript>: Want to see let's do it.
+
+01:28:12
+<transcript>: This is a fake break. Fake it's all fake everything you see on the stream this says.
+
+01:28:22
+<transcript>: Moving.
+
+01:28:24
+<transcript>: It's moving.
+
+01:28:36
+icedcoffefe: thats so cool
+
+01:28:42
+daeeyy: smooth
+
+01:28:49
+<transcript>: Okay.
+
+01:28:49
+<transcript>: is there a cool
+
+01:28:51
+oetziofficial: in-cre-di-ble
+
+01:28:55
+<transcript>: Is there a cooler break transition than that? Like, honestly, I could do a little less. Excel.
+
+01:28:55
+<transcript>: it acceler
+
+01:29:02
+caldotjs: there isn't
+
+01:29:05
+<transcript>: It accelerated a little too slowly, like it took too long to get there. I think that's the problem. If I did less acceleration, it would be faster. But is there anything cooler than that? That was the coolest thing I've ever seen.
+
+01:29:05
+<transcript>: so
+
+01:29:13
+<transcript>: So nerding out right now there isn't. Okay, cool. We all agree that is a really cool way to go to break like.
+
+01:29:13
+kevprodev: That was crazyyyyyyyy
+
+01:29:17
+parkour_peter: The best on twitch xD
+
+01:29:27
+<transcript>: Worth all of the figuring it out and investment. We're there. Okay, the best on Twitch. I don't know about that, but that was really cool. I haven't watched enough of Twitch to know how many people are doing this stuff.
+
+01:29:35
+<transcript>: All right. So now, Unbreak. We need to do the opposite. Right.
+
+01:29:39
+kevprodev: insert Cinematic music
+
+01:29:40
+<transcript>: Let's do it. I'm motivated. Now. We've seen it work.
+
+01:29:47
+<transcript>: I'm just gonna copy break. There's a way to do that, right? D not deletes.
+
+01:29:47
+<transcript>: no
+
+01:29:47
+yeltrah_: Oh no what did I miss
+
+01:29:48
+<transcript>: No.
+
+01:29:48
+<transcript>: how do i
+
+01:29:50
+<transcript>: How do I copy.
+
+01:29:54
+<transcript>: There's a way to make a duplicate.
+
+01:29:54
+<transcript>: whatever i'm
+
+01:29:57
+<transcript>: Whatever. I'm just gonna create a new one.
+
+01:29:57
+<transcript>: break
+
+01:30:00
+<transcript>: Break I'm sure someone will have the answer in chat before I you know.
+
+01:30:05
+<transcript>: Let's do this.
+
+01:30:11
+<transcript>: Take all that.
+
+01:30:16
+<transcript>: and then
+
+01:30:16
+<transcript>: And then we'll just do this Unbreak.
+
+01:30:19
+<transcript>: And then paste it all. And the only difference.
+
+01:30:24
+<transcript>: We will. We'll clean this up. I promise. The only difference is.
+
+01:30:24
+<transcript>: index
+
+01:30:26
+<transcript>: Index is one.
+
+01:30:28
+<transcript>: so go to
+
+01:30:28
+<transcript>: Right.
+
+01:30:31
+<transcript>: So go to I'm gonna rename it to be like.
+
+01:30:35
+<transcript>: Go to.
+
+01:30:35
+<transcript>: office
+
+01:30:36
+<transcript>: Office, Cam.
+
+01:30:41
+<transcript>: But it's the same. It doesn't.
+
+01:30:43
+<transcript>: Switch, scene.
+
+01:30:43
+<transcript>: this should
+
+01:30:45
+<transcript>: right
+
+01:30:45
+<transcript>: This should go to camera.
+
+01:30:46
+<transcript>: Right.
+
+01:30:48
+<transcript>: Camera.
+
+01:30:55
+<transcript>: That's just to maintain the existing behavior. Oh, also, we have to fade the audio out. Right. So first.
+
+01:30:55
+<transcript>: things
+
+01:30:57
+<transcript>: Things first.
+
+01:30:59
+<transcript>: We.
+
+01:31:03
+<transcript>: At first we go to Office Cam, and then.
+
+01:31:03
+<transcript>: we do
+
+01:31:06
+<transcript>: We do rest server WebSocket.
+
+01:31:08
+<transcript>: Emit.
+
+01:31:11
+parkour_peter: eposvox doesn't even have something like that
+
+01:31:13
+<transcript>: out
+
+01:31:13
+<transcript>: Now I need to emit. What was it? Fade audio.
+
+01:31:14
+<transcript>: Out or something.
+
+01:31:19
+<transcript>: Fade audio out yeah Yeah.
+
+01:31:19
+<transcript>: fade audio
+
+01:31:29
+<transcript>: Fade audio apps. So that just tells the browser to start fading. It the audio is playing in the browser, right. So we had telebrows. Hey, start fading the audience down. We're getting ready to come back from the break.
+
+01:31:37
+<transcript>: in our stream deck
+
+01:31:37
+<transcript>: And I think I actually need to delay a little bit. That's what we were doing in our.
+
+01:31:38
+<transcript>: In our stream deck.
+
+01:31:41
+<transcript>: Delay. I think I have a delay helping.
+
+01:31:50
+<transcript>: I don't know. I think it saves out over like 5 seconds. So I think it should do like.
+
+01:31:55
+<transcript>: That we look at what I guess let's just look at what I was doing before.
+
+01:32:01
+<transcript>: This thing streamed deck so Unbreak.
+
+01:32:07
+<transcript>: Delay of.
+
+01:32:07
+<transcript>: three
+
+01:32:10
+<transcript>: Three. Yeah. 3 seconds. Exactly.
+
+01:32:10
+<transcript>: it's almost
+
+01:32:11
+<transcript>: It's almost like.
+
+01:32:11
+<transcript>: i did both
+
+01:32:13
+<transcript>: I did both things.
+
+01:32:13
+<transcript>: and i thought
+
+01:32:16
+<transcript>: And I thought the same way both times.
+
+01:32:16
+<transcript>: okay
+
+01:32:17
+<transcript>: Okay.
+
+01:32:17
+<transcript>: what do i do here
+
+01:32:19
+<transcript>: emit
+
+01:32:19
+<transcript>: What do I do here.
+
+01:32:24
+<transcript>: Emit is oh, what's wrong here? Fate need to have just an empty body.
+
+01:32:32
+<transcript>: They just need to have an empty body.
+
+01:32:34
+<transcript>: Probably.
+
+01:32:39
+<transcript>: Yeah.
+
+01:32:41
+<transcript>: Just an empty body. Okay.
+
+01:32:46
+<transcript>: Cool.
+
+01:32:50
+<transcript>: Weight has no effect. Oh, that's not actually asynchronous.
+
+01:33:00
+summeeer: Whats that mousepad??? :)
+
+01:33:04
+<transcript>: I mean to go backwards. Delete. Back. There we go.
+
+01:33:05
+summeeer: Can you link?
+
+01:33:08
+<transcript>: Okay, go to office Cam say the audio allows.
+
+01:33:08
+<transcript>: delay
+
+01:33:09
+<transcript>: Delay.
+
+01:33:09
+<transcript>: i think this
+
+01:33:13
+<transcript>: I think this will return immediately. We're just firing off a fetch.
+
+01:33:16
+<transcript>: So that should return immediately.
+
+01:33:16
+<transcript>: it's not like
+
+01:33:19
+<transcript>: It's not like we're waiting on I'm just kicking off that.
+
+01:33:19
+<transcript>: camera move
+
+01:33:35
+<transcript>: Camera move. Right. Okay, so now I can Unbreak which will switch me to the camera scene, which is fine. What else will it do? So to go to the office Cam it'll fade the audio out. There's no way audio running. That's fine. Okay. I'm just gonna hit Unbreak. It should start moving the camera back to the original position.
+
+01:33:35
+<transcript>: and
+
+01:33:38
+<transcript>: And then switch me over to the camera scene.
+
+01:33:42
+<transcript>: Did it work.
+
+01:33:42
+<transcript>: oh
+
+01:33:43
+<transcript>: Oh.
+
+01:33:52
+<transcript>: It's very slow. So I need to start way sooner. I need to start the painting out way sooner. Right.
+
+01:33:55
+<transcript>: I welcome to chat.
+
+01:33:55
+<transcript>: samir
+
+01:33:59
+<transcript>: Samir, What's that mouse pad? It's a Grove made.
+
+01:33:59
+<transcript>: a gr
+
+01:34:01
+<transcript>: A Grove made.
+
+01:34:03
+summeeer: !mouse
+
+01:34:04
+<transcript>: Mouse pad.
+
+01:34:07
+<transcript>: So okay.
+
+01:34:09
+<transcript>: Here's the thing.
+
+01:34:11
+<transcript>: The.
+
+01:34:14
+<transcript>: Pan out takes forever.
+
+01:34:14
+<transcript>: so
+
+01:34:18
+<transcript>: we're just doing stuff
+
+01:34:18
+<transcript>: So, what did you miss, Heart? Gene? Where's his moving cameras around.
+
+01:34:19
+<transcript>: We're just doing stuff.
+
+01:34:19
+<transcript>: it's pretty cool
+
+01:34:20
+<transcript>: It's pretty cool.
+
+01:34:24
+<transcript>: The mouse is just an Apple track pad.
+
+01:34:27
+summeeer: Crowmate?
+
+01:34:28
+<transcript>: Okay. So let's see if I go back to let's go back over here.
+
+01:34:35
+<transcript>: What do we need to do then we need to we need to wait a long time.
+
+01:34:36
+summeeer: How u write it? :D
+
+01:34:37
+<transcript>: Maybe like.
+
+01:34:42
+<transcript>: Wait like.
+
+01:34:43
+moussx_: apple trackpad
+
+01:34:47
+summeeer: Oh ok
+
+01:34:49
+<transcript>: 5 seconds after we start the camera move. So I'm gonna hit the Unbreak button and you're not gonna see anything.
+
+01:34:49
+summeeer: Hehe
+
+01:34:51
+deadrobotdev: @summeeeR grovemade mousepad
+
+01:34:52
+<transcript>: Change immediately.
+
+01:34:52
+<transcript>: like
+
+01:35:03
+<transcript>: Like I'll come and I'll set down, you'll see that? I guess. But for 5 seconds, it's just gonna kind of be like starting that cinematic pan. And then we fade the audio out. Then we wait three more seconds. Let's try that.
+
+01:35:03
+<transcript>: let's try
+
+01:35:09
+<transcript>: Let's try that. I guess first I got to take it back. I gotta move it back to the other pose. So let's do that.
+
+01:35:12
+<transcript>: Pose. One.
+
+01:35:12
+<transcript>: think
+
+01:35:16
+<transcript>: Think. Yeah. Okay. Some more of these cinematic moves.
+
+01:35:24
+<transcript>: Like every time the camera starts moving, I take a drink of my coffee.
+
+01:35:33
+<transcript>: There you go, ASMR visually.
+
+01:35:33
+<transcript>: with
+
+01:35:33
+oetziofficial: how much coffee do you drink a day?
+
+01:35:36
+<transcript>: With the Lar Bar and the audio.
+
+01:35:38
+<transcript>: You like that.
+
+01:35:43
+<transcript>: Okay.
+
+01:35:47
+<transcript>: Is it focusing on the keyboard? Oh, it's not.
+
+01:35:51
+<transcript>: Optimistic to make it focus on the keyboard.
+
+01:35:54
+<transcript>: That's the other thing. This Edel current thing has like.
+
+01:35:54
+<transcript>: object tracking
+
+01:35:58
+<transcript>: Object tracking. It can like track object somehow. I don't really understand it.
+
+01:36:04
+<transcript>: Let's see. I don't actually drink coffee. It's Dandy blend.
+
+01:36:04
+<transcript>: i call it
+
+01:36:06
+<transcript>: I call it Coffee. Because.
+
+01:36:06
+<transcript>: i'm trying
+
+01:36:13
+<transcript>: I'm trying to simulate copy, but it's a like it's like it's like a T. Dandelion root T. And I put a mushroom.
+
+01:36:13
+<transcript>: bl
+
+01:36:16
+<transcript>: Blend in it. That's, like.
+
+01:36:19
+<transcript>: Cortiseps. And Wine's main.
+
+01:36:19
+<transcript>: it's like
+
+01:36:20
+deadrobotdev: Even the coffee is fake D:
+
+01:36:26
+<transcript>: It's like stuff that kind of like makes me feel like I'm drinking coffee. It gives me some energy, I guess. Clarity. I don't know. Something.
+
+01:36:26
+<transcript>: the mushroom
+
+01:36:29
+<transcript>: The mushrooms Man the mushrooms.
+
+01:36:29
+oetziofficial: oh I need that
+
+01:36:32
+<transcript>: fung
+
+01:36:32
+<transcript>: Bung beef. They're working for us.
+
+01:36:35
+oetziofficial: I am trying to get rid of coffee
+
+01:36:40
+<transcript>: Fungi. You're amazing. If you watch the Netflix documentary about Fungi, please, please, everyone. If you can take nothing else away from the stream.
+
+01:36:40
+<transcript>: watch
+
+01:36:44
+<transcript>: Watch the in, whatever it is incredible, fun gear. Whatever that video is.
+
+01:36:45
+picklelitebrite: its all about the mushrooms!
+
+01:36:49
+<transcript>: Hungier the craziest thing that nobody talks about.
+
+01:36:49
+<transcript>: like
+
+01:36:50
+<transcript>: nobody on
+
+01:36:50
+<transcript>: Like.
+
+01:36:53
+tmrrow: turkey tail tea is my favorite mushroom tea
+
+01:36:54
+<transcript>: Nobody on Twitter is talking about fungi. They're amazing.
+
+01:36:56
+tmrrow: the best
+
+01:36:58
+cboorg: magic mushrooms
+
+01:36:59
+<transcript>: Yeah. You should try. Even the coffee is thick. Exactly.
+
+01:37:10
+trevordubu: does it have caffeine? I'm trying to cut out caffeine and have been looking for a substitution
+
+01:37:17
+thdxr: how does your mic pick up your voice when it's so far away
+
+01:37:17
+<transcript>: You should try. You should try Danny blend it actually. I mean, I hadn't been drinking coffee for several months, like, I quit coffee. And then I discovered Danny Lynn months later. So it's not like it was like, the next day. And I'm like, yeah, this tastes like coffee. But when it's been a few months and you haven't been drinking a coffee, it really it fools me. It makes me think I'm drinking coffee.
+
+01:37:17
+<transcript>: not great
+
+01:37:19
+<transcript>: Not great coffee.
+
+01:37:19
+<transcript>: not
+
+01:37:23
+<transcript>: Not the kind of coffee my coffee? Snob self would have loved before.
+
+01:37:23
+<transcript>: but
+
+01:37:30
+<transcript>: But no Caffeine. So that's good, I think for the follow reform, Adopt and Peak games.
+
+01:37:30
+<transcript>: danny lang
+
+01:37:32
+<transcript>: it
+
+01:37:32
+<transcript>: Danny Langs. I don't know if I saw that earlier.
+
+01:37:32
+oetziofficial: does it keep you awake?
+
+01:37:35
+<transcript>: It does not have caffeine. No.
+
+01:37:41
+<transcript>: Turkey tail to use my favorite mushroom tea. Interesting. I will look into that.
+
+01:37:47
+<transcript>: How does your mind pick up your voice when it's so far away that is actually.
+
+01:37:47
+<transcript>: that
+
+01:37:49
+<transcript>: That is so this mic.
+
+01:37:57
+<transcript>: This one right here. I love having this camera up on that. This is my SM Seven B. I use it for my podcast.
+
+01:38:02
+<transcript>: It's better like blocking out all the audio when my kids come stomping through the house.
+
+01:38:03
+jaystation3x: Remember that time you told me that you don't drink coffee, and then you went to the lobby for tea and came back with tea that had an espresso shot in it?
+
+01:38:06
+dnbull: dang so your background was fake this whole time Kappa
+
+01:38:06
+<transcript>: But I don't like it in the frame so I use.
+
+01:38:08
+<transcript>: I'll just show you.
+
+01:38:13
+<transcript>: I use an overhead mic. This one.
+
+01:38:13
+<transcript>: is a
+
+01:38:32
+<transcript>: okay
+
+01:38:32
+<transcript>: Is a Sennheiser something. Something I use that just for my normal video. That's what's picking up my audio right now. And I have a button where I can switch over to my SM. I just don't like it in the camera frame. It just annoys me. It sounds a little better. So being honest, but this one you can't see unless I point the camera at it like I just did.
+
+01:38:33
+<transcript>: now i'm gonna hit
+
+01:38:33
+<transcript>: Okay.
+
+01:38:37
+<transcript>: un
+
+01:38:37
+<transcript>: Now I'm gonna hit the Unbreak again. We're gonna see how the timing looks, right.
+
+01:38:39
+<transcript>: Unbreak. Here we go.
+
+01:38:41
+reformedot: Which camera are u using? The lights are also top tier quality
+
+01:38:43
+<transcript>: It's should start moving away.
+
+01:38:43
+<transcript>: before
+
+01:38:49
+<transcript>: Before we before we see the transition. It's not soon enough still not soon enough.
+
+01:38:52
+<transcript>: Not soon enough.
+
+01:38:56
+<transcript>: Which camera Am I using? It's? A.
+
+01:38:56
+<transcript>: it was
+
+01:38:57
+<transcript>: It was.
+
+01:39:02
+<transcript>: Sorry, I'm just reading. I just saw Jay's in the chat. Jay's here.
+
+01:39:02
+<transcript>: i will get back
+
+01:39:05
+<transcript>: I will get back to your message. J.
+
+01:39:05
+deadrobotdev: @thdxr The link to the mics are in the panels below.
+
+01:39:10
+<transcript>: Will the question camera says it's only a seven s three. And it's a.
+
+01:39:13
+<transcript>: The lights are aperture light.
+
+01:39:13
+<transcript>: how do you mind
+
+01:39:17
+<transcript>: How do you mind clicker? Oh, that was decks. That said that. Okay.
+
+01:39:29
+<transcript>: Does it keep you awake? No. Oh, Etsy. It does not. Does not. Does not keep me awake. Remember that time you told me you don't drink coffee. And then you went to the lobby for tea and came back with tea. The Head expresser shot.
+
+01:39:32
+<transcript>: I don't drink coffee.
+
+01:39:32
+<transcript>: let's drink
+
+01:39:33
+<transcript>: Let's drink.
+
+01:39:33
+<transcript>: cha latte
+
+01:39:41
+<transcript>: Cha latte's. What's the deal with that? What's wrong with that? I should have been drinking coffee. If I was drinking caffeine. Might as well drink coffee.
+
+01:39:46
+<transcript>: So your background is sakes the full time. It wasn't the Embole.
+
+01:39:46
+<transcript>: it's only
+
+01:39:50
+<transcript>: It's only fake today. This is the first day my background is fake.
+
+01:39:50
+<transcript>: it's
+
+01:39:53
+<transcript>: It's fake because I want to put stuff between me like this.
+
+01:39:56
+krookeduk: where'd you get the neon light? it looks great!
+
+01:39:59
+<transcript>: Scene. This is the camera scene, so I can just add a scene. Watch this.
+
+01:39:59
+<transcript>: we're gonna
+
+01:40:02
+<transcript>: We're gonna add my other camera.
+
+01:40:04
+<transcript>: Like that.
+
+01:40:06
+<transcript>: I'm gonna make it smaller.
+
+01:40:08
+<transcript>: Like that.
+
+01:40:08
+<transcript>: i'm gonna put it over
+
+01:40:09
+<transcript>: I'm gonna put it over here.
+
+01:40:12
+<transcript>: Drop it between.
+
+01:40:15
+<transcript>: The camera and the background.
+
+01:40:15
+<transcript>: and just like that
+
+01:40:17
+<transcript>: And just like that.
+
+01:40:17
+<transcript>: see
+
+01:40:20
+<transcript>: See? Now I'm in front of stuff.
+
+01:40:20
+<transcript>: there's stuff between
+
+01:40:21
+dnbull: lol
+
+01:40:28
+<transcript>: There's stuff between me in the office. That's the whole reason that it's fake today. So I got another green screen. My office is just green screens at this point.
+
+01:40:28
+<transcript>: where did you get the
+
+01:40:32
+<transcript>: custom ne
+
+01:40:32
+<transcript>: Where did you get the neon light? My wife got it for me. It's.
+
+01:40:36
+<transcript>: Custom neon signs or something.com. I don't know. Something like that.
+
+01:40:41
+<transcript>: Okay. Did I answer all the questions I wanted to see.
+
+01:40:45
+<transcript>: So what do we need to do? We need to make the panning faster.
+
+01:40:45
+<transcript>: it's too slow
+
+01:40:46
+<transcript>: it's way too
+
+01:40:46
+<transcript>: It's too slow.
+
+01:40:48
+<transcript>: It's way too slow.
+
+01:40:48
+<transcript>: let's go
+
+01:40:51
+<transcript>: Let's go back to this scene.
+
+01:40:55
+<transcript>: So many fake things.
+
+01:40:55
+<transcript>: you just
+
+01:40:57
+<transcript>: this is all fake
+
+01:40:57
+<transcript>: You just don't know what you can trust these days.
+
+01:40:59
+<transcript>: fake
+
+01:40:59
+<transcript>: This is all fake.
+
+01:41:00
+<transcript>: Fake fake news.
+
+01:41:00
+<transcript>: fake
+
+01:41:03
+<transcript>: Fake stuff on my screen.
+
+01:41:07
+<transcript>: so
+
+01:41:07
+<transcript>: Oh, no, my, my glasses aren't on this camera.
+
+01:41:10
+<transcript>: So I've only got them on.
+
+01:41:17
+<transcript>: Oh, my house. I have them on these two cameras. I don't have my snap camera working on this one. I guess I should.
+
+01:41:17
+<transcript>: i guess
+
+01:41:18
+<transcript>: I guess.
+
+01:41:21
+deadrobotdev: Adam actually lives in a content creator warehouse. The only furniture he owns is his desk setup.
+
+01:41:24
+<transcript>: J have you been it's been a while.
+
+01:41:24
+<transcript>: we haven't
+
+01:41:32
+<transcript>: We haven't caught up in too long. You need to come on the stream. Same with you, Deck. I need to have A. J and DAX extravaganza. Where you're both on same time.
+
+01:41:37
+<transcript>: That's right. That's right. Dead robot.
+
+01:41:38
+jaystation3x: jax ftw
+
+01:41:44
+<transcript>: I was gonna do something.
+
+01:41:48
+thdxr: lol
+
+01:41:48
+<transcript>: Oh, yeah. So the timing is still bad, but the timing is bad because.
+
+01:41:51
+<transcript>: This acceleration is too high.
+
+01:41:59
+<transcript>: What is acceleration? Zero. Look like? I think we should do a little bit of zero. Let's do zero. One.
+
+01:41:59
+<transcript>: speed is
+
+01:42:00
+<transcript>: Speed is still one.
+
+01:42:02
+<transcript>: Try that.
+
+01:42:07
+<transcript>: Let's try that. I got to move back to pose one.
+
+01:42:12
+<transcript>: Ease in and out so there it's not Yeah.
+
+01:42:15
+<transcript>: Nope, Nope, not that one.
+
+01:42:23
+<transcript>: I can't for some reason I cannot remember these poses. Like the numbers.
+
+01:42:25
+<transcript>: So can I like, look at you.
+
+01:42:28
+<transcript>: Was that creepy.
+
+01:42:30
+<transcript>: Me finding the camera.
+
+01:42:38
+jaystation3x: We'll come on the stream so people can watch him help me with my nvim config. That is what everyone is here for anyway.
+
+01:42:41
+<transcript>: I'm gonna have to actually start fixing my hair now.
+
+01:42:46
+<transcript>: Because there's cameras around like every angle of my body.
+
+01:42:46
+<transcript>: i can't just
+
+01:42:51
+<transcript>: I can't just have a bad hair day anymore and hide it with camera angles.
+
+01:42:55
+<transcript>: Jacks, are the weather.
+
+01:43:00
+thdxr: try having a no hair day
+
+01:43:02
+<transcript>: We'll come on the stream so people can watch him. Help me with my InvIT. Wait. What you doing? You did in them.
+
+01:43:06
+<transcript>: That's what? Everyone here. Yeah.
+
+01:43:08
+<transcript>: Driving a new Hair day.
+
+01:43:10
+<transcript>: That's funny.
+
+01:43:16
+<transcript>: Okay I'm gonna hit break come and hit Unbreak I'm gonna see.
+
+01:43:16
+<transcript>: how's
+
+01:43:18
+<transcript>: How's the timing? Looking.
+
+01:43:24
+<transcript>: Okay. So it's not accelerating you as much.
+
+01:43:24
+<transcript>: so looks
+
+01:43:26
+<transcript>: So looks good though.
+
+01:43:33
+<transcript>: Could have done a faster owe the effects with the green screen.
+
+01:43:35
+<transcript>: Not good.
+
+01:43:38
+<transcript>: How are things going.
+
+01:43:38
+<transcript>: not the best
+
+01:43:39
+<transcript>: Not the best.
+
+01:43:42
+<transcript>: But we're having fun.
+
+01:43:52
+<transcript>: This effect apparently is going to ruin all of my plans. The hair day might have to go. I might make it a million points. Just like Anna, Madam.
+
+01:43:52
+<transcript>: that's what we're
+
+01:43:54
+<transcript>: That's what we're. That's what we're probably headed toward.
+
+01:43:54
+<transcript>: all the effects
+
+01:43:57
+<transcript>: All the effects that mess up my green screen.
+
+01:43:57
+<transcript>: right here
+
+01:43:58
+<transcript>: Right here.
+
+01:44:06
+<transcript>: In fact, I want to test what is the Ray Band? They're green. What does that do.
+
+01:44:06
+<transcript>: can you see through
+
+01:44:08
+<transcript>: Can you see through my soul? Oh, no, it doesn't.
+
+01:44:11
+<transcript>: How's that working.
+
+01:44:11
+<transcript>: i
+
+01:44:13
+<transcript>: that should be
+
+01:44:13
+<transcript>: I felt like.
+
+01:44:16
+<transcript>: That should be green enough. I guess it's just blue green enough.
+
+01:44:19
+<transcript>: Hey.
+
+01:44:20
+jaystation3x: Cowboy hat wasn't looking great on Tuesday.
+
+01:44:31
+<transcript>: Cowboy hat was one great on Tuesday. Yeah. Oh, it yeah, it does something weird with I don't understand why it's it's yellow. Right.
+
+01:44:34
+<transcript>: The cowboy hat does not like the green screen.
+
+01:44:42
+<transcript>: Okay. What else I want to do? I want to make this thing real.
+
+01:44:42
+<transcript>: so let's
+
+01:44:46
+<transcript>: we're gonna
+
+01:44:46
+<transcript>: So let's actually like make a let's go up to Lib.
+
+01:44:50
+<transcript>: We're gonna make a Lib Edel Chrome.
+
+01:44:53
+<transcript>: Little Chrome.
+
+01:44:53
+<transcript>: yes
+
+01:44:58
+<transcript>: Yes. This is that's the name of this mechanical device that moves my camera around.
+
+01:45:00
+<transcript>: Let's.
+
+01:45:00
+<transcript>: let's make
+
+01:45:05
+<transcript>: Let's make it look like a real utility that I can just use.
+
+01:45:10
+<transcript>: I want to pay. So I saw that my clipboard. Now.
+
+01:45:15
+<transcript>: I want to grab this. Go to office Cam. So I'm going to do.
+
+01:45:15
+<transcript>: a yap
+
+01:45:17
+<transcript>: A Yap? No Yeah.
+
+01:45:23
+<transcript>: See, that's the kind of stuff in Vim that's like, OOH, that felt good.
+
+01:45:29
+<transcript>: I felt real good export async function go to and it's just gonna be go to.
+
+01:45:29
+<transcript>: camera
+
+01:45:30
+<transcript>: Camera.
+
+01:45:35
+<transcript>: Go, go to pose. That's technically what it is. Right.
+
+01:45:38
+<transcript>: I guess I should expose this whole body, right.
+
+01:45:38
+<transcript>: you should be able
+
+01:45:41
+<transcript>: You should be able to do index acceleration or speed.
+
+01:45:44
+<transcript>: So we'll do.
+
+01:45:47
+<transcript>: Options.
+
+01:45:50
+<transcript>: I guess I'll do scene separately.
+
+01:45:52
+<transcript>: Proposed separately.
+
+01:45:52
+<transcript>: so
+
+01:45:54
+<transcript>: So pose.
+
+01:45:59
+<transcript>: Will just be a number, I guess.
+
+01:46:02
+<transcript>: If DAX is still here.
+
+01:46:05
+<transcript>: Extra my resident TypeScript expert.
+
+01:46:09
+<transcript>: Is there a way in TypeScript? I feel like I've asked like five people. This.
+
+01:46:09
+<transcript>: if i've already
+
+01:46:12
+<transcript>: If I've already asked you this decks. I'm sorry.
+
+01:46:13
+nexxeln: hihi
+
+01:46:19
+<transcript>: Is there a way in TypeScript to say this number has to be between one and five or zero and five.
+
+01:46:21
+<transcript>: Like.
+
+01:46:21
+<transcript>: i
+
+01:46:26
+<transcript>: I got type that constraints the value of the number to be.
+
+01:46:26
+<transcript>: you know
+
+01:46:28
+<transcript>: You know, I'm saying.
+
+01:46:34
+trevordubu: weird, you can see the green screen through the glasses
+
+01:46:36
+<transcript>: Sure way to do that. Hey, next. Next is here. Hey, we're doing fun stuff today. Next. I don't know. You might not think so. I think it's fun.
+
+01:46:37
+hnaidrelle: literal types?
+
+01:46:44
+<transcript>: We're gonna get back to AW guest, by the way, that's the next thing we're working on. As soon as I'm feeling better.
+
+01:46:44
+thdxr: the only way I know to do that is by enumerating all the options between 1 and 5
+
+01:46:50
+<transcript>: Liberal Literal types. I read Liberal types. I was like, really.
+
+01:46:54
+<transcript>: You can see the green screen through glasses. Oh.
+
+01:46:56
+<transcript>: Like when I turn.
+
+01:46:59
+<transcript>: Oh, is that what's going on there.
+
+01:47:02
+<transcript>: Yeah.
+
+01:47:02
+<transcript>: well no i
+
+01:47:15
+tunvior: i don't think so, unless you're listing all possible values
+
+01:47:15
+<transcript>: Well, no, I think. Wait. Is it seeing the worst? No, I don't think it is. I think that's just the way, like, my skin color matched with the green glasses makes this kind of teal color. I think that's. I don't know. Maybe it is the green screen. I don't know.
+
+01:47:16
+thdxr: you can use a string template to say `0.{UnionOfOneThroughFive}`
+
+01:47:19
+<transcript>: I just really there's actually three green screens in my office.
+
+01:47:28
+<transcript>: I've gone way overboard. I've got two that hang from the ceiling that I pull down, then I've got one that pops up over here to fill in this little gap.
+
+01:47:34
+<transcript>: I'm just. I'm just. I have no chill. Why do I have no chill? I wish someone could explain to me psychologically.
+
+01:47:34
+<transcript>: what my
+
+01:47:36
+<transcript>: What my problem is.
+
+01:47:41
+hnaidrelle: const number: 1 | 2 | 3 | 4 | 5; maybe?
+
+01:47:42
+<transcript>: What my problems are. I guess my wife would love to know as well.
+
+01:47:49
+<transcript>: He would love to know what my problems are. Cons. Number one, two, three. But can you do that? You can do that with numbers, too.
+
+01:47:54
+thdxr: yeah
+
+01:48:02
+<transcript>: Only way I know to do that is enumerating all the options between one five. Okay. I didn't know you could do that with numbers. I thought you could only do strings. I didn't know, like the discriminated Union or whatever could do that. That's cool.
+
+01:48:02
+<transcript>: okay so that's
+
+01:48:06
+<transcript>: Okay. So that's actually we'll do that because there really are only.
+
+01:48:07
+jaystation3x: Or switch to Idris or similar language with typed holes.
+
+01:48:08
+<transcript>: Zero through five.
+
+01:48:12
+<transcript>: Options. It can be acceleration.
+
+01:48:14
+<transcript>: and
+
+01:48:14
+<transcript>: Is a number.
+
+01:48:22
+<transcript>: And I guess just the numbers zero to one. Oh, but you can't do that like a float between zero and one, right? That wouldn't be possible.
+
+01:48:25
+<transcript>: Speed number.
+
+01:48:31
+<transcript>: We look forward TypeScript, versions, four dot, whatever where that stuff will be possible.
+
+01:48:34
+<transcript>: Okay.
+
+01:48:42
+<transcript>: And let's see pose. And then I want to default those values. Can I do that? I can be default the whole options. I guess the whole options thing.
+
+01:48:45
+<transcript>: Accelerated.
+
+01:48:47
+jaystation3x: just kidding … Idris is a toy
+
+01:48:50
+<transcript>: I spell it wrong. Acceleration.
+
+01:48:50
+<transcript>: default
+
+01:48:55
+<transcript>: Default to zero one and then speed defaults to one maybe. Can I do that.
+
+01:48:58
+<transcript>: Yeah.
+
+01:49:01
+dendenguy: Use an enum, could be clearer to name the poses
+
+01:49:03
+<transcript>: So go to pose. This is going to be pose.
+
+01:49:03
+<transcript>: and then
+
+01:49:05
+<transcript>: And then acceleration is going to be.
+
+01:49:10
+<transcript>: I'm just going to spread options.
+
+01:49:13
+<transcript>: That.
+
+01:49:16
+<transcript>: I guess that's not very good.
+
+01:49:21
+<transcript>: That's not very good, because options could be null. Right.
+
+01:49:26
+<transcript>: If you pass in. No, it couldn't.
+
+01:49:29
+<transcript>: It can't be undefined.
+
+01:49:29
+<transcript>: it's not optional
+
+01:49:33
+<transcript>: It's not optional here, but we default the value to something, so that should work. Yeah, sure.
+
+01:49:37
+<transcript>: Good news is I'm the only caller of this thing.
+
+01:49:37
+<transcript>: so i think
+
+01:49:42
+<transcript>: So I think we're gonna be fine. I'm gonna go ahead and save the address.
+
+01:49:48
+<transcript>: Right.
+
+01:49:55
+<transcript>: Save that.
+
+01:50:00
+<transcript>: Like Const.
+
+01:50:00
+<transcript>: host
+
+01:50:02
+<transcript>: Host. I don't know.
+
+01:50:05
+<transcript>: A dumb.
+
+01:50:07
+<transcript>: Post and then.
+
+01:50:11
+<transcript>: No.
+
+01:50:23
+<transcript>: That should be v.
+
+01:50:28
+<transcript>: Or I could do like C, and then T.
+
+01:50:33
+<transcript>: What can I go to that's? I don't know.
+
+01:50:36
+<transcript>: I don't know. I'm just gonna visually do it.
+
+01:50:38
+nexxeln: ct`
+
+01:50:40
+<transcript>: Right.
+
+01:50:47
+<transcript>: That felt pretty bad. That was some bad vimming.
+
+01:50:58
+<transcript>: So there's hosts. I'm actually gonna remove. I know that's not technically correct. Like that's not actually a host. That's like something else. Got a protocol in there and stuff. But what.
+
+01:51:00
+<transcript>: Ever.
+
+01:51:09
+<transcript>: That too.
+
+01:51:11
+<transcript>: Bundle.
+
+01:51:22
+oetziofficial: linkId not bundle
+
+01:51:28
+<transcript>: There's our bundle.
+
+01:51:33
+<transcript>: Bungal.
+
+01:51:38
+<transcript>: So this will go to pose.
+
+01:51:42
+<transcript>: Keepos move fix speed is the command.
+
+01:51:45
+<transcript>: You'll good. We feel good about this.
+
+01:51:45
+<transcript>: what am i doing though
+
+01:51:48
+<transcript>: What am I doing, though? Go to Pose should return.
+
+01:51:51
+<transcript>: Should it return.
+
+01:51:58
+<transcript>: This house should be good. Should I be trying and catching around this? What do you people do? What do you people do.
+
+01:52:01
+<transcript>: You just return it.
+
+01:52:01
+<transcript>: return
+
+01:52:02
+<transcript>: Return the fetch.
+
+01:52:07
+<transcript>: I what do you do.
+
+01:52:09
+<transcript>: Oh, did I do something wrong.
+
+01:52:13
+<transcript>: Link ID is not bundle.
+
+01:52:13
+thdxr: I ignore all errors
+
+01:52:18
+<transcript>: Oh, it's not the bundle. It's the link. Id. Good call. Thank you for paying attention. That was some.
+
+01:52:20
+<transcript>: Link.
+
+01:52:24
+<transcript>: Eddie, awesome sleuthing or something.
+
+01:52:30
+<transcript>: You just Eagle Eye. That's the word Eagle Eye link. Id. Okay.
+
+01:52:38
+nexxeln: you could have used lsp rename to rename the variable everywhere
+
+01:52:40
+nexxeln: gr i think
+
+01:52:46
+<transcript>: So I could I could constrain my number. I'll go back and do that. Switch to Idris or similar language with tight tolls. What is that? J. Just kidding. Okay, it's a toy. Okay, good. Is that Idris or Eldris.
+
+01:52:46
+<transcript>: use an email
+
+01:52:52
+<transcript>: Use an email could be clear to name the poses. Yeah, we will do.
+
+01:52:52
+<transcript>: i don't know if
+
+01:52:56
+<transcript>: I don't know if it'll be an Enem. There'll be a discrimination unit, I guess.
+
+01:52:58
+<transcript>: Dax ignores all errors. Me too.
+
+01:52:58
+<transcript>: then some people
+
+01:52:58
+oetziofficial: I almost never forget IT related stuff xD
+
+01:53:02
+thdxr: adam is going to get banned from twitch for saying "typed holes"
+
+01:53:03
+<transcript>: Then some people shame me about it. They're like, Shouldn't you be try catching? I don't know should I be.
+
+01:53:10
+jaystation3x: LOL.
+
+01:53:12
+jaystation3x: https://www.idris-lang.org/
+
+01:53:18
+<transcript>: Irishling. Okay.
+
+01:53:25
+<transcript>: We'll take a look at it sometimes.
+
+01:53:25
+<transcript>: hey
+
+01:53:30
+<transcript>: Hey, Jay, they use the same fond of Stamp Muse. That's the statme spot. Right.
+
+01:53:33
+<transcript>: I think so.
+
+01:53:37
+<transcript>: Like the Ubuntu bun.
+
+01:53:37
+<transcript>: bunk
+
+01:53:38
+<transcript>: Bunk.
+
+01:53:41
+<transcript>: Okay.
+
+01:53:43
+<transcript>: Propose is going to be.
+
+01:53:46
+<transcript>: A type.
+
+01:53:53
+<transcript>: The reason.
+
+01:53:54
+jaystation3x: IDK but I'm here for the impending "news about StatMuse" that you teased.
+
+01:54:01
+<transcript>: The reason I'm not naming them is that we could set these in the app. We might start setting these.
+
+01:54:04
+<transcript>: Different poses, positions.
+
+01:54:04
+<transcript>: program
+
+01:54:06
+<transcript>: so
+
+01:54:06
+<transcript>: Programmatically.
+
+01:54:17
+<transcript>: So there's really no, like, builtin keyboard pose. I just made that up today. We said it, but I think it'll get wiped out when we restart, like my turn off metal Crown.
+
+01:54:17
+<transcript>: that'll all get w
+
+01:54:19
+<transcript>: That'll all get wiped out.
+
+01:54:22
+<transcript>: Okay.
+
+01:54:24
+<transcript>: I think this all works.
+
+01:54:24
+<transcript>: this is
+
+01:54:28
+<transcript>: This is the main thing we're trying to do right now is just go to pose.
+
+01:54:28
+<transcript>: so now
+
+01:54:30
+<transcript>: So now I can go back to.
+
+01:54:36
+<transcript>: Where my brakes and instead of go to keyboard Cam.
+
+01:54:42
+<transcript>: So let's delete that function.
+
+01:54:47
+<transcript>: This gonna be go to post.
+
+01:54:53
+<transcript>: Is going to be what.
+
+01:54:53
+<transcript>: hero
+
+01:54:55
+<transcript>: Hero.
+
+01:55:00
+<transcript>: So this all we're gonna have to have, like, a posed manager or something.
+
+01:55:13
+<transcript>: Did I tease that.
+
+01:55:15
+<transcript>: Jay, we need to talk.
+
+01:55:21
+<transcript>: Before I before share any news we got talk.
+
+01:55:26
+<transcript>: So just Mark that down.
+
+01:55:26
+<transcript>: dm me or
+
+01:55:30
+<transcript>: Dm me or however you reach out to me? Reach out to me? We gotta talk.
+
+01:55:30
+<transcript>: okay
+
+01:55:32
+<transcript>: Okay, wait. Go to pose.
+
+01:55:35
+<transcript>: Zero.
+
+01:55:35
+<transcript>: and then
+
+01:55:36
+jaystation3x: Oh boy. Gotta drop now, but look for me in your calendar.
+
+01:55:42
+<transcript>: And then I don't need to change the options, right? The default is fine. And then the other one was Unbreak.
+
+01:55:45
+<transcript>: I'm gonna delete this function.
+
+01:55:45
+<transcript>: daff
+
+01:55:48
+<transcript>: Daff. So this one is index one. Yeah.
+
+01:55:54
+<transcript>: Go to pose.
+
+01:55:57
+<transcript>: And it's going to be posed.
+
+01:56:01
+<transcript>: Well, I just said it was it post one. I think so.
+
+01:56:07
+<transcript>: This all assumes that my poses are set up a very specific way. Right.
+
+01:56:09
+<transcript>: But if I saved all that.
+
+01:56:09
+<transcript>: i say
+
+01:56:11
+<transcript>: I say, well.
+
+01:56:13
+<transcript>: let's test it out
+
+01:56:13
+<transcript>: Now.
+
+01:56:20
+<transcript>: Let's test it out with our just our refactoring. So I'm going to go to let's see it's on the current. I'm gonna go to Bray.
+
+01:56:28
+<transcript>: But I don't want to actually go to break. I'm just gonna do the camera move. I don't know. Maybe I'll just go to break and I'll come right back. How about that.
+
+01:56:28
+<transcript>: look
+
+01:56:33
+andreull: yo whoever gifted me a sub, thx. idk what's happening but im subscribed from gifts to like 4 - 5 channels lol
+
+01:56:36
+<transcript>: Look for me in your calendar. Okay. Jay? Yes. Please. Do you gotta go. Okay. See ya. Hi, Jay. Come on. The stream soon. We'll talk about it.
+
+01:56:41
+<transcript>: I'mre there were a bunch of gifts given out.
+
+01:56:49
+<transcript>: Yeah. There was like a there's kind of a little competition between some folks that were trying to outdo each other.
+
+01:56:49
+<transcript>: on the gift
+
+01:56:51
+<transcript>: On the gift stubbing.
+
+01:56:55
+deadrobotdev: @andreull Last days of subtember mean it's 25% off for gift subs, so I assume a lot of people are gifting
+
+01:56:58
+<transcript>: So last stream I think they're like 40 gifts that's given out or something. So most everyone should be subscribed at this point.
+
+01:57:02
+<transcript>: 25% off for gift subs.
+
+01:57:03
+<transcript>: subscribe
+
+01:57:04
+<transcript>: Subscribe.
+
+01:57:08
+<transcript>: Oh wow last two days of subtmber.
+
+01:57:13
+<transcript>: Sub Timber I've definitely been buying a lot of like six months subscriptions and stuff.
+
+01:57:13
+<transcript>: because it's like
+
+01:57:20
+deadrobotdev: Most of the month it's only been 25% off for subbing yourself, or continuing a gift sub.
+
+01:57:20
+<transcript>: Because it's like, why not? Why not take the discount? Here we go. I'm gonna go to break. I'm coming right back. It's a fake break. Okay.
+
+01:57:20
+<transcript>: like everything else
+
+01:57:22
+<transcript>: my
+
+01:57:22
+<transcript>: Like everything else on this stream.
+
+01:57:24
+<transcript>: My background's? Fake.
+
+01:57:28
+nexxeln: FAKE BREAK
+
+01:57:30
+<transcript>: The things I say mostly are fake and this is a fake break. Don't go anywhere.
+
+01:57:42
+2dorkstv: we cant' even be sure that you're real! I don't know what to believe anymore
+
+01:57:52
+nexxeln: yooo the camera is moving
+
+01:57:55
+nexxeln: wowwwwwwwwwwwwww
+
+01:58:01
+yeltrah_: Yea that looks nice
+
+01:58:04
+adamdotdev: unbreak coming
+
+01:58:06
+andreull: what is real? what is "what is"?
+
+01:58:09
+deadrobotdev: Adam outdoing TV production teams with code
+
+01:58:11
+2dorkstv: this is great
+
+01:58:13
+<transcript>: How is the Unbreak? Did we give it enough time.
+
+01:58:15
+thdxr: the sdk is fake, adam's wife is just moving the camera around every time
+
+01:58:18
+nexxeln: thats so cool wtf
+
+01:58:19
+<transcript>: I feel like we didn't give it enough time on the Unbreak. Like the panning out happened. Still too slowly.
+
+01:58:24
+<transcript>: As the SDK is fake. Adam's wife is just moving the camera around.
+
+01:58:27
+stroopwafel26: I thought it would zoom all the way into your legs but this is not that kind of stream i guess
+
+01:58:30
+deadrobotdev: @thdxr LUL
+
+01:58:44
+<transcript>: Yeah. Next. Is that's the first time you saw the camera move? Yeah, yeah. No. This is some cool stuff we're doing today. We're taking the next step up. You know what I mean? We had some pretty good, pretty good production value on the stream. And then we just took it to the next level. Now we've got mechanical jibs involved. I don't know where the next level.
+
+01:58:44
+<transcript>: after this
+
+01:58:46
+nexxeln: damnnnnnn
+
+01:58:47
+<transcript>: After this is like, I don't know what I'm gonna want to get into.
+
+01:58:49
+nexxeln: love it
+
+01:58:52
+thdxr: drones
+
+01:58:53
+<transcript>: But I think this is probably it. We've probably reached pinnacle of what I'm gonna do on Twitch.
+
+01:58:59
+<transcript>: And I did share. I shared a video, so it's not everything. It's fake. I did share this.
+
+01:59:07
+<transcript>: Here's a picture for those who joined late or here's a video. This is the actual jib. What it looks like when it's moving around.
+
+01:59:08
+nexxeln: you are not fake
+
+01:59:10
+<transcript>: so
+
+01:59:10
+<transcript>: Mute. It.
+
+01:59:14
+<transcript>: So this is from my phone. I'm sorry for the camera quality.
+
+01:59:14
+<transcript>: i am not
+
+01:59:17
+<transcript>: I am not fake drones.
+
+01:59:17
+<transcript>: so that is
+
+01:59:20
+<transcript>: So that is what the jib looks like when it's moving around in the office.
+
+01:59:25
+<transcript>: And the skies the limit here really.
+
+01:59:25
+<transcript>: we can do
+
+01:59:29
+<transcript>: We can do wait. Am I even showing this? I'm not sharing my screen.
+
+01:59:35
+<transcript>: Here it is. There's the thing.
+
+01:59:35
+<transcript>: so that's
+
+01:59:38
+<transcript>: So that's what it looks like moving around the office.
+
+01:59:38
+<transcript>: it can move
+
+01:59:41
+<transcript>: axi
+
+01:59:41
+<transcript>: It can move in so many different ways. So many different axes.
+
+01:59:42
+thdxr: now your overlay is on top of it
+
+01:59:45
+<transcript>: axis
+
+01:59:45
+<transcript>: Axi. What is the word for multiple accesses.
+
+01:59:46
+<transcript>: Axis.
+
+01:59:48
+yeltrah_: you overlap is on top
+
+01:59:49
+nexxeln: we can't see it
+
+01:59:49
+yeltrah_: can't see it
+
+01:59:53
+thdxr: axis of evil?
+
+01:59:58
+<transcript>: It can basically move in like any direction. So the possibilities here are limitless. It would be more fun if the entire office were in a green screen.
+
+01:59:58
+<transcript>: because
+
+02:00:02
+<transcript>: Because like, I can't point it if you point the camera. Well, I'll just show you.
+
+02:00:07
+<transcript>: Let's just do a little tour of the office, courtesy of this camera. Where's my.
+
+02:00:07
+<transcript>: obs
+
+02:00:09
+<transcript>: Obs. There it is.
+
+02:00:13
+<transcript>: Let me pull up. We'll just pull up that scene.
+
+02:00:16
+<transcript>: Although I don't think the audio works on that scene.
+
+02:00:19
+<transcript>: Jeez, this drives me nuts.
+
+02:00:20
+deadrobotdev: Adam is actually an AI. He started life as a helpful paperclip in Microsoft products.
+
+02:00:26
+<transcript>: Come on. You buy. There we go. I'll just make this bigger so that we saw video. I don't have to mess with that.
+
+02:00:26
+<transcript>: where is
+
+02:00:27
+<transcript>: Where is it.
+
+02:00:30
+dnbull: I cant tell whats real even your posture is perfect who programmed you?
+
+02:00:32
+<transcript>: Office. Keep or here it is.
+
+02:00:43
+<transcript>: Just make it bigger. Okay, so here's the problem. The real problem is there's not much to look at in the other direction, you know? I mean, like it's just a green screen. I'll show you.
+
+02:01:01
+yeltrah_: Dude haha
+
+02:01:01
+<transcript>: This is like.
+
+02:01:01
+<transcript>: green screen
+
+02:01:05
+<transcript>: Green screened out the entire office. So there's my desk.
+
+02:01:05
+stroopwafel26: How do you even exit the room not that everything is blocked by green screen?
+
+02:01:05
+yeltrah_: full on production set in that office
+
+02:01:10
+dnbull: We've been lied
+
+02:01:11
+<transcript>: There's that camera, as you can see it. There's some curtains.
+
+02:01:15
+<transcript>: And then over here, it's like.
+
+02:01:16
+deadrobotdev: There is no office. Just green screens and a desk
+
+02:01:16
+<transcript>: Millennium.
+
+02:01:16
+<transcript>: the
+
+02:01:21
+<transcript>: The bookcase is covered up so that's like.
+
+02:01:28
+<transcript>: i mean
+
+02:01:28
+<transcript>: What else can I show you? You know, it just kind of has to be like panning around my office. I guess.
+
+02:01:33
+<transcript>: I mean pinning around my desk because like what else? I don't know. Nothing else to see.
+
+02:01:34
+<transcript>: Okay.
+
+02:01:34
+<transcript>: i don't know we
+
+02:01:37
+<transcript>: I don't know. We did it. What else? This thing to do.
+
+02:01:40
+<transcript>: Just green screens in a desk.
+
+02:01:47
+<transcript>: Yeah. No, it really is kind of like Borderline, a YouTube studio at this point.
+
+02:01:47
+<transcript>: oh i'm looking
+
+02:01:48
+<transcript>: Oh, I'm looking.
+
+02:01:54
+<transcript>: I've just. I've done a lot to make this thing ready for.
+
+02:01:54
+<transcript>: my
+
+02:01:59
+<transcript>: My future and my future is teaching all the things so my future is not.
+
+02:02:05
+<transcript>: Streaming about streaming. I really don't. I don't want people that show up and see this stream to be like.
+
+02:02:12
+deadrobotdev: Face tracking next??? 👀
+
+02:02:15
+<transcript>: He talks about making a Twitch stream. I don't. That's not my goal. My goal is to teach you things about Web technology and cloud stuff.
+
+02:02:15
+<transcript>: and to build
+
+02:02:22
+<transcript>: And to build fun projects on stream. That's what we do in most days. Face tracking. Next. I'm just gonna come over here, actually.
+
+02:02:30
+<transcript>: Base tracking. So we did that dead robot. We did that early on in my streaming.
+
+02:02:32
+<transcript>: History.
+
+02:02:32
+<transcript>: ha
+
+02:02:35
+<transcript>: Hang on, let me turn this off.
+
+02:02:35
+<transcript>: so we
+
+02:02:37
+deadrobotdev: Have the scene automatically changed based on where your face is looking?
+
+02:02:38
+<transcript>: and
+
+02:02:38
+<transcript>: So we did do some facetriding stuff with TensorFlow.
+
+02:02:45
+<transcript>: And I thought about revisiting it at some point to do just have it automatically switch camera when I look at a camera.
+
+02:02:45
+<transcript>: yeah
+
+02:02:50
+<transcript>: Yeah, see, it automatically changed this on where your face is looking? Yeah, no, definitely played with that.
+
+02:02:50
+<transcript>: i
+
+02:02:54
+<transcript>: I ultimately didn't want it doing full scene transitions.
+
+02:02:58
+kedemel: LUL
+
+02:03:03
+<transcript>: For me, like I wanted to manually say, because it's like a whole animation, and we played a little sound thing. I just didn't want it like jerking around every time I look too far. One direction.
+
+02:03:06
+ljrrrr: so this back right now is fake
+
+02:03:15
+<transcript>: Yeah, thanks for the follows X four. I can't say that I just can't say it it might be mate, matesy and Barney, thanks for the follow Barney.
+
+02:03:15
+<transcript>: love
+
+02:03:17
+ljrrrr: backgoround*
+
+02:03:17
+<transcript>: Love, slovnik.
+
+02:03:18
+deadrobotdev: That makes sense, yeah
+
+02:03:21
+deadrobotdev: @ljrrrr Yep
+
+02:03:22
+<transcript>: And Reform Dot and Peak Games. Welcome.
+
+02:03:29
+laytanl_: We can see through the matrix with this filter LUL
+
+02:03:32
+<transcript>: Yeah. Welcome to Chat LJ. Yeah, it's fake today. This is the first day it's been fake. It is my actual office. In fact, hang up. Let me show you.
+
+02:03:45
+deadrobotdev: Whaaaaaat
+
+02:03:50
+nexxeln: what
+
+02:03:55
+<transcript>: So it is my office. Right. Like if I turn on hang on.
+
+02:03:59
+<transcript>: I'm just turning off all these lights next. I don't have to run all the time.
+
+02:04:00
+icedcoffefe: the illusion is broken
+
+02:04:02
+schrew: PogChamp
+
+02:04:02
+jenswoeste: the real thing is better
+
+02:04:03
+<transcript>: But like there it is.
+
+02:04:07
+<transcript>: Almost. Almost my office. That was a chromicky.
+
+02:04:13
+<transcript>: Let's see. Filters. Let's turn it off. There we go.
+
+02:04:17
+<transcript>: See, I'm in that office. It's just.
+
+02:04:17
+<transcript>: i want
+
+02:04:22
+<transcript>: the
+
+02:04:22
+<transcript>: I want to put stuff on the screen that I can't I can't put on there if.
+
+02:04:26
+<transcript>: The real thing is better. Yeah. I mean, this is the real office.
+
+02:04:32
+<transcript>: It's a different view these days because I'm further away from like the Lego buildings. I move myself into the corner.
+
+02:04:33
+thdxr: there's a second layer of green screens behind the first
+
+02:04:39
+fragaverage: IM HERE
+
+02:04:40
+<transcript>: It's always been real. I've never done the green screen before today. So everything you've seen up to this point, you've always seen my real office in the background.
+
+02:04:40
+<transcript>: i only
+
+02:04:44
+<transcript>: I only today switched over. Frag is here.
+
+02:04:48
+fragaverage: Been upgrading PC LUL
+
+02:04:50
+<transcript>: I only switched over to the fake thing so I could put stuff between me and my office. You know, I'm saying.
+
+02:04:51
+jenswoeste: why cant you put stuff on the screan without using a green screen?
+
+02:04:55
+<transcript>: You know I'm saying been upgrading your PC OOH tell me more Tell me more.
+
+02:04:58
+<transcript>: So Yeah.
+
+02:04:58
+<transcript>: i can put
+
+02:04:59
+icedcoffefe: you can't fool me, there's another greenscreen
+
+02:05:03
+<transcript>: I can put stuff on the screen. I just can't put it between me and my office. You know what I'm saying.
+
+02:05:05
+<transcript>: There's not.
+
+02:05:08
+fragaverage: Ryzen 7900X :D
+
+02:05:09
+stroopwafel26: it's green screens all the way down
+
+02:05:10
+<transcript>: There's not it. Let me go. Pull the other green screen.
+
+02:05:15
+deadrobotdev: You know what would be fun "I really should clean up the shelves" *pulls green screen down and the shelves are tidied* LUL
+
+02:05:17
+<transcript>: No, that's really my background. Watch the focus. Here we go. There's no way to fake this. You ready? Watch this.
+
+02:05:19
+whoami1509: SeemsGood
+
+02:05:22
+stroopwafel26: the entire universe is like a green screen
+
+02:05:23
+<transcript>: I can't fake that stuff.
+
+02:05:23
+<transcript>: the way the
+
+02:05:28
+<transcript>: The way the focus just picked up on the buildings can't do it. Stroop is here.
+
+02:05:31
+<transcript>: Stroop. Is here.
+
+02:05:36
+stroopwafel26: hey adam
+
+02:05:40
+<transcript>: Yeah. So I just want to have stuff, like layers. I want to be able to layer like me. Then, like words coming across the screen, then the background. You know, I'm saying.
+
+02:05:46
+<transcript>: The entire universe is like a green screen. Yeah, it's all just fake anyway, why not just make more fake stuff.
+
+02:05:47
+thdxr: I ate a bootleg stroopwafel the other day and it wasn't great
+
+02:05:54
+<transcript>: You know what would be fun? I really should clean up the shelves. Pulls green screen down Social ties.
+
+02:05:56
+<transcript>: Yeah, exactly.
+
+02:06:00
+<transcript>: Adam Bootleg Stroop off of the other day. It wasn't great.
+
+02:06:04
+<transcript>: Okay.
+
+02:06:04
+stroopwafel26: what even is a bootleg stroopwafel :|
+
+02:06:06
+<transcript>: with
+
+02:06:06
+<transcript>: So that reminds me actually.
+
+02:06:15
+stroopwafel26: whyyyy
+
+02:06:19
+<transcript>: With Mark's been out quite a bit. Mandy hasn't been able to make it. I'm gonna make some more moderators. And you guys are literally talking right now, so I'm gonna make you moderators. I've been meaning to do this.
+
+02:06:20
+fragaverage: Wooo who's joining the club!!
+
+02:06:25
+<transcript>: I don't know if this is like a big badge of honor, pushing.
+
+02:06:28
+<transcript>: Consider yourselves.
+
+02:06:28
+<transcript>: modded
+
+02:06:30
+<transcript>: Modded.
+
+02:06:32
+stroopwafel26: WAIT A MOD
+
+02:06:32
+<transcript>: Let's see mod.
+
+02:06:35
+<transcript>: So, DAX, you join the.
+
+02:06:36
+caldotjs: moderator ceremony
+
+02:06:36
+fragaverage: :O
+
+02:06:41
+fragaverage: 🥳🥳💃🏼💃🏼
+
+02:06:49
+dnbull: "real life" friend damn we are fake :(
+
+02:06:52
+<transcript>: You're not on stream that much, but your my real life friend like Jay. So you get to be a mod and then Stroop you're here with me every day. So if anyone should be a mod, should be the people like Frag and Shrup. They're here every day. Moderator, ceremony. All right, we got a couple new mods.
+
+02:06:53
+dnbull: we live in a fake life
+
+02:06:53
+nexxeln: damn nice congrats @stroopwafel26
+
+02:07:00
+stroopwafel26: I'm honored
+
+02:07:01
+jenswoeste: simpatD simpatD simpatD simpatD simpatD
+
+02:07:02
+deadrobotdev: Now stroop can ban all the bootleg stroopwaffels
+
+02:07:04
+<transcript>: You're not fake friends. It's just like. And I've never even met DAX in person. But like, I knew DAX before I started streaming. I didn't meet him on Twitch. You know what I'm saying.
+
+02:07:04
+<transcript>: you know
+
+02:07:05
+laytanl_: Can mods redeem animadam?
+
+02:07:06
+<transcript>: You know what I'm saying.
+
+02:07:09
+dnbull: we are just "chat" thats how people refer us BibleThump
+
+02:07:11
+<transcript>: Nastroop can ban all the bootleg Stroop waffles.
+
+02:07:16
+thdxr: do a vlog where we meet in person
+
+02:07:19
+<transcript>: Oh, shoot, can mods redeem anime. I may have just opened myself up. There might be an attack vector here that I'm not excited about.
+
+02:07:24
+jenswoeste: LUL
+
+02:07:25
+nexxeln: t3ggParty t3ggParty t3ggParty t3ggParty t3ggParty
+
+02:07:26
+<transcript>: Do a vlog. Where we meet in person yeah, yeah? We are gonna meet in person in November, December.
+
+02:07:26
+<transcript>: dax
+
+02:07:27
+hagoona_matata: lepHELLO  Hey all
+
+02:07:30
+<transcript>: Dax and I are going to reinvent anybody going to reinvent anybody.
+
+02:07:32
+<transcript>: Anybody else.
+
+02:07:33
+stroopwafel26: Anyone who talks trash about stroopwafels is banned /s
+
+02:07:34
+deadrobotdev: I don't think so. I think only broadcaster has unlimited points.
+
+02:07:35
+<transcript>: Mean DAX will be there.
+
+02:07:35
+dnbull: !commands
+
+02:07:35
+fossabot: @dnbull Channel commands are available at: https://fossabot.com/adamdotdev/commands
+
+02:07:36
+nexxeln: what is reinvent
+
+02:07:40
+<transcript>: Anyone who talks trash about street waffles is.
+
+02:07:41
+picklelitebrite: what about lukken with maple syrup? close enough to stroop, right?
+
+02:07:47
+laytanl_: I'm not
+
+02:07:51
+<transcript>: Okay, I'm the only one with unlimited points. That's actually good to know what is reinvent. It's the AWS, like big annual conference that AWS says in Vegas.
+
+02:07:52
+laytanl_: Where is it helt?
+
+02:07:52
+dnbull: !accountage
+
+02:07:53
+fossabot: @dnbull dnbull created their account 13 years, 2 months, 14 days and 16 hours ago
+
+02:07:55
+greggalactic: bro ash that cig before it ashes on your keyboard
+
+02:08:01
+nexxeln: im also not going
+
+02:08:02
+stroopwafel26: I'm not going to re:invent this year :( kinda glad though, i'm not good with crowds
+
+02:08:04
+<transcript>: Lighten is not going. It's held in Las Vegas, which is kind of a bummer. I don't really care to visit Las Vegas, but what about Lucan with Maple syrup? You guys are talking about stuff I don't understand.
+
+02:08:04
+<transcript>: i assume it's
+
+02:08:07
+<transcript>: I assume it's Denmark things.
+
+02:08:11
+jenswoeste: going to Slush in Helsinki - one of the biggest startup events on the planet
+
+02:08:12
+<transcript>: You've had.
+
+02:08:12
+<transcript>: your twitch account
+
+02:08:14
+thdxr: no one is going for the AWS stuff, just to meet internet friends
+
+02:08:15
+<transcript>: Your Twitch account for 13 years. Dan Bowl.
+
+02:08:17
+<transcript>: so
+
+02:08:17
+<transcript>: 13 years.
+
+02:08:19
+laytanl_: Denmark LUL
+
+02:08:20
+adamdotdev: !accountage
+
+02:08:20
+fossabot: @adamdotdev adamdotdev created their account 2 months, 19 days and 2 hours ago
+
+02:08:22
+dnbull: I invented justin.tv Kappa
+
+02:08:22
+<transcript>: So I can do account age account edge accountage.
+
+02:08:26
+fragaverage: !accountage
+
+02:08:26
+fossabot: @FragAverage FragAverage created their account 5 years, 1 month, 28 days and 17 hours ago
+
+02:08:27
+nexxeln: !watchtime
+
+02:08:30
+<transcript>: Two months, 19 days and 2 hours ago. You've been on for something like 13 years. More than me. That's crazy.
+
+02:08:31
+stroopwafel26: !accountage
+
+02:08:31
+fossabot: @stroopwafel26 stroopwafel26 created their account 8 years, 10 months, 27 days and 17 hours ago
+
+02:08:36
+laytanl_: !accountage
+
+02:08:36
+stroopwafel26: TIL
+
+02:08:36
+fossabot: @laytanl_ laytanl_ created their account 5 years, 5 months, 5 days and 17 hours ago
+
+02:08:43
+<transcript>: Not going to reinvent this year. Kind of glad, though. I'm not good with crowds. Yeah, I'm not either. Honestly, I have, like a lot of social anxiety.
+
+02:08:46
+greggalactic: !accountage
+
+02:08:46
+fossabot: @GregGalactic GregGalactic created their account 7 years, 10 months, 13 days and 19 hours ago
+
+02:08:47
+nexxeln: !accountage
+
+02:08:51
+laytanl_: boomers
+
+02:08:52
+<transcript>: It doesn't play out on Twitch. I don't feel anxious hanging out with you on Twitch. Maybe it's because you can't talk. I'm the only one I can talk. I don't know. But in person. Yeah, like crowds.
+
+02:08:52
+<transcript>: not a
+
+02:08:54
+<transcript>: Not a fan.
+
+02:08:54
+<transcript>: going
+
+02:08:56
+greggalactic: never knew about the accountage thing lol
+
+02:08:59
+<transcript>: Going to slush and helpsinki one of the biggest startup events on the planet. That sounds cool.
+
+02:09:02
+<transcript>: When is that yens.
+
+02:09:05
+dnbull: I was here when the big streamers we averaging 100 viewers LUL
+
+02:09:05
+stroopwafel26: hey wanna join my social anxiety club?
+
+02:09:10
+nexxeln: no bowl today?
+
+02:09:12
+restarted: !accountage
+
+02:09:12
+fossabot: @restarted restarted created their account 13 years, 9 months, 15 days and 12 hours ago
+
+02:09:13
+jongrizzly: !github
+
+02:09:13
+fossabot: Adam's dotfiles live here: https://github.com/adamelmore/dotfiles
+
+02:09:14
+jenswoeste: 16th-18th november
+
+02:09:15
+<transcript>: No one is going for the alien stuff just to meet internet friends. Exactly. I don't really care about what they announce it reinvent. I'll probably know most of what they're gonna announce before they announce it. I'm just excited to meet my first.
+
+02:09:18
+<transcript>: Met in Native community.
+
+02:09:18
+nexxeln: !accountage
+
+02:09:19
+fossabot: @nexxeln nexxeln created their account 1 year, 9 months, 27 days and 11 hours ago
+
+02:09:20
+jenswoeste: slush.org
+
+02:09:23
+<transcript>: Denmark did I say the wrong thing? Was that the wrong country.
+
+02:09:30
+<transcript>: The in Bull. You invented Justin TV. You didn't. Are you serious? Who are you? Are we among royalty.
+
+02:09:43
+<transcript>: Can someone. Can we get a reference check on Dnbull? Is he Justin? Did he created Frag? You created your account five years ago. Okay.
+
+02:09:43
+<transcript>: what's
+
+02:09:45
+<transcript>: What's? Watch? Time.
+
+02:09:48
+dnbull: Nah im just a pleb
+
+02:09:49
+<transcript>: Countage Stroop. Waffle eight years.
+
+02:09:53
+<transcript>: Stay you learned you've been on Twitter eight years.
+
+02:09:53
+<transcript>: five years
+
+02:09:54
+<transcript>: greg
+
+02:09:54
+<transcript>: Five years for latent.
+
+02:09:55
+oetziofficial: !accountage
+
+02:09:55
+fossabot: @OetziOfficial OetziOfficial created their account 2 years, 2 months, 5 days and 5 hours ago
+
+02:09:56
+caldotjs: !accountage
+
+02:09:57
+<transcript>: boomers
+
+02:09:57
+<transcript>: Greg Galactic seven years.
+
+02:09:58
+<transcript>: Boomers.
+
+02:10:04
+<transcript>: Yeah, it looks like a countage to me. It doesn't look like a count age. If I could countage.
+
+02:10:04
+oetziofficial: + add 6 more years
+
+02:10:06
+qubiz: !accountage
+
+02:10:06
+fossabot: @Qubiz Qubiz created their account 10 years, 3 months, 12 days and 17 hours ago
+
+02:10:07
+<transcript>: You were here when the Big streamers were averaging 100 views.
+
+02:10:07
+<transcript>: that's incredible
+
+02:10:10
+<transcript>: That's incredible. How much do they average now.
+
+02:10:10
+stroopwafel26: Took me 8 years to become mod
+
+02:10:13
+<transcript>: want to join
+
+02:10:13
+<transcript>: Is that a lot more.
+
+02:10:13
+hagoona_matata: !accountage
+
+02:10:13
+fossabot: @hagoona_matata hagoona_matata created their account 7 years, 3 months, 23 days and 21 hours ago
+
+02:10:18
+dnbull: they avg like 20k now LUL
+
+02:10:21
+nexxeln: they average 60k-100k
+
+02:10:22
+<transcript>: Want to join my Social Anxiety Club? Yes, please. No bowl today. Next. I did it for one day. It just takes up a huge amount of room on my I guess I could get a smaller Bowl.
+
+02:10:24
+laytanl_: Some streamers have !watchtime which is the amount of time spent watching them
+
+02:10:30
+<transcript>: First time chat. Welcome to Chat. John Grizzly. Welcome, welcome.
+
+02:10:33
+greggalactic: are we the boomers of twitch or am i gen x of twitch for being 7yrs
+
+02:10:33
+caldotjs: !accountage
+
+02:10:34
+fossabot: @caldotjs caldotjs created their account 7 years, 1 month, 10 days and 21 hours ago
+
+02:10:37
+jackysono: !accountage
+
+02:10:39
+<transcript>: So mid November. Okay. Yeah. Reinvent is like the end of November. It's.
+
+02:10:43
+2dorkstv: meeting time! later, party people
+
+02:10:54
+<transcript>: A 28th through December 3 or something like that. I think thanks for the follow spoon. I guess we'll do some more coding. I don't know. I feel like we did the break thing and that was my big thing. And I'm sick. And I don't know. My bar is low for days when I'm sick.
+
+02:10:55
+fragaverage: !followage
+
+02:10:56
+fossabot: @FragAverage FragAverage has been following adamdotdev for 1 month, 19 days and 2 hours
+
+02:11:05
+<transcript>: The okay. You're just messing. Okay? I thought maybe you really were. I don't know. For a minute. Maybe you were Justin himself. Thanks for follow John Grizzly and LJ or.
+
+02:11:12
+fragaverage: Sus, 3 month sub
+
+02:11:13
+<transcript>: Anybody beat the 13 years that Dnbull has been staring at Twitch.
+
+02:11:16
+<transcript>: I haven't seen any bigger than that.
+
+02:11:18
+dnbull: I think @restarted
+
+02:11:22
+<transcript>: Oh, Wetsie. You have two years plus six. So that's eight years. That's still a lot.
+
+02:11:22
+<transcript>: cube
+
+02:11:24
+nexxeln: do you watch any other streamers other than dev streams?
+
+02:11:26
+dnbull: that account is also 13 years
+
+02:11:29
+restarted: a few more months
+
+02:11:31
+laytanl_: !followage
+
+02:11:32
+fossabot: @laytanl_ laytanl_ has been following adamdotdev for 1 month, 18 days and 1 hour
+
+02:11:35
+<transcript>: Cube is Cuba is here. Hey, AWS. Comcube is it's published? It's not good. We gotta work on it, but it's there. I just have long enough. I've just got like, 45 more minutes. I don't want to just something else.
+
+02:11:38
+<transcript>: Keep it creative.
+
+02:11:38
+<transcript>: mode
+
+02:11:39
+<transcript>: Mode eight years.
+
+02:11:40
+nexxeln: !followage
+
+02:11:40
+fossabot: @nexxeln nexxeln has been following adamdotdev for 2 months, 7 days and 3 hours
+
+02:11:44
+<transcript>: You are now a Mod Stroop. You've joined the ranks of people who are mods.
+
+02:11:44
+dnbull: I practically raised twitch Kappa Kappa
+
+02:11:45
+laytanl_: Yeah !followage is wrong
+
+02:11:46
+jenswoeste: !followage
+
+02:11:47
+fossabot: @JensWoeste JensWoeste has been following adamdotdev for 2 months, 4 days and 4 hours
+
+02:11:50
+<transcript>: They ever like 20,000 people watching 60 to 100,000 Geez.
+
+02:11:53
+<transcript>: That's insane.
+
+02:11:59
+<transcript>: Oh, I can turn. Maybe I can turn on the watch time thing. Let's check fossil bot watch time.
+
+02:11:59
+<transcript>: default
+
+02:12:01
+<transcript>: Default.
+
+02:12:03
+dnbull: !followage
+
+02:12:03
+fossabot: @dnbull dnbull has been following adamdotdev for 14 days, 1 hour and 8 minutes
+
+02:12:03
+fragaverage: oh mine reset when we were testing follow alerts 😭
+
+02:12:04
+<transcript>: i don't see
+
+02:12:04
+<transcript>: Watch, time.
+
+02:12:07
+<transcript>: I don't see it in fossil bot. Maybe I'd have to like, build that myself.
+
+02:12:19
+<transcript>: Are we the Boomers of Twitch? Or am I a Gen X of Twitch for being seven years? Probably. Jennifer.
+
+02:12:19
+<transcript>: boomer
+
+02:12:23
+<transcript>: Boomers would be the End Bowl 13 years.
+
+02:12:25
+oetziofficial: !followage
+
+02:12:25
+nexxeln: @FragAverage Sadge
+
+02:12:26
+fossabot: @OetziOfficial OetziOfficial has been following adamdotdev for 2 months, 10 days and 1 hour
+
+02:12:27
+<transcript>: goodbye
+
+02:12:27
+<transcript>: Meaning time see a two DORCs.
+
+02:12:38
+<transcript>: Goodbye, Frags. And following for one month, 19 days and 2 hours that's thrown off a little bit, right? You've been on for three months. It's just we did all that testing, remember.
+
+02:12:38
+<transcript>: it was like
+
+02:12:39
+<transcript>: It was like.
+
+02:12:39
+<transcript>: hey could you
+
+02:12:49
+fragaverage: Also sus I cant edit Fossa stuff anymore for the channel
+
+02:12:52
+<transcript>: Hey, could you unfollow and refolow me so we can test the overlay? That's what I was. Do you watch any other Shamers and Dead Streams knee next? I don't know. I don't. I watch prime and Tiege. I mean, I watch a lot of people. I follow.
+
+02:12:55
+<transcript>: Let's toggle bit.
+
+02:12:55
+stroopwafel26: off-topic: Renewed my AWS SA pro certificate last monday, gonna do my devops pro certificate next week I think ugh, after that I will get the Terraform certificate
+
+02:12:55
+fragaverage: Big sadge
+
+02:12:56
+jenswoeste: I am a boomer on twitch and proud of it. Poke me and I will start telling stories about echo mail and BBS systems on 2400baud modems.
+
+02:12:57
+<transcript>: Coating garden.
+
+02:13:05
+<transcript>: Jamie and a car. There's a bunch of people I watched, but they're all developers. I haven't watched any of these things.
+
+02:13:10
+<transcript>: Also 13 years.
+
+02:13:23
+<transcript>: Yeah it reset when we were testing. Sorry if I just could have just nailed it without any tests, everyone would have their normal you can't edit faucet stuff. Really.
+
+02:13:23
+<transcript>: did moderate
+
+02:13:30
+<transcript>: Did moderate lose some kind of privilege? Oh, you know what I had to read? When I renamed my channel, I had to re like.
+
+02:13:30
+<transcript>: reset
+
+02:13:33
+<transcript>: Reset up pasta bot. I wonder if I messed something up.
+
+02:13:36
+<transcript>: I'll look into it.
+
+02:13:38
+<transcript>: broadcaster
+
+02:13:38
+<transcript>: Rolls.
+
+02:13:40
+<transcript>: so
+
+02:13:40
+<transcript>: Broadcaster, moderate.
+
+02:13:42
+<transcript>: So permissions.
+
+02:13:44
+<transcript>: I'll look into this.
+
+02:13:44
+<transcript>: oh does it
+
+02:13:46
+<transcript>: oh it just has
+
+02:13:46
+<transcript>: Oh, does it tell me who the users are.
+
+02:13:48
+<transcript>: Oh, it just has the new ones.
+
+02:13:48
+<transcript>: reload users
+
+02:13:49
+<transcript>: Reload users.
+
+02:13:54
+<transcript>: It may take up to 60 seconds, but I reloaded it frag. We'll see.
+
+02:13:59
+<transcript>: Off topic. Renewed my AWS SA Pro certificate last Monday. That's a tough one.
+
+02:13:59
+<transcript>: i'm gonna do my
+
+02:14:05
+dnbull: !dadjoke
+
+02:14:06
+fossabot: @dnbull A man tried to sell me a coffin today. I told him that's the last thing I need.
+
+02:14:07
+<transcript>: I'm gonna do my DevOps first treatment next week, OOH, and then the TerraForm certificate. That's a lot of tests. A lot of studying.
+
+02:14:22
+dnbull: ba da tum
+
+02:14:24
+stroopwafel26: yeah I renewed my SA pro for the fifth time, it's a wild ride
+
+02:14:26
+<transcript>: I'm a Boomer on Twitter proud of it. Poke me. And I will start telling stories about Echo, Mail and BBS systems of 2400 bod modems. Oh man, I remember dial up modems. That was my like early days on the Internet and then 90s or whatever it was. My parents got a compact Presario.
+
+02:14:26
+<transcript>: and i could
+
+02:14:29
+nexxeln: what are dial up modems?
+
+02:14:30
+<transcript>: And I could dial in on my 256K modem or whatever it was.
+
+02:14:35
+<transcript>: Like all those noises.
+
+02:14:35
+<transcript>: and like
+
+02:14:36
+nexxeln: i am too young for this
+
+02:14:38
+nexxeln: what
+
+02:14:39
+<transcript>: And like you couldn't be on the phone if you're on the Internet, you want to remember this stuff.
+
+02:14:39
+<transcript>: couldn't be on the phone
+
+02:14:40
+<transcript>: what
+
+02:14:40
+<transcript>: Couldn't be on the phone.
+
+02:14:45
+<transcript>: What do we do on the Internet? I don't remember Al Instant Messenger with my friends. That's all I remember.
+
+02:14:47
+nexxeln: those sounds are weird LUL
+
+02:14:50
+<transcript>: Man tried to sell me a coffin today and told him that's the last thing I need.
+
+02:14:54
+<transcript>: It's a dad joke. I get it, I get it.
+
+02:14:56
+<transcript>: But I'm.
+
+02:14:57
+stroopwafel26: my first pc was a compaq pressario as well, weird
+
+02:15:03
+<transcript>: Fifth time you've renewed your essay. Pro Holy Castroup. You've had it forever.
+
+02:15:03
+hagoona_matata: AOL Aim and set silly away messages
+
+02:15:05
+dnbull: I had my account since iphone 3G was a big thing I'm embarrassed KEKW
+
+02:15:08
+<transcript>: Oh, really? Next. You don't know what dialog modems are. You need to look up the sound of a dialot modem.
+
+02:15:12
+jackysono: Yes I would play diablo 2 online on dial up it was horrible
+
+02:15:15
+<transcript>: I remember playing like chess on the Internet. That was some of the first things I was doing on the internet.
+
+02:15:21
+<transcript>: Set silly away messages Yeah.
+
+02:15:23
+hagoona_matata: Yahoo Pool was my go too
+
+02:15:25
+nexxeln: when i was born we had keypad phones
+
+02:15:26
+<transcript>: Hey, Stroop, we are the same person compact Presario club that's us.
+
+02:15:29
+dnbull: MSN messenger, AOL and mIIRC was the business back then
+
+02:15:33
+<transcript>: I would play Diablo Two online or dial up. It was horrible. That sounds bad. Any kind of actual games on dial up. Sounds bad.
+
+02:15:36
+<transcript>: i
+
+02:15:36
+<transcript>: Okay, I think.
+
+02:15:37
+dnbull: netscape Kappa
+
+02:15:38
+<transcript>: I want to do one more.
+
+02:15:38
+<transcript>: i want to
+
+02:15:40
+<transcript>: I want to do one more.
+
+02:15:40
+<transcript>: break
+
+02:15:40
+stroopwafel26: my compaq had a tv tuner card
+
+02:15:43
+jenswoeste: my first computer was a Sinclair ZX81. Quickly got a ZX Spectrum (with 8kb ram)
+
+02:15:44
+<transcript>: Breaking and Break Pan if anyone hasn't seen it, it's super cool.
+
+02:15:46
+<transcript>: Let's see.
+
+02:15:46
+<transcript>: i just want to test
+
+02:15:50
+<transcript>: I just want to test it. Make sure it still works. Save it doesn't show.
+
+02:15:50
+<transcript>: doesn't
+
+02:15:58
+<transcript>: Doesn't show you in there, frag still doesn't seem to refresh. There we go. You should be good now all the all the mods should have it now.
+
+02:15:58
+<transcript>: okay
+
+02:15:59
+<transcript>: Okay.
+
+02:16:06
+<transcript>: I'm gonna do I'm gonna go to a break just to see the panning camera thing because it's cool. And then.
+
+02:16:08
+stroopwafel26: damn you old Jens :P
+
+02:16:11
+<transcript>: here we go
+
+02:16:11
+<transcript>: As long as it's still working, I don't anticipate making it any changes to it for now.
+
+02:16:16
+<transcript>: Here we go. This is a fake break. I'm not really gonna break cuz. I'm gonna get right. It in the stream.
+
+02:16:20
+nexxeln: FAKE BREAK
+
+02:16:30
+fragaverage: yoooo what is this!
+
+02:16:31
+laytanl_: Break AGAIN
+
+02:16:53
+icedcoffefe: i swear it never gets old
+
+02:16:54
+nexxeln: good shit
+
+02:16:56
+<transcript>: Had you not seen it. That's all I've done today on this stream. That's literally all we accomplished with moving my camera around.
+
+02:16:58
+fragaverage: WHAT TH-
+
+02:17:01
+stroopwafel26: production value bigger than CNN
+
+02:17:04
+<transcript>: That's it. That's all we did. But you must have missed the beginning when we actually built it. I've got a mechanical Dib. It's a whole thing.
+
+02:17:07
+jenswoeste: ^
+
+02:17:12
+nexxeln: btw i added you in the credits github.com/nexxeln/nvim
+
+02:17:16
+<transcript>: We're just trying to make this stream. You know what I've actually thought about doing? Because the production quality is getting to levels. I didn't really anticipate, like when I bottle this stuff, I thought, like, I really care about quality. I'll make it good.
+
+02:17:16
+<transcript>: i didn't
+
+02:17:19
+<transcript>: I didn't expect it to be this. Like it's pretty awesome.
+
+02:17:21
+fragaverage: This is next level
+
+02:17:24
+<transcript>: Like when I watch the little clip of it moving, I'm like that actually plays well, right.
+
+02:17:24
+<transcript>: i
+
+02:17:29
+<transcript>: I've actually started thinking maybe all do, like a daily Dev. Kind of like.
+
+02:17:29
+<transcript>: not
+
+02:17:32
+jenswoeste: @adamdotdev you are ready to do a weather segment
+
+02:17:50
+<transcript>: Not a talk show, but like, just like, hit the first 2030 minutes of the stream. We'll just be like, news. I will just like, curate. I'll wake up an hour earlier. I'll curate, like, the top stuff on Hacker news and other places. And I'll just do, like, literally a little news segment. There'll be like, little like, you know, images to support the different stories. And I'll just like, blast through what's going on.
+
+02:17:50
+<transcript>: in tech and i'll
+
+02:17:52
+nexxeln: that would be great
+
+02:17:56
+<transcript>: In Tech, and I'll do it every morning. I thought about doing that just because the production quality so good, I feel like it might actually be pretty entertaining.
+
+02:18:01
+godbless_27: that sounds awesome
+
+02:18:03
+<transcript>: And I just, like, it would help me keep up to date with what's going on. And I could kind of like, time box, all of that.
+
+02:18:03
+<transcript>: okay
+
+02:18:06
+caldotjs: free content for twitter too
+
+02:18:09
+gigo6000: !youtube
+
+02:18:15
+<transcript>: Okay. I've got some feedback here. We're gonna do it. Ready to a weather segment? Yeah. The green screens here. Yeah. Free cup. Yeah. I could post that on Twitter. Sure. I mean, yeah. Why not YouTube? Yeah. We'll put it on YouTube.
+
+02:18:15
+<transcript>: i realize
+
+02:18:18
+caldotjs: you could ship it to your editor and recycle the clips for instagram etc
+
+02:18:28
+gigo6000: lol
+
+02:18:29
+gigo6000: thanks
+
+02:18:34
+<transcript>: I realize you were trying to do a command there. Giggo. Welcome to Chat. By the way, GIGO, ship it to your editor and recycle the clips for Instagram, etc. Yeah. No, it's a it's a good idea. I think like 20 minutes, 15 minutes, whatever it is, do like five or six big storylines from Twitter and Hacker news and whatever.
+
+02:18:36
+<transcript>: Yeah. Do it here on Twitter.
+
+02:18:47
+laytanl_: Yeah would be cool
+
+02:18:47
+<transcript>: Like a little daily show. I can have a guess. Come on, every once in a while, just do it like a monologue up front. Have a guest. Come on. Well, we could really take this production value to, like the limits.
+
+02:18:50
+<transcript>: Okay.
+
+02:18:50
+<transcript>: so
+
+02:18:52
+caldotjs: we could even add a NEWS channel on discord so members can submit interesting articles and you have less work
+
+02:18:53
+stroopwafel26: The Daily Show with Adam Elmore
+
+02:18:59
+<transcript>: So that's confirmed. I had the idea this morning, as I was starting the stream, and we've decided as a group here, we're doing it. The Daily Show with Animal. Where exactly.
+
+02:19:05
+<transcript>: the actual
+
+02:19:05
+<transcript>: At a news channel and discourse who members can submit that's a good idea. And I could do less work. We could crowdsource.
+
+02:19:07
+laytanl_: Daily??
+
+02:19:14
+<transcript>: The actual script for this little thing. We'll record it every day, post it to Twitter. Yeah, daily, late. And why not? Why not.
+
+02:19:16
+caldotjs: hivemind news :D
+
+02:19:22
+<transcript>: What are people saw from, like, streams? Links. Like this was a twohour stream. It's a shorter stream for me. I've been doing mostly, like 4 hours.
+
+02:19:22
+<transcript>: what
+
+02:19:22
+hagoona_matata: !discord
+
+02:19:22
+jaystation3x: wait, what did I miss?
+
+02:19:22
+fossabot: Adam has a Discord server and he'd love to see you there: https://discord.gg/E92M2chd3e
+
+02:19:24
+stroopwafel26: Or read the HN frontpage lol
+
+02:19:26
+nexxeln: the bigger the better
+
+02:19:28
+<transcript>: What are our thoughts on? Like if I just did an hour stream on days where I wasn't gonna stream otherwise. Is that too short.
+
+02:19:32
+jenswoeste: Could be ok
+
+02:19:33
+<transcript>: Jay, you just missed. I've become a TV anchor, basically.
+
+02:19:34
+nexxeln: no thats good
+
+02:19:39
+laytanl_: I'll take anything I can get lol
+
+02:19:43
+<transcript>: Read the Hacker News front page. That's basically what I was gonna do. But I was gonna do, like, a little bit of planning up front and, like, have some images.
+
+02:19:43
+<transcript>: and like
+
+02:19:56
+<transcript>: And like a kind of witty banter around each story. It's kind of like give you a sense of I think it could actually be informative, like actually give you a sense what's going on? What you miss on the Internet in the last 24 hours.
+
+02:19:56
+<transcript>: that's pertinent
+
+02:19:58
+gigo6000: nice stream, congratz
+
+02:20:09
+<transcript>: That's pertinent to Devs. So, Jay, I'm talking about doing, like, a daily, like a morning show where I kind of like, do very high production quality, like, run through the top stories in the world of Dev. But do it kind of like a talk show.
+
+02:20:09
+<transcript>: or like
+
+02:20:11
+<transcript>: Or like a model.
+
+02:20:11
+<transcript>: at the beginning of
+
+02:20:17
+<transcript>: At the beginning of the talk show. I don't know. We're gonna do it. We're gonna do it. The bigger the better. It's gonna be fantastic.
+
+02:20:23
+<transcript>: Okay, thank you for the follow race. So you guys.
+
+02:20:23
+stroopwafel26: I hope a company tweets something about crunching for 9 months again, like Oven, and we can have an Adam rant
+
+02:20:25
+laytanl_: Your morning is now, right?
+
+02:20:31
+<transcript>: On occasion if I want to do more frequent but they're short hopefully coming tweets something about crunching for nine months again.
+
+02:20:40
+gigo6000: short is better than nothing
+
+02:20:42
+<transcript>: This is my morning. Yeah late. And I've my stream is just continue to move later. So this is actually my morning. I feel like this is the perfect time to do it.
+
+02:20:42
+<transcript>: like first
+
+02:20:46
+<transcript>: Like first thing in the day record it people can watch it.
+
+02:20:46
+<transcript>: whatever
+
+02:20:48
+<transcript>: Whatever as they're kind of getting their coffee or whatever.
+
+02:20:52
+<transcript>: Sort is better than nothing. Cool. Good to know. Okay.
+
+02:20:52
+<transcript>: it
+
+02:20:58
+<transcript>: It's settled. We're doing it. I think I'm gonna end the stream today. I am sick. I'm gonna try and recover a little bit.
+
+02:20:58
+<transcript>: thank
+
+02:21:02
+<transcript>: Thank you all for joining as we played with this mechanical thing. This is so fun.
+
+02:21:03
+stroopwafel26: Tech news, a weather segment, something about traffic, wrap it up
+
+02:21:05
+laytanl_: Is there that much news daily though?
+
+02:21:10
+<transcript>: I love this. This whole moving camera thing. It's gonna be a good time. A weather segment. Something about traffic. Yeah. We just got to hit the web.
+
+02:21:12
+<transcript>: You know.
+
+02:21:12
+<transcript>: something
+
+02:21:18
+<transcript>: Something about traffic. The traffic in some cities is bad today most cities all the time.
+
+02:21:20
+jenswoeste: get well soon and thanks for yet another awesome co-working stream!
+
+02:21:22
+caldotjs: I love geeky stuff like that! thank you for the stream adam :)
+
+02:21:33
+godbless_27: get well adam
+
+02:21:38
+jaystation3x: lmk if you decide to do an Edelkrone giveaway
+
+02:21:38
+<transcript>: fifteen minutes
+
+02:21:38
+<transcript>: Is there that much daily news, maybe not late. And maybe it's just ten minutes. I think there is something every day, though. I could just talk about stuff I see on Twitter, the Twitter feud of the day, in the Dev world and Webdev world. But I feel like hacker news, like, there's like, a dozen things on product on every day that people are launching. I think we could do it. We could, like, hit a handful of things, make it ten.
+
+02:21:45
+<transcript>: 15 minutes pretty short. We're gonna try it we're gonna try it let me know if you decide to do an LC Chrome giveaway.
+
+02:21:45
+<transcript>: yeah we'll see
+
+02:21:59
+laytanl_: Thank you!
+
+02:22:01
+<transcript>: Yeah, we'll see. We'll see about that. Maybe that'll be the next giveaway. All right. Thank you all so much for coming. Always a good time. Thanks for putting up with all the link meta. Like we're figuring it out as we go. Stuff. Yeah. It's been great. Maybe we could do again sometime.
+
+02:22:04
+stroopwafel26: see ya next week
+
+02:22:10
+hagoona_matata: Feel better lepHELLO
+
+14:42:34
+<transcript>: Taking you here.
+
+14:42:37
+<transcript>: Okay. Hang on.
+
+14:42:39
+<transcript>: Kim link.
+
+14:42:41
+<transcript>: links
+
+14:42:42
+<transcript>: Links.
+
+14:42:44
+<transcript>: Wrong one.
+
+14:42:49
+<transcript>: Yes. Please.
+
+14:42:57
+<transcript>: Oh, this call is soberdue. We haven't talked. How long we it's been how long it's been? Like.
+
+14:42:57
+<transcript>: i don't know
+
+14:42:58
+<transcript>: I don't know.
+
+14:42:58
+<transcript>: weeks
+
+14:43:01
+<transcript>: Weeks been weeks? J.
+
+14:43:13
+<transcript>: Okay. So we got a lot here. I've got 15 minutes before my break so we can kind of, like, get both sides things we want to be each other on and then think about it. And in recent.
+
+14:43:27
+<transcript>: Who goes first, go ahead.
+
+14:43:36
+<transcript>: I'm gonna give you the TLDR. Have you already put it together? Have you connected the dots.
+
+14:43:45
+<transcript>: You have you've connected the dots.
+
+14:43:50
+<transcript>: You gotta hear? You gotta hear the whole story? You gotta hear it.
+
+14:44:02
+<transcript>: I know it's not. It's not the domain name, honestly. Like, I don't even know if I ended up getting it. Like, I don't know if they'll even sell it. Like that whole part of it is.
+
+14:44:02
+<transcript>: it's like
+
+14:44:07
+<transcript>: It's like that's what made me listen to Eli when he came around and was like.
+
+14:44:07
+<transcript>: quote tweeting
+
+14:44:10
+<transcript>: saying
+
+14:44:10
+<transcript>: Quote Tweeting that tweet and like.
+
+14:44:12
+<transcript>: Saying what if we could.
+
+14:44:22
+<transcript>: That was interesting, but ultimately, the problem is in Casey and I, the more we talk about, I just can't find a downside. I can't find a risk to.
+
+14:44:42
+<transcript>: that stuff
+
+14:44:42
+<transcript>: Like, if things go poorly and I hate every second of it. And like, Elon, I just can't happen. Then after two weeks, I can leave. And like, I don't know, I just can't figure out what is the risk on my side. Like, he wants me to come full time. He wants me to stream at all. He wants me to build my YouTube channel if I want, he's all for me teaching people doing all.
+
+14:44:59
+<transcript>: That stuff. If I focus on building status stuff, and I just can't like, I can't poke holes in it. Eli is the problem. Like, I could come up with reasons why I just don't want to work with Eli. And like, he's crazy and all the things he says, I don't understand all of that's true. But like.
+
+14:44:59
+<transcript>: i don't
+
+14:45:09
+<transcript>: I don't know how much it'll affect me. I don't know yet. I guess I'm naive and like, I think I can go in there and it'll just be like I have full autonomy. And I don't have to worry about.
+
+14:45:09
+<transcript>: the eli part
+
+14:45:10
+<transcript>: but
+
+14:45:10
+<transcript>: The Eli part.
+
+14:45:15
+<transcript>: But that might just be nave. I don't know. What are your thoughts? Just hit me with it.
+
+14:45:34
+<transcript>: I totally get it.
+
+14:45:44
+<transcript>: So financial like it's like.
+
+14:45:47
+<transcript>: Yeah.
+
+14:46:03
+<transcript>: Could you just spell out more what you mean there? Because like I'm trying to figure out what you are probably trying to say, but who? I don't even know who's there. Still honestly, I don't.
+
+14:46:14
+<transcript>: Oh, it's more than I realized.
+
+14:46:16
+<transcript>: And then who.
+
+14:46:22
+<transcript>: Just Eli deals with Yeah.
+
+14:46:36
+<transcript>: So I think you had told me that. I think I remember now you listing off who is there? So could you explain, like, what are the downsides that I'm not thinking about for them? Are you saying there's downsides for them in me joining.
+
+14:46:42
+<transcript>: Me.
+
+14:46:47
+<transcript>: Yeah.
+
+14:46:52
+<transcript>: I also don't know what I'll be doing too much.
+
+14:46:56
+<transcript>: I didn't figure Yeah.
+
+14:47:27
+<transcript>: So here's, here's. Where, like, when I say there's no, I can't think of downsides for me on my side. I'm making $0, like I'm just not making money right now, and I've been fine with it.
+
+14:47:27
+<transcript>: for most of this year
+
+14:47:32
+<transcript>: For most of this year, I've just not done any consulting work because I've just I've financial. I was in a good place.
+
+14:47:32
+<transcript>: i had a lot saving
+
+14:47:37
+<transcript>: I had a lot savings. It was like, Whatever. So like making any dollars.
+
+14:47:51
+<transcript>: I had some. They all fell off right now. I have no consulting work. I've not been active for at least like six weeks. I mean, I haven't had anybody pay me to do anything.
+
+14:47:55
+<transcript>: So like doing anything, getting paid.
+
+14:47:57
+<transcript>: Well, Yeah.
+
+14:47:59
+<transcript>: Pull it together.
+
+14:47:59
+<transcript>: which i want
+
+14:48:01
+<transcript>: Which I want to talk about your situation.
+
+14:48:05
+<transcript>: So let's wrap this up here. Two minutes, and then we'll spend ten minutes on.
+
+14:48:05
+<transcript>: what's going
+
+14:48:11
+<transcript>: What's going on for you? So just two minutes, and then we can think about it. We can reconvene and talk through it all.
+
+14:48:11
+<transcript>: yeah like just
+
+14:48:18
+<transcript>: Yeah. Like just getting paid anything to get to do. The streaming is the big thing. I feel like I need to start doing.
+
+14:48:18
+<transcript>: my
+
+14:48:38
+<transcript>: My shift was, I want to focus on training. I don't know if I told you that, like, I decided that's what I want to do in life. Like, I want to teach people instead of consulting. And I thought, like, I'm gonna build a YouTube channel. I'm gonna do half my content free. Half of it. Like, fireship, right? That whole model. Like, have a pro subscription where you get, like, more advanced courses and stuff behind a paywall anyway.
+
+14:48:58
+<transcript>: I want to do all that. But in shifting my focus, realizing I have to stream a lot less, I'm not getting a focus time to do that. I had to cut down to two days a week. It bums me out like a lot. And so I tweeted that just on a whim. Not really serious. It was a half joke, Cass series, like it was like, what would it take for me to take a job where I got to just stream? And I floated that out there.
+
+14:49:01
+<transcript>: It really was a joke at the time.
+
+14:49:01
+<transcript>: but
+
+14:49:04
+<transcript>: But then the idea that like.
+
+14:49:04
+<transcript>: that's probably
+
+14:49:10
+<transcript>: That's probably the closest thing to not having a job I could have is working for Eli.
+
+14:49:12
+<transcript>: In some sense.
+
+14:49:12
+<transcript>: he just doesn't
+
+14:49:17
+<transcript>: He just doesn't have any weight, like in our relationship. And that's why he fired me. I get it.
+
+14:49:17
+<transcript>: but
+
+14:49:20
+<transcript>: But I just. I don't feel like he's gonna be.
+
+14:49:29
+<transcript>: and
+
+14:49:29
+<transcript>: Why he fired me? I guess. I don't know. But like, I think he fired me because we had a terrible relationship, because I was awful as an employee.
+
+14:49:36
+<transcript>: And I just didn't respect him as a leader of the company, I think. But I couldn't be wrong. Was there? Do you know something more.
+
+14:49:36
+<transcript>: nobody what
+
+14:49:38
+<transcript>: Nobody what respects him? A leader? Yeah.
+
+14:49:45
+<transcript>: Do you know better why I was fired? Because I honestly I've never been told. He never told me he never wanted to cross that bridge.
+
+14:49:54
+<transcript>: Was there like specific things I did because I'm sure there were. But like when he.
+
+14:49:54
+<transcript>: came up
+
+14:49:58
+<transcript>: Came up with like, this is we have to do it now. Was it like something I did.
+
+14:50:08
+<transcript>: Yeah, Yeah.
+
+14:50:41
+<transcript>: Oh, I don't even remember all that. Like I've forgotten about space people. I feel.
+
+14:50:52
+<transcript>: Like.
+
+14:50:54
+<transcript>: Yeah.
+
+14:50:55
+<transcript>: No I.
+
+14:51:07
+<transcript>: Don't. Actually. Yeah. It doesn't actually act on it. Yeah. No, I forgot about that. I thought it was other stuff. We'll talk about it in the longer call, but.
+
+14:51:15
+<transcript>: Yeah, that would have been the last thing that would have, I would have thought was the actual thing. That was the tipping point.
+
+14:51:15
+<transcript>: either was the thing
+
+14:51:22
+<transcript>: Either was the thing we were working at the moment, so it makes sense. But I thought of some other things I did that were that we're seeing more like fireball offenses.
+
+14:51:24
+<transcript>: Do you think.
+
+14:51:32
+<transcript>: Yeah? Oh? Board members? Oh.
+
+14:51:47
+<transcript>: In vet. So I thought he was concerned that I was gonna start reaching out to people. I was so upset about the Google thing with the acquisition failure. Like I said, I said something one time in writing, I wrote him a message. It was like.
+
+14:51:47
+<transcript>: here's what
+
+14:51:53
+<transcript>: Here's what you should say to Brock. And I, like wrote out a email in quotes of what I thought he should send to Brock.
+
+14:51:53
+<transcript>: and i
+
+14:51:58
+<transcript>: i don't know
+
+14:51:58
+<transcript>: And I think that thing I said that we should say to Brock was something you shouldn't say.
+
+14:52:12
+<transcript>: I don't know, Fiduciary duty or something. And I think he screenshot that and he really was bothered. He was really worried. I was gonna, like, send off messages like that to people. It just put that fear in there. I wish I wasn't. I was only gonna, like, tell Eli, you should do this.
+
+14:52:12
+<transcript>: but i think
+
+14:52:27
+<transcript>: But I think he started feeling like I'm a loose Cannon. I might send off messages like that, and that'd be really bad. So I get it. I mean, I was just a jerk to him. Yeah, I was just a jerk. I get it. Like I hated him, and I didn't hide it.
+
+14:52:38
+<transcript>: And it needed to end all of that said, let's talk about you for a little bit. I want to hear what's going on with you. And then that we can both think about these things and then come back and talk in like an hour.
+
+14:52:43
+<transcript>: Yeah.
+
+14:52:46
+<transcript>: The consulting job, right.
+
+14:52:50
+<transcript>: Yep.
+
+14:53:08
+<transcript>: Oh, Geez.
+
+14:53:13
+<transcript>: Like the license.
+
+14:53:17
+<transcript>: Yeah, yeah? On your laptop.
+
+14:53:31
+<transcript>: So are you able to bill anything yet? Have you been able to like actually.
+
+14:53:31
+<transcript>: come up with
+
+14:53:33
+<transcript>: Come up with billable hours.
+
+14:53:44
+<transcript>: Yeah.
+
+14:53:49
+<transcript>: Oh no.
+
+14:54:04
+<transcript>: How much are they? How much are they giving you.
+
+14:54:04
+<transcript>: in terms
+
+14:54:13
+<transcript>: In terms of how much bandwidth are you? Are they like you can be 40 hours a week with us or what? Remind me. You've told me kind of what the arrangement was. Yeah.
+
+14:54:35
+<transcript>: Oh Yeah.
+
+14:54:35
+<transcript>: i did that
+
+14:54:38
+<transcript>: I did that with Brightcore. Yeah.
+
+14:54:45
+<transcript>: The dinner, the differences between your environments then start to drift and it's like.
+
+14:55:05
+<transcript>: I love it so much.
+
+14:55:11
+<transcript>: There's nothing you can do? Yeah, no, I get it. That is too funny.
+
+14:55:24
+<transcript>: That stuff.
+
+14:55:41
+<transcript>: You really should make like a YouTube series about this if I guess you can't probably.
+
+14:55:41
+<transcript>: india's or something
+
+14:55:44
+<transcript>: India's or something, but this is too good. This is too funny.
+
+14:55:51
+<transcript>: Can you make our get an anonymous Twitter account and just make a thread so I can just like it into oblivion.
+
+14:55:58
+<transcript>: Yeah.
+
+14:56:24
+<transcript>: See, I hear that kind of stuff. And I think I think like, that can't those organizations can't the same. But I guess they're like these huge brick and mortar organizations that are doing just fine. And it's just the transition to digital that they're just never gonna get there. I guess like, I play out. Is it take.
+
+14:56:24
+<transcript>: a hundred years
+
+14:56:30
+<transcript>: A hundred years, like when do those companies just cease to compete with a digital world.
+
+14:56:39
+<transcript>: Yeah.
+
+14:56:42
+<transcript>: Feels like that should be like.
+
+14:56:42
+<transcript>: a thing that
+
+14:56:47
+<transcript>: A thing that kills them eventually. But I don't know. Maybe not. Maybe there's too much momentum and too much.
+
+14:56:57
+<transcript>: Yeah.
+
+14:57:11
+<transcript>: Are you serious? That's awesome.
+
+14:57:22
+<transcript>: Are you serious.
+
+14:57:34
+<transcript>: Yeah, but you literally hurt somebody. Reference Ricardo. And that's how you found that he was there.
+
+14:57:36
+<transcript>: That's too crazy.
+
+14:57:36
+<transcript>: david
+
+14:57:39
+<transcript>: he
+
+14:57:39
+<transcript>: David Hill, My designer friend. David.
+
+14:57:46
+<transcript>: He worked at our place. I don't think he's he's independent now, but he was at Barbara's. That's the only reason I've heard of Barclays.
+
+14:58:00
+<transcript>: Nice.
+
+14:58:03
+<transcript>: Ooh.
+
+14:58:15
+<transcript>: Yeah.
+
+14:58:24
+<transcript>: Platforms the cool stuff to be involved with.
+
+14:58:45
+<transcript>: They might want to bring in some a new freshen things up.
+
+14:58:58
+<transcript>: Oh, wow, Yeah.
+
+14:59:24
+<transcript>: They told you it's between you and there's X candidates or something or nothing.
+
+14:59:24
+<transcript>: i mean if you
+
+14:59:27
+<transcript>: I mean, if you meet with the CEO, I feel like.
+
+14:59:29
+<transcript>: That's pretty far.
+
+14:59:32
+<transcript>: Okay.
+
+14:59:44
+<transcript>: You know, kind of what.
+
+14:59:44
+<transcript>: yeah
+
+14:59:45
+<transcript>: Yeah.
+
+15:00:09
+<transcript>: Nice.
+
+15:00:28
+<transcript>: Yeah.
+
+15:00:52
+<transcript>: Sounds awesome.
+
+15:01:01
+<transcript>: See actually have, like, something cool that you're trying to create. Like there's a mission behind it. I've just never had that. It sounds nice.
+
+15:01:04
+<transcript>: Something you can get behind that you believe in.
+
+15:01:17
+<transcript>: This calm down. Yeah, but at least you've got the Barclays thing. Like you've got something.
+
+15:01:17
+<transcript>: that
+
+15:01:20
+<transcript>: That's sort of interim, at worst.
+
+15:01:29
+<transcript>: Yeah.
+
+15:01:42
+<transcript>: Oh, Yep. Oh, yeah, it is. Yeah. We'll talk in an hour. If that works for you, just. Same Zoom. I'll just, like, click on the same link.
+
+15:01:42
+<transcript>: cool
+
+15:01:45
+<transcript>: Cool. Alright. See ya.
+
+15:08:49
+<transcript>: Put in.
+
+15:08:49
+<transcript>: my
+
+15:08:51
+<transcript>: My boxes upstairs.
+
+15:08:51
+<transcript>: you
+
+15:08:53
+<transcript>: You clean the water.
+
+15:09:03
+<transcript>: Circle, shark.
+
+15:10:34
+<transcript>: I know. What.
+
+15:11:04
+<transcript>: Your bread.
+
+15:43:13
+<transcript>: Is.
+
+15:45:11
+<transcript>: This.
+
+15:45:29
+<transcript>: Truck.
+
+15:45:34
+<transcript>: Upstairs.
+
+15:47:50
+<transcript>: Right now, aren't she.
+
+15:48:01
+<transcript>: After we carry these things upstairs.
+
+15:48:28
+<transcript>: I think so.
+
+15:49:59
+<transcript>: I take this flatter to the.
+
+15:49:59
+<transcript>: finish
+
+15:50:01
+<transcript>: Finish space.
+
+15:51:32
+<transcript>: You'll keep cleaning up. I'll take these things upstairs, okay.

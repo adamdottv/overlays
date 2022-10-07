@@ -1,0 +1,1351 @@
+
+
+13:12:13
+<transcript>: Subscribe.
+
+13:13:21
+<transcript>: Which means you don't have to deal with.
+
+13:13:21
+<transcript>: like you never
+
+13:13:34
+<transcript>: Like you never have to configure a varnish cache. You don't have to ask your front end engineer to understand how Engine X works. All of these really interesting things start to fall out because you just rely on cloud front for when services like now if I.
+
+13:13:39
+<transcript>: Have their own CDN's pre configured so you never have to think about Cashing energy.
+
+13:13:53
+<transcript>: And so then as this evolves, you've got service functions and things that come in and sort of invalidate the need for statically compiled things.
+
+13:13:53
+<transcript>: but
+
+13:13:58
+<transcript>: But the separation is still true. You still have this, like fully integrated.
+
+13:14:18
+<transcript>: And then you have the API contract, but now it's to a serverless function, which is simple enough that a front end Dev can writing. I think what was interesting for you with the Jam stack is it because of the migration towards serverless and like database as a service, as opposed to fully hosted configuring.
+
+13:14:18
+<transcript>: authorization
+
+13:14:19
+<transcript>: Authorization.
+
+13:14:40
+<transcript>: I'm now a full stack Dev because I'm using these platform as a service, so I clearly don't understand that via DBI clearly don't understand how to configure scale Kubernetes or deal with the DDoS attack, but I've got a bunch of services that do that for me and.
+
+13:14:40
+<transcript>: they gave me a
+
+13:14:42
+<transcript>: They gave me a clear API.
+
+13:15:07
+<transcript>: And get it on the internet without having to like have six disciplines worth of engineering knowledge. And so you know that that separation of front end from all other logic. The API contract was the original. That was the original.
+
+13:15:10
+<transcript>: Because by doing that.
+
+13:15:10
+<transcript>: independent
+
+13:15:28
+<transcript>: Independently. Your web desk can be web desk. They don't have to be full, stacked or officer anything like that. And they can do it without a lot of risk because there's not a lot of risk to updating UI if you screw it up. Great. Roll it back. You're not permanently string database or things that can go wrong with backing Microsoft. So.
+
+13:15:28
+<transcript>: that was
+
+13:15:42
+<transcript>: That was the push towards simplicity. And that was the ethos of the Jam stack. I think over time what's happened is through marketing choices that were made and things that people ran with that were that were kind of set in passing or whatever.
+
+13:15:42
+<transcript>: we
+
+13:15:53
+<transcript>: We've managed to turn it into something that feels like there's a right and a wrong way to Jamstack. But I think Jamseck, in my mind, is more of an architectural approach. It's like.
+
+13:15:53
+<transcript>: it's like choosing
+
+13:15:56
+<transcript>: It's like choosing to go with NBC.
+
+13:16:00
+<transcript>: If you start talking about like dry apps and.
+
+13:16:00
+<transcript>: what counts
+
+13:16:07
+<transcript>: What counts? Is dry? When is dry? A bad idea, right? Like jam sex. The same thing. It's an approach to building friends for the modern web.
+
+13:16:18
+<transcript>: That it has you know, some of it may be server rendered and that that part you wouldn't call damsack. But like the parts that can be separated completely and don't need to be server rendered and all those things.
+
+13:16:21
+<transcript>: That is jam sac.
+
+13:16:24
+<transcript>: I feel like I got a little off on.
+
+13:16:24
+<transcript>: there
+
+13:16:25
+<transcript>: There it is. Yeah.
+
+13:16:32
+<transcript>: It was a very different definition that I am used to for Jamsa is actually very interesting to me.
+
+13:16:39
+<transcript>: it's the
+
+13:16:39
+<transcript>: Federated GraphQL style like.
+
+13:16:46
+<transcript>: It's the layer that communicates with all of the other backend services, but that layer lives fully in the front end.
+
+13:16:52
+<transcript>: Yeah. I mean, in the sense that like.
+
+13:16:53
+<transcript>: I've always seen.
+
+13:17:01
+<transcript>: would
+
+13:17:01
+<transcript>: Is the backend microservice.
+
+13:17:06
+<transcript>: Would be making a bunch of like data liquor. So like our accounting.
+
+13:17:13
+<transcript>: Going back and getting all of your transactions, all of these things and then that would give thrown into like some nodes.
+
+13:17:17
+<transcript>: And then that would be run through express.
+
+13:17:18
+<transcript>: expressing the
+
+13:17:18
+<transcript>: expressing
+
+13:17:34
+<transcript>: Expressing the stuff that just enter business logic, smashing it into a template, and what you get on the other side is interesting. And so the jam stack is the idea that instead of having your business logic slamming to a template, you have your business logic expose.
+
+13:17:34
+<transcript>: json
+
+13:17:35
+<transcript>: Json.
+
+13:17:35
+<transcript>: block
+
+13:17:39
+<transcript>: that change
+
+13:17:39
+<transcript>: Block. This is the data and then.
+
+13:17:44
+<transcript>: That change as long as the output, like the API contract, doesn't change.
+
+13:17:46
+<transcript>: How the back end.
+
+13:17:51
+<transcript>: and
+
+13:17:51
+<transcript>: Whatever you want right.
+
+13:17:56
+<transcript>: And the front and the other services and consumers never need to care.
+
+13:17:59
+<transcript>: And so by.
+
+13:18:04
+<transcript>: i think this is
+
+13:18:04
+<transcript>: What it does is make API calls and display data.
+
+13:18:12
+<transcript>: I think this is why my graph well is exciting to some folks, especially who are in the jam stack space because.
+
+13:18:17
+<transcript>: that
+
+13:18:17
+<transcript>: You can kind of get just the data you need. And now you've got this tiny little object.
+
+13:18:23
+<transcript>: That you pass the data. I need it. I put it on the screen. There is no physical.
+
+13:18:23
+<transcript>: it's not
+
+13:18:26
+<transcript>: the broker
+
+13:18:26
+<transcript>: It's not Federation in the sense that you're like.
+
+13:18:34
+<transcript>: The broker of all of this data transaction. It's Federated in the sense of yes, that and the code base making the API calls. But there's no business.
+
+13:18:35
+<transcript>: Line.
+
+13:18:35
+<transcript>: in the mic
+
+13:18:37
+<transcript>: In the Micro service.
+
+13:18:37
+<transcript>: or
+
+13:18:42
+<transcript>: Or you need to do business logic as a front end. Debbie probably put it in proxy.
+
+13:18:50
+<transcript>: because
+
+13:18:50
+<transcript>: On proxy Micro service that does data mention.
+
+13:18:56
+<transcript>: Because again like the front end in this model is presentation. It's not.
+
+13:18:56
+<transcript>: core to business
+
+13:18:58
+<transcript>: Core to Business logic.
+
+13:19:00
+<transcript>: Very interesting.
+
+13:19:05
+<transcript>: I have had Jeff's. I can bring it this way before I do like it as.
+
+13:19:08
+<transcript>: Almost like Jam stack is.
+
+13:19:08
+<transcript>: you have a
+
+13:19:12
+<transcript>: You have a stack of JavaScript that's separate from your back end.
+
+13:19:12
+<transcript>: yeah
+
+13:19:19
+<transcript>: Yeah. Yeah. I think that's that's the way that I think about it at least because I'm trying to think of.
+
+13:19:19
+<transcript>: if
+
+13:19:39
+<transcript>: If I take this running and I hand it to somebody else, who do I have to tell right. And if all of your stuff is communicated through an API layer, your back end teams never need to know that you migrated to Regular to React, or that you're switching from React to Astro and Islands architect.
+
+13:19:39
+<transcript>: architecture
+
+13:19:59
+<transcript>: between
+
+13:19:59
+<transcript>: Architecture doesn't give a shit like nothing. Nothing changes for them. Function right? The only time you need to talk is if your front end needs data that's not being delivered, and you have to update that API contract, or if they're like taking something down and like, hey, this API endpoints on your work anymore. So it hugely simplifies communication.
+
+13:20:12
+<transcript>: Between teams and like that's the ultimate goal, right? We're looking for autonomy as developers. I as the front end Dev want to be able to push a commit to my front end code base and have it automatically go live.
+
+13:20:12
+<transcript>: and when
+
+13:20:20
+<transcript>: And when you're working on it on a big team that's got 30, 40 minor services. If you're micro services.
+
+13:20:20
+<transcript>: are also what's
+
+13:20:40
+<transcript>: into
+
+13:20:40
+<transcript>: Are also what's generating front end. You can't do that. You have to go to a stage environment you have to go through QA. You have to have DevOps roll it out on Thursdays whenever new production goes live because there's too much risk involved if you're messing with the microservice code base and even if you've done a good job in your micro service of like separating out the front end back in code and it's all.
+
+13:20:45
+<transcript>: in fully
+
+13:20:45
+<transcript>: Into files and that stuff there's still risk that somebody doesn't know about that.
+
+13:20:52
+<transcript>: In fully reaching back in detail and hold it to the front and make a big messenger code, right? Because it's all in the same pile.
+
+13:20:56
+<transcript>: So this is this is more of like an enforced separation of concerns.
+
+13:21:00
+<transcript>: And like, don't get me wrong. You can still make terrible choices.
+
+13:21:08
+<transcript>: it's not
+
+13:21:08
+<transcript>: You can make a huge mess by like building yourself a MicroBack end as a bunch of servers functions on top of existing Microsoft.
+
+13:21:21
+<transcript>: It's not a Soaper bullet, but it does allow for a clean enough separation. Concern that as teams are speaking to each other, they have a very limited space, that they have to have a full platform.
+
+13:21:23
+<transcript>: This is a very interesting.
+
+13:21:35
+<transcript>: It's an architectural approach.
+
+13:21:35
+<transcript>: i mean
+
+13:21:44
+<transcript>: I mean, I would call it a philosophy, but that makes me sound like an asshole, but that it really kind of is like it's a way of thinking about writing apps.
+
+13:21:44
+<transcript>: that make
+
+13:21:46
+<transcript>: have to do
+
+13:21:46
+<transcript>: That make the ton of sense.
+
+13:21:48
+<transcript>: as creat
+
+13:21:48
+<transcript>: Have to do one quick call out.
+
+13:21:56
+<transcript>: As creator who is live. I'm taking a look at numbers quickly. I noticed 260 of you watching live on YouTube. It'll be 78 likes.
+
+13:21:56
+<transcript>: seventy eight likes
+
+13:22:02
+<transcript>: 78 likes. Really, guys, come on, hit that button. It's free. Likes are free. They cost you nothing.
+
+13:22:12
+<transcript>: This is funny because I saw this. Stephen Johnson is saying, Bump it up, but we're gonna get yelled at. And I thought that was a joke. I didn't realize that.
+
+13:22:19
+<transcript>: Free content. I guess we likes.
+
+13:22:37
+<transcript>: Actions work. It's crazy how that works. But yeah, people like Teddy Buns when you tell them that they may. And if you haven't hit the sub button, that's right next to that like button for some reason, please. It's right there. And also free.
+
+13:22:37
+<transcript>: so remember
+
+13:22:43
+<transcript>: So remember bring that Bell. Definitely. We know I know what we can do. I think I could try this yet.
+
+13:22:48
+<transcript>: Earlier, but I haven't tried the new.
+
+13:22:48
+<transcript>: twitch
+
+13:22:51
+<transcript>: Twitch feature for Shoutouts Hot chat.
+
+13:22:56
+<transcript>: Star.
+
+13:23:15
+<transcript>: I can't even reply to things in Dashboard Twitch Chat right now, so I have to make a separate popup test. I can actually see Twitch chat.
+
+13:23:23
+<transcript>: Twitch dashboards with breaking so hard and I feel really bad based to contribute to it but obviously do not at this point in time.
+
+13:23:35
+<transcript>: Cool. And now I can see everything. Sorry about the.
+
+13:23:35
+<transcript>: delay
+
+13:23:41
+<transcript>: Delay. There windows fighting windows. Why would you Resize left when I'm resizing the right side of the window.
+
+13:23:48
+<transcript>: I.
+
+13:23:55
+<transcript>: very very
+
+13:23:55
+<transcript>: Am a little surprised at the definition typically because it makes me realize I haven't been a Jam stack developer for like years. I.
+
+13:24:01
+<transcript>: Very, very tightly coupled. My back end to my front end. I actually remember somebody tweeted.
+
+13:24:05
+<transcript>: It was meant to be an insult towards.
+
+13:24:07
+<transcript>: Trpc.
+
+13:24:07
+<transcript>: where they
+
+13:24:23
+<transcript>: Where they really got the feeding site. I love the tweet. It was TrpC is tightly coupled back in for your front end and I like to retreat it immediately. I love that I am building a credit. My building this for my users. My goal is to build the simplest possible.
+
+13:24:23
+<transcript>: user experience
+
+13:24:29
+<transcript>: break down
+
+13:24:29
+<transcript>: User experience with the shortest type between that and my infrastructure, my databases. How can I.
+
+13:24:33
+<transcript>: Break down those barriers and make development as simple as possible.
+
+13:24:34
+<transcript>: For my team.
+
+13:24:36
+<transcript>: I.
+
+13:24:43
+<transcript>: 'm going to.
+
+13:24:49
+<transcript>: Standpoint of what I would come to. And I wonder if this is a scale thing, right? Because.
+
+13:24:49
+<transcript>: like
+
+13:24:53
+<transcript>: Like there's not saying you know what got us here won't get us there.
+
+13:24:58
+<transcript>: And so how many? How many devs are you working with.
+
+13:25:02
+<transcript>: While you're setting up right now, less than ten usually.
+
+13:25:04
+<transcript>: Yeah.
+
+13:25:24
+<transcript>: My bad for cutting you off there, but I just. My dashboard is not working right now. He's rated with 158 viewers. Thank you so much, man. Fantastic to have you here. Sorry for not shutting you up. Thank you. People with Chat who mentioned that for me really appreciate having y'all here. We have our awesome guest, Jason Linkstorf here, who is one.
+
+13:25:24
+<transcript>: of the
+
+13:25:26
+<transcript>: Of the original.
+
+13:25:26
+<transcript>: software indust
+
+13:25:28
+<transcript>: it's really
+
+13:25:28
+<transcript>: Software Industrymers on Twitch.
+
+13:25:35
+<transcript>: It's really awesome having the new guard here blessing our stream with a race. So thank you so much for that. Sorry for the attraction.
+
+13:25:38
+<transcript>: No, no, not at all.
+
+13:25:41
+<transcript>: I have however complete the loss my journey.
+
+13:25:41
+<transcript>: it was
+
+13:25:51
+<transcript>: It was the tightly coupled and, like, the team size thing. Oh, yeah. Yeah. So I think one of the things that I find really interesting is.
+
+13:26:07
+<transcript>: What God is here won't get us there. And this is like a I'm not saying this as I know. Like, this isn't me trying to be like, Listen, you young women's never. But it's more of just a question of my own lived experience as a.
+
+13:26:13
+<transcript>: Tightly coupled stuff when I'm building myself.
+
+13:26:13
+<transcript>: because
+
+13:26:17
+<transcript>: Because everything's in one file? I know exactly where to go? I know what I'm looking for.
+
+13:26:17
+<transcript>: and as
+
+13:26:22
+<transcript>: and
+
+13:26:22
+<transcript>: And as soon as I have to hand it off to another Dev I wanted all become.
+
+13:26:32
+<transcript>: And I think the reasoning for that is that I what I want to be able to do is select which context somebody needs to understand.
+
+13:26:40
+<transcript>: front
+
+13:26:40
+<transcript>: To make them productive, right. And so when I'm when I was at IBM, for example, you know, I'm.
+
+13:26:43
+<transcript>: Front, an architect working on.
+
+13:26:43
+<transcript>: thirty something
+
+13:26:47
+<transcript>: 30 Something Teams at IBM cloud.
+
+13:26:47
+<transcript>: and
+
+13:26:53
+<transcript>: And one of the big problems we had is we had our I mean, the way that they did microservices.
+
+13:26:58
+<transcript>: thirty five times
+
+13:26:58
+<transcript>: They had the model list. And then they just duplicated the monolith.
+
+13:27:07
+<transcript>: 35 times. And they were like, Great. Now you've got microservices and you can edit whatever you need for your service, knowing that it won't take the other.
+
+13:27:16
+<transcript>: their first
+
+13:27:16
+<transcript>: Front end like a specifically. I have been hired as a frontend developer. Got hired at IBM.
+
+13:27:19
+<transcript>: Their first one to two weeks was spent.
+
+13:27:23
+<transcript>: Very proxy configuring. A bunch of.
+
+13:27:31
+<transcript>: Commands, setting up a whole bunch of, like, deep Docker images and all this stuff that was way out of there.
+
+13:27:31
+<transcript>: understanding
+
+13:27:51
+<transcript>: understanding and really the need to understand they were working their context it was completely foreign to them and so it was a huge productivity drain any time that something got written poorly like a super senior dev would do something in the full stackiness that like pull the utility from some ways down in the
+
+13:27:51
+<transcript>: up
+
+13:27:54
+<transcript>: Up into the front end for this one quick thing.
+
+13:28:00
+<transcript>: now
+
+13:28:00
+<transcript>: Front end was necessary for it. And that would lead to the front end devs.
+
+13:28:03
+<transcript>: Now accidentally break.
+
+13:28:13
+<transcript>: And so when we did a not quite Jam stack because they didn't really.
+
+13:28:16
+<transcript>: Set up to do that. But.
+
+13:28:16
+<transcript>: as close as
+
+13:28:26
+<transcript>: As close as I could get where I separated the front end out from the backend microservice in a way that was independent. Deployable what we found was the front end teams immediately.
+
+13:28:36
+<transcript>: Like they were making commits on day one because they didn't need to care about what the backend context was or how that engine stuff was set up. It didn't. That was all previous.
+
+13:28:40
+<transcript>: Module that kind of set up the front end form.
+
+13:28:46
+<transcript>: And so as you know, working on a huge team.
+
+13:28:53
+<transcript>: That's why.
+
+13:28:58
+<transcript>: It did when it when it came out, 2015.
+
+13:29:11
+<transcript>: Is that it was a way to say, hey, developer, you work like you are paid to do this work. This is the thing you've been hired to own. And this is literally the only part of this you need to understand. So your ramp up time goes way down.
+
+13:29:18
+<transcript>: Your contact requires the level of expertise required. So now you don't need to go out and find those.
+
+13:29:21
+<transcript>: Multi Six figure.
+
+13:29:21
+<transcript>: unicorn
+
+13:29:40
+<transcript>: Unicorn devs who are like, you know, double principle or whatever whatever level you have to hire to get somebody you can do systems work from the Kubernetes up to the CSS, right? You can just hire somebody who is a great job. Script Hdmall and CSS Dev and they didn't have to care about anything else in the stack.
+
+13:29:44
+<transcript>: at least
+
+13:29:44
+<transcript>: And so I think that's why I think.
+
+13:29:46
+<transcript>: At least for me.
+
+13:29:46
+<transcript>: the scale
+
+13:29:49
+<transcript>: The scale plays a huge factor in why.
+
+13:29:49
+<transcript>: i started thinking
+
+13:29:53
+<transcript>: I started thinking about things from that jam stack and decoupled approach.
+
+13:29:53
+<transcript>: however
+
+13:29:55
+<transcript>: However, I did have Alex.
+
+13:29:55
+<transcript>: learned with j
+
+13:30:00
+<transcript>: Learned with Jason. And we looked at TRPC. Freaking cool.
+
+13:30:00
+<transcript>: i love that
+
+13:30:08
+<transcript>: I love that the end to end type safety and the YouTube. It's a beautifully implemented system that I would totally use if I was building something.
+
+13:30:12
+<transcript>: I just haven't seen how something like that scales when you get to 30, 40.
+
+13:30:12
+<transcript>: developers
+
+13:30:15
+<transcript>: when you know
+
+13:30:15
+<transcript>: Developers and beyond.
+
+13:30:19
+<transcript>: When you know, can somebody reasonably understand the full code base.
+
+13:30:19
+<transcript>: i
+
+13:30:20
+<transcript>: I.
+
+13:30:26
+<transcript>: Think this is two different approaches to the same problem. Where.
+
+13:30:26
+<transcript>: your approach
+
+13:30:28
+<transcript>: Your approach is.
+
+13:30:28
+<transcript>: complexity
+
+13:30:30
+<transcript>: Complexity at scale is inevitable.
+
+13:30:30
+<transcript>: how can we
+
+13:30:37
+<transcript>: How can we separate concerns to handle that complexity as like early and like low friction as possible.
+
+13:30:48
+<transcript>: My other side, like having worked at Twitch and other like companies like no ideas in my history, but a handful of Twitches things that aspire to do that size.
+
+13:30:51
+<transcript>: My disagreement is I think.
+
+13:30:51
+<transcript>: reducing
+
+13:30:57
+<transcript>: Reducing the dimensions of problems and going out of your way to reduce complexity.
+
+13:31:00
+<transcript>: For as long as you can.
+
+13:31:00
+<transcript>: allows you to
+
+13:31:03
+<transcript>: and
+
+13:31:03
+<transcript>: Allows you to not need that separation for a lot longer.
+
+13:31:08
+<transcript>: And move exponentially faster. As a result, every code base.
+
+13:31:11
+<transcript>: Starts.
+
+13:31:11
+<transcript>: and eventually
+
+13:31:22
+<transcript>: And eventually becomes a bigger code base. But even at big companies like IBM, I would argue that there's a lot of, like, smaller products, smaller team, smaller things. We're starting with something like creat.
+
+13:31:22
+<transcript>: creative
+
+13:31:34
+<transcript>: Creative value to your users faster. And if it turns out that code base and that use case does need to scale you can scale it then. And I would also argue that something like PrPC in the way it's already.
+
+13:31:34
+<transcript>: when you use
+
+13:31:47
+<transcript>: When you use something like Crazy free app, if you're just writing TypeScript function and then on the client you're calling them with React query, replacing that server with anything else like throw it on Fastify and switch it over to rest.
+
+13:31:47
+<transcript>: go scale it
+
+13:31:50
+<transcript>: but
+
+13:31:50
+<transcript>: Go scale it however you want, wherever else.
+
+13:31:54
+<transcript>: But to start, we can move so much faster.
+
+13:32:06
+<transcript>: Let me just ask. So the way that the T Three stack is working, then is your writing API endpoints that you then consume with React query Yes.
+
+13:32:06
+<transcript>: jam sa
+
+13:32:19
+<transcript>: Jam SAG, but it's all in the same package. Json. Where I'm importing the backend code directly in my front end, I type TrpC user get info use query, but in the end.
+
+13:32:33
+<transcript>: But if you were to drop that API out into a separate package, you could still consume it the same way, right? You wouldn't need to make changes in your front end other than just now. It's an import from, you know, at.
+
+13:32:40
+<transcript>: Another way to deploy it because it all deploys in the same time. Json theoretically, yes. If you did break it.
+
+13:32:40
+<transcript>: but but that's
+
+13:32:44
+<transcript>: But but that's that's so that's kind of what I mean is like it's.
+
+13:32:44
+<transcript>: like
+
+13:32:58
+<transcript>: Like you still created the separation of concerns like you got about a clear API contract within your back end and your front end. And as long as nobody's going around to your PC to like access your data directly. And this is where big code bases get tricky because.
+
+13:33:03
+<transcript>: At a certain scale, you can't rely on people to make good choices.
+
+13:33:16
+<transcript>: And that's the that's really where I found the breakdown happens without explicitly enforced separation, is that if you're relying on a human person to make a good choice under pressure.
+
+13:33:21
+<transcript>: It's gonna let you down at least one time out of ten.
+
+13:33:21
+<transcript>: and
+
+13:33:22
+<transcript>: And.
+
+13:33:22
+<transcript>: that part
+
+13:33:43
+<transcript>: That part makes it really challenging to, you know, like, you can write a bunch of Linting roles. You can do all these other things. But now you're moving the overhead of, like what it would have taken to manage separated code base to policing integrated code base, because now you've got code jobs and like that. So I mean, I guess the thing is like, the complex human complexities.
+
+13:33:43
+<transcript>: doesn't go
+
+13:33:49
+<transcript>: the way
+
+13:33:49
+<transcript>: Doesn't go away. There's no code we can write that will make humans make good choices. So instead.
+
+13:34:00
+<transcript>: The way that I heard this put, I say, make the right thing the easy thing. I've heard people say, you know, make the right things easy and the hard things and the bad things hard right like that sort of approaches.
+
+13:34:00
+<transcript>: there are a million ways
+
+13:34:02
+<transcript>: There are a million ways to slice that.
+
+13:34:02
+<transcript>: and you know
+
+13:34:20
+<transcript>: And you know, depending on how you're going to make choices about court organization or how you're gonna make choices about hiring your team structure like you build a full stack team code review will catch those sorts of things. If you're building like a frontend team and a back end, the front end front end team might not catch.
+
+13:34:20
+<transcript>: you that they've done
+
+13:34:25
+<transcript>: You that they've done something that won't scale because they touch something in the middle tier, the back end tier.
+
+13:34:25
+<transcript>: that
+
+13:34:29
+<transcript>: so many different
+
+13:34:29
+<transcript>: That is actually going to be a nightmare later on. And so there's.
+
+13:34:34
+<transcript>: So many different reasons that one architecture would work with another. Why you would need different choices.
+
+13:34:34
+<transcript>: how
+
+13:34:38
+<transcript>: How to organize code or separate concern. But I think.
+
+13:34:46
+<transcript>: At a certain point I what you've done bar's number is 150 right at the point after which you cannot possibly know all of your coworkers.
+
+13:34:56
+<transcript>: Once you get past that point, humans stop thinking about each other is like people they need to take care of. And they do just start thinking about whether or not they're going to get their paycheck.
+
+13:34:56
+<transcript>: and i
+
+13:34:58
+<transcript>: And I got to deliver this by Friday.
+
+13:34:58
+<transcript>: that somebody else
+
+13:35:01
+<transcript>: That somebody else is probably my main event choice.
+
+13:35:09
+<transcript>: And so that that's yeah. I think that's the maybe the question under the question of like why write code.
+
+13:35:09
+<transcript>: in certain ways at all
+
+13:35:11
+<transcript>: In certain ways at all like Why does architecture matter.
+
+13:35:11
+<transcript>: because eventually
+
+13:35:14
+<transcript>: create
+
+13:35:14
+<transcript>: Because eventually you're gonna have to.
+
+13:35:17
+<transcript>: Create artificial barriers to drive human decision making.
+
+13:35:23
+<transcript>: And choose making the choice which one is the right barrier to put up.
+
+13:35:25
+<transcript>: At my tax loss might be around like.
+
+13:35:30
+<transcript>: Transition from like 2000 plus person Twitch land.
+
+13:35:30
+<transcript>: to twenty
+
+13:35:34
+<transcript>: what
+
+13:35:34
+<transcript>: To 20 or less person start a bland free card and pretty fast.
+
+13:35:54
+<transcript>: and
+
+13:35:54
+<transcript>: What I'm seeing more than anything is a lot of companies and a lot of developers and a lot of, like, early stage startups building like their Facebook hiring up a Dev tool team, spinning up Kubernetes for they have more servers than they have users. I've talked to seven separate startups that have more servers than they have users is hilarious. How common a trend that is.
+
+13:35:56
+<transcript>: And I.
+
+13:36:01
+<transcript>: Eat away at me to know that and I.
+
+13:36:06
+<transcript>: Think we.
+
+13:36:08
+<transcript>: Put this.
+
+13:36:12
+<transcript>: I feel like most code bases.
+
+13:36:12
+<transcript>: have
+
+13:36:17
+<transcript>: Have engineers who run them that care a lot about all of like the issues.
+
+13:36:17
+<transcript>: you're describing
+
+13:36:24
+<transcript>: You're describing like more often than not, the person in charge of the code base does think about these things and does care about these things.
+
+13:36:24
+<transcript>: my concern
+
+13:36:26
+<transcript>: My concern is given two.
+
+13:36:26
+<transcript>: opportunities
+
+13:36:28
+<transcript>: Opportunities.
+
+13:36:32
+<transcript>: They will reinvent Facebook for there's a user for that code.
+
+13:36:32
+<transcript>: and
+
+13:36:39
+<transcript>: And most of my development philosophy is focused on both. How do we get to the first user.
+
+13:36:39
+<transcript>: as
+
+13:36:59
+<transcript>: As fast as possible and on the other side, how do we take as little risk tech debt and anchoring in our design when we do that like this is why I'm not really the technologies like Firebase or using like Supervisor JS client. I don't like the idea of these solutions being bought into a specific way of interfacing with your data.
+
+13:36:59
+<transcript>: such
+
+13:37:01
+<transcript>: Such as I want to change that in these right.
+
+13:37:21
+<transcript>: You might notice that when you were actually one of the first users we switched off of Postgres on AWS over to Planet Scale ISQL while people remind calls because I accidentally didn't deploy and it was a seamless transition because we had Prisma as the layer in between there. So when I did the deploy President give it a different database and everything.
+
+13:37:21
+<transcript>: worked as it was
+
+13:37:34
+<transcript>: if we get to
+
+13:37:34
+<transcript>: Worked as it was supposed to and that's the the means the ship of the OCS, where every piece in field ships and it has been replaced multiple times at this point and when you build it that way.
+
+13:37:41
+<transcript>: If we get to the point where there's 150 people or I hire adjacent in your piston B because of how complex I've made everything with it all being in one.
+
+13:37:41
+<transcript>: chaot
+
+13:37:47
+<transcript>: Chaotically comporting everything everywhere. You have a much clearer point of separation.
+
+13:37:52
+<transcript>: Being fetched is the only way we're sending the database.
+
+13:38:00
+<transcript>: Function to something like a service ID process not being used at all because they're anti pattern and these separation making it a lot easier.
+
+13:38:17
+<transcript>: To split up the parts when you need to and more importantly, they help you get to the point where you need to more regularly because the codebase doesn't collapse in your users don't get bit like when a user has a problem, we can fix it faster due to the way we built.
+
+13:38:17
+<transcript>: yeah no
+
+13:38:22
+<transcript>: Yeah. No. I think I think we're in violent agreement here because.
+
+13:38:22
+<transcript>: i'm
+
+13:38:28
+<transcript>: I'm very much in the same boat. And like when we're talking about minimizing the time to value.
+
+13:38:34
+<transcript>: I don't actually care how many servers run, I care how many code bases I optimize.
+
+13:38:34
+<transcript>: one of the things
+
+13:38:36
+<transcript>: One of the things that I think about.
+
+13:38:36
+<transcript>: is
+
+13:38:39
+<transcript>: Is if I was starting a company right now.
+
+13:38:51
+<transcript>: I mean, I work at so I use Nullify. But any of these platforms that have serverless functions, edge functions, and front end code, all deployed out of the same code base through.
+
+13:38:51
+<transcript>: a single
+
+13:38:53
+<transcript>: A single dig file.
+
+13:38:53
+<transcript>: i
+
+13:39:09
+<transcript>: i would
+
+13:39:09
+<transcript>: I would use back end as a service platform as a service database service for all of the things that I don't want to manage to figure myself. I would also probably reach a planet scale because it works in edge functions. I would then use edge functions for a lot of the logic close to the user for data access patterns, things like that.
+
+13:39:15
+<transcript>: I would build the site like the front end would be using whatever Astro next.
+
+13:39:21
+<transcript>: Whatever the new audio remakes the new Hotness something.
+
+13:39:21
+<transcript>: get it deployed
+
+13:39:35
+<transcript>: Get it deployed out in a way that is close to the user. So on a CDN have the serverless functions deployed alongside for any of the backend API stuff. Have the edge functions for any of that near the customer data access.
+
+13:39:41
+<transcript>: And all that runs out of one. So the fact that under the hood that's a bunch of servers.
+
+15:50:30
+<transcript>: So I'm talking to him on my Twitch stream.
+
+15:50:30
+<transcript>: and
+
+15:50:33
+<transcript>: And then I'm like, okay, I'm gonna take a break.
+
+15:50:33
+<transcript>: and watch what
+
+15:50:35
+<transcript>: And watch what it looks like to the.
+
+15:50:37
+<transcript>: Camera, move.
+
+15:50:37
+<transcript>: so
+
+15:50:40
+<transcript>: So then I leave the office.
+
+15:50:43
+<transcript>: Doing that.
+
+15:50:43
+<transcript>: isn't that cool
+
+15:50:44
+<transcript>: Isn't that cool.
+
+15:50:46
+<transcript>: Yeah.
+
+15:50:51
+<transcript>: Making movie magic.
+
+15:50:57
+<transcript>: Oh, that sounded bad.
+
+15:51:11
+<transcript>: Yeah, I guess so. Then when I leave the break, I hit the button. It goes back the other way.
+
+15:51:15
+<transcript>: Something.
+
+15:51:18
+<transcript>: Not pretty cool.
+
+15:51:29
+<transcript>: Yeah? Then it comes back here. And when I come back.
+
+15:51:35
+<transcript>: Is that cool.
+
+15:51:35
+<transcript>: yeah
+
+15:51:36
+<transcript>: Yeah.
+
+15:51:36
+<transcript>: i can talk to
+
+15:51:40
+<transcript>: I can talk to people right there. That's where I can talk to them.
+
+15:51:40
+<transcript>: people type
+
+15:51:43
+<transcript>: People type to me while I'm working.
+
+15:51:50
+<transcript>: How It works.
+
+15:51:52
+<transcript>: Crazy.
+
+15:52:01
+<transcript>: How does the camera do that.
+
+15:52:05
+<transcript>: Mechanical jib. Are you supposed to be doing something.
+
+15:52:21
+<transcript>: It doesn't matter if it's really.
+
+15:52:35
+<transcript>: Do that.
+
+15:52:46
+<transcript>: What if you just put something else that screen behind you? Would that work? But it worked with that. It's gotta be a certain color. Could all be the closest thing color is pop.
+
+15:52:49
+<transcript>: popular
+
+15:52:50
+<transcript>: Popular.
+
+15:52:55
+<transcript>: Wait. Oh, there's the hybrid.
+
+15:52:55
+<transcript>: yeah
+
+15:52:56
+<transcript>: Yeah.
+
+15:52:56
+<transcript>: same kind
+
+15:53:00
+<transcript>: Same kind. You chose the sink, right? You want you use that one.
+
+15:53:00
+<transcript>: i
+
+15:53:03
+<transcript>: I do sometimes when I need to spot.
+
+15:53:03
+<transcript>: fill a spot
+
+15:53:09
+<transcript>: Fill a spot like I put it on this shower earlier because the door was in view, and I go to this.
+
+15:53:09
+<transcript>: when i
+
+15:53:11
+<transcript>: When I go to this camera, right here.
+
+15:53:16
+<transcript>: The door over here. You can see the door. So I had to pop it up right there.
+
+15:53:16
+<transcript>: well
+
+15:53:21
+<transcript>: Well, why is there more of you? Because I'm sharing that screen.
+
+15:53:21
+<transcript>: oh
+
+15:53:23
+<transcript>: Oh.
+
+15:53:32
+<transcript>: Well done.
+
+15:53:38
+<transcript>: A new one right there.
+
+15:53:41
+<transcript>: You go.
+
+15:53:44
+<transcript>: Back. Paula. Here.
+
+15:53:48
+<transcript>: Can I make down.
+
+15:53:51
+<transcript>: Try it.
+
+15:53:56
+<transcript>: Yeah, but you won't be able to reach.
+
+15:54:00
+<transcript>: I just want to.
+
+15:54:02
+<transcript>: Start.
+
+15:54:04
+<transcript>: I actually do want to take it up.
+
+15:54:14
+<transcript>: That's crazy.
+
+15:54:24
+<transcript>: I love you guys.
+
+15:54:31
+<transcript>: Just because it's out of the way right now.
+
+15:54:35
+<transcript>: I have to have green everywhere.
+
+15:54:39
+<transcript>: You did that.
+
+15:54:43
+<transcript>: Pretty crazy.
+
+15:54:51
+<transcript>: Yeah.
+
+15:54:53
+<transcript>: That's pretty crazy, huh.
+
+15:54:53
+<transcript>: yeah
+
+15:54:54
+<transcript>: Yeah.
+
+15:54:57
+<transcript>: I thought you only had.
+
+15:55:01
+<transcript>: That one. And then I got these two that hang from the ceiling.
+
+15:55:05
+<transcript>: How do you get it.
+
+15:55:08
+<transcript>: How do you get in.
+
+15:55:15
+<transcript>: I can walk.
+
+15:55:17
+<transcript>: Not now.
+
+15:55:17
+<transcript>: i'm working
+
+15:55:20
+<transcript>: I'm working. I need you guys to go do something else, okay.
+
+15:55:27
+<transcript>: I love you guys I gotta go back to work I love you.
+
+15:55:39
+<transcript>: Mama, if you can have it at lunch.
+
+15:55:43
+<transcript>: Yeah, you guys take upstairs. You guys got to take on stairs.
+
+15:55:47
+<transcript>: Please.
+
+15:55:50
+<transcript>: Mom make sure she.
+
+15:55:52
+<transcript>: 's.
+
+15:55:59
+<transcript>: A cool picture. All right. Actually.
+
+15:55:59
+<transcript>: go see mom
+
+15:56:01
+<transcript>: Go see mom.
+
+15:56:09
+<transcript>: That light points at my head.
+
+15:56:21
+<transcript>: So it can reach up there to the ceiling.
+
+15:56:27
+<transcript>: All right? Love you, baby, baby.
+
+15:56:36
+<transcript>: Yeah. That one too.
+
+15:56:38
+<transcript>: All right, baby.
+
+15:57:00
+<transcript>: We'll talk about later. A parachute.
+
+15:57:16
+<transcript>: I can't talk. I can't talk about right now. Are you? I love you.
+
+15:57:21
+<transcript>: So many lights all right? Go see Mama? Go see Mama, please.

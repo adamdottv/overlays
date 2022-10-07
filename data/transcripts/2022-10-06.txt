@@ -1,0 +1,3088 @@
+
+
+13:34:19
+<transcript>: Subscribe.
+
+13:56:32
+<transcript>: Check Check Check Your Check check.
+
+13:56:36
+<transcript>: Hey, everybody, check, check one to check one to.
+
+00:02:46
+mjewl: dangDance
+
+00:03:22
+fragaverage: what time of the day do you call this LUL
+
+00:03:30
+daryn_dev: Good Evening
+
+00:03:38
+delvoid: heyyoo
+
+00:05:08
+rihanshazih: hello hello
+
+00:09:15
+christoph0saurus: morning / evening all ( wherever you may be )
+
+00:10:53
+<transcript>: Hello, Hello.
+
+00:10:54
+<transcript>: It's late.
+
+00:10:54
+<transcript>: it's late for people
+
+00:10:56
+<transcript>: It's late for people.
+
+00:10:56
+<transcript>: probably
+
+00:10:59
+<transcript>: Probably this is later than normal. Right.
+
+00:10:59
+<transcript>: so good
+
+00:11:02
+<transcript>: So good evening to all of you. I don't care what time it is. Good evening.
+
+00:11:09
+<transcript>: It's morning for me, but I guess there's probably people from the US here. This is probably.
+
+00:11:10
+dyalicode: hmm update desktop :)
+
+00:11:13
+<transcript>: A semius crowd. East coasters.
+
+00:11:16
+dyalicode: good morning man
+
+00:11:18
+<transcript>: Update desktop the alley? What's that.
+
+00:11:18
+<transcript>: good
+
+00:11:20
+<transcript>: Good morning. Galli.
+
+00:11:20
+<transcript>: good morning
+
+00:11:29
+tayloreddev: good afternoon
+
+00:11:30
+<transcript>: Good Morning, everybody. Frag is here named Jewel and Darren, Devoid, Rehan, and Christoph. Hello, everybody.
+
+00:11:30
+<transcript>: we are
+
+00:11:32
+<transcript>: we're just
+
+00:11:32
+<transcript>: We are.
+
+00:11:38
+fanieldanara: Good morning!
+
+00:11:43
+<transcript>: We're just a short stream. Taylor's here. I'm just doing this for, like, an hour, but I had an hour, and it was like I could not stream for that hour, or I could stream. And I chose to stream for an hour.
+
+00:11:43
+<transcript>: so
+
+00:11:48
+daryn_dev: :O
+
+00:11:48
+<transcript>: So we're gonna try out a short stream. I took a new background photo. So I've been doing this morning.
+
+00:11:49
+stephensaggyball: @adamdotdev Who is ur favorite rapper
+
+00:11:52
+<transcript>: I think it's better than the last one.
+
+00:11:52
+<transcript>: who's my favorite
+
+00:11:55
+<transcript>: Who's my favorite rapper? Steven.
+
+00:11:59
+daryn_dev: He chose us guys!
+
+00:12:03
+<transcript>: Don't really listen to rappers, so I would say none. None of them good morning, Daniel.
+
+00:12:04
+daryn_dev: He chose us over nothing! <3
+
+00:12:07
+<transcript>: I chose you all over.
+
+00:12:11
+<transcript>: It's funny.
+
+00:12:15
+<transcript>: I think my.
+
+00:12:15
+<transcript>: we're gonna
+
+00:12:17
+<transcript>: on aw
+
+00:12:17
+<transcript>: We're gonna actually make some progress.
+
+00:12:18
+danielgerep: Good thing you don't have music in the background :)
+
+00:12:23
+<transcript>: On AW, guess in an hour. Let's see what we can get done in an hour. I'm gonna cut the chitchat, you know.
+
+00:12:26
+<transcript>: Let's see.
+
+00:12:26
+<transcript>: i really
+
+00:12:34
+<transcript>: I really want to get eight of you guess out there. I think the AWS community will actually enjoy it. I think there's some folks who follow me on Twitter.
+
+00:12:34
+<transcript>: that would enjoy
+
+00:12:36
+<transcript>: That would enjoy playing with it.
+
+00:12:40
+<transcript>: Creaking. Thanks for the follow. Thank you so much.
+
+00:12:45
+<transcript>: Let's see normally I stream for like 4 hours.
+
+00:12:45
+<transcript>: and much
+
+00:12:48
+<transcript>: And much earlier than this. But today.
+
+00:12:53
+<transcript>: I chose this. I chose to stream for now I'm gonna stream tomorrow instead of today.
+
+00:12:53
+<transcript>: like
+
+00:13:00
+<transcript>: Like I was just gonna not do today at all. Tomorrow, I'm gonna do a full stream. So tomorrow morning, my schedule is probably wrong.
+
+00:13:00
+<transcript>: just
+
+00:13:01
+<transcript>: on tomorrow
+
+00:13:01
+<transcript>: Just.
+
+00:13:03
+<transcript>: On tomorrow morning.
+
+00:13:08
+<transcript>: Let's see we're did we leave on so new game.
+
+00:13:12
+<transcript>: This is everything turned on? I don't know. We're about to find out.
+
+00:13:12
+<transcript>: oof
+
+00:13:14
+<transcript>: it is not turned
+
+00:13:14
+<transcript>: Oof no.
+
+00:13:15
+<transcript>: It is not turned on.
+
+00:13:15
+<transcript>: let's see
+
+00:13:17
+<transcript>: Let's see.
+
+00:13:21
+<transcript>: That is probably the problem.
+
+00:13:26
+<transcript>: Let's reproxy.
+
+00:13:28
+<transcript>: Access token.
+
+00:13:31
+<transcript>: Peacecale off login.
+
+00:13:33
+<transcript>: That's new Oh.
+
+00:13:40
+daryn_dev: This needs fixing xD
+
+00:13:41
+<transcript>: I don't know. I just leak something. Is that bad? Well.
+
+00:13:41
+<transcript>: guess
+
+00:13:43
+<transcript>: Guess we'll find out.
+
+00:13:51
+<transcript>: I don't have Daniel. I don't have music in the background. Do you want music.
+
+00:13:51
+<transcript>: i
+
+00:13:54
+<transcript>: I would like to play music actually.
+
+00:13:56
+<transcript>: That's not what I want to do.
+
+00:14:00
+<transcript>: The P Scale Piece scale.
+
+00:14:05
+<transcript>: What is it, proxy? What is the key scale command.
+
+00:14:08
+<transcript>: Connect.
+
+00:14:11
+<transcript>: Scale connect.
+
+00:14:15
+<transcript>: Like that.
+
+00:14:23
+<transcript>: Was one way to do it.
+
+00:14:23
+<transcript>: let's see
+
+00:14:25
+<transcript>: Let's see if.
+
+00:14:25
+<transcript>: it's not there
+
+00:14:27
+<transcript>: It's not there. Okay.
+
+00:14:31
+<transcript>: now that's
+
+00:14:31
+<transcript>: Figure that out, okay.
+
+00:14:32
+<transcript>: Now that's running.
+
+00:14:32
+<transcript>: the
+
+00:14:36
+<transcript>: The next JS app is running.
+
+00:14:46
+<transcript>: Let's try it again. I'm gonna play music, Daniel. I hope that doesn't bother you too much.
+
+00:14:50
+<transcript>: I do like to play music? Ah, I gotta be fast, though.
+
+00:14:52
+<transcript>: Think box, rest.
+
+00:14:56
+<transcript>: Okay, we got to stop the timer. That's one thing we got to do.
+
+00:15:01
+<transcript>: It is professional services. Yeah. Stop the timer.
+
+00:15:04
+<transcript>: We've got the score going on up here now.
+
+00:15:07
+<transcript>: What is this? Sns.
+
+00:15:11
+<transcript>: So you're getting one point for every correct answer.
+
+00:15:19
+<transcript>: We're gonna do streaks. What can we get done today? That's Xmesh, right? Yeah.
+
+00:15:25
+<transcript>: Okay, let's play music.
+
+00:15:28
+<transcript>: Let's play music.
+
+00:15:40
+<transcript>: Oh, somebody put the cowboy hat on me. Darren, I gotta make that thing more expensive.
+
+00:15:45
+<transcript>: It just. It doesn't work on this view. I don't know why the Chroma key is so weird.
+
+00:15:50
+daryn_dev: Hahahah
+
+00:15:51
+<transcript>: It just just doesn't work. Oh, that's what you meant by this needs fix. And probably.
+
+00:15:56
+<transcript>: A hat. Need some fixing? Okay. How's we want to stop the timer.
+
+00:15:56
+<transcript>: how do we
+
+00:15:58
+<transcript>: How do we want to stop it.
+
+00:16:01
+<transcript>: So when you let's see.
+
+00:16:05
+<transcript>: Once you've answered, we want to freeze the timer.
+
+00:16:05
+<transcript>: this is our
+
+00:16:06
+<transcript>: This is our interval.
+
+00:16:16
+<transcript>: So well let's see when you answer we're gonna set something.
+
+00:16:23
+<transcript>: Handle answer. Yeah. So here we set result.
+
+00:16:26
+<transcript>: Do we send anything right off the bat? No.
+
+00:16:29
+<transcript>: when
+
+00:16:29
+<transcript>: Need something.
+
+00:16:33
+<transcript>: When you immediately like immediately when you answer, we need some state.
+
+00:16:39
+<transcript>: It's a time to use dust stand there's a time to do this.
+
+00:16:56
+<transcript>: Thanks for the followup camel. I appreciate that.
+
+00:17:02
+kamelpaj: heyo yeyo
+
+00:17:05
+<transcript>: Okay. So this is what we started to do with zestanned.
+
+00:17:07
+<transcript>: We're gonna We're gonna maybe do it again.
+
+00:17:12
+<transcript>: Use Game store create game state.
+
+00:17:17
+<transcript>: So there's a current round.
+
+00:17:17
+<transcript>: there's a
+
+00:17:19
+beckinhotv: why is everyone on twitch migrating to vim ?
+
+00:17:19
+<transcript>: There's a result.
+
+00:17:19
+<transcript>: and a choice
+
+00:17:20
+<transcript>: And a choice.
+
+00:17:25
+<transcript>: There's a function called Answer where you pass a choice.
+
+00:17:27
+<transcript>: It sets the choice.
+
+00:17:31
+owencodes: HeyGuys
+
+00:17:34
+<transcript>: I guess we need to do something like this, though.
+
+00:17:39
+<transcript>: Okay.
+
+00:17:45
+<transcript>: If idle. Active. Correct. Incorrect. Expired.
+
+00:17:51
+<transcript>: So aside from active, there's also a.
+
+00:17:51
+<transcript>: like
+
+00:17:56
+<transcript>: Like waiting. It's like you've answered, but we don't know yet.
+
+00:18:01
+<transcript>: Pending I don't know.
+
+00:18:04
+<transcript>: Okay.
+
+00:18:04
+<transcript>: so
+
+00:18:07
+<transcript>: So when you answer, we also set the.
+
+00:18:09
+<transcript>: Eight.
+
+00:18:11
+<transcript>: To.
+
+00:18:15
+<transcript>: Eight. Sorry. Pending.
+
+00:18:17
+<transcript>: Okay.
+
+00:18:17
+<transcript>: so that's
+
+00:18:20
+<transcript>: So that's from state idle.
+
+00:18:23
+<transcript>: Answer.
+
+00:18:30
+<transcript>: I've never used us in before, so I'm pretending like I know what I'm doing. We'll see if I know how to pull this off.
+
+00:18:30
+<transcript>: let's see
+
+00:18:34
+<transcript>: Let's see, why is everyone on Twitch migraine to Vim beckon.
+
+00:18:40
+<transcript>: Because it's the best. No, no. I I've talked about this quite a bit.
+
+00:19:00
+<transcript>: I definitely was influenced by Twitch streamers using neovim I had for like five years. I've wanted to invest in them. I just know I move my hand too much. I use my mouth too much. And like, just for posture. Ergonomics all that. I knew I needed to really invest in it and start using less, less navigation with.
+
+00:19:00
+<transcript>: my mouth
+
+00:19:02
+<transcript>: My mouth.
+
+00:19:02
+<transcript>: so that's something
+
+00:19:13
+<transcript>: So that's something I've wanted to do for a lot time. I probably could have and should have just done the vim bindings in vs. Code thing that would have saved me a ton of time, but the new thin thing is the Fun house.
+
+00:19:18
+<transcript>: It's just been a ton of fun to configure. I have more control over your environment. I think.
+
+00:19:18
+<transcript>: teach
+
+00:19:19
+<transcript>: Teach.
+
+00:19:19
+<transcript>: coined
+
+00:19:26
+<transcript>: Coined the Pde personal development environment. It's kind of fun having sort of lots of control.
+
+00:19:26
+<transcript>: over
+
+00:19:28
+<transcript>: Over.
+
+00:19:28
+<transcript>: your
+
+00:19:39
+<transcript>: Your IDE. So that's that's kind of why the neovem thing, but definitely influence by all the fantastic streamers on Twitch. I'm gonna move my mic. It's gonna sound awful. Hang on.
+
+00:19:52
+daryn_dev: OH! MY EARS!!! OH MYYYY
+
+00:19:52
+<transcript>: How's that still out of you. Yeah.
+
+00:19:52
+<transcript>: a little closer
+
+00:19:54
+<transcript>: A little closer to my face.
+
+00:19:57
+<transcript>: Okay. Feels good.
+
+00:20:04
+<transcript>: Okay. So we've answer that sets a pending state, and it sets the choice.
+
+00:20:04
+<transcript>: that's what you chose
+
+00:20:06
+<transcript>: like
+
+00:20:06
+<transcript>: That's what you chose.
+
+00:20:08
+<transcript>: or for your
+
+00:20:08
+<transcript>: Like the thing that you chose to answer.
+
+00:20:11
+<transcript>: Or for your answer.
+
+00:20:11
+<transcript>: we also need to have
+
+00:20:13
+<transcript>: We also need to have let's see.
+
+00:20:16
+<transcript>: Is that the only function.
+
+00:20:21
+<transcript>: No, that's not the only one thing for the follow I man yon.
+
+00:20:21
+<transcript>: i min
+
+00:20:25
+<transcript>: I mini. Won I'm anyone? Probably. That. Yeah.
+
+00:20:31
+<transcript>: Oh, your ears. What's wrong? Oh, this is Mike.
+
+00:20:32
+daryn_dev: @beckinhotv I wish to know as well
+
+00:20:35
+<transcript>: Yeah, I did. I moved it.
+
+00:20:45
+<transcript>: Okay. So other functions that would update the state.
+
+00:20:49
+<transcript>: like
+
+00:20:49
+<transcript>: Like when the answer comes back.
+
+00:20:51
+<transcript>: Like when the correct answer.
+
+00:20:53
+<transcript>: For the wrong answer.
+
+00:21:01
+<transcript>: What would we call that function? Because I'm gonna need a way to update the state to set it to.
+
+00:21:04
+<transcript>: Correct or Incorrect or expired.
+
+00:21:08
+<transcript>: So we'll just call it result.
+
+00:21:18
+<transcript>: I'm.
+
+00:21:20
+<transcript>: result
+
+00:21:20
+<transcript>: Now.
+
+00:21:21
+<transcript>: Result.
+
+00:21:21
+<transcript>: is a
+
+00:21:23
+<transcript>: Is a.
+
+00:21:23
+<transcript>: result
+
+00:21:24
+<transcript>: Result.
+
+00:21:27
+<transcript>: And then.
+
+00:21:30
+<transcript>: I guess there's a new round as well.
+
+00:21:39
+<transcript>: No, I this result have round on it yeah yeah it's the answer yeah so handle, handle.
+
+00:21:43
+<transcript>: Response. Maybe it's better than result. I don't know.
+
+00:21:43
+<transcript>: hand result
+
+00:21:45
+<transcript>: Hand result.
+
+00:21:47
+<transcript>: Void.
+
+00:21:50
+<transcript>: Handle result.
+
+00:21:53
+<transcript>: Async.
+
+00:21:58
+<transcript>: What is it? Results. Result.
+
+00:22:01
+<transcript>: so we're gonna
+
+00:22:01
+<transcript>: Yeah like that.
+
+00:22:03
+<transcript>: So we're gonna have set.
+
+00:22:14
+<transcript>: The state is going to be it's going to depend on the result. Right. So state is going to be.
+
+00:22:17
+<transcript>: Result dot.
+
+00:22:17
+<transcript>: correct
+
+00:22:18
+<transcript>: Correct.
+
+00:22:22
+<transcript>: But first, let's do if it's expired.
+
+00:22:25
+<transcript>: Then expires.
+
+00:22:29
+<transcript>: That correct.
+
+00:22:34
+<transcript>: Else.
+
+00:22:34
+<transcript>: incorrect
+
+00:22:36
+<transcript>: Incorrect. Okay.
+
+00:22:42
+<transcript>: Kind of a mess. But I think that's the idea.
+
+00:22:51
+<transcript>: Let's see state result. So what else changes the choice and the we actually have a result. Right.
+
+00:22:54
+<transcript>: We can add that to the state.
+
+00:22:54
+<transcript>: when you answer
+
+00:22:56
+<transcript>: When you answer, we want to set.
+
+00:22:56
+<transcript>: result
+
+00:22:58
+<transcript>: Result.
+
+00:23:02
+<transcript>: Right. We want to set result to undefined.
+
+00:23:06
+<transcript>: Okay.
+
+00:23:11
+<transcript>: And then round we get a new round on result.
+
+00:23:14
+<transcript>: Undefined here as well.
+
+00:23:19
+th3_l3m0n: dual ternary, oh no...
+
+00:23:19
+<transcript>: I want to do that.
+
+00:23:25
+<transcript>: Not sure yet we'll come back to it here. The round is gonna be result.
+
+00:23:27
+<transcript>: At.
+
+00:23:30
+<transcript>: Oh, is there.
+
+00:23:30
+<transcript>: not a new round
+
+00:23:32
+<transcript>: Not a new round on this. Maybe there's not actually.
+
+00:23:39
+<transcript>: An idle if you answer.
+
+00:23:39
+<transcript>: we
+
+00:23:42
+<transcript>: We go to pending.
+
+00:23:45
+<transcript>: And we set your choice.
+
+00:23:45
+<transcript>: we
+
+00:23:48
+<transcript>: We handle the result here.
+
+00:23:48
+<transcript>: which set
+
+00:23:51
+<transcript>: Which sets to either expired, correct or incorrect.
+
+00:23:57
+<transcript>: Right.
+
+00:23:57
+<transcript>: and then we're gonna
+
+00:24:00
+<transcript>: And then we're gonna go back to idle when there's a new round.
+
+00:24:05
+<transcript>: Are we doing that right now? New round mutation.
+
+00:24:10
+<transcript>: So handle new game. We create a first round right there.
+
+00:24:14
+<transcript>: And then New round.
+
+00:24:20
+<transcript>: Has a two second delay.
+
+00:24:28
+<transcript>: Okay so after answer we just do new round.
+
+00:24:35
+<transcript>: It's the only time we call that fungic function. Yeah. Okay. So we need to have.
+
+00:24:37
+<transcript>: Similar.
+
+00:24:37
+<transcript>: here we
+
+00:24:39
+<transcript>: Here. We need to have a new round.
+
+00:24:43
+<transcript>: New round.
+
+00:24:47
+<transcript>: I don't know. Does it need any.
+
+00:24:50
+<transcript>: Rams. I don't guess.
+
+00:24:55
+<transcript>: Okay, new round.
+
+00:24:55
+<transcript>: async
+
+00:24:57
+<transcript>: Async.
+
+00:25:00
+<transcript>: And what's it going to do? It's gonna do.
+
+00:25:08
+<transcript>: State is.
+
+00:25:08
+<transcript>: idle
+
+00:25:09
+<transcript>: Idle.
+
+00:25:13
+<transcript>: And result.
+
+00:25:13
+<transcript>: undefined
+
+00:25:14
+<transcript>: Undefined.
+
+00:25:25
+<transcript>: What's the other thing we need to do? I guess we pass the round to it, don't we? Yeah.
+
+00:25:38
+<transcript>: Okay.
+
+00:25:38
+<transcript>: so
+
+00:25:42
+<transcript>: So new round needs to set choices as well.
+
+00:25:46
+<transcript>: Let's see.
+
+00:25:46
+dnbull: KonCha
+
+00:25:54
+<transcript>: Is this looking good? I don't know. Is this looking good.
+
+00:26:01
+<transcript>: Cool turn area. Oh, no, yeah? Feels bad? Feels bad? Hey, Dan. Bull.
+
+00:26:03
+<transcript>: And the lemon.
+
+00:26:11
+<transcript>: Let's see, let's shuffle our music.
+
+00:26:26
+<transcript>: Otherwise, we're just gonna be alt J in the whole time, which isn't a bad thing. Maybe the best thing, but okay, so if we have new rounds, we pass around. It sets the round. It says choice and result as undefined and goes to the idle state.
+
+00:26:30
+<transcript>: Not idle.
+
+00:26:36
+<transcript>: The moment we have a new round, we go to active.
+
+00:26:41
+<transcript>: I don't like we haven't started the game yet, right.
+
+00:26:46
+<transcript>: Believe so we should have new let's see.
+
+00:26:46
+grasp5533: when are we getting the adam.tv news
+
+00:26:50
+<transcript>: Okay.
+
+00:26:57
+<transcript>: Am I storing this state.
+
+00:26:57
+<transcript>: on our
+
+00:27:04
+<transcript>: On our Zestan thing. The Elapsed stuff. Do I want that? Mmm. I don't know.
+
+00:27:08
+<transcript>: But basically we're gonna get rid of all of those.
+
+00:27:19
+<transcript>: Yes.
+
+00:27:21
+<transcript>: And then.
+
+00:27:21
+<transcript>: game
+
+00:27:22
+<transcript>: Game.
+
+00:27:25
+<transcript>: I want to store the game.
+
+00:27:25
+<transcript>: on this
+
+00:27:27
+<transcript>: On this. I guess I should.
+
+00:27:30
+<transcript>: I guess I should right.
+
+00:27:38
+<transcript>: Yeah so new game is going to be let's see.
+
+00:27:39
+dyalicode: can u give same description about ur project awguess ?
+
+00:27:40
+<transcript>: New game.
+
+00:27:49
+daryn_dev: !awguess
+
+00:27:49
+fossabot: awguess is a guessing game where you're given an AWS service icon and you have to choose the correct service! https://github.com/adamelmore/awguess
+
+00:27:54
+<transcript>: I need to do that.
+
+00:27:59
+<transcript>: Okay.
+
+00:28:05
+<transcript>: Set state.
+
+00:28:11
+<transcript>: And then I guess.
+
+00:28:14
+<transcript>: Save is active.
+
+00:28:19
+<transcript>: What I do here.
+
+00:28:23
+<transcript>: Okay new game.
+
+00:28:23
+<transcript>: just goes
+
+00:28:26
+<transcript>: Just goes to active. It sets the gang.
+
+00:28:30
+<transcript>: I guess it would clear out the round.
+
+00:28:32
+dyalicode: @daryn_dev tnx
+
+00:28:33
+<transcript>: Right.
+
+00:28:38
+<transcript>: Look, it clears out. Everything.
+
+00:28:41
+<transcript>: To clear out results.
+
+00:28:43
+<transcript>: This feels dirty? Why does this feel dirty.
+
+00:28:48
+<transcript>: Result in choice.
+
+00:28:52
+<transcript>: Sound resulting choice. Okay.
+
+00:28:56
+<transcript>: So really, am I carrying anything over from State? Not really.
+
+00:29:04
+<transcript>: so new games
+
+00:29:04
+<transcript>: Okay.
+
+00:29:09
+<transcript>: So new games. Is that answered? Does this.
+
+00:29:13
+<transcript>: What does answer to result.
+
+00:29:16
+<transcript>: Is undefined.
+
+00:29:20
+<transcript>: Round is unchanged. Game is unchanged.
+
+00:29:25
+<transcript>: State goes to pending and choices set okay.
+
+00:29:31
+<transcript>: Handle result.
+
+00:29:31
+<transcript>: yep
+
+00:29:33
+<transcript>: Yep, set state.
+
+00:29:36
+<transcript>: Okay.
+
+00:29:39
+<transcript>: New round.
+
+00:29:44
+<transcript>: Wipe out choice and results. Let's say to active.
+
+00:29:51
+<transcript>: Okay. I think this is all pretty good. Pretty good.
+
+00:29:58
+<transcript>: Hey, Grasp, when are we getting the Adam TV news.
+
+00:30:01
+<transcript>: Hopefully soon.
+
+00:30:10
+<transcript>: There have been some wrinkles.
+
+00:30:10
+<transcript>: some things
+
+00:30:11
+<transcript>: Some things that.
+
+00:30:11
+<transcript>: like i
+
+00:30:13
+<transcript>: Like I don't control.
+
+00:30:16
+<transcript>: or the sale of it
+
+00:30:16
+<transcript>: The Adam TV domain.
+
+00:30:17
+<transcript>: Or the sale of it.
+
+00:30:21
+<transcript>: There's someone else who owns it. So that's a wild card.
+
+00:30:21
+<transcript>: that
+
+00:30:23
+<transcript>: had originally
+
+00:30:23
+<transcript>: That person.
+
+00:30:30
+<transcript>: Had originally said something about what they would sell for, and they've since changed their mind. So.
+
+00:30:30
+<transcript>: that's been a wrinkle
+
+00:30:32
+<transcript>: that we're working through
+
+00:30:32
+<transcript>: That's been a wrinkle.
+
+00:30:34
+<transcript>: That we're working through? We're working through it.
+
+00:30:39
+<transcript>: And that's all I'll say about that.
+
+00:30:42
+<transcript>: so here
+
+00:30:42
+<transcript>: Okay.
+
+00:30:49
+<transcript>: So here's our timer thing. Okay. So I guess I need to use this. I need to use this thing, right.
+
+00:30:49
+<transcript>: const
+
+00:30:51
+<transcript>: equals
+
+00:30:51
+<transcript>: Const. State.
+
+00:30:51
+daryn_dev: You should try handle that runtime error ;)
+
+00:30:52
+<transcript>: use
+
+00:30:52
+<transcript>: Equals.
+
+00:30:55
+<transcript>: use game
+
+00:30:55
+<transcript>: Use what is it called.
+
+00:30:58
+<transcript>: Use Game. What did I call it? Game store.
+
+00:30:58
+<transcript>: i pass
+
+00:31:03
+<transcript>: I passed nothing to that. So this is my this is my first time using the stand.
+
+00:31:07
+<transcript>: I know nothing.
+
+00:31:07
+<transcript>: that is a gay
+
+00:31:14
+<transcript>: That is a gay state, though. Is it? Is it that simple? And that'll change, as I call those functions, I guess.
+
+00:31:20
+<transcript>: Right. So I no longer need game there because it's on the game. State.
+
+00:31:24
+<transcript>: So I can do like this right? Gang.
+
+00:31:24
+<transcript>: round
+
+00:31:26
+<transcript>: Round.
+
+00:31:28
+<transcript>: Choice.
+
+00:31:30
+<transcript>: Result.
+
+00:31:30
+<transcript>: state
+
+00:31:32
+<transcript>: State.
+
+00:31:41
+<transcript>: New round new game let's do game first new game new round.
+
+00:31:42
+<transcript>: Answers.
+
+00:31:44
+<transcript>: All of them.
+
+00:31:48
+<transcript>: New round is that one.
+
+00:31:57
+<transcript>: Is new round colored like that.
+
+00:32:00
+<transcript>: Maybe just because everything's broken and it doesn't like it.
+
+00:32:00
+<transcript>: we'll get
+
+00:32:02
+<transcript>: We'll get there.
+
+00:32:02
+<transcript>: new
+
+00:32:04
+<transcript>: New round.
+
+00:32:10
+<transcript>: Handle result new game. Okay, so I need to handle result.
+
+00:32:15
+<transcript>: Handle result.
+
+00:32:20
+<transcript>: So there's my state duplicate Identifier. Gotcha.
+
+00:32:23
+<transcript>: I already have a new round.
+
+00:32:31
+<transcript>: Okay on our timer. Let's see this is going to be round.
+
+00:32:36
+<transcript>: Everyone we see current round. We can replace that right.
+
+00:32:39
+<transcript>: Like this.
+
+00:32:43
+<transcript>: can be just
+
+00:32:43
+<transcript>: Current round.
+
+00:32:45
+<transcript>: Can be just round.
+
+00:32:53
+<transcript>: Let's see.
+
+00:32:53
+<transcript>: set
+
+00:33:02
+<transcript>: Set current round that's now gonna be so handle new game that's when you click the handle new game button, we go ahead and create a new game and a new round.
+
+00:33:02
+<transcript>: we're going
+
+00:33:04
+<transcript>: We're going to.
+
+00:33:06
+<transcript>: Set.
+
+00:33:11
+<transcript>: We're gonna do the new game. We pass the game, right.
+
+00:33:18
+<transcript>: We're gonna call new round.
+
+00:33:18
+<transcript>: password
+
+00:33:19
+<transcript>: Password.
+
+00:33:25
+<transcript>: Arguments.
+
+00:33:33
+<transcript>: Oh, yeah. Because we still have this new round here.
+
+00:33:36
+<transcript>: Okay.
+
+00:33:42
+<transcript>: Let's see if not round.
+
+00:33:49
+<transcript>: What is this button? This is a function that's called Down Below. Yeah, we'll handle that. Okay.
+
+00:33:58
+<transcript>: So handle new Game when you click the button the new Game button. This is what we do. We call New Game mutation. We call New Round mutation.
+
+00:33:58
+<transcript>: that new game
+
+00:34:03
+<transcript>: That new game. We sitting around that's kind of ugly, but like, it's fine. It works, right.
+
+00:34:09
+<transcript>: Okay, and then let's ignore this one for a SEC.
+
+00:34:09
+<transcript>: and we'll
+
+00:34:13
+<transcript>: you choose
+
+00:34:13
+<transcript>: And we'll answer, this is when you when you click a button.
+
+00:34:17
+<transcript>: You choose a choice, right? So we say it's not round. Return.
+
+00:34:17
+<transcript>: under
+
+00:34:19
+<transcript>: Under that.
+
+00:34:23
+<transcript>: I don't know why I'm doing that.
+
+00:34:26
+<transcript>: Oh, because I need to know that round is not.
+
+00:34:28
+<transcript>: Undefined. Okay.
+
+00:34:36
+<transcript>: So we call answer mutation, but we also need to appear. We need to say answer.
+
+00:34:44
+<transcript>: Choice. Right. That's going to set our state to pending and do all that stuff. That's what we can drive our UI off of. And then here.
+
+00:34:44
+<transcript>: we're going to
+
+00:34:47
+<transcript>: We're going to handle result.
+
+00:34:50
+<transcript>: I.
+
+00:35:07
+<transcript>: Expect.
+
+00:35:13
+<transcript>: New round expects around.
+
+00:35:21
+<transcript>: So I have to actually. Yeah. Up here.
+
+00:35:26
+<transcript>: That's actually create a new round. We were doing that here.
+
+00:35:26
+<transcript>: after
+
+00:35:29
+<transcript>: After a timeout. So we're kind of kind of we're gonna, like, run all this code.
+
+00:35:29
+<transcript>: down here
+
+00:35:31
+<transcript>: Down here.
+
+00:35:37
+<transcript>: Right.
+
+00:35:41
+<transcript>: Yeah.
+
+00:35:46
+<transcript>: And then we need okay, so.
+
+00:35:49
+<transcript>: set result
+
+00:35:49
+<transcript>: I'm not handled.
+
+00:35:52
+<transcript>: Set results undefined. I don't need to do that anymore.
+
+00:35:56
+<transcript>: We just need to call the new round mutation.
+
+00:35:56
+<transcript>: and
+
+00:35:58
+<transcript>: And then.
+
+00:36:00
+<transcript>: New round.
+
+00:36:01
+<transcript>: Response.
+
+00:36:04
+<transcript>: Okay.
+
+00:36:07
+<transcript>: You Following Everybody following.
+
+00:36:15
+<transcript>: Let's see. Darren. You should try. Handle that runtime error. What was the runtime error.
+
+00:36:21
+<transcript>: So Mr. Runtime error.
+
+00:36:29
+<transcript>: It's kind of a weird stream. I'm really like, I'm just doing stuff, not really interacting much. So I'm sorry for that. Everybody.
+
+00:36:34
+daryn_dev: :O
+
+00:36:36
+<transcript>: Or I'm not. I don't know. I get to deal with it on right now. Deal with it. Snot even interacting. Just doing stuff.
+
+00:36:43
+<transcript>: Well, hang out like lots of minutes. I got. I have no agenda here. Just thought I get a little something done.
+
+00:36:49
+<transcript>: Did I already fix all the errors? Oh, I'm not using state anywhere. Okay.
+
+00:36:50
+daryn_dev: Ok guys, he chose us over nothing, but still doesn't love us PoroSad
+
+00:36:54
+<transcript>: It doesn't seem like I should have already fixed all these errors, but.
+
+00:36:56
+<transcript>: I'll take it.
+
+00:37:00
+niftynate80: Stuff
+
+00:37:06
+<transcript>: So that is our timer thing.
+
+00:37:06
+<transcript>: and
+
+00:37:13
+<transcript>: And it'll answer and then handle result and then new round. Okay. All that looks good. So then down here.
+
+00:37:19
+<transcript>: Is this all just right? Game score. Oh, you know what I need to do is up here.
+
+00:37:19
+<transcript>: in our zone
+
+00:37:20
+<transcript>: In our zone.
+
+00:37:20
+<transcript>: thing
+
+00:37:25
+<transcript>: Thing when we handle results, we need to set game.
+
+00:37:32
+<transcript>: Result back game.
+
+00:37:43
+<transcript>: Once we were taking our score from Right, it's kind of weird that we have game. It's technically, it's in two places. It's kind of weird.
+
+00:37:43
+<transcript>: okay
+
+00:37:46
+<transcript>: Okay. So now.
+
+00:37:48
+<transcript>: Down here.
+
+00:37:49
+daryn_dev: I know how to get his attention
+
+00:37:52
+<transcript>: We can say.
+
+00:38:04
+<transcript>: Game. Okay, we show the game. Score it's there's not around. We give you a new game button, right.
+
+00:38:12
+<transcript>: Which we should instead of not around. We should say if.
+
+00:38:12
+<transcript>: eight
+
+00:38:14
+<transcript>: Eight is idle.
+
+00:38:20
+<transcript>: Is that right.
+
+00:38:20
+<transcript>: let's
+
+00:38:25
+<transcript>: Let's get a little more technically correct here. So state is idle. We show that button.
+
+00:38:25
+<transcript>: if
+
+00:38:26
+<transcript>: If.
+
+00:38:29
+<transcript>: Game? What was that? Therein.
+
+00:38:29
+<transcript>: goodness
+
+00:38:30
+<transcript>: short
+
+00:38:30
+<transcript>: Goodness.
+
+00:38:35
+<transcript>: Short stream given out gift subs oh, you know how to get my attention.
+
+00:38:37
+daryn_dev: GOT IT!
+
+00:38:42
+<transcript>: I hate that you spent money to get my attention. I could have given you attention some other way.
+
+00:38:46
+<transcript>: He chose us over nothing. But still this.
+
+00:38:47
+daryn_dev: Hahahahaha
+
+00:38:57
+<transcript>: You did get my attention. Thank you so much, Darren. Thanks so much for the gift substrate. You just showed up recently.
+
+00:38:57
+<transcript>: and
+
+00:38:59
+<transcript>: And you just started giving out subs.
+
+00:39:14
+<transcript>: And the image.
+
+00:39:16
+<transcript>: Right.
+
+00:39:18
+daryn_dev: People must know to Sub MaxLOL
+
+00:39:20
+<transcript>: Class.
+
+00:39:29
+<transcript>: Actually push all this stuff up when we're done here, it'd be a great productive hour.
+
+00:39:32
+<transcript>: State, what is that? State.
+
+00:39:36
+<transcript>: What is that state.
+
+00:39:40
+<transcript>: where's
+
+00:39:40
+<transcript>: See that.
+
+00:39:42
+<transcript>: Where's that.
+
+00:39:47
+<transcript>: Hey, oh, here we go.
+
+00:39:50
+<transcript>: Success or error.
+
+00:39:50
+<transcript>: that's
+
+00:39:53
+<transcript>: That's for the button.
+
+00:39:53
+<transcript>: like did you
+
+00:39:56
+<transcript>: Like, did you get the button right? That's different.
+
+00:40:10
+<transcript>: Okay. Well. Oh, yeah. I started to make that a motion that Div cuz. I was gonna do something with framer. What was it gonna do with this.
+
+00:40:13
+<transcript>: I don't need to do it anymore.
+
+00:40:18
+<transcript>: Right.
+
+00:40:21
+<transcript>: Not using framer anymore.
+
+00:40:21
+<transcript>: okay but
+
+00:40:23
+<transcript>: Okay, but we have a game. State.
+
+00:40:23
+<transcript>: and i think
+
+00:40:26
+<transcript>: And I think we're handling all that.
+
+00:40:26
+<transcript>: correctly
+
+00:40:27
+<transcript>: Correctly.
+
+00:40:27
+<transcript>: i think
+
+00:40:28
+<transcript>: I think.
+
+00:40:32
+<transcript>: I think so.
+
+00:40:47
+<transcript>: What did I want to do, though? At the beginning? Oh, yeah? I'm gonna say if it's expired so here we go. New game. Is this working? Yeah. If it's expired, we want to stop the timer. Right.
+
+00:40:53
+<transcript>: What is this IoT core? I have snowball edge. Of course. Okay, so up here.
+
+00:40:56
+<transcript>: We're gonna say right here.
+
+00:40:56
+<transcript>: we're gonna say
+
+00:40:58
+<transcript>: We're gonna say if.
+
+00:41:06
+<transcript>: You just do right here, right.
+
+00:41:09
+<transcript>: Say if.
+
+00:41:09
+<transcript>: if
+
+00:41:10
+<transcript>: If.
+
+00:41:11
+schrew: G (late) m adam!
+
+00:41:15
+<transcript>: State dot or State does not equal.
+
+00:41:17
+<transcript>: Fired.
+
+00:41:25
+<transcript>: How about that.
+
+00:41:25
+<transcript>: how about that
+
+00:41:27
+<transcript>: How about that.
+
+00:41:27
+<transcript>: does that work
+
+00:41:28
+<transcript>: Does that work.
+
+00:41:30
+daryn_dev: If it expires, shouldn't it perhaps highlight the correct answer for the user, and then proceed to the next round?
+
+00:41:30
+<transcript>: So Ground station.
+
+00:41:30
+<transcript>: it should stop the
+
+00:41:32
+<transcript>: It should stop the timer. It did not.
+
+00:41:36
+<transcript>: Why did it not.
+
+00:41:36
+<transcript>: oh because
+
+00:41:39
+<transcript>: if state
+
+00:41:39
+<transcript>: Oh, because it yeah, Yeah.
+
+00:41:44
+<transcript>: If state doesn't equal expired or pending right, it's actually a State is not equal pending.
+
+00:41:48
+<transcript>: it's pinning
+
+00:41:48
+<transcript>: Right.
+
+00:42:02
+<transcript>: It's pinning. We want to stop the timer. What is this? Something with Sage Maker augmented AI. Oh, okay. So it stopped for a second, and then it went straight to so it would only be a state is active. That's the better way to do this.
+
+00:42:02
+<transcript>: if state
+
+00:42:03
+<transcript>: is
+
+00:42:03
+<transcript>: If state.
+
+00:42:05
+<transcript>: Is active.
+
+00:42:14
+<transcript>: I'm gonna answer this.
+
+00:42:14
+<transcript>: one
+
+00:42:18
+<transcript>: One. I don't know. Okay. It's stopped the timer. That's what we were looking for.
+
+00:42:22
+<transcript>: Config last interface storage gateway store gateway.
+
+00:42:25
+<transcript>: Okay, we got the timer working.
+
+00:42:28
+<transcript>: We've got one point.
+
+00:42:28
+<transcript>: is that right
+
+00:42:29
+<transcript>: Is that right.
+
+00:42:29
+<transcript>: what is this
+
+00:42:32
+<transcript>: i don't know
+
+00:42:32
+<transcript>: What is this? What is this.
+
+00:42:33
+<transcript>: I don't know.
+
+00:42:35
+<transcript>: Bazillion tub.
+
+00:42:39
+<transcript>: I only learned recently that.
+
+00:42:39
+<transcript>: resili
+
+00:42:42
+<transcript>: Resilience hub is a thing. Is this Proton. What is this.
+
+00:42:45
+<transcript>: Mq.
+
+00:42:51
+<transcript>: Not a great start to this one. That's something with Kubernetes. Oh, Kafka. Of course.
+
+00:42:56
+<transcript>: Okay. So we need to figure out how we want to do the score.
+
+00:42:56
+<transcript>: like
+
+00:43:00
+<transcript>: Like display the score differently etc. Etc.
+
+00:43:05
+<transcript>: So good good late morning? Shrew.
+
+00:43:14
+<transcript>: If it expires, shouldn't produce, perhaps highlight the correct answer for the user and then proceed to the next round. Yes, Darren, it should. I don't think we're doing that yet. You're right.
+
+00:43:19
+<transcript>: It's should do that.
+
+00:43:27
+cowfacedude99: kind o hard to take you seriously with those glasses LUL
+
+00:43:34
+<transcript>: How we doing? Has there been doing? I didn't really talk at the beginning. I just kind of, like, jump straight into stuff because we just got an hour. It's a short, stream, cow face. Kind of hard to take you seriously with the glasses behind.
+
+00:43:42
+daryn_dev: MaxLOL
+
+00:43:49
+<transcript>: Oh, you know what? I never heard Monday. The people.
+
+00:43:49
+<transcript>: arrive in i
+
+00:43:51
+schrew: slept poorly last night :( not very productive today either :(
+
+00:43:51
+<transcript>: Arrive in Iceland.
+
+00:43:54
+<transcript>: I have not heard.
+
+00:43:54
+<transcript>: i
+
+00:43:56
+<transcript>: I haven't heard if it made it.
+
+00:43:59
+<transcript>: Need to follow up.
+
+00:43:59
+<transcript>: where's my
+
+00:44:02
+<transcript>: Where's my DMs? There we go. Whispers.
+
+00:44:05
+<transcript>: I don't guess sickmofos around is he.
+
+00:44:12
+<transcript>: i slept
+
+00:44:12
+<transcript>: Sure you slip. Pour that's like me too. That's why I didn't stream this morning.
+
+00:44:14
+<transcript>: I slept bad last night.
+
+00:44:17
+<transcript>: I got up at my normal time.
+
+00:44:17
+<transcript>: and i
+
+00:44:22
+<transcript>: And I put on some clothes. And then I was like, Nope. Right back to bed. Too tired.
+
+00:44:22
+<transcript>: so i'll stream
+
+00:44:30
+<transcript>: So I'll stream tomorrow my normal time, but yeah, some days just aren't very productive. I'm learning to accept that 15 years into my career.
+
+00:44:33
+<transcript>: I'm finally starting to accept there will be days.
+
+00:44:33
+<transcript>: that just aren't that
+
+00:44:36
+<transcript>: That just aren't that productive. And that's okay.
+
+00:44:39
+aaronshunter: Adam's Twitter brought me here: https://twitter.com/adamdotdev/status/1578021729641058305
+
+00:44:40
+cowfacedude99: mine apparently got lost into shipping :(
+
+00:44:41
+fredkisss: That moustache suits you well Kappa
+
+00:44:43
+<transcript>: All right. So Darren pointed out.
+
+00:44:43
+<transcript>: we need
+
+00:44:45
+<transcript>: We need to.
+
+00:44:54
+<transcript>: If it expires, move to the next round because I don't think we're doing anything right now. Yeah, yeah, we can see it. It's just sitting here.
+
+00:44:54
+<transcript>: when
+
+00:44:57
+<transcript>: When you show the correct answer, move to the next round.
+
+00:45:01
+<transcript>: Aaron's Hunter.
+
+00:45:01
+<transcript>: my twitter
+
+00:45:06
+<transcript>: My Twitter brought you here. Welcome, Aaron. I think a lot of people came here from Twitter.
+
+00:45:06
+<transcript>: ultimately
+
+00:45:10
+<transcript>: Ultimately, I think most of my audience lives on Twitter.
+
+00:45:14
+<transcript>: Calface years apparently got lost.
+
+00:45:14
+<transcript>: into shipping
+
+00:45:18
+<transcript>: i see
+
+00:45:18
+<transcript>: Into shipping. Oh, that's a joke. I see.
+
+00:45:19
+<transcript>: yeah sorry
+
+00:45:19
+<transcript>: I see.
+
+00:45:21
+aaronshunter: Aaron S Hunter, sir HeyGuys
+
+00:45:22
+daryn_dev: Nope. Recommended Channel
+
+00:45:25
+jezpoz: Just tuned in, found you on "Recommended channels" I guess the algorithm works then. I'm staying. Even signed up for public.dev, looking forward to test it when its ready! :D
+
+00:45:26
+fredkisss: *mustache (auto correct)
+
+00:45:32
+<transcript>: Yeah, sorry, county. Maybe the next one. You know what? Oh, that reminds me. I got two sons coming. I'm pumped. Mode is gonna I reached out to mode. They're gonna build they're gonna build one of my Sonets for me. I asked them if they would please.
+
+00:45:32
+<transcript>: because
+
+00:45:43
+<transcript>: Because they built this 80 and it sounds fantastic and there's just no way I'm gonna do as good a job as the folks. The fine folks at mode.
+
+00:45:43
+<transcript>: so
+
+00:45:44
+<transcript>: So.
+
+00:45:44
+<transcript>: modes building
+
+00:45:50
+<transcript>: i don't know
+
+00:45:50
+<transcript>: Modes building one of my Faunts. They built it yesterday. Actually, I'm very excited. It's gonna be a different look.
+
+00:45:56
+<transcript>: it's what
+
+00:45:56
+<transcript>: I don't know if you've seen this on it, if anyone here knows what I'm talking about, but it's a new keyboard that mode is making.
+
+00:46:12
+<transcript>: It's. What is that layout? It's not 60. It's like, it's like, shrink down this TKL that I've got, like, shoved the arrow keys into everything and keep a function row, though. I'll pull up a picture. We'll look at a picture. So, Darren, you came here.
+
+00:46:12
+<transcript>: from
+
+00:46:13
+<transcript>: From.
+
+00:46:25
+<transcript>: you can play
+
+00:46:25
+<transcript>: A recommended channel on Twitch. That's cool. Jez. Pause. Welcome to Chat. Just tune in. Found you on recommended channels. I guess the algorithm works. Then you're staying. Even signed up for public or Dev. That's awesome.
+
+00:46:28
+<transcript>: You can play with it now. Jazz paused.
+
+00:46:28
+<transcript>: here's
+
+00:46:28
+adamdotdev: !betakey
+
+00:46:29
+fossabot: Use beta key `adamisontwitch2` after signing up at public.dev.
+
+00:46:30
+<transcript>: Here's the Beta key.
+
+00:46:36
+<transcript>: In Fred Kiss. Thanks. My mustache shoots me. I don't know about that.
+
+00:46:36
+<transcript>: erin
+
+00:46:40
+<transcript>: Erin's. Welcome to Chad, as well. Thanks for for showing up.
+
+00:46:43
+<transcript>: Okay.
+
+00:46:43
+<transcript>: let's make some changes
+
+00:46:45
+<transcript>: Let's make some changes, and I'm gonna pull up the Sonic.
+
+00:46:48
+<transcript>: So mode.
+
+00:46:51
+<transcript>: Mode designs.
+
+00:46:55
+<transcript>: Here's. The sonnet, the shape of the son and everything.
+
+00:47:00
+<transcript>: I'm very curious, though some of the in the office.
+
+00:47:05
+<transcript>: I'm very curious what the acoustics are like.
+
+00:47:07
+<transcript>: Where's a picture of it.
+
+00:47:07
+<transcript>: we just do a picture
+
+00:47:11
+cowfacedude99: so it's like a 70%
+
+00:47:13
+<transcript>: is there a name
+
+00:47:13
+<transcript>: We just do a picture of it. There we go. That's the sonnet. So you like Shove? I don't know. What is this layout called.
+
+00:47:16
+<transcript>: it's definitely
+
+00:47:16
+<transcript>: Is there a name for this layout? It's like a 70%. Yeah.
+
+00:47:20
+<transcript>: It's definitely not a 60%. It's got the function row.
+
+00:47:20
+<transcript>: but
+
+00:47:20
+cowfacedude99: but with fn keys.
+
+00:47:26
+<transcript>: But it's kind of like a 60% with a function row. Is how I look at it. Yeah. 70%. Okay.
+
+00:47:33
+<transcript>: I don't even remember what colors and everything. I think I'm getting a white one. I don't know why. Black. Maybe.
+
+00:47:33
+<transcript>: anyway
+
+00:47:34
+<transcript>: Anyway.
+
+00:47:38
+<transcript>: There should be later this month, I think. Okay.
+
+00:47:38
+<transcript>: let's do
+
+00:47:41
+<transcript>: Let's do this. Let's do the expires thing.
+
+00:47:44
+<transcript>: Just happened.
+
+00:47:44
+<transcript>: okay let's
+
+00:47:47
+<transcript>: Okay, let's do when it expires.
+
+00:47:54
+<transcript>: Where do we want to listen to that? So let's see. Handle this game. Handle answer. This would be like nothing happened.
+
+00:48:00
+<transcript>: You didn't answer. So do we want to separate use effect that's kind of watching.
+
+00:48:06
+<transcript>: Oh, maybe we should put it on our store thing. I guess I should put most of my state in here, right.
+
+00:48:08
+<transcript>: expired
+
+00:48:08
+<transcript>: We should have handled.
+
+00:48:11
+<transcript>: Expired handle expired.
+
+00:48:15
+<transcript>: Is that a good idea.
+
+00:48:18
+<transcript>: Maybe.
+
+00:48:22
+<transcript>: the
+
+00:48:22
+<transcript>: And that would change.
+
+00:48:23
+<transcript>: The.
+
+00:48:29
+<transcript>: Way that would change the state.
+
+00:48:34
+<transcript>: To expire.
+
+00:48:50
+<transcript>: Substance doesn't have any way to do, like timed transitions or anything right where you can, like say then transition to this or run this after. I know, like if I did a full state machine with X state, I could do that kind of thing.
+
+00:48:51
+<transcript>: But.
+
+00:48:51
+<transcript>: i don't
+
+00:48:54
+<transcript>: I don't guess there's a way to do that in zestand.
+
+00:49:01
+<transcript>: What do I do? What I do wrong here. Argument type game. State. Boys nonstop.
+
+00:49:11
+<transcript>: Can I mess up? Oh, no. I don't understand what I did.
+
+00:49:13
+<transcript>: Set.
+
+00:49:18
+<transcript>: Something wrong with this? My missing.
+
+00:49:20
+<transcript>: No.
+
+00:49:24
+<transcript>: Oh, I didn't put prints. Yeah.
+
+00:49:26
+<transcript>: What did I just do.
+
+00:49:36
+<transcript>: Like that.
+
+00:49:38
+<transcript>: Oh.
+
+00:49:46
+<transcript>: Sometimes the Vin is not with me. I was the case for the vim.
+
+00:49:50
+<transcript>: Soak me for Sook me.
+
+00:49:58
+<transcript>: Wrong.
+
+00:50:04
+<transcript>: There's too many of those there we go. No. Still wrong.
+
+00:50:07
+<transcript>: Here.
+
+00:50:09
+<transcript>: Set.
+
+00:50:13
+<transcript>: Up. Start over. Undoing.
+
+00:50:15
+<transcript>: Let's start over.
+
+00:50:15
+<transcript>: set
+
+00:50:17
+<transcript>: Set? Here we go.
+
+00:50:20
+<transcript>: Everything's good. We're doing a set.
+
+00:50:22
+<transcript>: Eight.
+
+00:50:25
+<transcript>: And then we're gonna do like this.
+
+00:50:26
+<transcript>: Eight.
+
+00:50:33
+<transcript>: Valid JavaScript syntax.
+
+00:50:35
+<transcript>: Script, whatever.
+
+00:50:35
+<transcript>: i really
+
+00:50:42
+<transcript>: I really got I really gotta remove the Howdy partner because it freaked me out when I look up and I see this invisible hat on my head.
+
+00:50:45
+<transcript>: It's just something about it.
+
+00:50:47
+daryn_dev: NOOO
+
+00:50:49
+<transcript>: I'll make it a million points. Like the animatom.
+
+00:50:52
+daryn_dev: It's funny MaxLOL
+
+00:50:53
+tizi_kuro: is the keyboard you were searching before. is it good for games
+
+00:50:55
+<transcript>: No, you love the invisible hat on my head. Darren. I'll leave it just for you.
+
+00:51:00
+<transcript>: So State is expired.
+
+00:51:03
+<transcript>: What else happens when you, when it expires.
+
+00:51:04
+daryn_dev: Aww <3
+
+00:51:09
+<transcript>: Choice and result.
+
+00:51:09
+<transcript>: and round
+
+00:51:09
+daryn_dev: Just for that
+
+00:51:13
+<transcript>: And round will change, but those will change when we set a new round.
+
+00:51:21
+<transcript>: We'll just go to expired state. We're gonna have to listen. Well, here we would know right here. Right it's if expired.
+
+00:51:21
+<transcript>: sorry
+
+00:51:24
+<transcript>: Sorry it's a lapse is greater than.
+
+00:51:24
+<transcript>: darren
+
+00:51:25
+<transcript>: Darren.
+
+00:51:25
+<transcript>: darren
+
+00:51:27
+<transcript>: Darren.
+
+00:51:31
+<transcript>: Darren, with the gifts, Hub. Thank you so much, Darren.
+
+00:51:31
+<transcript>: you're up to
+
+00:51:38
+<transcript>: You're up to a lot now. You've gifted so many guests. Somebody gets subs. You've just been here for like two days. I think you've seen two of my streams.
+
+00:51:48
+<transcript>: The keyboard you were searching before. Is it good for games? I have no idea. It's a mechanical keyboard. So.
+
+00:51:48
+<transcript>: if you
+
+00:51:51
+<transcript>: If you like mechanical keyboards.
+
+00:51:56
+daryn_dev: This is the 2nd stream, yes MaxLOL MaxLOL MaxLOL MaxLOL MaxLOL
+
+00:52:01
+<transcript>: They just I think I like them because they're attractive. And they're very well made. So they're like all metal. They're just like, heavy. And they're nice. They're really nice. They're really nice.
+
+00:52:04
+<transcript>: Second stream. Darren.
+
+00:52:04
+<transcript>: just
+
+00:52:06
+<transcript>: Just came on strong.
+
+00:52:12
+<transcript>: I like having you around. It's funny. The the streaming. Like the evolution.
+
+00:52:20
+<transcript>: Of streaming. I got this is my third month of streaming, and I feel like every month, it's like a different crowd. It's like.
+
+00:52:28
+<transcript>: There's still people who are here like Frag, has been here since the beginning and Strewp. And there's still people that true. I mean, people that have been around a long time.
+
+00:52:31
+<transcript>: What was that.
+
+00:52:35
+<transcript>: Something either fell in my office.
+
+00:52:35
+<transcript>: hang on
+
+00:52:36
+<transcript>: Hang on.
+
+00:52:43
+<transcript>: There was a loud noise. I don't know what it was.
+
+00:52:47
+<transcript>: Something meant something may have fallen.
+
+00:52:53
+<transcript>: Let's see a lap. So we could say if.
+
+00:52:56
+delvoid: greenscreen fell over Kappa
+
+00:52:57
+<transcript>: Elapse is greater than 100 or equals 100.
+
+00:52:57
+<transcript>: that means it
+
+00:52:59
+<transcript>: That means it expired. Right.
+
+00:53:07
+<transcript>: Could we handle expired in that case.
+
+00:53:09
+<transcript>: Maybe.
+
+00:53:11
+<transcript>: What do we think.
+
+00:53:11
+<transcript>: how do i
+
+00:53:13
+<transcript>: How do I want to do this.
+
+00:53:13
+<transcript>: because
+
+00:53:17
+<transcript>: Because there's some things we have to do in that case.
+
+00:53:26
+<transcript>: Let's see, let's just do it. Let's say.
+
+00:53:31
+<transcript>: If current is greater than expired.
+
+00:53:47
+<transcript>: Then here we're going to say handle expired.
+
+00:53:53
+<transcript>: Oh, I got to do it up here.
+
+00:53:56
+<transcript>: Handle expired.
+
+00:53:58
+<transcript>: Okay.
+
+00:54:04
+<transcript>: So we're gonna handle expired in that case. And then should I just have a use effect.
+
+00:54:14
+<transcript>: i don't know
+
+00:54:14
+<transcript>: So just have a use effect maybe like this.
+
+00:54:22
+<transcript>: so
+
+00:54:22
+<transcript>: I don't know. This still feels kind of gross. Like, shouldn't I be able to avoid some of this growth stuff with this stand? I could just do this.
+
+00:54:25
+daryn_dev: Is it possible to gift more subs than there are available viewers? O_o
+
+00:54:25
+<transcript>: So have an effect that reacts to state.
+
+00:54:27
+<transcript>: Right.
+
+00:54:32
+<transcript>: So if State equals expired.
+
+00:54:37
+<transcript>: Like I want to fire off.
+
+00:54:40
+<transcript>: Want to fire off like.
+
+00:54:50
+<transcript>: The new round here. Right. I want to show the actual result, so I guess handle expired is kind of complicated. We need to.
+
+00:54:50
+<transcript>: need actually
+
+00:54:55
+<transcript>: Need actually get the answer. So get the correct answer.
+
+00:55:01
+<transcript>: We don't want to manipulate the score, though. It's like we need a new we need a new.
+
+00:55:08
+<transcript>: Function right here on the back end. So we have answer but we need to know.
+
+00:55:17
+<transcript>: We need like a just get the response. I guess we could change the answer.
+
+00:55:17
+<transcript>: one
+
+00:55:18
+<transcript>: One.
+
+00:55:22
+<transcript>: Could change the answer.
+
+00:55:27
+<transcript>: To accept. Yeah. So choice could be optional, I guess. Right.
+
+00:55:27
+<transcript>: think for the
+
+00:55:30
+<transcript>: green screen
+
+00:55:30
+<transcript>: Think for the follow. Despose. Just pause.
+
+00:55:33
+<transcript>: Green screen fell over. I don't think so.
+
+00:55:41
+<transcript>: Is it possible to get more subs than there are available viewers therein? I don't know, but I don't want to answer because I don't want you to do to go gifting a ton of subs.
+
+00:55:48
+<transcript>: Don't there's 63 viewers there, and so I don't think you need to gift 63.
+
+00:55:48
+<transcript>: subs
+
+00:55:54
+<transcript>: Subs. Also a lot of them the people viewing are subbed so they can't receive a gift if they're already Subd. Right.
+
+00:55:56
+daryn_dev: xD
+
+00:56:00
+rihanshazih: they can ;)
+
+00:56:05
+daryn_dev: :O
+
+00:56:06
+<transcript>: I don't even know if you know that I donate the proceeds.
+
+00:56:13
+<transcript>: I'll pay out on Twitter. I donate to trade war organizations. Mostly they're gonna be organizations to do what.
+
+00:56:13
+<transcript>: the diversity
+
+00:56:15
+<transcript>: so
+
+00:56:15
+<transcript>: The Diversity in tech.
+
+00:56:19
+<transcript>: So we've only had one payout. We donated that to girls who code.
+
+00:56:21
+cowfacedude99: I think so. they maybe go to the people who have been here before.
+
+00:56:22
+<transcript>: Just so you know.
+
+00:56:33
+<transcript>: If anyone on the stream didn't know that all these gifts. I appreciate them a whole lot. They go to a good cause. I think so. They maybe go to the people who have been here before. It makes sense.
+
+00:56:35
+daryn_dev: Oh, awesome! Even more reason to gift subs <3 <3 <3
+
+00:56:40
+<transcript>: you do it like
+
+00:56:40
+<transcript>: Then makes sense. Okay. So choice doesn't have a minimum. Is basically what I'm saying now. Right.
+
+00:56:42
+<transcript>: You do it like this.
+
+00:56:42
+<transcript>: was less than
+
+00:56:44
+<transcript>: Was less than no.
+
+00:56:44
+<transcript>: the choice could be
+
+00:56:47
+<transcript>: The choice could be empty if choices empty.
+
+00:56:51
+<transcript>: Let's see, where do we have choice.
+
+00:56:51
+<transcript>: round any
+
+00:56:53
+<transcript>: Round any answer equals choice, so it would be incredible.
+
+00:56:58
+<transcript>: Which is correct. Right? Like that's the correct behavior on the back end.
+
+00:57:03
+delvoid: you can do .optional() i think
+
+00:57:04
+<transcript>: For the answer like you got it wrong. If you don't pass a choice, then you got it wrong right.
+
+00:57:06
+<transcript>: Yeah.
+
+00:57:09
+<transcript>: That sounds right.
+
+00:57:09
+<transcript>: okay
+
+00:57:09
+rihanshazih: "incorrect, which is correct" - adam
+
+00:57:13
+<transcript>: Okay, so handle expired needs to do some things.
+
+00:57:19
+<transcript>: On expired.
+
+00:57:22
+<transcript>: For expiration.
+
+00:57:24
+<transcript>: On expiration.
+
+00:57:24
+<transcript>: on
+
+00:57:26
+<transcript>: On expired I don't know.
+
+00:57:30
+cowfacedude99: I have gotten subs like that from other streams two or three times.
+
+00:57:35
+<transcript>: We need to do some things. One of those things is handle expired. That updates our state, right.
+
+00:57:42
+<transcript>: But one what we also need to do is call andromutation.
+
+00:57:46
+<transcript>: Right Const response equals.
+
+00:57:50
+<transcript>: Await answers? Mutation.
+
+00:57:54
+<transcript>: What are we going to do here.
+
+00:57:56
+<transcript>: You take a sink.
+
+00:58:01
+<transcript>: And we're gonna pass the round ID.
+
+00:58:08
+<transcript>: right
+
+00:58:08
+<transcript>: And then choice. We'll just pass. Choice.
+
+00:58:09
+<transcript>: Right.
+
+00:58:12
+<transcript>: Async.
+
+00:58:15
+daryn_dev: Alright, I'm out to grab dinner. Cheers all :)  Have a great day further!
+
+00:58:16
+<transcript>: What's it saying? Saying I have to pass a choice.
+
+00:58:16
+<transcript>: how do i make
+
+00:58:18
+<transcript>: How do I make it optional.
+
+00:58:22
+<transcript>: How do I someone tell me how I make it optional over here.
+
+00:58:30
+<transcript>: Oh, There we go.
+
+00:58:33
+<transcript>: Twisted is now optional.
+
+00:58:36
+<transcript>: This should be string? We're in the find? Yeah, Yeah.
+
+00:58:39
+<transcript>: Okay.
+
+00:58:39
+<transcript>: like
+
+00:58:41
+<transcript>: Like the answer.
+
+00:58:43
+<transcript>: So.
+
+00:58:43
+<transcript>: here
+
+00:58:45
+<transcript>: Here.
+
+00:58:48
+<transcript>: What's wrong with this.
+
+00:58:49
+<transcript>: could round
+
+00:58:51
+<transcript>: Could round be undefined Yeah.
+
+00:58:56
+delvoid: enjoy the food daryn_dev
+
+00:59:05
+<transcript>: Let's just say this unexpired if not round return. I don't know. This all feels really bad when I do that kind of thing because it's like what are the conditions where on expired would be called with no round? I don't know, but seems bad.
+
+00:59:09
+cowfacedude99: won't there be a timeout for a few sec showing the correct answer before starting a new round when the round is expired?
+
+00:59:18
+<transcript>: I guess handle expired should be actually no, it should just be. I don't need handle expired. We just call handle result.
+
+00:59:20
+<transcript>: Right.
+
+00:59:20
+<transcript>: yeah
+
+00:59:22
+<transcript>: Yeah.
+
+00:59:25
+<transcript>: i'm doing the wrong
+
+00:59:25
+<transcript>: Sorry? What.
+
+00:59:27
+<transcript>: I'm doing the wrong thing.
+
+00:59:27
+<transcript>: i'm going to do
+
+00:59:29
+<transcript>: I'm going to do Gr. Yeah.
+
+00:59:29
+<transcript>: result
+
+00:59:30
+<transcript>: Result.
+
+00:59:34
+<transcript>: Okay. So we can delete this.
+
+00:59:51
+<transcript>: Okay.
+
+00:59:59
+<transcript>: So on expired we call anti mutation let's see.
+
+01:00:01
+<transcript>: First.
+
+01:00:01
+<transcript>: we
+
+01:00:09
+<transcript>: We should we should do something here to prevent it from double firing. Right. So we want to answer that. We want to say.
+
+01:00:12
+<transcript>: If round.
+
+01:00:13
+cowfacedude99: or will there be a button showing `next round`?
+
+01:00:14
+<transcript>: Or.
+
+01:00:17
+<transcript>: Answer mutation.
+
+01:00:19
+<transcript>: Is.
+
+01:00:22
+<transcript>: Loading.
+
+01:00:25
+<transcript>: Right.
+
+01:00:32
+<transcript>: I just don't want to call it twice. So once we call this.
+
+01:00:32
+<transcript>: we hand
+
+01:00:34
+<transcript>: We handle the result.
+
+01:00:39
+<transcript>: And then handle result.
+
+01:00:45
+<transcript>: So here and then we do this whole thing. I should move this into a function, I guess.
+
+01:00:53
+<transcript>: We could do the whole thing, actually. Right.
+
+01:00:56
+<transcript>: Answer.
+
+01:00:59
+<transcript>: Do I need to do this whole thing.
+
+01:01:08
+<transcript>: I guess it could just be handled. Answer. We just call this thing right.
+
+01:01:08
+<transcript>: so
+
+01:01:10
+<transcript>: So.
+
+01:01:12
+<transcript>: Like this, right.
+
+01:01:15
+<transcript>: Answer.
+
+01:01:21
+<transcript>: Can be choice can be optional is what I'm getting at.
+
+01:01:27
+<transcript>: Okay.
+
+01:01:30
+<transcript>: So if you didn't answer in time we answer for you.
+
+01:01:34
+<transcript>: Choice would then be undefined.
+
+01:01:38
+<transcript>: Okay, then we can just call handle, answer.
+
+01:01:42
+<transcript>: Right. And it'll do all the stuff.
+
+01:01:45
+<transcript>: So here on expired we just do.
+
+01:01:50
+<transcript>: Need on expired then.
+
+01:01:53
+<transcript>: Let's just DAFF that.
+
+01:01:56
+<transcript>: And then here.
+
+01:01:56
+<transcript>: handle
+
+01:01:59
+<transcript>: Handle, answer.
+
+01:02:09
+<transcript>: Syntax somewhere.
+
+01:02:09
+<transcript>: oh
+
+01:02:10
+<transcript>: Oh.
+
+01:02:12
+<transcript>: I haven't I do this.
+
+01:02:14
+<transcript>: Oh.
+
+01:02:17
+<transcript>: No.
+
+01:02:21
+<transcript>: I deleted too much somewhere.
+
+01:02:30
+<transcript>: Oh, Trippy, what did I do? Let's see.
+
+01:02:30
+<transcript>: that
+
+01:02:37
+<transcript>: That set interval handle. What is that? I believe at the beginning of this function.
+
+01:02:44
+<transcript>: Right. That use effect. So can I not dash that? Oh, yeah, it's deleting too much.
+
+01:02:44
+<transcript>: what about
+
+01:02:46
+<transcript>: What about DAP.
+
+01:02:52
+<transcript>: I could just delete all that we'll just do like that. Okay.
+
+01:02:57
+<transcript>: Handle, answer.
+
+01:03:01
+<transcript>: I guess I need handle answer. Here.
+
+01:03:04
+<transcript>: Okay. Does that work.
+
+01:03:04
+<transcript>: oh what's wrong
+
+01:03:09
+<transcript>: Oh, what's wrong here? Oh, yeah. We need to wrap it in.
+
+01:03:13
+<transcript>: Yeah? Yeah? We need to make this.
+
+01:03:18
+<transcript>: Handle, answer.
+
+01:03:30
+<transcript>: And then we're gonna put it in a.
+
+01:03:34
+<transcript>: Use callback right.
+
+01:03:36
+<transcript>: Back that use callback.
+
+01:03:40
+<transcript>: Oh, Geez, it's ten.
+
+01:03:48
+<transcript>: Okay.
+
+01:03:54
+<transcript>: What's wrong.
+
+01:03:58
+<transcript>: Did I forget the rate dependencies? I sure did.
+
+01:04:00
+<transcript>: Oh.
+
+01:04:00
+<transcript>: geez
+
+01:04:03
+<transcript>: Geez I'm panicking.
+
+01:04:08
+yetieaterxb1: Why useCallback?
+
+01:04:10
+<transcript>: Okay.
+
+01:04:14
+<transcript>: We gotta move it, we're gonna move.
+
+01:04:17
+<transcript>: Oh, I just ended that.
+
+01:04:35
+<transcript>: Worked? Let's just test her real quick and then I gotta go.
+
+01:04:41
+<transcript>: Why use call back because we were using it. Is it a it's a dependency and another hook.
+
+01:04:41
+<transcript>: what
+
+01:04:44
+<transcript>: okay
+
+01:04:44
+<transcript>: What is this? Code build.
+
+01:04:47
+<transcript>: Okay, let's let one expire and just see what it does.
+
+01:04:55
+<transcript>: It want to be a timeout for a few seconds during the correct answer for the starting area. Yes, I believe so. Cafes, we're about to find out here.
+
+01:04:55
+yetieaterxb1: Ah didnt see the dependency thanks!
+
+01:05:01
+<transcript>: See you, Darren. Sorry, I miss it. Okay. It should show us the correct answer. Oh, it's doing it in an infant loop. Okay. On the note.
+
+01:05:04
+<transcript>: On that note.
+
+01:05:08
+<transcript>: We gotta end it? I'm running over my wife's looking for me.
+
+01:05:13
+<transcript>: I've gotten stuff like that from Ocean two or three times incorrect. Which is correct.
+
+01:05:17
+<transcript>: Dot optional. Thank you. Del void. I missed that.
+
+01:05:21
+<transcript>: Okay. I'm just catching up.
+
+01:05:21
+<transcript>: yeti
+
+01:05:24
+<transcript>: Yeti welcome to chat.
+
+01:05:24
+<transcript>: welcome
+
+01:05:24
+mjewl: adamdo8DealWithIt
+
+01:05:26
+<transcript>: Welcome, welcome.
+
+01:05:30
+<transcript>: for
+
+01:05:30
+<transcript>: So, Kathy, she said, Won't there be a timeout.
+
+01:05:43
+<transcript>: i basically just
+
+01:05:43
+<transcript>: For a few seconds, showing the correct answer before starting a new round. When this the round is expired. Yeah. I think if we do it right, if I don't have an infinite loop, I think that's the behavior it won't show a button. It'll just like take you to the next one, just like it does when you answer.
+
+01:05:45
+<transcript>: not right
+
+01:05:45
+<transcript>: I basically just answered no for you.
+
+01:05:46
+<transcript>: Not right.
+
+01:05:48
+<transcript>: Alright.
+
+01:05:48
+<transcript>: yeti thanks
+
+01:05:53
+<transcript>: Yeti. Thanks so much for the follow. I look forward to seeing you all tomorrow morning. I'll be back tomorrow morning.
+
+01:05:53
+<transcript>: there's a short
+
+01:05:55
+<transcript>: There's a short stream today.
+
+01:05:55
+<transcript>: just
+
+01:05:55
+delvoid: adamdo8Adambar
+
+01:06:01
+yeltrah_: Going into a call, have a good one @adamdotdev
+
+01:06:04
+<transcript>: Just in an hour. Because I have an hour and one see you all. So there you go. It's been a lot of fun. I'm gonna have a Larry Bar. That's right. Double Wood. Maybe we could do it again sometime.
+
+01:06:08
+yozd82: take care, bye!
+
+01:06:08
+delvoid: Later buddy

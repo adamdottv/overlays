@@ -3,7 +3,7 @@ import fs from "fs"
 import { randomItem } from "./utils"
 import TwitchController from "./twitch"
 
-const pathToJsonFile = "./giveaway.json"
+const pathToJsonFile = "./data/giveaways/current.json"
 const giveawayRewardId = "3f1bbe3d-9188-4150-938d-07b8d0bf8f85"
 
 export default class GiveawaysController {
@@ -29,17 +29,8 @@ export default class GiveawaysController {
 
   async start() {
     this.entrants = []
-    console.log("================")
-    console.log(this.twitch.enableReward)
 
     await this.twitch.enableReward(giveawayRewardId)
-
-    fs.copyFileSync(
-      pathToJsonFile,
-      `./giveaways/${new Date().toISOString()}.json`
-    )
-    fs.writeFileSync(pathToJsonFile, "[]")
-
     await this.twitch.chatClient?.announce(
       this.twitch.username,
       "Let the giveaway begin! Redeem your channel points now!"
@@ -64,5 +55,11 @@ export default class GiveawaysController {
       `AND THE WINNER IS: @${winner}!`
     )
     this.ws.emit("giveaway-winner-selected", { winner })
+
+    fs.copyFileSync(
+      pathToJsonFile,
+      `./data/giveaways/${new Date().toISOString()}.json`
+    )
+    fs.rmSync(pathToJsonFile)
   }
 }

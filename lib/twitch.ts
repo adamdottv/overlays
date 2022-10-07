@@ -164,12 +164,12 @@ export type TwitchEvent =
 export interface TwitchEventSubscription {
   id: string
   status:
-    | "enabled"
-    | "webhook_callback_verification_pending"
-    | "webhook_callback_verification_failed"
-    | "notification_failures_exceeded"
-    | "authorization_revoked"
-    | "user_removed"
+  | "enabled"
+  | "webhook_callback_verification_pending"
+  | "webhook_callback_verification_failed"
+  | "notification_failures_exceeded"
+  | "authorization_revoked"
+  | "user_removed"
   type: string
   version: string
   condition: { broadcaster_user_id: string }
@@ -270,9 +270,9 @@ export default class TwitchController extends EventEmitter {
   }
 
   async enableReward(id: string) {
-    console.log(`ENABLING REWARD: ${id}`)
     try {
       await this.apiClient?.channelPoints.updateCustomReward(this.userId, id, {
+        isEnabled: true,
         isPaused: false,
       })
     } catch (error) {
