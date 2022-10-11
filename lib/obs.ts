@@ -1,10 +1,9 @@
 import OBSWebSocket from "obs-websocket-js"
 import { delay } from "./utils"
 import WsController from "./ws"
-
-import metadata from "../stream.json"
-import EventEmitter from "events"
-const guestMode = metadata.mode === "guest"
+import { CustomServer } from "./server"
+import SnapController from "./snap"
+import StreamController, { Guest } from "./stream"
 
 export type Scene =
   | "Init"
@@ -23,11 +22,69 @@ export type Source =
   | "Overlay (Intro)"
   | "Overlay (Break)"
   | "Overlay (Outro)"
+  | "Camera (Guest)"
 
-export default class ObsController extends EventEmitter {
+export default class ObsController {
   obs = new OBSWebSocket()
   currentScene: Scene | undefined
-  wsController: WsController
+
+  private server: CustomServer
+  private wsController: WsController
+  private snapController: SnapController
+  private streamController: StreamController
+
+  constructor(
+    server: CustomServer,
+    wsController: WsController,
+    snapController: SnapController,
+    streamController: StreamController
+  ) {
+    this.server = server
+    this.wsController = wsController
+    this.snapController = snapController
+    this.streamController = streamController
+    this.initObsWebsocket()
+
+    this.server.on("guest-joined", this.handleGuestJoined.bind(this))
+    this.server.on("guest-left", this.handleGuestLeft.bind(this))
+    this.server.on("snap-filter-set", this.handleSnapFilterSet.bind(this))
+    this.server.on(
+      "snap-filter-cleared",
+      this.handleSnapFilterCleared.bind(this)
+    )
+  }
+
+  private async handleSnapFilterSet(_filter: string) {
+    if (this.currentScene === "Camera (HD)") {
+      this.setScene("Camera")
+    }
+  }
+
+  private async handleSnapFilterCleared() {
+    if (this.currentScene === "Camera") {
+      this.setScene("Camera (HD)")
+    }
+  }
+
+  private async handleGuestJoined(_guest: Guest) {
+    await this.refreshBrowserSource("Camera (Guest)")
+
+    if (this.currentScene?.startsWith("Camera")) {
+      this.setScene("Camera (w/ Guest)")
+    } else if (this.currentScene?.startsWith("Screen")) {
+      this.setScene("Screen (w/ Guest)")
+    }
+  }
+
+  private async handleGuestLeft(_guest: Guest) {
+    await this.refreshBrowserSource("Camera (Guest)")
+
+    if (this.currentScene?.startsWith("Camera")) {
+      this.setScene("Camera")
+    } else if (this.currentScene?.startsWith("Screen")) {
+      this.setScene("Screen")
+    }
+  }
 
   private async initObsWebsocket() {
     await this.obs.connect("ws://localhost:4455")
@@ -37,18 +94,11 @@ export default class ObsController extends EventEmitter {
 
     this.obs.on("CurrentProgramSceneChanged", (data) => {
       this.currentScene = data.sceneName as Scene
-      this.emit("sceneChange", this.currentScene)
+      this.server.emit("sceneChange", this.currentScene)
     })
 
     await this.refreshBrowserSource("Shared")
     await this.refreshBrowserSource("Overlay")
-  }
-
-  constructor(wsController: WsController) {
-    super()
-
-    this.wsController = wsController
-    this.initObsWebsocket()
   }
 
   async endStream() {
@@ -63,28 +113,30 @@ export default class ObsController extends EventEmitter {
   }
 
   async setScene(sceneName: Scene) {
-    this.currentScene = sceneName
-    this.emit("sceneChange", sceneName)
+    const hasGuest = !!this.streamController.guest
+
+    let scene = sceneName
+    if (scene === "Camera" && !this.snapController.currentFilter) {
+      scene = "Camera (HD)"
+    } else if (scene === "Camera (HD)" && this.snapController.currentFilter) {
+      scene = "Camera"
+    }
+
+    if (scene.startsWith("Camera") && hasGuest) {
+      scene = "Camera (w/ Guest)"
+    } else if (scene.startsWith("Screen") && hasGuest) {
+      scene = "Screen (w/ Guest)"
+    }
+
+    this.currentScene = scene
+    this.server.emit("sceneChange", scene)
 
     return this.obs.call("SetCurrentProgramScene", {
-      sceneName,
+      sceneName: scene,
     })
   }
 
-  async switchScene(to: Scene) {
-    console.log(`Switching to ${to}`)
-    if (to === "Camera" && guestMode) {
-      this.transition("Camera (w/ Guest)")
-    } else if (to === "Screen" && guestMode) {
-      this.transition("Screen (w/ Guest)")
-    } else if (to === "Camera") {
-      this.transition("Camera (HD)")
-    } else {
-      this.transition(to)
-    }
-  }
-
-  private async transition(to: Scene) {
+  async transition(to: Scene) {
     this.wsController.emit("transitioning", true)
 
     await delay(800)
@@ -99,7 +151,6 @@ export default class ObsController extends EventEmitter {
       case "Camera (HD)":
       case "Camera (w/ Guest)":
         await Promise.all([
-          // toggleLight(false),
           fetch(url(camera1, "setLive")),
           fetch(url(camera2, "setOff")),
           this.setScene(to),
@@ -109,7 +160,6 @@ export default class ObsController extends EventEmitter {
       case "Screen":
       case "Screen (w/ Guest)":
         await Promise.all([
-          // toggleLight(true),
           this.setScene(to),
           fetch(url(camera2, "setLive")),
           fetch(url(camera1, "setOff")),

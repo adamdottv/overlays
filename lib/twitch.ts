@@ -7,9 +7,7 @@ import { CustomServer } from "./server"
 import { ShellScriptReward, SnapFilterReward, Reward } from "./rewards"
 import open from "open"
 import SnapController from "./snap"
-import GiveawaysController from "./giveaways"
-import { EventEmitter } from "stream"
-import ObsController, { Scene } from "./obs"
+import { Scene } from "./obs"
 import { randomItem } from "./utils"
 
 export interface TwitchChatEvent {
@@ -164,12 +162,12 @@ export type TwitchEvent =
 export interface TwitchEventSubscription {
   id: string
   status:
-  | "enabled"
-  | "webhook_callback_verification_pending"
-  | "webhook_callback_verification_failed"
-  | "notification_failures_exceeded"
-  | "authorization_revoked"
-  | "user_removed"
+    | "enabled"
+    | "webhook_callback_verification_pending"
+    | "webhook_callback_verification_failed"
+    | "notification_failures_exceeded"
+    | "authorization_revoked"
+    | "user_removed"
   type: string
   version: string
   condition: { broadcaster_user_id: string }
@@ -181,10 +179,11 @@ export interface TwitchEventSubscription {
   cost: number
 }
 
-export default class TwitchController extends EventEmitter {
+const rewardsPath = "./data/rewards.json"
+
+export default class TwitchController {
   private server: CustomServer
   private snap: SnapController
-  private obs: ObsController
   private apiClient?: ApiClient
   private clientId = process.env.TWITCH_CLIENT_ID as string
   private clientSecret = process.env.TWITCH_CLIENT_SECRET as string
@@ -196,13 +195,11 @@ export default class TwitchController extends EventEmitter {
 
   chatClient?: ChatClient
 
-  constructor(server: CustomServer, snap: SnapController, obs: ObsController) {
-    super()
+  constructor(server: CustomServer, snap: SnapController) {
     this.server = server
     this.snap = snap
-    this.obs = obs
 
-    this.obs.on("sceneChange", (scene) => this.handleSceneChange(scene))
+    this.server.on("sceneChange", (scene) => this.handleSceneChange(scene))
     this.setup()
   }
 
@@ -220,7 +217,7 @@ export default class TwitchController extends EventEmitter {
 
   async setupRewards() {
     const saved = JSON.parse(
-      readFileSync("./rewards.json", {
+      readFileSync(rewardsPath, {
         encoding: "utf-8",
       })
     ) as Reward[]
@@ -261,7 +258,7 @@ export default class TwitchController extends EventEmitter {
       }
     }
 
-    writeFileSync("./rewards.json", JSON.stringify(this.rewards, undefined, 2))
+    writeFileSync(rewardsPath, JSON.stringify(this.rewards, undefined, 2))
   }
 
   setupApiClient() {
@@ -391,7 +388,7 @@ export default class TwitchController extends EventEmitter {
         message: string,
         msg: PrivateMessage
       ) => {
-        this.emit("new-chat-message", { channel, user, message })
+        this.server.emit("new-chat-message", { channel, user, message })
 
         this.server.ws.emit("twitch-chat-event", {
           channel,
@@ -410,10 +407,10 @@ export default class TwitchController extends EventEmitter {
         await this.redeem(event as TwitchChannelRedemptionEvent)
         break
       case "stream.online":
-        this.emit("online")
+        this.server.emit("online")
         break
       case "stream.offline":
-        this.emit("offline")
+        this.server.emit("offline")
         break
 
       default:
@@ -444,7 +441,7 @@ export default class TwitchController extends EventEmitter {
     }
 
     if (reward?.scene) {
-      await this.server.obs.switchScene(reward.scene)
+      await this.server.obs.setScene(reward.scene)
     }
   }
 
@@ -471,7 +468,7 @@ export default class TwitchController extends EventEmitter {
   }
 
   async redeemGiveawayEntry(username: string) {
-    this.emit("new-giveaway-entry", username)
+    this.server.emit("new-giveaway-entry", username)
   }
 
   async redeemMeeting(event: TwitchChannelRedemptionEvent) {

@@ -5,7 +5,7 @@ import { AudioSpectrum, Overlay, Grid, BrandMark } from "../components"
 import { fadeAudioOut } from "../lib/audio"
 import React from "react"
 import { delay } from "../lib/utils"
-import { NextApiResponseServerIO } from "../lib"
+import { CustomNextApiResponse } from "../lib"
 import { getStreamInfo, GetStreamResponse } from "../lib/stream"
 
 export interface OutroSsrProps {
@@ -16,7 +16,7 @@ export interface OutroSsrProps {
 export const getServerSideProps: GetServerSideProps<OutroSsrProps> = async (
   context
 ) => {
-  const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
+  const rawStream = await getStreamInfo(context.res as CustomNextApiResponse)
   const stream = JSON.parse(JSON.stringify(rawStream))
 
   return {

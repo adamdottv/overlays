@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next"
 import crypto from "crypto"
 import { TwitchEvent } from "../../lib/twitch"
-import { NextApiResponseServerIO } from "../../lib/server"
+import { CustomNextApiResponse } from "../../lib/server"
 
 const secret = process.env.TWITCH_WEBHOOK_SECRET as string
 
@@ -37,7 +37,7 @@ export default async function handler(
     if (MESSAGE_TYPE_NOTIFICATION === req.headers[MESSAGE_TYPE]) {
       await handleEvent(
         notification as TwitchEvent,
-        res as NextApiResponseServerIO
+        res as CustomNextApiResponse
       )
       return res.status(200).end()
     } else if (MESSAGE_TYPE_VERIFICATION === req.headers[MESSAGE_TYPE]) {
@@ -62,7 +62,7 @@ export default async function handler(
   }
 }
 
-async function handleEvent(payload: TwitchEvent, res: NextApiResponseServerIO) {
+async function handleEvent(payload: TwitchEvent, res: CustomNextApiResponse) {
   res.server.ws.emit("twitch-event", payload)
 
   try {

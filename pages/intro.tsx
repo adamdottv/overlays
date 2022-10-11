@@ -12,10 +12,10 @@ import {
 } from "../components"
 import { fadeAudioOut } from "../lib/audio"
 import React from "react"
-import metadata from "../stream.json"
-import { NextApiResponseServerIO } from "../lib"
-import { getStreamInfo, GetStreamResponse, songs } from "../lib/stream"
+import { CustomNextApiResponse } from "../lib"
+import { getStreamInfo, GetStreamResponse, Guest, songs } from "../lib/stream"
 import { randomItem } from "../lib/utils"
+import { useSocket, useEvent } from "../hooks"
 
 const AUDIO_FADE_LENGTH = 5 * 1000
 const LOADING_INTERVAL = 200
@@ -29,7 +29,7 @@ export interface IntroSsrProps {
 export const getServerSideProps: GetServerSideProps<IntroSsrProps> = async (
   context
 ) => {
-  const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
+  const rawStream = await getStreamInfo(context.res as CustomNextApiResponse)
   const stream = JSON.parse(JSON.stringify(rawStream))
   const song = randomItem(songs)
 
@@ -49,6 +49,15 @@ function Intro({
 }: InferGetServerSidePropsType<typeof getServerSideProps>) {
   const [showTitleScreen, setShowTitleScreen] = useState(false)
   const audioRef = useRef<HTMLAudioElement>(null)
+  const [guest, setGuest] = useState<Guest | undefined>(stream.guest)
+
+  const { socket } = useSocket()
+  useEvent<Guest>(socket, "guest-joined", (value) => {
+    setGuest(value)
+  })
+  useEvent<Guest>(socket, "guest-left", () => {
+    setGuest(undefined)
+  })
 
   const handleClockStart = React.useCallback(() => {
     setTimeout(() => {
@@ -67,8 +76,8 @@ function Intro({
     <Overlay>
       <audio loop ref={audioRef} id="audio-element" src={`/media/${song}`} />
       {showTitleScreen ? (
-        metadata.mode === "guest" ? (
-          <GuestTitleScreen stream={stream} />
+        guest ? (
+          <GuestTitleScreen guest={guest} />
         ) : (
           <TitleScreen />
         )
@@ -161,9 +170,10 @@ const TitleScreen = () => {
   )
 }
 
-const GuestTitleScreen: React.FC<{ stream?: GetStreamResponse }> = ({
-  stream,
-}) => {
+const GuestTitleScreen: React.FC<{
+  stream?: GetStreamResponse
+  guest: Guest
+}> = ({ stream, guest }) => {
   return (
     <Grid
       compact
@@ -188,8 +198,8 @@ const GuestTitleScreen: React.FC<{ stream?: GetStreamResponse }> = ({
           />
           <img
             className="absolute top-[40px] right-[48px] h-[360px] w-[360px]"
-            src={metadata.guest.image}
-            alt={metadata.guest.name}
+            src={guest.image}
+            alt={guest.name}
           />
 
           <div className="absolute bottom-[20px] right-[788px] z-50 w-auto min-w-[150px] bg-mint px-4 py-2">
@@ -200,11 +210,9 @@ const GuestTitleScreen: React.FC<{ stream?: GetStreamResponse }> = ({
           </div>
 
           <div className="absolute bottom-[20px] right-[28px] z-50 w-auto min-w-[150px] bg-mint px-4  py-2">
-            <div className="text-lg font-bold text-mauve-1">
-              {metadata.guest.name}
-            </div>
+            <div className="text-lg font-bold text-mauve-1">{guest.name}</div>
             <div className="text-sm font-medium text-[#040013] text-opacity-[48%]">
-              {metadata.guest.twitter}
+              @{guest.twitter}
             </div>
           </div>
         </div>

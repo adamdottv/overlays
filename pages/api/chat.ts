@@ -1,5 +1,5 @@
 import { NextApiRequest } from "next"
-import { NextApiResponseServerIO } from "../../lib"
+import { CustomNextApiResponse } from "../../lib"
 
 type Request = {
   message: string
@@ -8,7 +8,7 @@ type Request = {
 
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponseServerIO
+  res: CustomNextApiResponse
 ) {
   const body = req.body as Request
   const twitch = res.server.twitch

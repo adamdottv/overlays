@@ -1,19 +1,12 @@
-import type { NextApiRequest } from "next"
+import { NextApiRequest } from "next"
 import { CustomNextApiResponse } from "../../../lib"
-import { Scene } from "../../../lib/obs"
-
-interface Request {
-  to: Scene
-}
 
 export default async function handler(
-  req: NextApiRequest,
+  _req: NextApiRequest,
   res: CustomNextApiResponse
 ) {
-  const { to } = req.query as unknown as Request
-
   try {
-    await res.server.obs.transition(to)
+    res.server.stream.guest = undefined
   } catch (error) {
     console.error(error)
     res.status(500).end()

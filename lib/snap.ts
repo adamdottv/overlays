@@ -1,31 +1,16 @@
 import { spawnSync } from "child_process"
-import { randomUUID } from "crypto"
-import ObsController, { Scene } from "./obs"
+import { CustomServer } from "./server"
 const timeout = 5 * 60 * 1000
 
 export default class SnapController {
-  id = randomUUID()
   currentFilter: string | undefined
-  lastKey: string | undefined
   timeoutHandle: NodeJS.Timeout | undefined
 
-  private obs: ObsController
+  private server: CustomServer
+  private lastKey: string | undefined
 
-  constructor(obs: ObsController) {
-    this.obs = obs
-    this.obs.on("sceneChange", (scene) => this.handleSceneChange(scene))
-  }
-
-  private async handleSceneChange(scene: Scene) {
-    console.log(
-      `Scene changed to ${scene}, current filter is ${this.currentFilter} (${this.id})`
-    )
-
-    if (scene === "Camera" && !this.currentFilter) {
-      await this.obs.setScene("Camera (HD)")
-    } else if (scene === "Camera (HD)" && this.currentFilter) {
-      await this.obs.setScene("Camera")
-    }
+  constructor(server: CustomServer) {
+    this.server = server
   }
 
   async toggleSnapFilter(key: string | undefined) {
@@ -40,19 +25,21 @@ export default class SnapController {
     this.currentFilter = key
 
     if (!this.currentFilter) {
-      if (this.obs.currentScene === "Camera") {
-        await this.obs.setScene("Camera (HD)")
-      }
+      this.server.emit("snap-filter-cleared")
+      /* if (this.obs.currentScene === "Camera") { */
+      /*   await this.obs.setScene("Camera (HD)") */
+      /* } */
       return true
     }
 
     try {
       spawnSync("bash", ["./scripts/toggle-snap-filter.sh", this.currentFilter])
       this.lastKey = this.currentFilter
+      this.server.emit("snap-filter-set")
 
-      if (this.obs.currentScene === "Camera (HD)") {
-        await this.obs.setScene("Camera")
-      }
+      /* if (this.obs.currentScene === "Camera (HD)") { */
+      /*   await this.obs.setScene("Camera") */
+      /* } */
     } catch (error) {
       console.error(error)
       return false

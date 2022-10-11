@@ -2,6 +2,7 @@ import WsController from "./ws"
 import fs from "fs"
 import { randomItem } from "./utils"
 import TwitchController from "./twitch"
+import { CustomServer } from "./server"
 
 const pathToJsonFile = "./data/giveaways/current.json"
 const giveawayRewardId = "3f1bbe3d-9188-4150-938d-07b8d0bf8f85"
@@ -9,14 +10,20 @@ const giveawayRewardId = "3f1bbe3d-9188-4150-938d-07b8d0bf8f85"
 export default class GiveawaysController {
   entrants: string[]
 
+  private server: CustomServer
   private ws: WsController
   private twitch: TwitchController
 
-  constructor(ws: WsController, twitch: TwitchController) {
+  constructor(
+    server: CustomServer,
+    ws: WsController,
+    twitch: TwitchController
+  ) {
+    this.server = server
     this.ws = ws
     this.twitch = twitch
 
-    this.twitch.on("new-giveaway-entry", this.handleNewEntry.bind(this))
+    this.server.on("new-giveaway-entry", this.handleNewEntry.bind(this))
 
     try {
       this.entrants = JSON.parse(
@@ -42,7 +49,7 @@ export default class GiveawaysController {
 
     try {
       fs.writeFileSync(pathToJsonFile, JSON.stringify(this.entrants))
-    } catch (error) {}
+    } catch (error) { }
   }
 
   async end() {

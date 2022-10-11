@@ -1,5 +1,6 @@
+import { HelixStream } from "@twurple/api/lib"
 import { writeFileSync } from "fs"
-import { NextApiResponseServerIO } from "./server"
+import { CustomNextApiResponse, CustomServer } from "./server"
 import TwitchController from "./twitch"
 import { formatDate } from "./utils"
 
@@ -20,6 +21,7 @@ export interface GetStreamResponse {
   current?: Stream
   next?: Stream
   schedule: ScheduledStream[]
+  guest?: Guest
 }
 
 export const songs = [
@@ -29,10 +31,11 @@ export const songs = [
 ]
 
 export const getStreamInfo = async (
-  res: NextApiResponseServerIO
+  res: CustomNextApiResponse
 ): Promise<GetStreamResponse> => {
   const stream = await res.server.twitch.getStreamInfo()
   const response = await res.server.twitch.getSchedule()
+  const guest = res.server.stream.guest
 
   const {
     data: { segments },
@@ -63,29 +66,65 @@ export const getStreamInfo = async (
       scheduledStart: nextStart ? formatDate(scheduledStart) : undefined,
     },
     schedule,
+    guest,
   }
+}
+
+export interface Guest {
+  name: string
+  ping: string
+  twitter: string
+  image?: string
+}
+
+export const guests: Record<string, Guest> = {
+  davidkpiano: {
+    name: "David Khourshid",
+    ping: "cl79934or20060gmoj84pco4x",
+    twitter: "DavidKPiano",
+    image: "./images/davidkpiano.jpeg",
+  },
 }
 
 export default class StreamController {
   private current: string
+  private server: CustomServer
   private twitch: TwitchController
-  private streamStartTime?: Date
+  private metadata?: HelixStream | null
+  private _guest?: Guest = undefined
 
-  constructor(twitch: TwitchController) {
+  get guest() {
+    return this._guest
+  }
+
+  set guest(value: Guest | undefined) {
+    this._guest = value
+
+    if (value) {
+      this.server.emit("guest-joined", value)
+      this.server.ws.emit("guest-joined", value)
+    } else {
+      this.server.emit("guest-left")
+      this.server.ws.emit("guest-left", {})
+    }
+  }
+
+  constructor(server: CustomServer, twitch: TwitchController) {
+    this.server = server
     this.twitch = twitch
+
     const [today] = new Date().toISOString().split("T")
     this.current = `./data/transcripts/${today}.txt`
 
-    this.twitch.on("new-chat-message", this.handleNewChatMessage.bind(this))
-    this.twitch.on("online", this.handleStreamOnline.bind(this))
-    this.twitch.on("offline", this.handleStreamOffline.bind(this))
+    this.server.on("new-chat-message", this.handleNewChatMessage.bind(this))
+    this.server.on("online", this.handleStreamOnline.bind(this))
+    this.server.on("offline", this.handleStreamOffline.bind(this))
 
     this.init()
   }
 
   async init() {
-    const info = await this.twitch.getStreamInfo()
-    this.streamStartTime = info?.startDate
+    this.metadata = await this.twitch.getStreamInfo()
   }
 
   async handleStreamOnline() {
@@ -106,7 +145,7 @@ export default class StreamController {
 
   writeToCurrent(text: string, time?: number) {
     const timestamp = new Date(
-      (time ?? Date.now()) - (this.streamStartTime?.getTime() ?? 0)
+      (time ?? Date.now()) - (this.metadata?.startDate?.getTime() ?? 0)
     )
       .toISOString()
       .substring(11, 19)

@@ -1,5 +1,5 @@
 import type { NextApiRequest } from "next"
-import { NextApiResponseServerIO } from "../../lib"
+import { CustomNextApiResponse } from "../../lib"
 import { SnapFilterReward } from "../../lib/rewards"
 
 interface Request {
@@ -8,7 +8,7 @@ interface Request {
 
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponseServerIO
+  res: CustomNextApiResponse
 ) {
   const server = res.server
   const { rewardId } = req.body as Request // JSON.parse(req.body) as Request

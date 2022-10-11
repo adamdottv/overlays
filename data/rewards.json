@@ -46,6 +46,13 @@
     "id": "77ee3f54-84c2-464b-a85a-3f351a4bfc2d"
   },
   {
+    "title": "Minioned",
+    "type": "snap-filter",
+    "key": "109",
+    "cost": 500,
+    "id": "4b16a0f1-24c7-4ef9-9375-e7278fffbb10"
+  },
+  {
     "title": "Bad Hair Day",
     "type": "snap-filter",
     "key": "98",
@@ -56,7 +63,7 @@
     "title": "Howdy Partner",
     "type": "snap-filter",
     "key": "100",
-    "cost": 500,
+    "cost": 1000000,
     "id": "2a794a99-23e4-480d-ab22-93ce0a170daa"
   },
   {

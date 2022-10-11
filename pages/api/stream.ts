@@ -1,10 +1,10 @@
 import type { NextApiRequest } from "next"
-import { NextApiResponseServerIO } from "../../lib"
+import { CustomNextApiResponse } from "../../lib"
 import { getStreamInfo } from "../../lib/stream"
 
 export default async function handler(
   _req: NextApiRequest,
-  res: NextApiResponseServerIO
+  res: CustomNextApiResponse
 ) {
   const stream = await getStreamInfo(res)
   res.status(200).json(stream)

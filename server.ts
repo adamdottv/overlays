@@ -30,7 +30,19 @@ async function listener(req: IncomingMessage, res: CustomServerResponse) {
     // Be sure to pass `true` as the second argument to `url.parse`.
     // This tells it to parse the query portion of the URL.
     const parsedUrl = parse(req.url as string, true)
-    // const { pathname, query } = parsedUrl
+    const { pathname } = parsedUrl
+
+    if (pathname === "/ping/guest" && server.stream.guest) {
+      const url = `https://ping.gg/call/adam/embed?view=${server.stream.guest.ping}&audio=on`
+      console.log(url)
+
+      res.writeHead(307, {
+        Location: url,
+      })
+      res.end()
+      return
+    }
+
     await handle(req, res, parsedUrl)
   } catch (err) {
     console.error("Error occurred handling", req.url, err)
@@ -45,29 +57,31 @@ async function init() {
     .listen(8000)
 
   await app.prepare()
-  server = createServer(listener as RequestListener) as CustomServer
+  server = createServer(listener as unknown as RequestListener) as CustomServer
   server.listen(port, () => console.log(`> Ready on ${url}`))
 
   const wsController = new WsController(server)
-  const obsController = new ObsController(wsController)
-  const snapController = new SnapController(obsController)
-  const twitchController = new TwitchController(
-    server,
-    snapController,
-    obsController
-  )
+  const snapController = new SnapController(server)
+  const twitchController = new TwitchController(server, snapController)
   const giveawaysController = new GiveawaysController(
+    server,
     wsController,
     twitchController
   )
-  const streamController = new StreamController(twitchController)
+  const streamController = new StreamController(server, twitchController)
+  const obsController = new ObsController(
+    server,
+    wsController,
+    snapController,
+    streamController
+  )
 
   server.ws = wsController
-  server.obs = obsController
   server.giveaways = giveawaysController
   server.snap = snapController
   server.twitch = twitchController
   server.stream = streamController
+  server.obs = obsController
 }
 
 init()

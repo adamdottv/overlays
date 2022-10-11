@@ -1,9 +1,9 @@
 import type { NextApiRequest } from "next"
-import { NextApiResponseServerIO } from "../../../lib/server"
+import { CustomNextApiResponse } from "../../../lib/server"
 
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponseServerIO
+  res: CustomNextApiResponse
 ) {
   const { event } = req.query
   if (!event) return res.status(400).end()

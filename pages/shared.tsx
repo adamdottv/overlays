@@ -16,7 +16,7 @@ import cn from "classnames"
 import { motion, AnimatePresence } from "framer-motion"
 import { delay } from "../lib/utils"
 import { getStreamInfo, GetStreamResponse } from "../lib/stream"
-import { NextApiResponseServerIO } from "../lib"
+import { CustomNextApiResponse } from "../lib"
 
 const MAX_NOTIFICATIONS = 5
 const NOTIFICATION_DURATION = 1
@@ -30,7 +30,7 @@ export interface SharedSsrProps {
 export const getServerSideProps: GetServerSideProps<SharedSsrProps> = async (
   context
 ) => {
-  const rawStream = await getStreamInfo(context.res as NextApiResponseServerIO)
+  const rawStream = await getStreamInfo(context.res as CustomNextApiResponse)
   const stream = JSON.parse(JSON.stringify(rawStream))
 
   return {

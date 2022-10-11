@@ -1,7 +1,7 @@
 import type { NextApiRequest } from "next"
 import { ShellScriptReward } from "../../lib/rewards"
 import open from "open"
-import { NextApiResponseServerIO } from "../../lib"
+import { CustomNextApiResponse } from "../../lib"
 
 interface Request {
   rewardId?: string
@@ -9,7 +9,7 @@ interface Request {
 
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponseServerIO
+  res: CustomNextApiResponse
 ) {
   const server = res.server
   const { rewardId } = JSON.parse(req.body) as Request

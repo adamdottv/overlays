@@ -1,9 +1,9 @@
 import type { NextApiRequest } from "next"
-import { NextApiResponseServerIO } from "../../../lib"
+import { CustomNextApiResponse } from "../../../lib"
 
 export default async function handler(
   _req: NextApiRequest,
-  res: NextApiResponseServerIO
+  res: CustomNextApiResponse
 ) {
   try {
     await res.server.giveaways.start()
