@@ -28,6 +28,7 @@ export const songs = [
   "theme-synth-pop.wav",
   "theme-piano-stem.wav",
   "theme-lofi.wav",
+  "theme-classical.wav",
 ]
 
 export const getStreamInfo = async (
@@ -83,6 +84,12 @@ export const guests: Record<string, Guest> = {
     ping: "cl79934or20060gmoj84pco4x",
     twitter: "DavidKPiano",
     image: "./images/davidkpiano.jpeg",
+  },
+  trash: {
+    name: "Chris Bautista",
+    ping: "cl97aciwy37970gl7lzans0us",
+    twitter: "trash__dev",
+    image: "./images/trash.jpg",
   },
 }
 

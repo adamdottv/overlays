@@ -1,0 +1,5206 @@
+
+
+16:02:19
+<transcript>: You.
+
+16:03:39
+adamdotdev: !topic hanging out with trash dev
+
+16:23:12
+<transcript>: Subscribe.
+
+00:03:36
+kylliangamer: adaaam
+
+00:03:38
+kylliangamer: been a while
+
+00:03:47
+kylliangamer: (since I've been able to catch a stream)
+
+00:04:09
+<transcript>: Can you hear me.
+
+00:04:13
+<transcript>: Hey.
+
+00:04:16
+<transcript>: What's? That.
+
+00:04:18
+<transcript>: Yeah.
+
+00:04:18
+<transcript>: i
+
+00:04:19
+<transcript>: I.
+
+00:04:19
+<transcript>: 'm trying to
+
+00:04:22
+<transcript>: 'm trying to give you a different camera. Here.
+
+00:04:26
+<transcript>: Not that one. Nope.
+
+00:04:30
+<transcript>: Yeah.
+
+00:04:36
+<transcript>: Wow. Not that one. That one. There you are.
+
+00:04:38
+<transcript>: Okay.
+
+00:04:41
+<transcript>: No, no, we're muted.
+
+00:04:41
+<transcript>: but
+
+00:04:45
+<transcript>: But my stupid title is like next day s watch party so my bad.
+
+00:04:45
+<transcript>: i for
+
+00:04:48
+<transcript>: I forgot that updated on Twitter.
+
+00:05:02
+<transcript>: Oh, yeah. Yeah. So you're seeing right now you're seeing the Raw, like, log three footage.
+
+00:05:02
+<transcript>: and
+
+00:05:09
+<transcript>: And I use a lot that in OBS that transforms it. So in the production it looks better than that. This is like the flattened version.
+
+00:05:28
+<transcript>: Yeah. Yeah. So you, like, expose the camera in the S log three at like, you expose like, a Gray card at 44% or something. And then the LUT is based on that. I don't know if you're hearing sorry about that. I changed my sound effects, and there kind of jarring me.
+
+00:05:30
+<transcript>: Okay, cool.
+
+00:05:34
+<transcript>: Oh, no. You're good.
+
+00:05:35
+delvoid: Heyooooo
+
+00:05:42
+<transcript>: This one was this one was free. It made by something called Geraldine.
+
+00:05:42
+<transcript>: he doesn't
+
+00:05:46
+<transcript>: He doesn't like really cool YouTube stuff about videography.
+
+00:05:46
+<transcript>: so i like
+
+00:05:49
+<transcript>: So I, like got all the equipment he says to get.
+
+00:05:59
+<transcript>: Oh, yeah, absolutely. Yeah. So he's got some Sony A Seven S three. That's the camera. I use specific LUTS for taking it to, like, Seven Rec 709.
+
+00:06:00
+delvoid: Also byeee i am hangry
+
+00:06:03
+<transcript>: Oh, yeah, yeah, I saw that doubleed.
+
+00:06:03
+<transcript>: i'm actually gonna go my
+
+00:06:10
+<transcript>: I'm actually gonna go my make a coffee real quick, or it's a fake coffee. I'll be right back. We have five minutes. It's ticking down.
+
+00:06:24
+trash_dev: its not a watch party everyone
+
+00:06:37
+watchbfl: watchb9DeathStare watchb9DeathStare watchb9DeathStare
+
+00:07:05
+cowfacedude99: sarcasm has entered the chat @trash_dev
+
+00:07:21
+mateusjatenee: hey hey hey beautiful people
+
+00:07:37
+trash_dev: putting on my makeup hold on @cowfacedude99
+
+00:07:37
+watchbfl: watchb9STONECOLD watchb9STONECOLD watchb9STONECOLD watchb9STONECOLD
+
+00:07:48
+watchbfl: watchb9IFYOUSMELL watchb9IFYOUSMELL watchb9IFYOUSMELL
+
+00:08:29
+athano: @trash_dev don't forget your hats
+
+00:08:33
+<transcript>: It's a little prop for YouTube. Thumbnail.
+
+00:08:37
+<transcript>: I might hate you, too. I'm not sure. By the way.
+
+00:08:39
+<transcript>: It's early.
+
+00:08:44
+<transcript>: Yeah, yeah, just the whole thing.
+
+00:08:53
+<transcript>: It's so grindy, but, well, I think I'm gonna get flipped to do the editing, and that'll make me feel a lot better.
+
+00:08:55
+<transcript>: But you.
+
+00:09:03
+<transcript>: Well, that was the thing. I think this week I got burned out because.
+
+00:09:03
+<transcript>: i made this
+
+00:09:14
+<transcript>: I made this giant. I did, like, the twelve Hour Watch Marathon. And then I started thinking, like, oh, man, so much of it was garbage, too. I'm sure we'll talk about it.
+
+00:09:17
+<transcript>: There's this guy named Trash at Nah.
+
+00:09:23
+<transcript>: No, I'm serious. Like, I guess people pay. I don't know. We'll talk about it.
+
+00:09:23
+<transcript>: but i
+
+00:09:28
+<transcript>: But I spent 12 hours and then realized none of this is good.
+
+00:09:28
+<transcript>: it's so like so
+
+00:09:35
+<transcript>: It's so, like, so much of it is just a waste of time. And no one was to hear about it. Like, I'm not gonna talk about every session I thought I'd go through, like, each one and, like, break them down.
+
+00:09:35
+<transcript>: no
+
+00:09:39
+<transcript>: No. So then I just started feeling like nobody cares about this.
+
+00:09:39
+<transcript>: yeah don't
+
+00:09:41
+<transcript>: Yeah, don't.
+
+00:09:50
+<transcript>: Yeah, I know. It's so hard right now because I want to, like, save as much as possible.
+
+00:09:50
+<transcript>: when people are listening
+
+00:09:51
+<transcript>: When people are listening.
+
+00:09:59
+<transcript>: In the five minute leadup. That's always.
+
+00:10:08
+<transcript>: Good. I've got the stream thing down.
+
+00:10:09
+laytanl_: Bit late on that watchparty Kappa
+
+00:10:14
+<transcript>: I had all these equipment. Yeah, I've had it for, like, a year.
+
+00:10:16
+<transcript>: And.
+
+00:10:16
+<transcript>: yeah
+
+00:10:19
+<transcript>: Yeah. I was gonna make a course with it. So I thought, like.
+
+00:10:19
+<transcript>: i just and then
+
+00:10:22
+<transcript>: I just. And then I went down the rabbit hole. And it's all like.
+
+00:10:34
+thdxr: rewatch party
+
+00:10:35
+<transcript>: Then I see Sam Selikov, who had never heard of in my life. And I'm like, there's a better version of me. There's this bearded white guy who makes really good videos. He knows what he's talking about. Really good production quality. Like, I don't need to exist.
+
+00:10:41
+<transcript>: All right.
+
+00:10:54
+<transcript>: Okay. Let's see. What do I need to do here? I'm gonna do you want to watch? Do you want to see this part of me? Just this phase, or do you want me to send you the stream? Are you on you're on the stream so you can see it.
+
+00:10:56
+<transcript>: Okay.
+
+00:11:00
+<transcript>: I'm gonna try and keep track.
+
+00:11:00
+<transcript>: trash
+
+00:11:04
+<transcript>: Trash. I'm gonna try and keep chat up I don't normally.
+
+00:11:04
+<transcript>: and then i
+
+00:11:09
+<transcript>: And then I hate that I'm not like interacting with anybody while I'm hanging out with somebody.
+
+00:11:16
+<transcript>: Yeah, you can help me with it. You know, Twitch.
+
+00:11:16
+<transcript>: oh look
+
+00:11:19
+<transcript>: Oh, look at that. I got your little trash face.
+
+00:11:26
+<transcript>: I just made it all. It's a React app, because the next day I sat.
+
+00:11:30
+<transcript>: Yeah, Yeah.
+
+00:11:30
+<transcript>: okay
+
+00:11:31
+<transcript>: Okay.
+
+00:11:31
+<transcript>: i think i
+
+00:11:36
+<transcript>: I think I'm ready. I'm just gonna I'm gonna send it over to the main the main thing.
+
+00:11:36
+<transcript>: and
+
+00:11:42
+itsboek: what’s up nerds
+
+00:11:43
+<transcript>: And yeah, I'm trying to think if there's any other steps, I feel like I'm missing something today, but maybe not. We'll see if it works. Here we go.
+
+00:11:48
+<transcript>: Did it work? Just trash. Here. Trash is here.
+
+00:11:48
+<transcript>: every
+
+00:11:53
+<transcript>: Every time it works can they hear you? Can you hear? Can you hear trash.
+
+00:11:56
+itsboek: yes
+
+00:11:56
+<transcript>: Any confirmation.
+
+00:11:58
+itsboek: loud and clear
+
+00:11:58
+athano: yes
+
+00:11:59
+<transcript>: Yes. Okay.
+
+00:11:59
+<transcript>: yeah
+
+00:12:01
+<transcript>: Yeah.
+
+00:12:01
+<transcript>: we're both here
+
+00:12:03
+<transcript>: We're both here, okay.
+
+00:12:10
+itsboek: levels are great
+
+00:12:10
+cowfacedude99: we can hear the sarcasm LUL
+
+00:12:15
+<transcript>: Yeah the levels in my way louder I'm with louder in my ear then you are trash but I don't know what they're getting calf. I say zones for the reset. We can hear the sarcasm.
+
+00:12:17
+thdxr: I hope you're paying for ping.gg
+
+00:12:17
+athano: adam slightly louder but not by much
+
+00:12:19
+thdxr: highest tier
+
+00:12:21
+laytanl_: PogChamp
+
+00:12:21
+delvoid: muted Kappa
+
+00:12:26
+<transcript>: Thank you for everybody that followed. And Del void for the raid. All the lead up. You guys were doing stuff. Dax is here.
+
+00:12:26
+<transcript>: i thought
+
+00:12:28
+ggrandi04: hi
+
+00:12:33
+clbagrat: clbagrLeft clbagrHeart clbagrRight
+
+00:12:35
+<transcript>: I thought it was here slightly louder. Okay, I'm just a slightly loud person. I am paying for Ping Gigi DAX, that you very much. Think of the Grande Fox.
+
+00:12:42
+<transcript>: Trash is here. Trash is here. And I put in the title screen. I put Chris Batista, and it felt weird.
+
+00:12:50
+<transcript>: I know. Yeah. I didn't know. Really your whole name. At least until probably the next year's comp talk. That's probably it.
+
+00:12:53
+watchbfl: time to take the trash out watchb9Kekw
+
+00:12:57
+<transcript>: I love it.
+
+00:13:02
+<transcript>: How long have you been trashed up on the internet.
+
+00:13:11
+<transcript>: Two years.
+
+00:13:18
+<transcript>: I think I heard you say that.
+
+00:13:18
+<transcript>: did
+
+00:13:22
+<transcript>: Did you work it like in the office at Netflix before that.
+
+00:13:25
+<transcript>: Oh.
+
+00:13:34
+<transcript>: Yeah.
+
+00:13:46
+<transcript>: I've heard it doesn't matter anymore there's no stigma it's what I heard.
+
+00:13:53
+<transcript>: Yeah.
+
+00:14:06
+<transcript>: No.
+
+00:14:11
+<transcript>: There's no topic like there won't be probably this entire time.
+
+00:14:14
+<transcript>: Yeah.
+
+00:14:27
+<transcript>: Oh Yeah.
+
+00:14:38
+thdxr: mission accomplished!
+
+00:14:47
+laytanl_: these notifications are loud jeez
+
+00:14:48
+2dorkstv: always underpromise and overdeliver :D
+
+00:15:03
+<transcript>: You hang out with them long enough, like a lot of the same people are coming.
+
+00:15:03
+<transcript>: and
+
+00:15:15
+itsboek: as someone who works from home even pre pandemic. Twitch is the near perfect co-worker
+
+00:15:16
+<transcript>: And they do. They help you learn everything you embark on. Like I wouldn't have ever picked up Neil them. It's not for my chat. Like just helping people, like Calfs, helping me figure out how to do things, set up things.
+
+00:15:24
+2dorkstv: @itsboek ++
+
+00:15:37
+<transcript>: That's awesome.
+
+00:15:40
+itsboek: what is it with twitch chat and getting everyone into vim lol
+
+00:15:55
+<transcript>: Well, I had DAX, DAX join me on a stream. So he first set me up. He'd been using it for a long time, and then chat really like Calf Face and Leighton, there's lots of people in my chat that have helped me like, hey, here's a plugin you should check out, and then we check it out. And that's made it go so much faster.
+
+00:16:02
+thdxr: I remember when adam had too many plugins
+
+00:16:07
+princejoogie: couple friends = null trashdevBald
+
+00:16:12
+<transcript>: Yeah, kind of. I'm still like I'm picking up on the Lewis stuff. I mean, it's still very I don't know. It's still very new.
+
+00:16:12
+<transcript>: it's like
+
+00:16:13
+<transcript>: It's like.
+
+00:16:18
+<transcript>: I spent a lot of time, like a week where that was all we were doing on stream. And then.
+
+00:16:18
+<transcript>: i don't know
+
+00:16:25
+<transcript>: I don't know. Since then. Yeah, it's pretty fun. I mean, if people will stick around and watch you attract all the Neil Vim fans.
+
+00:16:32
+sockthedev: neovim is being used by everyone i respect now. see prime releasing so solid content. excited to try it out.
+
+00:16:35
+<transcript>: Yeah.
+
+00:16:36
+mewtru: mewtruPog trash dev?! The trash dev?!?
+
+00:16:36
+barryxbtw: trashdevBald
+
+00:16:41
+cowfacedude99: so trash's config is basically a community project LUL
+
+00:16:46
+<transcript>: I'm not. I did it when I joined it.
+
+00:16:50
+2dorkstv: adding plugins from 0 would really help me. I just hijacked other people's dotfile and I have no idea plugin does what action
+
+00:16:51
+ghostyx101: sup
+
+00:17:11
+mewtru: Bro it’s so annoying seeing that in my chat all the time though
+
+00:17:21
+<transcript>: Yeah.
+
+00:17:25
+itsboek: I wouldn’t be surprised if we see NeoVim users going door to door in the future
+
+00:17:34
+<transcript>: He's influential.
+
+00:17:45
+juctaposed: guess i have to shave my stache now
+
+00:17:47
+<transcript>: Oh really.
+
+00:17:53
+2dorkstv: He made vim approachable. I learned a ton watching him
+
+00:17:54
+laytanl_: neovim is a hobby thb
+
+00:18:08
+cowfacedude99: @laytanl_ that's true
+
+00:18:15
+<transcript>: Being here for like a few months, so I don't know what's trendy and what's not. I didn't know the Colab thing was trendy. I didn't know. Like I.
+
+00:18:22
+cowfacedude99: a very expensive hobby on the time
+
+00:18:25
+itsboek: Adam being accidentally trendy is so on brand
+
+00:18:32
+<transcript>: 'm A couple of intellectuals, me and trash.
+
+00:18:40
+laytanl_: yeah especially at the beginning @cowfacedude99
+
+00:18:43
+athano: LMAO
+
+00:18:55
+<transcript>: Yeah.
+
+00:19:02
+<transcript>: I've never had that. I mean, I've never worked in a place. I work from homeaho career. So I don't.
+
+00:19:05
+itsboek: @adamdotdev the new sub sound is very loud compared to you and trash
+
+00:19:13
+<transcript>: Know. I know. I have that's. That's an exaggeration.
+
+00:19:18
+laytanl_: @itsboek ^^
+
+00:19:24
+<transcript>: My career. So I started on my own, so I'd eat. I live in the Ozarks like there's not there's not a lot of tech littery, not a lot of, like, tech jobs.
+
+00:19:29
+<transcript>: So I had to be remote, like I live in a very small town.
+
+00:19:29
+<transcript>: in the rur
+
+00:19:38
+trash_dev: were trendy
+
+00:19:38
+<transcript>: In the rural Ozarks. And I found somebody who had kind of like a had a contractual relationship with this banking software company.
+
+00:19:38
+<transcript>: and this
+
+00:19:44
+ronakmehtav: @trash_dev congratulation on your next conf
+
+00:19:49
+trash_dev: tyty!
+
+00:19:52
+<transcript>: And this person just kind of took a chance on me. I thought, I guess I did the interview thing with them on the phone. He was just an independent type, though, but he built software for this financial company. So he hired me in for, like, five, six years. I did that.
+
+00:19:52
+<transcript>: that was
+
+00:19:58
+estrangedhd: for non-americas, what's the ozark?
+
+00:19:59
+<transcript>: That was when I first got started. We were building stuff. I think it was web stuff. It's hard to remember everything. But I did. But his name. His name is Gary.
+
+00:20:03
+<transcript>: Jane knows Gary if you see Jay in chat.
+
+00:20:03
+<transcript>: jay
+
+00:20:09
+<transcript>: Jaywork for Gary. And so I worked with J Station. I don't know if you see in here right now, but.
+
+00:20:13
+<transcript>: We did that for, like, five, six years. I started kind of like a small.
+
+00:20:13
+<transcript>: firm where i had
+
+00:20:15
+<transcript>: Firm where I had a few subcontractors.
+
+00:20:15
+<transcript>: and then
+
+00:20:20
+<transcript>: And then I started Stamp Museum. 2014. My friend Eli.
+
+00:20:23
+ronakmehtav: @EstrangedHD isn1t it a netflix series ??
+
+00:20:25
+<transcript>: So we ran that for five years, like we did the whole venture capital thing and.
+
+00:20:25
+<transcript>: sanguine's
+
+00:20:27
+<transcript>: Sanguine's is still around eight years.
+
+00:20:27
+<transcript>: and
+
+00:20:28
+thdxr: they're mountains
+
+00:20:29
+candlecan: middle of the country, arkansas probably @EstrangedHD
+
+00:20:35
+<transcript>: And I'm actually I don't want to talk about too much because I haven't had a chance to talk with people that I want to know. First, we're actually going back to status.
+
+00:20:35
+<transcript>: so that's
+
+00:20:37
+<transcript>: So that's like.
+
+00:20:38
+candlecan: very rural mostly
+
+00:20:39
+<transcript>: A very new.
+
+00:20:39
+<transcript>: like it
+
+00:20:39
+barryxbtw: you should get that kind of camera trash, adam's cam is lit
+
+00:20:42
+itsboek: Rural USA. Not really near a big city
+
+00:20:43
+<transcript>: Like it already happened. I just haven't told the world yet.
+
+00:20:43
+<transcript>: yeah
+
+00:20:44
+<transcript>: Yeah.
+
+00:20:44
+<transcript>: oops
+
+00:20:46
+<transcript>: Oops, Yeah.
+
+00:20:50
+laytanl_: Ozarks  is something with drugs
+
+00:21:02
+<transcript>: I don't know, 69 people watching nice. I don't think any of the people work at Statmes. So I'm not like breaking news to the team, but I am going back to Stat news. So I've worked at my own startup. That was kind of a normal job, but it was my own startup. So it's kind of not.
+
+00:21:02
+<transcript>: yeah
+
+00:21:06
+laytanl_: Adams real jib
+
+00:21:07
+<transcript>: Yeah, I don't know. That was a very long widow way of saying I've had like R1 job.
+
+00:21:23
+<transcript>: Yeah. I mean, I don't I don't think I work well with others. So I think I prefer working alone.
+
+00:21:37
+<transcript>: I don't know. I don't think I work well with us. I'm kind of like a lone Woolf. Like, I just. I'm not a very good communicator. I get really, like, obsessed with the thing I'm doing, and I don't want to have to interact with it. I don't know. I'm just kind of a jerk.
+
+00:21:48
+<transcript>: Yeah. Maybe it's like communication.
+
+00:22:08
+<transcript>: I think it's in a team setting. So I do love working in, like, a very tiny team. So like, two or three people where we all have very unique skill sets. And the communication is it's not necessary for us to move like, I don't like it's. That means we were 20 people at one time. And I don't like managing. I don't like trying to, like, lay out a vision or.
+
+00:22:08
+<transcript>: a product
+
+00:22:22
+<transcript>: A product roadmap or whatever. All that stuff just dries me up. So in that sense, I'd rather just kind of build a thing by myself. I do like the beginning of things. Like from the very beginning. Green fields, like starting something new. I don't know. Maybe that's a lot of engineers, but.
+
+00:22:28
+<transcript>: It's harder for me to want to, like, work on a thing that's that's been there for a long time.
+
+00:22:28
+<transcript>: i think that
+
+00:22:44
+<transcript>: I think that lends itself to working on your own stuff and build your own stuff. But I don't think of myself as entrepreneurial. I guess like, I don't like I start a lot of things. I don't finish them. And I don't create businesses out of them. Even satinis that's the big struggle with Sammy is just like building a business out of it, not just fun products to build.
+
+00:22:51
+<transcript>: Yeah.
+
+00:23:00
+<transcript>: I've heard that about Netflix.
+
+00:23:17
+<transcript>: Yeah.
+
+00:23:36
+<transcript>: What do you work on? It? Netflix. I don't know if I've ever seen.
+
+00:23:36
+oetziofficial: hello!
+
+00:23:43
+<transcript>: Yeah.
+
+00:24:13
+<transcript>: So like the whole video workflow like the whole production.
+
+00:24:19
+<transcript>: Interesting.
+
+00:24:19
+<transcript>: yeah
+
+00:24:20
+<transcript>: Yeah.
+
+00:24:25
+nate_codes: Yooo Adam AND Trash!
+
+00:24:27
+nate_codes: Let's GOOOOo
+
+00:24:39
+<transcript>: Cuz. You don't hire Netflix doesn't hire like producers. You just work with existing people in the business.
+
+00:24:39
+<transcript>: or not
+
+00:24:41
+<transcript>: Or not.
+
+00:24:46
+<transcript>: Yeah.
+
+00:24:48
+<transcript>: You don't need to probably.
+
+00:24:55
+<transcript>: Yeah.
+
+00:25:44
+<transcript>: Oh no.
+
+00:25:51
+<transcript>: Was this December? Was there something that coincided with that? Was it like when the raiser prices or something.
+
+00:25:58
+oetziofficial: it can only go up!
+
+00:26:02
+<transcript>: Yeah.
+
+00:26:21
+<transcript>: You mean Netflix.
+
+00:26:21
+<transcript>: yeah
+
+00:26:23
+itsboek: It was really just Tiger King season 2
+
+00:26:23
+<transcript>: Yeah.
+
+00:26:30
+<transcript>: I was gonna say the economy. I don't know if it's recovering. The stock market is whatever, but.
+
+00:26:37
+oskrm: yeah, I just made some "good decision" and prod is down waitin for app compilation
+
+00:26:40
+<transcript>: Yeah.
+
+00:26:47
+oskrm: !so @ShyRyan
+
+00:26:50
+yeltrah_: Trash and Adam !! wooo
+
+00:26:57
+oetziofficial: I transfered my account on netflix :D
+
+00:26:59
+<transcript>: So one thing I'm really curious about, like, you and you and prime working at Netflix. Do they know that you stream? Do they like, watch you stream? Do they like that you stream? Do they care.
+
+00:27:05
+<transcript>: Netflix like you're just like you're director for whatever your manager.
+
+00:27:17
+<transcript>: Yeah.
+
+00:27:20
+<transcript>: Oh no.
+
+00:27:20
+princejoogie: trash has onlyfans
+
+00:27:23
+<transcript>: Yeah.
+
+00:27:28
+nate_codes: E X P O S E D
+
+00:27:32
+nate_codes: "cum"
+
+00:27:37
+nate_codes: LUL
+
+00:27:38
+estrangedhd: PG13 trash streams incoming Kappa
+
+00:27:45
+<transcript>: So wild to me like that. People that were with you don't even know.
+
+00:27:45
+<transcript>: your trash dev
+
+00:27:46
+<transcript>: Your trash Dev.
+
+00:27:47
+nate_codes: "Don't worry about it"
+
+00:27:50
+<transcript>: device
+
+00:27:51
+<transcript>: Device.
+
+00:27:52
+itsboek: That is hilarious
+
+00:27:57
+oskrm: trash? yeah its an acronym
+
+00:27:58
+<transcript>: Yeah.
+
+00:28:30
+<transcript>: Oh no.
+
+00:28:37
+<transcript>: Yeah.
+
+00:28:58
+<transcript>: So your words are colliding. Like everyone that follows you on Twitch to stand out. Your name is Chris Patista in the next comp, and then everyone in Netflix learned your trash Dev.
+
+00:29:01
+<transcript>: Stressful.
+
+00:29:04
+<transcript>: Yeah.
+
+00:29:18
+<transcript>: I've never had that. I've always, like, wished I had a nicknamer. Something I don't like just using my whole name on stuff. Not even like security wise, just like I feel Lamel more. What is that.
+
+00:29:25
+thdxr: do what I did and pick 5 random letters
+
+00:29:30
+itsboek: I feel the same way
+
+00:29:33
+<transcript>: Yeah.
+
+00:29:43
+<transcript>: Did you make Did you make the Trash Dev logo.
+
+00:29:45
+<transcript>: Really.
+
+00:29:48
+<transcript>: Yeah.
+
+00:29:55
+<transcript>: Wow.
+
+00:30:03
+<transcript>: That's so cool.
+
+00:30:03
+<transcript>: i didn't know that
+
+00:30:04
+<transcript>: I didn't know that.
+
+00:30:14
+<transcript>: Yeah, go ahead.
+
+00:30:15
+theruggedbear: sup everyone!
+
+00:30:38
+<transcript>: So you did the next JS. Comp. I just watched all the talks and I saw your talk and it was definitely the most entertaining of any of the talks. Like easy.
+
+00:30:50
+<transcript>: Yeah. There was pretty, like down the middle, like nobody really trying to really be too Edgy. And then there was yours. Not that you were Edgy, but just like you got some flare, right? Like.
+
+00:30:54
+cowfacedude99: credit to flip too
+
+00:31:11
+<transcript>: Yeah.
+
+00:31:15
+<transcript>: You can edit it. Yeah.
+
+00:32:12
+<transcript>: There were there were some that were extremely long. It seemed like, did they ask you to keep it just certain length.
+
+00:32:17
+<transcript>: Okay.
+
+00:32:19
+<transcript>: Yeah.
+
+00:32:25
+<transcript>: Yeah. So I said, oh, go ahead.
+
+00:32:40
+<transcript>: Well, I said like that. I watched it all, but I'll be honest, there was one of them that was like 36 minutes long, and I skipped the middle of it. It was just too much. It was like this. It was such a random collection of facts about performance. I don't want to say anymore because I don't want to like, whatever.
+
+00:32:43
+<transcript>: Yeah. Sorry.
+
+00:32:58
+<transcript>: Yeah. My preferences in terms of conference talks, one that they weren't paid for like that. They weren't some company that just wanted to, like, shell their thing. And so they paid to put a contract that's not only explanation for it, for how some of these conference docs ended up in unlisted.
+
+00:32:58
+<transcript>: category
+
+00:33:01
+<transcript>: Category on YouTube. For Versaille.
+
+00:33:01
+<transcript>: so those
+
+00:33:10
+<transcript>: So those obviously not fun to watch. But then also yeah, shorter is better. And here's was definitely like fastpaced and got to it.
+
+00:33:18
+<transcript>: Yeah.
+
+00:33:35
+laytanl_: yeah a bunch of talks were just showing of a company's product
+
+00:33:42
+<transcript>: I want to say I won I've just not been paying attention check and I hate it.
+
+00:33:47
+ropetin: Can everyone who does a talk at any tech conference PLEASE listen to Trash?!
+
+00:33:49
+<transcript>: So thank you for everybody that's talking and following and doing all things you're doing. I'm sorry I'm not calling it out, but I saw true and chat earlier.
+
+00:33:49
+<transcript>: truest talk was really
+
+00:33:55
+estrangedhd: With the introduction of TikTok, reels, shorts, people's antentionspan got shortened to like 30seconds LUL
+
+00:33:55
+<transcript>: Truest talk was really good. And it was like, yours. It was very practical. Like, got to the point. I actually learned something.
+
+00:33:58
+oskrm: @Ropetin no
+
+00:34:07
+oetziofficial: trus talk was really educational
+
+00:34:09
+<transcript>: Here's. That kind of played with Dr. Pc now. So I felt like it was what I expected. Yeah, but truths. She did some stuff with, like, CSS with tailwind variants, TypeScript that I've never seen. I just don't get that much. And it was super cool.
+
+00:34:15
+<transcript>: Yeah.
+
+00:34:31
+<transcript>: I've never seen it.
+
+00:34:34
+estrangedhd: Tru's was great, I only got slightly triggered by the edit cuts LUL
+
+00:34:46
+<transcript>: Yeah. What was in person like was that your first time going to next comp? I don't know.
+
+00:34:46
+<transcript>: has anyone gone
+
+00:34:48
+<transcript>: Has anyone gone the next house for this.
+
+00:34:49
+ronakmehtav: I have enjoyed long talk it's about what are they talking I have watch long talk's of vim, rust what ever I want to learn so love them
+
+00:34:51
+ropetin: Dammit
+
+00:35:04
+<transcript>: Yeah. What it looked like on Twitter, on all the images. Not that I'm salty at all.
+
+00:35:10
+itsboek: FOMO was so real
+
+00:35:43
+<transcript>: Nice.
+
+00:35:49
+laytanl_: @estrangedhd yes a lot of cuts which I'm not a fan of, but great talk anyway
+
+00:35:57
+vinny_code: @trash_dev 🍅 🍅 🍅
+
+00:36:20
+<transcript>: Yeah.
+
+00:36:33
+watchbfl: bro @trash_dev i watch you the most over any other programming dev. dont sell yourself short
+
+00:36:38
+<transcript>: I think you do a great job with the value thing. I've seen you kind of joke about that. I think like the TypeScript challenge stuff is super interesting and like, I know your personality is makes it entertaining. But yeah, the stuff you do on Twitter, you do all kinds of stuff design, even your I think your shit posts are valuable. I don't know. I think you're good at this stuff.
+
+00:36:38
+<transcript>: thank you
+
+00:36:41
+<transcript>: Thank you. Downplay. It.
+
+00:36:49
+<transcript>: Yes.
+
+00:37:12
+<transcript>: I appreciate it.
+
+00:37:12
+<transcript>: you also
+
+00:37:19
+<transcript>: You also went to TwitchCon. So you've been to Twitch Con and the next Comm thing I think, were they both in the same? I don't even know where Twitch got San Diego, wasn't it.
+
+00:37:35
+<transcript>: Yeah.
+
+00:37:39
+switkeet: trash dev actually have good shitpost unironically
+
+00:37:58
+itsboek: Some people are just built different
+
+00:38:17
+<transcript>: The reality of inperson stuff is always a little different than, like when you're thinking about leading up to it, like, it's very exciting. You're gonna meet all these people and then actually, like you said, walking in the room and not knowing anybody.
+
+00:38:17
+<transcript>: is
+
+00:38:19
+<transcript>: Is overwhelming.
+
+00:38:28
+<transcript>: Oh, I'm going to. Yeah, no, no, I'm going to. I'm actually going to reinvent. So, DAX, who's in chat. Yeah, we're going to the Nerd. Come.
+
+00:38:33
+<transcript>: November. So just like a month.
+
+00:38:35
+<transcript>: Yeah.
+
+00:38:39
+<transcript>: We do have a podcast now.
+
+00:38:40
+<transcript>: How about tomorrow.
+
+00:38:42
+zer0cosmos: The most important part of the next js conf was Trash name reveal
+
+00:38:44
+thdxr: please fake fomo for re:invent
+
+00:38:51
+<transcript>: So me and Axe DAX had we always. We talked on the phone. We have these conversations. And then I realized, oh, he's still here. Please. Fake FOMO for reinvent.
+
+00:38:54
+<transcript>: Yeah, Yeah.
+
+00:38:58
+<transcript>: Please be sad.
+
+00:38:58
+<transcript>: when me and
+
+00:39:04
+<transcript>: When me and Ex post photos for me a minute, please like be sad about it and talk about FOMO just so we can feel a little better.
+
+00:39:15
+<transcript>: So DAX and I, we have a lot of these phones, conversations. And then it was I had this podcast, AWS FM, which is just a bad day to be less stuff like just talking to people within AWS community.
+
+00:39:15
+<transcript>: yeah
+
+00:39:21
+<transcript>: Yeah, yeah, oh, yeah, no, it if you like. Aws, it's like that's what we talk about.
+
+00:39:21
+<transcript>: and then
+
+00:39:33
+<transcript>: And then I just kind of wanted to be able to talk about other stuff and like, not just AWS stuff. And every time I talk about anything that's not AWS on that podcast, I feel bad, like the listeners are throwing tomatoes at their AirPods or whatever.
+
+00:39:45
+<transcript>: I signed up for AWS, good out of here with this web stuff. So that I think the how about tomorrow brand is just sort of just sort of like totally open it's kind of future leaning, like talking about stuff that's going on.
+
+00:39:49
+<transcript>: So we've already recorded several.
+
+00:39:49
+<transcript>: i don't know
+
+00:39:53
+trash_dev: ty @watchBFL
+
+00:39:58
+<transcript>: I don't know, DAX. Maybe we do more than one a week. I feel like we could do more than one a week. Like if we just get on for an hour each week, we could probably do several.
+
+00:39:59
+thdxr: agree
+
+00:40:04
+<transcript>: Yeah, Yeah.
+
+00:40:08
+thdxr: we just wait for drama to happen
+
+00:40:17
+<transcript>: No, it's like DAX is somebody that is very easy to talk to for me. I don't know if, like if he feels that way about everybody, he's just really good talking to people. But when I talk to DAX, I was feel like I could talk forever. About whatever.
+
+00:40:17
+<transcript>: so it just
+
+00:40:19
+laytanl_: I didn't know about the podcasts either what
+
+00:40:19
+<transcript>: So it just makes it really easy.
+
+00:40:26
+<transcript>: No, no, we we just met within, I guess the AWS community.
+
+00:40:26
+<transcript>: so
+
+00:40:32
+<transcript>: So DAX is one of the three members of SSD, which is like a startup that builds.
+
+00:40:32
+<transcript>: are you familiar with
+
+00:40:33
+thdxr: we've never met in person lol
+
+00:40:36
+<transcript>: Are you familiar with SST? It's like a. I don't know if you do anything with AWS.
+
+00:40:40
+<transcript>: Yeah, Yeah.
+
+00:40:45
+laytanl_: Do you tweet when an episode drops, never seen it?
+
+00:40:51
+<transcript>: It's serverless stack, but I think they just want to be SST now.
+
+00:40:51
+<transcript>: it's
+
+00:41:04
+<transcript>: It's like build a division for structure, but with TypeScript. And DAX is really good at typescripts, so I had them on AWS FM a long time ago. Dax, I guess that's where we met. Or we met on Twitter. We've never met in person. I've never met anyone in person.
+
+00:41:04
+<transcript>: i live in the ozone
+
+00:41:06
+<transcript>: I live in the ozone.
+
+00:41:08
+<transcript>: I mean.
+
+00:41:08
+<transcript>: no yeah
+
+00:41:10
+<transcript>: No. Yeah. Nobody actually.
+
+00:41:19
+<transcript>: Web Dev or the Twitter community. Nobody. Yeah, nobody. I've never been to a conference. This is Daxony's first conference. We're gonna reinvent.
+
+00:41:19
+<transcript>: we pick the wrong one
+
+00:41:21
+<transcript>: We pick the wrong one.
+
+00:41:28
+<transcript>: What was your first two.
+
+00:41:37
+<transcript>: What I just assumed, like everybody, that's a developer goes to all the conferences. And I had been hiding in the Woods. But those were your first two.
+
+00:41:39
+laytanl_: Adam is an AI
+
+00:41:44
+<transcript>: Yeah.
+
+00:41:55
+<transcript>: No. Exactly. People who have the same interests.
+
+00:42:08
+<transcript>: Here. It's just my family. None of them care about anything I talk about, so I don't talk about it. So that is cool. Like when I've been in person, the only times I've been in person with, like, people who do tech stuff would be like, staff news. We used to have a lot of.
+
+00:42:08
+<transcript>: oh geez
+
+00:42:11
+<transcript>: Oh, Geez, I'm gonna have really weird hair if it's working. I don't know.
+
+00:42:11
+<transcript>: oh it's not
+
+00:42:16
+<transcript>: Oh, it's not working. Oh, you can't put stuff on me right now, okay. Sorry about that.
+
+00:42:16
+<transcript>: yeah
+
+00:42:17
+<transcript>: Yeah.
+
+00:42:20
+trash_dev: r i p
+
+00:42:25
+<transcript>: Yes. All right. Just don't use the points, people. They won't work in this view. Rip. Yeah. There you go.
+
+00:42:30
+<transcript>: Yeah. No. Just like having off sites. We bring everybody in the company to, like, different places.
+
+00:42:30
+<transcript>: like a couple
+
+00:42:42
+<transcript>: Like a couple times a year. So I get to meet, like, my coworkers, who we the people we hired there at Sat Meins. That's really it. And like, it is a totally different experience to actually set with someone who knows anything about the internet.
+
+00:42:47
+<transcript>: Because out here it's it's very low, like there's not a lot of declarity.
+
+00:42:56
+<transcript>: Oh, yeah, Yeah.
+
+00:43:00
+<transcript>: We built this home, like we.
+
+00:43:00
+<transcript>: so little
+
+00:43:02
+<transcript>: So little personal journey.
+
+00:43:02
+<transcript>: we actually
+
+00:43:06
+<transcript>: We actually lived in this neighborhood here in Nixon, Missouri.
+
+00:43:06
+<transcript>: like
+
+00:43:09
+<transcript>: Like eight years ago, when we started status, we built the house here.
+
+00:43:09
+<transcript>: and
+
+00:43:13
+<transcript>: And we felt like we built it too big. We had our first kid there.
+
+00:43:13
+<transcript>: but we
+
+00:43:28
+<transcript>: But we just kind of felt like this is too much to manage. And we just wanted to try something else. I'd work from home forever. We wanted to try, like living somewhere else in the country. So we moved to native Florida, which is like the southwest tip of Florida, so it's warm all the time. It's it's beautiful.
+
+00:43:28
+<transcript>: we
+
+00:43:35
+<transcript>: We move there, thinking we'd stay. We didn't know anybody down there. So we just had my oldest ASA. Who's seven now.
+
+00:43:35
+<transcript>: we
+
+00:43:51
+<transcript>: We were down there for, like, six months, and we got pregnant with our second. So then we started feeling like, Are we really gonna have a baby down here? We know literally nobody like, we kind of met her neighbors, like our next door neighbors. That was it. We have no family, nobody to help us with ASA. As we're raising our second.
+
+00:43:51
+<transcript>: we just decided
+
+00:43:54
+<transcript>: We just decided it was too much so we can't we actually broke our lease and came back.
+
+00:43:54
+<transcript>: to the oz
+
+00:43:59
+thdxr: I wish you stayed in Naples
+
+00:44:07
+<transcript>: To the Ozarks. And then we were like, in a rental for two years while we built this one, it was just a lot of, like, feeling very unsettled. And we had our two boys, and we felt like we needed to be somewhere for good, like, we didn't want to move again.
+
+00:44:07
+<transcript>: so building
+
+00:44:26
+<transcript>: So building this house was like, we're not going anywhere. We're settled. This is our ten year, 20 year house. Whatever. We're gonna be old people living here. So, yeah, I'm living in the other forever. We do like the idea of going, like, the back to Florida for winters, like, go to Naples for the winter, that kind of thing Snowbird, like old people. We're very much like old people.
+
+00:44:26
+<transcript>: in every way
+
+00:44:28
+thdxr: yes come
+
+00:44:28
+<transcript>: In every way.
+
+00:44:37
+<transcript>: Yeah.
+
+00:44:48
+<transcript>: Where do you live? I don't even are you in the Bay area.
+
+00:44:52
+<transcript>: Okay. Yeah.
+
+00:45:04
+pogjar: ODU represent
+
+00:45:15
+<transcript>: This opposite world.
+
+00:45:18
+2dorkstv: oh man, I had the gov experience. It's awful. nothing moves
+
+00:45:21
+<transcript>: Oh, no. Let's just burn out, like, too much.
+
+00:45:30
+<transcript>: Yeah.
+
+00:45:30
+<transcript>: start up
+
+00:45:32
+<transcript>: Start up world They're nuts.
+
+00:45:45
+estrangedhd: Wait 40h is a lot? DansGame
+
+00:46:18
+<transcript>: Yeah.
+
+00:46:33
+athano: @EstrangedHD yup
+
+00:46:57
+estrangedhd: @Athano 40hours is a regular work week in Belgium
+
+00:47:11
+athano: yeah but it should be 35 ;)
+
+00:47:14
+<transcript>: I get that sense.
+
+00:47:18
+<transcript>: Yeah.
+
+00:47:35
+estrangedhd: @Athano I mean, I could prob fit 40h of work in 35
+
+00:48:09
+<transcript>: So I I'm much more like short sprint. I have a goal, like a thing I want to do. And I'm really attracted to set the sound really like a hard problem. Like, this would be really hard to do. So I'd like to do it. I'm motivated by that kind of thing. I think, like not needing recognition. I would always have said, I don't need recognition, but I think, like.
+
+00:48:22
+<transcript>: Getting into the content stuff. It messes with you like, it messes with your head. You start like, one stuff you see, like, oh, that person like, they people really like that person. I want to be really liked. It's like a thing that I never cared.
+
+00:48:22
+<transcript>: yeah
+
+00:48:27
+<transcript>: Yeah. Like when I was just in a corner, like, kind of building stuff. And even Stat muse. Like, we were pretty.
+
+00:48:27
+<transcript>: lowkey
+
+00:48:47
+<transcript>: Lowkey. We built a lot of fun stuff working in that environment with that small team. I never like I felt like I had everything I wanted, and I think now I do feel like I'm wandering sometimes. I mean, going back to statini's help. Like, I think I'm excited about new purpose, like something that like I'm driving towards, but being completely independent and then starting to do content stuff is totally.
+
+00:48:47
+<transcript>: messed with my head
+
+00:48:49
+<transcript>: Messed with my head like I.
+
+00:48:49
+<transcript>: just literally
+
+00:49:01
+itsboek: imo anyone who says they work >= 40 hours a week just has really bad time management lol
+
+00:49:09
+<transcript>: Just literally yesterday trash. I felt like I was if I've ever been burnt out in my career, like I've always heard people thought, like, here's how to avoid burnout. No, you don't want to get burned out. I've never felt like I had anything remotely like that until yesterday. And then we're getting on this today. This is very I said it was like therapy for me.
+
+00:49:14
+<transcript>: Yesterday. I just kind of wanted to never do anything again.
+
+00:49:16
+<transcript>: Is that burn after.
+
+00:49:19
+<transcript>: Like I want him to never sit at my computer again.
+
+00:49:28
+<transcript>: I'm doing too much.
+
+00:49:31
+flipedits: it really be like that
+
+00:49:34
+<transcript>: Yeah.
+
+00:49:46
+<transcript>: So you know, I don't. I don't even feel like I'm doing like.
+
+00:49:53
+<transcript>: You say Twitter, I don't really feel like I do Twitter. Like, I don't really do it. Well, I just kind of like sometimes I.
+
+00:49:53
+<transcript>: that
+
+00:50:07
+<transcript>: That's another thing. I don't know who these, like, there's 140 people that follow me on Twitter. I don't know who they are. It's even like me, they don't really interact with anything I say. I just kind of like, would like to get rid of them. I think they like, there was like a handful of tweets where I'd like, Tweet something, right.
+
+00:50:07
+<transcript>: a thousand people
+
+00:50:13
+<transcript>: A thousand people would follow me. And that happened over the years. And now I have all these people. And I don't know who they are.
+
+00:50:13
+<transcript>: like
+
+00:50:16
+<transcript>: Like just stop following me if you don't like me.
+
+00:50:19
+<transcript>: I sound so burned out.
+
+00:50:22
+<transcript>: I think it.
+
+00:50:22
+<transcript>: just give me
+
+00:50:23
+<transcript>: Just give me something.
+
+00:50:25
+athano: loool
+
+00:50:29
+tiredbeaver: i love you adam
+
+00:50:36
+<transcript>: I just. I don't think I'm very relatable. You know what it is? I think I'm getting into, like, content stuff. I've started streaming on Twitch, which I've actually loved Twitch. Twitches. Like, the one place that I just enjoy. Like, there's nothing part of it feels like work.
+
+00:50:36
+<transcript>: it just it's fun
+
+00:50:37
+<transcript>: It just. It's fun.
+
+00:50:37
+<transcript>: and
+
+00:50:46
+<transcript>: And everything I do, it just feels like I don't think I'm very relatable. I don't think I should make contact because I don't. I just don't think I'm like other. I'm just weak.
+
+00:50:46
+<transcript>: not like
+
+00:50:49
+oetziofficial: <3
+
+00:50:51
+tiredbeaver: i'd go to youtube if more people were on there
+
+00:50:53
+<transcript>: Not like, in a good way. Like, oh, I'm better than you. And you can't relate with this. But just in, like, a. I think I have a weird sense of humor. I have a weird.
+
+00:50:53
+<transcript>: i don't know
+
+00:50:57
+oetziofficial: you are relatable tho
+
+00:50:58
+tiredbeaver: in terms of streaming
+
+00:51:09
+<transcript>: I don't know, personality. So I think it's the YouTube thing. I think that's what started the burnout. Like, I just started investing so much time thinking, like, I'm gonna make YouTube videos, and it takes forever. And I think I saw flip. I'm gonna have Flip edit my videos. So I don't have to, like, do that part of it, because.
+
+00:51:17
+<transcript>: I just saw his message. It really be like that. So I know he's here. I don't know what really be like that. But.
+
+00:51:21
+<transcript>: Yeah, yeah, I'm doing too much.
+
+00:51:21
+<transcript>: and like
+
+00:51:25
+<transcript>: And like this week. Sorry, just the burnout thing.
+
+00:51:34
+<transcript>: Yeah. No. Okay. So I spent, like, 12 hours watching next JS. Comp talks. Like all the Nixus. Comp. What's that.
+
+00:51:35
+flipedits: 🙏🙏🙏
+
+00:51:36
+21_blu3: hiiiiiiiii guys
+
+00:51:40
+oetziofficial: if you can delegate the tasks :D
+
+00:51:54
+<transcript>: Yeah. No, that was the first mistake because I just decided, like, I'm gonna do a recap of Next JS. Comp. And that was the problem. Like, I made one little, like, decision, like, yeah, I should do that. And then it involves all this work and I get to the end of it. And like, most of that was garbage. Like most of the conference talks I watched were just terrible. And they were like, paid advertisements. That Brasil.
+
+00:51:54
+<transcript>: like
+
+00:51:57
+<transcript>: Like just agreed to do.
+
+00:51:57
+<transcript>: and i
+
+00:51:57
+athano: hahahaa
+
+00:52:04
+athano: this is the recap right now
+
+00:52:12
+laytanl_: I would burn out watching all the talks too
+
+00:52:13
+watchbfl: adam im going through some of what you are feeling just trying to start up a dev stream
+
+00:52:13
+<transcript>: And I thought that's just like, who's gonna want to watch this? Who's gonna watch a recap of all this garbage? So now that we'll talk about the ones that were actually good, but that was it. That was like, I don't think I'm very good at deciding what people would want. So, like, why am I even doing YouTube? I don't know. Okay. I'm done that's. Such a sad story.
+
+00:52:22
+watchbfl: <3
+
+00:52:23
+athano: "most of the talks were garbage" -adam elmore 2022
+
+00:52:25
+<transcript>: Really.
+
+00:52:26
+21_blu3: i really started to be here, adam feel like a down to earth guy, just chilling
+
+00:52:27
+<transcript>: Tell me more.
+
+00:52:35
+<transcript>: Are you just talking about me? Are you just like you're just.
+
+00:52:38
+laytanl_: most talks were just ads
+
+00:52:40
+<transcript>: Yeah.
+
+00:52:48
+funkyknucks: everyone thinks that
+
+00:52:57
+<transcript>: It is stupid.
+
+00:53:05
+<transcript>: I do too. I'm always on my wife said that's the one problem I just need to get off Twitter.
+
+00:53:12
+<transcript>: It's addicting.
+
+00:53:23
+laytanl_: I think you are great at all of this Adam
+
+00:53:33
+<transcript>: Yeah, Yeah.
+
+00:53:34
+oetziofficial: the FOMO on twitter is strong
+
+00:53:40
+watchbfl: lmao
+
+00:53:56
+watchbfl: @trash_dev literally me after I came across you
+
+00:54:07
+<transcript>: All of it.
+
+00:54:16
+<transcript>: Yeah.
+
+00:54:19
+thdxr: idk I think adam could be doing better
+
+00:54:33
+<transcript>: And everybody says, don't, like, I'll just don't care, don't compare about comparison to other people. Like, how, how do you just not compare yourself to other people? It's the Internet, like, there's so many people.
+
+00:54:38
+watchbfl: "just dont"
+
+00:54:48
+<transcript>: Yeah.
+
+00:54:56
+<transcript>: Yeah, same, Yeah.
+
+00:55:01
+oetziofficial: I told trash many times to stop calling himself bad and such
+
+00:55:16
+thdxr: but he is bad?
+
+00:55:21
+oetziofficial: because over the longterm the subconsious can take that real
+
+00:55:33
+<transcript>: Wow.
+
+00:55:37
+oetziofficial: @thdxr no he is not bad, he is actually good
+
+00:55:44
+oetziofficial: (I understand the sarcasm)
+
+00:55:48
+thdxr: idk his name is trash
+
+00:55:53
+thdxr: prob bad
+
+00:55:55
+oetziofficial: KEKW
+
+00:56:01
+<transcript>: It's more asynchronous like you can just kind of send it off.
+
+00:56:02
+vinny_code: he is bad. No good at all.
+
+00:56:03
+<transcript>: Yeah.
+
+00:56:08
+vinny_code: *not
+
+00:56:40
+<transcript>: Same.
+
+00:56:48
+<transcript>: Whoa. Me too? And I always think, yeah, I think I'm such an old person.
+
+00:57:12
+<transcript>: Yeah.
+
+00:57:42
+tomlienarddd: hey all
+
+00:57:58
+<transcript>: But you don't think you're a content creator.
+
+00:57:58
+<transcript>: like what
+
+00:58:00
+<transcript>: Like, what is a content creator.
+
+00:58:03
+<transcript>: I don't either.
+
+00:58:16
+<transcript>: Yeah.
+
+00:58:31
+<transcript>: Interesting.
+
+00:58:42
+<transcript>: Yeah.
+
+00:58:49
+<transcript>: So that's that's yet.
+
+00:59:09
+<transcript>: That's why I started the Twitch thing. It's like I didn't know that I would love that so much. But I love, like, while I'm doing something to be able to just interact with people, I never saw it. I'd once that. But like, that's fantastic. And I think I started Twitch. We've completely, like, no ambitions. And then you learn that there's, like, a Twitch partnership. And you can't not want that.
+
+00:59:09
+<transcript>: thing
+
+00:59:15
+<transcript>: Thing. It's like, oh, there's a little thing I can get a little carrot. I want that carrot. Yeah.
+
+00:59:17
+<transcript>: But you go in with such innocent.
+
+00:59:17
+<transcript>: but
+
+00:59:25
+watchbfl: twitch achievements are addicting
+
+00:59:25
+<transcript>: But you go in with such innocent, like, I don't really care. And then they make you care. And I don't like that. I don't like it at all.
+
+00:59:25
+<transcript>: like i didn't
+
+00:59:27
+<transcript>: Like I didn't care about Twitter.
+
+00:59:27
+<transcript>: and
+
+00:59:28
+<transcript>: And.
+
+00:59:30
+<transcript>: Seriously.
+
+00:59:35
+<transcript>: And I know it's gonna happen with YouTube, too. I wanted to, like, teach people.
+
+00:59:35
+<transcript>: i
+
+00:59:47
+<transcript>: I thought I'd do YouTube, and like, that's a great Avenue for, like, teaching stuff. And then I just realized I'm making stuff that's, like topical nonsense. Like, who cares about Nick? Shave. Comp. Why am I making a video about it? I don't know. Watch my YouTube, though. Check it out.
+
+01:00:28
+<transcript>: Yeah.
+
+01:00:29
+thegeniusidiot_: howdy howdy
+
+01:00:35
+estrangedhd: @watchBFL that's the entire point of achievments
+
+01:00:47
+oetziofficial: <3
+
+01:00:59
+tomlienarddd: hey you copied my ts
+
+01:01:01
+barryxbtw: trash meetup coming soon?
+
+01:01:10
+<transcript>: Oh, yeah? I feel like I've made? Yeah, I've made way better friends on Twitter than I've ever made on Twitter. And I've been on Twitter for, like, 14 years or whatever.
+
+01:01:11
+flipedits: its a trip
+
+01:01:25
+<transcript>: Yeah.
+
+01:01:28
+<transcript>: Yeah, I think every.
+
+01:01:28
+<transcript>: amount of it
+
+01:01:33
+<transcript>: Amount of it probably. I think everybody needs it just in varying amounts.
+
+01:01:37
+<transcript>: Yeah.
+
+01:01:53
+<transcript>: I'm still like that.
+
+01:02:00
+thegeniusidiot_: extrovert behind a screen mostly, irl not so great
+
+01:02:05
+<transcript>: You're learning, rest.
+
+01:02:09
+<transcript>: Yet.
+
+01:02:16
+flipedits: rust btw
+
+01:02:18
+<transcript>: Yeah.
+
+01:02:21
+estrangedhd: Trash a prime wannabe confirmed Kappa
+
+01:02:25
+watchbfl: @watchBFL yeah i was just agreeing with them cuz they were saying they cared about partner
+
+01:03:10
+<transcript>: Oh, it up. Your trash. Your trash like strategy has been tainted a little bit because they know you work at Netflix.
+
+01:03:16
+oetziofficial: I dont have expectation
+
+01:03:28
+athano: I expect trash to be a dev god
+
+01:03:29
+2dorkstv: Dude, I feel seen
+
+01:03:30
+<transcript>: Yeah.
+
+01:03:31
+oetziofficial: when you worked on hulu I had some
+
+01:03:46
+oetziofficial: but now I am like trash is just a software eng like me :)
+
+01:03:48
+<transcript>: No, I'm done no, I'm done.
+
+01:03:54
+itsboek: Double imposter syndrome
+
+01:03:55
+0xyeti: Netflix needs janitors too man
+
+01:03:59
+<transcript>: Yeah.
+
+01:03:59
+<transcript>: i
+
+01:04:00
+<transcript>: I.
+
+01:04:08
+ashirbad29: imposter syndrome deadlock
+
+01:04:27
+<transcript>: Don't so I'm ever had Imposter syndrome. And like I've been burnout now, I think yesterday was my burnout moment. I'm still probably burnt out. I'm just putting on a good face.
+
+01:04:33
+<transcript>: The Imposter Syndrome thing, though I never felt that, and I don't know if it's because I'm in Narcissist, and I just think I'm the best.
+
+01:04:33
+<transcript>: and
+
+01:04:37
+<transcript>: And why would it? No, I really don't think that.
+
+01:04:37
+<transcript>: well
+
+01:04:39
+itsboek: Lmao
+
+01:04:50
+flipedits: I got it bad lmao
+
+01:04:50
+<transcript>: Well, I don't think I'm even that good at it. I think I just haven't worked with people enough. Like, maybe if you don't work with other people at companies where people work together, maybe just don't get it. But I could you explain to me like, how that plays out for you? Like you feel like.
+
+01:04:50
+<transcript>: you're not
+
+01:04:55
+<transcript>: You're not worthy of being good at this or something. What is Imposter Syndrome? Tell me more.
+
+01:05:13
+<transcript>: I've had that. Okay. I've had that. Yeah.
+
+01:05:19
+<transcript>: No, I do that all the time. Yeah.
+
+01:05:38
+<transcript>: Oh no.
+
+01:05:44
+ashirbad29: lol
+
+01:05:58
+<transcript>: That's probably one of the harder ones.
+
+01:05:58
+<transcript>: to
+
+01:06:00
+<transcript>: To understand everything.
+
+01:06:14
+<transcript>: Yeah? 50,000 light? Yeah.
+
+01:06:23
+zer0cosmos: Relevant daily meme “Are you good enough to have imposter syndrome? “
+
+01:06:25
+oetziofficial: tbh for me twitch got me bad imposter syndrome. I see these HUGE coders and how well they achieved their craft and I look at myself like: "oof you dum dum bad code everywhere" - but to counter that I just take a coding break and it helps me
+
+01:06:27
+tomlienarddd: Codebases aren't made in a day, nor a week, nor a month
+
+01:06:36
+<transcript>: No.
+
+01:06:48
+<transcript>: Yeah. No, I don't know. Like on that example, like looking at other people's code. I just don't know if it's ever easy for anybody.
+
+01:06:48
+<transcript>: if you think about
+
+01:06:51
+trash_dev: exactly
+
+01:06:53
+athano: @Zer0cosmos yeah that's the Dunning–Kruger effect
+
+01:07:08
+<transcript>: If you think about how hard it is when you go back to a project, like if you let something sit dormant for six months and then you go back how hard it is for you. Even it's like, it's the only way you can really understand a code base. I feel like is if you're working on it every single day, and then it's like, you know everything and all the places where all the skeletons in the closet are or whatever. So I would never have thought that like I would never look at a repo and feel like.
+
+01:07:08
+<transcript>: oh i
+
+01:07:15
+<transcript>: Oh, I don't understand this. I must be dumb, but it's interesting. I love getting your perspective on some of this stuff, and you can fix me.
+
+01:07:24
+<transcript>: Yeah.
+
+01:07:24
+<transcript>: you're
+
+01:07:29
+<transcript>: You're seeing everybody's highlight reels all at the same time. I think the Internet is just breaking our brains.
+
+01:07:36
+<transcript>: Yeah.
+
+01:07:49
+thdxr: when SST 2.0 comes out I'm going to wipe our git history so we look flawless
+
+01:08:05
+<transcript>: Yeah, no, we're both it's like we have very different toxic thoughts, but they're both toxic. And I think other people have these thoughts. We're just falling into some kind of camps.
+
+01:08:46
+<transcript>: It's a good point. Like I started doing Twitch, loved it immediately. I'm trying to think of other platforms that I've engaged with or started creating something like anytime I think I'm making something like building a product or something from scratch. I've never had a bad experience or not enjoyed that. Like I don't care if anyone ever sees it or uses it. Like just that experience.
+
+01:08:46
+<transcript>: seems so
+
+01:08:52
+<transcript>: Seems so pure and like, I could never get tired of it. But then so I thought, like, I want to do the SAS thing.
+
+01:08:52
+<transcript>: that
+
+01:09:10
+<transcript>: That I don't think I want to build. I don't think I want to, like, do the marketing and all the things you have to do to build a company around a product. I think I just, like, building product. So then it was like, oh, I want to teach people that's what led me to YouTube is like, thinking long term. And that's YouTube, for me, was like, this longerterm vision of, like, how do I want to spend my time.
+
+01:09:19
+<transcript>: For companies or for individual startups or whatever consulting that stuff. Or do I want to, like, try and teach as many people.
+
+01:09:19
+<transcript>: to like get into
+
+01:09:24
+<transcript>: To, like, get into this career because I know it's been so good to me that sounds so cheesy.
+
+01:09:26
+<transcript>: But.
+
+01:09:30
+<transcript>: Yeah. And it starts out that way.
+
+01:09:50
+<transcript>: Yeah, I do. I think, like, if I could be reaching more people that way, that sounds like a Morphin thing to do with my time. But then it's like, as soon as I start down that pass, I feel like the motivations get tainted. Like, as soon as you plug yourself into a new platform, like, YouTube, you just start seeing like, oh, this is how I should do it. I should think, like, these people, I should make stuff that.
+
+01:09:50
+<transcript>: gives a lot
+
+01:09:52
+<transcript>: Gives a lot of views or whatever.
+
+01:09:52
+<transcript>: i don't know
+
+01:09:55
+flipedits: I don't work with a single creator that actually "likes" doing YouTube. Its draining, and defiantly more of a business then hobby
+
+01:10:02
+itsboek: I think the problem with education on YouTube is the algorithm ruins the quality of content
+
+01:10:12
+<transcript>: I don't know. It just it feels like I immediately got distracted with what my whole purpose here. I don't want to just make screencasts that are, like, here's how to center this thing with tailwind. That just feels like, I don't know. At some point, I'll get tired of making those. I think that would be teaching. And that's what I kind of signed up for. And I shouldn't just be making, like, here's my thoughts on things, videos.
+
+01:10:12
+<transcript>: i don't know
+
+01:10:14
+<transcript>: I don't know.
+
+01:10:17
+<transcript>: Yeah.
+
+01:10:17
+oetziofficial: @tomlienarddd my projects currently take 1.5 years
+
+01:10:25
+oetziofficial: and the current project is 2 months old
+
+01:10:31
+ched_dev: hi adam + trash!
+
+01:10:34
+itsboek: It rewards people for clickbait low effort videos
+
+01:10:37
+<transcript>: Oh really.
+
+01:10:42
+<transcript>: Interesting.
+
+01:10:45
+<transcript>: Yeah.
+
+01:11:01
+<transcript>: Oh Yeah.
+
+01:11:35
+<transcript>: That milestone.
+
+01:11:43
+<transcript>: Yeah. Now you're just hang out. Yeah.
+
+01:11:47
+flipedits: 100%
+
+01:11:52
+flipedits: this is fax
+
+01:12:04
+<transcript>: Yeah. It's like it's like the early going. It's a signal, like in the early phase of you just broke that milestone. Now you just kind of don't care. I remember caring about, like getting 100 followers on Twitter. And then once I have it, it's kind of like, okay. Yeah. I don't really post anything. I care about it anymore on Twitter.
+
+01:12:04
+<transcript>: and
+
+01:12:15
+<transcript>: And it's just a cycle, though. Then you start eyeing like somebody else or something else. That makes you think you want something else. Yeah, it's content. I'm never content. Will we ever be content? Trash.
+
+01:12:15
+<transcript>: we'll be of a ret
+
+01:12:17
+<transcript>: We'll be of a retire.
+
+01:12:26
+<transcript>: Yeah.
+
+01:12:48
+<transcript>: Sure.
+
+01:12:54
+<transcript>: Yeah.
+
+01:12:55
+flipedits: We hit the 100k, then it turned into a "now what.." situation
+
+01:13:11
+<transcript>: We're broken. How do we fix ourselves? Yeah, like psychology. The internet.
+
+01:13:24
+<transcript>: Yeah.
+
+01:13:55
+<transcript>: Meaning.
+
+01:13:55
+<transcript>: yeah
+
+01:13:57
+<transcript>: Yeah.
+
+01:14:06
+<transcript>: Let's go there, let's go there.
+
+01:14:08
+<transcript>: Nothing matters.
+
+01:14:15
+<transcript>: I saw his meaningless sweet. I know what you're talking about.
+
+01:14:22
+<transcript>: Yeah, sure.
+
+01:14:29
+<transcript>: I don't either.
+
+01:14:36
+estrangedhd: We're going towards the "what is the meaning of life"
+
+01:14:43
+natedunn: the dred coming out of this interview is wild and im kinda here for it
+
+01:14:54
+corazin: lul, existential crisis in the chat? what is going on?
+
+01:15:11
+<transcript>: Yeah.
+
+01:15:24
+<transcript>: Oh, no, I'm sick. Actually. I've got, like, a sword throat or something. Yeah.
+
+01:15:45
+<transcript>: It is being yourself. Yeah.
+
+01:16:05
+<transcript>: I think that's why I like Twitch. I think like you don't have to, like, curate or filter or like the thing about YouTube that's feeling hard for me is I don't know how much I have, like original thoughts or that I want to share them.
+
+01:16:05
+<transcript>: i just
+
+01:16:25
+<transcript>: I just I much prefer just doing stuff I'm spitting all over the place. I much prefer just like working on something whether anyone's watching or not. And it's been really fun on Twitch to know that people do kind of want to watch or they just want to hang out with you while you do your thing, while they're doing their thing. That's been super refreshing. So I don't know how to take that and apply it to every other thing I'm doing. Like if I.
+
+01:16:25
+<transcript>: could spend all my time
+
+01:16:28
+<transcript>: Could spend all my time on Twitch. I think that's what I do, but.
+
+01:16:28
+<transcript>: i'm sure
+
+01:16:35
+<transcript>: I'm sure. Then I'd get sucked into something. I mean, eventually, I know that the partnership thing with which that's a carrot. But.
+
+01:16:42
+barryxbtw: cooking dinner streams upcoming
+
+01:16:44
+<transcript>: Yeah.
+
+01:16:51
+yeltrah_: HAha
+
+01:16:57
+yeltrah_: Agreed, why do we always need a hot take
+
+01:17:03
+thenovaglow: What's your take on Trash?
+
+01:17:04
+itsboek: also the takes aren’t even hot lol
+
+01:17:15
+zer0cosmos: Do you guys consider the people you’ve met in the twitch sphere friends ?
+
+01:17:15
+<transcript>: It's our it's our monkey brains trash. It's our, like reptile our repile brains that just they want, like things that are out there and divisive. And like all these social media algorithms, it's like YouTube. The whole, like face thing on YouTube. You can't help but just think about the fact that we do click on those things we don't think we want.
+
+01:17:15
+<transcript>: those things but
+
+01:17:19
+ched_dev: hot take: trash isn't even trashy
+
+01:17:23
+oetziofficial: gotta say i love this talk
+
+01:17:27
+<transcript>: Those things, but we do want them are the lower parts of our brain. Or like, OOH, that face looks crazy. I want to click on that thing. Or that was an outlandish, very divisive thing to say on Twitter. That sounds fun.
+
+01:17:27
+<transcript>: let's engage with
+
+01:17:29
+<transcript>: Let's engage with that. It's like we can't help.
+
+01:17:29
+<transcript>: the way
+
+01:17:37
+corazin: It's because we have been bombarded by so many freamworks/languages. We are all trying to filter whether or not we have to care about it :P
+
+01:17:45
+<transcript>: The way our brains work. And that creates this weird. If you're making anything on the Internet, these weird incentives where you're trying to do things to trigger that part of people's brain. I think that's where the takes come from. I think it's like that does get traction. People care about takes.
+
+01:17:51
+<transcript>: Yeah.
+
+01:18:04
+itsboek: @corazin This is a hood take LUL
+
+01:18:08
+itsboek: good*
+
+01:18:20
+uberrick: You shouldn’t read this Adam
+
+01:18:26
+<transcript>: Never thought about it. Yeah.
+
+01:18:34
+laytanl_: Hot take: *insert generic take*
+
+01:18:37
+thenovaglow: Ask Trash for his take on One Piece
+
+01:18:40
+<transcript>: Do it, Yeah.
+
+01:18:48
+<transcript>: Well. What? Yeah.
+
+01:18:57
+flipedits: Gotta bounce. Keep it up boys, your doing the lords work. These are important conversations to have
+
+01:19:16
+<transcript>: Flip. But what is the what is the out? Somebody just said I shouldn't read something. Rick says I shouldn't read something. Now I need to read it. I shouldn't read this atom. And it does. So my Frameworks languages.
+
+01:19:22
+<transcript>: What? Should I not read? Rick, I feel like you tell me I shouldn't read it. I'm going to read it.
+
+01:19:22
+<transcript>: i missed
+
+01:19:23
+<transcript>: I missed it.
+
+01:19:29
+<transcript>: Yeah. What about so you say educational? Like when people make real, genuinely.
+
+01:19:29
+<transcript>: honest
+
+01:19:31
+<transcript>: Honest educational material.
+
+01:19:31
+<transcript>: it does
+
+01:19:42
+uberrick: Haha I was joking
+
+01:19:51
+<transcript>: It does suck. That like it's gonna get picked apart when it's technical, like there's going to. But what about did you talk to all I feel like you've talked about this on Twitch, like the Grift. And now that you're more on Twitter, you're seeing it because that's I think where it thrives, like the people who just make stuff that so much BS. But it gets so much engagement. Who are all these people that are liking the dumb Lid list of.
+
+01:19:51
+<transcript>: twelve things
+
+01:19:54
+<transcript>: Twelve things that are semirelated, and what.
+
+01:19:54
+<transcript>: to read
+
+01:19:58
+uberrick: On the lines of why we click on things
+
+01:20:01
+<transcript>: To read that. But like I'm on a Bookmarket and like it, who are these people? And why does that work? And how do we feel good about it.
+
+01:20:08
+<transcript>: Yeah.
+
+01:20:10
+thdxr: ^ lol it worked
+
+01:20:14
+itsboek: Twitter algorithm promotes it because people spend more time on that tweet than others
+
+01:20:15
+uberrick: Clearly I’m made for this click bait world
+
+01:20:15
+barryxbtw: we talking about all these beginner focused creators?
+
+01:20:20
+<transcript>: Oh Yeah.
+
+01:20:23
+itsboek: monkey brain sees a thread and has to open it to see the first tweet
+
+01:20:26
+estrangedhd: oh we going back back
+
+01:20:27
+thdxr: everyone use chronological twitter feed, I find I'm so much happier
+
+01:20:37
+thdxr: I never see that thread crap
+
+01:20:49
+itsboek: @thdxr This is definitely the way
+
+01:20:58
+yeltrah_: @thdxr I thought everyone did it this way
+
+01:21:05
+laytanl_: 100% I see so many bad lists, cringe and advice with thousands of likes
+
+01:21:08
+zer0cosmos: Lol I’ve read the 100 tweets  thread from Dan abramov and I don’t regret it
+
+01:21:13
+watchbfl: When I first saw JSX I was like WTF
+
+01:21:17
+<transcript>: And when I think about that, I think I come to that conclusion too. And I get upset. And that's when I get really mad about the state of all this because I do feel like there's honest people getting lead. Astray with all the grift, it's like people see that stuff they don't know any better. If you know better, it's just whatever you can mute it, you can filter it out. But the people who don't they're the ones that are just getting bombarded with all this.
+
+01:21:17
+<transcript>: nonsense
+
+01:21:31
+<transcript>: Nonsense. And when it looks like a lot of people agree with that thing, that's the other thing everybody's liking and retweeting it. So it must be valuable information. And then they spend twelve weeks going through a sip by step program where they're learning HTML, then CSS.
+
+01:21:31
+<transcript>: then javascript
+
+01:21:40
+<transcript>: Then JavaScript, then whatever Linux fundamentals, like just all that stuff. It drives me at the wall. I don't know how to solve it and how to feel good about the internet.
+
+01:21:47
+<transcript>: Yeah.
+
+01:21:52
+<transcript>: Just amplify and become part of the problem. Yeah.
+
+01:22:17
+<transcript>: I guess I don't know. Then I started not wanting to post anything on Twitter, just there's so much grift, so much of that that I don't want to post something helpful because it feels like I'm part of the problem, like I'm making. But it's not if you actually understand something and you break it down for people that's not grift. The whole definition right of grift is like these people who don't really have a good understanding and they're just tweeting things.
+
+01:22:17
+<transcript>: they know
+
+01:22:25
+laytanl_: all those "JavaScript is weird" tweets as well
+
+01:22:32
+laytanl_: jeez I'm getting triggered
+
+01:22:38
+<transcript>: They know get a lot of engagement. That's the thing that's so harmful. But it just it does. It makes you a verse. As somebody who tries to help other people, you don't want to do it because you just don't want to look like you're going for the clicks because it will probably do well, if you may a genuinely good threat. I made some where it's like, I'm really talking about stuff, but I have experience with and I think it's gonna be helpful to somebody. And then it gets like, in these kind of traction, you.
+
+01:22:38
+<transcript>: feel bad
+
+01:22:41
+<transcript>: Feel bad. You feel like you're. You're just gripping.
+
+01:22:41
+itsboek: @Zer0cosmos I think there is a difference between the people who try to fit a blog post into a thread of tweets and the people that post “10 things JavaScript developers need to know 🧵”
+
+01:22:44
+thenovaglow: There are actually some good threads, w/o a doubt.
+
+01:22:49
+<transcript>: Yeah. Maybe.
+
+01:22:53
+<transcript>: Leaning into it.
+
+01:23:03
+<transcript>: Yeah.
+
+01:23:03
+<transcript>: i love your stuff
+
+01:23:05
+itsboek: @Zer0cosmos I think they’re mostly talking about the latter
+
+01:23:07
+thdxr: I always wonder if other industries are like tech twitter. Is doctor twitter filled with doctors dunking on each other
+
+01:23:13
+<transcript>: I love your stuff on Twitter. I just I do. And a lot of the people I feel like a lot of senior people have gone that route. They've decided like, this place is awful. I'm just gonna post funny stuff.
+
+01:23:13
+<transcript>: and you know
+
+01:23:19
+<transcript>: And you know, just post funny stuff, but like you're funny stuff is really funny. Like you do really good in that category.
+
+01:23:20
+zer0cosmos: Those threads are viral because they appeal to people’s desire to not take wrong choices or avoid be mistaken
+
+01:23:21
+uberrick: Think too many people spend time and energy to explain why they don’t use something
+
+01:23:22
+<transcript>: Yeah.
+
+01:23:35
+<transcript>: I mean I don't have other friends, so.
+
+01:23:38
+thenovaglow: I'm STILL waiting on him to make more TikTok memes. :(
+
+01:23:41
+<transcript>: Yeah.
+
+01:23:41
+uberrick: That last anti tailwind triggered me haha
+
+01:23:45
+<transcript>: So.
+
+01:23:45
+<transcript>: honestly
+
+01:23:47
+<transcript>: Honestly.
+
+01:23:47
+<transcript>: this is not
+
+01:23:52
+<transcript>: This is not exaggeration. I have a neighbor. Two doors down. They've been.
+
+01:23:53
+laytanl_: "What do you think 1+"1' is in JavaScript??????
+
+01:23:57
+ched_dev: @UberRick gottem
+
+01:24:07
+<transcript>: We go and walks. He's into AWS. So, like, there's nobody else in Springfield, there's surrounding hundred miles. Nobody cares about AWS. Who knows what it is. But Ben, my neighbor. He's into it. He's a complete consultant. He does kind of what I do.
+
+01:24:07
+<transcript>: we go on
+
+01:24:11
+<transcript>: We go on walks like once a week, we hang out that's he's a friend.
+
+01:24:11
+<transcript>: i
+
+01:24:18
+uberrick: @ched_dev 😂
+
+01:24:19
+<transcript>: I know. We do. Yeah. We're walking up and down with the other old man. Like, there are a lot of old men in our neighborhood. So it's very, Yeah.
+
+01:24:19
+<transcript>: so
+
+01:24:27
+<transcript>: So I have that friend and then don't know anybody else that knows anything about tech like in person in this area.
+
+01:24:27
+<transcript>: my wife doesn't
+
+01:24:29
+thenovaglow: That actually sounds kinda lit lol
+
+01:24:33
+<transcript>: My wife doesn't even care about this stuff, so I have to have friends on the Internet, like the people I interact with on Twitch.
+
+01:24:33
+<transcript>: i don't know if
+
+01:24:38
+<transcript>: I don't know if you all know this, that you're my friend, but like you are that's all I have.
+
+01:24:39
+<transcript>: sounds
+
+01:24:53
+<transcript>: Sounds so sad. And then Twitter like, I've definitely met people like DAX on Twitter that become friends. And that's the closest thing I have to friends. I don't know if that's normal in 2022 to have most of your friendships be on the Internet where you don't really hang out in person.
+
+01:24:53
+<transcript>: but
+
+01:24:55
+<transcript>: But.
+
+01:24:59
+thenovaglow: brb. gonna follow you on Twitter so we can be friends. <3
+
+01:25:01
+<transcript>: Yeah.
+
+01:25:02
+itsboek: akawrLove
+
+01:25:11
+ched_dev: i like to think of twitch as a way to "pick your coworkers"
+
+01:25:14
+<transcript>: And then like, they're not even going. I've heard that that like kids these days don't really go hang out at each other's houses. They just continue to hang out on the Internet, even though they live in close proximity, like similar geography. So I guess in that's it we're not missing anything.
+
+01:25:19
+<transcript>: Yeah.
+
+01:25:23
+thdxr: all my in person friends now live in different places so they're now internet friends too
+
+01:25:25
+oetziofficial: discord is our new playground
+
+01:25:26
+itsboek: My longest friends are people that I learned WebDev and played counter strike with in the early 00s
+
+01:25:49
+<transcript>: But they all live like in Virginia.
+
+01:25:52
+<transcript>: Yeah.
+
+01:26:17
+corazin: Come on, be honest, you always wanna talk about JavaScript :P
+
+01:26:18
+<transcript>: Some of them are awful.
+
+01:26:19
+<transcript>: But.
+
+01:26:35
+<transcript>: So I I feel like my little community.
+
+01:26:35
+<transcript>: i've not run
+
+01:26:53
+<transcript>: I've not run into a lot of the bad. And I think my theory is that I'm such an old person. And like, I come off as such an old person on Twitch. Like, I'm so disconnected from Gin Z that a lot of the like people who are very Internet savvy and are kind of like trolls on the Internet. Don't hang out. They just immediately see my stream. They're like this guy, he's.
+
+01:26:53
+<transcript>: just
+
+01:26:55
+<transcript>: Just out.
+
+01:26:59
+barryxbtw: !discord
+
+01:27:00
+fossabot: Adam has a Discord server and he'd love to see you there: https://discord.gg/E92M2chd3e
+
+01:27:04
+thdxr: same our community is so calm because everyone is old
+
+01:27:04
+<transcript>: Of compliment. I love it. I love it so much.
+
+01:27:08
+<transcript>: Yes.
+
+01:27:12
+thdxr: "old" aka in their 30s
+
+01:27:17
+<transcript>: I do. I have the buildings.
+
+01:27:19
+<transcript>: Yeah.
+
+01:27:19
+ched_dev: following for mr rogers
+
+01:27:21
+<transcript>: I've done this to myself.
+
+01:27:22
+yeltrah_: hahah
+
+01:27:24
+yeltrah_: mr rogers
+
+01:27:28
+zer0cosmos: Lol
+
+01:27:29
+<transcript>: Yeah.
+
+01:27:36
+yeltrah_: I see it
+
+01:27:43
+<transcript>: You're the most approachable approachable person. I think in the texting like nobody feels intimidated. Maybe this is the name that lowers the initial.
+
+01:27:43
+<transcript>: like you don't take
+
+01:27:46
+<transcript>: Like you don't take things too seriously, which is so refreshing.
+
+01:27:53
+<transcript>: Yeah.
+
+01:27:57
+laytanl_: adamdo8Animadam adamdo8Animadam seems pretty young to me
+
+01:27:57
+thenovaglow: trash has approachable weeb vibes.
+
+01:28:11
+<transcript>: Tanner. For sure. Yeah.
+
+01:28:18
+<transcript>: Oh boy.
+
+01:28:25
+yeltrah_: LOL
+
+01:28:36
+yeltrah_: @trash_dev that would be me
+
+01:29:09
+<transcript>: Yeah.
+
+01:29:19
+laytanl_: LUL LUL
+
+01:29:36
+zer0cosmos: I loved the short :” there are so many girls here” I cracked so hard watching that
+
+01:29:42
+<transcript>: But you just laugh if you go, like, smile, Yeah.
+
+01:29:46
+<transcript>: Yeah.
+
+01:30:03
+<transcript>: I'm your hanging out with some of the smartest, smartest people I think.
+
+01:30:03
+<transcript>: at that conference
+
+01:30:08
+<transcript>: At that conference. That was that would make anybody feel like an imposter. I would think.
+
+01:30:27
+<transcript>: But now you're learning, you're learning rests. Is that gonna check that box? Like you can make rust jokes.
+
+01:30:30
+<transcript>: You need to save me the day you spent on your.
+
+01:30:30
+<transcript>: neil
+
+01:30:36
+<transcript>: Neil, them config. Like, Can you send me the two lines? That everybody's saying, it's just two lines and.
+
+01:30:49
+<transcript>: I'll look your dot files to make sure I know cuz. I'm gonna I'm eventually gonna do it. I'm gonna do the rest thing. I have to. I'm on Twitch.
+
+01:30:58
+<transcript>: Yeah. Next cop was kind of that for me. I feel like.
+
+01:30:58
+<transcript>: enough of
+
+01:30:58
+thenovaglow: Null was on Vacation too. Poor guy lol
+
+01:31:06
+<transcript>: Enough of like the talk and deep diving into some of this stuff and all the complexity that is reacting.
+
+01:31:06
+<transcript>: next thirteen
+
+01:31:10
+watchbfl: 10x FASTER
+
+01:31:12
+<transcript>: Next 13. It did so that it kind of made me want to just build like a CLI app. Just something simple.
+
+01:31:15
+<transcript>: Yeah.
+
+01:31:17
+barryxbtw: cli fun to make
+
+01:31:24
+<transcript>: Oh yeah for sure.
+
+01:31:27
+corazin: I enjoyed trash_dev's talk at nextjs conf
+
+01:31:36
+uberrick: There’s no place to collect your garbage code 😂
+
+01:31:38
+oetziofficial: trash/cli when? 👀
+
+01:31:39
+estrangedhd: Bear metal rust development? Kappa
+
+01:31:55
+<transcript>: That is the hardest.
+
+01:31:55
+<transcript>: it's so
+
+01:31:58
+creativenull: oh no I'm late :(
+
+01:32:15
+<transcript>: It's so helpful when you find a few people in your chat that can really help you. You know, like they'll help you through certain problems. But it is hard when a lot of people have opinions about a thing and you just can't take them all. I know I could use Lunar van. I could do this. I could do that. But like, I need to go down a certain path, and that does get hard to balance. I don't know if I mind learning so much on stream, but.
+
+01:32:15
+<transcript>: i do
+
+01:32:16
+oetziofficial: yea thats why I didnt say things for the config, I had no clue how to fix it
+
+01:32:19
+thenovaglow: I was late too @CreativeNull
+
+01:32:26
+<transcript>: I do know that I'm doing things so much slower, like I take the time and I interact myself to do stuff with chat. Like, I know I'm not doing as much as I do when I'm not on stream, but it's just so fun. I think it's worth it.
+
+01:32:30
+<transcript>: Yeah.
+
+01:32:32
+creativenull: @TheNovaGlow late bro lfg LUL
+
+01:32:34
+uberrick: It’s insane how people like Prime just starts a stream with so little prep
+
+01:32:38
+oetziofficial: slow is better, practise needs low speed
+
+01:32:41
+<transcript>: Right. Yeah.
+
+01:32:50
+<transcript>: You got a guy.
+
+01:32:52
+thenovaglow: @TheNovaGlow LUL LFG
+
+01:32:58
+<transcript>: That's awesome.
+
+01:32:59
+creativenull: lmaoo
+
+01:33:10
+oetziofficial: 😂
+
+01:33:34
+<transcript>: I'm not I don't think I'm doing that. I think it looks like that's the thing about the Internet is everyone looks like they did a lot because you're seeing like their whole like my whole 15 year career. And I don't do any one of those things at the same time. Like I've started trying to do YouTube, so I've not streamed as much. Which sucks.
+
+01:33:37
+<transcript>: Twitter is whatever.
+
+01:33:48
+<transcript>: Yeah. Because I want to do I want to do the YouTube thing. And I felt like I can't really do them at the same time. I know some people like Theo, just like streams and then turns that into YouTube videos.
+
+01:33:51
+<transcript>: Oh Yeah.
+
+01:34:20
+<transcript>: He knows a lot of stuff.
+
+01:34:20
+<transcript>: yeah
+
+01:34:21
+<transcript>: Yeah.
+
+01:34:23
+laytanl_: redeems don't work guys
+
+01:34:46
+shyryan: my brain works a lot better than my mouth
+
+01:34:46
+<transcript>: Oh, yeah. No, for real. I'm the same way. Like I I do a lot of filler words, like, in order to come off, it sound like, you know what I'm talking about? I just fill in with all these long phrases. And when I'm doing YouTube, I'm realizing how much of what I say is worthless. Like I look at the transcript for the second video, and it's like, I can't make it. It looks like a Biden transcript. I can't make sense.
+
+01:34:46
+<transcript>: of any of it
+
+01:34:48
+<transcript>: Of any of it.
+
+01:34:48
+<transcript>: i'm even
+
+01:34:53
+<transcript>: I'm even correcting the word that we're misspelled it's. All right? Words. They just don't make any sense. So.
+
+01:34:53
+<transcript>: it is what it is
+
+01:34:54
+<transcript>: It is what it is.
+
+01:34:56
+zer0cosmos: Theo has the confidence to drop a banger and stand for it  unless proven wrong
+
+01:34:58
+<transcript>: Yeah.
+
+01:35:01
+barryxbtw: theo has been around every corner and knows what spikes and wonders are around it
+
+01:35:05
+<transcript>: I'm using premiere.
+
+01:35:06
+oetziofficial: just gotta roll it
+
+01:35:10
+estrangedhd: @Zer0cosmos 16kb bug? Kappa
+
+01:35:15
+<transcript>: Oh, is it? I've heard DaVinci resolve can be like, resolves? What they use like in Hollywood, right? Like.
+
+01:35:20
+<transcript>: Yeah.
+
+01:35:24
+<transcript>: You know Yeah.
+
+01:35:27
+oetziofficial: I stared using resolve
+
+01:35:32
+oetziofficial: started*
+
+01:35:50
+zer0cosmos: The 16kb bug was hilarious
+
+01:35:54
+barryxbtw: they do use davinci in hollywood for a lot of stuff
+
+01:35:57
+estrangedhd: Software that's prob like 14k/month
+
+01:35:57
+<transcript>: Well, there's a cap cut, too, right? Like, who is it? Bite, dance the Tik Tok people came out with an editor that's supposed to be really easy and professional.
+
+01:35:57
+<transcript>: it's a cat
+
+01:35:58
+watchbfl: Filmorama watchb9Kekw watchb9Kekw
+
+01:36:00
+<transcript>: It's a cat. Cut. Cap. Cut. I think.
+
+01:36:02
+<transcript>: It's.
+
+01:36:02
+<transcript>: i think
+
+01:36:05
+<transcript>: I think so. I might be watching that.
+
+01:36:14
+<transcript>: I don't know. I've heard it's really good. Theo did a whole thing about it on Twitter. I think so. Look up. Yeah.
+
+01:36:17
+corazin: Sony Vegas is pretty simple
+
+01:36:18
+thdxr: capcut is web based
+
+01:36:23
+<transcript>: It's a lot. Yeah.
+
+01:36:27
+uberrick: QuickTime Player
+
+01:36:31
+uberrick: Haha
+
+01:36:32
+<transcript>: Oh Yeah.
+
+01:36:32
+<transcript>: he's so good
+
+01:36:33
+<transcript>: He's so good.
+
+01:36:38
+<transcript>: Yeah, it's just an experience. Just watch. Yeah.
+
+01:36:39
+estrangedhd: devalife
+
+01:36:46
+<transcript>: Really? Oh, this is awesome. Because I hear this.
+
+01:36:46
+<transcript>: i've just never
+
+01:36:53
+<transcript>: I've just never met somebody. And I want to know, like, what is it about? It like you like to listen or see things that are.
+
+01:36:58
+<transcript>: Yeah.
+
+01:37:10
+itsboek: Devaslife is next level
+
+01:37:32
+estrangedhd: He's gonna get a book KEKW
+
+01:37:36
+shyryan: sexual deviant
+
+01:37:52
+<transcript>: Interesting. So something like hardwired in your brain.
+
+01:37:59
+mountexz: hello
+
+01:38:00
+thdxr: damn I wish asmr worked on me
+
+01:38:11
+<transcript>: Yeah.
+
+01:38:18
+barryxbtw: for me it's classic rock, sweet child o mine, paint it black etc
+
+01:38:24
+<transcript>: Well, you're a photographer, right.
+
+01:38:27
+thenovaglow: I get that feeling when I'm sitting next to a fire. amisoCozy
+
+01:38:29
+mountexz: can i ask a question to both of you? are you available sir @adamdotdev
+
+01:38:32
+shyryan: i thought asmr was just for perverts
+
+01:38:34
+<transcript>: Yeah.
+
+01:38:40
+<transcript>: Like you want to do that.
+
+01:38:44
+<transcript>: Yeah.
+
+01:38:55
+<transcript>: So does that make does that make you want to do that kind of content, even though you see his okay.
+
+01:38:57
+<transcript>: So.
+
+01:39:01
+natedunn: i have loved devaslife for so long
+
+01:39:10
+<transcript>: For me, like I just as part of the next cough I learned about Sam Selekov. Never heard of Sam Salkov. But seeing somebody do something, that's basically what you kind of wanted to do, but do it really, really, well.
+
+01:39:12
+natedunn: underrated
+
+01:39:28
+natedunn: For show notes: https://www.youtube.com/c/devaslife
+
+01:39:29
+<transcript>: To me is a huge turnoff. It's like the world already has the same solicoph. I don't need to come in with my my beard and my whiteness and my production quality and make, like tech content because Sam does it really well, so it just totally, like, killed. Like I maybe that's part of my burnout. Sam, thanks, Sam. Way to go.
+
+01:39:31
+<transcript>: Way to be so good at everything.
+
+01:39:33
+zer0cosmos: I’m his old videos he got criticized when he talked… then he found his vibes not talking
+
+01:39:37
+<transcript>: Yeah. Listen, there's more people that we want to come.
+
+01:39:43
+<transcript>: Yeah.
+
+01:39:43
+uberrick: Someone buy trash an ear mic to start his career. I josh
+
+01:39:54
+natedunn: @Zer0cosmos its his second language, fuck the haters
+
+01:40:03
+<transcript>: Well, I think that's it like, I see prime. I'm, like, inspired by prime. I know I'm nothing like prime. I don't have a brain like Primes. I'm not experiencing good at things like prime. So there's no part of me that feels threatened or, like, I'm gonna stop because I can't be that good. I'm just, like, in all.
+
+01:40:03
+<transcript>: of prime
+
+01:40:09
+barryxbtw: you have the head shape of prime
+
+01:40:13
+<transcript>: Of prime. But when they're doing things like almost exactly how you imagine yourself doing it. And like they have all the same strengths as you. That's very like.
+
+01:40:16
+<transcript>: Demotivating for me.
+
+01:40:22
+<transcript>: Like, what am I on offering? If I just turn into a worst version of sandselykov.
+
+01:40:33
+<transcript>: Yeah.
+
+01:40:50
+<transcript>: You just got to get the reps. That's what I always tell myself. Like, I just gotta get the reps in. I'll start learning what it is I care about in my style and all that stuff.
+
+01:41:04
+<transcript>: Yeah.
+
+01:41:09
+vinny_code: @trash_dev Dancing stream when
+
+01:41:18
+ched_dev: i miss shuffle redemptions
+
+01:41:18
+<transcript>: So I.
+
+01:41:18
+<transcript>: 'm
+
+01:41:22
+thenovaglow: I was just about the ask the same thing. @vinny_code
+
+01:41:24
+<transcript>: 'm Should I invest in YouTube? How many weeks and videos should I put into this? Because my wife wants to know, like.
+
+01:41:24
+<transcript>: she doesn't
+
+01:41:28
+<transcript>: She doesn't want to see me. I'll burn out my emotional state.
+
+01:41:36
+<transcript>: But I don't have an answer either, so I need you to answer it. Trash.
+
+01:41:40
+thenovaglow: I miss the dancing streams lol
+
+01:41:49
+<transcript>: Why even ask myself every day I've asked myself that this week.
+
+01:42:00
+<transcript>: So that's what I was just saying. Like, Sam.
+
+01:42:03
+<transcript>: Is the reason I kind of don't want to do it.
+
+01:42:06
+vinny_code: @TheNovaGlow or the anime obs scene
+
+01:42:11
+<transcript>: So the production I see.
+
+01:42:11
+<transcript>: you're worried about putting
+
+01:42:12
+<transcript>: You're worried about putting like.
+
+01:42:12
+<transcript>: lower
+
+01:42:15
+<transcript>: Lower production quality stuff on YouTube. I don't know.
+
+01:42:22
+oetziofficial: a phone, time to edit and you r good to go
+
+01:42:23
+<transcript>: Yeah.
+
+01:42:24
+thenovaglow: @vinny_code  and the dancing playlists
+
+01:42:27
+estrangedhd: The background blur that Adam has is coated
+
+01:42:39
+<transcript>: What kind of budget? What kind of budget do you have for your setup? Because I can help you.
+
+01:42:43
+<transcript>: Infinite listen.
+
+01:42:43
+<transcript>: this is
+
+01:42:46
+<transcript>: This is a solvable problem. Well, no, no.
+
+01:42:53
+<transcript>: Consume prosumer grade like I can set you up. I mean, I can talk through everything I did. You can solve the production.
+
+01:42:53
+<transcript>: having something
+
+01:42:56
+ched_dev: let's hire Spike Jonze for this
+
+01:42:56
+<transcript>: Having something interesting to say and having.
+
+01:42:56
+<transcript>: like
+
+01:42:58
+estrangedhd: Hollywood movie setup here we come
+
+01:43:02
+<transcript>: Like approachable personality, I think is the much harder thing. And you check those boxes. So.
+
+01:43:02
+<transcript>: production quality
+
+01:43:04
+<transcript>: Production quality is totally solvable.
+
+01:43:19
+<transcript>: Yeah.
+
+01:43:32
+vinny_code: @TheNovaGlow maybe we just get him to play FoT at all times
+
+01:43:33
+<transcript>: Just do it.
+
+01:43:33
+danielolaviobr: Just do it, yesterday you said tomorrow!!
+
+01:43:41
+ched_dev: hire a team trash
+
+01:43:49
+<transcript>: It's all your passions, like a Vin diagram. You're in the middle of it.
+
+01:43:54
+danielolaviobr: trash squad
+
+01:43:58
+<transcript>: Hey.
+
+01:44:04
+<transcript>: I think that'll make people want to see it even more just to see that side of you.
+
+01:44:12
+<transcript>: Yeah.
+
+01:44:22
+vinny_code: @ched_dev "the trash bin"
+
+01:44:31
+<transcript>: I do feel embarrassed sometimes, like, just now starting the YouTube thing, like, I'm not doing crazy things thumbnails, but they're like YouTube thumbnails. And I feel embarrassed to put them on Twitter because it's like, I don't know, I've got a certain reputation on Twitter, and I'm not.
+
+01:44:31
+<transcript>: that
+
+01:44:39
+<transcript>: That. So you just feel weird, like becoming something new with a bunch of people. But then I don't care because I don't know who falls down Twitter. I don't know who these people are.
+
+01:44:49
+<transcript>: Yeah.
+
+01:45:08
+<transcript>: And I think I am, too. But I don't know who I am. Do you, like, struggle with even knowing, like what it is like people say, like, follow your passion. Do the thing that you would do if nobody paid you. I have a really hard time with that. I have no idea what I would do is nobody paid me.
+
+01:45:17
+<transcript>: I don't know I really don't think I know.
+
+01:45:22
+<transcript>: I mean, like, it's such a different world than I live in. So it's like.
+
+01:45:39
+<transcript>: Because it's very much family. Like I'm very driven, like you said, about providing for my family the most efficient way possible so I can spend as much time with them. But I also were taken care of like that is my underlying motivation. If I didn't have a family, I don't know what I'd do. I probably just set in.
+
+01:45:41
+<transcript>: Build stuff all day.
+
+01:45:47
+<transcript>: Same.
+
+01:45:47
+<transcript>: same
+
+01:45:48
+<transcript>: Same.
+
+01:45:58
+<transcript>: I know I would. That's what I did before I had a family.
+
+01:46:04
+<transcript>: Maybe we don't need to. Yeah.
+
+01:46:14
+<transcript>: So this is somewhere.
+
+01:46:14
+<transcript>: that like i
+
+01:46:21
+zer0cosmos: "program recreationally" sounds like a drug you are keeping under control lol
+
+01:46:21
+vinny_code: @trash_dev what do you get done now? You struggled with vim configs Kappa
+
+01:46:26
+<transcript>: That like, I see prime. I feel like he knows who he is. And I really crave. Like, I think this about YouTube to be honest. But, like, when I see you on Twitter, I feel like you really know who you are.
+
+01:46:30
+<transcript>: When I watch prime in any setting, it really feels like.
+
+01:46:30
+<transcript>: he wakes up
+
+01:46:38
+<transcript>: He wakes up every day and he's like, I'm Prime. I'm just gonna be me and do what I do? Maybe he doesn't. Maybe he has struggled with where he feels like he's not sure creatively what he wants to do.
+
+01:46:38
+<transcript>: but he just has
+
+01:46:41
+<transcript>: But he just has such a locked in persona.
+
+01:46:41
+<transcript>: and i do
+
+01:46:44
+<transcript>: And I do crave like I don't really feel like I have anything like that.
+
+01:46:52
+<transcript>: Yeah.
+
+01:46:52
+<transcript>: i guess i just
+
+01:46:55
+<transcript>: I guess I just think it's wholly uninteresting.
+
+01:47:04
+<transcript>: Oh no no? Yeah.
+
+01:47:08
+<transcript>: But Who Prime is is so much more entertaining.
+
+01:47:08
+<transcript>: maybe
+
+01:47:11
+<transcript>: Maybe that's why I need to come grips with maybe I'm just a.
+
+01:47:21
+<transcript>: Cut me deep.
+
+01:47:34
+thenovaglow: You gotta stop comparing yourself to Prime and Sam @adamdotdev
+
+01:47:44
+yeltrah_: @TheNovaGlow Yes agreed
+
+01:47:51
+yeltrah_: I like Adam as Adam
+
+01:47:51
+<transcript>: The viewer saying, I don't know. I feel like that comes with time. Like, you just keep putting yourself out on the Internet. And like, more people follow you over time. And I do think there's something to that the friend catcher's thing. Like, the more you expose yourself. If you're not exposing yourself with any Internet, then of course, you're never gonna meet new people and engage with new people. The more you do.
+
+01:47:51
+<transcript>: i think
+
+01:47:58
+itsboek: Out of context clips
+
+01:47:58
+thenovaglow: ^
+
+01:48:00
+<transcript>: I think the more people that are out there that just like your kind of person. That's how I view it. Like there's probably a lot of people like me with my personality and my whatever.
+
+01:48:00
+<transcript>: and there's
+
+01:48:01
+shyryan: when I expose myself they put me in jail
+
+01:48:05
+thdxr: lol
+
+01:48:12
+<transcript>: And there's people that are attracted to that. So I don't think too much about the numbers. It's more like I watch prime and I'm just so entertained. And maybe I'm just one of his people. I'm not maybe there's just a lot more people like me that really like that.
+
+01:48:12
+<transcript>: personality
+
+01:48:13
+watchbfl: i like prime for prime and i like adam for adam and i like trash for trash
+
+01:48:14
+<transcript>: Personality.
+
+01:48:14
+<transcript>: it's just
+
+01:48:17
+oetziofficial: I met so far 2 people overall
+
+01:48:18
+<transcript>: It's just. It's very attractive to me. Crimes. Very attractive to me.
+
+01:48:23
+yeltrah_: @watchBFL ^^^
+
+01:48:23
+oetziofficial: (from twitch)
+
+01:48:27
+vinny_code: @ShyRyan dont go to jail again
+
+01:48:28
+<transcript>: Oh, yeah. No, I have no idea. I don't know, Russ. Yeah, no, but he's doing it so confidently. So fast.
+
+01:48:32
+<transcript>: Yeah.
+
+01:48:39
+<transcript>: Following Along Yeah.
+
+01:48:39
+<transcript>: yeah
+
+01:48:40
+itsboek: It’s the energy/entertainment level
+
+01:48:40
+<transcript>: Yeah.
+
+01:48:41
+watchbfl: i just watch prime for the cut scene jokes at the urinal and HR
+
+01:49:02
+estrangedhd: Spoiler alert, nobody is ever in a programming stream for the code
+
+01:49:03
+zer0cosmos: IMO Prime has a different approach: is building a "persona" on internet, while you guys are trying to be the same as IRL
+
+01:49:05
+oetziofficial: Trash would you believe me that I am watching primes stream for the code?
+
+01:49:06
+<transcript>: It's growing awareness for.
+
+01:49:13
+<transcript>: Until those people that follow him drift onto our channels. And they're like, oh, look at these assholes. Like.
+
+01:49:15
+<transcript>: Yeah.
+
+01:49:18
+<transcript>: Where's this personality.
+
+01:49:19
+oetziofficial: if it gets too far away I turn it off lol
+
+01:49:21
+uberrick: His cut scene stuff is so original and really entertaining for sure
+
+01:49:24
+<transcript>: Yeah.
+
+01:49:36
+vinny_code: @EstrangedHD I actually ignore the code. It's boring. I am here to talk smack.
+
+01:49:38
+yeltrah_: Yea his cut scenes are great
+
+01:49:38
+estrangedhd: @UberRick It's not really original, dr. disrespect did it
+
+01:49:44
+thdxr: https://clips.twitch.tv/BetterVastScorpionUnSane-K-8W1bx1pYoYYAqT
+
+01:49:50
+<transcript>: You've been on Twitter. So you've been on Twitch by two years.
+
+01:49:50
+<transcript>: and
+
+01:49:59
+<transcript>: And I feel like you've grown. I mean, you've grown on Twitch is just slower than other platforms. Is that because I've heard people say that you don't grow on Twitch. It seems like you.
+
+01:50:03
+<transcript>: Yeah.
+
+01:50:09
+<transcript>: Do people unfollow you on Twitch? Is that a thing? Your numbers go down.
+
+01:50:21
+<transcript>: Yeah.
+
+01:50:29
+<transcript>: Bow out Yeah.
+
+01:50:39
+estrangedhd: I clean up my followers list all the time
+
+01:50:42
+uberrick: @estrangedhd fair maybe to me, I’ve not watched much dr dis but maybe that’s why he gets lots of reference to him 😂
+
+01:50:48
+estrangedhd: it changes with my interests
+
+01:51:01
+<transcript>: Me neither. Yeah. If I'm not doing something with my hands, then I have nothing interesting to contribute. Like I can't just talk.
+
+01:51:04
+thenovaglow: same here @EstrangedHD
+
+01:51:08
+<transcript>: Yeah.
+
+01:51:11
+estrangedhd: @UberRick Yea if you watch his stream you could see the brother reference LUL
+
+01:51:17
+<transcript>: No. Same. Yeah, it's like surprisingly shallow. Yeah.
+
+01:51:27
+watchbfl: dude they totally could be brothers lmao
+
+01:51:31
+watchbfl: watchb9Kekw
+
+01:51:33
+<transcript>: What excites you actually doing stuff now with tech. Like if softstream, if it's on stream. What like are there things? Because this is a whole nother thing. It's like there's the creator side, there's the content stuff which you can get burnt out with. And then I hear like you can get burnt out with tech.
+
+01:51:33
+<transcript>: are there things
+
+01:51:36
+<transcript>: Are there things that you're really drawn to right now.
+
+01:51:36
+<transcript>: are you feeling
+
+01:51:39
+<transcript>: Are you feeling like you have less things you're interested in.
+
+01:51:51
+<transcript>: Yeah.
+
+01:52:41
+<transcript>: Do you have like gold when you get really into something like that, is there something you're aiming for or is it just you're consuming with the idea of TypeScript, you don't need some milestone or something.
+
+01:52:44
+<transcript>: Yeah.
+
+01:52:46
+ched_dev: trashscript
+
+01:52:51
+thenovaglow: That's actually super cool
+
+01:53:35
+<transcript>: I guess. Here we go.
+
+01:53:43
+<transcript>: I've heard I've heard it's like crazy learning curve, but also you love it when you get into it like you don't want to program anything else.
+
+01:53:51
+<transcript>: Yeah.
+
+01:54:42
+<transcript>: But you built like do you build side projects with stuff like this? When you get really into TypeScript or rest, do you have like a thing you're gonna build with it.
+
+01:54:55
+<transcript>: Yeah.
+
+01:54:57
+uberrick: I fell for the trap. Learning rust with my new job when my other offer was 25% more salary
+
+01:55:42
+<transcript>: Wait beyond open source you said or have.
+
+01:55:48
+<transcript>: Oh, in Open Source. Yeah.
+
+01:56:09
+<transcript>: Oh, yeah, sure.
+
+01:56:09
+zer0cosmos: TS for libraries is like a different dimension, like big boys playgrounf
+
+01:56:23
+<transcript>: Yeah. You just reminded. He just reminded me of another thing that gives me anxiety. That like there's another thing I could be doing with my life. Like, open source work.
+
+01:56:23
+<transcript>: and
+
+01:56:35
+<transcript>: And it's like there's like seven buckets. When you're a developer, there's like seven different things you could spend your time doing. And you get to see on the Internet, all the people that are so good at each one. And then think about how you don't do any of them. It hurts.
+
+01:56:38
+<transcript>: I'm burnout trash, I'm burnout.
+
+01:56:41
+watchbfl: Anytime I work on something I definitely think about other shit I could be doing instead LOL
+
+01:56:46
+watchbfl: ADAM <3
+
+01:57:04
+<transcript>: Well, I have to like, if I'm learning a new technology, I have really wanted to get into rest just because of, like, prime and the people that are so passionate about it. And I know sometimes it's like just for the last that they're so passionate. But I think, like, Jinuinely, it sounds like a language you just enjoy working with once you kind of get into it.
+
+01:57:21
+<transcript>: So I've wanted to do that, but I have to have, like, a thing that I want to build with it. So I have to come up with some kind of CLI tool or something that I can immediately use. I don't think a library is enough for me, like, I don't because I don't think I would use one. I don't think I was, like, learn enough about rest to make a library that would be useful to other people.
+
+01:57:21
+<transcript>: like i need
+
+01:57:27
+<transcript>: Like I need, like an in phase. Like an indoor thing. Like a thing that I can immediately see.
+
+01:57:27
+<transcript>: yeah
+
+01:57:28
+<transcript>: Yeah.
+
+01:57:28
+<transcript>: yeah
+
+01:57:30
+<transcript>: Yeah, so.
+
+01:57:47
+<transcript>: Yeah, that's that's what's hard. Like, as soon as I started streaming, it's like, you can start thinking, like a dozen things in a new world that you just entered, that you could build. That would make it better. But then if I ever find that somebody already made something like it, it's like then that one already exists.
+
+01:57:47
+<transcript>: i compare a lot
+
+01:57:48
+<transcript>: I compare a lot.
+
+01:57:52
+<transcript>: Yeah.
+
+01:58:07
+<transcript>: The symbol. And it's awesome. And Yeah.
+
+01:58:15
+<transcript>: Oh, what? Yes, I need one.
+
+01:58:18
+<transcript>: Shark tank.
+
+01:58:24
+thdxr: yoo shark tank
+
+01:58:27
+<transcript>: That is the last thing in the world I would have thought you were gonna say.
+
+01:58:27
+<transcript>: i couldn't
+
+01:58:27
+thdxr: huge motivator for me too
+
+01:58:29
+<transcript>: I couldn't think of anything.
+
+01:58:29
+<transcript>: that would be more
+
+01:58:30
+schrew: sharktank, hoo ahah?
+
+01:58:31
+<transcript>: That would be more surprising than Shark tank.
+
+01:58:41
+<transcript>: People make a new stuff.
+
+01:58:41
+pizzaintheoven: I thought you watch anime
+
+01:58:47
+<transcript>: Yeah.
+
+01:58:54
+zer0cosmos: @pizzaintheoven +1 lol
+
+01:59:01
+<transcript>: Impact.
+
+01:59:03
+oetziofficial: what is sharktank?
+
+01:59:03
+<transcript>: Yeah.
+
+01:59:14
+<transcript>: Like Adam Watson talks about this dent in the universe. I think like that is a big part of it. And I don't I'm not like getting into my.
+
+01:59:14
+<transcript>: mortality
+
+01:59:21
+<transcript>: Mortality. I'm not at this age. I don't feel like I'm thinking about, like, I got to come up with something before I'm gone. But it's more just like.
+
+01:59:21
+<transcript>: you do
+
+01:59:24
+andreull: millionaire water bottle tag manufacturer
+
+01:59:30
+<transcript>: You do you care that other people get to use your thing or that their impact about your thing because otherwise it just feels like Why'd you do it like if it was just for you and your family.
+
+01:59:30
+<transcript>: this feel
+
+01:59:34
+<transcript>: This feels very small. And there is some craving to like, do bigger, I guess.
+
+01:59:34
+<transcript>: i don't know
+
+01:59:35
+<transcript>: I don't know.
+
+01:59:38
+<transcript>: Yeah.
+
+01:59:42
+andreull: sharktank is super cool
+
+02:00:03
+creativenull: @OetziOfficial it's a show where people who make products are showcased to investors so they can get funding for their products
+
+02:00:11
+<transcript>: Yeah. I'll put, like, two hard weeks into something. I'll go super hard and then realize like, this is not what I want in life.
+
+02:00:14
+creativenull: tv show
+
+02:00:14
+<transcript>: Yeah.
+
+02:00:26
+<transcript>: What's the point.
+
+02:00:30
+oetziofficial: @OetziOfficial ohhhh that shit, its all over my instagram/tiktok feed
+
+02:00:39
+pizzaintheoven: What up null
+
+02:00:41
+<transcript>: I think that's another, like, the What's the point thing is the thing that also motivates some people. It's like, doesn't matter. Anyway, that's the Steve Jobs thing, right? Like once you realize he's gonna die, it's like.
+
+02:00:47
+<transcript>: Might as well do cool things. I don't know. But then you have to think of cool things. It's not a panacea. I don't know.
+
+02:00:55
+uberrick: It’s all about dragons den 😃
+
+02:00:55
+<transcript>: Yeah.
+
+02:01:10
+<transcript>: Yeah oh, I know.
+
+02:01:10
+<transcript>: that's a thing
+
+02:01:17
+<transcript>: That's a thing that I I run through that all the time, like, and it's hard not to look at other people and be like, Well, Yeah, I do all that stuff. I didn't have kids.
+
+02:01:19
+<transcript>: It starts to sound terrible.
+
+02:01:23
+<transcript>: Oh, man, Yeah.
+
+02:02:10
+<transcript>: I don't yeah, I don't get too distracted with, like, non.
+
+02:02:13
+uberrick: LUL
+
+02:02:24
+<transcript>: I don't want to say productive, but like in just things that are just for enjoyment. I don't do a lot of that. I do think like, this sounds. Oh, this sounds awful. I just don't want to say it, but I'm gonna say it. Okay.
+
+02:02:26
+<transcript>: Oh Yeah.
+
+02:02:28
+<transcript>: I just see so many people.
+
+02:02:28
+<transcript>: like
+
+02:02:29
+<transcript>: Like.
+
+02:02:29
+<transcript>: i don't know
+
+02:02:37
+uberrick: Think some people are just better at having schedules
+
+02:02:45
+<transcript>: I don't know what's the right thing to say. People will say, like, oh, I just programmed because I love it. And then people will shame them for that. But then people will shame people for shaming people for that. So I don't. I honestly don't know what the right answer is here. And I'm not trying to make anybody feel bad about themselves. I'm not trying like, this is me. It's just me.
+
+02:02:45
+<transcript>: i
+
+02:02:47
+<transcript>: I really love.
+
+02:02:47
+<transcript>: this stuff
+
+02:02:49
+creativenull: @pizzaintheoven wat up wat up
+
+02:03:03
+oetziofficial: same adam
+
+02:03:07
+<transcript>: This stuff. Like, I love programming. I love making stuff digitally. That's just it's my only hobby, and it's the only thing I really care to do. And I don't get to do it all the time. Like, to your point now that I have a family, I have a very limited amount of hours. I'm in my office and that's the only time I get to do this stuff. And then I'm with my family. And I don't do this stuff. So the time I do have it's.
+
+02:03:07
+<transcript>: very precious
+
+02:03:09
+<transcript>: Very precious because.
+
+02:03:09
+<transcript>: it's to the point
+
+02:03:15
+oetziofficial: same passion
+
+02:03:28
+<transcript>: It's to the point that I'll wake up too early, like, I'll stop sleeping as much because then I get more time while they're asleep. That kind of stuff super bad. But I just that's what I like to do. So I don't have a hard time staying on that. But that doesn't solve any of the same problems. I mean, like, I have all the same problems. I've known what I should be doing and what's important.
+
+02:03:28
+<transcript>: and i don't know
+
+02:03:30
+pizzaintheoven: @creativenull on the plain going to DC
+
+02:03:30
+<transcript>: And I don't know.
+
+02:03:42
+fredkisss: everyone can do whatever they like whatever the reason is (except for criminal stuff)
+
+02:03:43
+<transcript>: A better roses. Maybe a box of chocolates. I don't know.
+
+02:03:45
+natedunn: "life is a highway"
+
+02:03:46
+<transcript>: Just a few things, dude.
+
+02:03:50
+<transcript>: Someone in Chat will know life is a Highway.
+
+02:03:52
+ched_dev: sunshine and rainbows
+
+02:03:53
+creativenull: oh shoot, have a fun on the trip
+
+02:03:56
+<transcript>: Yeah.
+
+02:03:56
+<transcript>: no i know
+
+02:03:58
+natedunn: LUL
+
+02:03:59
+itsboek: box of chocolates
+
+02:04:00
+<transcript>: No, I know, I know you Sunshine and rainbows oh, no, that sounds right, though.
+
+02:04:02
+creativenull: life is but a fart in the wind?
+
+02:04:05
+<transcript>: It's not all good.
+
+02:04:05
+<transcript>: i think
+
+02:04:06
+natedunn: "life sucks"
+
+02:04:10
+estrangedhd: Here in Belgium we say that live isn't a pony camp
+
+02:04:10
+<transcript>: I think honestly, I think the Internet is slowly.
+
+02:04:10
+<transcript>: eroding
+
+02:04:11
+code_stank: life is butt* a fart in the wind
+
+02:04:14
+pizzaintheoven: don’t let your dream be memes
+
+02:04:16
+barryxbtw: Life is like a rose garden
+
+02:04:20
+<transcript>: Eroding all of our mental health because I always felt like I was impervious to really any of the negative mental health stuff. I just. I never felt like I cared about what people thought.
+
+02:04:20
+<transcript>: i just
+
+02:04:21
+barryxbtw: ^?
+
+02:04:22
+ched_dev: i thought "fart in the wind" was beautiful
+
+02:04:23
+pizzaintheoven: @creativenull thanks thank
+
+02:04:31
+schrew: I know you'd like to think your s*** don't stank, but Lean a little bit closer, see Roses really smell like poo-poo-ooh
+
+02:04:40
+<transcript>: I just felt like I was very internally motivated to do stuff that I enjoyed, and I was paid pretty well to do it. So like, I had it pretty good. And I feel like now the more I've engaged with the Internet, and I've tried to, like, become somebody who, like, has a voice on the Internet. The more I've done that, I felt like the more my mental state has degraded. And I've had all these problems with.
+
+02:04:40
+<transcript>: comparing and
+
+02:04:40
+ghostyx101: life is not a bed full of roses
+
+02:04:47
+<transcript>: Comparing and with caring about things I just shouldn't care about. They don't matter. I think that's it's the Internet. I blame the internet.
+
+02:04:52
+watchbfl: thats just tech twitter watchb9Kekw
+
+02:04:54
+<transcript>: Yeah, yeah? That's one you were looking at? Yeah.
+
+02:04:56
+uberrick: @ched_dev LUL trash has a way with words
+
+02:05:02
+thdxr: roses are thorny
+
+02:05:11
+<transcript>: I mean you just think about like in human history.
+
+02:05:11
+<transcript>: you never
+
+02:05:31
+<transcript>: You never had a way to know this much about so many people. And like, you couldn't compare yourself like you were comparing yourself with the guy across town who whatever had two goats instead of one? I don't know. I'm getting into really dumb metaphor, so I don't understand. But like, there's never been this period in history where you can literally see the best of humanity, any given.
+
+02:05:31
+<transcript>: moment
+
+02:05:41
+<transcript>: Moment by pulling a device out of your pocket, right. Like that has to do something to our brain. I mean, it is doing something to our brains. And we know, like some of it. But I don't know.
+
+02:05:44
+thesirfry: and the worst
+
+02:05:46
+watchbfl: damn that was deep
+
+02:05:48
+zer0cosmos: Life becomes complicated when you start comparing. We cant avoid comparing.
+
+02:05:49
+<transcript>: Yeah.
+
+02:05:51
+vinny_code: He has two goats and I have none
+
+02:05:53
+<transcript>: Is there photography, Twitter.
+
+02:05:53
+<transcript>: like photographer
+
+02:05:54
+code_stank: goat philosophy
+
+02:05:54
+<transcript>: Like, Photographer, Twitter.
+
+02:05:54
+<transcript>: i bet there is
+
+02:05:56
+<transcript>: I bet there is.
+
+02:05:59
+<transcript>: Yeah.
+
+02:06:02
+itsboek: Yes its great
+
+02:06:03
+<transcript>: Oh, Instagram. Yeah, that makes more sense. Yeah.
+
+02:06:23
+uberrick: Heading off now. Cya chat! You both seem super genuine and probably impact more people than you realise. Sometimes it’s just the case of being complacent
+
+02:06:23
+<transcript>: I think we all are. I just think that's the lesson is we're all kind of in this and I don't know.
+
+02:06:31
+<transcript>: I don't know where it's all headed. I don't feel like it's good, though. And I do sometimes, like, I feel like I'm becoming a content creator, and I feel like I'm part of the problem.
+
+02:06:31
+<transcript>: and maybe
+
+02:06:42
+<transcript>: And maybe I'd be better off just disconnect, like, Are there people I know there are like, developers who just have a normal Dev job, and they're not connected to any of this stuff. That must be so nice. Yeah.
+
+02:06:47
+<transcript>: Yeah. Where are they? They're not on the internet.
+
+02:06:47
+thdxr: most of them are not connected!
+
+02:06:51
+<transcript>: Yeah.
+
+02:06:54
+<transcript>: I must be so nice.
+
+02:06:54
+<transcript>: yeah
+
+02:06:55
+<transcript>: Yeah.
+
+02:06:58
+watchbfl: me before i got on twitch and saw trash
+
+02:07:05
+<transcript>: You meet Fred friends, like there's definitely.
+
+02:07:08
+andreull: "must be nice"
+
+02:07:10
+pizzaintheoven: @watchbfl haha
+
+02:07:14
+<transcript>: Yeah.
+
+02:07:19
+thesirfry: never met another irl that watches twitch
+
+02:07:19
+ched_dev: I remember when I worked with a guy and asked him about his side projects and he said, " i just do this for work". he was a java dev though.
+
+02:07:25
+thesirfry: dev twitch*
+
+02:07:25
+estrangedhd: Just not having Twitter cleans up a lot of the "bleeding edge" stuff
+
+02:07:26
+<transcript>: Twist Twitch that can you help us with this saying there's something with a boat and sailing, or.
+
+02:07:35
+watchbfl: no one at my work watches twitch for software. just for games
+
+02:07:37
+<transcript>: I'm terrible at metaphors. Like my wife makes fun of me because anytime I start one, I'll be like, this is like when.
+
+02:07:42
+<transcript>: And I just have to in the sense I have nothing like I can't come up with a metaphor for my life.
+
+02:07:51
+vinny_code: just end stream. This is getting awkward.
+
+02:07:53
+<transcript>: Yeah. So is it worth it? Is it worth it? Putting yourself out there? Are the pros outweigh the cons.
+
+02:08:05
+<transcript>: You put trash out there. But not you, not Chris.
+
+02:08:10
+<transcript>: Yeah.
+
+02:08:19
+oetziofficial: trash has sick dances
+
+02:08:47
+<transcript>: So you're shielded with.
+
+02:08:47
+<transcript>: an amenimity
+
+02:08:51
+<transcript>: An amenimity and an amidity I can't say it.
+
+02:08:51
+<transcript>: anonymity
+
+02:08:52
+<transcript>: Anonymity.
+
+02:08:52
+<transcript>: is that it
+
+02:08:53
+<transcript>: Is that it.
+
+02:09:00
+<transcript>: What was that? I got a new noise in my earphone, and I don't know what it was.
+
+02:09:00
+<transcript>: somebody
+
+02:09:02
+<transcript>: Somebody did something different.
+
+02:09:02
+<transcript>: it's not
+
+02:09:03
+<transcript>: It's not mine.
+
+02:09:14
+<transcript>: Oh Uber re sub for four months. Thanks for the this is like the first thing I've called out on this entire stream so everyone else can feel really bad that I just called it out. Thanks for the reset.
+
+02:09:19
+watchbfl: watchb9DeathStare watchb9DeathStare watchb9DeathStare
+
+02:09:20
+<transcript>: Yeah.
+
+02:09:26
+<transcript>: Then he says, we need to end the stream because it's getting awkward. I don't know. Trashy. Feel like this is getting.
+
+02:09:26
+<transcript>: oh
+
+02:09:31
+<transcript>: Oh, yes, sir. I didn't even. I literally didn't even ask you how long you got.
+
+02:09:39
+zer0cosmos: NotLikeThis
+
+02:09:40
+<transcript>: Off. We can. We can end this.
+
+02:09:43
+thdxr: I forgot to eat lunch because of this stream
+
+02:09:48
+creativenull: LUL
+
+02:09:49
+estrangedhd: 9min late to a meeting also Kappa
+
+02:09:52
+<transcript>: And it's been good. We've only talked on Twitter. Really? I've like, been in your stream and, like, interacted with you. You've been on my stream. So I'm like, I've talked with you, but not like, talked like talk talks, you know.
+
+02:10:00
+<transcript>: We're pretty good at it. Yeah.
+
+02:10:08
+estrangedhd: @thdxr If you forgot it you're prob not hungry anyway
+
+02:10:12
+<transcript>: I'm in a mental crisis right now. I mean, there was no way to avoid it.
+
+02:10:14
+<transcript>: Yeah.
+
+02:10:20
+laytanl_: This was great!
+
+02:10:45
+<transcript>: No, I think these are words I've heard.
+
+02:10:47
+<transcript>: Better.
+
+02:10:47
+<transcript>: roses
+
+02:10:49
+<transcript>: Roses.
+
+02:10:53
+<transcript>: Life's, not a sailboat.
+
+02:10:53
+<transcript>: going
+
+02:10:55
+<transcript>: Going in the wind.
+
+02:10:57
+vinny_code: make it stop
+
+02:11:05
+watchbfl: watchb9Kekw watchb9Kekw
+
+02:11:06
+<transcript>: Yeah.
+
+02:11:13
+thesirfry: if I had to guess I'd say maybe 10% of developers use twitter/twitch unfortunately
+
+02:11:13
+watchbfl: <3 <3
+
+02:11:15
+creativenull: life is a marathon not a sprint?
+
+02:11:19
+creativenull: idk lol
+
+02:11:23
+<transcript>: That's why I want to talk to you. Because I felt like I feel like you're kind of like doing pretty good right now. You're feeling pretty good.
+
+02:11:23
+<transcript>: and
+
+02:11:25
+thesirfry: most of them don't care about their or getting better
+
+02:11:28
+<transcript>: And seeing that I feel like you can help me? Like you can help bold pull me out of it.
+
+02:11:28
+zer0cosmos: It was a nice stream, I enjoyed it a lot
+
+02:11:38
+<transcript>: I mean, this is like buying stuff. You just have to, like, buy.
+
+02:11:45
+<transcript>: I'm doing it. I've got two videos.
+
+02:11:50
+<transcript>: Yeah.
+
+02:11:52
+vinny_code: This analogies are breaking my brain with how bad they are
+
+02:11:54
+<transcript>: Well.
+
+02:11:54
+<transcript>: it
+
+02:11:56
+andreull: Life is not a bed of roses, neither it is full of thorns.
+
+02:11:58
+<transcript>: It was it was great. Next time I'm having.
+
+02:11:58
+<transcript>: what's that
+
+02:11:59
+<transcript>: What's? That.
+
+02:12:09
+creativenull: get your lazy bum together!
+
+02:12:11
+<transcript>: Yeah. No, I'm sure I'm, like, not out of the Woods with my mental health. So I'm gonna have you come back on. You can. Maybe you can reevaluate me in a few weeks. Tell me if I'm from looking any better.
+
+02:12:18
+<transcript>: Oh, I've heard of this, yeah, Yeah.
+
+02:12:18
+<transcript>: oh maybe i
+
+02:12:19
+ched_dev: great, that'll be $1000
+
+02:12:19
+watchbfl: Dr. k!
+
+02:12:20
+<transcript>: Oh, maybe I need to look into that.
+
+02:12:25
+estrangedhd: Healtygamer_gg
+
+02:12:27
+<transcript>: I've gotten some therapists. I mean, I've done that in the last five years, and it's really helpful. Maybe I need to do that right now.
+
+02:12:28
+thesirfry: healthygamer yeah
+
+02:12:29
+zer0cosmos: Dr K is awesome
+
+02:12:32
+<transcript>: Yeah.
+
+02:12:37
+<transcript>: It helps.
+
+02:12:43
+watchbfl: I do therapy every week. It is great
+
+02:12:47
+watchbfl: lmaooo
+
+02:12:51
+<transcript>: I am like a.
+
+02:12:51
+<transcript>: what you see
+
+02:12:51
+estrangedhd: same
+
+02:13:01
+<transcript>: What you see is the only amount I have. Like, I'm a robot. My brother called me a robot. An iron. Like not joking. Like that. It's the whole thing. I mean, like I literally have no emotion.
+
+02:13:04
+<transcript>: Yeah.
+
+02:13:04
+<transcript>: this is
+
+02:13:08
+<transcript>: This is very shallow. Like a very shallow emotional. Well, there's not a lot there.
+
+02:13:12
+zer0cosmos: You seem like a person that can cry and laugh at the same time lol
+
+02:13:14
+andreull: maybe a very good coach, coaches focus on the future. I never liked therapy and talking about the sad things of the past
+
+02:13:16
+<transcript>: Yeah.
+
+02:13:19
+<transcript>: All right.
+
+02:13:19
+<transcript>: thank you so much
+
+02:13:21
+<transcript>: Thank you so much trash. I mean, Chris.
+
+02:13:21
+<transcript>: let's do it again
+
+02:13:23
+<transcript>: Let's do it again.
+
+02:13:23
+watchbfl: <3
+
+02:13:25
+thesirfry: im like that too mostly cause i'm dead inside
+
+02:13:28
+ched_dev: good stream!
+
+02:13:29
+thesirfry: Kappa
+
+02:13:31
+delvoid: bye trashh
+
+02:13:34
+<transcript>: Yes. I'm gonna I'm gonna kick you off and then stay on for a minute just because I feel like I haven't had a moment with Chat today. I just need to, like, look them in the eyes. Yeah. Yeah. Okay.
+
+02:13:34
+<transcript>: thank you again
+
+02:13:35
+ched_dev: trashdevWtf
+
+02:13:36
+<transcript>: Thank you again, Chris. See ya.
+
+02:13:38
+ghostyx101: bye chris
+
+02:13:40
+ggrandi04: bye trash
+
+02:13:41
+<transcript>: All right.
+
+02:13:45
+<transcript>: I'm ending the Ping call. How about Ping, though.
+
+02:13:45
+<transcript>: that's theo
+
+02:13:47
+laytanl_: bye good shit
+
+02:13:48
+<transcript>: That's Theo. He makes good stuff. How's everybody doing.
+
+02:13:50
+2dorkstv: that was fun
+
+02:13:51
+<transcript>: Is this the right chat? Yeah, yeah, I got it.
+
+02:13:52
+<transcript>: That was good.
+
+02:13:52
+<transcript>: as you heard
+
+02:13:56
+<transcript>: As you heard, I'm not doing the best.
+
+02:13:56
+<transcript>: in terms of
+
+02:13:56
+watchbfl: theo watchb9Elmo
+
+02:13:57
+<transcript>: In terms of.
+
+02:14:04
+<transcript>: Being on the Internet. I think I just yesterday. I literally just wanted to, like, never be on the Internet again.
+
+02:14:04
+<transcript>: is that
+
+02:14:05
+oetziofficial: that was a REALLY nice talk
+
+02:14:05
+thesirfry: can someone link his youtube?
+
+02:14:10
+tayloreddev: good stuff enjoyed that
+
+02:14:12
+oetziofficial: I felt the same way since 2 weeks btw
+
+02:14:13
+2dorkstv: oh man, that's normal
+
+02:14:15
+laytanl_: primeagenBan primeagenGer
+
+02:14:24
+<transcript>: Is that that's probably a little dramatic. It's pretty pretty close accurate. I was a really nice Soxy. I've missed. The thing I hate about having people on is I don't see chat like I try to look at it every once in a while, but I miss so much and that just feels so weird because I really do enjoy Twitch because of you all. I enjoy getting on here and be able to talk with you. And so when I.
+
+02:14:24
+<transcript>: know there's people
+
+02:14:25
+creativenull: this was a good chat
+
+02:14:28
+juctaposed: thx for the talk
+
+02:14:31
+2dorkstv: I have a real hard time clicking the "stream" button, but I'm real glad every time I do
+
+02:14:36
+<transcript>: Know there's people talking and I'm not seeing it or when people follow me. And I don't think and thank you, everybody that followed me and subscribed and raided me. I loved it. I just I didn't say anything because it was like we were in the middle of the conversation.
+
+02:14:47
+<transcript>: Okay. Really hard time clicking the stream button. Really glad every time you do. Yeah. No, I needed this. I needed to talk with trash.
+
+02:14:51
+<transcript>: So I'm in a YouTube video.
+
+02:14:53
+thesirfry: is trashdev a streamer or youtuber?
+
+02:14:55
+<transcript>: Whoa. What was that noise? I changed all my noises if you didn't notice.
+
+02:15:04
+watchbfl: @TheSirFry streamer mostly
+
+02:15:05
+<transcript>: Brake master cylinder made me some, like just notification noises. And they're like, kind of themed to my music. So that made me happy.
+
+02:15:05
+<transcript>: i wasn't feeling
+
+02:15:07
+creativenull: trash_dev on twitch
+
+02:15:11
+ched_dev: twitch streamer @trash_dev
+
+02:15:13
+<transcript>: I wasn't feeling great yesterday, and I got those. Okay, anyway. Yeah. Trash. He's on Twitch. Trash. Dev. Thank you for the sub.
+
+02:15:13
+<transcript>: there ok
+
+02:15:14
+thesirfry: sweet
+
+02:15:16
+<transcript>: There Okamos. Xer. O. Cosmos.
+
+02:15:21
+<transcript>: Yeah. I act like I'm like getting off here. I guess I have a few minutes. Like, ten minutes.
+
+02:15:23
+<transcript>: How's everybody done.
+
+02:15:24
+laytanl_: they are very loud
+
+02:15:32
+<transcript>: You guys so in good. Anybody else get burned out? Ever. It's my first, my first time. Oh, they're very loud. Oh, no, Laden. I didn't even check to see.
+
+02:15:32
+ched_dev: new sounds are loud
+
+02:15:39
+2dorkstv: dude, yeah. burnout is real
+
+02:15:43
+<transcript>: I didn't even check to see if they're, like, mixed two laud. They were loud in my ear, but I thought that was just my headphones. I can turn them down. I'll figure it out. Oh, I think it's this one.
+
+02:15:43
+<transcript>: no
+
+02:15:45
+<transcript>: No, that's not it.
+
+02:15:45
+<transcript>: shared
+
+02:15:47
+<transcript>: Shared. Here it is.
+
+02:15:48
+wesleycoder: you can change the topic on the overlay now
+
+02:15:50
+barryxbtw: i am doing good, burnout comes from time to time but i recover
+
+02:15:53
+vinny_code: I had been dealing with burnout for a few months. Not out of the woods yet but getting better.
+
+02:15:55
+<transcript>: How about now? Well, I don't know. Because nothing happened. I turned them down. We'll see.
+
+02:15:59
+watchbfl: I burned out pretty hard 5 years ago and was thinking of never being a dev again
+
+02:16:00
+shn4ke: chillin just recovering from burnout coded for a bit after a month
+
+02:16:01
+tayloreddev: I've been through burnout long time ago
+
+02:16:01
+<transcript>: It's also weird to be streaming at this time of day. Like I don't stream it.
+
+02:16:01
+<transcript>: one thirty eight
+
+02:16:03
+<transcript>: 138 in the afternoon, My time.
+
+02:16:05
+longhumans: Burnt out rn. Need to go be with trees for a week or two I think
+
+02:16:05
+<transcript>: It's very odd.
+
+02:16:10
+creativenull: idk how I can find out i'm burning out but lately been getting gray hairs does that count?
+
+02:16:11
+<transcript>: Burnout comes from time to time? But you recover? Berry? Yeah, I know I've I've had a.
+
+02:16:11
+<transcript>: i've definitely
+
+02:16:23
+<transcript>: I've definitely had periods where, like I was working too hard, like when I was stat muse. When we were first getting it off the ground, we hadn't raised money yet. Like just spending too much time and physically burning out. I've definitely experienced that.
+
+02:16:23
+<transcript>: i've never experienced
+
+02:16:29
+<transcript>: I've never experienced the emotional burnout that was yesterday. And I say, emotional, it's just like, the best word I can think for it.
+
+02:16:36
+<transcript>: It was literally like this drag of, like ever doing anything on the Internet again. Like.
+
+02:16:36
+<transcript>: not not even
+
+02:16:46
+<transcript>: Not not even not even streaming. I think like streaming. I love, but just the idea of getting on Twitter again or doing any more YouTube stuff.
+
+02:16:49
+laytanl_: sounds good I think
+
+02:16:50
+<transcript>: Just all of it felt.
+
+02:16:50
+<transcript>: insurmountable
+
+02:16:52
+<transcript>: Insurmountable is the word I would use.
+
+02:16:59
+<transcript>: I've been dealing with run out for a few months. Not out of the Woods yet, but getting better. Ooh, does it last that long, Vinny? Oh, Geez.
+
+02:17:00
+corazin: Do you think that being a entrepreneur and not just "a worker" at a company contributes more to burnout?
+
+02:17:02
+<transcript>: Okay.
+
+02:17:08
+barryxbtw: you built these effects on your own? really sick
+
+02:17:10
+<transcript>: And then Snake is just recovering from burnout. We're all just in some cycle where we're constantly burnt out.
+
+02:17:13
+<transcript>: Taylor's been through it long ago.
+
+02:17:13
+<transcript>: long human
+
+02:17:23
+<transcript>: Long humans was burnt out right now. Need to go be with trees for a while. I think that sounds fun actually. Like doing like a I like to go to like Colorado, like go to the mountain.
+
+02:17:23
+<transcript>: like
+
+02:17:25
+<transcript>: Like get a cabin.
+
+02:17:25
+<transcript>: it
+
+02:17:28
+laytanl_: @barryxbtw I think they're Snapchat filters
+
+02:17:28
+watchbfl: I live in colorado!
+
+02:17:29
+itsboek: I’ve been burned out since the before times lol
+
+02:17:30
+vinny_code: Its different from person to person. How you get out of it is also personal.
+
+02:17:30
+yeltrah_: What does it feel like to burnout? Honestly not sure if I've ever felt that
+
+02:17:34
+watchbfl: it is getting cold
+
+02:17:34
+<transcript>: It's probably. Is. It cold there? I know. It'd probably be cold, like snowy, hot chocolate. That sounds amazing. Oh, that's not trees. You said go be with the trees.
+
+02:17:39
+watchbfl: first snow yesterday
+
+02:17:44
+<transcript>: I immediately think of like inside the cabin looking at the pretty trees. I don't know how I can find out I'm burning out, but lately been getting great hairs.
+
+02:17:44
+<transcript>: creative
+
+02:17:47
+tonyboy713: I just had an interview with a senior engineer and he told me since I lack experience. I need to learn a lot of core fundamentals, systems designs, etc. It’s a never ending game
+
+02:17:47
+<transcript>: Creative. I've been getting great hairs.
+
+02:17:47
+<transcript>: can you
+
+02:17:56
+<transcript>: Can you? I don't know if you can see well, you can see my beard. My beard has been getting more and more Gray, but I've just noticed on the side of my head. And my wife says it's stress.
+
+02:17:56
+<transcript>: she says i
+
+02:18:02
+creativenull: Oh no :(
+
+02:18:04
+<transcript>: She says I shouldn't be graying at 36, that it's stressed. And I looked it up and it's totally normal to be granny 36, but.
+
+02:18:04
+<transcript>: also
+
+02:18:06
+<transcript>: Also could be stressed, could be burned out.
+
+02:18:08
+corazin: Idc about color, I just wish the hair would stay :(
+
+02:18:11
+ched_dev: def normal
+
+02:18:19
+<transcript>: Do you think that being in an entrepreneur and not just a worker at a company, contributes more to burnout? I don't know. Core isn't like I feel like the things that burn me out or not, that stuff. I think the thing that's burning me out is Twitter. It's.
+
+02:18:21
+oetziofficial: I have very short hair (26) and its not growing anymore
+
+02:18:22
+<transcript>: All of my peers in this space.
+
+02:18:22
+<transcript>: it's like you
+
+02:18:29
+strtol: I think it is important to remember why you started. Try to get back to the original joy you found in streaming and interacting. Not doing it to compare to others you see online
+
+02:18:39
+<transcript>: It's like you start looking at everything everybody's doing. And I swear, it's this mental state that it's just gonna be a problem. It's gonna be a problem with the Internet. I don't know. They haven't figured this out. The people who made the Internet, Al Gore and Harvard, or whatever. They didn't think about the fact that all of our brains.
+
+02:18:39
+<transcript>: didn't
+
+02:18:39
+watchbfl: keeping up with the jone's
+
+02:18:41
+vinny_code: I've had gray hairs since I was 12. But it's starting to get gray-ier. Grayer? yeah moar gray
+
+02:18:42
+<transcript>: Didn't. They weren't made. They weren't evolved or whatever.
+
+02:18:46
+<transcript>: To see everybody's success. They weren't.
+
+02:18:56
+zer0cosmos: well, limiting notifications, screen time, having some sun helps a lot
+
+02:19:01
+itsboek: It’s the al-gore-ithms
+
+02:19:04
+barryxbtw: twitter is a weird thing for me, its got its own FOMO vibe being european and twitter isnt as big here as in the states, but its big in tech so feels like im missing out, i just dont know if i wannt get into it
+
+02:19:05
+<transcript>: It's just fact. So the Internet has opened Pandora's box. We can all see all these amazing things. It's like the it's the Instagram thing. It's like I have to, like, get on my wife. But I just don't look at people on Instagram. Like, they just they're just they're just showing you what they want to show you. It's that stuff. I never thought I was susceptible to it. I never thought I cared at all.
+
+02:19:05
+<transcript>: but
+
+02:19:11
+<transcript>: But I think I care. I think I care about other people and what they're doing and what I'm not doing.
+
+02:19:17
+<transcript>: Very short hair. And it's not growing anymore. Oh, Etsy.
+
+02:19:17
+<transcript>: is that stress
+
+02:19:32
+oetziofficial: yes ist stress related
+
+02:19:37
+<transcript>: Is that stress related to welcome to Chat. By the way, all the people who came into chat on the stream, I've seen a lot of first time chat and I didn't call that out and I feel bad about it. Welcome, Tony boy, I see you. I just had an interview with a scenery engineer. You told me. Since I lack experience, I need to learn a lot of more core fundamentals, system design, et cetera. Never in a game. It is an ever ending game. You will learn the thing that you thought.
+
+02:19:37
+<transcript>: you needed
+
+02:19:38
+oetziofficial: its*
+
+02:19:46
+<transcript>: You needed to know. And that was like the thing that would make you feel good. And then there'll be a new thing. There'll be another thing you'll do, a thing that you thought was the thing that was like the mountain for you.
+
+02:19:46
+<transcript>: and you'll do
+
+02:19:51
+<transcript>: And you'll do that and then you'll see another mountain and you'll say, I gotta do that now.
+
+02:19:54
+tayloreddev: twitter is now Elons new toy WutFace
+
+02:19:55
+<transcript>: I don't care about color. I just wish that hair would stay.
+
+02:20:02
+laytanl_: I think im in some good twitter circles with lots of positive and constructive tweetd
+
+02:20:15
+laytanl_: doesn't seem so bad for me
+
+02:20:15
+<transcript>: Spiritual. Strictly welcome to Jack. I think it's important to remember what you started. Try to get back to the original joy you found in streaming and interacting. Not doing it compared to others you see online. So that's the thing. I think Twitch is my one safe haven. This is the one place I can come. I don't feel like I'm not comparing myself to other people on Twitch.
+
+02:20:28
+<transcript>: I kind of know the pinnacle. It's like prime is the pinnacle of Twitch. He's amazing at it. And I'm not. There's not one bit in me that wishes I could be prime because he's just so amazing that I'm too and awe of him to feel like bad about it.
+
+02:20:34
+2dorkstv: Prime is great, but you are also great
+
+02:20:38
+2dorkstv: it's two different modes
+
+02:20:48
+<transcript>: So Twitch is the place I can go and I can feel pretty good. It's Twitter and now dipping my toes in your tube. Those are like opening me up to worlds that I just feel like I'm comparing myself to other people and how they do things on those platforms. They'll just not be on those platforms. Maybe I'll just hang on Twitch all day. Feel like this makes me feel good. Those other places make me feel bad. Keeping up with the Jones.
+
+02:20:48
+<transcript>: 's that's right
+
+02:20:50
+ched_dev: tomatos tomatoes
+
+02:20:50
+<transcript>: 's That's right. Watch.
+
+02:20:56
+<transcript>: Then you've had great hair since you're twelve. It's starting to great. Get grayer. Great. Yeah. Grayer. More Gray.
+
+02:21:06
+2dorkstv: Prime is a living sugar cube. You're  more mellow. But both of you are awesome to watch
+
+02:21:09
+corazin: Yeah, I thought I had "learned the thing" but now my company wants me to work fullstack and not just frontend. The backend is in elixir. So I learned that ish, then realised it used phoenix framework, so I learned that ish, now I've found they are exclusively using Absinthe plugin for the graphql endpoint..*sigh* lol tools on tools on tools.
+
+02:21:10
+<transcript>: Limiting notifications of screen time. See, those are some pretty practical things I could do. That's a good call. I did turn on notifications on my watch for discord because I was missing a lot of discord messages. I think that's added to some of my.
+
+02:21:10
+<transcript>: some of
+
+02:21:14
+<transcript>: Some of my like anxiety. I would call it anxiety.
+
+02:21:14
+laytanl_: YouTube seems very toxic to me
+
+02:21:28
+<transcript>: Twitter's weird thing for me. It's got its own FOMO vibe being European, and Twitter isn't as big here as in the States, but it's big in text. It feels like I'm missing out. I don't know if I want to get into it. Don't, don't get into it. Can I just tell you now, Barry.
+
+02:21:28
+<transcript>: you'll get into it
+
+02:21:31
+<transcript>: You'll get into it and you'll maybe wish you didn't get into it.
+
+02:21:39
+<transcript>: It's now Elon's new toy. I've seen a lot of talk about this. That Elon's actually buying it. Is that gonna mean changes to the actual Twitter product? Anyone know.
+
+02:21:47
+<transcript>: They come in some good Twitter circles with lots of positive and constructive tweets doesn't seem to be so bad for me. That sounds nice. Laden.
+
+02:21:47
+barryxbtw: lol, just so many things tweeted that matter for tech NotLikeThis primeagenSexy
+
+02:21:53
+oetziofficial: he bought it already didnt he?
+
+02:21:54
+<transcript>: To Newark. Thank you for saying I'm great. I don't know what you think about me is great, but I appreciate that.
+
+02:21:54
+<transcript>: tomato
+
+02:21:59
+<transcript>: Tomatoes, tomatoes, prime is living a living shoe Sugar Cube.
+
+02:22:01
+<transcript>: That's funny.
+
+02:22:03
+oetziofficial: he tweeted some stuff about it already
+
+02:22:14
+<transcript>: I thought I had learned the thing, but now my company wants me to work full stack, and I just run in the backend is an elixir. So I learned Thatish and realize it was used Phoenix. So I learned that ish.
+
+02:22:14
+<transcript>: they're exclusively
+
+02:22:16
+<transcript>: They're exclusively using Absent plugins.
+
+02:22:19
+<transcript>: Tools? On tools? On tools.
+
+02:22:19
+<transcript>: i yeah
+
+02:22:20
+<transcript>: I Yeah.
+
+02:22:20
+<transcript>: there's like two
+
+02:22:33
+<transcript>: There's, like, two sides of it. There's. The tech is moving so fast, and there's always a new library you could learn. And you're gonna see people that love it and say, it's the best thing ever. There's that side. And then there's, like, the just.
+
+02:22:33
+laytanl_: Formula 1 twitter is even worse than tech twitter
+
+02:22:40
+<transcript>: Comparing yourself to other people. I don't know. It's like the content stuff and I don't know how much people in here care relates that.
+
+02:22:45
+<transcript>: I don't feel like I'm a content creator, but I am the one on this side of the camera, so I guess in some sense.
+
+02:22:49
+<transcript>: In some sense. I am. It feels weird to think that.
+
+02:22:49
+<transcript>: so many things tweeted
+
+02:22:53
+<transcript>: So many things tweeted that matter for Tech, Yeah.
+
+02:23:00
+wesleycoder: Elon said he won't change much about Twitter and will focus on making it grow on quality and features maintaining what already exists
+
+02:23:01
+<transcript>: Formula One. Twitter is even worse in tech, Twitter. Oh, I might join that just to get a sense. Like for how good I have it in tech Twitter.
+
+02:23:08
+<transcript>: What is Formula One? Twitter? It's like people who are fans of Formula One, or like all the drivers.
+
+02:23:21
+<transcript>: Elon said he won't change much about Twitter, and we'll focus on making it grow on quality and features, maintaining what already exists. Well, that's good news. Do we believe him? What's the consensus? Do we believe that's true.
+
+02:23:21
+<transcript>: i mean
+
+02:23:21
+barryxbtw: Senna > Hamilton <3
+
+02:23:27
+<transcript>: I mean, I don't know why he'd invest a bunch of money into it and then destroy it. That would be bad for business, but.
+
+02:23:27
+<transcript>: he might have
+
+02:23:28
+<transcript>: He might have bad ideas.
+
+02:23:33
+<transcript>: Cynic greater than Hamilton.
+
+02:23:37
+<transcript>: What is I don't know what either. Those two things are.
+
+02:23:39
+2dorkstv: I worry more for the people that work there. Elon is ... demanding
+
+02:23:43
+laytanl_: Yeah fans, but lots of fans just bash on eachother or the drivers
+
+02:23:46
+<transcript>: Oh, it's weird to go whole stream, and I haven't shared my screen like I haven't once done a thing. I think I'm not much of a talker. I'm more of a doer.
+
+02:23:52
+<transcript>: I worry more for people that work there. Elon is demanding. Yeah, I've heard that. I've definitely heard the stories.
+
+02:23:52
+<transcript>: that tesla
+
+02:23:54
+<transcript>: That Tesla and.
+
+02:23:54
+<transcript>: the space
+
+02:23:55
+kantong1: senna and hamilton were/are f1 drivers
+
+02:23:58
+<transcript>: The space thing. Spacex. I've heard these not the best.
+
+02:23:58
+barryxbtw: Ayrton Senna, greatest F1 Driver of all time. Lewis Hamilton, the big boy at the time.
+
+02:24:00
+<transcript>: Balancer of things.
+
+02:24:00
+<transcript>: i don't know some people like
+
+02:24:01
+laytanl_: because they pick a favorite and can't take bad days/news
+
+02:24:03
+<transcript>: I don't know. Some people like that. Maybe I don't know.
+
+02:24:13
+<transcript>: Oh, they're F one drivers. I gotcha, wow, I've literally never seen those names. And I bet they're like, huge figures. And everyone knows who they are.
+
+02:24:29
+<transcript>: In some circles, it's weird to know that that's that's something that's interesting to me. The Internet, like you learn how many subcultures are, where there's groups of people, they're so into something more into something than you've ever been into. And you know nothing about that something.
+
+02:24:29
+<transcript>: it's always so bizarre
+
+02:24:43
+<transcript>: It's always so bizarre feeling you feel like an alien for a little bit, like when you enter into that world and you see them all talking about the thing and they know all these terms and people and places, and you've never heard of it. It just feels like you're on a different planet.
+
+02:24:43
+<transcript>: and there's
+
+02:24:48
+<transcript>: And there's like millions of those there's like how many subredths are there? Subreddits.
+
+02:24:48
+<transcript>: there's that
+
+02:24:50
+<transcript>: There's that many.
+
+02:24:50
+<transcript>: crazy obsess
+
+02:24:52
+<transcript>: Crazy obsessed subcultures.
+
+02:24:52
+<transcript>: aryat
+
+02:24:57
+barryxbtw: i feel alienated as well to some degree because i know web dev and i know most people i meet dont
+
+02:25:04
+<transcript>: Aryat and Sinna greatest EP. One driver of all time. He's like the Michael Jordan, Lewis, Hamilton, the big boy at the time. Okay, the upandcomer if you will because they pick a favorite and can't take bad days. News.
+
+02:25:07
+<transcript>: They take a favorite.
+
+02:25:07
+<transcript>: fans
+
+02:25:27
+<transcript>: Fans. Lots of you're talking about the fans. Lots of fans just bash on each other for the drivers. Okay. Guys are talking about F one. I got you. I feel alienated as well to some degree, because I know web Dev and I know most people I meet don't. Yeah, the physical thing. I think there's something to that, like not having any interaction, like in person with people.
+
+02:25:29
+<transcript>: That are into the thing you're into.
+
+02:25:29
+<transcript>: i think it's
+
+02:25:33
+<transcript>: I think it's important to somehow find your way in a place.
+
+02:25:33
+<transcript>: there's
+
+02:25:40
+<transcript>: There's even I joke about the Ozarks being so tick illiterate. There are like tech meetups like I can develop or user group kind of thing.
+
+02:25:42
+littletruckerman: i mean, web devs are aliens, facts
+
+02:25:45
+<transcript>: There's an AWS user group. And there was like three people there. The time I went.
+
+02:25:49
+<transcript>: There was literally three people. And then me.
+
+02:25:53
+<transcript>: So it feels like I don't know.
+
+02:25:53
+<transcript>: do i want to go to that
+
+02:25:55
+<transcript>: Do I want to go to that I have to drive, like, 45 minutes.
+
+02:26:06
+<transcript>: But I think every once in a while it is good to interact with you off the Internet. This is not ground baking stuff. I'm sure people have put a little more thought into this than I am right now.
+
+02:26:13
+<transcript>: Webdevs are Aliens. Facts. Welcome to Chat. Little Truckerman, Truckerman, truckerman.
+
+02:26:14
+barryxbtw: web dev education here is all big on php, angular etc and its just so bizarre being ahead of my own country's "tech level" if you can say that
+
+02:26:23
+<transcript>: All right. I think I feel better. I think today was good for me. Yesterday, when I was at the lows of the lows, my wife had to deal with it.
+
+02:26:27
+<transcript>: I had been editing this video all day after watching.
+
+02:26:31
+<transcript>: Way too much. Next. Yes. Conference videos.
+
+02:26:31
+<transcript>: and i
+
+02:26:31
+dnbull: indubitably
+
+02:26:33
+<transcript>: And I was just feeling like.
+
+02:26:33
+<transcript>: what am i doing
+
+02:26:41
+<transcript>: What am I doing? Do I want to do this? Is any of this stuff I care about? How would I spend my time if I could just do whatever I want? Had the answers for none of those.
+
+02:26:41
+<transcript>: and i thought
+
+02:26:52
+<transcript>: And I thought, like, how am I gonna get on tomorrow on a stream and talk to Trash? And then I thought, like, Actually, Trash will probably have a lot of good things to say. And he did. So that was nice.
+
+02:26:53
+<transcript>: Okay.
+
+02:26:58
+<transcript>: I don't have any way to end this stream today.
+
+02:26:58
+<transcript>: i'm just ending
+
+02:27:00
+ched_dev: well done
+
+02:27:00
+<transcript>: I'm just ending it normally. It's like.
+
+02:27:00
+<transcript>: i
+
+02:27:01
+<transcript>: I.
+
+02:27:01
+<transcript>: spent a lot of time
+
+02:27:05
+<transcript>: Spent a lot of time working on a thing, and I'm just done today. It's like.
+
+02:27:05
+<transcript>: it's almost time for
+
+02:27:11
+ched_dev: play us out adam!
+
+02:27:12
+vinny_code: feel better dude. Thanks for the stream and opening up.
+
+02:27:21
+<transcript>: It's almost time for me to go to this, my family. This is actually when I in my day. So if you ever wondered, like, when you see me, it's the beginning of my day. Normally, this is when I this is when I end. Yeah, I'm gonna play you out. You're gonna listen to my thing and we're gonna raid somebody. If there's anybody on, I don't even know who's on.
+
+02:27:21
+<transcript>: thank you
+
+02:27:24
+longhumans: good stream! Glad I dropped in.
+
+02:27:26
+<transcript>: Thank you, Vinny. I appreciate that. Feel better. Thanks to the stream. Anytime.
+
+02:27:26
+<transcript>: i'll be back
+
+02:27:30
+<transcript>: I'll be back next week is Friday, right? Yeah. I'll be back next week.
+
+02:27:30
+<transcript>: thank you
+
+02:27:33
+<transcript>: Thank you everybody, for joining.
+
+02:27:33
+<transcript>: and maybe
+
+02:27:33
+delvoid: great stream Adam!
+
+02:27:34
+benkelly86: Cya Adam!
+
+02:27:35
+<transcript>: And maybe we could do it again sometime.
+
+02:27:37
+corazin: Very much enjoyed. Peace
+
+02:27:38
+laytanl_: See ya!
+
+02:27:40
+delvoid: <3 later buddy
+
+02:27:43
+<transcript>: Okay, now I gotta hit my button, but it was on a different page on my stream deck, so I gotta do it again? So this has been great.
+
+02:27:43
+<transcript>: maybe we could
+
+02:27:44
+zer0cosmos: Bye
+
+02:27:45
+<transcript>: Maybe we could do it again. Sometimes.
+
+02:28:31
+corazin: Dang. I am digging this outro. lol

@@ -15,7 +15,7 @@ import React from "react"
 import { CustomNextApiResponse } from "../lib"
 import { getStreamInfo, GetStreamResponse, Guest, songs } from "../lib/stream"
 import { randomItem } from "../lib/utils"
-import { useSocket, useEvent } from "../hooks"
+import { useSocket, useEvent, useStream } from "../hooks"
 
 const AUDIO_FADE_LENGTH = 5 * 1000
 const LOADING_INTERVAL = 200
@@ -58,6 +58,7 @@ function Intro({
   useEvent<Guest>(socket, "guest-left", () => {
     setGuest(undefined)
   })
+  const updatedStream = useStream()
 
   const handleClockStart = React.useCallback(() => {
     setTimeout(() => {
@@ -98,7 +99,7 @@ function Intro({
             <div className="mt-[26px]">
               {stream?.current && (
                 <div className="text-5xl font-light text-mauve-12">
-                  {stream.current.title}
+                  {updatedStream?.current?.title ?? stream.current.title}
                 </div>
               )}
               {stream?.current && (

@@ -1,0 +1,8551 @@
+
+
+10:45:58
+<transcript>: You.
+
+11:09:14
+<transcript>: You.
+
+11:10:30
+<transcript>: You.
+
+11:14:23
+vim_cerf: sthHype sthJam
+
+00:02:53
+vim_cerf: Oh, awesome! More state machines today :D Last time you were on call with David I learned a ton.
+
+00:03:28
+anderline2: Buy viewers, followers and primes   on mountviewers. com
+
+00:06:33
+fragaverage: 👋🏼👋🏼👋🏼
+
+00:10:36
+<transcript>: Check one to check, check, check.
+
+00:10:36
+<transcript>: one to
+
+00:10:37
+<transcript>: One to check, check.
+
+00:10:49
+<transcript>: Hello.
+
+00:10:55
+raestrict: PogBones
+
+00:11:03
+<transcript>: Strangers? What's going on? Wow. It's been so long. It's been a week.
+
+00:11:10
+<transcript>: Which I did not take any time off. That's what's weird. Like last time I went a week just because I took a vacation.
+
+00:11:11
+tayloreddev: Its been a while
+
+00:11:12
+<transcript>: No vacation, just.
+
+00:11:12
+<transcript>: busy
+
+00:11:14
+<transcript>: Busy.
+
+00:11:14
+<transcript>: it's
+
+00:11:17
+<transcript>: It's been a while. Hello, Frag and Ray Stricken. Taylor.
+
+00:11:20
+<transcript>: And vincerf.
+
+00:11:22
+andom: Howdy!
+
+00:11:26
+<transcript>: So much so much to talk about.
+
+00:11:26
+<transcript>: so much
+
+00:11:29
+cowfacedude99: hi @adamdotdev and chat
+
+00:11:32
+<transcript>: So much to work on and on's here. I just turned on the heat.
+
+00:11:32
+<transcript>: and
+
+00:11:35
+<transcript>: And my basement for the first time.
+
+00:11:35
+<transcript>: this year
+
+00:11:38
+<transcript>: This year. I guess Calf face is here.
+
+00:11:39
+s1hofmann: Hey there!
+
+00:11:44
+<transcript>: My hands are freezing.
+
+00:11:44
+<transcript>: hoffman
+
+00:11:45
+<transcript>: Hoffman is here.
+
+00:11:45
+<transcript>: okay i'm just gonna
+
+00:11:50
+raestrict: yaboyc16Juiced yaboyc16Juiced
+
+00:11:51
+<transcript>: Okay. I'm just gonna announce every single person that shows up now, so there's your if you show up in chat.
+
+00:11:53
+<transcript>: You'll get an announcement.
+
+00:11:53
+<transcript>: very strict
+
+00:11:59
+qubiz: Hi Adam!
+
+00:11:59
+<transcript>: Very strict again. I guess I don't need to say it again. Juice? What is this? Juice.
+
+00:12:07
+<transcript>: Cuba is here. Hey, we're working on AWS, Cube. Is that's what we're working on today.
+
+00:12:17
+<transcript>: No more green screen. I move my desk back. We're back where it all started.
+
+00:12:20
+<transcript>: This is just me and my background. The real thing.
+
+00:12:32
+<transcript>: Because I'm working on YouTube stuff and I got really tired of the green screen keying and all that. I just I feel like I spent half my time keying just like fiddling with the key, trying to get it just right. I'm so tired of it.
+
+00:12:33
+cowfacedude99: I switched to a trackball over the weekend. and I love it!!!!
+
+00:12:38
+<transcript>: Yeah, YouTube. Hard. It's so hard. I'm.
+
+00:12:44
+<transcript>: Twitch, Twitch is fun. Youtube will be fun.
+
+00:12:47
+<transcript>: Youtube is so much harder because.
+
+00:12:47
+<transcript>: editing
+
+00:12:50
+<transcript>: Editing. You have to like.
+
+00:12:50
+<transcript>: condense
+
+00:12:52
+<transcript>: Condense information.
+
+00:12:56
+fragaverage: It has its perks though, you can do a lot in post
+
+00:12:58
+raestrict: YouTube is hard but worth ut
+
+00:13:01
+<transcript>: Wow, it's hard. I've spent so long editing. I filmed my first video for YouTube twice, and I've spent countless hours.
+
+00:13:01
+<transcript>: learning
+
+00:13:02
+raestrict: It
+
+00:13:03
+<transcript>: Learning Premiere pro.
+
+00:13:03
+<transcript>: yeah i'm
+
+00:13:09
+cowfacedude99: that's why prime has flip LUL
+
+00:13:14
+<transcript>: Yeah, I'm so excited, though. Like, I'm obsessed. Youtube is my new obsession. I mean, I'm still gonna be streaming as much as possible, and I've teased it. I would have never teased all the changes that are coming.
+
+00:13:17
+<transcript>: Yeah, I've spoken with Flip cow face.
+
+00:13:17
+<transcript>: i just i want to
+
+00:13:27
+<transcript>: I just. I want to start myself. I want to, like, learn how to edit. So I kind of understand what I want stylistically before I just, like, hand all the raw footage, just somebody for the first time.
+
+00:13:34
+<transcript>: So and also I don't know what else flip is done. Like I'm not seeing any of his other work just prime stuff.
+
+00:13:34
+<transcript>: and i
+
+00:13:37
+<transcript>: And I'm not sure like.
+
+00:13:40
+raestrict: Using Final Cut or premier?
+
+00:13:41
+<transcript>: Does he do other styles? Because My won't be like Primes videos. Obviously.
+
+00:13:41
+<transcript>: my
+
+00:13:49
+<transcript>: My personality is not like Primes. I'm using Premiere Pro Raystrict, and I've learned so much.
+
+00:13:54
+<transcript>: Sometimes I question, like, Do I want to learn this? Like, is this a thing.
+
+00:13:54
+<transcript>: it's fun
+
+00:14:00
+<transcript>: It's fun. I mean, I've enjoyed learning it. And I've been generally enjoy learning new things.
+
+00:14:00
+<transcript>: but
+
+00:14:05
+<transcript>: But then I have to balance it with, like, is this a thing I want to spend a lot of my time on.
+
+00:14:05
+<transcript>: un
+
+00:14:09
+<transcript>: Unclear it's this stage, but we'll find out.
+
+00:14:09
+tayloreddev: Editing is so time consuming
+
+00:14:14
+<transcript>: So I will have a video coming out soon and then hopefully.
+
+00:14:21
+<transcript>: A lot of videos coming after that. I think this first one, there's a lot I'm doing to try to like.
+
+00:14:21
+<transcript>: just
+
+00:14:27
+<transcript>: Just, like, figure out what my workflows gonna be. I figured finally figured out a really great.
+
+00:14:27
+<transcript>: from
+
+00:14:35
+<transcript>: From recording to editor workflow. But I'm doing all kinds of stupid stuff that I should be doing for programming. Youtube.
+
+00:14:35
+<transcript>: like shooting
+
+00:14:38
+<transcript>: Like shooting in ProRes Raw and log.
+
+00:14:46
+<transcript>: So it'll be a really great production quality as you're akin to seeing here on Twitch.
+
+00:14:46
+<transcript>: yeah
+
+00:14:47
+<transcript>: Yeah.
+
+00:14:47
+<transcript>: i'm excited
+
+00:14:49
+<transcript>: I'm excited about YouTube.
+
+00:14:49
+<transcript>: and i
+
+00:14:54
+<transcript>: And I wouldn't have ever sorry to say I wouldn't have ever teased all the changes that are coming to my life.
+
+00:14:54
+<transcript>: and
+
+00:15:03
+<transcript>: And streaming and all that if I knew it was gonna take as long as it's taken it's taking some time or reasons and.
+
+00:15:03
+<transcript>: i'll get to that
+
+00:15:10
+<transcript>: I'll get to that eventually, but just know that I will be streaming more. We're getting there. It's coming.
+
+00:15:12
+cowfacedude99: go through teej's taketuesday series when you have time. it's a good series to add tools to your vim toolbelt and you will get another view into flip's editing
+
+00:15:14
+<transcript>: All right.
+
+00:15:16
+raestrict: You shoot in raw? That just makes editing so much better
+
+00:15:20
+<transcript>: Take Tuesday series.
+
+00:15:22
+<transcript>: Ooh.
+
+00:15:22
+<transcript>: that sounds
+
+00:15:26
+<transcript>: That sounds okay. So flip does TJ stuff. I didn't know that.
+
+00:15:31
+<transcript>: Yeah, restrict the the row.
+
+00:15:44
+<transcript>: I mean, just ProRes seems to be really great when it comes to editing. And then, yeah, the Raw stuff. It's pretty crazy what you can do in post you shoot. And Raw does take a lot of space, but.
+
+00:15:50
+<transcript>: That's what my network storage is for. Alright.
+
+00:15:50
+<transcript>: let's
+
+00:15:55
+<transcript>: Let's let's do let's do AW guess thing.
+
+00:15:55
+<transcript>: haven't
+
+00:15:56
+<transcript>: Haven't touched it.
+
+00:16:02
+<transcript>: Since we last spoke.
+
+00:16:11
+<transcript>: Let's go into.
+
+00:16:13
+<transcript>: Code.
+
+00:16:13
+<transcript>: playground
+
+00:16:16
+<transcript>: Playground. Eight of you guess.
+
+00:16:16
+<transcript>: just like
+
+00:16:18
+<transcript>: Just like that.
+
+00:16:21
+<transcript>: Let's.
+
+00:16:24
+<transcript>: Actually.
+
+00:16:33
+<transcript>: What is it when you want to do a new pain? Is it like that? Yeah.
+
+00:16:40
+<transcript>: I need to do P scale.
+
+00:16:45
+<transcript>: And then I need to do pnpm run dead.
+
+00:16:50
+<transcript>: Oh, wow, because I'm not in the.
+
+00:16:54
+<transcript>: 100 out of 100 times that will not work.
+
+00:16:56
+<transcript>: Cd.
+
+00:16:56
+<transcript>: is
+
+00:16:57
+<transcript>: Is.
+
+00:17:01
+<transcript>: Never okay.
+
+00:17:05
+<transcript>: Now I can end them.
+
+00:17:08
+<transcript>: I have dated all my Inv.
+
+00:17:09
+<transcript>: inventory
+
+00:17:10
+<transcript>: Inventory.
+
+00:17:10
+<transcript>: things
+
+00:17:11
+<transcript>: Things.
+
+00:17:11
+<transcript>: i don't even
+
+00:17:13
+tayloreddev: You using your new mode sonnet?
+
+00:17:21
+cowfacedude99: I think flip has done most of the videos on  teej's channel apart from the aocd stuff
+
+00:17:23
+<transcript>: I don't even remember. I guess this doesn't even load yet. We're still like putting Humpty Dumpty back together again because we're doing the xDate thing which I'm very excited about.
+
+00:17:23
+<transcript>: but
+
+00:17:24
+<transcript>: But.
+
+00:17:32
+<transcript>: Gotta get it actually wired up. I don't I literally don't remember where, like it's been a week, so I don't remember where.
+
+00:17:36
+<transcript>: Things were so we have Const use machine.
+
+00:17:41
+<transcript>: Delay and searches.
+
+00:17:43
+<transcript>: Answer.
+
+00:17:43
+<transcript>: okay all of the
+
+00:17:47
+<transcript>: Okay. All of the seemed like I finished it.
+
+00:17:51
+<transcript>: We weren't sure if this expires. I'm not.
+
+00:17:51
+<transcript>: we
+
+00:17:53
+<transcript>: We weren't sure if this. How often.
+
+00:17:53
+<transcript>: this
+
+00:17:55
+<transcript>: This dynamic delay.
+
+00:17:55
+<transcript>: gets inv
+
+00:17:57
+<transcript>: Gets invoked.
+
+00:18:05
+<transcript>: But as long as we keep updating the game on the context, it'll get a new expires time after each answer because remember.
+
+00:18:12
+<transcript>: Oh, I am using the new mode sonnet, so let me know everybody if the sound is.
+
+00:18:15
+<transcript>: Pleasing or not.
+
+00:18:15
+<transcript>: if you hate it
+
+00:18:21
+<transcript>: If you hate it and you want me to pull out the 80 again, we can do that. The spacebar is a little different.
+
+00:18:22
+<transcript>: So let me.
+
+00:18:28
+<transcript>: It's a little different. I notice it. The other keys sound pretty similar.
+
+00:18:40
+<transcript>: But yeah, they I had them build this one for me. I reached out and said, Please, I love the sound of the one I have, and I don't want to build one because it'll sound bad.
+
+00:18:47
+tayloreddev: I'm looking at one myself, so much customisation its hard to chooose
+
+00:18:51
+<transcript>: Flippers on most of the videos on TV channel apart from the Ace AOCD stuff. Okay.
+
+00:18:55
+<transcript>: I will I will watch more of teaches YouTube.
+
+00:19:07
+<transcript>: Looking at myself. So much customization start. Yeah. Oh, yeah, it's tough. So what I what I did. I have all of the accents, like, all the little middle actions, colors.
+
+00:19:07
+<transcript>: one of each
+
+00:19:08
+<transcript>: One of each.
+
+00:19:08
+<transcript>: i've got
+
+00:19:15
+<transcript>: I've got a couple different backs. I've got actually two boards. I just haven't put together the other board. We'll do it on stream. Eventually. I'll do.
+
+00:19:15
+<transcript>: a build stream
+
+00:19:20
+<transcript>: A build stream. That'll be a change of pace. Probably not until I'm streaming more.
+
+00:19:23
+bowdy: what are we talking about?
+
+00:19:27
+caasidev: heyup Adam !
+
+00:19:32
+<transcript>: But I've got like a white top and white bottom. Black top, black bottom. And then I had a silver bottom. And I put on this one. So I'll do like some video. I'll show you all the keyboard here in a SEC.
+
+00:19:37
+<transcript>: Okay. So we have our mutations, and then we have our used machine.
+
+00:19:40
+<transcript>: The Game machine.
+
+00:19:40
+<transcript>: has
+
+00:19:41
+<transcript>: Has.
+
+00:19:41
+<transcript>: initial state
+
+00:19:47
+<transcript>: Initial state idle. We do a start game event that moves it to active.
+
+00:19:54
+<transcript>: And then we have active. The initial is guessing. So it's kind of a submachine.
+
+00:19:57
+<transcript>: After expires it goes to game over.
+
+00:19:57
+<transcript>: as
+
+00:20:01
+<transcript>: As guessing state on guests. It goes to checking answer.
+
+00:20:05
+<transcript>: Checking insert invokes the answer.
+
+00:20:19
+<transcript>: Not sure how I think it gets the guess on the payload there we'll have to take a look on done goes to showing answer. After 2 seconds we go back to guessing. Okay that's it. It's pretty simple that's our state machine.
+
+00:20:27
+<transcript>: We define our service, which our answer service. And I guess is it getting the choice? Yeah. Off the context. Okay.
+
+00:20:31
+<transcript>: I could have probably done it on the event.
+
+00:20:42
+<transcript>: I hit let's turn on keycaster so that you all can talk me what I hit.
+
+00:20:53
+<transcript>: Okay.
+
+00:20:55
+<transcript>: What did I just do.
+
+00:21:03
+<transcript>: So here I want to say event, and I'm just gonna console log.
+
+00:21:07
+<transcript>: Just want to know what that event looks like.
+
+00:21:07
+<transcript>: and i want to know how
+
+00:21:09
+<transcript>: And I want to know how often it's invoked.
+
+00:21:12
+<transcript>: Okay. So now.
+
+00:21:18
+<transcript>: Cassie? What's going on? What are we talking about? Bowdy.
+
+00:21:18
+<transcript>: we're talking
+
+00:21:21
+<transcript>: We're talking about AW, guess.
+
+00:21:25
+<transcript>: Or was I talking about my keyboard? I'm not sure what I was talking about the moment you said that.
+
+00:21:30
+bowdy: oh your keyboard!
+
+00:21:33
+bowdy: do you have a new one?
+
+00:21:38
+<transcript>: The good kind of rust like the I haven't Typed on my keyboard in a week. Kind of wrapped.
+
+00:21:42
+<transcript>: Okay.
+
+00:21:44
+<transcript>: Let's see.
+
+00:21:45
+<transcript>: So.
+
+00:21:57
+<transcript>: Was there another service now I just started emitting events now, right? So, like when you click this one's gonna be complicated.
+
+00:21:57
+<transcript>: let's
+
+00:21:57
+<transcript>: Let's.
+
+00:21:57
+<transcript>: save this one
+
+00:21:59
+<transcript>: Save this one.
+
+00:22:03
+<transcript>: But use effect. This is our.
+
+00:22:08
+<transcript>: Timer, stuff.
+
+00:22:08
+<transcript>: i want to
+
+00:22:12
+<transcript>: I want to do just handle new game here it is. So this is handle new game.
+
+00:22:18
+<transcript>: We could have done. I think we could have done these mutations.
+
+00:22:18
+<transcript>: in
+
+00:22:19
+<transcript>: In.
+
+00:22:19
+<transcript>: an
+
+00:22:21
+<transcript>: An invoke.
+
+00:22:21
+<transcript>: no because
+
+00:22:24
+<transcript>: No. Because I need them. I don't know. Actually.
+
+00:22:24
+<transcript>: for
+
+00:22:32
+<transcript>: For now we're gonna do it like this. I would like to move as much as possible in the state machine, but we're gonna say.
+
+00:22:35
+<transcript>: Something that's our machine. Right.
+
+00:22:38
+<transcript>: What is it.
+
+00:22:45
+<transcript>: I actually have no idea. I have no idea what it returns, right.
+
+00:22:48
+<transcript>: What is something.
+
+00:22:48
+<transcript>: a use mach
+
+00:22:50
+<transcript>: A use machine return.
+
+00:22:55
+<transcript>: Okay.
+
+00:23:03
+<transcript>: Should I be like, deconstructing something here? I guess let's just open up xDate. Doc.
+
+00:23:03
+<transcript>: xdate
+
+00:23:05
+<transcript>: Xdate docs.
+
+00:23:08
+<transcript>: Music going.
+
+00:23:11
+<transcript>: Let's get some music.
+
+00:23:14
+<transcript>: Your library.
+
+00:23:19
+<transcript>: Let's get the streaming.
+
+00:23:22
+<transcript>: There it is.
+
+00:23:25
+<transcript>: Let's play this.
+
+00:23:28
+<transcript>: Alright.
+
+00:23:34
+<transcript>: And we're looking for let's see.
+
+00:23:34
+<transcript>: i want the
+
+00:23:35
+<transcript>: I want the.
+
+00:23:41
+<transcript>: B usage with react. Right. I want to know, what do you get back? So current. It's an array current in the.
+
+00:23:44
+<transcript>: Vints.
+
+00:23:44
+<transcript>: okay
+
+00:23:45
+<transcript>: Okay.
+
+00:23:55
+<transcript>: Yeah. Bowdy. It's a I got my son, it's in. So it's mode a mode, sonnet. It's a little smaller. Okay, I'll just do it. Hang on. Let me just show you all my new keyboard.
+
+00:23:55
+<transcript>: it's too exciting
+
+00:23:59
+<transcript>: It's too exciting to not show you many keyboard I'm gonna do like this.
+
+00:24:04
+<transcript>: And I'm gonna hit a button to move this camera over here.
+
+00:24:05
+<transcript>: Let's see.
+
+00:24:05
+<transcript>: did i already have that
+
+00:24:07
+<transcript>: Did I already have that.
+
+00:24:20
+<transcript>: Save these positions. Yeah. Here we go.
+
+00:24:25
+<transcript>: All right, new keyboard coming up.
+
+00:24:34
+<transcript>: Dramatic pause as we move around.
+
+00:24:38
+<transcript>: Alright. There it is. So it's a mode sonnet.
+
+00:24:40
+<transcript>: It's.
+
+00:24:43
+<transcript>: We got to find the right. Where is it.
+
+00:24:43
+<transcript>: so
+
+00:24:48
+fragaverage: cleannn
+
+00:24:49
+<transcript>: So I did midnight Rainbow Keycaps GMK Midnight Rainbow. It's got a silver axis.
+
+00:24:49
+<transcript>: it's a black top
+
+00:24:50
+<transcript>: It's a black top.
+
+00:24:50
+<transcript>: it's a black
+
+00:24:54
+<transcript>: It's a black bottom or I'm sorry. It's a silver bottom.
+
+00:24:54
+<transcript>: so you can see
+
+00:25:00
+<transcript>: So you can see kind of like on the edges, the profile of it's pretty cool because you can see the bottom of it. Kind of wrap.
+
+00:25:00
+<transcript>: you see that
+
+00:25:02
+<transcript>: You see that.
+
+00:25:02
+<transcript>: just trying to
+
+00:25:08
+<transcript>: Just trying to find a way to show it the best way. There it is. So it's a 75%.
+
+00:25:11
+vim_cerf: So neat and beautiful!
+
+00:25:11
+bowdy: shiny
+
+00:25:18
+<transcript>: Layout as opposed to the 80, obviously is an 80%, so it loses like you don't have all of those nonsense keys I know used over here.
+
+00:25:18
+<transcript>: it shoves
+
+00:25:22
+tayloreddev: nice
+
+00:25:24
+<transcript>: It shoves the the arrow keys kind of into the keyboard. I actually love. This is my favorite layout for sure.
+
+00:25:24
+<transcript>: i'm still
+
+00:25:26
+elicxlive: The mirrored accent and bottom looks really cool
+
+00:25:27
+retro_msft: I just built my savage 65 today
+
+00:25:42
+<transcript>: I'm still I'm getting used to the aesthetic. I do have a matching cable coming. That'll be kind of cool. It's like it's like a rainbow neck cables. Not like bright rainbow. It's like black with rainbow dots. Kind of going through it. It'll be cool. It'll kind of match the midnight rainbow theme anyway.
+
+00:25:45
+<transcript>: That is that.
+
+00:25:49
+tayloreddev: I've a 65% at the moment, i think i want a TKL minimum
+
+00:25:50
+<transcript>: We move that camera back.
+
+00:25:50
+<transcript>: so i don't
+
+00:25:52
+<transcript>: So I don't forget.
+
+00:25:55
+<transcript>: Alright.
+
+00:25:55
+<transcript>: sad
+
+00:25:58
+<transcript>: Sad Savage 65 Oh.
+
+00:26:04
+<transcript>: The mirrored accent. Welcome to Chat Elix live.
+
+00:26:10
+<transcript>: Mirrored accent and bottom looks really cool. Yeah, I totally agree. I think I was actually going to do.
+
+00:26:23
+<transcript>: They have a Ti, multi color. It's like a what is that? It's like a metal. That it's multicolored. They use some kind of chemical thing. And it's got all these different colors on it. It's kind of a metallic.
+
+00:26:23
+<transcript>: multicol
+
+00:26:35
+fragaverage: Burnt titanium
+
+00:26:43
+<transcript>: Multicolore rainbow looking thing. I was gonna use that with the mid. That rainbow. That was always the plan, but it came in, and it's like, 20% wider than all the other accents. So I let Mode know they're sending me a new one, but it doesn't fit in the channel, like, I couldn't put it in. So then I went with silver, and I kind of I kind of like the silver. It goes with the bottom. It's I like, I like it.
+
+00:26:50
+<transcript>: Welcome to Chat Retro as well.
+
+00:26:55
+<transcript>: Taylor using a 65%. I think you want a TKL minimum.
+
+00:26:55
+<transcript>: so
+
+00:26:58
+<transcript>: So burnt. Titanium. Thank you, Frag. That sounds right.
+
+00:27:08
+<transcript>: Yeah, I've got I've got a couple of the mode sixty five S, and I really I like having the function row. So that's basically what this is. It's a 65 with a function row.
+
+00:27:08
+<transcript>: which i like
+
+00:27:10
+<transcript>: Which I like.
+
+00:27:12
+<transcript>: So far.
+
+00:27:16
+jaystation3x: Need to laser etch adam.dev in that accent strip
+
+00:27:23
+<transcript>: Okay. Like there's not a key on that right side of the 80 that I ever use, and it's like the arrows are even further away. Not that I should be using the arrows.
+
+00:27:23
+<transcript>: i mean come on
+
+00:27:24
+<transcript>: I mean, Come on.
+
+00:27:24
+<transcript>: yo van
+
+00:27:25
+<transcript>: Yo van.
+
+00:27:25
+<transcript>: but
+
+00:27:27
+<transcript>: But.
+
+00:27:32
+<transcript>: Need a laser, etch. Adam Dev in that accent strip. That sounds amazing.
+
+00:27:35
+<transcript>: I'm all for It. J. Welcome, Jay.
+
+00:27:35
+<transcript>: j
+
+00:27:37
+<transcript>: Jay is here.
+
+00:27:44
+<transcript>: Jay, you do video editing? You want to be my YouTube editor.
+
+00:27:50
+<transcript>: I'm half joking. I do want to learn to edit before I.
+
+00:27:50
+<transcript>: before i
+
+00:27:52
+<transcript>: Before I get to.
+
+00:27:57
+<transcript>: Big and outsourcing it. I think eventually I will definitely be outsourcing it.
+
+00:27:59
+<transcript>: Okay, so the.
+
+00:27:59
+<transcript>: state
+
+00:27:59
+fragaverage: every stream... "jay, do you wanna be my....." LUL
+
+00:28:01
+<transcript>: State.
+
+00:28:02
+jaystation3x: I'm half saying yes.
+
+00:28:03
+<transcript>: It is a.
+
+00:28:09
+<transcript>: State and Sinned or something that I just saw this, right.
+
+00:28:12
+alexkates: oh damn you in here giving out jobs LUL
+
+00:28:14
+<transcript>: Thank you for the Follow Jacksa.
+
+00:28:17
+<transcript>: Oh, it's been a week since I gotta follow.
+
+00:28:17
+<transcript>: well maybe not
+
+00:28:22
+<transcript>: Well, maybe not. I don't know. People might have followed when I wasn't streaming, but feels good.
+
+00:28:22
+<transcript>: i miss you all
+
+00:28:23
+<transcript>: I miss you all.
+
+00:28:26
+<transcript>: Current.
+
+00:28:26
+<transcript>: and send okay
+
+00:28:27
+<transcript>: And send. Okay.
+
+00:28:33
+<transcript>: I just see Alex. Kate.
+
+00:28:35
+<transcript>: I did.
+
+00:28:37
+<transcript>: Here doing half jobs.
+
+00:28:37
+<transcript>: you're
+
+00:28:40
+<transcript>: You're half saying yesterday. Okay.
+
+00:28:47
+<transcript>: It's so true J can't join the stream without me trying to get him to do something for me.
+
+00:28:49
+<transcript>: Okay.
+
+00:28:49
+<transcript>: current
+
+00:28:53
+jaystation3x: Would not be the first time he gave me a job. The last one lasted 7 years.
+
+00:28:56
+<transcript>: Current and sinned. I'm now I can start using current. It should be shaped like my state. Right.
+
+00:28:59
+<transcript>: The value and a context.
+
+00:29:02
+<transcript>: Oh, yeah? How do I set the context.
+
+00:29:13
+alexkates: noice
+
+00:29:14
+<transcript>: Our recommended approach for managing global state the next day and react to react context. I just don't like using context and react.
+
+00:29:17
+<transcript>: Can I just.
+
+00:29:21
+<transcript>: Can I just use.
+
+00:29:26
+fragaverage: Twitch is the new hiring platform then, confirmed
+
+00:29:30
+<transcript>: I have to use that I don't have any global state. There's one page on this thing.
+
+00:29:34
+<transcript>: Oh, it's a single page application, you might say.
+
+00:29:34
+<transcript>: dispatch
+
+00:29:36
+<transcript>: Dispatching events.
+
+00:29:45
+<transcript>: That was the first time they gave me a job.
+
+00:29:49
+<transcript>: That's true? It's true J.
+
+00:29:51
+<transcript>: Ooo.
+
+00:30:03
+<transcript>: Does anyone know an X state? How I just update the context? I know I can do it within the state. Machine.
+
+00:30:03
+<transcript>: maybe
+
+00:30:06
+<transcript>: Maybe I should only be doing it within the state machine.
+
+00:30:06
+<transcript>: maybe
+
+00:30:07
+<transcript>: Maybe.
+
+00:30:14
+<transcript>: Let's see local, state.
+
+00:30:21
+<transcript>: So if current matches.
+
+00:30:21
+<transcript>: so that's how
+
+00:30:24
+<transcript>: So that's how you check the state.
+
+00:30:26
+<transcript>: Like which state it's in.
+
+00:30:32
+<transcript>: I want to know about X States content.
+
+00:30:32
+<transcript>: i don't care about
+
+00:30:34
+<transcript>: I don't care about react content.
+
+00:30:34
+cowfacedude99: @FragAverage twitch is a new networking platform LUL
+
+00:30:38
+<transcript>: Since state is known as context losing example.
+
+00:30:40
+<transcript>: Okay.
+
+00:30:49
+<transcript>: I guess maybe the answer is I should be using. Okay, so I can get values from the context here.
+
+00:30:59
+<transcript>: I want to know how I can set context from outside the machine. And maybe the answer is just do it inside the machine. I don't know. We'll see.
+
+00:30:59
+<transcript>: with
+
+00:31:00
+<transcript>: With context.
+
+00:31:05
+<transcript>: Assign here we go, here we go.
+
+00:31:09
+<transcript>: The assignment action is used to update the machines context.
+
+00:31:15
+<transcript>: Can you use it just anywhere? Or do you have to use it in actions.
+
+00:31:17
+<transcript>: Excuse me.
+
+00:31:26
+<transcript>: No side effects and assigners makes sense.
+
+00:31:33
+<transcript>: I should maybe do this.
+
+00:31:35
+<transcript>: In action.
+
+00:31:35
+<transcript>: right
+
+00:31:36
+<transcript>: Right.
+
+00:31:48
+<transcript>: Maybe I should do this in action.
+
+00:31:57
+<transcript>: The question is like after an invoke it's because that's what I'm gonna have things to update the context with.
+
+00:31:57
+<transcript>: never mu
+
+00:32:07
+<transcript>: Never mutate the machines context externally. Okay, everything happens for a reason. Every context change should happen explicitly due to an event. Okay, what about explicitly due to an invoke.
+
+00:32:16
+<transcript>: Anybody know anybody know.
+
+00:32:27
+<transcript>: Okay, so they're doing it on events. Oh, I guess I can emit an event.
+
+00:32:27
+<transcript>: yeah yeah
+
+00:32:31
+<transcript>: Yeah. Yeah. So after we do this.
+
+00:32:35
+<transcript>: The service returns a promise.
+
+00:32:41
+<transcript>: This is when I have a response and what I want to do.
+
+00:32:45
+<transcript>: What I want to do. Thank you for the follow hazard FPS.
+
+00:32:50
+<transcript>: I want to put that response on the content.
+
+00:32:53
+<transcript>: Or parts of it on the context.
+
+00:33:09
+<transcript>: So we're gonna have to define some more stuff here.
+
+00:33:12
+<transcript>: Like on guess.
+
+00:33:12
+<transcript>: we update
+
+00:33:15
+<transcript>: We update the.
+
+00:33:19
+<transcript>: So here on guests. We're gonna have actions.
+
+00:33:24
+<transcript>: Assign.
+
+00:33:29
+<transcript>: It's gonna be choice.
+
+00:33:39
+<transcript>: Oh, I remember where we were now.
+
+00:33:42
+<transcript>: I remember what we were doing.
+
+00:33:46
+<transcript>: We were trying to figure out how to really leverage TypeScript.
+
+00:33:46
+<transcript>: in x
+
+00:33:51
+<transcript>: In X state because it was unclear. I think I have to do the schema stuff.
+
+00:33:53
+<transcript>: Right.
+
+00:33:58
+<transcript>: Turn. Event choice is what it's gonna be, basically.
+
+00:34:02
+<transcript>: But that's an any and I want it to not be in any.
+
+00:34:05
+<transcript>: Code actions available.
+
+00:34:07
+<transcript>: That's not good.
+
+00:34:10
+<transcript>: Is it an X state reactor? X state.
+
+00:34:13
+<transcript>: I need the sign.
+
+00:34:20
+<transcript>: From X state.
+
+00:34:23
+<transcript>: Sign.
+
+00:34:28
+<transcript>: Okay. So we're not using context.
+
+00:34:36
+<transcript>: And event doesn't have a choice, right? Oh, I guess it does. Oh, wait.
+
+00:34:40
+<transcript>: What? What is this.
+
+00:34:40
+<transcript>: how does it
+
+00:34:42
+<transcript>: How does it know.
+
+00:34:42
+<transcript>: if i called
+
+00:34:45
+<transcript>: If I called that choice to.
+
+00:34:45
+<transcript>: no
+
+00:34:48
+<transcript>: No, it knows that it has a choice. Where does.
+
+00:34:53
+<transcript>: I define that.
+
+00:35:06
+<transcript>: Context and game event. Yeah. Yeah, yes. So tight. Guess as a tuition ring. Look at this. Look at this.
+
+00:35:06
+<transcript>: we're way ahead of
+
+00:35:08
+<transcript>: We're way ahead of ourselves.
+
+00:35:08
+<transcript>: we knew what
+
+00:35:10
+<transcript>: We knew what we were doing.
+
+00:35:14
+<transcript>: Today. Adam is just remembering what we were doing.
+
+00:35:25
+<transcript>: So the start game has a round and a game which need to go on the okay.
+
+00:35:27
+<transcript>: Our game.
+
+00:35:27
+<transcript>: action
+
+00:35:28
+<transcript>: Action.
+
+00:35:31
+<transcript>: Be a sign.
+
+00:35:37
+<transcript>: Thank you so much for the powerful stacking. Are my notifications sounds getting cut off or something.
+
+00:35:37
+<transcript>: it's like i
+
+00:35:40
+<transcript>: It's like I hear the beginning of it. And it stops.
+
+00:35:40
+<transcript>: i don't know
+
+00:35:44
+<transcript>: I don't know. I like that name. Full stacking.
+
+00:35:44
+<transcript>: i like
+
+00:35:46
+<transcript>: I like full stack.
+
+00:35:46
+<transcript>: full stack
+
+00:35:47
+<transcript>: Full stack things.
+
+00:35:51
+<transcript>: So a sign is going to be.
+
+00:35:53
+<transcript>: Gain.
+
+00:35:57
+<transcript>: Is there a simpler syntax for just like.
+
+00:35:58
+fullstacking: Thanks!
+
+00:36:01
+<transcript>: Something on the event. Let's see.
+
+00:36:09
+<transcript>: Static values.
+
+00:36:13
+<transcript>: Okay. Here. We can do? Yeah, Yeah.
+
+00:36:13
+<transcript>: that's what i want
+
+00:36:14
+<transcript>: That's what I want.
+
+00:36:16
+<transcript>: Just do this.
+
+00:36:34
+<transcript>: Okay. It's gonna return.
+
+00:36:34
+<transcript>: let's see
+
+00:36:36
+<transcript>: Let's see.
+
+00:36:39
+<transcript>: Game and round.
+
+00:36:39
+thdxr: goooood morning
+
+00:36:43
+<transcript>: It's gonna be.
+
+00:36:49
+<transcript>: Event dot game.
+
+00:36:51
+<transcript>: Right.
+
+00:36:56
+<transcript>: This is going to be.
+
+00:36:56
+<transcript>: event
+
+00:36:57
+<transcript>: Event round.
+
+00:37:03
+<transcript>: Okay. Okay.
+
+00:37:12
+<transcript>: So Start game assigns those two things to the context from the event. So when we emit start game, we have to actually provide a game around.
+
+00:37:19
+<transcript>: So not sure we couldn't do that in like an invoke kind of thing. Welcome to Chat. Full stacking.
+
+00:37:19
+<transcript>: good morning
+
+00:37:21
+<transcript>: Good morning, DAX. Good morning.
+
+00:37:39
+<transcript>: Back when I recorded a bunch of new podcasts episodes for AWS FM and Daxis is my reminder that I need to edit those so we can get one out and I don't really need to edit them. I just need to put the music. I might just send the music to Chris and say, Chris, do something different with this music than what we were doing before.
+
+00:37:39
+<transcript>: maybe
+
+00:37:44
+<transcript>: Maybe that's what I'll do. Because if it's in my court, it just takes forever.
+
+00:37:50
+<transcript>: Okay active. Okay so that's start game.
+
+00:37:57
+<transcript>: I guess this one also would have to have that game over on start game.
+
+00:38:02
+<transcript>: Throw at a share actions.
+
+00:38:10
+<transcript>: If there's a way to share.
+
+00:38:13
+<transcript>: Share these actions.
+
+00:38:13
+alex___162: I have such a mental block with different fonts, for some reason I find your code harder to process haha
+
+00:38:17
+<transcript>: That's just a straight copy paste.
+
+00:38:24
+<transcript>: I guess. Why couldn't. Yeah, I couldn't this just be like an object.
+
+00:38:28
+<transcript>: What would I want here.
+
+00:38:30
+<transcript>: Like that.
+
+00:38:30
+<transcript>: how could that
+
+00:38:33
+<transcript>: How could that because that just be an object.
+
+00:38:33
+<transcript>: that is like
+
+00:38:37
+<transcript>: That is like living up higher, and then I don't know.
+
+00:38:41
+<transcript>: Okay. Expires. Target game over.
+
+00:38:51
+<transcript>: State guessing on guests. We have an action. We set the choice. Okay. I'm feeling good about this now. The only one I don't know is on this invoke.
+
+00:38:51
+<transcript>: un
+
+00:38:52
+<transcript>: Undone.
+
+00:38:52
+<transcript>: oh can i
+
+00:38:56
+<transcript>: Oh, can I just set actions here? Oh, I bet I can.
+
+00:38:58
+<transcript>: And I can.
+
+00:39:04
+<transcript>: Sign.
+
+00:39:14
+<transcript>: Is it a result? Yeah. It's from Games unanswered. Yes, it is.
+
+00:39:17
+<transcript>: Yes, it is.
+
+00:39:20
+<transcript>: So this is going to be results.
+
+00:39:24
+<transcript>: Context, event.
+
+00:39:32
+jenswoeste: hey adam! hows it going?
+
+00:39:33
+<transcript>: This isn't an event. This was an invocation.
+
+00:39:38
+<transcript>: So let's go to the invoke invoking services.
+
+00:39:42
+<transcript>: What I need to know is can I assign.
+
+00:39:47
+<transcript>: Yes. So here's how they're doing it. Context, event, data.
+
+00:39:47
+<transcript>: but what
+
+00:39:49
+<transcript>: But what is the event.
+
+00:39:54
+<transcript>: Hey, it's IANZ. It's going Well, how are you? Yen's? Are you done.
+
+00:39:59
+<transcript>: Such a mental block with different fonts for some reason to find your code harder to process sorry guys.
+
+00:39:59
+<transcript>: yeah
+
+00:40:03
+<transcript>: Yeah, operator. Mono. It's kind of a love hate sort of thing.
+
+00:40:03
+<transcript>: think i'm
+
+00:40:06
+<transcript>: Think I'm very used to it now.
+
+00:40:08
+jenswoeste: struggling a bit with aws otherwise fine ;)
+
+00:40:11
+<transcript>: So event data so let's see fetch user.
+
+00:40:11
+<transcript>: return
+
+00:40:15
+<transcript>: Returns? What? Oh, it's a promise.
+
+00:40:19
+<transcript>: No. I mean it's. It's a fetch response.
+
+00:40:19
+<transcript>: response
+
+00:40:21
+bowdy: operator mono>>>
+
+00:40:24
+<transcript>: Response. Json. Okay. So the data is like top level.
+
+00:40:24
+<transcript>: in that
+
+00:40:26
+<transcript>: In that response, no.
+
+00:40:31
+<transcript>: So where is this event? Dot data coming from.
+
+00:40:31
+<transcript>: that's why
+
+00:40:33
+<transcript>: That's why I need to know.
+
+00:40:41
+<transcript>: Or what's? The event? Dot data. No, it wasn't. No, it wasn't. On the event. It led into Loading. Right.
+
+00:40:41
+<transcript>: the fetch event
+
+00:40:43
+<transcript>: The Fetch event. Or maybe it was.
+
+00:40:50
+<transcript>: Now, surely it's about the data that came back, right? I just don't know. Where is that? Yeah. Where's the data coming from.
+
+00:40:54
+<transcript>: So assign result.
+
+00:40:56
+<transcript>: And I guess I can just.
+
+00:41:04
+<transcript>: I can do event dot.
+
+00:41:04
+<transcript>: data okay
+
+00:41:05
+<transcript>: Data. Okay.
+
+00:41:08
+<transcript>: What is that, though? It's an.
+
+00:41:12
+<transcript>: Done invoke event okay, it has data.
+
+00:41:17
+<transcript>: That'll work. I mean, it's not strongly tied right now, but.
+
+00:41:18
+<transcript>: Right.
+
+00:41:18
+<transcript>: that works
+
+00:41:19
+<transcript>: That works.
+
+00:41:22
+<transcript>: Result.
+
+00:41:26
+<transcript>: Where can I strongly type that I wonder.
+
+00:41:32
+<transcript>: Where would that be? That would be in the schema. I'd have to define a scheme. I bet.
+
+00:41:32
+<transcript>: strong
+
+00:41:37
+<transcript>: Strongly a bit with AWS. Otherwise fine. Ooh. What are you struggling with? Yen's. That sounds fun to talk about.
+
+00:41:42
+<transcript>: I don't know the answers. There's people here, probably do like Jackson, J.
+
+00:41:45
+<transcript>: jam
+
+00:41:45
+<transcript>: jam or maybe
+
+00:41:51
+<transcript>: Jam. Or maybe it's not a thing that has these answers. Maybe it's just one of those real struggles.
+
+00:41:51
+<transcript>: struggling with
+
+00:41:52
+<transcript>: Struggling with real stuff.
+
+00:41:57
+<transcript>: Bouti likes Operator mono.
+
+00:42:02
+<transcript>: All right.
+
+00:42:11
+<transcript>: So where are the gaps here? We have a TypeScript gap. It's not even yelling at me though, so I'm definitely not gonna worry about it right now. And we'll mess with the schema stuff later.
+
+00:42:11
+<transcript>: did i
+
+00:42:13
+<transcript>: Did I ever.
+
+00:42:13
+<transcript>: no
+
+00:42:15
+<transcript>: No.
+
+00:42:21
+jenswoeste: got an EC2 instance responsible for running a nightly batch on my backend. its a crontab job that has 12 hours to complete (onlyt takes 20 minutes)
+
+00:42:22
+<transcript>: I didn't know if I started to define a schema. Okay, so now let's see when we.
+
+00:42:31
+<transcript>: There's resolve, handle answers. Gonna be the last thing I do. Let's do this one now. So we have a round, and we have a game.
+
+00:42:33
+thdxr: What is ec2
+
+00:42:35
+<transcript>: This is game. Right.
+
+00:42:38
+<transcript>: New game and that's around.
+
+00:42:44
+jenswoeste: lately it has stopped working - looses connectivity and I have to reboot the instance
+
+00:42:47
+<transcript>: Yeah. So let's do let's admit, let's send. I don't know how to send. Let's send an event.
+
+00:42:55
+<transcript>: Sending events.
+
+00:42:57
+<transcript>: Transition.
+
+00:43:03
+jenswoeste: the only "info" I got is "Compute Optimizer found that this instance's EBS throughput is under-provisioned"
+
+00:43:04
+<transcript>: Okay math service that send the event.
+
+00:43:04
+<transcript>: i guess
+
+00:43:07
+<transcript>: I guess I could just look here.
+
+00:43:10
+<transcript>: Event is a game event.
+
+00:43:12
+<transcript>: Okay.
+
+00:43:15
+<transcript>: What is this gonna look like? I don't know.
+
+00:43:15
+<transcript>: the shape
+
+00:43:18
+<transcript>: The shape of this thing is what is a game event.
+
+00:43:18
+<transcript>: where did they
+
+00:43:20
+<transcript>: Where did they define an event up here.
+
+00:43:20
+<transcript>: they didn't
+
+00:43:24
+<transcript>: They didn't. Oh, it's literally sending the mouse to that. There.
+
+00:43:27
+<transcript>: Okay.
+
+00:43:34
+<transcript>: Why is this hard for me to think about? What is the shape of it? It's probably got to have, like the name of the event, right.
+
+00:43:38
+<transcript>: Read the event. Okay.
+
+00:43:47
+<transcript>: This is the most basic of basic things you can do with the state machine is an emit. Emit. An event.
+
+00:43:49
+<transcript>: And that's where we're at right now.
+
+00:43:52
+bausmeier: The "name" of the event goes under "type".
+
+00:43:56
+<transcript>: Maybe I'll go to the back to the react version.
+
+00:43:56
+<transcript>: and let's
+
+00:43:58
+<transcript>: And let's see.
+
+00:43:58
+<transcript>: send
+
+00:43:59
+<transcript>: Send.
+
+00:43:59
+<transcript>: int
+
+00:44:04
+bausmeier: It should match the TS types you've defined for the event.
+
+00:44:07
+<transcript>: Int. Toggle okay, so they just sent a string, but minus I have a payload. So I bet it's like, I bet it's like.
+
+00:44:12
+<transcript>: It's like the name of the event. Yeah, Yeah.
+
+00:44:12
+<transcript>: start
+
+00:44:17
+<transcript>: Start game and then I bet it's like a payload.
+
+00:44:17
+<transcript>: that has
+
+00:44:20
+<transcript>: That has game and round.
+
+00:44:20
+<transcript>: that is
+
+00:44:21
+<transcript>: That is.
+
+00:44:24
+<transcript>: Respond Oh.
+
+00:44:31
+<transcript>: That's right. Did I do it? Do I need to await it or anything? I don't know.
+
+00:44:35
+<transcript>: I don't know, do I.
+
+00:44:38
+bausmeier: send({type: "START_GAME", round, game})
+
+00:44:41
+<transcript>: Promise.
+
+00:44:41
+<transcript>: okay
+
+00:44:43
+<transcript>: Okay.
+
+00:44:50
+<transcript>: We just send the start game event with a game and around on it and that should kick off the game. Now the context should have the game on it.
+
+00:44:50
+<transcript>: let
+
+00:44:52
+<transcript>: Let's go.
+
+00:44:57
+<transcript>: Deconstruct current. Maybe.
+
+00:44:59
+<transcript>: As it can be null, though.
+
+00:45:09
+<transcript>: Current value.
+
+00:45:13
+<transcript>: What is value.
+
+00:45:20
+<transcript>: State value. So it's going to be a string, right.
+
+00:45:27
+<transcript>: In context is going to have.
+
+00:45:30
+<transcript>: Named around the choice result. Okay.
+
+00:45:32
+<transcript>: Okay.
+
+00:45:39
+<transcript>: So we can do things like current dot matches.
+
+00:45:44
+<transcript>: And it can be like any of the States, right.
+
+00:45:44
+<transcript>: so if i'd be
+
+00:45:45
+<transcript>: So if I'd be TypeScript.
+
+00:45:50
+<transcript>: The States are like idle.
+
+00:45:56
+<transcript>: Things or idle. I don't know why in that TypeScript.
+
+00:45:58
+<transcript>: Matt.
+
+00:46:06
+<transcript>: Matt, I know Matt's not there anymore, right? But Matt, didn't you do all the typescripting? Then you TypeScript this thing.
+
+00:46:13
+<transcript>: Oh, look at this. People helping me. Oh.
+
+00:46:25
+<transcript>: What is easy to I love it. Got an easy to instance responsible for running a nightly batch on my back end. The Cron tab job that has 12 hours to complete and only takes 20 minutes.
+
+00:46:32
+<transcript>: Lately as soft working loses connectivity I have to rebuit the instance Oof.
+
+00:46:32
+<transcript>: the only inf
+
+00:46:48
+<transcript>: The only info info I got is compute Optimizer found that the instances EBS throughput is under provisioned. This sounds awful yen's it's all the reasons I love event driven architectures is Zach's would call them or serverless.
+
+00:46:57
+<transcript>: Like having to reboot an instance because a Cron jab Cron job didn't work. Someone on Twitter I think it was.
+
+00:46:57
+<transcript>: i think it was
+
+00:47:17
+<transcript>: I think it was Dan Rockstar was talking about, like, needing to do a Cron job, and his crimes were just failing. And he couldn't figure out why. And he had to, like, get into the machine and figure out what was going on. And that just stressed me out so bad to think about, like, a machine that I'm responsible for running a Cron job. Like, of course, that's gonna fail, like a long lived machine, just like, hundred percent.
+
+00:47:17
+<transcript>: chance
+
+00:47:21
+<transcript>: Chance that's gonna fail at some point, and I'm gonna totally forget about that machine and what it does.
+
+00:47:21
+<transcript>: so
+
+00:47:27
+<transcript>: So don't do Cron jobs in EC Two. That's my advice to you. And if that hasn't already been said.
+
+00:47:27
+<transcript>: that's what i
+
+00:47:29
+<transcript>: That's what I've bridge is for.
+
+00:47:29
+<transcript>: i mean maybe
+
+00:47:35
+thdxr: I love security patching my ec2 instances
+
+00:47:39
+<transcript>: I mean, maybe I don't understand what you're building at all. You could have very good reasons. You have to use EC Two because you have some special thing that does some special thing. But Oof stresses me out.
+
+00:47:46
+<transcript>: The name of the event goes under type. It should match the TS types you've defined for the event.
+
+00:47:46
+<transcript>: yes
+
+00:47:47
+<transcript>: Yes.
+
+00:47:47
+<transcript>: i love
+
+00:47:49
+<transcript>: I love security patching. My.
+
+00:47:51
+<transcript>: Said no one ever.
+
+00:47:57
+tnkhanh: just restart the cron job Kappa
+
+00:48:00
+<transcript>: So you're saying the name of the event goes under type.
+
+00:48:04
+<transcript>: Just restart the Cron job.
+
+00:48:08
+<transcript>: Okay.
+
+00:48:09
+jenswoeste: its a programme that imports data from an external source, does some computations and stores the result in a mysql
+
+00:48:11
+<transcript>: So I do have this game event.
+
+00:48:11
+<transcript>: where's
+
+00:48:16
+<transcript>: Where's my state? Where's my list of States? I guess I don't have a list of States.
+
+00:48:20
+<transcript>: It's just kind of built into the machine.
+
+00:48:25
+<transcript>: That's probably why I need to define a schema, but we'll get there.
+
+00:48:33
+<transcript>: Okay. I'm just gonna delete that. Let's start actually trying to wrap this stuff up. Let's make it actually work.
+
+00:48:38
+<transcript>: So if not round what I'm really trying to do there.
+
+00:48:42
+<transcript>: What I'm really trying to do is say, if not.
+
+00:48:44
+<transcript>: Current context.
+
+00:48:47
+<transcript>: Contacts that round.
+
+00:48:51
+<transcript>: Let's run with that.
+
+00:48:56
+<transcript>: Current is defined. Right? Yeah. Right there.
+
+00:49:03
+<transcript>: Why is it saying.
+
+00:49:15
+<transcript>: Oh? Because I.
+
+00:49:18
+thdxr: @jenswoeste probably too disruptive for you to do but checkout SST Job - we made it easy to create long running jobs that can be triggered by cron all in aws
+
+00:49:21
+<transcript>: Just call this.
+
+00:49:24
+<transcript>: Let's call it.
+
+00:49:27
+thdxr: no servers
+
+00:49:28
+<transcript>: Current two.
+
+00:49:33
+<transcript>: Bear with me. I.
+
+00:49:37
+<transcript>: F not current context round.
+
+00:49:39
+<transcript>: Then.
+
+00:49:43
+<transcript>: Current Context round.
+
+00:49:43
+<transcript>: okay
+
+00:49:44
+<transcript>: Okay.
+
+00:49:50
+<transcript>: Yeah. I'm gonna get really tired of typing current context. So let's go up here and say.
+
+00:49:53
+<transcript>: Hot, context.
+
+00:49:56
+<transcript>: And value.
+
+00:49:58
+<transcript>: Equals current.
+
+00:50:06
+<transcript>: Okay. So now we can just say at least we can just say.
+
+00:50:14
+<transcript>: Context round.
+
+00:50:15
+<transcript>: And then.
+
+00:50:22
+<transcript>: Context our round. Okay, I.
+
+00:50:25
+<transcript>: Round.
+
+00:50:34
+<transcript>: What's wrong with expires? Oh, because the round doesn't have expires anymore. That's right. Oh, yeah, yeah. I started to explain this a long time ago.
+
+00:50:39
+<transcript>: So the game mode we're going with is.
+
+00:50:57
+<transcript>: You start with 30 seconds. Every time you get an answer right you get five more seconds every time you get an answer wrong, you lose 5 seconds so it's very fastpaced and you're expiring. Your expiration is changing on every answer, but theoretically you could go infinitely if you just keep answering them right within 5 seconds.
+
+00:50:59
+<transcript>: Just go on forever.
+
+00:51:02
+<transcript>: So very high school, Cap. I think they call it.
+
+00:51:07
+<transcript>: Okay.
+
+00:51:07
+<transcript>: but
+
+00:51:14
+<transcript>: But this is no longer. Okay, so now the expires is about the current game. Expire. Right.
+
+00:51:18
+<transcript>: And the game start.
+
+00:51:22
+<transcript>: Wait.
+
+00:51:22
+<transcript>: why do we
+
+00:51:25
+<transcript>: Why do we need to know the start.
+
+00:51:25
+<transcript>: because you know how many
+
+00:51:27
+<transcript>: Because you know how many time is lapsed.
+
+00:51:27
+<transcript>: in the
+
+00:51:30
+<transcript>: In the whole game. Okay. Yeah.
+
+00:51:37
+<transcript>: So current contact game start get time we have now.
+
+00:51:37
+<transcript>: let's
+
+00:51:39
+<transcript>: Let's just name that.
+
+00:51:41
+<transcript>: Now.
+
+00:51:45
+<transcript>: Okay.
+
+00:51:49
+<transcript>: Expires is game expires expression. Okay.
+
+00:51:49
+<transcript>: if
+
+00:51:51
+<transcript>: If state.
+
+00:51:56
+<transcript>: This is going to be context. No, it's gonna be value.
+
+00:52:00
+<transcript>: Wait. What is active.
+
+00:52:04
+<transcript>: That was supposed to be the.
+
+00:52:06
+<transcript>: If value.
+
+00:52:08
+<transcript>: Matches.
+
+00:52:08
+<transcript>: no
+
+00:52:11
+<transcript>: No. How do I do this again.
+
+00:52:16
+<transcript>: Is value a string.
+
+00:52:16
+<transcript>: it's a state
+
+00:52:18
+<transcript>: It's a state value, so Yeah.
+
+00:52:18
+<transcript>: if value
+
+00:52:20
+<transcript>: If value equals.
+
+00:52:20
+<transcript>: active
+
+00:52:22
+<transcript>: Active.
+
+00:52:28
+<transcript>: For guessing I think I don't know wish I had TypeScript.
+
+00:52:35
+<transcript>: Where are those defined? Here we go. Guessing.
+
+00:52:35
+<transcript>: so if
+
+00:52:37
+<transcript>: So if we're guessing.
+
+00:52:39
+<transcript>: Right.
+
+00:52:41
+<transcript>: No, it's.
+
+00:52:41
+<transcript>: it's
+
+00:52:43
+<transcript>: It's this active state.
+
+00:52:43
+<transcript>: so how does
+
+00:52:45
+<transcript>: So how does it work with nested.
+
+00:52:49
+<transcript>: How does it work with nested States? We have this outer set of States.
+
+00:52:51
+<transcript>: You know, I'm saying.
+
+00:53:00
+<transcript>: How does it work? Like we have two levels of these things.
+
+00:53:03
+jenswoeste: @thdxr so sst.dev?
+
+00:53:03
+<transcript>: Oh, Geez.
+
+00:53:08
+<transcript>: Context again. Expires.
+
+00:53:12
+<transcript>: That's a weird dependency array. Okay.
+
+00:53:16
+thdxr: yeah
+
+00:53:18
+<transcript>: I'm missing some AWS conversations that I don't want to miss it.
+
+00:53:28
+<transcript>: It's a program that imports data from an external source, does some computations, and stores a result in the MySQL. Okay probably to describe.
+
+00:53:28
+<transcript>: you to do
+
+00:53:35
+<transcript>: You to do but check out SSC job we may it easy to create longrunning jobs that can be triggered by Cron all in AWS, no servers.
+
+00:53:39
+<transcript>: Yeah, that's the answer right there.
+
+00:53:39
+<transcript>: could be
+
+00:53:41
+<transcript>: Could be very disruptive though maybe not popular.
+
+00:53:41
+<transcript>: but
+
+00:53:43
+cowfacedude99: something off the topic but I always find it funny that in all the urban planning videos i watch on yt for fun, they almost always mention that america is too has next to 0 public transit.
+
+00:53:45
+<transcript>: But I think all the things you described could be done.
+
+00:53:45
+<transcript>: in a land
+
+00:53:54
+<transcript>: In a land or something, right? Unless I guess you said it takes. How long does it take? Maybe not a Lambda function, maybe something else. Oh, it takes 20 minutes. So not a Lambda function.
+
+00:53:56
+<transcript>: It could be something else. I don't know.
+
+00:53:56
+<transcript>: fargate
+
+00:54:01
+thdxr: SST Job can do 8 hours but feels like a lambda
+
+00:54:01
+<transcript>: Fargate, what would you use? Decks. A 20 minutes plus.
+
+00:54:01
+<transcript>: twenty minute
+
+00:54:03
+<transcript>: 20 minutes plus.
+
+00:54:06
+<transcript>: Cron.
+
+00:54:06
+<transcript>: oh sst
+
+00:54:08
+<transcript>: Oh SST job could do 8 hours.
+
+00:54:11
+<transcript>: What? What? Is it? Dax.
+
+00:54:14
+thdxr: it's actually running on code build lol
+
+00:54:15
+<transcript>: I should know what an eight hour limit implies. But I don't what it is.
+
+00:54:19
+<transcript>: Running on code build nice.
+
+00:54:21
+<transcript>: That's awesome.
+
+00:54:23
+thdxr: it's the only serverless long running option
+
+00:54:30
+<transcript>: Okay. So we have our timer working. Theoretically.
+
+00:54:30
+<transcript>: all of this is saved
+
+00:54:32
+<transcript>: All of this is saved right now, right.
+
+00:54:36
+<transcript>: We've sent our start game.
+
+00:54:41
+<transcript>: Now we need to I guess we need to do handle answer when this handle answer called.
+
+00:54:54
+<transcript>: If Elapse is greater than equal to 100. Oh, that was us trying to handle the expired state. I don't need to do that anymore, because that's what right.
+
+00:54:56
+<transcript>: I don't need to do that anymore.
+
+00:55:02
+thdxr: @cowfacedude99 New York entered the chat
+
+00:55:04
+<transcript>: Where else? It's handle answered. Use handle. Answer. Used.
+
+00:55:09
+thdxr: I didn't have a car for 10 years!
+
+00:55:11
+<transcript>: I don't think that that needs to be in the dependencies.
+
+00:55:11
+<transcript>: so when
+
+00:55:14
+<transcript>: So when you click a button, we do hands that you.
+
+00:55:19
+<transcript>: Accept. Okay. Yeah. And it hands up the choice, right? Yeah.
+
+00:55:21
+<transcript>: Why is it a dependency of this.
+
+00:55:24
+<transcript>: It doesn't make any sense.
+
+00:55:26
+<transcript>: Doesn't make any sense.
+
+00:55:33
+<transcript>: Wow. Now I question all of them. Like, what is this value? Be active. I don't know. Okay.
+
+00:55:37
+<transcript>: New round.
+
+00:55:44
+<transcript>: Okay, so I think it's just handle answer. Now. We need to emit an event here.
+
+00:55:48
+<transcript>: If not round.
+
+00:55:48
+<transcript>: or and i
+
+00:55:57
+<transcript>: Or. And I hate react. Sometimes. Like I feel like everything I hate about this is because of react. I'm gonna move my, my King. It's gonna sound awful.
+
+00:56:00
+<transcript>: Let's see what's the opposite of ASMR.
+
+00:56:02
+<transcript>: Like.
+
+00:56:07
+thdxr: ASSmr
+
+00:56:07
+<transcript>: Reverse ASMR that was worse than ASMR that was.
+
+00:56:09
+<transcript>: Mike, noise.
+
+00:56:13
+<transcript>: It's the only serverless long running option.
+
+00:56:24
+<transcript>: New York entered the chat. Oh, oh, cafes. Something off the topic, but I always find it funny that in all the urban planning videos I watch on YouTube for fun, they almost always mention that America is.
+
+00:56:24
+<transcript>: two
+
+00:56:26
+<transcript>: Two has next to zero public transit.
+
+00:56:42
+<transcript>: Some cities are way better than others. And then there's, like, huge swaths of the country that don't really have it like I live in an area where there is no public transit. But like everything's so spread out. So in the middle of the country, it's much more rural. Tart may say that word, rural.
+
+00:56:47
+thdxr: america is pretty empty surprisingly
+
+00:56:54
+<transcript>: But then you go into city like New York or San Francisco. And there's great great public transport. But then that's what's funny is like San Francisco.
+
+00:56:54
+<transcript>: is
+
+00:57:08
+<transcript>: Is Northern California, Great public Transit, la. Southern California, Terry Public transit. Or maybe it's not terrible. Just no one uses it because everything's so spread out. So it's like depends on the city, if it's very spread out.
+
+00:57:08
+<transcript>: the
+
+00:57:14
+<transcript>: The public transit probably isn't used much. That's kind of what I would say. Yeah, it's pretty empty. That's the answer I would say.
+
+00:57:14
+<transcript>: there's just a lot of space
+
+00:57:20
+<transcript>: There's just a lot of space where there's nothing. I live in the Woods. There's not a lot of people here, so we don't have public transit.
+
+00:57:28
+<transcript>: Okay.
+
+00:57:28
+<transcript>: this is gonna be
+
+00:57:29
+<transcript>: This is gonna be.
+
+00:57:32
+<transcript>: On Tech start round.
+
+00:57:35
+<transcript>: Answer. What was this doing before.
+
+00:57:37
+<transcript>: He was just setting the choice.
+
+00:57:41
+jenswoeste: in all honesty - do you drive a pickup truck?
+
+00:57:44
+<transcript>: Right, but now what we're gonna do? The answer mutation now actually happens.
+
+00:57:52
+<transcript>: In the thing, right? Oh, no, it doesn't. Yeah, it does. It has. It happens in the Answer service.
+
+00:57:52
+<transcript>: now
+
+00:57:56
+<transcript>: Now there's kind of some weird, like arbitraryness as to where I'm doing.
+
+00:57:56
+<transcript>: something
+
+00:57:58
+<transcript>: Something.
+
+00:58:08
+<transcript>: To the machine. I'm doing something's. Not what was handler's result. Why.
+
+00:58:12
+<transcript>: I don't think I need to do it anymore, but I don't know what it was.
+
+00:58:19
+<transcript>: I don't need to do the timeout anymore either. All I need to do here is Amit. An event, don't I? Yeah.
+
+00:58:23
+<transcript>: That's all I need to do? I need to say.
+
+00:58:25
+<transcript>: Sin.
+
+00:58:28
+<transcript>: Yes.
+
+00:58:29
+<transcript>: And then.
+
+00:58:29
+<transcript>: choice
+
+00:58:31
+<transcript>: Choice.
+
+00:58:33
+<transcript>: Just like that.
+
+00:58:33
+<transcript>: that feels good
+
+00:58:38
+<transcript>: That feels good. I guess that's the whole point as we try to simplify all this stuff.
+
+00:58:41
+<transcript>: So that's in Lillian.
+
+00:58:41
+<transcript>: okay
+
+00:58:44
+thdxr: my dad came to America, got the the top in wall street and he bought a pickup truck as his dream car
+
+00:58:48
+<transcript>: Okay. Now we have to actually start doing stuff in the UI. So state is not state it's.
+
+00:58:48
+<transcript>: current
+
+00:58:49
+<transcript>: Current.
+
+00:58:53
+<transcript>: Value.
+
+00:58:53
+<transcript>: or dot matches
+
+00:58:54
+<transcript>: Or Dot matches.
+
+00:58:54
+<transcript>: i guess
+
+00:58:57
+<transcript>: I guess I should do it like this idle.
+
+00:59:00
+<transcript>: Then.
+
+00:59:01
+thdxr: And now he has a tricked out jeep Wrangler
+
+00:59:01
+s1hofmann: I've been baffled the first time I visited the US. It's pretty empty in many areas :D
+
+00:59:07
+<transcript>: Okay. So that's that if current matches idle.
+
+00:59:09
+exnihilo80: !keyboard
+
+00:59:10
+fossabot: Adam uses a custom Mode Eighty mechanical keyboard, and has a collection of other Mode keyboards!
+
+00:59:17
+<transcript>: Now this is what the game score. We're gonna work on this, but, yeah, current dot contact, or I can just do context, right.
+
+00:59:29
+<transcript>: Okay.
+
+00:59:31
+sockthedev: Stoked for the commitment to XState.  Saw some people getting excited about https://stately.ai/ on Twitter today
+
+00:59:40
+<transcript>: This is basically just adding context to everything.
+
+00:59:45
+<transcript>: Context that result.
+
+00:59:50
+<transcript>: Did I do it.
+
+00:59:50
+<transcript>: did
+
+00:59:53
+<transcript>: Did I do it? Is it all fixed.
+
+00:59:56
+<transcript>: Is our app working again? Now.
+
+01:00:08
+<transcript>: Context gaming express. Oh, because that's conditional or that's like not always present. I wondered why it was letting me do that. It's because our TypeScript is not great right now.
+
+01:00:11
+<transcript>: So.
+
+01:00:14
+<transcript>: Like.
+
+01:00:14
+<transcript>: this
+
+01:00:22
+<transcript>: This is a game, but that's not true. It could be optional. Or it could not wait. What.
+
+01:00:25
+<transcript>: Expired.
+
+01:00:29
+<transcript>: So Conex is sometimes null, I guess.
+
+01:00:32
+<transcript>: Doesn't say that it is.
+
+01:00:39
+<transcript>: A follow Schlam.
+
+01:00:49
+<transcript>: Oh no X need low next keyboard command is out of date by exactly one stream. I just started using a mode sonnet today.
+
+01:00:57
+<transcript>: Drive a pickup truck. I don't Yin.
+
+01:01:04
+<transcript>: I got the path in Wall Street, and you bought a pickup track. It's this dream card. That's awesome.
+
+01:01:04
+<transcript>: deep
+
+01:01:08
+<transcript>: Deep Wrangler. I've been baffled the first time I visited the US. Pretty empty in many areas. Yeah.
+
+01:01:17
+<transcript>: I'm in one of those areas soaked with a commitment to xDate, saw some people getting excited about stately onto Twitter today. I'm pretty excited.
+
+01:01:17
+<transcript>: i really am
+
+01:01:27
+<transcript>: I really am I'm gonna become pretty noisy and loud about xDate. I like the ideas that it presents. I know this is not new. I know I'm late, but I don't care. I love it.
+
+01:01:36
+thdxr: remember when we tried to get Adam to give up on xstate and look at him now
+
+01:01:36
+<transcript>: So context that game is not supposed to be optional.
+
+01:01:38
+<transcript>: Why.
+
+01:01:38
+<transcript>: so i
+
+01:01:40
+<transcript>: So I need to make it optional.
+
+01:01:46
+<transcript>: I guess there's a state where the context is this nothing else is on it yet.
+
+01:01:48
+<transcript>: Right.
+
+01:01:51
+<transcript>: So this is going to be.
+
+01:01:55
+<transcript>: Like that. And that's not gonna work.
+
+01:02:02
+<transcript>: Let's see. This is the expires. So if.
+
+01:02:05
+<transcript>: There's no expiry.
+
+01:02:09
+<transcript>: Then what do we return here.
+
+01:02:13
+<transcript>: If.
+
+01:02:18
+<transcript>: There's no context, game return.
+
+01:02:20
+<transcript>: Zero.
+
+01:02:23
+<transcript>: I don't know people I don't know.
+
+01:02:28
+<transcript>: We're gonna return something. I just. I don't love it.
+
+01:02:35
+<transcript>: And this what do we do here if we try to answer and there's no round.
+
+01:02:35
+<transcript>: and answer
+
+01:02:36
+<transcript>: And answer.
+
+01:02:38
+<transcript>: So we're just gonna say.
+
+01:02:44
+<transcript>: If context round. I mean if not.
+
+01:02:49
+<transcript>: Not context around right.
+
+01:02:49
+<transcript>: then
+
+01:02:55
+<transcript>: Then return. Promise, fail, or something? What is it promised? That.
+
+01:02:56
+<transcript>: Reject.
+
+01:02:58
+<transcript>: Is that a thing.
+
+01:03:04
+charliec97: Adams keyboard is so thocky, makes me realize how rattly my ergodox is FeelsBadMan
+
+01:03:09
+<transcript>: I don't know if that's a thing or not.
+
+01:03:15
+<transcript>: Here. I guess I'll do that. But it's got to be now. Just.
+
+01:03:15
+<transcript>: bang it
+
+01:03:16
+<transcript>: Bang it.
+
+01:03:21
+<transcript>: Forbidden. It's forbidden people. I can't do it. It's forbidden.
+
+01:03:26
+<transcript>: Just pretend, forbidden.
+
+01:03:26
+<transcript>: remember when we try to
+
+01:03:32
+<transcript>: Remember when we try to get Adam to give up on xDate and look at him. Now look at me now I still haven't read it. I still haven't got it running yet.
+
+01:03:32
+<transcript>: it's not run
+
+01:03:36
+<transcript>: It's not run one time in my app, but we've written a lot of stuff.
+
+01:03:45
+<transcript>: Charlie, it's it's not because I'm good at making keyboards.
+
+01:03:45
+<transcript>: or
+
+01:03:48
+<transcript>: Or like looping, or any of that stuff.
+
+01:03:52
+<transcript>: Just I got someone to make it for me. And that's the trick.
+
+01:03:52
+<transcript>: that's what you got to do
+
+01:03:54
+<transcript>: That's what you got to do.
+
+01:03:54
+<transcript>: so this
+
+01:03:56
+<transcript>: So this has to be like this.
+
+01:04:07
+<transcript>: Are we gonna do all this mask if there's no context round? Oh, that should be game.
+
+01:04:10
+<transcript>: Now I don't have to have all this.
+
+01:04:14
+<transcript>: Okay.
+
+01:04:18
+<transcript>: Let's just update the dependency array.
+
+01:04:21
+<transcript>: What's the problem here.
+
+01:04:21
+<transcript>: oh
+
+01:04:24
+<transcript>: Oh, that's exactly the error we just ran into, right.
+
+01:04:31
+<transcript>: Now just say context, that game and not all these specific things. I guess I probably can't.
+
+01:04:33
+<transcript>: Right.
+
+01:04:36
+<transcript>: I don't understand. React.
+
+01:04:40
+<transcript>: How many years? How many years will have to code and react to understand react.
+
+01:04:40
+<transcript>: then eight
+
+01:04:45
+<transcript>: Then eight. And I'll feel the closer than the day I started look at this.
+
+01:04:47
+<transcript>: Look at it. People.
+
+01:04:47
+<transcript>: we
+
+01:04:50
+<transcript>: We got a new game button. Does it work.
+
+01:04:50
+<transcript>: our
+
+01:04:57
+<transcript>: Our state machine works. The expiry thing doesn't work. Let's see if the answering works. The guessing.
+
+01:05:00
+<transcript>: I don't know what this is.
+
+01:05:03
+<transcript>: It works.
+
+01:05:03
+<transcript>: does it go to a new
+
+01:05:05
+<transcript>: Does it go to a new game after 2 seconds.
+
+01:05:05
+<transcript>: our new
+
+01:05:07
+<transcript>: Our new round. No.
+
+01:05:07
+<transcript>: okay
+
+01:05:10
+<transcript>: Okay. Well.
+
+01:05:10
+<transcript>: i should like
+
+01:05:13
+<transcript>: I should like, is there like a debugger for stately.
+
+01:05:18
+<transcript>: Like that you can just like, have death tools and like, see the state and all that.
+
+01:05:25
+<transcript>: So here I'm.
+
+01:05:25
+<transcript>: the context
+
+01:05:29
+<transcript>: The context. There's a round. There's a game.
+
+01:05:35
+<transcript>: Okay. So what didn't happen is.
+
+01:05:35
+<transcript>: we
+
+01:05:40
+<transcript>: We didn't move on to the next state.
+
+01:05:44
+<transcript>: Let's see.
+
+01:05:44
+<transcript>: let's
+
+01:05:46
+<transcript>: Let's see, let's see.
+
+01:05:51
+itzhapp: is webpack good with react?
+
+01:05:51
+<transcript>: We called.
+
+01:05:51
+<transcript>: all
+
+01:05:55
+<transcript>: All right. How do you let's just.
+
+01:05:55
+<transcript>: debug
+
+01:05:59
+thdxr: no more webpack!
+
+01:06:00
+<transcript>: Debug X state. I want to like, what's the easiest way? Inspect. There we go.
+
+01:06:02
+thdxr: vite only
+
+01:06:03
+<transcript>: There we go.
+
+01:06:06
+<transcript>: Inspection tools.
+
+01:06:20
+<transcript>: Is Webpack good with React? No more Webpack vet only. Yeah. I really I really want to move on from react.
+
+01:06:23
+<transcript>: I want to move into a world where.
+
+01:06:23
+<transcript>: it's
+
+01:06:30
+<transcript>: It's not react. It's next. I've become dependent on next JS because it made something.
+
+01:06:38
+<transcript>: It got rid of Webpack for me. I didn't have to think about webpack anymore, so I use Nick Jess as my Create React App replacement.
+
+01:06:44
+<transcript>: And now I have to replace that. And I have to replace it with Beat. And then it's like, once I go to v.
+
+01:06:44
+<transcript>: i'm done
+
+01:06:51
+<transcript>: I'm done with react. I'm like I only use react because of next. And then I can start using solid.
+
+01:06:51
+<transcript>: and then the whole
+
+01:06:58
+<transcript>: And then the whole world opens up. I have lots of thoughts on next as we enter into the next JS. Comp.
+
+01:06:58
+<transcript>: i have lots
+
+01:07:02
+<transcript>: I have lots of thoughts on next. There's people throwing out that next is a backend framework.
+
+01:07:02
+<transcript>: and then they
+
+01:07:06
+<transcript>: And then they like, technically describe what they mean. And I'm like, I guess.
+
+01:07:06
+<transcript>: but like
+
+01:07:11
+<transcript>: But like it doesn't do any of the things you need to do in a back end.
+
+01:07:11
+<transcript>: it's like it
+
+01:07:16
+<transcript>: It's like it's a back end framework. It's the only thing you're backend does is respond to request from your client.
+
+01:07:19
+<transcript>: I guess.
+
+01:07:27
+<transcript>: So then what is next? Js if it's a back end framework, but it's kind of a, like, very shallow back end framework. It.
+
+01:07:27
+<transcript>: only
+
+01:07:27
+<transcript>: Only.
+
+01:07:27
+<transcript>: is
+
+01:07:27
+thdxr: NextJS looks like a backend framework because NodeJS doesn't have any backend frameworks
+
+01:07:34
+<transcript>: Is front end because it makes you use react and they want to like abstract away the web pack and all that stuff.
+
+01:07:34
+<transcript>: but
+
+01:07:34
+itzhapp: My head is about to explode from all new framework and choose what to use
+
+01:07:35
+thdxr: (except maybe Adonis)
+
+01:07:37
+<transcript>: But it forces you to use your react, so it's bad in that sense.
+
+01:07:37
+<transcript>: i'm kind of down
+
+01:07:49
+<transcript>: I'm kind of down on next. Js. I'm gonna be honest kind of down on it. I feel like the only reason I use it is because I don't want to deal with webpack, and then it's like, well, maybe you don't have to deal with webpack. Maybe V's awesome. And I don't need webpack.
+
+01:07:49
+<transcript>: i don't know
+
+01:07:52
+<transcript>: I don't know. Why do I need an extra S anymore.
+
+01:07:58
+<transcript>: I just don't think I do think I'm gonna be an Astro and solid guy from moving from headed.
+
+01:07:58
+<transcript>: actually
+
+01:08:03
+<transcript>: Actually this looks like a back end framework because no JS doesn't have any backend frameworks.
+
+01:08:08
+<transcript>: My head is about to explore from all new framework and choose what you see.
+
+01:08:09
+sockthedev: It's a BFF
+
+01:08:14
+sadmadladsalman: a pseudo backend mishaps 🤔
+
+01:08:15
+thdxr: Astro x solid is where we're at too
+
+01:08:17
+<transcript>: Guess what it's had. None of it matters. Zach's will tell you. None of it matters. This doesn't matter. There's a lot of discussion, a lot of talk about stuff that really doesn't matter.
+
+01:08:17
+<transcript>: just use
+
+01:08:20
+<transcript>: Just use what you know, builds stuff.
+
+01:08:24
+bokehgg: Don't express and fastify also only respond to requests basically?
+
+01:08:25
+<transcript>: Pseudo. Back in mishaps.
+
+01:08:31
+<transcript>: Yeah, Astro. And followed. I think that's where I'm headed. Welcome to Chat, Boca.
+
+01:08:31
+<transcript>: all right here we
+
+01:08:35
+<transcript>: All right, here we go. Your name is Boca.
+
+01:08:41
+<transcript>: So we got to get some Boca. See that Boca. That's what that little like.
+
+01:08:41
+<transcript>: that's
+
+01:08:42
+bokehgg: :)
+
+01:08:46
+thdxr: i saw a new framework today that looks exactly like solid but written in rust so yet another choice
+
+01:08:49
+<transcript>: That's stuff like my little lights on my Lego buildings, how they're all like round and blurred. It's called Boca.
+
+01:08:49
+<transcript>: i think
+
+01:08:51
+<transcript>: I think spell different.
+
+01:08:51
+<transcript>: ah
+
+01:08:51
+sadmadladsalman: mayhaps*
+
+01:08:52
+<transcript>: Ah.
+
+01:08:52
+<transcript>: not eh
+
+01:08:54
+<transcript>: Not. Eh. Maybe.
+
+01:08:58
+itzhapp: what do you think about django + react and webpack?
+
+01:08:58
+bokehgg: No, same spelling
+
+01:09:00
+<transcript>: Let's talk, let's talk about stuff I gotta take a little break from X state.
+
+01:09:02
+sadmadladsalman: auto correction
+
+01:09:09
+<transcript>: Solid new framework today that looked exactly like Solid, but written in Rust. Oh, Geez, what's it called? Dax, don't tell me. No, tell me. What is it.
+
+01:09:13
+<transcript>: Dj, Dango and React, and webpack.
+
+01:09:13
+<transcript>: the problem with
+
+01:09:14
+thdxr: rustysolid
+
+01:09:16
+<transcript>: The problem with that stack is webpack.
+
+01:09:16
+<transcript>: i would avoid
+
+01:09:17
+thdxr: idk I don't remember
+
+01:09:19
+<transcript>: I would avoid Webpack. I would use VT.
+
+01:09:23
+<transcript>: Rusty, solid.
+
+01:09:25
+<transcript>: That's awesome.
+
+01:09:28
+<transcript>: Same Spelling. All right.
+
+01:09:30
+<transcript>: Boca GG.
+
+01:09:33
+itzhapp: okey thank you!
+
+01:09:36
+<transcript>: Welcome to Jat, Don't, Express and Fascify also only respond to requests. Basically.
+
+01:09:40
+<transcript>: I don't use either of them.
+
+01:09:40
+<transcript>: but
+
+01:09:41
+<transcript>: But I think.
+
+01:09:41
+<transcript>: i think
+
+01:09:47
+<transcript>: I think you might be right. I think like when I hear back in framework, I think of things like.
+
+01:09:47
+<transcript>: lare
+
+01:09:49
+<transcript>: Larevell. Or rails.
+
+01:09:49
+<transcript>: i mean those
+
+01:09:57
+thdxr: Laravel and rails are gold standard
+
+01:09:58
+<transcript>: I mean those are in next. Yes, I think would say it's a full SEC framework. I don't know that next generation would call themselves a back end framework. I think they call themselves a full stack framework.
+
+01:09:58
+<transcript>: and
+
+01:10:02
+<transcript>: And that's fair. It is full stack. It just stops.
+
+01:10:03
+thdxr: last forever
+
+01:10:06
+<transcript>: Like right as you get started on the back end.
+
+01:10:06
+<transcript>: yeah look
+
+01:10:07
+<transcript>: Yeah, look.
+
+01:10:14
+<transcript>: Standard. They're like a real full stack framework, except that I get the argument they don't really do the front end as much.
+
+01:10:14
+<transcript>: like
+
+01:10:18
+tayloreddev: nest js is your backend framework for JS
+
+01:10:19
+thdxr: Phoenix also
+
+01:10:29
+<transcript>: Like they're fronting. It's kind of like how Nick just stops right as you get into the back end. It's like Laravel and Rails kind of stop right as you get into the front end. It's like if you can serve or render your whole front end, then great. But if you want interactivity, kind of do your own thing.
+
+01:10:38
+itzhapp: its like django
+
+01:10:38
+fragaverage: nextJS is self described as a React framework. Take that as you will
+
+01:10:39
+<transcript>: Nest. Js is your back end framework for JS. Yeah, I've never played with Nest, but I think it is. That an Adonis. I.
+
+01:10:39
+<transcript>: saw somebody mentioned
+
+01:10:40
+<transcript>: Saw somebody mentioned.
+
+01:10:44
+heychazza: who's this Adam guy
+
+01:10:47
+thdxr: I never understood what nest was, I kept trying to understand it
+
+01:10:47
+<transcript>: A Donuts is like a full stack JavaScript framework. There are definitely like JavaScript frameworks trying to do the Rails thing.
+
+01:10:52
+<transcript>: Who's this Adam guy? Who's this Chassis guy? Hey, Chad, how are you.
+
+01:11:03
+<transcript>: Next, JS is self described as a react framework. Take that as you will. Yeah, it is. It's time to react in ways that are kind of strange, like.
+
+01:11:06
+<transcript>: How does it actually.
+
+01:11:06
+<transcript>: like when
+
+01:11:09
+<transcript>: Like when you look at Astro coming along.
+
+01:11:09
+<transcript>: and not being
+
+01:11:20
+heychazza: I'm good pal haha you? Been a while since I've come here. Cool to see your twitch growing, well deserved
+
+01:11:30
+<transcript>: And not being tied to a friend and framework that was like this revolutionary. It's not that you can use whatever front end you want, because next yes forces you into react. And I'm not sure it's clear why. Like now in 2022, I feel like when they started, it made sense. It's this react made a metaphram work. But like now it's kind of a downside to be stuck with one front end framework you can use.
+
+01:11:30
+<transcript>: right
+
+01:11:32
+<transcript>: Right? Am I totally off base.
+
+01:11:33
+fragaverage: Because nextJS is a react framework KEKW
+
+01:11:34
+thdxr: NextJS is a react framework. vercel noticed their e-commerce customers were going somewhere else for minor backend endpoints. so they added it but it never was supposed to go past that
+
+01:11:38
+<transcript>: Because next year S is React framework.
+
+01:11:45
+<transcript>: I'm good, pal. Been a while since I've come here. Cool to see your trick growing. Hey, thanks, Jazz. I appreciate that.
+
+01:11:45
+<transcript>: i guess
+
+01:11:48
+daglee: Today I'm parsing emails and I feel like this is fun for the whole family!
+
+01:11:50
+<transcript>: I guess you just keep streaming. People keep showing up. That's what I've learned about Twitch.
+
+01:11:53
+plusquare: tuning in to adams weekly roast of next
+
+01:11:57
+<transcript>: I've been streaming a little less just because I'm trying to get started with YouTube, and that's where I want to be right now.
+
+01:12:07
+<transcript>: Next Shares is a react framework. Versaille notice their ecommerce customer going somewhere else from minor back endpoints. So they added it, but it never was supposed to go past that. Yeah, that makes sense.
+
+01:12:10
+<transcript>: I just got a sound in my ear.
+
+01:12:20
+<transcript>: Oh, Charlie, thank you so much for the sub. I didn't get a notification in my activity things. I think there's a follow 80. I didn't see that. And then the notifications either.
+
+01:12:25
+<transcript>: Activity doesn't always work.
+
+01:12:25
+<transcript>: okay
+
+01:12:29
+<transcript>: Okay. Thank you so much, Charlie. I really appreciate the subs.
+
+01:12:30
+stream_kyle: What's the YouTube channel going to be like?
+
+01:12:32
+<transcript>: Connecting to Chat. Here we go.
+
+01:12:39
+<transcript>: Today I'm parsing emails and I feel like this is a fun for the whole family. It sounds awful.
+
+01:12:50
+<transcript>: Do I weekly roast next plus square do I roast next a lot. I feel like I used to love next. And just over time the relationship has been a downward trend.
+
+01:12:50
+<transcript>: i love
+
+01:13:10
+fragaverage: I think its also a misconception that everyone uses API side of nextJS therefore it being "full-stack". We do not use the api/node side at my work since we already had a custom express api written. We do however use the SSR side of things
+
+01:13:11
+<transcript>: I love it less and less all the time. And it's interesting because it's like a perfect time to look back and reflect on my relationship with Next with Next Jazz. Comps. Maybe they'll wow me with Next Shift. Comp, but I think it's gonna be more of the same stuff that they've been pushing towards edge stuff. And that doesn't like that doesn't change the big things I'm talking about, which is like, Why am I.
+
+01:13:11
+<transcript>: stuck with
+
+01:13:12
+<transcript>: Stuck with react.
+
+01:13:14
+<transcript>: The whole.
+
+01:13:14
+<transcript>: like stick
+
+01:13:23
+<transcript>: Like stick for me of next JS was never think about webpack again and then Vee came along. So now it's like I really like to use VT.
+
+01:13:23
+<transcript>: and
+
+01:13:34
+thdxr: also the new react stuff makes me confused where NextJS provides value
+
+01:13:37
+<transcript>: And do I need to abstract away webpack if I just use VT and then I can use whatever front end I want and then I can use Astro for the server side rendering stuff. I don't know. I feel like that combination of like Astro and solid.
+
+01:13:37
+<transcript>: is
+
+01:13:41
+heychazza: I'm a Vue guy, I want to try react because of Framer motion and such, we don't have fancy stuff like that
+
+01:13:41
+thdxr: since it's all server first
+
+01:13:44
+<transcript>: Is really attractive to me right now. I don't know what I represent. I don't know how many people think like me, but.
+
+01:13:44
+<transcript>: it makes
+
+01:13:49
+<transcript>: It makes next JS feel like it's like the same things I don't like about react.
+
+01:13:52
+thdxr: there's a solidjs plugin for framer
+
+01:14:09
+<transcript>: It's also a misconception that everyone uses API side of Next yes. Therefore being full stack, we don't use the API note side at my work since we already have a Customer Express API. Yeah. So that's the other thing I use Next shift all the time as just my front end. And that's why it's funny when people say it's a back end framework. To me. It's like I guess yeah. I guess.
+
+01:14:09
+<transcript>: i see
+
+01:14:11
+<transcript>: I see what you're saying.
+
+01:14:11
+<transcript>: it only exists
+
+01:14:22
+<transcript>: It only exists in the backend. Sort of like it doesn't do anything in your front. It's just react, but also like, I mostly use it in my stacks as the front end. It's just a way to get rid of like.
+
+01:14:22
+<transcript>: web pack
+
+01:14:24
+<transcript>: Web pack.
+
+01:14:24
+<transcript>: and i can deploy
+
+01:14:36
+<transcript>: And I can deploy it to verselle and I have to think about CloudFront or s three like I can just kind of like abstract away my whole front end. It's react app if I want, I can serve as render some of it. But if I'm building a spot, I don't even care about that stuff.
+
+01:14:36
+<transcript>: and then i use
+
+01:14:48
+<transcript>: And then I use a custom API on the back end. So yeah, I use very little of the backend that next JS provides. So that's why it's just funny to me. It's funny me when it's called a full stack framework or back end framework.
+
+01:14:56
+<transcript>: I mean, it's not funny that it's a full set. It is a full stack framework. I get it like it does work across the whole stack. It provides answers.
+
+01:14:56
+<transcript>: for at least
+
+01:14:58
+<transcript>: For at least parts of the whole stack.
+
+01:15:05
+heychazza: to use it in due?
+
+01:15:07
+heychazza: Vue
+
+01:15:10
+<transcript>: The new React stuff may confuse where next GS provides value. Yeah, no, I agree. I'm in Dax's boat. Some of you guy want to try React because the frame Remotion and such. We don't have fancy stuff like that.
+
+01:15:15
+<transcript>: Can I just say I'm not so sure about frame Remotion.
+
+01:15:29
+<transcript>: I mean, I've used it on stream a couple times. It doesn't feel that intuitive to me. And that's kind of my bar for, like, a good library is like, can I immediately pick it up and just start working with it? And I know some things take some effort and like, they're worth it.
+
+01:15:40
+cowfacedude99: vue3 is pretty nice
+
+01:15:42
+whoa_dood: intuitiveness is my benchmark for a good library
+
+01:15:43
+<transcript>: But I don't know. Fred. Emotion is I've used some animation libraries in my time. I've done a lot of animation stuff Ironically, in Native Mobile, which I don't do Native Mobile, but I've done a lot of animation stuff in Native Mobile, and I always felt like that made sense to me.
+
+01:15:43
+<transcript>: framer mot
+
+01:15:46
+tayloreddev: I want give Solid a go. I traditionally suck a front end stuff. I last did front end when bootstrap was a thing
+
+01:15:48
+<transcript>: Framer motion has not clicked for me yet it might be my fault. Very possible.
+
+01:15:53
+<transcript>: Since it's also refers to the Soljist plugin for framer.
+
+01:15:59
+<transcript>: Intuitiveness is my benchmark for a good library again.
+
+01:16:05
+developmentrobot: my current stack is Nest for API, Vue3 for interactive app, and Astro for the landing page
+
+01:16:09
+<transcript>: 100 devs might try freshramotion in 99 of them might find it super intuitive. And I'm just the weird guy that doesn't. But I don't. I don't find it intuitive. I don't know.
+
+01:16:17
+thdxr: I also gave up on framer pretty quick
+
+01:16:25
+<transcript>: I might have just been too detached from animation stuff. I haven't done a lot of animation stuff in a while, so maybe I'm just too detached from the concept and animation. I don't know. I don't want to just like, stop on every framework that gets brought up right now.
+
+01:16:27
+<transcript>: Make really negative.
+
+01:16:38
+<transcript>: Taylor you want to give solid ago let's do it at the same time. We can compare notes.
+
+01:16:40
+cowfacedude99: the older api is horrible. but the newer api is pretty cool.
+
+01:16:44
+<transcript>: I suck at front ends up to it takes me forever. I mean, you guys have had to watch it, you know.
+
+01:16:48
+<transcript>: Lasted front end when Bootstrapp is a thing that has been a while.
+
+01:16:48
+<transcript>: krant sack
+
+01:16:54
+plusquare: isnt next js a fulstack for frontend leaning devs
+
+01:16:57
+<transcript>: Krant Sack is nest for API view three for interactive app and Astro blending page. That is one thing I like about next is that I always just do my.
+
+01:16:57
+<transcript>: landing page
+
+01:16:59
+<transcript>: Landing page.
+
+01:16:59
+<transcript>: and
+
+01:17:08
+<transcript>: And the app all in the same project because it's like you can kind of mix and match how pages like if they're just static, they can just be static. If they're lightly dynamic, you can.
+
+01:17:08
+<transcript>: isr
+
+01:17:10
+<transcript>: Isrm or whatever.
+
+01:17:10
+<transcript>: if they're really
+
+01:17:16
+<transcript>: If they're really dynamic, you can just ignore it. Like, I kind of like that part of Next chest. It feels like.
+
+01:17:16
+<transcript>: it's got all
+
+01:17:26
+<transcript>: It's got all the possibilities there built in. And I've even said I think it's a good default for that reason because like no matter what you're building, you can probably build it with next year in a decent way.
+
+01:17:26
+<transcript>: it
+
+01:17:41
+<transcript>: It's just the like, if if it's supposed to be the only thing you need. And like when we call it a back end framework, it's just lacking basically all the features of a back end frameworks. I don't think that term fits the way we use that term.
+
+01:17:50
+<transcript>: That you also gave up on framer. Okay, now that's another data point. If Me and DAX both just didn't get it with framer.
+
+01:17:50
+<transcript>: i don't know
+
+01:17:52
+<transcript>: I don't know.
+
+01:17:52
+<transcript>: i'm
+
+01:17:54
+<transcript>: I'm just saying.
+
+01:17:54
+<transcript>: that's
+
+01:17:55
+<transcript>: That's two people.
+
+01:17:55
+<transcript>: the older
+
+01:18:01
+developmentrobot: I'm too afraid of working with hooks in React to give Next a try. Hook fucked me up for good.
+
+01:18:04
+<transcript>: The older API is horrible with the new API. Is your new API for for framer calface. Maybe that's the problem. Maybe I've just only used the older API.
+
+01:18:09
+thdxr: me and Adam gave up on framer because the truth is we're not frontend engineers
+
+01:18:12
+<transcript>: Next JS is a full stack for frontend leaning devs. That's that's a great callout. Plus square. I think we've talked about this.
+
+01:18:18
+cowfacedude99: I was talking about vue.
+
+01:18:19
+<transcript>: We're not front endangers. That's good callbacks. I think. Dax, I think I've talked with you about this.
+
+01:18:19
+<transcript>: that
+
+01:18:27
+<transcript>: That next. Jess. Yeah, it's full stack for frontends. It's a backend framework. If your front end Dev.
+
+01:18:27
+<transcript>: it's like
+
+01:18:32
+<transcript>: It's like back in from the perspective of frontend. And that's not to be like divisive. And to be like.
+
+01:18:32
+<transcript>: i don't know
+
+01:18:39
+<transcript>: I don't know. Gatekeeping like you're not good enough to be backend. I think front end Development's harder. Not just like.
+
+01:18:47
+<transcript>: Because I haven't done it. I've done both of them just as much. And I think front end is way more difficult. So I'm not, like.
+
+01:18:47
+<transcript>: dismissing
+
+01:18:53
+<transcript>: Dismissing frontendes is like they don't know how to do complicated things. I think front ends way more complicated.
+
+01:18:55
+<transcript>: But I also think.
+
+01:18:55
+<transcript>: that
+
+01:18:59
+<transcript>: That frontend des have a certain perspective of what the backend is.
+
+01:18:59
+<transcript>: if you've
+
+01:19:04
+<transcript>: If you've only done frontend work and I think that's where next is attracts those people.
+
+01:19:04
+<transcript>: i don't know
+
+01:19:05
+<transcript>: I don't know.
+
+01:19:05
+<transcript>: that's another thing
+
+01:19:07
+tiredbeaver: do you mainly do backend in JS
+
+01:19:11
+<transcript>: That's another thing. As I'm starting my YouTube career, here my YouTube career, my journey on YouTube.
+
+01:19:15
+<transcript>: I'm realizing like the whole.
+
+01:19:15
+<transcript>: everyone
+
+01:19:21
+<transcript>: Everyone in new everyone new to development gets funneled into the front end. Is that out of necessity.
+
+01:19:21
+<transcript>: why is that
+
+01:19:22
+bokehgg: I think Nextjs kinda continues the React ideology of giving a basic set of tools and pick your own libraries to make it functioning as a full framework
+
+01:19:41
+<transcript>: Why is that? Can we not funnel some new people into the backend where that's where they enter the industry. It's not more complicated. I get the feedback loop, but there are so many things you can build that are not front ends. Web front ends, and get a feedback loop. Build a CLI. I know it's not a back end, but like, build a CLI. And you've got immediate feedback. And you don't have to deal with.
+
+01:19:41
+<transcript>: all
+
+01:19:42
+thdxr: I felt like php was the perfect intro to programming language
+
+01:19:44
+cowfacedude99: @BokehGG that's kind of the issue.
+
+01:19:50
+<transcript>: All of the nonsense. I'm talking with someone who's learning who's getting into development for the first time and kind of many them on Twitter.
+
+01:19:50
+<transcript>: and one of the things
+
+01:19:51
+caldotjs: had a job interview this morning :)
+
+01:19:52
+<transcript>: And one of the things I keep noticed.
+
+01:19:52
+<transcript>: is
+
+01:19:53
+tiredbeaver: saying backend and frontend is very vague
+
+01:19:56
+<transcript>: Is like they keep coming back with like so.
+
+01:19:56
+<transcript>: this react
+
+01:20:01
+<transcript>: This react Stuff's just not clicking. Is this really where I should start? And I'm kind of like, I guess.
+
+01:20:01
+<transcript>: i guess you
+
+01:20:06
+tiredbeaver: cli can be a frontend if ur product is the cli
+
+01:20:09
+<transcript>: I guess you should, because that's what everyone does. And that's where the most training stuff exists. The most content, materials, tutorials, whatever.
+
+01:20:09
+<transcript>: it's it
+
+01:20:29
+<transcript>: It's. It feels bad to be like, no, please don't. But it's also so much to learn and so much overhead that like, you could get into programming. I think faster playing with a little node, JS CLI or some other link, a Python CLI. And just like building a thing that does a thing and not having to deal with front ends and styling the same person's like, well, okay. Now I'm.
+
+01:20:29
+<transcript>: learning tail
+
+01:20:31
+thdxr: obviously new programmers should start with advanced data structures and big O notation
+
+01:20:35
+bokehgg: @BokehGG i think it's mostly a preference
+
+01:20:35
+<transcript>: Learning tailwind. I guess I need to learn that if I want to make the thing look good, and then it's like, Well, should I learn.
+
+01:20:35
+<transcript>: this
+
+01:20:40
+plusquare: its the feedback loop, and also maybe cause im not as creative but frontend is easier to build for
+
+01:20:41
+nutlesssquirrel: If everyone had the same screen. Front end would be a breeze.
+
+01:20:42
+tayloreddev: Lines blur these days between back and front given JS can do both
+
+01:20:43
+cowfacedude99: I think hardware is also a good place to start.
+
+01:20:43
+<transcript>: This accessibility framework. And it's like, do we want new developers coming into the field to have to learn about accessibility? That's just a lot.
+
+01:20:43
+<transcript>: okay
+
+01:20:46
+<transcript>: Okay now I'm really I'm ranting.
+
+01:20:51
+bokehgg: @BokehGG opinionated vs non-opinionated
+
+01:20:52
+<transcript>: Let me catch up here. Caldot, call us here. Thanks so much for the subcow. Three months.
+
+01:20:52
+<transcript>: the three
+
+01:20:54
+<transcript>: The three month club.
+
+01:21:03
+<transcript>: I don't even think I've been on Twitch for three months. I'm not gonna do the command because in everybody just does a command, but I don't think I think maybe I'm approaching my third month.
+
+01:21:06
+fredkisss: accessibility is a must IMO
+
+01:21:12
+<transcript>: I think next year kind of continues to react ideology of giving a basic set of tools and pick your own libraries to make it functioning as a full framework.
+
+01:21:12
+cowfacedude99: I started with with arduino and the feedback loop was one of the best.
+
+01:21:17
+heychazza: Personally think devs shouldn't focus on accessibility until your app is large enough. Takes up time
+
+01:21:21
+<transcript>: Yeah. What is it about next? What is it? I'm gonna keep reading, but there's something I can't put my my finger on that bothers me.
+
+01:21:21
+<transcript>: these days
+
+01:21:29
+<transcript>: These days, it's still a great framework. And like, I'm not saying you shouldn't use it. I'm just something in my position, my specific context.
+
+01:21:31
+whoa_dood: ive been on a learning journey for almost 2 years, i feel lite im always playing catchup and never gaining any ground
+
+01:21:37
+<transcript>: And view of the world. Something feels off. I felt like PHP was a perfect intro to programming language. Yeah, it really is.
+
+01:21:44
+<transcript>: I mean the problem though when you're rendering a front end is then like people start.
+
+01:21:48
+<transcript>: You do kind of start worrying. Some people start worrying about what it looks like.
+
+01:21:48
+<transcript>: and there's
+
+01:21:56
+<transcript>: And there's so many concerns on the front end, like user experience and accessibility, and just visually like the aesthetic of it.
+
+01:21:56
+<transcript>: like if
+
+01:22:05
+trullian: Damn this camera quality... Insane. So pretty
+
+01:22:06
+<transcript>: Like if you have feedback, but that feedback is this awful looking form on a page. You feel kind of bad. I do. I just care a lot about how things look. I guess.
+
+01:22:14
+<transcript>: A job interview. Calbot, where are you gonna work? Well, probably tell me that. How to go. Just tell me how it went.
+
+01:22:24
+<transcript>: Back in front is very vague. I totally agree. Cli can be a front end if your product is the CLI totally agree. Yeah. I think I'm talking web development.
+
+01:22:24
+<transcript>: so like
+
+01:22:33
+fredkisss: @heychazza If you don't consider accessibility from the start of your project it will be very difficult to implement it when your app is larger.
+
+01:22:35
+<transcript>: So like everything I say, I'm probably in that context, web development, small teams, that's kind of where I live. So when I say the back end of the front end, it's like the front end of a web app. Is the browser.
+
+01:22:39
+<transcript>: Your thing you're rendering an HTML and CSS and JavaScript or whatever.
+
+01:22:39
+<transcript>: and the back end
+
+01:22:42
+thdxr: so my product is a CLI and we're using react in our cli lol
+
+01:22:46
+<transcript>: And the back end is some maybe you need to get data from I don't know. Think like a spa. That's kind of how I'm referring to them.
+
+01:22:59
+<transcript>: Obviously new programmers should start with advanced data structures in Bigo notation. I mean, DAX is all kidding aside. I kind of wish I had started places like that. I probably did in College, but I look at people like.
+
+01:22:59
+<transcript>: prime
+
+01:23:02
+caldotjs: Waiting for the salary offer.. lets hope I don't get lowballed since besides that its actually the perfect job. I will be responsible to build up their js branch. Which means I will directly work with the cto and I am basically free to choose the technologies I want. Might rewrite some internal tooling in rust :D
+
+01:23:03
+<transcript>: Prime. And I think I wish I was a programmer like that.
+
+01:23:03
+<transcript>: it was
+
+01:23:16
+<transcript>: It was like, just really good and nerdy into, like, deep depth of programming. And I feel like I kind of started high level and just stayed there. I guess I could go. He probably started high level. I don't know. I could go that way if I wanted.
+
+01:23:22
+<transcript>: It's the feedback loop and also maybe because I'm not as creative, but front end is easier to build for.
+
+01:23:22
+<transcript>: if everyone
+
+01:23:23
+trullian: Starting a new job soon. The team I'm joining is also completely new. Not in programming, but in the company. Any good advice?
+
+01:23:25
+<transcript>: If everyone had the same screen from there would be a brief.
+
+01:23:35
+caldotjs: downside is that I won't really have a mentor there but the upside is the freedom which I really like
+
+01:23:45
+<transcript>: Lines blur these days between back in front given Jay is gonna be both hardware is also a good place to start. Hardware is a great place to start if you want to just have fun with computers, get a raspberry Pi and go to town. That's the most fun I gotta get back into that. That's so fun. It's just something about the physical world and being able to move stuff around. So fun.
+
+01:23:54
+<transcript>: Accessibility is a must. And that's the problem, Fred, is that we're saddling new people with all of these concerns that are all must.
+
+01:23:54
+<transcript>: and
+
+01:23:56
+bokehgg: I think CS50 is a pretty good start if you wanna get into low-level stuff
+
+01:23:59
+<transcript>: And they're just it's a lot to learn when you could just learn, like about.
+
+01:23:59
+<transcript>: variables
+
+01:24:01
+<transcript>: Variables, and loops.
+
+01:24:01
+<transcript>: and conditions
+
+01:24:06
+thdxr: hardware is so annoying my hand shakes and I ruin my work, when I mess up I have to go to the store to get another part
+
+01:24:09
+caldotjs: I got their confirmation 20 minutes after the interview and they canceled the other 2 interviews today so I assume they liked me :D
+
+01:24:11
+<transcript>: And conditions and doing all the things you do in programming. You can do it in a little CLI app. I don't know. That's my I'm gonna start trying to push new people that way. Like learn programming.
+
+01:24:14
+<transcript>: With something that doesn't have.
+
+01:24:14
+<transcript>: react
+
+01:24:15
+<transcript>: React involved.
+
+01:24:23
+<transcript>: That's not like just trying to bash on react. It's just like you could avoid a lot of stuff.
+
+01:24:28
+<transcript>: Cafe started with the Arduino and feedback loop was one of the best that does sound like a great way to start.
+
+01:24:28
+<transcript>: think you fall in love
+
+01:24:29
+jenswoeste: my kids are currently participating in FLL (First Lego League) where they build and program a robot to solve tasks (for points). I wish I had something like that when I was a kid.
+
+01:24:39
+<transcript>: Think you fall in love real fast, done stuff like that. Personally. Think Dev shouldn't focus on accessibility until your app is large enough. Takes up time. Yeah. The problem is like a lot of people just never get to accessibility.
+
+01:24:41
+<transcript>: And.
+
+01:24:48
+thdxr: I wrote a component yesterday all with document.querySelector, no framework stuff. was sooo much easier
+
+01:24:55
+<transcript>: Yeah, I don't know. I just think the problem is that we're funneling people into the front end in webdev, and I don't think we should. That's my stance. I've been on a learning journey for almost two years. Feel like I'm always playing catchup, never gaining any ground.
+
+01:24:55
+<transcript>: well dude
+
+01:25:07
+<transcript>: Well, dude, where did you start? Are you building Web stuff? Did you start on the Web is at the front end. Where are you starting? Truly in. Welcome to Chat. The camera quality is good. Thank you so much.
+
+01:25:07
+<transcript>: it's
+
+01:25:08
+<transcript>: It's.
+
+01:25:08
+<transcript>: a labor of
+
+01:25:11
+<transcript>: A labor of love of mine I put a lot of time.
+
+01:25:11
+<transcript>: into
+
+01:25:20
+<transcript>: Into camera stuff. I just like them and lights in my eyes. I really like my office. Spent a lot of time on the things around me.
+
+01:25:20
+<transcript>: it's not always
+
+01:25:23
+<transcript>: It's not always my appearance. You'll see.
+
+01:25:27
+<transcript>: If you don't consider accessibility from the start of your project, it will be very different.
+
+01:25:27
+<transcript>: you have
+
+01:25:28
+dendenguy: Ayo
+
+01:25:33
+<transcript>: You have to slogger. Yeah. I think the problem is, like, accessibility. If I'm building a new web app.
+
+01:25:33
+<transcript>: access
+
+01:25:42
+whoa_dood: web apps front end mainly, followed 100Devs courses. i am working on getting into CLI's now actually LUL
+
+01:25:45
+<transcript>: Accessibility really the implementation of it happens when you're defining all your components and you're making them all accessible and like building up a component library is kind of foundational. Once you start sprinkling those components all over your app.
+
+01:25:55
+<transcript>: I guess you could go back and make those components successful. I just think, yeah, I don't know. Building a good Web app today. Accessibility is very much a part of it.
+
+01:25:55
+<transcript>: and
+
+01:26:08
+<transcript>: And I can remember early in my web Dev career building on the front end. And like you can, you can make buttons with DIVS. You can do things that are just not great, because like every element can have the same events and all that right.
+
+01:26:13
+<transcript>: And I don't know. I just think the front ends the wrong answer for new people I don't know.
+
+01:26:13
+<transcript>: a product
+
+01:26:18
+<transcript>: A product is a CLI, and we're using React and our CLI. I've used. Yeah. What is it.
+
+01:26:23
+thdxr: ink
+
+01:26:23
+<transcript>: I've built some CLI's and use that thing and react. What is it? It's like.
+
+01:26:35
+<transcript>: What is it called? It's like a color. Something the name of it. What is that library that you use react to build CLI's. I've definitely used that. Waiting for the Sally offer. Let's hope I don't get low, bald.
+
+01:26:35
+<transcript>: perfect job
+
+01:26:37
+<transcript>: Perfect job OOH.
+
+01:26:37
+<transcript>: they're js
+
+01:26:39
+<transcript>: They're JS branch Hey.
+
+01:26:39
+<transcript>: directly work with
+
+01:26:44
+<transcript>: Directly work with CTO, and basically free to choose a technologies that's the dream right there. Autonomy.
+
+01:26:50
+<transcript>: Might rewrite some internet internal tooling and rest OOH rust.
+
+01:26:57
+<transcript>: Truly inserting a new job. Soon, the team I'm joining is often completely new, not in programming but in the company. Any good advice.
+
+01:27:03
+<transcript>: So you're joining a new team that's being formed.
+
+01:27:08
+<transcript>: How big a team are we talking.
+
+01:27:14
+<transcript>: I'm not sure if I'll have any good advice. I don't have a lot of advice working on teams.
+
+01:27:16
+<transcript>: Or a lot of experience.
+
+01:27:21
+<transcript>: You won't have really have a Mint. That's what the internet's for caldot.
+
+01:27:26
+<transcript>: So you can find a mentor on the internet then that that Sures up that downside.
+
+01:27:35
+<transcript>: Cs 50 is pretty good. Yeah. In College. I know. We talked about a lot of foundational things I think College lacked in the like.
+
+01:27:35
+<transcript>: pragmatic
+
+01:27:50
+<transcript>: Pragmatic side for me, I learned a lot of things, and we did, like, play with actual stuff. Like we weren't just in books, but it's just felt like I was doing stuff in College. It was like ten years behind the end of.
+
+01:27:50
+<transcript>: how i felt
+
+01:27:53
+trullian: The team size is around 5-6 people
+
+01:27:54
+<transcript>: How I felt once I left College is like, oh, why didn't they teach me this in College.
+
+01:27:54
+<transcript>: hardware
+
+01:27:58
+<transcript>: Hardware is so annoying. My hands shakes. I ruined my work.
+
+01:28:04
+<transcript>: Okay. Yeah. So soldering. I'm not great at soldering. I would not have been a good surgeon.
+
+01:28:09
+<transcript>: Nice calbott. I hope you guys.
+
+01:28:12
+<transcript>: Liked my kids are currently participating.
+
+01:28:12
+<transcript>: in first legs
+
+01:28:13
+<transcript>: In first legs.
+
+01:28:13
+<transcript>: where they
+
+01:28:15
+<transcript>: Where they build and program a role.
+
+01:28:15
+<transcript>: tasks
+
+01:28:16
+<transcript>: Tasks.
+
+01:28:16
+<transcript>: wow
+
+01:28:23
+<transcript>: Wow. I wish I had something like that. I wish my kids had something like that. How do I get them signed up? Oh, you live in the land of Lego yens.
+
+01:28:23
+<transcript>: that's how you
+
+01:28:25
+<transcript>: That's how you get that stuff.
+
+01:28:25
+<transcript>: i wrote a
+
+01:28:31
+<transcript>: I wrote a component yesterday, all with Document Query selector. No framework, stuff. So much easier, really.
+
+01:28:34
+<transcript>: Hey, DAX, what's your stance on Web components.
+
+01:28:36
+<transcript>: Din daeneo.
+
+01:28:47
+<transcript>: Whoa, dude. Web apps Frontend mainly followed 100 devs courses. I'm not familiar with that, but I'm working on getting into Seal Eyes now, actually. Okay. Yeah, I think you might enjoy.
+
+01:28:47
+<transcript>: the
+
+01:28:50
+jenswoeste: https://www.firstlegoleague.org
+
+01:28:52
+<transcript>: The change of pace maybe just try it report back please let me know what it's like.
+
+01:28:52
+<transcript>: to go from
+
+01:28:58
+<transcript>: To go from kind of like entering into the frontend world and then suddenly playing with CLIs.
+
+01:28:58
+<transcript>: ink
+
+01:29:00
+caldotjs: Do we have anyone in here that actually uses WebAssembly regularly?
+
+01:29:06
+<transcript>: Ink. Thank you. Dax, Inc. That's the name. Team size around five to six people. Anybody have advice for children? Joining a new team.
+
+01:29:12
+<transcript>: It's a new job. And he's joining a new team within that organization of five to six people.
+
+01:29:15
+<transcript>: First Lego league.org.
+
+01:29:15
+<transcript>: i'm very interested
+
+01:29:20
+<transcript>: I'm very interested. Do we have anyone in here that actually uses WebAssembly regularly.
+
+01:29:20
+<transcript>: yeah i'd also like
+
+01:29:26
+<transcript>: Yeah. I'd also like to know people's opinions on WebAssembly and Web components, and let's actually do something.
+
+01:29:28
+<transcript>: That's been enough.
+
+01:29:30
+2dorkstv: morning!
+
+01:29:30
+s0sa300: that cigarrete kills me
+
+01:29:31
+<transcript>: Enough enough talking.
+
+01:29:31
+<transcript>: i
+
+01:29:34
+<transcript>: I could never get enough talking. I just talked to you all day.
+
+01:29:34
+<transcript>: but then we wouldn't
+
+01:29:36
+<transcript>: But then we wouldn't get anything done.
+
+01:29:45
+<transcript>: So I really want to get this AW guess done for Reinvent. We have about a month.
+
+01:29:45
+<transcript>: month and
+
+01:29:56
+<transcript>: Month and a half till reinvent. I want this thing to be out there for people to play ahead of reinvent. It's like peak. Aws, excitement. This is like the aid of Christmas, time of the year.
+
+01:29:58
+<transcript>: A cigarette kills you.
+
+01:29:58
+<transcript>: good morning
+
+01:30:01
+<transcript>: Good morning, Tudorcs. Welcome to Chat So. Sub.
+
+01:30:06
+bbogdanov: Around a11y and making components a11y is not really helpful when you combine the components into a bigger one. Been there done that, it's no fun xoxo
+
+01:30:09
+<transcript>: Okay. What was I doing? I was gonna get the.
+
+01:30:10
+s0sa300: thanks
+
+01:30:14
+<transcript>: Inspect tools. I want to see. How do I do this.
+
+01:30:14
+<transcript>: inspect
+
+01:30:15
+<transcript>: Inspect.
+
+01:30:15
+<transcript>: iframe
+
+01:30:18
+<transcript>: Iframe falls? What.
+
+01:30:20
+<transcript>: Is the doing.
+
+01:30:31
+<transcript>: I don't see anything.
+
+01:30:36
+<transcript>: Toggled one time anyone see the Inspect. Oh, is it this stuff.
+
+01:30:41
+<transcript>: I don't know what the Inspect did.
+
+01:30:50
+<transcript>: Import at the beginning of your project for any other code is called.
+
+01:31:01
+<transcript>: And then what what is this? Add devtool's true to interpret to any interpretive machines you want to visualize.
+
+01:31:07
+<transcript>: So it's gonna, like, open a new tab, and it's gonna just have.
+
+01:31:09
+<transcript>: What.
+
+01:31:17
+<transcript>: I was hoping to, like, watch it in real time as it went through. Is that what Inspect does? Maybe it does. Let's just let's try it.
+
+01:31:20
+<transcript>: Let's try it.
+
+01:31:20
+<transcript>: welcome to chat
+
+01:31:32
+<transcript>: Welcome to Chat Bog DeNov around Ally and making components accessible is not really helpful when you combine the components into a bigger one. Been there? Done that. It's no fun. Yeah.
+
+01:31:35
+<transcript>: Agreed.
+
+01:31:43
+<transcript>: Did I just leak a bunch of stuff.
+
+01:31:46
+<transcript>: I don't know who knows.
+
+01:31:49
+<transcript>: Let's add this thing.
+
+01:31:52
+<transcript>: Yarn. Add.
+
+01:31:56
+<transcript>: It to your guess is Yarn, right. Oh, Geez, is it pnpm.
+
+01:32:03
+<transcript>: It's BMB, and I just yarn out of it. Something.
+
+01:32:06
+<transcript>: Kind of just cancel.
+
+01:32:06
+<transcript>: just can't
+
+01:32:07
+<transcript>: Just can't.
+
+01:32:10
+<transcript>: Do it. I take it back.
+
+01:32:10
+<transcript>: take it back
+
+01:32:12
+<transcript>: Take it back.
+
+01:32:14
+<transcript>: Don't do it.
+
+01:32:17
+<transcript>: Don't yarn, my thing.
+
+01:32:17
+<transcript>: to do it
+
+01:32:18
+<transcript>: To do it.
+
+01:32:22
+<transcript>: Maybe I'm not might have PMPM install.
+
+01:32:22
+<transcript>: x eight
+
+01:32:24
+<transcript>: X eight. Inspect.
+
+01:32:27
+<transcript>: Disappears.
+
+01:32:27
+<transcript>: disappearsock
+
+01:32:29
+<transcript>: Disappearsockets.
+
+01:32:29
+<transcript>: interesting
+
+01:32:30
+<transcript>: Interesting.
+
+01:32:33
+<transcript>: Well, okay.
+
+01:32:37
+<transcript>: Pmp M. Install WS.
+
+01:32:40
+<transcript>: We do it.
+
+01:32:40
+<transcript>: we
+
+01:32:42
+<transcript>: We did it.
+
+01:32:42
+<transcript>: i
+
+01:32:43
+<transcript>: I.
+
+01:32:51
+<transcript>: Didn't have any errors when I left this right. Oh, the non null assertion. Yeah, Yeah.
+
+01:32:55
+<transcript>: What it is though. Plus it has an any.
+
+01:32:59
+<transcript>: What.
+
+01:33:08
+<transcript>: Come on here.
+
+01:33:10
+<transcript>: Thanks for the follow atich.
+
+01:33:13
+<transcript>: And it'll work.
+
+01:33:13
+<transcript>: yeah okay
+
+01:33:18
+<transcript>: Yeah. Okay. Now we just have the one non null. Forbidden. It's forbidden.
+
+01:33:24
+<transcript>: All right, so we installed inspect.
+
+01:33:24
+<transcript>: now we need
+
+01:33:26
+<transcript>: Now we need to do what.
+
+01:33:29
+caldotjs: Stroop isn't around :O something is wrong here
+
+01:33:30
+<transcript>: So just like this.
+
+01:33:36
+<transcript>: Dev tool is true to any interpreting machines. You want to visualize what's interpret.
+
+01:33:40
+<transcript>: Okay.
+
+01:33:40
+<transcript>: this is
+
+01:33:43
+<transcript>: This is react. So I don't I don't know.
+
+01:33:47
+<transcript>: I think they had a react page. Oh, that's like a like that.
+
+01:33:50
+<transcript>: If it's not interpret.
+
+01:33:53
+<transcript>: What is it.
+
+01:33:56
+<transcript>: Okay. Let's just try this.
+
+01:33:59
+<transcript>: Inspect.
+
+01:34:02
+<transcript>: Url is default.
+
+01:34:02
+<transcript>: okay
+
+01:34:03
+<transcript>: Okay.
+
+01:34:07
+<transcript>: So. Does it work? No. I'm need to do the thing.
+
+01:34:07
+<transcript>: the was the thing
+
+01:34:09
+<transcript>: The was the thing I need to say.
+
+01:34:16
+<transcript>: I need to say Dev tools true. So down here and create machine. I bet it's down here.
+
+01:34:18
+<transcript>: I bet it is.
+
+01:34:25
+<transcript>: If I can figure out how to let's see.
+
+01:34:25
+<transcript>: dev
+
+01:34:27
+<transcript>: Dev tools.
+
+01:34:30
+<transcript>: Oh, dead.
+
+01:34:30
+<transcript>: tools
+
+01:34:31
+<transcript>: Tools.
+
+01:34:31
+<transcript>: true
+
+01:34:33
+<transcript>: True I don't know.
+
+01:34:39
+<transcript>: Just to type what.
+
+01:34:44
+<transcript>: Internal machine options. Okay, let's do this.
+
+01:34:49
+<transcript>: Xdate create machine Dev tools.
+
+01:34:59
+<transcript>: I should look at that.
+
+01:35:02
+<transcript>: Or was it.
+
+01:35:04
+<transcript>: Let's look at this.
+
+01:35:06
+<transcript>: The code actually.
+
+01:35:06
+<transcript>: look at
+
+01:35:08
+<transcript>: Look at the code.
+
+01:35:12
+<transcript>: Stroop. Isn't around. I know. Feels weird.
+
+01:35:12
+<transcript>: feels weird
+
+01:35:15
+<transcript>: Feels weird when people aren't here.
+
+01:35:15
+<transcript>: stroo
+
+01:35:16
+<transcript>: Stroop. Isn't here.
+
+01:35:20
+<transcript>: In like a month.
+
+01:35:21
+2dorkstv: someone needs to raise the stroop signal
+
+01:35:25
+<transcript>: Miss Mark We're DevTools.
+
+01:35:27
+<transcript>: Create machines.
+
+01:35:35
+caldotjs: is cowface here at least?
+
+01:35:36
+<transcript>: Is it down here? When we use machine it's when we use machine AHA.
+
+01:35:39
+caldotjs: @cowfacedude99 yes
+
+01:35:43
+<transcript>: I.
+
+01:35:43
+<transcript>: use
+
+01:35:45
+<transcript>: Use machines.
+
+01:35:50
+<transcript>: Here we can do Dev tools. True.
+
+01:35:51
+<transcript>: We'll see.
+
+01:35:54
+<transcript>: Let's see.
+
+01:35:59
+<transcript>: Windows not defined.
+
+01:36:06
+<transcript>: This is this is the next JS thing. And this run code.
+
+01:36:06
+<transcript>: and try and
+
+01:36:10
+<transcript>: And try and run on the service. So how do you do this in next? You say like if.
+
+01:36:13
+<transcript>: Window.
+
+01:36:16
+<transcript>: I don't know. Is that the way to do it.
+
+01:36:20
+<transcript>: Is that the way you would do it.
+
+01:36:27
+<transcript>: Maybe Windows not defined. Well, I know that.
+
+01:36:27
+<transcript>: is it
+
+01:36:31
+<transcript>: Is it type of windows doesn't equal undefined or something type of.
+
+01:36:36
+<transcript>: Does unequal undefined. I don't know anyone know.
+
+01:36:42
+<transcript>: Undefined. It's just stop asking chat to answer all my questions.
+
+01:36:42
+<transcript>: just stop making you
+
+01:36:44
+<transcript>: Just stop making you all be my brain.
+
+01:36:47
+<transcript>: How it worked, it worked.
+
+01:36:47
+<transcript>: inspection
+
+01:36:52
+<transcript>: Inspection mode services from a separate processor currently be inspected, so if I click the button.
+
+01:36:52
+<transcript>: it should
+
+01:36:54
+<transcript>: It should go into.
+
+01:36:54
+<transcript>: the next
+
+01:36:58
+<transcript>: The next state did it it is get.
+
+01:37:00
+<transcript>: Okay.
+
+01:37:00
+<transcript>: events
+
+01:37:01
+<transcript>: Events.
+
+01:37:01
+<transcript>: start
+
+01:37:05
+<transcript>: Start game has a game and a Ram.
+
+01:37:06
+<transcript>: Cool.
+
+01:37:10
+<transcript>: Has that stuff now when I answer.
+
+01:37:12
+<transcript>: What is this? This is.
+
+01:37:12
+<transcript>: that probably
+
+01:37:14
+<transcript>: That probably.
+
+01:37:16
+<transcript>: What did it do.
+
+01:37:16
+<transcript>: it did a guess
+
+01:37:17
+<transcript>: It did a guess.
+
+01:37:17
+<transcript>: and
+
+01:37:19
+<transcript>: And we're back to guessing.
+
+01:37:31
+<transcript>: Except it didn't ever move off. Oh, you know what? I know what the answer is. Oh, it went to game over the 30 seconds. It works. The timer works. Alright.
+
+01:37:31
+<transcript>: alright
+
+01:37:34
+<transcript>: Alright. Cowface is here. Yes.
+
+01:37:42
+<transcript>: Some of these. Raise the Stroop signal. Yeah. What's wrong with what happened? If Stroops are here, something is wrong. Drag is here.
+
+01:37:53
+<transcript>: You know, I think there's days Stroop can't come. And I want to say I chose a couple days to stream. That might be hard for Stroop, which would be unfortunate.
+
+01:37:53
+<transcript>: i'm gonna
+
+01:37:57
+<transcript>: I'm gonna stream more, it's coming, we're gonna stream more I'm actually gonna take quick break.
+
+01:38:01
+<transcript>: It's time to stand my watch, says.
+
+01:38:06
+<transcript>: Quick break and I'll be back.
+
+01:38:09
+<transcript>: With a Lar Bar. Things like that.
+
+01:38:12
+<transcript>: Okay. Don't go anywhere. Break.
+
+01:48:59
+<transcript>: I'm back.
+
+01:48:59
+<transcript>: so
+
+01:49:04
+<transcript>: So my OBS is broken. Sorry for whatever that was during transition.
+
+01:49:12
+<transcript>: I don't care because you guys are working. What am I? What am I talking about? Let's. Let's do work.
+
+01:49:12
+<transcript>: seat
+
+01:49:14
+<transcript>: Seat Lara Bars while we work.
+
+01:49:22
+<transcript>: Okay. So we got this Inspector working. That's super cool. It's like sending all this information.
+
+01:49:22
+<transcript>: to the
+
+01:49:24
+<transcript>: To the thing.
+
+01:49:24
+<transcript>: i wish
+
+01:49:29
+<transcript>: I wish I could change. Does that work? No. Can't make it any. Okay.
+
+01:49:29
+<transcript>: well
+
+01:49:30
+<transcript>: Well.
+
+01:49:34
+<transcript>: So we've identified some things we need to fix.
+
+01:49:40
+<transcript>: One when it goes to the game overstate. This needs to change right now. We're not doing anything different.
+
+01:49:45
+<transcript>: Predictable action arguments. I need to set that to true, it says.
+
+01:50:05
+<transcript>: Where do I do that.
+
+01:50:07
+<transcript>: Unused machine.
+
+01:50:11
+<transcript>: Predictable.
+
+01:50:22
+<transcript>: Hey, this up here.
+
+01:50:24
+<transcript>: Predictable.
+
+01:50:26
+<transcript>: Sure.
+
+01:50:39
+<transcript>: The X state calls actions with the event directly responsible for the related transition.
+
+01:50:41
+<transcript>: Seems sensible.
+
+01:50:47
+<transcript>: Okay.
+
+01:50:50
+<transcript>: So this is a UI problem.
+
+01:50:52
+<transcript>: Well, it's kind of a state problem.
+
+01:50:55
+<transcript>: It's really a UI problem.
+
+01:50:58
+<transcript>: And here I'm doing things.
+
+01:50:58
+<transcript>: dumbly
+
+01:50:59
+<transcript>: Dumbly.
+
+01:51:02
+<transcript>: So when it's idle we show this.
+
+01:51:06
+<transcript>: That's fine.
+
+01:51:10
+<transcript>: But then we show the game score.
+
+01:51:16
+<transcript>: I just need to make, like separate components for.
+
+01:51:19
+<transcript>: The different States, don't I.
+
+01:51:22
+<transcript>: Think I might need to.
+
+01:51:29
+<transcript>: This is an organizational thing.
+
+01:51:29
+<transcript>: so
+
+01:51:34
+<transcript>: So contact Ram when there's a round. I'm showing this, but that's not really what I want.
+
+01:51:37
+<transcript>: When the.
+
+01:51:40
+<transcript>: Context matches.
+
+01:51:47
+<transcript>: Currently matches.
+
+01:51:51
+<transcript>: Current Matches guessing.
+
+01:51:54
+<transcript>: So now they're saying.
+
+01:51:54
+<transcript>: round might not
+
+01:51:58
+<transcript>: Round might not be well, we'll keep the cut. So we'll say.
+
+01:52:03
+<transcript>: And I'm text around.
+
+01:52:06
+<transcript>: Sure that there's a round. That's fine.
+
+01:52:09
+<transcript>: But we want to show this when guessing.
+
+01:52:18
+<transcript>: Well, I guess I guess want to show it what are our States? We have guessing.
+
+01:52:20
+<transcript>: We have.
+
+01:52:24
+<transcript>: Technical answer is different.
+
+01:52:29
+<transcript>: Showing answer is different still.
+
+01:52:32
+<transcript>: Okay.
+
+01:52:40
+<transcript>: So it's really when it matches active that we want to show this, and then we want to change? Yeah, Yeah.
+
+01:52:44
+<transcript>: So.
+
+01:52:47
+<transcript>: Active. We show this thing.
+
+01:52:50
+<transcript>: When.
+
+01:53:02
+<transcript>: Chosen.
+
+01:53:07
+<transcript>: Oh, what do I do.
+
+01:53:12
+<transcript>: What do I do? I suspended it. I don't even know what I hit.
+
+01:53:18
+<transcript>: What's did I hit.
+
+01:53:31
+<transcript>: How do you do it? How do you do? I just want to get back into that one.
+
+01:53:31
+<transcript>: t mo
+
+01:53:32
+daglee: type fg
+
+01:53:33
+<transcript>: T? Mox.
+
+01:53:35
+<transcript>: Attach.
+
+01:53:40
+<transcript>: So, Team X a. There we go.
+
+01:53:45
+<transcript>: I'm already in too much.
+
+01:53:49
+<transcript>: I'm already in Tbox Yeah.
+
+01:53:52
+<transcript>: How did I suspend in them.
+
+01:53:59
+daglee: type fg!!!
+
+01:54:04
+<transcript>: What was it doing.
+
+01:54:04
+<transcript>: i lost all
+
+01:54:07
+<transcript>: I lost all? Oh, yeah? Here we go.
+
+01:54:07
+<transcript>: so
+
+01:54:09
+<transcript>: So Current Dot matches.
+
+01:54:17
+<transcript>: And then down here.
+
+01:54:24
+<transcript>: It's it's the button States that change based on showing answer or things like that right.
+
+01:54:28
+<transcript>: So here context that result is undefined.
+
+01:54:31
+<transcript>: That should actually be.
+
+01:54:38
+<transcript>: One of my trying to do here. Oh, this is so ugly. How many node turnaries is this.
+
+01:54:45
+<transcript>: So context result.
+
+01:54:45
+<transcript>: what
+
+01:54:48
+<transcript>: What is this one? Oh, here's what I started to do.
+
+01:54:55
+<transcript>: Type FG. What was it, Dagly? What did I do.
+
+01:54:57
+<transcript>: Fg.
+
+01:54:59
+<transcript>: What did I do.
+
+01:54:59
+<transcript>: oh that's
+
+01:54:59
+daglee: You pressed ctrl-z, then it minimizes the program into background. fg brings the program to the foreground.
+
+01:55:03
+<transcript>: Oh, that's how it could have gotten back? Are you saying I could have gotten Macli.
+
+01:55:03
+<transcript>: that minimize
+
+01:55:09
+<transcript>: That minimize the program in the background, FG brings a program to the foreground shoot.
+
+01:55:09
+<transcript>: there you go
+
+01:55:11
+<transcript>: There you go? So I hit control Z.
+
+01:55:13
+<transcript>: And if I hit FG.
+
+01:55:16
+<transcript>: Ah, I see.
+
+01:55:16
+<transcript>: i see
+
+01:55:20
+<transcript>: I see. So now haven't been running twice. Maybe.
+
+01:55:29
+<transcript>: Well, it's too bad I didn't see that in time. Thank you for the heads up. Thank you for the tip.
+
+01:55:31
+<transcript>: It's not a choice.
+
+01:55:35
+<transcript>: Where are we using chosen.
+
+01:55:39
+<transcript>: Okay. So the button has a chosen.
+
+01:55:44
+<transcript>: What we're really getting out there is.
+
+01:55:44
+<transcript>: we
+
+01:55:45
+<transcript>: We show.
+
+01:55:53
+<transcript>: I don't like the button having a chosen state.
+
+01:56:00
+<transcript>: Or a chosen prop that feels weird. So what we really mean is if there's not a choice.
+
+01:56:00
+<transcript>: and
+
+01:56:06
+<transcript>: And the name is equal to the choice. So what we mean is when it's stated, is guessing.
+
+01:56:08
+<transcript>: So.
+
+01:56:12
+<transcript>: Like this? We're gonna say.
+
+01:56:12
+<transcript>: current
+
+01:56:13
+<transcript>: Current.
+
+01:56:15
+<transcript>: Matches.
+
+01:56:15
+<transcript>: guessing
+
+01:56:16
+<transcript>: Guessing.
+
+01:56:19
+<transcript>: That's what we really mean.
+
+01:56:24
+<transcript>: So if we're guessing in the name equals.
+
+01:56:27
+<transcript>: Or no if we're not guessing.
+
+01:56:35
+<transcript>: For not guesting.
+
+01:56:45
+<transcript>: And then state here context result equals undefined. This should actually be.
+
+01:56:49
+<transcript>: What.
+
+01:56:53
+<transcript>: If the.
+
+01:56:57
+<transcript>: Current Dot matches.
+
+01:56:59
+<transcript>: Guessing. So if we're guessing.
+
+01:56:59
+<transcript>: we
+
+01:57:01
+<transcript>: We return undefined.
+
+01:57:06
+<transcript>: Else if the answer is equal to the choice.
+
+01:57:06
+<transcript>: it's success
+
+01:57:08
+<transcript>: It's success, elf error.
+
+01:57:09
+<transcript>: That right.
+
+01:57:14
+<transcript>: We're gonna find out.
+
+01:57:14
+<transcript>: but then
+
+01:57:16
+<transcript>: But then there's more, I think.
+
+01:57:16
+<transcript>: so here
+
+01:57:17
+<transcript>: So here.
+
+01:57:17
+<transcript>: chosen
+
+01:57:20
+<transcript>: Chosen? Oh, no, that might be it.
+
+01:57:33
+<transcript>: I shouldn't be doing that. Shouldn't be basing things on result being undefined. I should be basing it on States so the buttons are disabled if the mutation is Loading or.
+
+01:57:35
+<transcript>: If.
+
+01:57:37
+<transcript>: No, no.
+
+01:57:38
+<transcript>: Or.
+
+01:57:38
+<transcript>: if
+
+01:57:40
+<transcript>: If.
+
+01:57:47
+<transcript>: I want to do like, there we go.
+
+01:57:50
+<transcript>: For Current matches.
+
+01:57:53
+<transcript>: We disable while we're.
+
+01:57:53
+<transcript>: what
+
+01:57:54
+<transcript>: What is it? Guessing.
+
+01:57:59
+<transcript>: It's like the thing. It's like checking answers, something.
+
+01:58:08
+<transcript>: Checking.
+
+01:58:08
+<transcript>: checking
+
+01:58:11
+<transcript>: Checking answer Yeah.
+
+01:58:11
+<transcript>: need some
+
+01:58:13
+<transcript>: Need some TypeScript on that.
+
+01:58:13
+<transcript>: or
+
+01:58:15
+<transcript>: Or.
+
+01:58:15
+<transcript>: current dot
+
+01:58:20
+<transcript>: Current dot matches showing Answer it should also be disabled when we're showing it right.
+
+01:58:34
+<transcript>: There current matches.
+
+01:58:38
+<transcript>: Sure about that.
+
+01:58:44
+<transcript>: Oh, I just realized. My wrists. I'm killing my wrist.
+
+01:58:51
+<transcript>: There we go. That's better.
+
+01:58:51
+<transcript>: oof
+
+01:58:52
+<transcript>: Oof.
+
+01:58:56
+<transcript>: Operating matches does not exist.
+
+01:58:59
+<transcript>: On type never.
+
+01:59:10
+<transcript>: Turn.
+
+01:59:24
+<transcript>: Oh, isn't that showing answer? Maybe it's not showing answer. Is there actually some TypeScript here.
+
+01:59:27
+<transcript>: It is it's showing answer.
+
+01:59:29
+<transcript>: I don't Know. Australia.
+
+01:59:29
+<transcript>: content
+
+01:59:33
+<transcript>: Content current dot matches is definitely a thing.
+
+01:59:43
+<transcript>: Current is never.
+
+01:59:45
+<transcript>: Wait. What.
+
+01:59:53
+<transcript>: Do you see that there it goes there. And then here.
+
+01:59:57
+<transcript>: Also goes There, there's something wrong with the TypeScript here.
+
+01:59:58
+johnmccants: thats weird
+
+02:00:00
+<transcript>: But I know that's correct.
+
+02:00:00
+<transcript>: so
+
+02:00:03
+<transcript>: So okay.
+
+02:00:06
+<transcript>: Let's just check for that result.
+
+02:00:21
+<transcript>: There was a choice or a result.
+
+02:00:21
+<transcript>: checkch
+
+02:00:22
+<transcript>: Checkchoice.
+
+02:00:28
+<transcript>: If contact Round choice.
+
+02:00:28
+daglee: you can do ":lua vim.diagnostic.open_float()" to show the full error message.
+
+02:00:31
+<transcript>: Okay.
+
+02:00:33
+<transcript>: Think I think we did it.
+
+02:00:36
+<transcript>: Isn't that weird.
+
+02:00:36
+<transcript>: thanks welcome
+
+02:00:39
+<transcript>: Thanks. Welcome to Chat. John. I think that's weird, too.
+
+02:00:45
+<transcript>: You can do Lua vim diagnostic open float to show the full error message. Oh, thank you dagly.
+
+02:00:45
+<transcript>: i
+
+02:00:48
+<transcript>: I thought I was seeing the full error message, but maybe I'm.
+
+02:00:48
+<transcript>: okay
+
+02:01:00
+<transcript>: Okay, well, we gotta do something fast. Workspaces. Nope. Wrong. Correct. Oh. Okay. So there's another state there that we didn't handle the right thing, but it's not transitioning into the next.
+
+02:01:04
+<transcript>: It's not transitioning into the next one, is it.
+
+02:01:11
+<transcript>: So we just did guess.
+
+02:01:14
+cowfacedude99: you would have it on K I think.
+
+02:01:14
+<transcript>: I cannot make that bigger.
+
+02:01:23
+<transcript>: So start getting.
+
+02:01:24
+<transcript>: What.
+
+02:01:24
+<transcript>: what
+
+02:01:26
+<transcript>: What.
+
+02:01:28
+<transcript>: Happened let's start over.
+
+02:01:28
+<transcript>: okay
+
+02:01:31
+<transcript>: Okay, we're at start game.
+
+02:01:31
+<transcript>: we're gonna
+
+02:01:35
+<transcript>: We're gonna hit new game and it's gonna go into.
+
+02:01:37
+<transcript>: This.
+
+02:01:37
+<transcript>: guess
+
+02:01:38
+<transcript>: Guess.
+
+02:01:38
+<transcript>: we click
+
+02:01:40
+<transcript>: We click a guess.
+
+02:01:43
+<transcript>: It comes back.
+
+02:01:51
+<transcript>: And I guess we got it wrong, so it takes 5 seconds off, so it's gonna expire really quick. Is that it? Oh, but it's not showing us the next one. That's the problem.
+
+02:02:00
+<transcript>: Okay, why are we not showing the next or maybe we're not even getting another. Oh, we're not even. I didn't build that into the logic anywhere. We're not getting another round.
+
+02:02:03
+<transcript>: Okay.
+
+02:02:11
+<transcript>: Yeah, I've got shift cage I think is my open float.
+
+02:02:13
+<transcript>: That's right.
+
+02:02:16
+<transcript>: Okay.
+
+02:02:20
+<transcript>: Interesting. So I just there's a flaw here.
+
+02:02:23
+<transcript>: In our State machine.
+
+02:02:23
+<transcript>: where
+
+02:02:24
+<transcript>: Where.
+
+02:02:26
+<transcript>: We go from guessing.
+
+02:02:31
+<transcript>: On Guests. We check answer.
+
+02:02:37
+<transcript>: Not assigns the choice.
+
+02:02:41
+<transcript>: Quick Answer invokes the Answer service.
+
+02:02:46
+<transcript>: On done. We need to do two things undone.
+
+02:02:46
+<transcript>: we
+
+02:02:52
+<transcript>: We need to do this. Which we're doing, showing the answer.
+
+02:02:52
+<transcript>: but we
+
+02:02:55
+<transcript>: But we also need to.
+
+02:02:55
+<transcript>: fetch
+
+02:02:58
+<transcript>: Fetch a new get a new round right.
+
+02:03:04
+<transcript>: How do I want to do that? Do I want to do it on the checking answer.
+
+02:03:04
+<transcript>: or no it
+
+02:03:10
+<transcript>: Or no, it already. It already gets us a new round. It hands us one yeah, Yeah.
+
+02:03:13
+<transcript>: It hands us one so.
+
+02:03:18
+<transcript>: Assign result. We're assigning the result.
+
+02:03:21
+<transcript>: But we also need to assign.
+
+02:03:25
+<transcript>: Round.
+
+02:03:28
+<transcript>: Two.
+
+02:03:30
+<transcript>: What.
+
+02:03:30
+<transcript>: dot
+
+02:03:32
+<transcript>: Dot round.
+
+02:03:34
+<transcript>: That works.
+
+02:03:47
+<transcript>: This is the Create round.
+
+02:03:49
+<transcript>: A mutation answer? Here we go.
+
+02:03:58
+<transcript>: What is it? Return correct answer. Expired game. Oh, it doesn't. It doesn't create a new round, does it.
+
+02:04:03
+<transcript>: Maybe not. No. We need to exposely. Fetch a new round. No, wait. What.
+
+02:04:05
+<transcript>: Doesn't it, though.
+
+02:04:13
+<transcript>: We only create a new round on so I guess in the previous.
+
+02:04:20
+<transcript>: Approach. I was actually calling it again, I guess. Okay.
+
+02:04:22
+<transcript>: We'll do that, then.
+
+02:04:24
+<transcript>: We need to.
+
+02:04:26
+<transcript>: Let's see.
+
+02:04:30
+<transcript>: How do we gonna do this.
+
+02:04:37
+<transcript>: How do we want to do this.
+
+02:04:39
+<transcript>: Thank you for the follow. John.
+
+02:04:42
+<transcript>: I didn't see that early. I don't think.
+
+02:04:47
+<transcript>: So do we want to do it in this answer service.
+
+02:04:55
+<transcript>: Or do we want to do it? I guess it depends on the answer. If the answer comes back and I haven't been expired already, we should get a new round.
+
+02:05:02
+<transcript>: Right.
+
+02:05:21
+<transcript>: And then we should clear the choice.
+
+02:05:26
+<transcript>: We go into yeah, here.
+
+02:05:28
+<transcript>: No.
+
+02:05:33
+<transcript>: non interact
+
+02:05:33
+<transcript>: non interaction
+
+02:05:35
+<transcript>: Non interaction.
+
+02:05:39
+<transcript>: Can you do that again.
+
+02:06:01
+<transcript>: Here's an interaction.
+
+02:06:06
+<transcript>: So guessing.
+
+02:06:10
+<transcript>: Entry.
+
+02:06:14
+<transcript>: I want to do an assign.
+
+02:06:14
+<transcript>: can i do that
+
+02:06:15
+<transcript>: Can I do that.
+
+02:06:23
+<transcript>: Can I do.
+
+02:06:29
+<transcript>: A sign.
+
+02:06:43
+<transcript>: Let's see.
+
+02:06:45
+<transcript>: Action.
+
+02:06:45
+<transcript>: send
+
+02:06:46
+<transcript>: Send.
+
+02:06:54
+<transcript>: I guess I can just do a sign like I do everything. All the other signs, right.
+
+02:06:59
+<transcript>: Oh.
+
+02:06:59
+<transcript>: fine
+
+02:07:00
+<transcript>: Fine.
+
+02:07:03
+<transcript>: I just want to just say.
+
+02:07:03
+<transcript>: the
+
+02:07:05
+<transcript>: The choice to undefined.
+
+02:07:09
+<transcript>: When you when you enter into guessing.
+
+02:07:15
+<transcript>: We say the choices undefined, right.
+
+02:07:21
+<transcript>: And I guess the result too.
+
+02:07:25
+<transcript>: Yeah, yeah? This is making sense.
+
+02:07:32
+<transcript>: Okay, but here, we need to set the round. We need to get a new round. Right.
+
+02:07:36
+<transcript>: So I think we just need to do that in our answer service.
+
+02:07:47
+<transcript>: We did the answer. Mutation. Right.
+
+02:07:51
+<transcript>: Like what I did here.
+
+02:07:58
+<transcript>: 's what we're gonna do.
+
+02:08:04
+<transcript>: Here's what we're gonna do.
+
+02:08:10
+<transcript>: Can I do that? Return, reject.
+
+02:08:16
+<transcript>: Is that what I want to do? I want to reject the.
+
+02:08:19
+<transcript>: I don't think that's right.
+
+02:08:34
+<transcript>: I want to do.
+
+02:08:35
+turklerburada: reject the humanity
+
+02:08:37
+<transcript>: Reject and then return.
+
+02:08:42
+<transcript>: There's no round. Now we can get rid of this.
+
+02:08:47
+<transcript>: Okay. So we get a response.
+
+02:08:47
+<transcript>: if
+
+02:08:48
+<transcript>: If.
+
+02:08:53
+<transcript>: Response expired.
+
+02:08:57
+<transcript>: I guess if not.
+
+02:09:03
+<transcript>: Response thought expired.
+
+02:09:07
+<transcript>: We need to get.
+
+02:09:07
+<transcript>: new
+
+02:09:10
+<transcript>: New Round Right await.
+
+02:09:13
+<transcript>: New round.
+
+02:09:16
+<transcript>: New round mutation mutate.
+
+02:09:16
+<transcript>: asyn
+
+02:09:18
+<transcript>: Async.
+
+02:09:18
+<transcript>: what i
+
+02:09:21
+<transcript>: What I need to pass to this.
+
+02:09:23
+<transcript>: Game ID.
+
+02:09:27
+<transcript>: Where's the Game ID? Contact.
+
+02:09:30
+<transcript>: Game ID.
+
+02:09:36
+<transcript>: That's gonna That's gonna have a game, right.
+
+02:09:36
+<transcript>: oh i guess
+
+02:09:41
+<transcript>: Oh, I guess it's on the round. I don't even need to it's on the current round.
+
+02:09:51
+<transcript>: Right. Yeah. Okay. So we get a new round, and then we say.
+
+02:09:54
+<transcript>: Do we emit an event.
+
+02:09:54
+<transcript>: how do we
+
+02:09:56
+<transcript>: How do we how do we want to.
+
+02:10:05
+<transcript>: Add it to the response payload, but then the shape is gonna change.
+
+02:10:30
+<transcript>: Something like that.
+
+02:10:34
+<transcript>: Like that.
+
+02:10:41
+<transcript>: Reject the humanity.
+
+02:10:43
+<transcript>: What.
+
+02:10:46
+<transcript>: Oh, what I'm doing with reject.
+
+02:10:51
+<transcript>: Oh, yeah? I'm resolving in there. I'm rejecting here.
+
+02:11:00
+<transcript>: Say no current round.
+
+02:11:11
+<transcript>: So if we haven't expired.
+
+02:11:16
+<transcript>: A new round.
+
+02:11:20
+<transcript>: Let's go back.
+
+02:11:26
+turklerburada: dont you know the reject the humanity return to monke meme
+
+02:11:26
+<transcript>: Here.
+
+02:11:30
+<transcript>: So the round is event data round.
+
+02:11:36
+<transcript>: I guess there's no TypeScript anyway on this so whatever.
+
+02:11:41
+<transcript>: I think there's something gonna be wrong with our types up here, right.
+
+02:11:43
+<transcript>: Maybe not.
+
+02:11:51
+<transcript>: There's nothing we're defining. We're not defining the Schema for those. I should do that. But we're not right now.
+
+02:11:51
+<transcript>: okay
+
+02:11:55
+<transcript>: Okay. Now I think we should have a new round after 2 seconds.
+
+02:12:00
+<transcript>: Oh.
+
+02:12:04
+<transcript>: I shouldn't do that until after.
+
+02:12:17
+<transcript>: Well, that's not good.
+
+02:12:17
+<transcript>: it's
+
+02:12:19
+<transcript>: It's occurring to me that.
+
+02:12:28
+<transcript>: Once around here I'm I can't change the round yet.
+
+02:12:28
+<transcript>: right
+
+02:12:29
+<transcript>: Right.
+
+02:12:40
+<transcript>: If I change the round, we're gonna show the answer correctly.
+
+02:12:43
+<transcript>: I don't think so.
+
+02:12:49
+<transcript>: Maybe we will. Let's see if we do. Let's see. I'm not sure if we show anything from the round at that point.
+
+02:12:59
+<transcript>: Don't you know the reject? The humanity returned to Monk meme. I don't. Oh, man, I'm so uncultured. I'm so sorry.
+
+02:12:59
+<transcript>: this is
+
+02:13:06
+<transcript>: This is awkward. I don't know. I don't understand that reference. I wish I did. I could Google it. We'll Google it. Let me just see if this works.
+
+02:13:13
+<transcript>: Site to site VPN now wrong. Okay, it gave us a new one. It didn't wait 2 seconds. Think that's the problem right now.
+
+02:13:17
+<transcript>: I think that's the problem.
+
+02:13:17
+<transcript>: that's
+
+02:13:20
+<transcript>: That's Pinpoint APIs, right? No, it wasn't.
+
+02:13:24
+<transcript>: There's problems.
+
+02:13:24
+<transcript>: there are real
+
+02:13:27
+<transcript>: There are real problems here.
+
+02:13:30
+<transcript>: One of the problems is.
+
+02:13:32
+<transcript>: That was a lot of problems.
+
+02:13:38
+<transcript>: Okay.
+
+02:13:46
+<transcript>: I really want this UI to be different. I want this to be smaller or to be able to collapse it more.
+
+02:13:54
+<transcript>: Okay, there's our okay, we're in the idle state. Great. We have new game.
+
+02:13:57
+<transcript>: Now we're in the guessing.
+
+02:14:07
+<transcript>: We guess wrong. It goes straight into okay. So I was showing in answer. I just can't I can't update the round that quickly. Right.
+
+02:14:11
+<transcript>: I think that's the problem.
+
+02:14:14
+<transcript>: Okay. Well.
+
+02:14:17
+<transcript>: So we don't want to actually set the round until here.
+
+02:14:20
+<transcript>: Oh, yeah. I was gonna go Google, this, this meme.
+
+02:14:26
+<transcript>: Reject the humanity return to Monk.
+
+02:14:29
+<transcript>: Team.
+
+02:14:36
+<transcript>: I've never seen have I never seen this.
+
+02:14:40
+<transcript>: How have I never seen this.
+
+02:14:46
+<transcript>: I never heard of it. Turkler.
+
+02:14:50
+<transcript>: I apologize for my unculturedness.
+
+02:14:52
+<transcript>: Okay.
+
+02:14:52
+<transcript>: so
+
+02:15:01
+turklerburada: yeah no problem LUL
+
+02:15:03
+<transcript>: So it expired, and it went to some weird. What state is it in right now? Game over state. We haven't actually made a game over state yet. I should just make components. We're gonna do that. We're gonna have components for each of the.
+
+02:15:07
+<transcript>: Each of the States like game over.
+
+02:15:13
+<transcript>: Okay.
+
+02:15:20
+<transcript>: So now instead of here getting a new round, we need to get a new round.
+
+02:15:24
+<transcript>: Down here on showing answer so we can do an entry action.
+
+02:15:24
+<transcript>: can we go
+
+02:15:32
+<transcript>: Can we go? Can we do invoke on entry? We're learning all kinds X state stuff. Feels good. I'm enjoying it.
+
+02:15:32
+<transcript>: invoking services
+
+02:15:33
+<transcript>: Invoking services.
+
+02:15:42
+<transcript>: Invoke.
+
+02:15:57
+<transcript>: So where can we invoke.
+
+02:16:03
+<transcript>: Here. We invoke just right when you enter this state.
+
+02:16:05
+<transcript>: Undone.
+
+02:16:12
+<transcript>: So I guess what we could do instead of having a two second delay in going to guessing we could invoke our thing.
+
+02:16:15
+<transcript>: And then on done.
+
+02:16:15
+<transcript>: we
+
+02:16:17
+<transcript>: We could.
+
+02:16:27
+<transcript>: I just want to make sure it's consistent. Like between each round is a consistent amount of time. And it's not just depending on how long a mutation took, because that feels unfair.
+
+02:16:27
+<transcript>: so
+
+02:16:30
+<transcript>: So we could we could.
+
+02:16:36
+<transcript>: Keep track of how long. Okay, so we just make sure that promise always returns after exactly 2 seconds.
+
+02:16:41
+<transcript>: Or longer if we take longer, I guess but.
+
+02:16:44
+<transcript>: We can do that, right.
+
+02:16:50
+<transcript>: We could do that.
+
+02:16:56
+<transcript>: Okay. So here this is gonna look like this guy.
+
+02:16:59
+<transcript>: Let's just.
+
+02:16:59
+<transcript>: yank
+
+02:17:01
+<transcript>: Yank inside of that.
+
+02:17:04
+<transcript>: And then.
+
+02:17:08
+<transcript>: Paste it. So now our target is going to be.
+
+02:17:11
+<transcript>: Guessing.
+
+02:17:11
+<transcript>: oh
+
+02:17:13
+<transcript>: Oh.
+
+02:17:21
+<transcript>: Guessing.
+
+02:17:26
+<transcript>: The source. This is going to be the.
+
+02:17:30
+<transcript>: New round.
+
+02:17:34
+<transcript>: Next we'll call it next.
+
+02:17:42
+<transcript>: I'm done. We go to guessing and we assign the round, which is gonna just be.
+
+02:17:46
+<transcript>: At event data. Okay.
+
+02:17:57
+<transcript>: We no longer have this. This stuff. There's no longer a time transition. I'm showing answer. We go ahead and get the next answer, but we delay.
+
+02:18:01
+<transcript>: Resolving that promise.
+
+02:18:04
+<transcript>: Excuse me. Right.
+
+02:18:04
+<transcript>: we're just gonna
+
+02:18:07
+<transcript>: We're just gonna delay. So we're looking for services.
+
+02:18:13
+<transcript>: Here's the answer service. It no longer is going to fetch.
+
+02:18:15
+<transcript>: This stuff.
+
+02:18:22
+<transcript>: No longer doing that.
+
+02:18:30
+<transcript>: Out instead of just having answer we're gonna also have.
+
+02:18:34
+<transcript>: What was it next.
+
+02:18:41
+<transcript>: Look like context.
+
+02:18:46
+<transcript>: Okay.
+
+02:18:52
+<transcript>: Did I do this wrong.
+
+02:18:54
+<transcript>: Let's answer. And then next.
+
+02:18:58
+<transcript>: Oh, did I just contact? Okay.
+
+02:19:03
+<transcript>: There we go so we're gonna return new promise.
+
+02:19:05
+<transcript>: Async.
+
+02:19:05
+<transcript>: resolve
+
+02:19:07
+<transcript>: Resolve, reject.
+
+02:19:17
+<transcript>: What do we do? We we're gonna just yank all this.
+
+02:19:30
+<transcript>: Okay.
+
+02:19:34
+<transcript>: So here it's not expired.
+
+02:19:34
+<transcript>: that's gonna be
+
+02:19:37
+<transcript>: That's gonna be if not.
+
+02:19:37
+<transcript>: current
+
+02:19:38
+<transcript>: Current.
+
+02:19:40
+<transcript>: Context.
+
+02:19:45
+<transcript>: Game expired. No. No result.
+
+02:19:51
+<transcript>: So if it's not expired.
+
+02:19:53
+<transcript>: You do that.
+
+02:19:53
+<transcript>: otherwise
+
+02:19:54
+<transcript>: Otherwise.
+
+02:19:54
+<transcript>: if it's
+
+02:19:57
+<transcript>: If it's expired.
+
+02:20:00
+<transcript>: Well, let's think about it.
+
+02:20:06
+<transcript>: There's a state machine handling this for us because if it goes to expired, it's going to transition to game over.
+
+02:20:06
+<transcript>: the
+
+02:20:09
+<transcript>: The moment it goes to expire, it's going to transition to game over.
+
+02:20:17
+<transcript>: If the response back from the server though, said it was expired and for some reason we haven't gone expired. I guess we should do something.
+
+02:20:27
+<transcript>: Shall we transition here.
+
+02:20:30
+<transcript>: Okay.
+
+02:20:34
+<transcript>: Context around.
+
+02:20:39
+<transcript>: What's the What's the thing here? New round.
+
+02:20:47
+<transcript>: What's wrong with this.
+
+02:20:50
+<transcript>: New round mutation.
+
+02:20:56
+<transcript>: Type string or undefined? Oh, I can't, that can't be undefined, yeah, Yeah.
+
+02:20:56
+<transcript>: okay
+
+02:20:59
+<transcript>: Okay. So let's just say if.
+
+02:21:02
+<transcript>: Not.
+
+02:21:02
+<transcript>: context
+
+02:21:04
+<transcript>: Context round.
+
+02:21:09
+<transcript>: Then we want to reject.
+
+02:21:09
+<transcript>: no
+
+02:21:11
+<transcript>: No current ground.
+
+02:21:15
+<transcript>: And then we return. Okay.
+
+02:21:18
+<transcript>: Oops.
+
+02:21:26
+<transcript>: I'm just gonna get rid of this old conditional. I don't I don't like it.
+
+02:21:26
+<transcript>: i don't like any of it
+
+02:21:27
+<transcript>: I don't like any of it.
+
+02:21:34
+<transcript>: Okay. And then we're gonna resolve just the round.
+
+02:21:36
+<transcript>: Right.
+
+02:21:36
+<transcript>: okay
+
+02:21:38
+<transcript>: Okay.
+
+02:21:43
+<transcript>: So that all feels pretty good. Thanks for the follow.
+
+02:21:43
+<transcript>: legged
+
+02:21:45
+<transcript>: Legged.
+
+02:21:46
+<transcript>: Well, jagged.
+
+02:21:57
+<transcript>: We've reached the point of the stream, where nobody talks. Because everybody's busy. You're all just busy working.
+
+02:21:58
+<transcript>: I'm working.
+
+02:22:03
+<transcript>: You're probably not talking out loud while you work. I am.
+
+02:22:03
+<transcript>: that's okay
+
+02:22:06
+<transcript>: That's okay. It's me. Brooks. Think of his follow.
+
+02:22:11
+<transcript>: Okay. So this is it. This is the new.
+
+02:22:15
+<transcript>: Round we don't get next.
+
+02:22:24
+2dorkstv: I feel like I would be a better dev if I talked out loud while I worked :D
+
+02:22:27
+2dorkstv: rubber duck myself
+
+02:22:31
+<transcript>: And then we get a new round, and we resolve it. Oh, but, oh, right, right. We wanted to make sure this is only resolved after 2 seconds. So we're gonna have a minimum of a two second delay here.
+
+02:22:36
+<transcript>: I feel like I would be a better Dev if I talked out loud while I worked. Robert, Duck yourself. Exactly.
+
+02:22:43
+<transcript>: I'm definitely a better Dev when Chad is here with me because you guys have lots of answers to questions I have.
+
+02:22:49
+<transcript>: Okay.
+
+02:22:57
+tayloreddev: I have an actual rubber duck on my desk, it helps LUL
+
+02:22:59
+<transcript>: So here's what I want to do. I want to set a timeout. Let's just get naive. Here. Comps handle equals set timeout.
+
+02:23:00
+<transcript>: Okay.
+
+02:23:05
+<transcript>: Let's just say let's just say we had this time out.
+
+02:23:09
+<transcript>: What would we want to do here? We would want to.
+
+02:23:13
+<transcript>: Resolve. But the problem is.
+
+02:23:17
+<transcript>: Let's see.
+
+02:23:23
+<transcript>: Problem is we don't just want to like we want to start.
+
+02:23:28
+<transcript>: We want to start the mutation.
+
+02:23:34
+2dorkstv: I bet it does. Problems sound different when you say them out loud
+
+02:23:37
+<transcript>: Okay. Here's what we do. We just say.
+
+02:23:37
+<transcript>: can't start
+
+02:23:41
+<transcript>: Can't start equals date dot now right.
+
+02:23:44
+<transcript>: And then.
+
+02:23:50
+<transcript>: Down here after we do this. Yeah, Yeah.
+
+02:23:56
+<transcript>: After this.
+
+02:24:04
+<transcript>: Then we say If If now.
+
+02:24:06
+<transcript>: If.
+
+02:24:08
+<transcript>: State dot now.
+
+02:24:13
+<transcript>: We just go ahead and subtract so elapse elapse.
+
+02:24:13
+<transcript>: equals
+
+02:24:17
+<transcript>: Equals State now minus start.
+
+02:24:17
+<transcript>: that's our
+
+02:24:22
+<transcript>: That's our number of milliseconds to the lapse, right? Okay. We don't want to resolve yet.
+
+02:24:27
+<transcript>: So that's how much time is the laps in milliseconds.
+
+02:24:27
+<transcript>: and we want to
+
+02:24:31
+<transcript>: And we want to say Set a timeout for the remainder.
+
+02:24:31
+cowfacedude99: Are you a fan of autosave? @adamdotdev
+
+02:24:35
+<transcript>: So minimum.
+
+02:24:38
+<transcript>: Blay.
+
+02:24:39
+<transcript>: 2000.
+
+02:24:42
+<transcript>: Right and then can't run.
+
+02:24:46
+<transcript>: Minimum delay Oops.
+
+02:24:52
+<transcript>: Min and mum delay minus elapsed.
+
+02:24:53
+cowfacedude99: I found a plugin and been using it for a few weeks. might thought you would like it.
+
+02:24:57
+<transcript>: We say if if remaining is greater than zero.
+
+02:24:57
+<transcript>: we're gonna
+
+02:25:02
+<transcript>: We're gonna do the set timeout thing else.
+
+02:25:04
+<transcript>: Just resolve.
+
+02:25:08
+<transcript>: Okay.
+
+02:25:13
+<transcript>: Yeah.
+
+02:25:21
+<transcript>: This won't be this. This will be remaining.
+
+02:25:21
+<transcript>: okay
+
+02:25:22
+<transcript>: Okay.
+
+02:25:27
+<transcript>: And then clear time out. Wait. I don't need a clear time out.
+
+02:25:27
+<transcript>: i don't need i don't need that
+
+02:25:28
+<transcript>: I don't need I don't need that.
+
+02:25:31
+<transcript>: Right.
+
+02:25:34
+<transcript>: Cool.
+
+02:25:43
+<transcript>: I don't know why I.
+
+02:25:57
+<transcript>: Think that's good if remaining is greater than zero so if it hasn't been 2 seconds.
+
+02:26:02
+<transcript>: Then we sleep. We set a time out to call resolve.
+
+02:26:06
+<transcript>: After the remaining after what's left.
+
+02:26:06
+<transcript>: yeah
+
+02:26:07
+<transcript>: Yeah.
+
+02:26:13
+<transcript>: Cool. Okay, let's do it.
+
+02:26:13
+<transcript>: are you a
+
+02:26:15
+<transcript>: Are you a fan of Auto save.
+
+02:26:15
+<transcript>: yeah
+
+02:26:20
+<transcript>: Yeah. Calface. Yeah. Can I get auto saved in my new of him? I would love that. Actually.
+
+02:26:24
+<transcript>: Have an actual rubber duck on my desk.
+
+02:26:29
+<transcript>: Wow, my kids are taking the roof off.
+
+02:26:38
+<transcript>: Problems. I'm different when you say them out loud. I found a plugin and been using it for a few weeks. My thought you would like it. I would love it. Neoven motto save.
+
+02:26:38
+<transcript>: feels good
+
+02:26:39
+<transcript>: Feels good.
+
+02:26:39
+<transcript>: is it like
+
+02:26:43
+<transcript>: Is it like when you leave the page it's auto saves because I want to.
+
+02:26:47
+<transcript>: Leave the buffer. Sorry.
+
+02:26:53
+<transcript>: I would love that.
+
+02:26:56
+<transcript>: That would be the best actually.
+
+02:27:00
+<transcript>: I used to use all the saving vs code.
+
+02:27:04
+cowfacedude99: github:Pocco81/auto-save.nvim
+
+02:27:10
+<transcript>: Auto saved envy.
+
+02:27:15
+<transcript>: Any configuration I should be aware of.
+
+02:27:17
+<transcript>: Just look at it.
+
+02:27:26
+<transcript>: Oh, repository. Moved. Is this it? Wait.
+
+02:27:28
+<transcript>: Yeah. Okay.
+
+02:27:33
+<transcript>: Automatically saver changes to the world as it collapse.
+
+02:27:37
+<transcript>: Conditionals assert whether to say or not. Execution message.
+
+02:27:37
+<transcript>: deep
+
+02:27:40
+<transcript>: Deep bounce save with a delay multiple comma.
+
+02:27:40
+<transcript>: message area
+
+02:27:45
+<transcript>: Message area. Okay, I like it. Let's do it. Packer.
+
+02:27:48
+<transcript>: Config.
+
+02:27:57
+<transcript>: A lot of say that's a good idea.
+
+02:28:01
+<transcript>: Besides running honestly a startup, you also.
+
+02:28:03
+<transcript>: Okay.
+
+02:28:03
+<transcript>: so i
+
+02:28:05
+<transcript>: So I can just.
+
+02:28:08
+<transcript>: If I do this.
+
+02:28:11
+<transcript>: Let's do.
+
+02:28:16
+<transcript>: I've told how to how to detach.
+
+02:28:16
+<transcript>: how
+
+02:28:18
+<transcript>: How do I detach.
+
+02:28:21
+<transcript>: My team up session.
+
+02:28:21
+<transcript>: oh geez
+
+02:28:24
+<transcript>: Oh, Geez, I'm terrible.
+
+02:28:27
+<transcript>: Timox Detach session.
+
+02:28:32
+cowfacedude99: prefix d
+
+02:28:35
+<transcript>: Detached makes sense tmux a.
+
+02:28:40
+<transcript>: Let's just open in them here.
+
+02:28:40
+cowfacedude99: look at the chat first LUL
+
+02:28:46
+<transcript>: No, I want to make a new one.
+
+02:28:49
+<transcript>: And we're gonna call this.
+
+02:28:52
+<transcript>: How do I.
+
+02:28:58
+<transcript>: Yeah, dot files. We're gonna open.
+
+02:29:00
+<transcript>: Files.
+
+02:29:07
+<transcript>: Config.
+
+02:29:07
+<transcript>: env
+
+02:29:08
+<transcript>: Env.
+
+02:29:12
+<transcript>: Where is it.
+
+02:29:15
+<transcript>: Plugins.
+
+02:29:23
+cowfacedude99: try prefix s to switch between sessions.
+
+02:29:31
+<transcript>: Remove.
+
+02:29:31
+<transcript>: what
+
+02:29:32
+<transcript>: What.
+
+02:29:34
+<transcript>: Ds store.
+
+02:29:37
+<transcript>: I guess so.
+
+02:29:40
+<transcript>: Did I do it.
+
+02:29:40
+<transcript>: potential bra
+
+02:29:42
+<transcript>: Potential braking.
+
+02:29:45
+<transcript>: Let's tree setter.
+
+02:29:45
+<transcript>: oh geez
+
+02:29:48
+<transcript>: Oh, Geez, I just updated stuff.
+
+02:29:50
+<transcript>: I hope I don't regret that.
+
+02:29:53
+<transcript>: Okay.
+
+02:29:56
+<transcript>: Let's just see.
+
+02:29:58
+<transcript>: We'll just see.
+
+02:30:09
+<transcript>: Bogeiest.
+
+02:30:14
+<transcript>: Tree sitter Invalid Invalid highlight name TS comet oh Geez.
+
+02:30:21
+<transcript>: Well, let's see if everything still works.
+
+02:30:25
+<transcript>: A good part and the bad part.
+
+02:30:35
+cowfacedude99: this is why I love nix.
+
+02:30:35
+<transcript>: In them about a personal development environment. So I lost highlights on my keywords.
+
+02:30:35
+<transcript>: like
+
+02:30:39
+<transcript>: Like I lost italics on the keywords. That's not a huge deal.
+
+02:30:45
+<transcript>: But now should auto save so if I change like.
+
+02:30:47
+<transcript>: Bogus.
+
+02:30:47
+<transcript>: comments
+
+02:30:48
+<transcript>: Comments.
+
+02:30:49
+<transcript>: Auto say.
+
+02:30:49
+<transcript>: love it
+
+02:30:51
+<transcript>: Love it.
+
+02:30:54
+<transcript>: Cool.
+
+02:30:57
+<transcript>: Okay.
+
+02:30:57
+cowfacedude99: If I don't move the commits, they don't
+
+02:31:09
+<transcript>: Look at the Chaffers. Oh, sorry. Oh, no. Prefix D. Look at the chat. First try. Prefix S to switch between sessions. Oh, really.
+
+02:31:12
+<transcript>: Oh, feels good.
+
+02:31:16
+<transcript>: Cool.
+
+02:31:21
+<transcript>: If I don't make the commits, they don't.
+
+02:31:26
+<transcript>: Swy you love Nick's calface.
+
+02:31:28
+<transcript>: I.
+
+02:31:34
+<transcript>: Should pin to commits but I don't I just I grabbed latest of everything.
+
+02:31:38
+<transcript>: I guess I'm gonna fix I'm gonna fix it real quick.
+
+02:31:52
+<transcript>: So let's go in. Let's see.
+
+02:31:52
+<transcript>: it was in tree sitter
+
+02:31:54
+<transcript>: It was in tree, sitter, right.
+
+02:31:55
+cowfacedude99: but nix is a pretty big rabbit holeto go down.
+
+02:32:01
+<transcript>: I've got to, like, hang on.
+
+02:32:08
+bowdy: just getting started with kali
+
+02:32:16
+<transcript>: Okay.
+
+02:32:16
+<transcript>: something
+
+02:32:19
+<transcript>: Something about PS comment. Right.
+
+02:32:20
+<transcript>: Yeah.
+
+02:32:22
+cowfacedude99: I think you need to run TSUpdate
+
+02:32:23
+bowdy: dont even know where to start LUL
+
+02:32:28
+<transcript>: So constant comment and keyword that doesn't work anymore anymore. This code doesn't work anymore.
+
+02:32:35
+<transcript>: It'd be cool to get like some like.
+
+02:32:40
+<transcript>: Some LSP stuff here telling me like Can't do that.
+
+02:32:40
+<transcript>: just go
+
+02:32:42
+<transcript>: Just go to tree sitter.
+
+02:32:45
+<transcript>: We interrupt in our.
+
+02:32:45
+<transcript>: regular
+
+02:32:48
+<transcript>: Regular regularly scheduled programming.
+
+02:32:54
+<transcript>: To fix our new event, config.
+
+02:33:02
+<transcript>: Nix is a pretty big rabbit hole to go down. I don't need more rabbit holes.
+
+02:33:07
+<transcript>: Ts update.
+
+02:33:07
+<transcript>: so i see to run
+
+02:33:09
+<transcript>: So I see to run TS update that's it you're saying.
+
+02:33:18
+<transcript>: That'll do it all.
+
+02:33:21
+<transcript>: That'll fix the let's just see.
+
+02:33:29
+<transcript>: Let's just see.
+
+02:33:36
+<transcript>: The dumb.
+
+02:33:39
+<transcript>: I guess it's done.
+
+02:33:46
+<transcript>: Air Detectable processing.
+
+02:33:48
+<transcript>: Tree sitter.
+
+02:33:50
+<transcript>: Invalid. Highlight nine.
+
+02:33:50
+<transcript>: psychological
+
+02:33:51
+<transcript>: Psychological.
+
+02:33:55
+<transcript>: Okay.
+
+02:34:06
+<transcript>: Highlight comment equals TS. Comments.
+
+02:34:23
+<transcript>: So it also says update capability is deprecated.
+
+02:34:28
+<transcript>: That I can deal with later, but I want to fix this.
+
+02:34:28
+<transcript>: trussy
+
+02:34:32
+<transcript>: Trussy. Let's go back to just the tree, center, page.
+
+02:34:39
+<transcript>: Thank you for the follow black Zillion and an Ov and nonv.
+
+02:34:43
+<transcript>: Let's see.
+
+02:34:47
+<transcript>: Highlight.
+
+02:34:52
+yeltrah_: hey hey
+
+02:34:54
+<transcript>: Obsolete TS. Highlight groups. Haha ha, ha. Apparently those were obsolete.
+
+02:34:58
+<transcript>: Let's see.
+
+02:35:04
+theblackzillian: ayo
+
+02:35:05
+<transcript>: So I'm just supposed to use comments now instead. Maybe.
+
+02:35:09
+<transcript>: Keyword.
+
+02:35:14
+<transcript>: I bet I'm just supposed to let's just try it.
+
+02:35:17
+<transcript>: Might as well just try it.
+
+02:35:18
+yeltrah_: @cowfacedude99 You talking about this https://nixos.org/ ?
+
+02:35:19
+<transcript>: What's the worst I got happen.
+
+02:35:19
+<transcript>: doesn't
+
+02:35:22
+<transcript>: Doesn't work and we have to look up the answer.
+
+02:35:22
+<transcript>: exactly
+
+02:35:24
+<transcript>: Exactly.
+
+02:35:26
+cowfacedude99: you got that from dracula right?
+
+02:35:26
+<transcript>: So let's change.
+
+02:35:26
+<transcript>: that
+
+02:35:28
+<transcript>: That to copy.
+
+02:35:30
+<transcript>: Change this.
+
+02:35:30
+<transcript>: constant
+
+02:35:32
+<transcript>: Constant.
+
+02:35:34
+<transcript>: And this.
+
+02:35:34
+<transcript>: key
+
+02:35:35
+<transcript>: Keyword.
+
+02:35:40
+<transcript>: Those might all be like lowercase too. I don't know, but let's just try this.
+
+02:35:47
+<transcript>: Aha.
+
+02:35:55
+<transcript>: I see keywords. They're a talicized, cool.
+
+02:35:55
+<transcript>: we did it
+
+02:35:57
+<transcript>: We did it.
+
+02:36:02
+<transcript>: Oh, peace.
+
+02:36:11
+<transcript>: Keywords a tallastized Feels good.
+
+02:36:19
+<transcript>: Okay. We did it. We got all this save. Thank you so much. Cow face. I appreciate it.
+
+02:36:19
+<transcript>: hey oh welcome
+
+02:36:21
+<transcript>: Hey, oh, welcome to Chat. Black zillion.
+
+02:36:29
+<transcript>: Welcome, welcome, heart. Gene is here. What's going on? Hart. Jean talking about Nick's OS.
+
+02:36:35
+<transcript>: Got that from Dracula. You mean the tallisizing.
+
+02:36:41
+<transcript>: Keywords. I don't know if I got that from Jackiela. I just like.
+
+02:36:41
+<transcript>: i like
+
+02:36:47
+<transcript>: I like italics with operator mono, because they look cool, because it's all cursive. So I put it on lots of things.
+
+02:36:47
+<transcript>: and
+
+02:36:50
+cowfacedude99: @cowfacedude99 yes and no. nixos is a part of it.
+
+02:36:50
+<transcript>: And keywords seem like a good candidate.
+
+02:36:54
+<transcript>: Keywords and comments. I think I have it on comments. Right.
+
+02:36:57
+<transcript>: If I do.
+
+02:36:59
+<transcript>: Yeah.
+
+02:37:00
+cowfacedude99: but it's not the whole thing.
+
+02:37:01
+<transcript>: Feels good.
+
+02:37:06
+<transcript>: Okay.
+
+02:37:12
+<transcript>: What were we? Where were we at? Before we just added all the safe.
+
+02:37:16
+<transcript>: First Lego League Looks Super cool.
+
+02:37:21
+<transcript>: Alright. Right. So now we do an invoke. We have a new service.
+
+02:37:24
+<transcript>: Next service.
+
+02:37:24
+<transcript>: i think
+
+02:37:26
+<transcript>: I think I think that all should work.
+
+02:37:30
+cowfacedude99: bad hair day just broke your overlay LUL
+
+02:37:30
+<transcript>: Let's return a new round so let's go back up to our.
+
+02:37:30
+<transcript>: so here
+
+02:37:32
+<transcript>: So here.
+
+02:37:34
+yeltrah_: I see, so what were you referring to specifically?
+
+02:37:36
+<transcript>: We set round on actions.
+
+02:37:46
+<transcript>: We set the round and we go to guessing.
+
+02:37:54
+<transcript>: And we make sure it's at least 2 seconds later. So we show the answer for 2 seconds.
+
+02:37:57
+<transcript>: Okay.
+
+02:38:00
+<transcript>: The result? Yep, that's all. Good.
+
+02:38:04
+<transcript>: That's all good. I think we're good. Now let's see if it works.
+
+02:38:07
+<transcript>: It works better than it did at least.
+
+02:38:09
+<transcript>: Start game.
+
+02:38:18
+<transcript>: I don't know. Memory. Dv. I don't know. Oh, that was right.
+
+02:38:18
+<transcript>: so should i gotten
+
+02:38:20
+<transcript>: So should I gotten five more seconds now.
+
+02:38:29
+<transcript>: Sage Maker Studio lab. Okay, so we gotta fix that little. It shows it like it's wrong for a second while it's waiting. We're gonna fix that.
+
+02:38:29
+<transcript>: oh that
+
+02:38:32
+yeltrah_: Yea the overlay is blocking the awguess
+
+02:38:40
+<transcript>: Oh, that was workspaces. Web. Oops it's moving the new rounds. I just totally glossed over the fact that we fixed it. We did it. We did it, people. Deep lens. Okay, so I'm losing time, presumably.
+
+02:38:50
+<transcript>: Yeah, and we just expired. Now we're at game over. We can start game. Oh, so can I, like, control the client by clicking on these things.
+
+02:38:56
+<transcript>: That's another thing we should do. We should move the invocations.
+
+02:38:56
+<transcript>: into
+
+02:38:58
+<transcript>: Into a service.
+
+02:39:01
+<transcript>: For starting game so.
+
+02:39:04
+<transcript>: Initial.
+
+02:39:08
+<transcript>: Guessing.
+
+02:39:10
+<transcript>: We should.
+
+02:39:19
+<transcript>: We're an idol in order to go into active we do a start game.
+
+02:39:21
+cowfacedude99: the way I use it, nix is a why to declarative manage your system. nixos is the os that implements nix but it is not the only way you can do it.
+
+02:39:24
+smooviehoodie: font size?
+
+02:39:25
+<transcript>: But what if.
+
+02:39:30
+<transcript>: We had an initial state.
+
+02:39:44
+<transcript>: Like I starting state where we were doing the invocation, and then it transitions into guessing. After you get a result back. I think I like that better. I just want to move all the invocations.
+
+02:39:44
+<transcript>: into
+
+02:39:46
+<transcript>: Into the State machine.
+
+02:39:46
+<transcript>: i don't want to
+
+02:39:50
+<transcript>: i don't want to have loose mutations happening
+
+02:39:50
+<transcript>: okay so we're gonna have a new
+
+02:39:52
+<transcript>: Okay. So we're gonna have a new state. We're gonna have.
+
+02:39:52
+<transcript>: initial
+
+02:39:56
+<transcript>: Initial is not guessing. It's gonna be.
+
+02:39:59
+<transcript>: Harding.
+
+02:40:03
+<transcript>: Kind of like that name that much, but.
+
+02:40:08
+<transcript>: But what can you do.
+
+02:40:11
+<transcript>: Got a name you gotta name it something.
+
+02:40:17
+<transcript>: Okay, so auto save just drove me crazy.
+
+02:40:20
+<transcript>: No count base.
+
+02:40:20
+<transcript>: look
+
+02:40:22
+<transcript>: Look, it's not letting me know.
+
+02:40:26
+<transcript>: Let's go down.
+
+02:40:26
+<transcript>: i don't blame
+
+02:40:30
+<transcript>: I don't blame you Cafes I don't blame you.
+
+02:40:35
+<transcript>: Yank inside. I just need to learn. I need to learn how to use it better.
+
+02:40:39
+<transcript>: Where was that.
+
+02:40:46
+<transcript>: Dates. Idle. Game over. Active. Okay, here we go. Starting.
+
+02:40:50
+caldotjs: LETS GOO. we got a fair offer + salary increase after the first project in case I knock it out of the park
+
+02:40:53
+<transcript>: Okay.
+
+02:41:02
+<transcript>: I tricked the Auto save kind of.
+
+02:41:06
+<transcript>: Okay. So now starting is going to invoke.
+
+02:41:09
+<transcript>: What did I just do.
+
+02:41:12
+<transcript>: Oh no oh no.
+
+02:41:16
+<transcript>: Yeah. How do you get around that.
+
+02:41:18
+<transcript>: Cafes. How do you.
+
+02:41:22
+<transcript>: Invoke.
+
+02:41:22
+<transcript>: seems
+
+02:41:27
+<transcript>: Seems like starts auto saving what I'm trying to still type.
+
+02:41:32
+<transcript>: Tracy Crazy source. Oh, it's prettier. It's prettier. That's my problem.
+
+02:41:36
+<transcript>: Prettier is like doing a format.
+
+02:41:36
+<transcript>: after
+
+02:41:38
+<transcript>: After I.
+
+02:41:40
+<transcript>: After I auto save.
+
+02:41:44
+<transcript>: I bet you are. You not using that combination. It might not be driving you crazy.
+
+02:41:53
+<transcript>: Oh, Geez, the overlay what happened to the overlay bad hair day? That's what happened. It should be gone away here soon.
+
+02:41:53
+<transcript>: but
+
+02:41:56
+<transcript>: But, yeah, that's not good.
+
+02:41:56
+<transcript>: the crumb
+
+02:42:00
+<transcript>: The crumb key doesn't like doesn't like that here day.
+
+02:42:12
+<transcript>: I see. So what do you referring to? Specifically? The overlay is my heart gene. The way I use it, Nix is a way to do that.
+
+02:42:12
+<transcript>: okay
+
+02:42:19
+<transcript>: Okay. Font size. I don't know what my Faunt saves is. Good question. Let's go. We got a fair offer. Hey, Caldot. New job.
+
+02:42:19
+<transcript>: feels good
+
+02:42:21
+<transcript>: Feels good.
+
+02:42:21
+<transcript>: salary increase i've
+
+02:42:24
+<transcript>: Salary increase. I've the first project in case I knock it out of the park. Look at that.
+
+02:42:25
+yeltrah_: @cowfacedude99 Got it
+
+02:42:26
+<transcript>: Tell that over here.
+
+02:42:29
+<transcript>: Just.
+
+02:42:32
+<transcript>: Get new jobs, making moves.
+
+02:42:36
+<transcript>: So this one's gonna be start.
+
+02:42:37
+stewartjarod: 🎉🎉🎉👏🥳
+
+02:42:40
+<transcript>: So there's gonna be an invoke that does a start on done.
+
+02:42:40
+<transcript>: it's gonna go
+
+02:42:43
+<transcript>: It's gonna go into guessing.
+
+02:42:51
+<transcript>: Okay.
+
+02:42:57
+<transcript>: So the auto save thing, it's not gonna work out.
+
+02:43:01
+<transcript>: I think it's pretty. I think it's just fighting with prettier.
+
+02:43:05
+<transcript>: And yeah, I can't do it.
+
+02:43:09
+stewartjarod: I started a new job yesterday 😃
+
+02:43:16
+<transcript>: 's the file I'm already in. I just spit, like really bad.
+
+02:43:16
+<transcript>: you ever do that
+
+02:43:20
+<transcript>: You ever do that? You laugh or something? It's like, Shoot, sit out.
+
+02:43:24
+<transcript>: Okay. Let's just not.
+
+02:43:24
+<transcript>: remove the
+
+02:43:27
+<transcript>: Remove the following directories. Yes.
+
+02:43:35
+<transcript>: Okay.
+
+02:43:40
+<transcript>: Let's restart in them.
+
+02:43:42
+<transcript>: Okay.
+
+02:43:44
+<transcript>: We're back.
+
+02:43:46
+cowfacedude99: I run prettier manually. so autosave doesn't bother me.
+
+02:43:50
+<transcript>: So what do we do? We said Guess. Okay. So starting there's a starting state.
+
+02:43:50
+<transcript>: we invoke
+
+02:43:55
+<transcript>: We invoke starts on done. We go to guessing, and we assign.
+
+02:43:58
+<transcript>: Round.
+
+02:44:11
+<transcript>: I guess I should do this the other way.
+
+02:44:24
+<transcript>: This one out this way.
+
+02:44:31
+<transcript>: Okay.
+
+02:44:31
+<transcript>: starting
+
+02:44:33
+<transcript>: Starting so here.
+
+02:44:48
+<transcript>: It's not the event. It's the.
+
+02:44:52
+<transcript>: Yeah, it's event data. Right.
+
+02:44:55
+<transcript>: That data game.
+
+02:45:01
+<transcript>: Okay.
+
+02:45:04
+<transcript>: That is that.
+
+02:45:07
+<transcript>: So we do a start.
+
+02:45:11
+cowfacedude99: @caldotjs primeagenClap1 congrats primeagenClap2
+
+02:45:12
+<transcript>: And then we assign game and round based on that.
+
+02:45:18
+<transcript>: Okay. That's good.
+
+02:45:18
+<transcript>: so now i need to
+
+02:45:20
+<transcript>: So now I need to define the service.
+
+02:45:26
+<transcript>: Art.
+
+02:45:41
+<transcript>: Oh, auto save is still running. What.
+
+02:45:44
+<transcript>: I.
+
+02:45:46
+<transcript>: Quit it.
+
+02:45:51
+<transcript>: Did I not quit it.
+
+02:45:57
+<transcript>: I need to do something else.
+
+02:45:57
+<transcript>: to restart
+
+02:45:59
+<transcript>: To restart my inventory.
+
+02:46:02
+<transcript>: Okay.
+
+02:46:03
+<transcript>: Services.
+
+02:46:11
+<transcript>: Still auto saving.
+
+02:46:18
+<transcript>: What do I need to do? Let's see.
+
+02:46:25
+<transcript>: Oh, did it not actually.
+
+02:46:25
+<transcript>: remove it
+
+02:46:26
+<transcript>: Remove it.
+
+02:46:33
+<transcript>: Everything's up to date.
+
+02:46:53
+<transcript>: There we go.
+
+02:46:59
+<transcript>: Feels good. You run prettier manually. That makes sense. Okay. That makes more sense.
+
+02:47:01
+<transcript>: And Stuart.
+
+02:47:01
+<transcript>: started a new job
+
+02:47:05
+<transcript>: Started a new job yesterday. Look at everybody with the new jobs.
+
+02:47:05
+<transcript>: thanks for the
+
+02:47:07
+<transcript>: Thanks for the followup. Show me your noobs.
+
+02:47:11
+<transcript>: Show me your new.
+
+02:47:13
+<transcript>: Why didn't I get a notification for that.
+
+02:47:21
+<transcript>: It's a little thing like that. They'll just derail me. This bothers me. Like why why didn't I get a notification.
+
+02:47:21
+<transcript>: okay
+
+02:47:24
+<transcript>: Okay. Context.
+
+02:47:24
+<transcript>: what are we doing
+
+02:47:29
+<transcript>: What are we doing here? This is our yeah, return. New promise.
+
+02:47:33
+<transcript>: You think resolved reject.
+
+02:47:37
+<transcript>: Right.
+
+02:47:37
+<transcript>: and we're going
+
+02:47:39
+<transcript>: And we're going to.
+
+02:47:43
+<transcript>: It's a bunch of code. We're doing download.
+
+02:47:43
+<transcript>: down
+
+02:47:47
+<transcript>: Down here somewhere. It's when we emit yeah, this. This code.
+
+02:48:01
+<transcript>: So let's paste it in here. So we get a new game and a new round.
+
+02:48:06
+<transcript>: And then we return.
+
+02:48:06
+<transcript>: resolve
+
+02:48:08
+<transcript>: Resolve.
+
+02:48:09
+<transcript>: Game round.
+
+02:48:14
+<transcript>: It's basically it. I'm not doing any error handling here.
+
+02:48:14
+<transcript>: which
+
+02:48:19
+<transcript>: Which is bad, but also I don't care. We'll come back good.
+
+02:48:23
+<transcript>: Do I not do anything with the context. I guess.
+
+02:48:23
+<transcript>: i guess not
+
+02:48:24
+<transcript>: I guess not.
+
+02:48:29
+<transcript>: Okay, so that's our Start service.
+
+02:48:36
+tnkhanh: dang, nice glasses
+
+02:48:37
+<transcript>: Now we need to come down. We need to go up here and say this event no longer start. Game has no round or game.
+
+02:48:40
+<transcript>: Like.
+
+02:48:47
+<transcript>: Start game is just a plane event.
+
+02:48:51
+<transcript>: So then down here.
+
+02:49:06
+<transcript>: Event should have oh, what is this? Actions.
+
+02:49:09
+cowfacedude99: I usually run it before committing. along with tests and eslint. It is a bother to run everything at once but I have gotten used to it.
+
+02:49:11
+<transcript>: Oh when we go to start game, we don't need to have actions anymore.
+
+02:49:13
+<transcript>: Yeah.
+
+02:49:16
+<transcript>: Even work.
+
+02:49:19
+<transcript>: I could just.
+
+02:49:19
+<transcript>: yeah
+
+02:49:21
+<transcript>: Yeah. Delete. That okay.
+
+02:49:21
+<transcript>: start game
+
+02:49:23
+<transcript>: Start game goes to active.
+
+02:49:26
+cowfacedude99: although I don't like the eslint rules that I have for work :(
+
+02:49:32
+<transcript>: Thanks.
+
+02:49:34
+<transcript>: For start game.
+
+02:49:34
+<transcript>: on start game
+
+02:49:38
+<transcript>: On start game. Oh, no, this is the other one.
+
+02:49:45
+<transcript>: Just just not doing that because we do it here when we go to starting we invoke.
+
+02:49:45
+<transcript>: and then we set our
+
+02:49:47
+<transcript>: And then we set our, Yeah.
+
+02:49:53
+<transcript>: So here, we don't need any of this, right.
+
+02:49:53
+<transcript>: now
+
+02:49:56
+<transcript>: Now we just send start game.
+
+02:50:01
+<transcript>: Okay. I think that's good. That's still broken, which it shouldn't be.
+
+02:50:06
+<transcript>: Context. There. Okay, let's see. It should work. Now.
+
+02:50:06
+<transcript>: and that was just
+
+02:50:08
+<transcript>: And that was just a cleanup thing.
+
+02:50:14
+<transcript>: Nice glasses.
+
+02:50:17
+<transcript>: Usually run it a bit.
+
+02:50:17
+<transcript>: for committing
+
+02:50:18
+<transcript>: For committing.
+
+02:50:18
+<transcript>: along with
+
+02:50:25
+<transcript>: Along with testing. Yes, Lent, it is better or it is a bothered to run everything at once. But I've gotten used to it. That makes sense.
+
+02:50:25
+<transcript>: don't like the isn't really
+
+02:50:26
+<transcript>: Don't like the isn't really.
+
+02:50:26
+<transcript>: yeah i don't
+
+02:50:33
+<transcript>: Yeah. I don't like ESLAP. I might just remove it. I found out DAX doesn't even use the S plant. Now I feel like I shouldn't even use it.
+
+02:50:33
+<transcript>: what happened
+
+02:50:35
+<transcript>: What happened.
+
+02:50:35
+<transcript>: where did
+
+02:50:36
+<transcript>: Where did I answer.
+
+02:50:41
+<transcript>: Start game.
+
+02:50:41
+<transcript>: oh
+
+02:50:44
+<transcript>: Oh, did we invoke.
+
+02:50:49
+<transcript>: Did it did it invoke new game, new round.
+
+02:50:49
+<transcript>: what
+
+02:50:50
+<transcript>: What.
+
+02:50:50
+<transcript>: our search
+
+02:50:51
+<transcript>: Our search.
+
+02:50:51
+<transcript>: did it throw
+
+02:50:53
+<transcript>: Did it throw an error and I just used ignored it.
+
+02:50:56
+<transcript>: Very possible.
+
+02:50:58
+<transcript>: Start.
+
+02:51:03
+<transcript>: Initial is starting.
+
+02:51:05
+<transcript>: Invoke.
+
+02:51:09
+<transcript>: It's gonna go to guessing, undone.
+
+02:51:12
+<transcript>: We assign game and round.
+
+02:51:16
+<transcript>: What happened.
+
+02:51:17
+<transcript>: Start getting.
+
+02:51:21
+<transcript>: Oh, it's currently in Game over.
+
+02:51:21
+<transcript>: what
+
+02:51:22
+<transcript>: What.
+
+02:51:26
+<transcript>: Oh, because we returned zero on the expires.
+
+02:51:30
+<transcript>: I remember that when I was like, I don't know, maybe zero.
+
+02:51:35
+<transcript>: So there's no context. That game. Yeah. Okay.
+
+02:51:41
+<transcript>: So instead we're gonna return mass.
+
+02:51:43
+<transcript>: Infinity.
+
+02:51:45
+<transcript>: Or is it just Infinity.
+
+02:51:48
+<transcript>: We're gonna break everything.
+
+02:51:48
+<transcript>: i guarantee
+
+02:51:50
+<transcript>: I guarantee it.
+
+02:51:54
+<transcript>: Yeah.
+
+02:51:57
+<transcript>: That didn't work.
+
+02:52:01
+<transcript>: So it expired again.
+
+02:52:02
+<transcript>: I don't know return.
+
+02:52:04
+<transcript>: 30.
+
+02:52:04
+<transcript>: feel
+
+02:52:10
+<transcript>: Feel so bad? What's the problem here? We're trying to figure out what should expires be.
+
+02:52:14
+<transcript>: When there's no game yet.
+
+02:52:25
+<transcript>: It's going straight to game over.
+
+02:52:28
+<transcript>: Let's think about this.
+
+02:52:36
+<transcript>: Thank you for the follow. Hazard. High.
+
+02:52:42
+<transcript>: Are we logging that contexting.
+
+02:52:48
+<transcript>: Oh machine given to use machine has changed between renders what.
+
+02:52:54
+<transcript>: That happened.
+
+02:53:00
+<transcript>: So we did a start game.
+
+02:53:00
+<transcript>: we
+
+02:53:03
+<transcript>: We got a new round and a new.
+
+02:53:09
+<transcript>: But it's Colin.
+
+02:53:13
+<transcript>: It's going into the game, overstate immediately.
+
+02:53:17
+<transcript>: Look at our state machine again.
+
+02:53:20
+<transcript>: Idle.
+
+02:53:23
+<transcript>: On start game, go to target active.
+
+02:53:30
+<transcript>: Okay when we're inactive initial initial is starting after expires go to game over.
+
+02:53:33
+<transcript>: After expires.
+
+02:53:38
+<transcript>: So this actually shouldn't.
+
+02:53:42
+<transcript>: Let's think about this.
+
+02:53:44
+<transcript>: Starting.
+
+02:53:49
+<transcript>: It shouldn't be able to expire.
+
+02:53:49
+<transcript>: until
+
+02:53:49
+<transcript>: Until.
+
+02:54:01
+<transcript>: We've moved into.
+
+02:54:03
+<transcript>: Guessing state.
+
+02:54:09
+<transcript>: It's almost like you know what? This starting doesn't belong in here.
+
+02:54:11
+<transcript>: It doesn't belong in here.
+
+02:54:13
+<transcript>: I.
+
+02:54:13
+<transcript>: want to do i want
+
+02:54:15
+<transcript>: Want to do, I want to do.
+
+02:54:24
+<transcript>: Yeah.
+
+02:54:30
+<transcript>: Want to say I'm here. It's like before we get into active, it's starting.
+
+02:54:42
+<transcript>: Out.
+
+02:54:46
+<transcript>: So starting.
+
+02:54:50
+<transcript>: Target's gonna be active.
+
+02:55:03
+<transcript>: So what do we do here? When we start game? We go to starting instead of active.
+
+02:55:07
+<transcript>: Right.
+
+02:55:13
+<transcript>: And then starting invokes, we go to Active. Okay. Yeah.
+
+02:55:13
+<transcript>: so then
+
+02:55:20
+<transcript>: So then that way the expires never kicks in until we've gone to active. So starting we'll have like a Loading state or something.
+
+02:55:28
+<transcript>: Right have like a Loading state that we render right now we won't it'll just be.
+
+02:55:37
+<transcript>: Just a blank. Yeah. Okay. That worked Fargate. Okay, so let's fix that state.
+
+02:55:44
+<transcript>: License manager, let's fix the thing where it shows that it's wrong until it comes back.
+
+02:55:47
+<transcript>: To manager.
+
+02:55:52
+<transcript>: I'm not getting a score. That's a little troubling.
+
+02:55:57
+<transcript>: Result data.
+
+02:56:00
+<transcript>: Answer.
+
+02:56:04
+<transcript>: Okay, I just went to the game overstate.
+
+02:56:14
+<transcript>: Is the let's see if the thing is working. Is it actually doing the delay.
+
+02:56:19
+<transcript>: Expire.
+
+02:56:24
+<transcript>: Is it actually doing this? Let's see, Let's.
+
+02:56:24
+<transcript>: consol
+
+02:56:26
+<transcript>: Console, log.
+
+02:56:28
+<transcript>: I.
+
+02:56:45
+<transcript>: Don't think it is so it's not getting it's not updating based on.
+
+02:56:49
+<transcript>: US getting correct answers. That was my fear.
+
+02:56:56
+<transcript>: So it's like a static. It only calls that delay is the first 1st time.
+
+02:56:56
+<transcript>: so
+
+02:57:01
+<transcript>: So after expires it comes the game over, and that's pretty static.
+
+02:57:04
+theruggedbear: hello adam !
+
+02:57:13
+theruggedbear: how's it going ?
+
+02:57:20
+<transcript>: That's not good. I don't know how to do the thing we need to do. So they're called Expires. But when we click on new ones, it's not going to call Expires again, is it.
+
+02:57:24
+<transcript>: Now.
+
+02:57:26
+<transcript>: Example. Five.
+
+02:57:29
+<transcript>: Well, that's not good.
+
+02:57:34
+<transcript>: I needed to call after every answer. We need to update that delay.
+
+02:57:40
+<transcript>: It's kind of the whole thing. The Rugged Bear. Hey there. It's going well.
+
+02:57:53
+<transcript>: So if we can't model this with the state behavior the way I thought we could.
+
+02:57:58
+<transcript>: Let's think about this.
+
+02:58:11
+<transcript>: So there's idle. There's game over, and they're starting. When you start game, you go into starting, which is an invoke. We set the game in the round, and then we go to Active, where you're guessing.
+
+02:58:16
+<transcript>: And then you guess.
+
+02:58:16
+<transcript>: we go to
+
+02:58:20
+<transcript>: We go to checking answer, and then we got to show answer.
+
+02:58:26
+<transcript>: Showing the answer. We go back to guessing.
+
+02:58:29
+<transcript>: But we have this expires.
+
+02:58:40
+<transcript>: After a certain amount of time, it's supposed to be dynamic. We go to game over. The problem is I can't do it like on showing answer. I can't say.
+
+02:58:44
+<transcript>: Like check expires.
+
+02:58:48
+<transcript>: Because it could expire in the middle of a question in your answer.
+
+02:58:48
+<transcript>: and we need
+
+02:58:50
+<transcript>: And we need to like.
+
+02:58:50
+<transcript>: recognize that
+
+02:58:52
+<transcript>: Recognize that, I guess.
+
+02:58:56
+sockenguy: whats the difference between trpc, rest and graphql for dummies?:D
+
+02:58:56
+<transcript>: Oh.
+
+02:59:07
+<transcript>: Do you guys understand what I'm saying.
+
+02:59:17
+<transcript>: What's the difference between TrpC rest and GraphQL for Dummies? Okay, let's do it. So the difference between TrpC rest and graphs. You all.
+
+02:59:17
+<transcript>: so let
+
+02:59:19
+<transcript>: So let's start with rest in GraphQL.
+
+02:59:25
+<transcript>: Rift. There's so much baggage with the term rest.
+
+02:59:25
+<transcript>: but
+
+02:59:28
+<transcript>: But when people use the term rests.
+
+02:59:28
+<transcript>: in contrast
+
+02:59:30
+<transcript>: In contrast to GraphQL.
+
+02:59:33
+<transcript>: They mostly mean like.
+
+02:59:37
+<transcript>: Ad hoc make http requests.
+
+02:59:44
+<transcript>: For this data so like a get request to fetch users.
+
+02:59:44
+<transcript>: hit
+
+02:59:51
+<transcript>: Hit some API users endpoint and fetches users and you kind of build like your API.
+
+02:59:51
+<transcript>: in that
+
+02:59:54
+<transcript>: In that way, you structure all your API wraps.
+
+02:59:54
+<transcript>: to serve
+
+02:59:58
+<transcript>: To serve up data the formal definition of rest. I don't know if I know.
+
+03:00:03
+<transcript>: Proper formal definition. Enough to give it to you. But it's like this whole convention.
+
+03:00:03
+<transcript>: where
+
+03:00:19
+<transcript>: Where the http verbs matter and you're like getting and posting and pudding and deleting using http verbs to interact with resources. Every resource or like entity type lives on its own routes like slash users. And then maybe you want to get.
+
+03:00:34
+<transcript>: Users the user ID. That's sort of like the formal rest approach, where there's this various specific way. You structure your API routes, and you use Http verbs to interact with that API. So it's a way to exposure data.
+
+03:00:34
+<transcript>: as an
+
+03:00:44
+<transcript>: As an API and a very structured manner that's like formal rest. Then GraphQL is like this approach to structuring your data like a graph.
+
+03:00:44
+<transcript>: and
+
+03:00:46
+<transcript>: And you basically.
+
+03:00:50
+<transcript>: You kind of like define.
+
+03:00:50
+<transcript>: your
+
+03:00:52
+<transcript>: Your types.
+
+03:00:52
+<transcript>: on the
+
+03:00:59
+<transcript>: On the server and this GraphQL schema and all the relationships between them. And you can sort of arbitrarily.
+
+03:00:59
+<transcript>: fetch
+
+03:01:15
+<transcript>: Fetch data from the client in any shape you want within that graph. Loading like children entities and sort of doing things shaping how you want your data to come back, and then the servers responsible for fulfilling that request.
+
+03:01:20
+<transcript>: According to the contract and sort of like only fetching the data that's needed to return to the client.
+
+03:01:20
+<transcript>: so that's
+
+03:01:23
+<transcript>: So that's like what graph field looks like.
+
+03:01:23
+<transcript>: i'm probably
+
+03:01:28
+<transcript>: I'm probably oversimplifying and missing some very important details. There's like a hair.
+
+03:01:32
+<transcript>: Or something stuck in my headphones.
+
+03:01:49
+<transcript>: That's that's like a high level rest, rest and GraphQL. And then PrPC is this library that allows you in TypeScript to it uses RPC. I don't know anything. Protobuffs. I don't know something.
+
+03:02:02
+<transcript>: It allows you have these Typesafe front end and backend contracts where you just return things from these functions and TrpC on the back end and your client is fully tied.
+
+03:02:02
+<transcript>: and knows how to
+
+03:02:03
+<transcript>: And knows how to interact with.
+
+03:02:14
+<transcript>: Those those requests and responses through type script automatically. That's very like that's a dummy giving you the for dummies version.
+
+03:02:14
+<transcript>: of those
+
+03:02:16
+<transcript>: Of those three things.
+
+03:02:16
+<transcript>: shellord
+
+03:02:18
+<transcript>: Shellord thank you for the follow.
+
+03:02:20
+sockenguy: Thanks helped me :D
+
+03:02:32
+<transcript>: Anyone in chat can feel free to chime in and like correct all of the things I said that were super dumb. I think everything I said is accurate. It's just I'm probably not explaining it the best. Never really tried, actually.
+
+03:02:32
+<transcript>: i'm
+
+03:02:36
+<transcript>: I'm glad it helped though. Thanks for the follow sucking guy.
+
+03:02:37
+theruggedbear: as i suggestion, if you want to start building back-end services, personally i would start with a REST Api
+
+03:02:43
+<transcript>: So we're trying to do a thing with X state.
+
+03:02:51
+<transcript>: Yeah. No, I agree with that rugged bear. I would start with rest. I think it's the simplest to start with.
+
+03:02:51
+<transcript>: use something like
+
+03:02:53
+<transcript>: Use something like express.
+
+03:02:53
+<transcript>: if you're using
+
+03:02:55
+<transcript>: If you're using JavaScript.
+
+03:02:55
+<transcript>: and that's like
+
+03:03:01
+<transcript>: And that's like I think express kind of Embodies, just like building Rest APIs in node.
+
+03:03:01
+<transcript>: you just like have
+
+03:03:05
+<transcript>: You just like, have routes. They return whatever you want, and then.
+
+03:03:05
+<transcript>: you call those
+
+03:03:07
+<transcript>: You call those from the front end.
+
+03:03:12
+<transcript>: So I'm trying to do a thing in X state.
+
+03:03:12
+<transcript>: that i
+
+03:03:15
+<transcript>: That I don't think it's possible.
+
+03:03:15
+<transcript>: i'm trying
+
+03:03:19
+sockenguy: is grpc realted to trpc?
+
+03:03:20
+<transcript>: I'm trying to model this complicated game behavior. Where.
+
+03:03:23
+<transcript>: You start out with the 32nd timer.
+
+03:03:30
+<transcript>: His gRPC related to the RPC. Now you're getting into stuff I really don't understand. So gRPC.
+
+03:03:30
+<transcript>: is grp
+
+03:03:33
+<transcript>: Is gRPC specifically the Google RPC stuff.
+
+03:03:33
+<transcript>: it's
+
+03:03:34
+sockenguy: :D
+
+03:03:35
+<transcript>: It's like.
+
+03:03:35
+<transcript>: no
+
+03:03:37
+tnkhanh: lol
+
+03:03:38
+<transcript>: No, I don't know. I'm gonna not try.
+
+03:03:38
+<transcript>: not really
+
+03:03:41
+<transcript>: Not really related though.
+
+03:03:44
+<transcript>: They might both use the same I'm underlying something.
+
+03:03:44
+<transcript>: some fundament
+
+03:03:47
+<transcript>: Some fundamental networking thing that I don't understand.
+
+03:03:56
+<transcript>: So if you've ever interacted with like the Google APIs, like like Google Vision APIs or whatever. I'm pretty sure a lot of their SDKs.
+
+03:03:56
+<transcript>: use
+
+03:04:00
+<transcript>: Use gRPC and if some networking thing.
+
+03:04:00
+<transcript>: that's different
+
+03:04:06
+<transcript>: That's different than other traditional Agres is over http.
+
+03:04:06
+<transcript>: i think
+
+03:04:07
+caldotjs: afaik they dont. gRPC is a RPC framework
+
+03:04:08
+<transcript>: I think by definition.
+
+03:04:08
+<transcript>: you're just making
+
+03:04:12
+<transcript>: You're just making http requests to an API.
+
+03:04:12
+<transcript>: grp
+
+03:04:15
+<transcript>: Grpc is an RPC framework.
+
+03:04:26
+<transcript>: Yeah, I don't know. I don't know. I don't know how TrpC works at the networking level. Like, I don't know, actually, why it's called TrpC. If RPC is.
+
+03:04:26
+<transcript>: meant to represent the
+
+03:04:32
+<transcript>: Meant to represent the What's going on network wise. I don't know. Now we're talking about stuff. I just don't know.
+
+03:04:34
+caldotjs: to connect devices in a distributed context iirc. so servers talking between each other as example
+
+03:04:34
+sockenguy: I am going to read some deeper documents regarding rpc, really interesting
+
+03:04:41
+<transcript>: Okay. So I want I want my state machine to handle this game behavior. This gameplay where you start out with 30 seconds.
+
+03:04:41
+<transcript>: that time
+
+03:04:55
+<transcript>: That timer is ticking, but every time you answer a question, your timer either extends by 5 seconds or goes down by 5 seconds. And as I'm saying it out loud, we start that initial timer for 30 seconds.
+
+03:05:04
+<transcript>: And then we do have some actions where we can we can update that timer.
+
+03:05:16
+<transcript>: So could we just on every response when we get an answer back from the server on every one of those. Could we do like a delayed event that's like Game over.
+
+03:05:19
+<transcript>: And we cancel the original one somehow.
+
+03:05:19
+<transcript>: maybe
+
+03:05:20
+<transcript>: Maybe.
+
+03:05:20
+<transcript>: i
+
+03:05:23
+<transcript>: I don't know. Maybe.
+
+03:05:26
+<transcript>: Might be a question for David.
+
+03:05:26
+<transcript>: i might have to
+
+03:05:28
+<transcript>: I might have to DM? David.
+
+03:05:36
+<transcript>: I could do it outside of X state. I just don't want to. The whole point was like, I want to put it all in X state.
+
+03:05:40
+<transcript>: To connect devices in a distributed context if I recall correctly.
+
+03:05:47
+<transcript>: So terrorist server server is talking between each other example.
+
+03:05:47
+<transcript>: i'm going to
+
+03:05:54
+<transcript>: I'm going to read some deeper documents regarding RPC. Really interesting. Yeah, please do. And let me know come back and let me know let me know what you learned.
+
+03:05:58
+<transcript>: Alright, I think.
+
+03:05:58
+<transcript>: i
+
+03:06:00
+<transcript>: I think I'm gonna call it here.
+
+03:06:07
+<transcript>: I do want to follow up with David.
+
+03:06:11
+<transcript>: On how I might accomplish this with X state because.
+
+03:06:21
+<transcript>: I think there's probably an elegant way. I'm just not seeing it. I've learned a lot about X state, but I haven't learned everything about X eight yet.
+
+03:06:23
+<transcript>: Thank You, Everybody so much.
+
+03:06:23
+<transcript>: for coming
+
+03:06:25
+<transcript>: For coming along.
+
+03:06:26
+uberrick: hey Adam haha, gets notification that prime is streaming and gonna call it eh ;)
+
+03:06:29
+<transcript>: It's been good fun. I was gone for a week.
+
+03:06:29
+<transcript>: uber
+
+03:06:31
+<transcript>: Uberick's, here.
+
+03:06:33
+<transcript>: Wait. Private stream.
+
+03:06:33
+<transcript>: is he really
+
+03:06:36
+<transcript>: Is he really I didn't. I didn't know. Prima streaming.
+
+03:06:40
+<transcript>: I generally end around this time. Oh, he sure is.
+
+03:06:41
+uberrick: just now though
+
+03:06:42
+caldotjs: have an awesome day!
+
+03:06:43
+<transcript>: Perfect timing. Then.
+
+03:06:43
+<transcript>: can raid
+
+03:06:46
+<transcript>: Can raid can raid Prime.
+
+03:06:53
+<transcript>: Yeah. You would all have an awesome day as well. It's been fantastic. I'll be back on Thursday. I promise. This week.
+
+03:06:53
+<transcript>: and then
+
+03:06:57
+cowfacedude99: too bad you were too busy and I didn't get a chance to rick roll you
+
+03:07:01
+<transcript>: And then soon I'll be doing more than two a week. I miss you all I miss just hanging out every day. Used to do that. Used to hang out there every day.
+
+03:07:01
+<transcript>: so bad you're too busy and i
+
+03:07:10
+<transcript>: So bad you're too busy. And I didn't get a chance to Rick roll you. I was very busy and so busy. I'm gonna end the stream before I get Rick rolled. Okay. It's been great. Maybe we can do it again sometime.
+
+03:07:11
+uberrick: See Thurs! New job has made it harder to pop by
+
+03:07:18
+tnkhanh: thanks! nice stream
+
+03:08:25
+adamdotdev: need 5 more raiders lol

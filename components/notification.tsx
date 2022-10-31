@@ -49,17 +49,17 @@ export const NotificationContainer: React.FC<NotificationContainerProps> = ({
 }
 
 const newFollowerAlert =
-  typeof Audio !== "undefined"
-    ? new Audio("/media/new-follower.wav")
-    : undefined
+  typeof Audio !== "undefined" ? new Audio("/media/tada-05.wav") : undefined
 const newSubscriberAlert =
-  typeof Audio !== "undefined"
-    ? new Audio("/media/new-subscriber.wav")
-    : undefined
+  typeof Audio !== "undefined" ? new Audio("/media/tada-04.wav") : undefined
 const rewardRedemptionAlert =
-  typeof Audio !== "undefined"
-    ? new Audio("/media/reward-redemption.wav")
-    : undefined
+  typeof Audio !== "undefined" ? new Audio("/media/nope.wav") : undefined
+const raidAlert =
+  typeof Audio !== "undefined" ? new Audio("/media/tada-02.wav") : undefined
+const giftSubAlert =
+  typeof Audio !== "undefined" ? new Audio("/media/tada-03.wav") : undefined
+const cheerAlert =
+  typeof Audio !== "undefined" ? new Audio("/media/tada-01.wav") : undefined
 
 export interface FollowerNotificationProps {
   event: TwitchChannelFollowEvent
@@ -179,8 +179,7 @@ export const CheerNotification: React.FC<CheerNotificationProps> = ({
   ...props
 }) => {
   useEffect(() => {
-    // TODO: play cheer sound
-    rewardRedemptionAlert?.play()
+    cheerAlert?.play()
   }, [])
 
   const cleanupCheerMessage = (message: string) => {
@@ -257,8 +256,7 @@ export const SubscriptionGiftNotification: React.FC<
   SubscriptionGiftNotificationProps
 > = ({ event, className = "", ...props }) => {
   useEffect(() => {
-    // TODO: play gift sound
-    rewardRedemptionAlert?.play()
+    giftSubAlert?.play()
   }, [])
 
   return (
@@ -309,8 +307,7 @@ export const RaidNotification: React.FC<RaidNotificationProps> = ({
   ...props
 }) => {
   useEffect(() => {
-    // TODO: play raid sound
-    rewardRedemptionAlert?.play()
+    raidAlert?.play()
   }, [])
 
   return (

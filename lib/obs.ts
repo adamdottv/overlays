@@ -144,7 +144,7 @@ export default class ObsController {
     const camera1 = "BA868701-8131-49CB-8EDD-8C7E6E7CD60B"
     const camera2 = "14029354-EC7B-4409-B4BC-708E88D9D782"
     const url = (layer: string, action: string) =>
-      `http://adams-mac-mini.local:8989/api/v1/documents/691811177/layers/${layer}/${action}`
+      `http://adams-mac-studio.local:8989/api/v1/documents/691811177/layers/${layer}/${action}`
 
     switch (to) {
       case "Camera":
