@@ -4,6 +4,18 @@ export const randomItem = <T>(array: Array<T>) => {
   return array[Math.floor(Math.random() * array.length)]
 }
 
+/**
+ * Shuffles array in place. ES6 version
+ * @param {Array} a items An array containing the items.
+ */
+export const shuffle = <T>(a: Array<T>) => {
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
 export const formatDate = (date?: Date | string) => {
   if (!date) return ""
 

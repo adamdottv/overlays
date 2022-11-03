@@ -1,0 +1,1678 @@
+
+
+11:35:31
+<transcript>: Subscribe.
+
+11:35:37
+adamdotdev: !topic building awguess
+
+11:35:49
+adamdotdev: !topic building awguess, i guess
+
+11:40:11
+<transcript>: You.
+
+00:02:51
+vim_cerf: sthHype
+
+00:03:43
+bheet: robotarm is crazy
+
+00:04:26
+schrew: I woke up earlier than Adam today. This is a good morning
+
+00:07:29
+ohmymndy: Good morning everyone!
+
+00:07:36
+ohmymndy: New tune who dis!?
+
+00:07:39
+corfliss: Good morning.
+
+00:07:52
+myst3rymage: Good morning !
+
+00:09:52
+oetziofficial: kruzSadge sound
+
+00:10:10
+oetziofficial: hello 👋🤗
+
+00:10:20
+ohmymndy: Long time no see
+
+00:10:53
+<transcript>: Mandy.
+
+00:10:53
+<transcript>: mandy
+
+00:10:55
+<transcript>: Mandy's, here.
+
+00:10:55
+<transcript>: it's
+
+00:11:00
+<transcript>: It's been so long. Mandy not trying to guilt you. I just missed you. Longtime. No. See.
+
+00:11:03
+<transcript>: Oh, it's easier.
+
+00:11:03
+<transcript>: mystery
+
+00:11:07
+sargath666: hail! @adamdotdev
+
+00:11:07
+<transcript>: Mystery mades and corpless and Shrew is up before me.
+
+00:11:07
+<transcript>: what
+
+00:11:09
+<transcript>: What.
+
+00:11:12
+<transcript>: And Vincerf, and beat.
+
+00:11:14
+ohmymndy: Super busy at work, lots of meetings and stuff
+
+00:11:18
+cowfacedude99: chat. should I rick roll him into working????
+
+00:11:19
+<transcript>: And something like 20 other people that aren't saying Hi and chat, that's fine.
+
+00:11:19
+<transcript>: no guilt
+
+00:11:22
+gutsyphilip: Damn... Crisp video! Welcome!
+
+00:11:22
+<transcript>: No guilt. Super busy at work. Oh, I totally get it.
+
+00:11:25
+aarrjaay: Hi
+
+00:11:26
+<transcript>: Stargoth is here in calfase.
+
+00:11:26
+<transcript>: should you rick
+
+00:11:26
+tayloreddev: hi
+
+00:11:26
+jakepagee: heyyy
+
+00:11:40
+<transcript>: Should you, Rick, roll me into working just straight off the bit. Just right off the bat gutsy, Phillip. Welcome to chat. Oh, welcome to chat, Jake. Paige. Hey, I know you seen you underscore there's a little plug hop in the discord, Taylor's here in RJ's. Here.
+
+00:11:45
+ohmymndy: Cool neon sign, is it LED?
+
+00:11:47
+gutsyphilip: What cam do you use?
+
+00:11:48
+<transcript>: Oh, I said I was gonna say, oh, yeah? The music? It stops during the intro. It's an off by one error. Maybe we'll fix it on my stream.
+
+00:11:51
+<transcript>: Yes, it is. Led. Mandy.
+
+00:11:51
+<transcript>: what camera
+
+00:11:54
+<transcript>: What camera? It's a.
+
+00:11:54
+<transcript>: sony
+
+00:11:56
+<transcript>: Sony A Seven S three.
+
+00:11:56
+<transcript>: i think all
+
+00:11:58
+adamdotdev: !camera
+
+00:11:58
+fossabot: Adam uses two main cameras, a Sony A7S III with a Sony FE 35mm F1.8 Lens which sits behind a teleprompter and serves as the wide angle shot of the office. As well as a Sony A7 IV with a Sony FE 50mm F1.2 GM which is used for the green screen camera whilst Adam is sharing his screen.
+
+00:12:02
+<transcript>: I think all that stuff is in like a command where you can just do like that. It's a long I haven't seen that command.
+
+00:12:02
+<transcript>: and as long as i
+
+00:12:04
+<transcript>: And as long as I haven't seen Mandy.
+
+00:12:07
+<transcript>: I've got a little eye Twitch developing.
+
+00:12:08
+oetziofficial: audio delayed? or is it just me
+
+00:12:11
+<transcript>: So getting old things I guess I'm 36.
+
+00:12:16
+<transcript>: Audio delay to oh, okay, it could be there could be a issue.
+
+00:12:18
+ohmymndy: eyetwitch.io
+
+00:12:19
+<transcript>: Anybody else having an audience delay.
+
+00:12:19
+<transcript>: or does
+
+00:12:21
+oetziofficial: or video delayed?
+
+00:12:22
+<transcript>: Or does they just need to refresh, refresh.
+
+00:12:22
+<transcript>: i twitch
+
+00:12:23
+schrew: Just you, methinks
+
+00:12:24
+<transcript>: I Twitch. Yeah, I've been streaming on Twitch. Now. I have.
+
+00:12:24
+<transcript>: i
+
+00:12:25
+jakepagee: looks good for me
+
+00:12:28
+<transcript>: I have a Twitch in my eye.
+
+00:12:28
+<transcript>: it's
+
+00:12:29
+oetziofficial: ah okok
+
+00:12:29
+<transcript>: It's like right here.
+
+00:12:31
+cowfacedude99: LGTM
+
+00:12:32
+<transcript>: Just a little throbbing.
+
+00:12:32
+<transcript>: it's been
+
+00:12:34
+<transcript>: It's been like a week now.
+
+00:12:37
+<transcript>: So.
+
+00:12:37
+<transcript>: i don't know
+
+00:12:37
+oetziofficial: SeemsGood SeemsGood
+
+00:12:39
+<transcript>: I don't know. I was thinking about that.
+
+00:12:39
+<transcript>: like it hasn't
+
+00:12:41
+<transcript>: Like it hasn't stopped.
+
+00:12:44
+corfliss: Good morning, Mr. Elmore. Don't forget to drink water. Should be helpful for debugging.
+
+00:12:47
+<transcript>: I don't think it's, like, visible on you can, like, watch it Twitch. But I feel it.
+
+00:12:47
+<transcript>: good morning
+
+00:12:52
+<transcript>: Good Morning, Corps List Don't forget to drink water should be helpful for Dbling that's a good.
+
+00:12:55
+<transcript>: Call. I do have my water.
+
+00:13:01
+<transcript>: I don't know what's with the arrow. The arrow hands. Today. I keep doing this.
+
+00:13:04
+cowfacedude99: did you see prime's PR to next? LGTM reminded me of it LUL
+
+00:13:14
+<transcript>: Some people, like, have a thing. I've been recording YouTube videos, and I've kind of got a thing going where I'm like, I'm right, let's do it. And that kind of hate it. I might bail on it immediately.
+
+00:13:14
+<transcript>: see prime's
+
+00:13:17
+<transcript>: See Prime's PR to next oh, Yeah.
+
+00:13:23
+<transcript>: Comment on it.
+
+00:13:23
+<transcript>: that's awesome
+
+00:13:25
+<transcript>: That's awesome. An emoji. It.
+
+00:13:34
+sargath666: @adamdotdev tbh you have the most crispy stream quality among twitch programmers and gammers, everything looks so decent, smooth, and solid
+
+00:13:37
+<transcript>: I might make a video this week. A YouTube video, just about next font. Would that be the lamest YouTube video ever? Would you all hate me and just unsubscribe.
+
+00:13:38
+bheet: go watch some sunrine/skylines/far aways sights to relax your eye muscles
+
+00:13:50
+<transcript>: To perhaps you have the most crispy stream quality among Twitter programmers in Game and gamers. Everything looks so decent, smooth and solid. I appreciate that, Sargass. I like production quality. I like.
+
+00:13:50
+<transcript>: getting
+
+00:13:53
+<transcript>: Getting things just right aesthetic.
+
+00:14:03
+<transcript>: Go watch some sunrise skylines far away sights to relax your eye muscles. Is that what it is? Beat if I just spent too much time looking at a screen? Thank you for the follow breath on.
+
+00:14:03
+<transcript>: or
+
+00:14:05
+<transcript>: Or ex. Breebon.
+
+00:14:10
+ohmymndy: 20/20/20 rule might help
+
+00:14:12
+corfliss: Adam did the branding like a month, afaik.
+
+00:14:14
+bheet: could be
+
+00:14:15
+xbrivon: yoo
+
+00:14:16
+<transcript>: Mandy. Mandy. What have you missed? Who knows? Probably nothing. I don't know. We're just hanging out. Mostly. I'm all we do. 20 2020 rule. I know that rule.
+
+00:14:16
+<transcript>: that
+
+00:14:19
+xbrivon: :D
+
+00:14:25
+cowfacedude99: @sargath666 Sorry adam but personally altf4 tops your quality
+
+00:14:26
+<transcript>: That rule is look at something 20ft away every 20 minutes or 20 seconds for 20 seconds, look at them. Look at something 20ft away for 20 seconds.
+
+00:14:26
+<transcript>: every twenty minutes
+
+00:14:27
+<transcript>: Every 20 minutes.
+
+00:14:27
+<transcript>: i don't do that
+
+00:14:31
+<transcript>: I don't do that at all. I just don't.
+
+00:14:31
+<transcript>: oh
+
+00:14:36
+sargath666: I don't think so
+
+00:14:37
+<transcript>: Oh, no? Alt F? Four tops my quality? Someone tops my quot? What do you mean by quality.
+
+00:14:37
+<transcript>: quality
+
+00:14:45
+<transcript>: Quality of the whole product like their personality is better than mine totally get it but they're production quality is better than mine.
+
+00:14:45
+<transcript>: not
+
+00:14:47
+<transcript>: Not it's very possible.
+
+00:14:47
+<transcript>: i do
+
+00:14:50
+sargath666: nope
+
+00:14:50
+<transcript>: I do have some ideas. I had some things on my.
+
+00:14:50
+<transcript>: go
+
+00:14:55
+gutsyphilip: Nah
+
+00:14:58
+<transcript>: Go down that rabbit hole too hard. Like, I don't want to spend another month on stream, just like building out stuff.
+
+00:14:58
+schrew: probably just in terms of coffee quality Kappa
+
+00:15:02
+<transcript>: But I have some ideas. I do.
+
+00:15:10
+<transcript>: Coffee quality. Yeah. My coffee is sake. I will. I'll give you that all the coffee you see on this stream. Steak.
+
+00:15:10
+<transcript>: danny blend
+
+00:15:11
+<transcript>: Danny blend.
+
+00:15:18
+<transcript>: Today I put a little tea packet in there. Some black tea.
+
+00:15:21
+<transcript>: Little caffeine. I'm not just like I needed it today.
+
+00:15:21
+<transcript>: it's one of those
+
+00:15:23
+<transcript>: It's one of those mornings.
+
+00:15:25
+sargath666: camera work, focus, everything from adam is so refined
+
+00:15:26
+laytanl_: hey!
+
+00:15:29
+<transcript>: We're gonna we're gonna work on AW, guess.
+
+00:15:33
+<transcript>: Aw, guess again. Leighton is here.
+
+00:15:38
+sargath666: in this mater ofc
+
+00:15:38
+<transcript>: I just. I want to get it done for reinvent. Because, like, reinventing.
+
+00:15:40
+<transcript>: Aws, Christmas.
+
+00:15:40
+<transcript>: and i
+
+00:15:40
+bheet: coffee with thee?
+
+00:15:45
+<transcript>: And I want to have, like, a leaderboard. I want to have some fun stuff going on.
+
+00:15:57
+<transcript>: With a to you. Yes. And now when I announce it like I haven't said anything about it on Twitter. And I know like most of my Twitter following is following me because of AWS stuff. So I want them to get the play with it.
+
+00:16:05
+<transcript>: Release it into the wild. Have a reason to, like, actually play it where you get a score, and then there's a leaderboard. We're doing it.
+
+00:16:05
+<transcript>: we gotta finish it
+
+00:16:06
+<transcript>: We gotta finish it.
+
+00:16:06
+<transcript>: maybe maybe we
+
+00:16:14
+<transcript>: Maybe. Maybe we finish it this week, Thursday and Fridays. That enough time. We've gone incredibly slow. Part of it's because I spend all this time talking to you all like, I'm a late night.
+
+00:16:14
+<transcript>: talk show
+
+00:16:16
+<transcript>: Talk show host or something.
+
+00:16:16
+<transcript>: not
+
+00:16:20
+<transcript>: Not. I'm just setting up my desk to do some work.
+
+00:16:24
+<transcript>: I should probably do that work. We ready? Are we ready.
+
+00:16:28
+<transcript>: Coffee with the C.
+
+00:16:32
+<transcript>: It's Dandy Blend It's made out of Dandelion root.
+
+00:16:32
+<transcript>: and then
+
+00:16:34
+<transcript>: And then.
+
+00:16:36
+gutsyphilip: ready!
+
+00:16:38
+nexxeln: hi adam
+
+00:16:39
+<transcript>: Today I put, oh, Geez, there, that's a way to put me in the work mode.
+
+00:16:48
+<transcript>: It doesn't really, though, because it doesn't do the full transition, like we're getting an ad. Really.
+
+00:16:53
+<transcript>: Eric Roll ad.
+
+00:16:55
+ohmymndy: Haha no adblocker, come on Adam!
+
+00:16:59
+yeltrah_: Haha
+
+00:17:01
+<transcript>: Here you are.
+
+00:17:01
+<transcript>: kathy
+
+00:17:03
+ohmymndy: And no audio...
+
+00:17:05
+nexxeln: youtube premium or brave browser when
+
+00:17:06
+<transcript>: Kathy. So you just got you got points to burn there's ad blockers.
+
+00:17:06
+<transcript>: for youtube
+
+00:17:08
+cowfacedude99: no premium?
+
+00:17:08
+<transcript>: For YouTube.
+
+00:17:08
+<transcript>: yeah we
+
+00:17:24
+<transcript>: Yeah, we don't do the audio on this one, Mandy. It's a whole thing. It's like Copyright. And I can't seem to pipe Chrome audio into the second channel of my audio that doesn't go to the VOD. It's just it's a problem, but I've just given up. So there you go.
+
+00:17:32
+<transcript>: I didn't know you could Nexus here. I didn't know you could add block YouTube ads.
+
+00:17:32
+<transcript>: youtube
+
+00:17:35
+laytanl_: anyone else have ublock origin but the YouTube ads still show?
+
+00:17:36
+ohmymndy: Can't audioflower or something route audio on OSX?
+
+00:17:37
+lilfreezi: oy
+
+00:17:37
+sargath666: yeah you can apply adblock for everything on routing lvl ;)
+
+00:17:39
+<transcript>: Youtube Premium or Brave Browser. Okay, interesting. Thank you for the follow Esu.
+
+00:17:39
+<transcript>: no premium
+
+00:17:45
+<transcript>: No premium. No, I don't pay. Why would I pay YouTube? It's free. Anyone else have other.
+
+00:17:47
+yeltrah_: Hey hey
+
+00:17:49
+<transcript>: Origin with the YouTube ads still show.
+
+00:17:57
+ohmymndy: Rather pay 8 bucks for verified Twitter am I right?
+
+00:18:05
+<transcript>: So I'm using a thing called Loops or something like that. Mandy to do my audio routing, but there's a Chrome bug, and you can't route Chrome audio on a Mac. You just can't. It goes to a random, weird channel and you can't stop it. There's no stopping it.
+
+00:18:07
+<transcript>: What I want to do here.
+
+00:18:07
+<transcript>: i want to
+
+00:18:08
+nexxeln: when you buy yt premium, it pays creators more too
+
+00:18:09
+<transcript>: I want to detach.
+
+00:18:09
+<transcript>: i want to create
+
+00:18:12
+<transcript>: I want to create a new tmux.
+
+00:18:18
+<transcript>: I just say Tmax. That appeared a new session, right? Yeah, Yeah.
+
+00:18:21
+<transcript>: Code.
+
+00:18:23
+<transcript>: Playground.
+
+00:18:23
+<transcript>: aw
+
+00:18:25
+laytanl_: ublock origin used to block YouTube ads too
+
+00:18:25
+<transcript>: Aw guess.
+
+00:18:25
+<transcript>: man
+
+00:18:30
+<transcript>: Mandy, we're making a thing called, AWS, it's a guessing game.
+
+00:18:30
+<transcript>: you probably haven't seen
+
+00:18:30
+ohmymndy: You can play the youtube video in VLC
+
+00:18:30
+laytanl_: not anymore I think
+
+00:18:31
+<transcript>: You probably haven't seen any of this.
+
+00:18:34
+nexxeln: its better than ad blockers because you can have no ads and creator still get paid
+
+00:18:35
+<transcript>: Let's do like this.
+
+00:18:40
+<transcript>: Oh, did I just create, like, three of them? Okay, cool.
+
+00:18:43
+<transcript>: Let's do like this.
+
+00:18:50
+<transcript>: So we're gonna do P scale connect AWS X state.
+
+00:18:56
+<transcript>: What? Is that? An xDate branch. So what? I call that. Okay.
+
+00:18:56
+<transcript>: and then let's
+
+00:18:59
+<transcript>: And then let's go to.
+
+00:19:02
+<transcript>: Cd code, playground.
+
+00:19:06
+<transcript>: Let's do.
+
+00:19:06
+<transcript>: is
+
+00:19:09
+<transcript>: Is that the only thing I have to do? Maybe that's a one has to.
+
+00:19:11
+sargath666: awguess sound almost like aws to me xD  - you should gain some credits from them
+
+00:19:15
+<transcript>: And then yarn Dev.
+
+00:19:18
+<transcript>: Over here.
+
+00:19:19
+ohmymndy: If I hadn't have enough subscriptions already... Deezer, Tidal, Netflix, Disney, Amazon prime, Serato...
+
+00:19:21
+<transcript>: Open it up, and Neal, vim.
+
+00:19:21
+<transcript>: i need to update
+
+00:19:26
+<transcript>: I need to update Neal them again. I got some weird errors. I think they're just deprecation warnings, but.
+
+00:19:30
+<transcript>: Let's see you guys are still talking about.
+
+00:19:30
+<transcript>: paying
+
+00:19:34
+<transcript>: Paying paying people for free things.
+
+00:19:36
+<transcript>: Just mess with you.
+
+00:19:39
+<transcript>: Heart gene is here.
+
+00:19:47
+<transcript>: Let's see rather pay $8 for verified Twitter am. Alright. Alright. That's the topical thing right now. That's the thing we talk about.
+
+00:19:47
+<transcript>: is el
+
+00:19:53
+anitrogen: whats the most useful programming language in your opinion
+
+00:20:00
+<transcript>: Is Elon Musk buying Twitter when you buy YouTube premium, it pays creators more to. I didn't know that next. Okay, so I will do it then, because I do the Turbo. What is it on Twitch? Turbo, Twitch, or whatever it's called.
+
+00:20:00
+<transcript>: something just
+
+00:20:08
+<transcript>: Something just happened and it's not in my activity, but thank you so much for whoever just did some. I think they just maybe resubscribed.
+
+00:20:13
+<transcript>: You can play the YouTube video in VLC.
+
+00:20:13
+<transcript>: not anymore
+
+00:20:16
+<transcript>: Not anymore. Okay, I'm just gonna stop with the.
+
+00:20:18
+<transcript>: Ad talk.
+
+00:20:18
+<transcript>: interview guest
+
+00:20:23
+<transcript>: Interview Guest Sounds almost like AWS to me. You should get some credits from them.
+
+00:20:23
+<transcript>: i
+
+00:20:26
+iann0036: I'd rather pay uncle Jeff for Prime ;)
+
+00:20:30
+<transcript>: I do have some credits. I've got a lot of credit. Actually, I've got more credits than I'll spin before they expire. Probably.
+
+00:20:47
+<transcript>: I hadn't have enough subscriptions already. These are titled Netflix, Disney, Amazon Prime Serato. Wow. Do you pay for title? What is title? It's the audio thing, right? I didn't know people still use that. I thought it like Win Under or something. Or maybe it just didn't do as well as people thought it would do. And they got all upset.
+
+00:20:47
+<transcript>: what's the most
+
+00:20:51
+<transcript>: What's the most useful programming language, in your opinion.
+
+00:20:54
+<transcript>: Well, nitrogen.
+
+00:20:54
+<transcript>: i
+
+00:20:56
+<transcript>: I.
+
+00:21:02
+ohmymndy: Yes Tidal and Deezer for music, I like high fidelity audio, and Spotify doesn't delivery
+
+00:21:05
+<transcript>: 'm of the job persuasion because I build things for the web if you build things for the web. Sorry, I got some little back behind the curtain here.
+
+00:21:05
+<transcript>: wizard
+
+00:21:10
+<transcript>: Wizard of Oz. This is the part we don't show.
+
+00:21:23
+nexxeln: tidal is not available in my country t3ggCry
+
+00:21:25
+<transcript>: So I build stuff for the web. I think JavaScript is the most important language if you're building for the web, because ultimately you have to write some for the browser like the browser. Well, I say that.
+
+00:21:25
+<transcript>: you
+
+00:21:28
+iann0036: And where can we party with you at re:Invent?
+
+00:21:34
+ghostyx101: hello
+
+00:21:36
+<transcript>: You don't have to Washm. You could write a lot of differently. Okay, take it all back. I don't know. Anybody know what's the most important language? I think the most important one is the one that you'll stick with learning because it's fun.
+
+00:21:41
+gutsyphilip: Rust!
+
+00:21:42
+<transcript>: It's kind of a dumb, non answer, but welcome to Chat. A nitrogen. I appreciate you.
+
+00:21:42
+<transcript>: and thanks for
+
+00:21:46
+<transcript>: And thanks for the follow. I'd rather pay Uncle Jeff for prize.
+
+00:21:53
+<transcript>: Title and dieser for Music OOH High Fidelity Audio Spotify doesn't deliver speaking of.
+
+00:21:53
+<transcript>: its spotify
+
+00:21:55
+<transcript>: Its Spotify time.
+
+00:21:59
+ghostyx101: whatever is in demand and what u could bring more value with is the most important language
+
+00:22:03
+j3sus_h: ayyyoo we building
+
+00:22:04
+<transcript>: We're not going to shuffle today. We're just gonna ride with all J. So I need a new Chrome window over here because.
+
+00:22:04
+<transcript>: somebody
+
+00:22:06
+<transcript>: Somebody.
+
+00:22:07
+nexxeln: javascript cause you can build anything, websites, clis, mobile apps, desktop apps, embedded. doesn't mean its good in all of them but its useful
+
+00:22:07
+<transcript>: Killed my cry.
+
+00:22:12
+<transcript>: Who did that? Who killed my Chrome. I'm just kidding. I know who did it.
+
+00:22:21
+<transcript>: All right, we're gonna go local host. And is it on three, three, three. Now it's 3000.
+
+00:22:21
+<transcript>: aw
+
+00:22:25
+<transcript>: Aw guess everyone's favorite AW guessing game.
+
+00:22:26
+laytanl_: how good does your audio setup need to be to hear the difference @ohmymndy
+
+00:22:32
+<transcript>: Are AWS guessing game. We're gonna do a new font because this one sucks. Oh, maybe we'll upgrade it to next 13. Why not.
+
+00:22:39
+j3sus_h: We doing Azure this morning
+
+00:22:39
+bheet: +
+
+00:22:39
+<transcript>: Why not? Because everything's experimental and broken. That's a good reason. But otherwise, why not.
+
+00:22:41
+corfliss: Brainf*** is so intuitive. Kappa
+
+00:22:43
+j3sus_h: let's gooo
+
+00:22:43
+<transcript>: Everything's not broken. All the component library stuff is great.
+
+00:22:48
+<transcript>: Ayo Jesus H we are building AW.
+
+00:22:48
+<transcript>: guess
+
+00:22:58
+lilfreezi: @j3sus_h yo
+
+00:23:01
+j3sus_h: Azure Working Services
+
+00:23:01
+<transcript>: Guess also. Thank you for the follow lazy developer. I didn't hear that one in my ear. Rust says gutsy. Phillip, I don't know if you should start people unrest. I feel like the learning curve of rest is such that maybe not the best first language.
+
+00:23:03
+lilfreezi: fancy seeing you here
+
+00:23:06
+gutsyphilip: Worried about building anything major on Next 13
+
+00:23:07
+<transcript>: But maybe the most important language in the future. It does seem like everything's being written in rest now.
+
+00:23:10
+j3sus_h: it's muh boi freezi!
+
+00:23:11
+ohmymndy: 200+ euro headphones and some high quality dac
+
+00:23:14
+ghostyx101: but also dont follow every trend u can find, u also have a life outside programming so go live
+
+00:23:14
+<transcript>: In. Where can we party with you at Reinvent? Great question.
+
+00:23:19
+j3sus_h: @lilfreezi PowerUpL ending9Hype PowerUpR
+
+00:23:20
+<transcript>: I don't know. I've never been I'm very excited. I'm gonna be.
+
+00:23:25
+j3sus_h: hanaxbLight hanaxbLight hanaxbLight hanaxbLight hanaxbLight
+
+00:23:31
+<transcript>: Wherever the action is, I'm gonna be hanging out. There is like a hero booth. So I'm sure I'll meet a lot of people at the hero booth. I'll go there at some point because I'm sure there'll be a lot of heroes.
+
+00:23:31
+<transcript>: converging
+
+00:23:44
+<transcript>: Converging on the hero booth. Or I don't know if it's a booth or like a lounge. Hero Lamb lounge. I think that's better like an airport lounge. I hope it's better than airport lounges, though, because those are kind of terrible.
+
+00:23:46
+bheet: +++
+
+00:23:50
+<transcript>: Javascript because you can build anything with.
+
+00:23:50
+<transcript>: cli's mob
+
+00:23:52
+gutsyphilip: Definitely agree with not starting with it. Stuck with JS for the past 6 years but I'm adding Rust to my stack now. Seems important for the future
+
+00:23:58
+<transcript>: Cli's mobile apps to sub apps embedded doesn't mean it's good and all of them, but it's useful. It's true. Next you can. You can pretty well touch everything with JavaScript.
+
+00:23:58
+<transcript>: how
+
+00:24:01
+<transcript>: How does your oh, you're talking to Mandy.
+
+00:24:01
+<transcript>: we doing
+
+00:24:03
+bheet: +++++
+
+00:24:08
+<transcript>: We doing Azure this morning? No, it's on. Aii might rewrite the backend soon. Ish.
+
+00:24:08
+<transcript>: not
+
+00:24:12
+<transcript>: Not a huge fan of Prisma and slowness on Versaille.
+
+00:24:15
+<transcript>: Let's see.
+
+00:24:17
+sargath666: we use php, go, and react js - we plan to migrate to react typscript because vanilla js is hell to me - I had to emphasize this xD
+
+00:24:23
+<transcript>: Shootuju also don't follow every trend you can find. You also have a live outside programming so go live live your life.
+
+00:24:27
+<transcript>: I'm trying to keep up with that. You guys are chatty.
+
+00:24:27
+<transcript>: not
+
+00:24:32
+nexxeln: rewrite in rust serverless functions
+
+00:24:36
+ghostyx101: what do u think of ysqla
+
+00:24:39
+<transcript>: Not starting with it. Stuck with JS for the past six years, adding rest to my staggering now seems important for the future. Yeah, I'm gonna be I'm gonna be learning some rest on stream on this very stream that you're watching right now. I'll be learning some rest. I'm excited.
+
+00:24:39
+<transcript>: talk with
+
+00:24:43
+ghostyx101: mysql, planetscale
+
+00:24:45
+<transcript>: Talk with TG the other day. There's a thing he's working on. Then I'm pretty excited. Subdivision.
+
+00:24:53
+corfliss: Question: ever wonder if you will do AI?
+
+00:24:55
+ohmymndy: Nice, also wanting to learn Rust and Go
+
+00:24:56
+<transcript>: There's some little side quests I could go on to try and build something that matters. I need something up front that matters. Like I know this thing is important to build.
+
+00:24:57
+gutsyphilip: Awesome!
+
+00:25:02
+<transcript>: Let's see ever wonder if you will do AI.
+
+00:25:02
+<transcript>: well corpus
+
+00:25:06
+<transcript>: Well Corpus, we've done some AI in the last week.
+
+00:25:06
+<transcript>: this is an
+
+00:25:08
+<transcript>: This is an AI stream.
+
+00:25:08
+<transcript>: we're
+
+00:25:10
+foobfoob: how do you deploy nextjs with api routes on lambda, do you use a framework for creating an lambda func for every api route or how does that work?
+
+00:25:11
+<transcript>: We're, AI programmers.
+
+00:25:11
+<transcript>: which means
+
+00:25:16
+<transcript>: Which means we know how to cobble together a bunch of Python to use other people's hard work.
+
+00:25:16
+<transcript>: that's what
+
+00:25:19
+<transcript>: That's what AI developers are.
+
+00:25:19
+<transcript>: also
+
+00:25:20
+ohmymndy: I have enough ebooks about go and rust but not enough energy and time...
+
+00:25:22
+<transcript>: Also wanting to learn, rest and go.
+
+00:25:22
+<transcript>: yes
+
+00:25:29
+maleero: What is he building?
+
+00:25:36
+<transcript>: Yes. Same. I've done some go work, but I want to do a lot of rest. That's what I want to spend all my time doing. This. Sounds like if you write Rust, you just enjoy life. You stay out of all the drama. You're just right. And Rust, it's got a great type system.
+
+00:25:36
+<transcript>: just
+
+00:25:48
+<transcript>: Just write really good software. Sounds fun. How do you deploy an XJS with API routes on the Lambda to use a framework for creating a land for every API route? Or how does that work? You just upload. Versaille. That's the problem with next. Yes.
+
+00:25:48
+<transcript>: they say you can
+
+00:25:52
+<transcript>: They say you can deploy it anywhere and like.
+
+00:25:52
+bheet: just write assembly
+
+00:25:54
+<transcript>: Whatever.
+
+00:25:54
+<transcript>: anywhere
+
+00:25:56
+nexxeln: adam has come full circle on the twitch dev streamer, first neovim now rust
+
+00:25:57
+ohmymndy: Go because a lot of the cloud native stuffs are written in it and Rust because speed
+
+00:26:03
+<transcript>: Anywhere you want, but really, it's not a fire Versaille. You can play those two places and soon AWS, AWS is gonna get better about nextdef deployments, but mostly.
+
+00:26:03
+<transcript>: you're stuck
+
+00:26:04
+j3sus_h: we're building a new binary prototype to compete with protobuf
+
+00:26:07
+<transcript>: You're stuck to pulling to Versailles. Do you want to use everything next? Does.
+
+00:26:07
+<transcript>: you're stuck
+
+00:26:09
+<transcript>: You're stuck on yourself.
+
+00:26:13
+<transcript>: Okay. What is he building? Well, so far.
+
+00:26:13
+<transcript>: so far nothing
+
+00:26:14
+<transcript>: So far nothing.
+
+00:26:30
+<transcript>: So far I'm building nothing. This is what I'm building, though. It's called, AW. Guess that was a slow transition. You've got like, these things. You gotta guess what is it? What is it? Cloudy, SM. And then it says, Ja. And you got a point. We're gonna make this look better, obviously.
+
+00:26:30
+<transcript>: this one
+
+00:26:33
+<transcript>: This one is something with coffee. What is this.
+
+00:26:36
+<transcript>: Oh, Geez, I have no idea.
+
+00:26:36
+<transcript>: what why would
+
+00:26:41
+<transcript>: What? Why would it look like a coffee cup? Corto that's like the Java? Oh, Java.
+
+00:26:51
+<transcript>: It just clicked. So when you miss one, it takes off 5 seconds when you get it right. Can I get one right? When you get it right it adds 5 seconds to the timer. Okay, game over.
+
+00:26:51
+<transcript>: so
+
+00:26:54
+<transcript>: So it's a little rough.
+
+00:26:54
+<transcript>: on
+
+00:26:59
+<transcript>: On the visuals, but we got all of the state management stuff and the game.
+
+00:26:59
+<transcript>: mechanics
+
+00:27:01
+<transcript>: Mechanics mostly working.
+
+00:27:09
+maleero: No, not this nonsense LUL the important thing
+
+00:27:21
+<transcript>: So the front and the back end, we just have to make it look nice. And then I have to add a leaderboard. And then I want to I want to change the score system to take into account streaks. So when you're on a streak, we're gonna visualize that it's like getting bigger and bigger and more intense and more scale that you're on a streak. Don't miss one, don't miss one, you're on a streak. You know what I'm saying.
+
+00:27:24
+<transcript>: Just write assembly. I don't know about that.
+
+00:27:31
+<transcript>: We're building a new binary prototype to compete with Protobust. Definitely not that.
+
+00:27:36
+<transcript>: The important thing, Maliro? What's the important thing.
+
+00:27:40
+<transcript>: You want me to build something else today? Not this dumb thing.
+
+00:27:48
+<transcript>: Do I work on important things ever. Oh, the rust thing. You may build a rough thing. There's, like, seven things I could be doing this morning.
+
+00:27:48
+<transcript>: and
+
+00:28:00
+<transcript>: And I just I thought I need to come back and finish this reinvents coming into the month. I couldn't build this offstream if you guys don't want to watch AW, guess I would get it. I don't know if I want to watch myself build AW guests.
+
+00:28:07
+<transcript>: What I really want to be doing is working on some.
+
+00:28:07
+<transcript>: dream
+
+00:28:08
+<transcript>: Dream booth.
+
+00:28:08
+<transcript>: on the
+
+00:28:10
+jakepagee: I kinda do
+
+00:28:11
+<transcript>: On the cloud stuff.
+
+00:28:14
+<transcript>: Would you guys want to watch me do that.
+
+00:28:18
+lilfreezi: im interested i havent watched any nextjs development
+
+00:28:23
+<transcript>: This is a T three app. So familiar with the T three stack. Aw, guess is a bunch of that.
+
+00:28:25
+<transcript>: It's.
+
+00:28:28
+bheet: cloud hacking
+
+00:28:29
+<transcript>: Next JS, and.
+
+00:28:31
+<transcript>: Planet Scale is a database.
+
+00:28:37
+nexxeln: beta.create.t3.gg
+
+00:28:37
+<transcript>: Interested? I haven't watched any next shift development. You know I got cut off earlier.
+
+00:28:39
+<transcript>: So.
+
+00:28:39
+<transcript>: calf a just
+
+00:28:42
+maleero: No, I’m just joking, this looks fun. You just mentioned “something important”
+
+00:28:46
+<transcript>: Calf a just sent me over to my desktop, and I wasn't quite ready. I had more I wanted to say. And one of the things I want to say is.
+
+00:28:55
+<transcript>: Well, what do we want to do on this stream? I might stream every morning. I might start streaming every morning for 4 hours. And if I do that, we're gonna have to have like a purpose.
+
+00:28:55
+<transcript>: i feel like
+
+00:29:00
+<transcript>: I feel like there needs to be a reason that I'm doing this like a theme.
+
+00:29:02
+maleero: With teej or something
+
+00:29:06
+<transcript>: It can't just be what could just be hanging out. But is that the theme? Should I just stop writing stuff.
+
+00:29:06
+nexxeln: finish the rust book!
+
+00:29:10
+<transcript>: And joking. This looks like fun. You just mentioned something important with TJ.
+
+00:29:14
+nexxeln: i'd co learn with you
+
+00:29:17
+<transcript>: Finish the rust book on stream. You guys want to watch me read the rest book and I guess do the little examples and stuff.
+
+00:29:17
+<transcript>: co learn with me
+
+00:29:18
+ohmymndy: Learn Rust with us
+
+00:29:26
+<transcript>: Co learn with me. I do want to learn. Rest. That wasn't like the next thing I was thinking on the string. But I could we could, we could do it. Let's do it.
+
+00:29:26
+<transcript>: i actually am
+
+00:29:29
+<transcript>: I actually am in the mood? I'm in the mood to learn something new.
+
+00:29:29
+<transcript>: since
+
+00:29:35
+<transcript>: Since we're just gonna abandon everything I had planned, we'll see I'm gonna change the title? We're gonna change the topic.
+
+00:29:35
+<transcript>: where
+
+00:29:37
+<transcript>: Where.
+
+00:29:37
+<transcript>: learning
+
+00:29:38
+<transcript>: Learning rust.
+
+00:29:41
+adamdotdev: !topic we're LEARNING RUST
+
+00:29:46
+<transcript>: And then I'm gonna change the title of the stream.
+
+00:29:49
+<transcript>: Learning rust.
+
+00:29:51
+nexxeln: rust by example or the official rust book/
+
+00:29:55
+<transcript>: And.
+
+00:29:55
+<transcript>: building
+
+00:29:57
+<transcript>: Building with.
+
+00:30:01
+<transcript>: What's it called building with you.
+
+00:30:01
+<transcript>: okay
+
+00:30:02
+<transcript>: Okay.
+
+00:30:09
+vim_cerf: We learning! hypComfy
+
+00:30:11
+<transcript>: We're gonna change the title now we'll draw in the rest craft. They can all come in and make fun of me. I hope we got the PrimeGen mustache. That's good.
+
+00:30:11
+<transcript>: we're learning
+
+00:30:31
+<transcript>: We're learning rust people we're gonna read. I don't think we're gonna do either rest by example or the official S book. I think I'm gonna start just with you. I'm just gonna start with the getting started on you because I want to build stuff that runs in the browser and I think I think that'll be good enough. If not, we'll jump back and we'll find something better with the rest book. Might be it.
+
+00:30:31
+<transcript>: the rest book
+
+00:30:37
+ohmymndy: Blazingly fast!
+
+00:30:38
+aarrjaay: Starting with me?  :D
+
+00:30:39
+<transcript>: The rest book might be a little like a little too slow for this stream and for like everyone enjoying themselves.
+
+00:30:42
+cowfacedude99: not sure you would want to start with yew
+
+00:30:44
+<transcript>: Blazingly fast. Starting with you, RJ.
+
+00:30:44
+<transcript>: so
+
+00:30:48
+<transcript>: So what are we starting with? Not sure you want to start with you really.
+
+00:30:48
+<transcript>: oh
+
+00:30:50
+aarrjaay: ohhh Yew?  me?
+
+00:30:51
+<transcript>: Oh, starting with me. You. I get it, I get it.
+
+00:30:56
+<transcript>: Okay. Since we're doing like we're doing random stuff now, and we're not doing anything I had planned.
+
+00:30:56
+<transcript>: first thing
+
+00:31:01
+<transcript>: First thing I want to do is fix that audio thing in my intro. I'm sorry, not sorry.
+
+00:31:12
+<transcript>: It'll take 2 seconds. It's literally an off by one error, but I can't sink and I need you all to just tell me, oh, minus one, you dummy. So I can just move on because it's an issue, and I just want to fix it.
+
+00:31:16
+<transcript>: And then we're learning, rest.
+
+00:31:16
+<transcript>: let's
+
+00:31:18
+<transcript>: Let's do it.
+
+00:31:18
+<transcript>: now i
+
+00:31:20
+sargath666: @adamdotdev to me, exercism.org is nice spot to check out, if it comes to play with new language
+
+00:31:25
+nexxeln: off by 1 errors REEE
+
+00:31:28
+<transcript>: Now I'm ready cafe. See how I kind of like my body language suggests I'm shifting over here now I'm ready to start sharing my screen.
+
+00:31:28
+<transcript>: you know i'm
+
+00:31:29
+nexxeln: no reee emote :(
+
+00:31:30
+<transcript>: You know, I'm saying.
+
+00:31:30
+<transcript>: to
+
+00:31:37
+<transcript>: To me, exorcism.org is a nice spot to check out if it comes to play with a new language.
+
+00:31:37
+<transcript>: exorci
+
+00:31:41
+<transcript>: Exorcism.org. Okay, we'll take a look.
+
+00:31:46
+<transcript>: No re emote? What's? Re.
+
+00:31:49
+<transcript>: What's a re emote.
+
+00:31:53
+<transcript>: Rj thank you so much for the resub. Thank you so much.
+
+00:31:53
+<transcript>: for
+
+00:31:59
+<transcript>: For your resub and for your original sub. All of your subs. Really. Thank you.
+
+00:31:59
+<transcript>: the first one
+
+00:31:59
+sargath666: resuba emote
+
+00:32:00
+<transcript>: The first one. This one.
+
+00:32:00
+<transcript>: just all of them
+
+00:32:02
+<transcript>: Just all of them.
+
+00:32:07
+<transcript>: A resubmote. I should have a resub amount. What is this.
+
+00:32:13
+nexxeln: https://betterttv.com/emotes/5f8d26fb473f4802fe473b29
+
+00:32:13
+<transcript>: Also. What's a remote. Okay, get out of here. Aw, guess. Get out of here.
+
+00:32:13
+<transcript>: let's
+
+00:32:15
+<transcript>: Let's just get out of here.
+
+00:32:19
+<transcript>: Okay.
+
+00:32:19
+<transcript>: i want to fix
+
+00:32:22
+<transcript>: I want to fix you off by one bug. Here we go. We're fixing it.
+
+00:32:26
+corfliss: Question: do you know Codewars? I learned some Rust a bit with it by some problem-solving.
+
+00:32:26
+<transcript>: We're gonna go like this.
+
+00:32:26
+<transcript>: and
+
+00:32:28
+<transcript>: And we're gonna say.
+
+00:32:30
+<transcript>: Inv.
+
+00:32:32
+<transcript>: I really hate.
+
+00:32:43
+cowfacedude99: @sargath666 You do get other people to review your code so that's nice
+
+00:32:44
+<transcript>: In VM. Now the node manager. I hate it because of in them. Like it's too close, too close. Envy is too close to NVM. I don't like it.
+
+00:32:44
+<transcript>: let's
+
+00:32:47
+<transcript>: Let's go to intro.
+
+00:32:50
+sargath666: yep
+
+00:32:51
+cowfacedude99: I have my nvim aliased to vi
+
+00:32:53
+ohmymndy: Are you using some kind of tiling program on osx?
+
+00:32:56
+<transcript>: I've made changes that I haven't committed. That's not good. Okay, so I made some changes recently to just have it play random songs in, like, a playlist. Basically.
+
+00:32:59
+nexxeln: i aliased nvim to n
+
+00:32:59
+<transcript>: But then when it gets to the end.
+
+00:33:01
+<transcript>: Right here.
+
+00:33:04
+<transcript>: When I get to the end, it's supposed to.
+
+00:33:04
+<transcript>: let's
+
+00:33:09
+nexxeln: yabai @OhMyMndy
+
+00:33:10
+<transcript>: Let's see. Set the index back to zero. This is my off by one error. So next index.
+
+00:33:20
+<transcript>: Equals current index. Okay, which is the playlist index of the current song. Okay, wait, if the song ended. No. Yeah, there's still song. Okay.
+
+00:33:24
+<transcript>: The next index is current INEX.
+
+00:33:24
+<transcript>: so if we're on
+
+00:33:26
+<transcript>: So if we're on the first one, we're on zero.
+
+00:33:26
+<transcript>: and
+
+00:33:28
+<transcript>: And then the next.
+
+00:33:28
+<transcript>: current index
+
+00:33:29
+ohmymndy: Thanks I'll check that out
+
+00:33:40
+<transcript>: Current index plus one would be one is greater than the playlist links, which would be two if there were two elements zero and one right? I hate, I hate array, math, or whatever this is.
+
+00:33:40
+<transcript>: so
+
+00:33:49
+<transcript>: So if the playlist links is 20 plus one is one not greater than two. So it should go over here.
+
+00:33:49
+<transcript>: and it should
+
+00:33:51
+<transcript>: And it should be.
+
+00:33:51
+<transcript>: this current
+
+00:34:05
+<transcript>: This current index plus one. So one is the new index. That's what it's doing. It's playing through each song. But then when it gets to the next one, current index is one plus one is two. Still not greater than Playlist links.
+
+00:34:05
+<transcript>: and that's
+
+00:34:07
+<transcript>: And that's the problem.
+
+00:34:14
+ohmymndy: We don't have the characters you are typing on the screen Adam?
+
+00:34:15
+<transcript>: It should be it should be current index is greater than no or else just make that greater than or equal to.
+
+00:34:17
+<transcript>: Maybe.
+
+00:34:17
+<transcript>: what do we
+
+00:34:19
+<transcript>: What do we think.
+
+00:34:19
+<transcript>: might work greater than
+
+00:34:22
+<transcript>: Might work greater than or equal to then on that second one.
+
+00:34:22
+<transcript>: current
+
+00:34:23
+gutsyphilip: >=
+
+00:34:31
+<transcript>: Current index plus one would be two, which is greater than or equal to the playlist link. So we need to go back to the beginning to zero. Is that it all we have to do.
+
+00:34:35
+<transcript>: We don't have the characters you're typing on screen. I don't know.
+
+00:34:35
+<transcript>: sorry how about
+
+00:34:36
+<transcript>: Sorry, how about.
+
+00:34:36
+<transcript>: yeah yeah
+
+00:34:39
+<transcript>: Yeah, yeah, okay.
+
+00:34:44
+<transcript>: What do we think? Is this it? Did I fix it.
+
+00:34:44
+<transcript>: you aid
+
+00:34:47
+lilfreezi: >= or playlist.length - 1 yea
+
+00:34:48
+<transcript>: You AIDS in them to in that's so short.
+
+00:34:48
+<transcript>: oh
+
+00:34:55
+<transcript>: Oh in Calvis did it to V like your SSHing SSHing into some old machine. And you need to use v.
+
+00:35:04
+<transcript>: Do you know Code Wars? I learned some rust a bit with it by doing by some problems. So I know I've never heard of that.
+
+00:35:16
+<transcript>: Using some kind of Tyling program. Okay. Yeah. You answered that. Cool. Play or playlist link. Dot one. Yeah. Do we like that better? I kind of like that better. Because, like.
+
+00:35:16
+<transcript>: it sounds
+
+00:35:22
+<transcript>: It sounds weird to me to be greater than or equal to it's like it's just gonna eventually get to be equal to.
+
+00:35:29
+<transcript>: It's never gonna be greater because we're gonna reset. So I don't know something about that. Does that feel better.
+
+00:35:29
+<transcript>: nice one

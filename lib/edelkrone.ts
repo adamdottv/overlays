@@ -7,7 +7,7 @@ export async function goToPose(
   pose: Pose,
   options: { acceleration: number; speed: number } = {
     acceleration: 0.1,
-    speed: 1,
+    speed: 0.4,
   }
 ) {
   try {

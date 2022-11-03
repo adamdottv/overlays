@@ -14,7 +14,7 @@ import { fadeAudioOut } from "../lib/audio"
 import React from "react"
 import { CustomNextApiResponse } from "../lib"
 import { getStreamInfo, GetStreamResponse, Guest, songs } from "../lib/stream"
-import { randomItem } from "../lib/utils"
+import { shuffle } from "../lib/utils"
 import { useSocket, useEvent, useStream } from "../hooks"
 
 const AUDIO_FADE_LENGTH = 5 * 1000
@@ -22,7 +22,7 @@ const LOADING_INTERVAL = 200
 
 export interface IntroSsrProps {
   stream: GetStreamResponse
-  song: string
+  playlist: string[]
   debug: boolean
 }
 
@@ -31,12 +31,12 @@ export const getServerSideProps: GetServerSideProps<IntroSsrProps> = async (
 ) => {
   const rawStream = await getStreamInfo(context.res as CustomNextApiResponse)
   const stream = JSON.parse(JSON.stringify(rawStream))
-  const song = randomItem(songs)
+  const playlist = shuffle(songs)
 
   return {
     props: {
       stream,
-      song,
+      playlist,
       debug: context.query.debug === "true",
     },
   }
@@ -45,11 +45,12 @@ export const getServerSideProps: GetServerSideProps<IntroSsrProps> = async (
 function Intro({
   debug,
   stream,
-  song,
+  playlist,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) {
   const [showTitleScreen, setShowTitleScreen] = useState(false)
   const audioRef = useRef<HTMLAudioElement>(null)
   const [guest, setGuest] = useState<Guest | undefined>(stream.guest)
+  const [song, setSong] = useState<string>(playlist[0])
 
   const { socket } = useSocket()
   useEvent<Guest>(socket, "guest-joined", (value) => {
@@ -73,9 +74,28 @@ function Intro({
     setShowTitleScreen(true)
   }, [])
 
+  const handleSongEnded = () => {
+    const currentIndex = playlist.indexOf(song)
+    const nextIndex =
+      currentIndex + 1 > playlist.length - 1 ? 0 : currentIndex + 1
+    setSong(playlist[nextIndex])
+
+    setTimeout(() => {
+      if (!audioRef.current) return
+
+      audioRef.current.currentTime = 0
+      audioRef.current.play()
+    })
+  }
+
   return (
     <Overlay>
-      <audio loop ref={audioRef} id="audio-element" src={`/media/${song}`} />
+      <audio
+        ref={audioRef}
+        id="audio-element"
+        src={`/media/${song}`}
+        onEnded={handleSongEnded}
+      />
       {showTitleScreen ? (
         guest ? (
           <GuestTitleScreen guest={guest} />
