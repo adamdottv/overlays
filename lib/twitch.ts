@@ -328,6 +328,8 @@ export default class TwitchController {
       token,
       clientId: this.clientId,
     })
+    console.log(subscriptions)
+
     const eventTypes: [TwitchEventType, object?][] = [
       ["channel.follow"],
       ["channel.subscribe"],
@@ -350,14 +352,14 @@ export default class TwitchController {
       }
 
       if (existing) {
-        await deleteSubscription({
+        const response = await deleteSubscription({
           subscription: existing,
           token,
           clientId: this.clientId,
         })
       }
 
-      await createSubscription({
+      const response = await createSubscription({
         token,
         clientId: this.clientId,
         type: eventType,
@@ -606,6 +608,7 @@ const deleteSubscription = async ({
       },
     }
   )
+  console.log(response)
 
   return response
 }
@@ -651,6 +654,7 @@ const createSubscription = async ({
     )
 
     const response = await subscription.json()
+    console.log(response)
     return response
   } catch (error) {
     console.error(error)

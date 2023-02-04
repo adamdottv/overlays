@@ -1,0 +1,9046 @@
+
+
+00:00:58
+<transcript>: You.
+
+00:01:14
+nullchefo: HeyGuys
+
+00:01:52
+barryxbtw: names jeff
+
+00:11:20
+<transcript>: Didn't know it's. That loader was gonna make it today.
+
+00:11:20
+<transcript>: struggling
+
+00:11:22
+<transcript>: Struggling.
+
+00:11:23
+<transcript>: That randomness.
+
+00:11:26
+<transcript>: Has everybody done it's Wednesday.
+
+00:11:26
+<transcript>: i don't stream on
+
+00:11:28
+<transcript>: I don't stream on Wednesdays.
+
+00:11:28
+<transcript>: but i'm streaming
+
+00:11:30
+<transcript>: But I'm streaming today.
+
+00:11:38
+<transcript>: I might just have a few hours. Might not be quite as long of a normal stream as a normal stream.
+
+00:11:40
+allcliffs: hi :)
+
+00:11:47
+allcliffs: having lunch :)
+
+00:11:48
+<transcript>: Good day to Null, Chef. Oh, Jeff, I mean, Barry. I mean.
+
+00:11:48
+<transcript>: is it jeff
+
+00:11:50
+<transcript>: Is it Jeff? Is it Berry.
+
+00:11:50
+<transcript>: the name is jeff
+
+00:11:51
+<transcript>: The name is Jeff.
+
+00:12:06
+<transcript>: Welcome to Chat. All Cliffs. Hello. Having lunch. That's why I say good day because it's morning for me. But I know a lot of the people that I have here in my Chat or from Europe and other places in the world. India.
+
+00:12:08
+<transcript>: Southeast Asia.
+
+00:12:12
+<transcript>: So I know it's like bedtime for some of you.
+
+00:12:12
+<transcript>: it's lunch
+
+00:12:18
+<transcript>: It's lunchtime for some of you. It's crazy. Still blows my mind the internet.
+
+00:12:18
+<transcript>: thank
+
+00:12:20
+<transcript>: Thank you. Al Gore.
+
+00:12:26
+<transcript>: We're gonna work on AWS, some more.
+
+00:12:26
+<transcript>: and yes
+
+00:12:28
+<transcript>: And yesterday.
+
+00:12:28
+<transcript>: we're
+
+00:12:30
+cowfacedude99: about to get off work!!
+
+00:12:36
+<transcript>: We're done it for like 5 hours. And after I got off the stream, I realized cow face is about to get off work.
+
+00:12:36
+<transcript>: alright
+
+00:12:36
+<transcript>: Alright.
+
+00:12:41
+<transcript>: How you doing? Cow face.
+
+00:12:44
+<transcript>: Cafes was here some of yesterday. So yesterday. Cafe.
+
+00:12:51
+<transcript>: I spent 5 hours work on AW guess and as soon as I got off stream I was like this is dumb.
+
+00:12:51
+<transcript>: like
+
+00:12:53
+<transcript>: Like, what am I doing.
+
+00:13:10
+<transcript>: Just trying, like I've reinvent is two weeks away. Less than two weeks now, a week and a half away. I'm flying to Vegas in a week and a half. And I want this project just done before we invent. It's like, peak. Aws, excitement. This is like the most. I just want to launch AWS, let the AWS community play with it.
+
+00:13:15
+<transcript>: And I'm like rewriting it all for some reason.
+
+00:13:15
+<transcript>: i know i
+
+00:13:21
+<transcript>: I know I want to use AWS. That was a good motivation, but like there's not time. So I'm going back to T three stack.
+
+00:13:21
+<transcript>: post nexus here
+
+00:13:22
+<transcript>: Post Nexus here.
+
+00:13:29
+<transcript>: This is like a perfect Billboard for T three stack. Like just use T three stack. Just I need to stop worrying about.
+
+00:13:32
+cowfacedude99: the rewrite can wait....
+
+00:13:42
+<transcript>: Infrastructure and performance and whatever like cold starts. Don't care. The rewrite can wait exactly. Cafes. I could even start. I could do it in smaller pieces. Instead of like, I'm gonna literally start a new repo.
+
+00:13:42
+<transcript>: like
+
+00:13:49
+<transcript>: Like I could start using Dynamo if I wanted. Instead of Plantscape, which I don't know with plantscale. Boost. Maybe I don't need to use Dynamo.
+
+00:13:49
+<transcript>: but
+
+00:13:52
+<transcript>: But I could do that stuff piecemeal and not just like.
+
+00:13:52
+<transcript>: all at once
+
+00:14:01
+<transcript>: All at once, so, yeah, we got a lot of features to build. I have just so much I want to do with it. I wanted to be a leaderboard. I need to make a landing page. There's just a lot to do.
+
+00:14:09
+<transcript>: So I worked on it like a couple hours after stream. Just back to the T three stack. The original repo upgraded into Next 13.
+
+00:14:15
+<transcript>: I did some SVG Sprite stuff. So now all the images are in one big SVG Sprite.
+
+00:14:19
+<transcript>: It makes for like a one mega bundle.
+
+00:14:19
+<transcript>: like
+
+00:14:20
+<transcript>: Like.
+
+00:14:20
+<transcript>: not
+
+00:14:37
+<transcript>: Not like one. So compressed. It's like a Meg. It's like just the app bundle. So not like the Frameworks or any of the other bundles. Just the app bundle. The main bundle is like 800 uncompressed JavaScript.
+
+00:14:41
+<transcript>: Because it's full of all the SVG Sprite stuff.
+
+00:14:51
+cowfacedude99: isn't planetscale on aws?
+
+00:14:52
+<transcript>: That feels bad. So now I'm trying to figure out how can I make the SDG Sprite an external file? I'm using this webpack plugin that like, does the Sprite for you? It takes like, a.
+
+00:14:52
+<transcript>: just every time you
+
+00:15:03
+<transcript>: Just every time you import SVG, it puts it in the Sprite. I don't know. I'm gonna see if I can have it. Export it to a file. Isn't play a scalinated Bishop? Yes, versello and plant skill or both on anybs we're still using AWS.
+
+00:15:03
+<transcript>: just
+
+00:15:07
+<transcript>: Just a little less directly.
+
+00:15:07
+<transcript>: i don't think
+
+00:15:12
+<transcript>: I don't think AWS, people that play eight of you guess are gonna care what it's built on.
+
+00:15:16
+<transcript>: All right.
+
+00:15:20
+<transcript>: I got my mug today. That's.
+
+00:15:20
+<transcript>: lets me work
+
+00:15:22
+<transcript>: Lets me work while I drink.
+
+00:15:28
+<transcript>: I don't have to drink the whole thing while I talk. So we're gonna get try to it. We're just gonna get into it. Let's do it.
+
+00:15:29
+<transcript>: screen time
+
+00:15:30
+<transcript>: Screen time.
+
+00:15:30
+<transcript>: not
+
+00:15:32
+<transcript>: Not that screen.
+
+00:15:32
+<transcript>: this one
+
+00:15:33
+<transcript>: This one.
+
+00:15:34
+barryxbtw: hello
+
+00:15:35
+<transcript>: Yeah. So this is the.
+
+00:15:42
+<transcript>: This is the web pack thing. Sdg spriteloader. And then all you have to do is import.
+
+00:15:44
+shiftlessatol: you would really hate my web apps
+
+00:15:44
+<transcript>: Where am I doing it.
+
+00:15:54
+<transcript>: Once you import. Yeah, here we go. I'm importing Utils Icons, which is a module that I generate.
+
+00:15:55
+shiftlessatol: 9MB of js
+
+00:15:59
+<transcript>: A build that just exports all of these. See this.
+
+00:16:02
+<transcript>: So it exports all of the.
+
+00:16:02
+<transcript>: images
+
+00:16:10
+<transcript>: Images, all the Sugs, and then I import them all here in the app TSX file.
+
+00:16:10
+<transcript>: and then i
+
+00:16:12
+<transcript>: And then I can just reference them by their ID.
+
+00:16:17
+cowfacedude99: wow. that looks like ...
+
+00:16:19
+<transcript>: Nine megabytes of JavaScript, Dave. What? Hello, Berry. I mean, Hello.
+
+00:16:24
+<transcript>: What was it? Jen.
+
+00:16:24
+<transcript>: you should really put j
+
+00:16:28
+<transcript>: You should really put Jeff in your handle in your username if your name is Jeff.
+
+00:16:36
+<transcript>: What do you think? What do we think about this approach? I think if I could get him all into an external file, I feel a little better that they weren't in the JavaScript bundle.
+
+00:16:49
+<transcript>: Like in practice, I don't know if it makes a huge difference. Like that. S. Cg. Sprite could be cached separately from the JavaScript bundle. The JavaScript bundle is going to change a lot, so it feels good to have that. Yeah, we should definitely do that.
+
+00:16:52
+barryxbtw: i saw theo use some hack to make vercel cache images
+
+00:16:54
+<transcript>: Yeah, we should do that. So here's the thing I'm using.
+
+00:16:57
+<transcript>: I'm trying to.
+
+00:17:00
+<transcript>: Customize the webpack config to make this work.
+
+00:17:05
+<transcript>: So there's supposed to be a way that you can use options.
+
+00:17:07
+<transcript>: To.
+
+00:17:12
+<transcript>: Play music. I'm gonna do this today. Then we're gonna listen some music.
+
+00:17:14
+assertionbit: Hi there
+
+00:17:16
+<transcript>: Supposed to be.
+
+00:17:16
+<transcript>: a way
+
+00:17:20
+<transcript>: A way here where we can have it export a file extract configuration.
+
+00:17:26
+<transcript>: In the extract mode. Loader should be configured with plugin. Otherwise in error is thrown. What.
+
+00:17:26
+<transcript>: oh
+
+00:17:27
+<transcript>: Oh.
+
+00:17:32
+<transcript>: That's why it was starting this air. I should pay attention. I really should.
+
+00:17:34
+<transcript>: Oh, wait.
+
+00:17:42
+<transcript>: I guess I need to import it. I wasn't doing that. Import.
+
+00:17:45
+<transcript>: I guess comp.
+
+00:17:49
+<transcript>: Write, loader, plugin.
+
+00:17:52
+<transcript>: Wires. I think it is a follow.
+
+00:17:52
+<transcript>: cha
+
+00:17:56
+<transcript>: Chaome Hane Hi there assertion. What's going on.
+
+00:18:10
+<transcript>: Barry, you saw the Ou, some hacked Mega MC, Versaille, Cash Images. Yeah, there's a you can in your verse, L. Json. You can do cache rules like that. What am I doing here? Define next minute. Okay. Spriteloader require.
+
+00:18:15
+<transcript>: Svg Spriteloader plugin. Okay.
+
+00:18:25
+<transcript>: I really hope next shows up so he can see he had to sit here and watch me do dumb AWS stuff yesterday instead of using.
+
+00:18:25
+<transcript>: his very t
+
+00:18:27
+<transcript>: His very T three stack.
+
+00:18:30
+<transcript>: Or create T Three app.
+
+00:18:30
+<transcript>: load
+
+00:18:31
+barryxbtw: nexxel?
+
+00:18:33
+<transcript>: Loader Options Extract true.
+
+00:18:33
+<transcript>: i guess
+
+00:18:40
+<transcript>: I guess this should be instead of this plugins. This should be new Spriteloader plugin. I guess. Is that right.
+
+00:18:44
+<transcript>: I'm not a webpack guy. I don't know. Are there web pack guys.
+
+00:18:47
+<transcript>: Right.
+
+00:18:47
+<transcript>: loader play
+
+00:18:49
+<transcript>: Loader, playin.
+
+00:18:51
+<transcript>: Okay. Let's try that.
+
+00:19:00
+shiftlessatol: I hate webpack
+
+00:19:02
+<transcript>: Let's try that. Yeah. Next little.
+
+00:19:04
+allcliffs: we all are vite now
+
+00:19:04
+shiftlessatol: I made my own
+
+00:19:07
+<transcript>: Web packs the worst. Can we all agree? We hate Webpack. Sorry.
+
+00:19:07
+<transcript>: we're all
+
+00:19:09
+<transcript>: We're all Vet. Now you.
+
+00:19:13
+<transcript>: Wish I was using v.
+
+00:19:20
+<transcript>: And I am on some projects now I'm using Astronoms and projects feels good, but this one is gonna be a next project.
+
+00:19:23
+fa7c0n: hey hey how is everyone doing?
+
+00:19:24
+barryxbtw: change to vite is ez
+
+00:19:27
+<transcript>: Fail to load next disk is it requires not to find an esmodul scope. I got to use import.
+
+00:19:27
+<transcript>: alright
+
+00:19:28
+<transcript>: Alright.
+
+00:19:29
+barryxbtw: ah next
+
+00:19:31
+<transcript>: Import.
+
+00:19:31
+<transcript>: that
+
+00:19:33
+<transcript>: That.
+
+00:19:36
+<transcript>: From.
+
+00:19:47
+<transcript>: Jamie, give me some ice cream.
+
+00:19:47
+<transcript>: ice cream
+
+00:19:49
+<transcript>: Ice Cream is a cocaine.
+
+00:19:49
+<transcript>: i think
+
+00:19:50
+<transcript>: I think.
+
+00:19:56
+<transcript>: That's what that means. I did that thing where it added all the spaces.
+
+00:20:03
+<transcript>: Okay. Does that work? I just do it like that.
+
+00:20:13
+<transcript>: Hey, How's everyone doing? Welcome to Chat. Falcon. I'm gonna call you Falcon.
+
+00:20:13
+<transcript>: all
+
+00:20:21
+<transcript>: All cliff, thank you for the follow thanks to follow arou. Ariro, are you guys just trying to mess with me today with your names so hard for me to say.
+
+00:20:24
+oetziofficial: heyo 👋
+
+00:20:25
+<transcript>: Cow Hane, and a rou, a rural.
+
+00:20:25
+<transcript>: i'm just
+
+00:20:26
+cowfacedude99: I think you would have to do named import.
+
+00:20:31
+<transcript>: I'm just a hillbilly from the Ozarks and I can't say words very well.
+
+00:20:32
+fa7c0n: Hey chat does anyone have any suggestion on syncing the changes happening in mysql to elastic other than logstash. Would love some links/docs for a good architecture article. Thank you
+
+00:20:33
+<transcript>: We're doing well, Falcon, how are you doing.
+
+00:20:37
+<transcript>: Change to Veet is easy. Yeah, I'm using next.
+
+00:20:37
+<transcript>: i like
+
+00:20:42
+<transcript>: I like these here. I think you would have to do named import. Oh, what did I do.
+
+00:20:49
+<transcript>: Or module not found what did I do? Named failed to load next disc.
+
+00:20:49
+<transcript>: discine module
+
+00:20:50
+<transcript>: Discine module.
+
+00:20:50
+<transcript>: that
+
+00:20:55
+<transcript>: That imported from that? Did you mean to import that.
+
+00:20:59
+<transcript>: I don't know what.
+
+00:21:02
+<transcript>: You're saying I need to do this, like.
+
+00:21:02
+<transcript>: ys
+
+00:21:04
+fa7c0n: I am doing great @adamdotdev What are we building today?
+
+00:21:05
+barryxbtw: import { SpriteLoaderPlugin } from ...
+
+00:21:07
+juliuzs: hello, what theme you use in nvim?
+
+00:21:08
+<transcript>: Ysa word, no fluid. I've been getting faster. Cafes.
+
+00:21:08
+<transcript>: at my
+
+00:21:11
+<transcript>: At my end surround nonsense.
+
+00:21:19
+barryxbtw: sad
+
+00:21:24
+<transcript>: And it's the hey chat. Does anyone have any suggestion on syncing the changes happening in MySQL to Elastic other than Log would love some link stocks for a good architecture article.
+
+00:21:24
+<transcript>: you
+
+00:21:29
+<transcript>: You know Falcon, we're building AW, GIF. I don't know.
+
+00:21:36
+<transcript>: I don't know much about that, so I'm just. I'm still new to the MySQL like PlanetScale, world.
+
+00:21:38
+<transcript>: Like I typically.
+
+00:21:38
+<transcript>: i'm streaming
+
+00:21:45
+<transcript>: I'm streaming data from DynamoDB into some data Lake or something I don't have any experience with or into elastic search or whatever.
+
+00:21:45
+<transcript>: yeah
+
+00:21:48
+<transcript>: Yeah, I don't have experience. I'm gonna put it on chat. Does.
+
+00:22:00
+<transcript>: Hello, Julie's. Welcome to Chat. Hello. What seemed to use in the oven? It's Dracula. Is this still failing? I'm just. I'm chatting it up and still haven't gotten to build. What's the problem here.
+
+00:22:04
+<transcript>: Seem like did I cannot find module.
+
+00:22:04
+<transcript>: what
+
+00:22:06
+<transcript>: What.
+
+00:22:06
+<transcript>: what
+
+00:22:07
+<transcript>: What.
+
+00:22:07
+<transcript>: did
+
+00:22:09
+<transcript>: Did I mean to import.
+
+00:22:09
+<transcript>: that
+
+00:22:11
+cowfacedude99: you didn't run it
+
+00:22:11
+<transcript>: That.
+
+00:22:13
+<transcript>: No.
+
+00:22:13
+cowfacedude99: LUL
+
+00:22:15
+juliuzs: thanks
+
+00:22:16
+<transcript>: Should I? What.
+
+00:22:20
+<transcript>: Anyone.
+
+00:22:21
+<transcript>: Have any thoughts.
+
+00:22:26
+<transcript>: I didn't run it. Oh, are you serious? That's just the old message.
+
+00:22:27
+ttbishop: @fa7c0n you don't sync mysql to elastic, you send events to elastic at same time you send to mysql
+
+00:22:31
+<transcript>: That's hilarious, but I'm also very on brand. Oh, no, it's still failed.
+
+00:22:37
+<transcript>: Can I find module? Okay, well, let's try.
+
+00:22:39
+<transcript>: Maybe if I did.
+
+00:22:42
+<transcript>: All.
+
+00:22:46
+<transcript>: As like why can't it find that that doesn't make any sense.
+
+00:22:46
+allcliffs: typesense or meilisearch for simpler search solutions. (elastic setup alone is just sooo much to unwrap)
+
+00:22:51
+<transcript>: Right SVG Sprite loader slash plugin.
+
+00:22:55
+<transcript>: Like that should be a thing.
+
+00:22:58
+barryxbtw: look into node modules
+
+00:23:01
+barryxbtw: see the folder
+
+00:23:05
+<transcript>: You don't think my sequel is Elastic? You send a vins to Elastic at the same time you send to my sequel.
+
+00:23:05
+<transcript>: type
+
+00:23:07
+<transcript>: Types in for.
+
+00:23:07
+<transcript>: milli search
+
+00:23:10
+cowfacedude99: check if it is installed.
+
+00:23:20
+<transcript>: Milli search for simpler search solutions. The last setup line is just too much. Yeah, I hate the elastic stack. I hate all that stuff. Look into no modules. See the folder. Check if it is installed. You guys are on the same wavelength. Also the thank you for the follow. Julies.
+
+00:23:20
+<transcript>: julia
+
+00:23:30
+<transcript>: Julia's and Leo Mendesum, ESM. Does your aunt? Is your name in the ESM? Or are you, like, a fanboy of Node Module systems.
+
+00:23:34
+<transcript>: Or fan girl.
+
+00:23:34
+<transcript>: okay
+
+00:23:41
+<transcript>: Okay, let's take a look at node modules. They say they say we should peek into known modules.
+
+00:23:41
+<transcript>: i guess
+
+00:23:43
+<transcript>: I guess I don't have them visible.
+
+00:23:47
+<transcript>: Let's do this code.
+
+00:23:49
+<transcript>: Playground.
+
+00:23:50
+fa7c0n: @ttbishop I kind of stuck with that option right now. I agree that pushing events is much cleaner but with the way things are I need a way to listen to changes in MySQL and update elastic.
+
+00:23:51
+<transcript>: Aw guess.
+
+00:23:51
+<transcript>: node modules
+
+00:23:53
+<transcript>: Node, modules.
+
+00:23:55
+<transcript>: And what's it called.
+
+00:23:59
+<transcript>: What was it.
+
+00:24:06
+barryxbtw: svg sprite loader
+
+00:24:07
+<transcript>: sdg spriteloader what is going on this should not be the hard part of what we're doing today
+
+00:24:13
+<transcript>: Svg Spriteloader. It's a it's a one of those.
+
+00:24:15
+<transcript>: Link.
+
+00:24:18
+<transcript>: You know.
+
+00:24:18
+<transcript>: symbolic
+
+00:24:21
+<transcript>: Symbolic link. Why would it be that.
+
+00:24:21
+<transcript>: wait what
+
+00:24:25
+<transcript>: Wait, what? Oh, I'm using PMPM. Wait, what.
+
+00:24:30
+<transcript>: Why is that? That.
+
+00:24:36
+<transcript>: Let's see. Pmpm. Sug spriteloader.
+
+00:24:41
+<transcript>: Y does it do that? Pmpm? Why do you do that? Pnpm.
+
+00:24:41
+<transcript>: is that
+
+00:24:43
+<transcript>: Is that the reason this isn't working.
+
+00:24:53
+<transcript>: Do you see the directory? It's in it's in node modules. Pnpm SDG Spriteloader at six. Maybe I'm gonna blow away node modules and reinstall. How about that.
+
+00:24:53
+<transcript>: how we
+
+00:24:53
+barryxbtw: remove node modules and install again maybe
+
+00:24:54
+<transcript>: How we feel about that.
+
+00:24:57
+<transcript>: Let's do it.
+
+00:25:00
+<transcript>: I may have mixed I don't think I mix.
+
+00:25:03
+<transcript>: Managers on this project. Sometimes I do that.
+
+00:25:06
+<transcript>: Mpm install.
+
+00:25:10
+<transcript>: Yeah. Okay. Barry, you're on the same page.
+
+00:25:26
+<transcript>: Let's see, I kind of stuck with that option right now. I agree that pushing events as much cleaner, but with the way things are, I need a way to listen to changes in my sequel and update Elastic. Yeah. I found out that like playing Scale doesn't support any kind of triggers or streaming, like getting the events out.
+
+00:25:26
+<transcript>: of your thing
+
+00:25:27
+<transcript>: Of your thing.
+
+00:25:27
+<transcript>: i'm
+
+00:25:32
+<transcript>: I'm used to that with Dynamo. Like we have that in Dynamo.
+
+00:25:32
+<transcript>: pmp
+
+00:25:36
+<transcript>: Pmpm. Run, Dev? Is that what I was trying to do? Yeah.
+
+00:25:36
+<transcript>: it's failing
+
+00:25:40
+<transcript>: It's failing hard. Did you mean to import that.
+
+00:25:40
+<transcript>: i know
+
+00:25:43
+<transcript>: I know I really didn't, but I could try that.
+
+00:25:47
+<transcript>: This is gonna look terrible. If this is what we have to do.
+
+00:25:50
+<transcript>: Would be pretty sad.
+
+00:25:57
+<transcript>: What.
+
+00:26:02
+<transcript>: Now I'm recording. What is? What.
+
+00:26:09
+<transcript>: Is going on there we go.
+
+00:26:12
+<transcript>: Okay, tough start.
+
+00:26:13
+<transcript>: From.
+
+00:26:14
+ttbishop: I didn't even know mysql has that sort of API
+
+00:26:15
+<transcript>: Nope.
+
+00:26:15
+<transcript>: didn't copy it
+
+00:26:15
+barryxbtw: gotta go pickup a laptop sleeve real quick, good luck lol
+
+00:26:17
+<transcript>: Didn't copy it.
+
+00:26:20
+<transcript>: Okay new approach.
+
+00:26:24
+<transcript>: Let's see didn't even know.
+
+00:26:24
+<transcript>: my sequel
+
+00:26:29
+<transcript>: My sequel has that sort of API got a go pick up a laptop sleeve real quick. Good luck. Thanks, Barry.
+
+00:26:31
+<transcript>: I appreciate it.
+
+00:26:40
+<transcript>: Let's see. So this was actually working before I started trying to do the extract mode. That's when things fell over.
+
+00:26:46
+joostschuur: I had a pnpm issue the other day with prisma and serverless framework in a workspace and an issue recommend node-linker=hoisted. Not sure if relevant here
+
+00:26:48
+shn4ke: primeagenHeyy
+
+00:26:48
+<transcript>: And it's because it says, right here, you've got to do this. Can I make it where requires require is allowed.
+
+00:26:53
+<transcript>: I do the thing is there like a setting and neck Conf or something. Or next.
+
+00:26:53
+<transcript>: config
+
+00:26:54
+<transcript>: Config.
+
+00:26:54
+<transcript>: where i
+
+00:26:56
+<transcript>: Where I can turn on.
+
+00:26:59
+<transcript>: Require? Yeah.
+
+00:26:59
+<transcript>: is there a setting
+
+00:27:02
+<transcript>: Is there a setting for that? Maybe.
+
+00:27:08
+<transcript>: Or is it just in my TS config? Wait, is this a TS config thing.
+
+00:27:08
+<transcript>: that one
+
+00:27:11
+<transcript>: That one wouldn't be a Tsconficting, right.
+
+00:27:14
+<transcript>: Or what.
+
+00:27:16
+<transcript>: I don't know.
+
+00:27:19
+<transcript>: I don't know things.
+
+00:27:24
+<transcript>: I'm already in my yeah, I'm already in here.
+
+00:27:26
+<transcript>: Choir.
+
+00:27:28
+cowfacedude99: don't think it is a good idea though
+
+00:27:28
+<transcript>: Okay.
+
+00:27:31
+<transcript>: Next.
+
+00:27:31
+<transcript>: what's
+
+00:27:33
+<transcript>: What's not a good idea.
+
+00:27:34
+shiftlessatol: "tough start" this should be an A.D merch ite
+
+00:27:37
+<transcript>: You don't think it's a good idea, okay, so we shouldn't be doing.
+
+00:27:42
+<transcript>: Tough start should be a merch item.
+
+00:27:42
+<transcript>: i had
+
+00:27:44
+shiftlessatol: m
+
+00:27:45
+<transcript>: I had a Pnpm issue the other day.
+
+00:27:48
+<transcript>: With Prisma. It's juice.
+
+00:27:48
+<transcript>: and serverless
+
+00:27:51
+<transcript>: And Serverless Serverless Framework in a workspace.
+
+00:27:58
+<transcript>: And an issue recommended notes. Linker hoisted. Oh, yeah? That's the like make it act like all the other ones.
+
+00:27:58
+<transcript>: yeah
+
+00:28:02
+<transcript>: Yeah, we could do that. I think you lose some of the benefits of Pnpm that way.
+
+00:28:09
+<transcript>: A snake? What's going on? Snake.
+
+00:28:14
+<transcript>: Interesting interesting.
+
+00:28:14
+<transcript>: i don't
+
+00:28:17
+<transcript>: I don't know what the best thing to do here is.
+
+00:28:20
+<transcript>: Import.
+
+00:28:24
+<transcript>: From.
+
+00:28:26
+<transcript>: That.
+
+00:28:26
+shn4ke: chillin learning go hbu
+
+00:28:31
+<transcript>: And that doesn't work.
+
+00:28:33
+<transcript>: And just do that.
+
+00:28:33
+<transcript>: i would be
+
+00:28:35
+<transcript>: I would be too easy.
+
+00:28:38
+<transcript>: What.
+
+00:28:48
+<transcript>: 's Just do this.
+
+00:28:53
+<transcript>: Are you I was gonna try and import like they said.
+
+00:28:56
+shiftlessatol: you wanting to use this package manager still?
+
+00:29:02
+<transcript>: Let's just do like this.
+
+00:29:02
+fa7c0n: @ttbishop got it thank you for the help
+
+00:29:09
+<transcript>: Okay.
+
+00:29:09
+<transcript>: come on
+
+00:29:12
+<transcript>: Come on. No Emmy. Nope.
+
+00:29:19
+<transcript>: It's actually in a PMPM directory. I don't know what that's about. Svg spryloader. Let's just look on their repo. Maybe.
+
+00:29:22
+<transcript>: Let's say.
+
+00:29:25
+<transcript>: What was the air? Can I find package.
+
+00:29:28
+joostschuur: Hello. Yeah, been struggling to get all that working in a monorepo and not quite there yet (Next.js and Serverless sharing a Prisma setup)
+
+00:29:32
+<transcript>: I mean, this sounds like not a thing that would be.
+
+00:29:38
+<transcript>: Next yes. Can I find my module.
+
+00:29:46
+<transcript>: Sorry, no, no.
+
+00:29:46
+<transcript>: today
+
+00:29:47
+<transcript>: Today.
+
+00:29:51
+<transcript>: Can I. Here we go. Phil's. A little Peck. Five.
+
+00:29:55
+rudixworld: you want to use next's Image module I guess ... if you put all in /static no unnecessary code will be in output .js
+
+00:29:56
+<transcript>: It's a different error. But and they're also doing.
+
+00:29:59
+<transcript>: Required. I don't know if that's different.
+
+00:30:07
+<transcript>: Maybe I should searching this repo. Next. Js.
+
+00:30:19
+cowfacedude99: https://github.com/JetBrains/svg-sprite-loader/tree/master/examples
+
+00:30:19
+<transcript>: You wanting to use.
+
+00:30:23
+<transcript>: Chillin learning how about you.
+
+00:30:23
+<transcript>: yeah
+
+00:30:30
+<transcript>: Yeah. Learn. Maybe learning. I don't know. Have I learned anything yet? Probably not. I'm hoping to lend something soon about webpack.
+
+00:30:37
+<transcript>: Let's see. Been struggling to get all that working in a Monterefo. Not quite there yet. Make sure some serverless sharing your prison setup. Yeah, that sounds.
+
+00:30:43
+<transcript>: Tough. I definitely done next. Js and CDK stuff together at a Mona Rico.
+
+00:30:46
+<transcript>: But it was a lot of pain.
+
+00:30:47
+<transcript>: You're.
+
+00:30:47
+<transcript>: nexus imag
+
+00:30:56
+<transcript>: Nexus Image module. I guess if you put all in static, no unnecessary code will be output and generate. Oh, Rudyx, so that's how I had it. So we were.
+
+00:31:16
+<transcript>: We were just doing like individual SVGs. I just don't want there to be for devices that maybe don't have super fast internet. I don't want to be downloading each image for each round of the game separately because then I don't know if it takes 3 seconds for it to download for your client. You've lost 3 seconds of gameplay. You know, I'm saying it needs to be.
+
+00:31:16
+<transcript>: like the images
+
+00:31:28
+<transcript>: Like, the images are loaded immediately, and I think the best way to do that is to have them in, like, preloaded pre downloaded. I don't like them in the JS bundle. That's what we're trying to solve. We're trying to put them in a separate SDG Sprite file.
+
+00:31:28
+<transcript>: and
+
+00:31:31
+<transcript>: And we're hoping to do that with this plugin.
+
+00:31:31
+<transcript>: does that make sense
+
+00:31:32
+<transcript>: Does that make sense.
+
+00:31:41
+<transcript>: Cafes. Or what is this? Examples. Oh, examples.
+
+00:31:55
+<transcript>: Let's see what Cafe sent us here.
+
+00:31:55
+<transcript>: example
+
+00:31:57
+<transcript>: Examples browser.
+
+00:31:59
+<transcript>: Serverside rendering.
+
+00:32:03
+<transcript>: Brad Browser Sprite.
+
+00:32:06
+<transcript>: Extract mode.
+
+00:32:09
+<transcript>: So I think all these webpack configs are gonna look like.
+
+00:32:13
+<transcript>: Not the way that mine is going to look right.
+
+00:32:18
+<transcript>: Like, oh, they're still saying, Loader, is that.
+
+00:32:22
+<transcript>: Oh, they're saying plugins. Oh, I can just add it as a plugin like that. Maybe.
+
+00:32:22
+<transcript>: let's try
+
+00:32:24
+<transcript>: Let's try that syntax. At least.
+
+00:32:26
+<transcript>: Okay. Undo.
+
+00:32:31
+<transcript>: So let's try that syntax. Let's say config.
+
+00:32:31
+<transcript>: config
+
+00:32:33
+shn4ke: @joostschuur i don't know if you're using turborepo but they just updated docs
+
+00:32:33
+<transcript>: Config that plugin.
+
+00:32:33
+<transcript>: set it
+
+00:32:34
+<transcript>: Set it.
+
+00:32:38
+<transcript>: And so the module plugins.
+
+00:32:41
+<transcript>: Push new.
+
+00:32:47
+<transcript>: Sprite loader plugin. And then here, this would just be I think this is more correct.
+
+00:32:57
+<transcript>: Think that's more correct. This would be SVG spriteloader.
+
+00:33:02
+<transcript>: I don't think it's gonna work. I think our problem is an import problem, but.
+
+00:33:02
+<transcript>: that's
+
+00:33:05
+<transcript>: That's seems more correct than what we were doing.
+
+00:33:07
+<transcript>: Let's see.
+
+00:33:07
+<transcript>: i
+
+00:33:12
+foobfoob: is the work on bitter finished?
+
+00:33:12
+<transcript>: I don't know if you're using Turbo APO, but they just updated docs.
+
+00:33:29
+<transcript>: Is the work on Bitter. Finish? No food. We're gonna get back to Bitter. I just wanted to finish this project before reenact, which is in a week and a half now and I realized I should probably. I was waiting on a bunch of support. Tickets are still like three of them that aren't resolved.
+
+00:33:29
+<transcript>: so they did
+
+00:33:35
+<transcript>: So they did just enable where I can use global tables in my account with the increased ReadWrite capacity.
+
+00:33:35
+<transcript>: but
+
+00:33:36
+foobfoob: ok, thanks
+
+00:33:52
+<transcript>: But I still need a couple other tickets to Land, and I didn't want to keep building until I knew I could finish the thing. And we're gonna do that after Reinvent. So Reinvents here. In a couple weeks, when I get back from Reinvent, we'll go back to the Bitter Project, try to get a Twitter API doing Crazy volume.
+
+00:33:52
+<transcript>: okay
+
+00:33:56
+<transcript>: Okay, let's see. Sz? Spriteloader.
+
+00:34:01
+<transcript>: What we need is.
+
+00:34:10
+<transcript>: Next JS, next JS SVG Sprite loader. Maybe somebody's done this out in the wild somewhere.
+
+00:34:13
+<transcript>: Next is you sprites? What.
+
+00:34:17
+shiftlessatol: " ...tickets to land " but what about tickets to ride?
+
+00:34:24
+<transcript>: 's.
+
+00:34:29
+<transcript>: If anybody had any help on this.
+
+00:34:38
+<transcript>: So what is this? Generate SUG sprites from import files. You can SUG spriteloader. Oh, oh, it is. This is the next project.
+
+00:34:41
+<transcript>: Yes. What next? With plugins.
+
+00:34:44
+<transcript>: What.
+
+00:34:48
+<transcript>: Really does this work.
+
+00:34:52
+<transcript>: Standalone with SUG sprites.
+
+00:34:59
+<transcript>: I I feel like this is what I want.
+
+00:35:02
+<transcript>: But.
+
+00:35:04
+<transcript>: Wait a minute.
+
+00:35:08
+<transcript>: I have to install.
+
+00:35:08
+<transcript>: next
+
+00:35:10
+<transcript>: Next SUG sprites.
+
+00:35:15
+<transcript>: And where does Nexus? Do you spritz? Come? Okay here with plugins.
+
+00:35:22
+<transcript>: Or just standalone. So if we do standalone with SUG sprites. Next SUG sprites.
+
+00:35:22
+<transcript>: and then
+
+00:35:24
+<transcript>: And then we say like that.
+
+00:35:27
+<transcript>: So what they're saying to me right now.
+
+00:35:27
+khoulyy: is this dark mode in chrome ?
+
+00:35:30
+<transcript>: Second work.
+
+00:35:37
+<transcript>: Next, we're plugins. What's that.
+
+00:35:39
+<transcript>: That feels like another piece. I don't need.
+
+00:35:41
+<transcript>: Yeah. I don't need that.
+
+00:35:47
+<transcript>: Okay. So standalone. Let's try this. Let's add this thing. Why not.
+
+00:35:50
+<transcript>: Mpm, add.
+
+00:35:58
+<transcript>: Okay, unmet peerDependency. Next at twelve.
+
+00:36:03
+<transcript>: Well, we're using 13. We'll see if this works.
+
+00:36:05
+<transcript>: Let's see.
+
+00:36:05
+<transcript>: and now we're gonna say
+
+00:36:10
+<transcript>: And now we're gonna say, with SVG sprites. So I have to, like, wrap my whole config with this.
+
+00:36:10
+<transcript>: feels
+
+00:36:12
+<transcript>: Feels unnecessary.
+
+00:36:13
+shiftlessatol: if you like your eyes, you will like dark mode in everything
+
+00:36:22
+<transcript>: And feels kind of like strange, but okay, remember back to just peak this thing's code and see the answers to my questions. What do we think.
+
+00:36:22
+<transcript>: is this
+
+00:36:25
+<transcript>: Is this dark mode in Chrome.
+
+00:36:25
+<transcript>: no it's just
+
+00:36:28
+<transcript>: No, it's just a dark mode on GitHub. I think.
+
+00:36:32
+allcliffs: @adamdotdev maybe svgr with custom template would work ?
+
+00:36:36
+<transcript>: If you like your eyes you like Dark mode and everything.
+
+00:36:36
+<transcript>: maybe svg
+
+00:36:41
+<transcript>: Maybe Svgr with custom template would work. What is this? What is SVG? Are.
+
+00:36:43
+<transcript>: Was that.
+
+00:36:46
+<transcript>: I want to look at what this thing does.
+
+00:36:49
+<transcript>: Require the plugin.
+
+00:36:52
+<transcript>: Fix rules to.
+
+00:36:52
+<transcript>: declar
+
+00:36:54
+<transcript>: Declarations.
+
+00:37:00
+<transcript>: Well, first of all, how are they able to ambulance like that? I think my problem is Pnpm probably.
+
+00:37:07
+<transcript>: Pmpm SVG Sprite loader.
+
+00:37:12
+allcliffs: https://react-svgr.com/
+
+00:37:13
+<transcript>: Let's see.
+
+00:37:22
+<transcript>: I guess I didn't check in that repo to see if anybody said anything about PMPM.
+
+00:37:23
+webdev33: Thats just standard common js modules
+
+00:37:25
+shiftlessatol: + import not found
+
+00:37:31
+<transcript>: Let's just standard common JS modules. Yeah, I can't seem to use those in next 13.
+
+00:37:31
+<transcript>: things of the follow
+
+00:37:33
+<transcript>: Things of the follow yields.
+
+00:37:38
+<transcript>: Welcome to Chat. Webdev. 33.
+
+00:37:41
+<transcript>: So.
+
+00:37:43
+<transcript>: Yeah.
+
+00:37:48
+<transcript>: I could do the pnpm hoist thing.
+
+00:37:48
+<transcript>: we could do that
+
+00:37:50
+<transcript>: We could do that.
+
+00:37:50
+<transcript>: let's just do
+
+00:37:51
+<transcript>: Let's just do that.
+
+00:38:03
+<transcript>: Like at least I'm still using PMPM in the CLI. So I'm keeping building up more muscle memory. But I feel like I should probably just let's just do it. Pmpm, no hoist or whatever.
+
+00:38:09
+<transcript>: Shame, shamefully, hoist, is that what is.
+
+00:38:20
+<transcript>: Exclude patterns from Hoisting. Oh, okay.
+
+00:38:20
+<transcript>: in npm
+
+00:38:22
+<transcript>: In npmrc.
+
+00:38:22
+<transcript>: this
+
+00:38:24
+<transcript>: This sounds promising.
+
+00:38:30
+<transcript>: We want MPM, RC.
+
+00:38:35
+<transcript>: And I can say.
+
+00:38:35
+<transcript>: hoist
+
+00:38:39
+<transcript>: Hoist pattern. Who thinks this is gonna work? Anybody.
+
+00:38:40
+webdev33: Keyboard sounds pretty good -- what are the specs?
+
+00:38:42
+<transcript>: Let's say.
+
+00:38:45
+<transcript>: Not.
+
+00:38:45
+<transcript>: it's
+
+00:38:46
+<transcript>: It's.
+
+00:38:46
+<transcript>: br
+
+00:38:48
+shiftlessatol: hard no
+
+00:38:48
+<transcript>: Bright, loader.
+
+00:38:52
+<transcript>: I think that's gonna work done. You put wildcards around it.
+
+00:38:58
+v0sn: damn, havent been here in a while, but your nvim setup turned out quite nicely
+
+00:38:59
+<transcript>: Do you think this is gonna work.
+
+00:39:06
+<transcript>: We're actually gonna look at the node modules before I even move forward.
+
+00:39:15
+<transcript>: Okay.
+
+00:39:15
+<transcript>: svg
+
+00:39:17
+<transcript>: Svg spriteloader.
+
+00:39:20
+<transcript>: No, what? This is all. What.
+
+00:39:20
+<transcript>: they're all
+
+00:39:25
+<transcript>: They're all in there, so I didn't didn't do what I wanted it to do.
+
+00:39:32
+<transcript>: I don't understand why? Why is this a problem for.
+
+00:39:35
+<transcript>: Like it's not a problem when I import.
+
+00:39:35
+<transcript>: any of these
+
+00:39:36
+webdev33: Using finder to view folders? Broskie this is why vim is so bad
+
+00:39:40
+<transcript>: Any of these things elsewhere in the project. So why is it a problem.
+
+00:39:46
+shiftlessatol: at this point, you could just make your own guess game
+
+00:39:49
+<transcript>: Using Finder to view folders brisket this is why they miss so bad I could view the folders.
+
+00:39:49
+<transcript>: i just would have to make
+
+00:39:50
+<transcript>: I just would have to make.
+
+00:39:50
+<transcript>: a
+
+00:39:52
+<transcript>: A probably a ton.
+
+00:39:52
+<transcript>: of inventory
+
+00:40:01
+<transcript>: Of inventory setting change, and I didn't want to, but right now I do have node modules hidden in my I mean, you can do the same thing in vs. Code, right.
+
+00:40:03
+<transcript>: You can hide them.
+
+00:40:06
+<transcript>: Keyboard sounds pretty good. What are the specs.
+
+00:40:06
+<transcript>: it is
+
+00:40:09
+<transcript>: It is a.
+
+00:40:09
+<transcript>: mode signing
+
+00:40:12
+<transcript>: Mode Signing with mode Signal switches.
+
+00:40:12
+<transcript>: lubed
+
+00:40:18
+<transcript>: Lubed by the fine folks at Mode having been here in a while, but you're in Vim set up turned out quite nicely. Thanks.
+
+00:40:22
+<transcript>: thanksgame
+
+00:40:23
+<transcript>: Thanksgame.
+
+00:40:23
+<transcript>: okay
+
+00:40:25
+<transcript>: Okay.
+
+00:40:25
+<transcript>: so
+
+00:40:26
+<transcript>: So.
+
+00:40:35
+<transcript>: Voice pattern. Let's just do the shamefully voice thing. Pmpm, PM, Shamefully, hoist.
+
+00:40:38
+<transcript>: Just I might just start using yarn at some point here.
+
+00:40:39
+murrrrrphy: HeyGuys
+
+00:40:48
+<transcript>: I don't understand why this is the case for this particular module, and not for.
+
+00:40:52
+<transcript>: When I do imports elsewhere in the project, I don't understand.
+
+00:40:58
+<transcript>: Who can tell me? Do I shamefully I just do it like this.
+
+00:40:58
+<transcript>: like pm
+
+00:40:59
+webdev33: Pnpm doesnt seam to work half the time for me too
+
+00:41:00
+<transcript>: Like PMPM. Install.
+
+00:41:04
+<transcript>: Pmpm install Shamefully, hoist.
+
+00:41:14
+<transcript>: That worked.
+
+00:41:16
+<transcript>: And delete that now.
+
+00:41:21
+<transcript>: Let's see. Where was I.
+
+00:41:21
+<transcript>: digging
+
+00:41:24
+<transcript>: Digging so we're import.
+
+00:41:25
+<transcript>: importer plugin
+
+00:41:29
+<transcript>: Importer plugin. We're doing this plugins push, just like this. Okay.
+
+00:41:31
+<transcript>: Let's see.
+
+00:41:35
+<transcript>: Love to get past this.
+
+00:41:41
+<transcript>: Import as we try this so it's still not working. And did the shamefully voice not work? Maybe not.
+
+00:41:45
+<transcript>: Maybe not.
+
+00:41:50
+<transcript>: Oh, Wait. Now these are all SIM links.
+
+00:41:55
+<transcript>: Should I just use yarn? Is it just time to use yarn? And it.
+
+00:42:03
+<transcript>: Pmpm issue. I don't know that it's a PMPM issue, but it feels like a Pnpm issue.
+
+00:42:04
+<transcript>: Svg.
+
+00:42:04
+<transcript>: spriteloader
+
+00:42:06
+<transcript>: Spriteloader.
+
+00:42:06
+<transcript>: they're all
+
+00:42:08
+<transcript>: They're all in this PMPM directory.
+
+00:42:13
+shiftlessatol: https://blog.novacare.no/autogenerate-svg-sprite-with-webpack-and-svg-sprite-loader/
+
+00:42:16
+<transcript>: But I feel like that's how that's how PMPM works. And it works for all my other imports. So I don't understand.
+
+00:42:24
+webdev33: thats how pnpm works tho...
+
+00:42:24
+<transcript>: Okay, here's some of the autogenerate SUG Sprite. Bloodpacket. Sug spriteloader yet? Yeah, that's what I'm doing, Dave.
+
+00:42:27
+joostschuur: The really frustrating part for me is several times now I've seen issues that say 'yeah, that doesn't work with pnpm, PRs welcome' from over a year ago and no solutions
+
+00:42:28
+<transcript>: My issues are more specific than that.
+
+00:42:43
+<transcript>: Yeah, that's how PMPM works and I don't understand why I can't import from this file specifically for Next JS Next config MJS. I feel like is this a TS config issue because I am importing from TypeScript files elsewhere.
+
+00:42:43
+<transcript>: in my next
+
+00:42:46
+<transcript>: In my next config file is like an ESM module.
+
+00:42:47
+shiftlessatol: that is a good
+
+00:42:48
+<transcript>: Is that the issue.
+
+00:42:48
+<transcript>: like if i
+
+00:42:52
+shiftlessatol: you should view the link
+
+00:42:52
+<transcript>: Like if I tried the import, let's try and import something else from my import.
+
+00:42:55
+<transcript>: What other.
+
+00:42:55
+<transcript>: like
+
+00:42:56
+<transcript>: Like.
+
+00:42:58
+shiftlessatol: guide*
+
+00:43:01
+<transcript>: Let's go in here. Just. I'm just gonna take it import.
+
+00:43:05
+allcliffs: or is this nextjs issue LUL
+
+00:43:07
+<transcript>: from here so what if i import use machine for here yeah
+
+00:43:09
+<transcript>: So what if I did this.
+
+00:43:10
+joostschuur: And then when I try yarn, I get different errors
+
+00:43:13
+<transcript>: Does that fail.
+
+00:43:17
+shiftlessatol: they use yarn
+
+00:43:22
+<transcript>: Failed to load. Can I find module.
+
+00:43:25
+<transcript>: Okay, let me comment. That one out.
+
+00:43:38
+<transcript>: So it doesn't seem like this is failing. Let's use machine.
+
+00:43:41
+<transcript>: This import, right.
+
+00:43:48
+<transcript>: Let's try that.
+
+00:43:52
+<transcript>: Do you use your.
+
+00:43:59
+<transcript>: Next JS issue? I don't know, I don't know.
+
+00:44:03
+<transcript>: All I know is it's an issue.
+
+00:44:06
+<transcript>: I don't know who's issue.
+
+00:44:06
+<transcript>: oof
+
+00:44:08
+<transcript>: Oof.
+
+00:44:10
+<transcript>: What is all this.
+
+00:44:10
+shiftlessatol: the link I sent
+
+00:44:12
+shiftlessatol: module.exports = {     ...     module: {      rules: [             {                 test: /\.svg$/,                 use: "svg-sprite-loader"             },             ...  ]     },     ... }
+
+00:44:14
+webdev33: What do you need the sprite loader for?
+
+00:44:19
+<transcript>: Okay.
+
+00:44:25
+<transcript>: Let's.
+
+00:44:32
+rudixworld: I was creating this popular Facebook game like 5+ years ago ... to preload next profile pic I was just hiding it in div lolz
+
+00:44:38
+shiftlessatol: # NPM  npm install svg-sprite-loader -D
+
+00:44:39
+<transcript>: Be clear I can use SVG spriteloader. I just can't seem to use it in the extract mode, but I was able to use it.
+
+00:44:46
+<transcript>: In the default. Like the normal way. Oh, yeah. I was gonna try this. I stopped going down this path.
+
+00:44:46
+<transcript>: here
+
+00:44:48
+<transcript>: Here.
+
+00:44:48
+<transcript>: next sat
+
+00:44:51
+<transcript>: Next sat sprites. I guess we can give this a chance.
+
+00:44:51
+<transcript>: it's weird to me
+
+00:44:53
+<transcript>: It's weird to me that we have to.
+
+00:44:58
+<transcript>: Oh, Es module is a what.
+
+00:45:01
+<transcript>: Oh, that's for the output or something.
+
+00:45:04
+<transcript>: Okay.
+
+00:45:04
+<transcript>: it's weird
+
+00:45:09
+<transcript>: It's weird to me that I have to wrap my whole config in this thing, but I'm willing.
+
+00:45:13
+<transcript>: So I don't import this thing at all.
+
+00:45:18
+<transcript>: Instead, I import with SVG sprites.
+
+00:45:21
+<transcript>: Equals require.
+
+00:45:24
+<transcript>: Next I can't do require.
+
+00:45:24
+<transcript>: import
+
+00:45:25
+<transcript>: Import from.
+
+00:45:31
+<transcript>: Next SVG sprites. Okay. And then down here.
+
+00:45:33
+<transcript>: We're going to return.
+
+00:45:33
+<transcript>: no
+
+00:45:34
+<transcript>: No.
+
+00:45:36
+<transcript>: Find next config.
+
+00:45:40
+<transcript>: We're gonna actually do.
+
+00:45:43
+<transcript>: With SVG sprites.
+
+00:45:43
+<transcript>: and then we're gonna
+
+00:45:46
+<transcript>: And then we're gonna have that config.
+
+00:45:48
+<transcript>: Followed by.
+
+00:45:49
+shiftlessatol: is this what you want?
+
+00:45:51
+shiftlessatol: This will create a sprite within your bundled *.js file. The svg-sprite-loader transforms each imported SVG to a symbol within the sprite that has a unique id. By default this id is the same as the SVG filename.  Now you can import all the SVG's you need into your code and use them within an SVG tag with the SVG's id:
+
+00:45:53
+<transcript>: That and this is our so I'm going to do any of this.
+
+00:46:00
+<transcript>: Take the options.
+
+00:46:08
+webdev33: wait ur the nerd that built public.dev?
+
+00:46:12
+<transcript>: I'm gonna do like this.
+
+00:46:14
+webdev33: super cool stuff man!
+
+00:46:19
+<transcript>: Does that look right.
+
+00:46:22
+<transcript>: I think that's what they're saying. I do.
+
+00:46:25
+<transcript>: Just like.
+
+00:46:25
+<transcript>: get rid of
+
+00:46:29
+<transcript>: Get rid of all the custom web pack and they do it for me. Allegedly.
+
+00:46:33
+<transcript>: Pmpm rundev. I don't know. We'll see.
+
+00:46:37
+<transcript>: I know. Weird output. That's a good start.
+
+00:46:39
+<transcript>: Good start.
+
+00:46:48
+<transcript>: Okay. It runs. Also a good start. Let's see. Did we get a separate.
+
+00:46:51
+<transcript>: Did we get a separate SVG.
+
+00:46:54
+<transcript>: No.
+
+00:46:58
+<transcript>: Now Main TS still has all the SVGs in it, doesn't it.
+
+00:47:11
+<transcript>: Or does it? I don't even know. I don't see the Sugs in here. This might just be okay. Let's try. Let's just try. Let's start it. Let's see.
+
+00:47:14
+<transcript>: Ah should not import. What is that.
+
+00:47:14
+<transcript>: should not
+
+00:47:19
+<transcript>: Should not import the name to export filter. Okay, so something's broken? Broken.
+
+00:47:25
+<transcript>: Only default export is available soon.
+
+00:47:31
+<transcript>: Okay. I think that library is best.
+
+00:47:31
+<transcript>: i think
+
+00:47:33
+<transcript>: I think I don't want to use it.
+
+00:47:36
+<transcript>: Lots of things broken here.
+
+00:47:40
+<transcript>: Are these are worn. These are warnings on the server.
+
+00:47:46
+<transcript>: Have I just noticed these before? Maybe not.
+
+00:47:52
+<transcript>: You're the nerd that built public ideas. That's right. Web Dev.
+
+00:47:52
+<transcript>: i am that
+
+00:47:54
+<transcript>: I am that nerd.
+
+00:47:54
+<transcript>: this is what
+
+00:47:55
+<transcript>: This is what you want.
+
+00:48:03
+<transcript>: What? Svg. Spriteloader. What? They've already inserted. This will create a Sprite within your bundle. This. Yeah, I've already done this.
+
+00:48:11
+<transcript>: Let me let me all I didn't. I realized I didn't start the stream showing you all what I did have working. So let me show you what I did have working.
+
+00:48:14
+<transcript>: I had it working. Just fine.
+
+00:48:20
+<transcript>: Okay. So I'm just going to comment that out and down here. We're just gonna say.
+
+00:48:20
+<transcript>: like this
+
+00:48:22
+<transcript>: Like this.
+
+00:48:22
+<transcript>: okay
+
+00:48:23
+<transcript>: Okay.
+
+00:48:23
+<transcript>: so i
+
+00:48:26
+<transcript>: So I have this working.
+
+00:48:32
+<transcript>: With Sprite. It's an SUG Sprite. It's just in the JS bundle. Okay.
+
+00:48:34
+<transcript>: So watch this.
+
+00:48:40
+<transcript>: So that image is coming out of the SVG Sprite. It's no longer.
+
+00:48:43
+<transcript>: Time stream. It's no longer.
+
+00:48:43
+<transcript>: bundled
+
+00:48:49
+<transcript>: Bundled. Or. I'm sorry. It's no longer. Oh, wow. Is that really that logo? Is it really like that.
+
+00:48:49
+<transcript>: or did
+
+00:48:52
+<transcript>: Or did it distort it? It might have just sorted it.
+
+00:48:52
+<transcript>: work now
+
+00:48:53
+<transcript>: Work now.
+
+00:48:57
+<transcript>: About to look at the work mail and see if that is right.
+
+00:48:57
+<transcript>: chime voice connect
+
+00:49:04
+<transcript>: Chime Voice Connector OOH I'm on a roll streak three in a row cloud watch OOH for in a row haven't this one yet.
+
+00:49:11
+<transcript>: I don't know what this is. I'm gonna say fence base, because it's like a financial building. I don't know.
+
+00:49:11
+<transcript>: that is
+
+00:49:13
+<transcript>: That is Athena. I know that one.
+
+00:49:18
+<transcript>: Cloud map.
+
+00:49:18
+<transcript>: looks
+
+00:49:25
+<transcript>: Looks like a map in a cloud. We're still doing good. Ooh, I know this one. Simple notifications are SNS.
+
+00:49:31
+<transcript>: Have I not miss one yet. Oh, what is this? Systems manager.
+
+00:49:31
+<transcript>: i still haven't
+
+00:49:43
+<transcript>: I still haven't missed one yet. People. I'm on a nine streak. The ignore all the terrible styling. This is gonna be something with email. No. Oh, no. I don't know. Private? No, not. But is it budget.
+
+00:49:43
+<transcript>: oh
+
+00:49:45
+<transcript>: Oh.
+
+00:49:45
+<transcript>: still
+
+00:49:46
+<transcript>: Still going.
+
+00:49:52
+<transcript>: Still going. I might miss this one. Oh, I got it. Resilient sub.
+
+00:49:56
+<transcript>: What is this? Ec. Two. That's vanilla.
+
+00:50:02
+<transcript>: You get 5 seconds every time you get one right and you get the number of points of your oh, what is this.
+
+00:50:21
+<transcript>: Oh, I'm just gonna I'm just gonna lose at the end. Okay. You get the number of points of your current streak every time you get one on your streak. So if you're on a if you've got twelve in a row, you get twelve points. 13 in a row. That's 13 point. It's like it goes kind of exponentially, you know? I mean, okay, so that's what the sugar sprites. The problem is.
+
+00:50:21
+<transcript>: it
+
+00:50:28
+logeshsiva: Hi, Adam
+
+00:50:36
+<transcript>: It's all in the main JS bundle, and I want it in separate files. Well, I went in one separate big SDG Sprite, so that's download and cached independently of the JavaScript bundle. Otherwise, every time I make a change to the app, that JavaScript bundle is going to change.
+
+00:50:36
+<transcript>: and the
+
+00:50:40
+developmentrobot: did the state machine simplify the state management for this?
+
+00:50:42
+<transcript>: And the browser isn't going to have all the sprites cashed. So I need it. I need it to be external. You know, I'm saying.
+
+00:50:45
+logeshsiva: what are you building ?
+
+00:50:47
+<transcript>: Hi, there, Logash. Welcome to chat.
+
+00:50:47
+<transcript>: did the
+
+00:50:58
+<transcript>: Did the state machine simplify the state manager for this? It did develop in a robot. I love the state machine. We'll look at some Xace today because I got some changes I need to make. What do you build it's? Aw. Guess.
+
+00:50:58
+<transcript>: and
+
+00:50:59
+adamdotdev: !awguess
+
+00:50:59
+fossabot: awguess is a guessing game where you're given an AWS service icon and you have to choose the correct service! https://github.com/adamelmore/awguess
+
+00:51:04
+<transcript>: And it's I'm trying to finish it up for reinventing. It's gonna have a leaderboard and people can play.
+
+00:51:04
+<transcript>: and like trying
+
+00:51:06
+<transcript>: And like trying to get high school or is that kind of thing.
+
+00:51:18
+<transcript>: Do we want to try? Don't want to try a yarn? Don't just see if that works. I can always go back.
+
+00:51:21
+<transcript>: I can always go back, right.
+
+00:51:24
+<transcript>: I'm running piececale.
+
+00:51:35
+<transcript>: So let's try yarn, let's just try if I just delete PMPM lock.
+
+00:51:40
+<transcript>: And then if I just remove.
+
+00:51:40
+<transcript>: node
+
+00:51:42
+<transcript>: Node models.
+
+00:51:47
+<transcript>: Just like that. Now let's do yarn, install.
+
+00:51:59
+<transcript>: See if we can get this thing working.
+
+00:52:10
+<transcript>: Outside of Pnpm world. Like if it's a problem with the way Pnpm does.
+
+00:52:10
+<transcript>: their thing
+
+00:52:11
+<transcript>: Their thing.
+
+00:52:15
+<transcript>: Right. I think for the follow Lagash.
+
+00:52:18
+<transcript>: Hit that look at lagsh.
+
+00:52:22
+<transcript>: Let me know if I'm saying your name wrong if you'd like me to say it differently.
+
+00:52:22
+<transcript>: i try to remember
+
+00:52:23
+<transcript>: I try to remember those things.
+
+00:52:27
+shiftlessatol: this?
+
+00:52:27
+<transcript>: Pmpm, run Dev, let's see. Yarn is done inside.
+
+00:52:27
+<transcript>: okay
+
+00:52:29
+shiftlessatol: webpack 1 module.exports = {   module: {     loaders: [       {         test: /\.svg$/,         loader: 'svg-sprite-loader?runtimeCompat=true'       }     ]   } }  // webpack 2 module.exports = {   module: {     rules: [       {         test: /\.svg$/,         loader: 'svg-sprite-loader',         options: {           runtimeCompat: true         }       }     ]   } }
+
+00:52:38
+<transcript>: Okay. No failed to load. Can I find module SDG Spriteloader imported from that as you mean to import oh JS oh Oh.
+
+00:52:40
+<transcript>: It's.
+
+00:52:40
+<transcript>: it's
+
+00:52:51
+<transcript>: It's a we're in a we're in a ESM file. This is an ASM module. We have to put JS on it. Is that all it is? Would it have worked with PMPM like that.
+
+00:52:53
+<transcript>: Is that all it was.
+
+00:52:53
+<transcript>: did i just needed
+
+00:52:57
+<transcript>: Did I just needed JS on the end? I did, I just needed JS on the end, didn't I.
+
+00:53:00
+<transcript>: Is that right.
+
+00:53:00
+<transcript>: let's see
+
+00:53:01
+coolruahh: tips for making the backend of a website?
+
+00:53:03
+<transcript>: Let's see oh enter does not have.
+
+00:53:03
+<transcript>: subs
+
+00:53:06
+<transcript>: Subsets selected. I thought I selected it.
+
+00:53:09
+<transcript>: Okay.
+
+00:53:12
+<transcript>: Here we go. Let's see if it's working.
+
+00:53:12
+<transcript>: is there
+
+00:53:15
+<transcript>: Is there a separate okay? No spriteloaded.
+
+00:53:18
+<transcript>: Also, I don't see.
+
+00:53:18
+<transcript>: okay
+
+00:53:20
+<transcript>: Okay, let's try this again.
+
+00:53:23
+<transcript>: No.
+
+00:53:26
+<transcript>: Interesting so no images whatsoever.
+
+00:53:32
+<transcript>: So what did it do? I mean, it just broke my Sprite thing.
+
+00:53:35
+<transcript>: Let's try.
+
+00:53:35
+<transcript>: let's try
+
+00:53:38
+<transcript>: Let's try this. So we did this a couple different ways.
+
+00:53:42
+<transcript>: Instead of pushing the plugin here.
+
+00:53:42
+<transcript>: let's
+
+00:53:45
+<transcript>: Let's do loader.
+
+00:53:50
+<transcript>: Right. Well, that work. I don't know. We can try.
+
+00:53:50
+<transcript>: sprite
+
+00:53:52
+<transcript>: Sprite, loader plugin.
+
+00:53:52
+<transcript>: try
+
+00:53:54
+<transcript>: Try.
+
+00:53:58
+<transcript>: Can't hurt to try oh, it can it failed.
+
+00:54:00
+shiftlessatol: awguess : telekinesis
+
+00:54:02
+<transcript>: Object provided by the user. What.
+
+00:54:05
+<transcript>: Schwett.
+
+00:54:08
+<transcript>: Okay, clearly, this is not a valid.
+
+00:54:11
+<transcript>: Web Pack configuration.
+
+00:54:18
+<transcript>: Okay. Let's see define next. Config Web pack.
+
+00:54:18
+<transcript>: rule
+
+00:54:23
+<transcript>: Rules. Push loader. So not that way we found out. It's not this white people.
+
+00:54:23
+<transcript>: it's not how you do it
+
+00:54:24
+<transcript>: It's not how you do it.
+
+00:54:28
+<transcript>: How do I go back to this rep? Here we go.
+
+00:54:30
+<transcript>: Not this way.
+
+00:54:35
+<transcript>: Extract configuration. So they said, do it like this plugins.
+
+00:54:38
+<transcript>: Push the plugin like that.
+
+00:54:40
+<transcript>: And then.
+
+00:54:49
+<transcript>: Here test loader and options, but loader is going to be.
+
+00:54:56
+<transcript>: Svg? Sprite? We do this, didn't we? It didn't work. Test.
+
+00:54:56
+<transcript>: loader
+
+00:55:03
+<transcript>: Loader options. I hate Webpack so much if I mention that that I hate Webpack because I do. I hate it.
+
+00:55:08
+<transcript>: Unless you work on webpack and then I'll be really kind and say good work.
+
+00:55:16
+<transcript>: Because I'm very nonconfrontantial, but I really don't like Webback. I dislike it a lot, so we're not getting errors now.
+
+00:55:19
+<transcript>: We're just. It's just not working.
+
+00:55:19
+<transcript>: so it's just
+
+00:55:21
+<transcript>: So it's just not Loading the spray.
+
+00:55:26
+<transcript>: Is it exporting it? And I'm just not seeing it. Where does it export it by default.
+
+00:55:30
+<transcript>: Public path.
+
+00:55:37
+<transcript>: Default is webpack public path. So let's look in the I can specify an output path.
+
+00:55:43
+<transcript>: By default it will use telepath.
+
+00:55:46
+anaserror404: hello
+
+00:55:48
+<transcript>: What is webpack public path? Where would that be if I wanted to find this thing.
+
+00:55:51
+<transcript>: Bye, now.
+
+00:55:55
+anaserror404: what do you prefer windows 11 or 10
+
+00:55:57
+<transcript>: Hello, welcome to Chat. Cool, RUH.
+
+00:55:57
+<transcript>: huru
+
+00:55:59
+<transcript>: Huru.
+
+00:56:03
+<transcript>: Let's see tips for making the back end of a website.
+
+00:56:03
+<transcript>: yeah i
+
+00:56:06
+<transcript>: Yeah, I think Create T Three app is a great starting point.
+
+00:56:11
+<transcript>: You can kind of think less about backends if you want to make a website and you need some.
+
+00:56:11
+<transcript>: light
+
+00:56:13
+vagorge: what happen to bttr
+
+00:56:15
+<transcript>: Light backend Functionality it's a great place to start.
+
+00:56:15
+<transcript>: and then
+
+00:56:17
+shiftlessatol: check this out
+
+00:56:18
+shiftlessatol: extract-svg-sprite-webpack-plugin
+
+00:56:19
+<transcript>: And then you can graduate into my complicated things, like, AWS.
+
+00:56:24
+<transcript>: Anna sorrower. No.
+
+00:56:24
+<transcript>: an s error
+
+00:56:32
+<transcript>: An s error 404? Hello, welcome to Chat. What do you prefer? Windows Eleven or Ten macOS whatever version it is right now. I don't know.
+
+00:56:32
+<transcript>: i
+
+00:56:37
+<transcript>: I just. I use Mac. What happened to Bitter? It's coming, it's coming.
+
+00:56:37
+<transcript>: i just explain
+
+00:56:47
+allcliffs: but prisma doesnt support dynamodb does it ?
+
+00:56:53
+<transcript>: I just explained that I'm gonna work on it after I get back from here reinvent, but I want to get a to be guest done for reinvent extract sugar Sprite webpack plugin. What? What is this? Dave? This is so confusing. Extract SVG Sprite webpack plugin. That's a thing.
+
+00:56:56
+shiftlessatol: https://github.com/JetBrains/svg-mixer/tree/master/packages/extract-svg-sprite-webpack-plugin
+
+00:56:58
+<transcript>: Kismin doesn't support DynamoDB. No, that's right. On Clip. It doesn't. What is this.
+
+00:57:05
+<transcript>: Something similar to what I'm using right now. Just a different plugin.
+
+00:57:10
+<transcript>: First let me let me go down this track let's see if we can find.
+
+00:57:16
+<transcript>: I don't even think this was a PMPN problem, was it.
+
+00:57:16
+<transcript>: it was
+
+00:57:21
+<transcript>: It was. I didn't put JS on there. So is it in the next directory? Static.
+
+00:57:21
+<transcript>: webpack
+
+00:57:23
+<transcript>: Webpack.
+
+00:57:23
+<transcript>: no
+
+00:57:24
+<transcript>: No.
+
+00:57:24
+<transcript>: media
+
+00:57:25
+<transcript>: Media.
+
+00:57:27
+<transcript>: Fonts.
+
+00:57:30
+<transcript>: We're just looking for an SVG file right now.
+
+00:57:35
+<transcript>: In the worst possible way by literally expanding all these tree.
+
+00:57:35
+<transcript>: things
+
+00:57:37
+<transcript>: Things, servers.
+
+00:57:41
+<transcript>: I don't see any SVGs.
+
+00:57:43
+shiftlessatol: it's opposite
+
+00:57:46
+<transcript>: Don't see them.
+
+00:57:56
+<transcript>: I'm not sure where I would see it if I was going to see it. I guess we could customize the directory and see if that helps, but.
+
+00:57:56
+<transcript>: so what
+
+00:57:58
+<transcript>: So what is this? How's this different.
+
+00:58:02
+<transcript>: Sprite plugin.
+
+00:58:09
+shiftlessatol: instead of the SVG Js bundle, it's extracting into a file
+
+00:58:13
+<transcript>: How does this one differ from the one I'm using.
+
+00:58:16
+<transcript>: Oh, wait, this is also from the JetBrains. Wait, what.
+
+00:58:20
+<transcript>: Generation transform is bright and modern way.
+
+00:58:26
+<transcript>: So they have two different web pack plugins.
+
+00:58:26
+<transcript>: i'm sorry
+
+00:58:28
+<transcript>: I'm sorry. What.
+
+00:58:36
+<transcript>: I'm so confused.
+
+00:58:40
+<transcript>: Under heavy development years ago.
+
+00:58:44
+<transcript>: Okay. Jeff. Brains, what's going on here.
+
+00:58:46
+<transcript>: What's going on here.
+
+00:59:03
+<transcript>: Instead of Suga JS bundle tickshot hand file. Yeah, but, Dave, that ours. Does that too. Ours does that too. It's also from Jeff Brains. And it's I think a more recent repo now, also years ago. Well, 13 months ago, they did something.
+
+00:59:13
+<transcript>: Webpack loader for creating SVG spreads. Like, I think I think this one's what we want. It does extraction. We just don't have the extraction working.
+
+00:59:15
+<transcript>: That's all.
+
+00:59:15
+<transcript>: public pass
+
+00:59:17
+<transcript>: Public pass slash.
+
+00:59:23
+<transcript>: Let's try that.
+
+00:59:28
+<transcript>: Option.
+
+00:59:33
+<transcript>: Extract true public path.
+
+00:59:35
+<transcript>: I like that.
+
+00:59:37
+<transcript>: For Sprite.
+
+00:59:44
+<transcript>: Okay output Path Custom Dirt sprites.
+
+00:59:48
+<transcript>: Okay.
+
+00:59:51
+<transcript>: Let's see if that works.
+
+00:59:53
+<transcript>: Out yarn, dead.
+
+01:00:08
+<transcript>: I don't see any.
+
+01:00:11
+<transcript>: Don't see any sprites.
+
+01:00:14
+<transcript>: And it's not Loading.
+
+01:00:21
+<transcript>: Did it put a Sprite somewhere.
+
+01:00:21
+<transcript>: what is slack
+
+01:00:23
+<transcript>: What is Slack supposed to be.
+
+01:00:36
+<transcript>: I don't see any Sugs anywhere let's just search I guess.
+
+01:00:44
+<transcript>: Oh, yeah, there's lots of SUG.
+
+01:00:44
+<transcript>: date
+
+01:00:46
+<transcript>: Date let's do like date.
+
+01:00:46
+<transcript>: created
+
+01:00:48
+<transcript>: Created.
+
+01:00:51
+<transcript>: Logo? What.
+
+01:00:59
+<transcript>: I'm for some plugin. Okay. No, it's not creating any SVGs. It's not exporting them anyway.
+
+01:01:03
+<transcript>: Let's see.
+
+01:01:06
+<transcript>: Thank you for the follow up zoolek.
+
+01:01:06
+<transcript>: and zinj
+
+01:01:09
+<transcript>: And zinjib and buffer.
+
+01:01:13
+<transcript>: This is the.
+
+01:01:13
+<transcript>: more painful
+
+01:01:15
+<transcript>: More painful. Then I thought it'd be.
+
+01:01:18
+<transcript>: Alright, loader, plugin.
+
+01:01:21
+<transcript>: Cd Sprouter extract true.
+
+01:01:23
+<transcript>: Let's see.
+
+01:01:28
+<transcript>: Examples. We looked at those plugins.
+
+01:01:29
+<transcript>: Oh, wait.
+
+01:01:32
+<transcript>: No.
+
+01:01:41
+<transcript>: So extract doesn't seem to be I wonder if I just do I have this wrong? Is this not how rules look.
+
+01:01:47
+<transcript>: This is not how rules look.
+
+01:01:47
+<transcript>: like
+
+01:01:50
+<transcript>: Like let's look at some next shut. Yeah. Here we go.
+
+01:01:50
+<transcript>: use
+
+01:01:54
+<transcript>: Use oh so theirs looks different.
+
+01:01:54
+<transcript>: test
+
+01:01:57
+<transcript>: Test. And then use so let's try this.
+
+01:01:57
+<transcript>: test
+
+01:01:59
+<transcript>: Test use.
+
+01:02:03
+<transcript>: Then they've got.
+
+01:02:08
+<transcript>: What is that.
+
+01:02:08
+<transcript>: oh like
+
+01:02:12
+ttbishop: just the brackets
+
+01:02:12
+<transcript>: Oh, like this is one of them. So then loader.
+
+01:02:14
+<transcript>: Well here. I can just.
+
+01:02:17
+ttbishop: it's array of loaders
+
+01:02:20
+<transcript>: Like that. And then options.
+
+01:02:22
+<transcript>: Like this.
+
+01:02:24
+<transcript>: What they're saying.
+
+01:02:30
+<transcript>: Hey, you use.
+
+01:02:38
+<transcript>: Tests use let's try this. Maybe I just have the syntax wrong outside of next year. This is expectations.
+
+01:02:40
+shiftlessatol: runtimeCompat=true
+
+01:02:42
+<transcript>: I don't really understand web pack so I don't know.
+
+01:02:42
+<transcript>: but
+
+01:02:44
+<transcript>: But.
+
+01:02:47
+<transcript>: Let's try it.
+
+01:02:51
+<transcript>: No SVG.
+
+01:03:04
+<transcript>: Really leave this Finder window open. Keep opening it. Let's see if there's anything in next now. Oh, look, spy SUG look at this. Aha.
+
+01:03:04
+<transcript>: aha
+
+01:03:06
+<transcript>: Aha.
+
+01:03:10
+<transcript>: See if it actually looks like it has a heads. Our stuff in it. I don't see anything.
+
+01:03:15
+<transcript>: But I might not understand sprites. Maybe I shouldn't be able to see anything.
+
+01:03:19
+<transcript>: Maybe it's really zoomed in or really zoomed out.
+
+01:03:23
+<transcript>: Runtime compat equals true.
+
+01:03:31
+<transcript>: I think we're getting somewhere now. Now we have a separate file. I think I just need to load it differently.
+
+01:03:31
+<transcript>: we have this
+
+01:03:33
+<transcript>: We have this bright SVG. Now.
+
+01:03:35
+shiftlessatol: you should see tiles
+
+01:03:38
+<transcript>: It's alongside what.
+
+01:03:44
+<transcript>: Now I got to figure out how to use it, right.
+
+01:03:57
+<transcript>: Okay, so maybe this where I need the output directory. I think we figured it out. The problems. I want to go back to Pnpm real quick. I just want to rule that out. Want to make sure I can't be using PMPM.
+
+01:03:57
+<transcript>: remove
+
+01:03:58
+<transcript>: Remove.
+
+01:03:58
+<transcript>: node
+
+01:04:00
+<transcript>: Node module.
+
+01:04:02
+shiftlessatol: it made a file but nothing in it
+
+01:04:05
+<transcript>: Also, why is my okay.
+
+01:04:05
+<transcript>: remove
+
+01:04:12
+<transcript>: Remove yarn lock. Is it yarn lock? Nope. Not with two K's. Definitely not with two case.
+
+01:04:21
+<transcript>: So we got rid of yarn lock. We deleted node modules. Whoa. Everything's broken? Oh, because I just.
+
+01:04:24
+<transcript>: Pmpm, install.
+
+01:04:28
+<transcript>: installs
+
+01:04:28
+<transcript>: installs yeah it may
+
+01:04:44
+<transcript>: Installs. Yeah, it may a file, but nothing in it. I think there's something in it. I think it's just the way the Sprite. I don't think you can just preview this bright. I think they're like laying on top each other or something dumb and they might be invisible. Unmet peerDependencies next twelve. Oh yeah. We don't need next SDG sprites anymore.
+
+01:04:49
+<transcript>: There we go.
+
+01:04:53
+<transcript>: Pmpm, remove.
+
+01:04:56
+<transcript>: Next SVG sprites.
+
+01:05:04
+<transcript>: Pmpm Pnpm install just gotta make sure.
+
+01:05:07
+allcliffs: is there a good typeorm for dynamodb ?
+
+01:05:07
+<transcript>: And then.
+
+01:05:12
+<transcript>: Next config. We've got the dot. Js.
+
+01:05:12
+<transcript>: let's see pm
+
+01:05:14
+<transcript>: Let's see, PMP, run, Dev. Let's see if it does it.
+
+01:05:14
+<transcript>: oh yeah
+
+01:05:18
+<transcript>: Oh, yeah? We're still using Pnpm feels good.
+
+01:05:22
+<transcript>: Feels good. I'm glad I went back and didn't just assume.
+
+01:05:22
+<transcript>: so sprite
+
+01:05:32
+<transcript>: So Sprite. Sug is created just now and I think I just got to figure out now with the output directory and all that stuff.
+
+01:05:37
+<transcript>: How I want to do also I just gotta fix this as bothering me.
+
+01:05:40
+<transcript>: It says that I'm not.
+
+01:05:42
+<transcript>: From Next Font, Google.
+
+01:05:48
+<transcript>: I'm not. I'm choosing subsets. What are you talking about? It's right there. Oh, it's just for enter. I'm not using it.
+
+01:05:52
+<transcript>: I am.
+
+01:05:52
+<transcript>: why am i importing
+
+01:05:53
+<transcript>: Why am I importing enter here.
+
+01:05:58
+<transcript>: This is just a holdover from earlier where I don't see enter.
+
+01:06:08
+<transcript>: Now interest not being imported. What are you talking about.
+
+01:06:11
+<transcript>: That's weird.
+
+01:06:14
+<transcript>: Okay.
+
+01:06:14
+<transcript>: ls
+
+01:06:16
+<transcript>: Lsp research.
+
+01:06:22
+<transcript>: Oh, not that one.
+
+01:06:25
+<transcript>: Okay.
+
+01:06:25
+<transcript>: so
+
+01:06:36
+<transcript>: So this works. Now we need to we're gonna change up the options. We're gonna say Sprite five file name. We can say public path. So publish.
+
+01:06:38
+<transcript>: Ad.
+
+01:06:38
+<transcript>: we're gonna say
+
+01:06:40
+<transcript>: We're gonna say is public.
+
+01:06:44
+<transcript>: For that.
+
+01:06:55
+<transcript>: Is there a good type or for DynamoDB? Electrodb.
+
+01:06:58
+<transcript>: I hear good things about electro.
+
+01:06:58
+<transcript>: elect
+
+01:07:00
+<transcript>: Electro DB.
+
+01:07:00
+<transcript>: yeah
+
+01:07:03
+<transcript>: Yeah? From Tyler Walsh.
+
+01:07:07
+<transcript>: This is highly recommended from DAX.
+
+01:07:07
+<transcript>: and dax
+
+01:07:08
+adamdotdev: https://github.com/tywalch/electrodb
+
+01:07:11
+<transcript>: And DAX is really good at finding.
+
+01:07:12
+<transcript>: Like.
+
+01:07:12
+<transcript>: good times
+
+01:07:15
+<transcript>: Good timescript, friendly stuff.
+
+01:07:15
+<transcript>: the
+
+01:07:20
+<transcript>: The README is a little intense, like, look at this scroll bar. Look at this. It's a little intense.
+
+01:07:20
+<transcript>: and this
+
+01:07:26
+<transcript>: And this is what's put me off so far. It is like I'm too dumb to read all that. But.
+
+01:07:29
+<transcript>: Can't say he's not documenting it. Well.
+
+01:07:31
+<transcript>: There's a lot there.
+
+01:07:36
+<transcript>: Okay. Can I read properties? We'll see. Why did you keep saying that fast? Refresher.
+
+01:07:41
+<transcript>: Webpack Hot Dev client whatever.
+
+01:07:41
+<transcript>: let
+
+01:07:46
+<transcript>: Let's see. Is the file still there? Did it move it to public.
+
+01:07:51
+<transcript>: Here. Did it put it in here.
+
+01:07:54
+<transcript>: No.
+
+01:07:59
+<transcript>: Okay. Where did it put it.
+
+01:08:03
+<transcript>: Where did it put it? Let's see.
+
+01:08:03
+<transcript>: next
+
+01:08:06
+<transcript>: Next. So it's not in there.
+
+01:08:15
+<transcript>: Oh, it created a public directory in the next directory. So that's not helpful for me. I don't understand.
+
+01:08:18
+<transcript>: Some just say something.
+
+01:08:18
+<transcript>: what was that
+
+01:08:22
+<transcript>: What was that? Did the audio track just was it like a voice.
+
+01:08:27
+<transcript>: That was so weird.
+
+01:08:27
+<transcript>: feeling like somebody
+
+01:08:29
+<transcript>: Feeling like somebody said a word to me.
+
+01:08:33
+<transcript>: That's not where I want it, right.
+
+01:08:33
+<transcript>: i
+
+01:08:36
+<transcript>: I want it where I can get to it.
+
+01:08:40
+<transcript>: Where can I get to it? Or maybe that is where I wanted. I don't even know. Static.
+
+01:08:45
+<transcript>: Like, how am I importing all these other things.
+
+01:09:01
+<transcript>: How I can output this into a place that I can I can use it because, like these, all these images.
+
+01:09:06
+<transcript>: In public. I can. I can download these. I don't need that anymore.
+
+01:09:08
+allcliffs: @adamdotdev thanks
+
+01:09:16
+<transcript>: Yeah? What we're do? I need it to be put.
+
+01:09:16
+<transcript>: so that i can use
+
+01:09:18
+<transcript>: So that I can use it.
+
+01:09:18
+<transcript>: oh here we go so
+
+01:09:20
+<transcript>: Oh, here we go? So server public.
+
+01:09:20
+<transcript>: no
+
+01:09:22
+<transcript>: No. Is that no.
+
+01:09:29
+<transcript>: Let's see.
+
+01:09:40
+<transcript>: Sorry. I'll turn on my keycaster. There you go.
+
+01:09:45
+<transcript>: Sd spy lower public path. Let's see. So now I need to try and import this thing from.
+
+01:09:49
+<transcript>: Index.
+
+01:09:55
+<transcript>: My running still Yeah.
+
+01:09:55
+<transcript>: let's
+
+01:09:57
+<transcript>: Let's see.
+
+01:09:59
+<transcript>: Here.
+
+01:09:59
+<transcript>: so we have
+
+01:10:02
+<transcript>: So we have this sugus.
+
+01:10:05
+<transcript>: What.
+
+01:10:08
+<transcript>: Happened.
+
+01:10:12
+<transcript>: Okay.
+
+01:10:19
+<transcript>: So.
+
+01:10:19
+<transcript>: what we're trying
+
+01:10:21
+<transcript>: What we're trying to do.
+
+01:10:21
+<transcript>: is
+
+01:10:23
+<transcript>: Is load that SVG.
+
+01:10:30
+<transcript>: And then use only the IDs inside of it. So I guess this can this have like an Href or something? No.
+
+01:10:33
+<transcript>: How can I do that now.
+
+01:10:35
+<transcript>: It's an external SUG file.
+
+01:10:38
+<transcript>: I need to import it.
+
+01:10:44
+<transcript>: Who knows things about SVG files.
+
+01:10:47
+<transcript>: And next, Yes.
+
+01:10:58
+<transcript>: I can use an image, but then I can't use I need it to be like this so I can do the used thing.
+
+01:11:02
+<transcript>: Okay. Import. I.
+
+01:11:07
+<transcript>: Like that.
+
+01:11:13
+<transcript>: But that's not going to work through the web pack cycle, like, I need to impose How's this gonna work.
+
+01:11:16
+<transcript>: How's this gonna work.
+
+01:11:20
+<transcript>: Svgr.
+
+01:11:37
+shiftlessatol: you have to change the image reference
+
+01:11:42
+<transcript>: I guess this Ahref, can it have the let's see SVG.
+
+01:11:42
+<transcript>: sprite
+
+01:11:43
+<transcript>: Sprite.
+
+01:11:43
+<transcript>: use
+
+01:11:45
+<transcript>: Use Ahref.
+
+01:11:48
+<transcript>: Absolute path.
+
+01:11:48
+<transcript>: something
+
+01:11:49
+<transcript>: Something.
+
+01:11:53
+allcliffs: @adamdotdev https://react-svgr.com/docs/next/ see here
+
+01:11:53
+shiftlessatol: it was always pointing to the same image before which was updated via js
+
+01:11:56
+<transcript>: Use Sprite. Sug. Here we go, here we go.
+
+01:11:59
+<transcript>: Here we go. Maybe.
+
+01:12:02
+<transcript>: This easy.
+
+01:12:06
+<transcript>: Probably not.
+
+01:12:10
+<transcript>: That easy.
+
+01:12:10
+<transcript>: i
+
+01:12:15
+<transcript>: I might just have the password though Sprite SVG so it can't find it there. Can it find it in public.
+
+01:12:18
+shiftlessatol: now you need to reference the same file with coordinates to the area you're showing
+
+01:12:22
+<transcript>: No.
+
+01:12:22
+tobs_on_twitch: Hi :). you keyboard sounds so good
+
+01:12:25
+<transcript>: So let's try to find.
+
+01:12:29
+<transcript>: Public. Sprite. Svg.
+
+01:12:33
+<transcript>: Where is that thing? Where is it putting it.
+
+01:12:33
+<transcript>: tops on twitch
+
+01:12:39
+<transcript>: Tops on Twitch. Welcome to Chat. Thank you. Yeah, I love my keyboard. It's great.
+
+01:12:39
+<transcript>: you have
+
+01:12:53
+<transcript>: You have to change the image reference. It was always pointing to the same image before which was updated via JS. Now you need to reference the same file with coordinates in the area you're showing. I think we're I think we're saying the same thing, Dave. I think.
+
+01:13:01
+<transcript>: You need to figure out how to export this SUG and I'll place that I can reference it.
+
+01:13:05
+shiftlessatol: either css
+
+01:13:09
+<transcript>: And it's unclear to me.
+
+01:13:09
+<transcript>: like
+
+01:13:11
+shiftlessatol: or whatever is showing the image
+
+01:13:12
+<transcript>: Like I see where.
+
+01:13:19
+shiftlessatol: you'll have to modify
+
+01:13:19
+<transcript>: I see where it's putting it in here. Public. Right there. See that.
+
+01:13:23
+<transcript>: But what I don't understand is.
+
+01:13:26
+<transcript>: How I access that.
+
+01:13:28
+<transcript>: From the app.
+
+01:13:31
+pannosa: Hi ... href should be xlink:href
+
+01:13:35
+<transcript>: Like this is the next directory.
+
+01:13:39
+<transcript>: How do I put it in static.
+
+01:13:39
+<transcript>: is that available
+
+01:13:40
+<transcript>: Is that available to me.
+
+01:13:40
+<transcript>: like okay
+
+01:13:42
+<transcript>: Like okay. So like these chunks.
+
+01:13:46
+<transcript>: How does this all work.
+
+01:13:48
+<transcript>: Development media.
+
+01:13:54
+<transcript>: Okay. So there that font file. We know that's being downloaded. How is that being addressed.
+
+01:14:11
+<transcript>: Oh, it's literally underscore next. Static media. Okay. So I can do underscore next. And then just so I'm going to put this into static. I think that makes sense. We'll drop this into static. Okay. Okay. We're gonna try this.
+
+01:14:11
+<transcript>: let's just
+
+01:14:13
+<transcript>: Let's just go and do this.
+
+01:14:13
+<transcript>: static
+
+01:14:14
+<transcript>: Static.
+
+01:14:14
+<transcript>: and this is
+
+01:14:16
+<transcript>: And this is gonna be.
+
+01:14:18
+<transcript>: Next. I don't know. Can I do that.
+
+01:14:22
+<transcript>: Seems weird, but maybe I can do that.
+
+01:14:22
+<transcript>: now we need to go
+
+01:14:24
+<transcript>: Now we need to go back.
+
+01:14:24
+<transcript>: here and i
+
+01:14:26
+<transcript>: Here? And I'm gonna say.
+
+01:14:26
+<transcript>: that should
+
+01:14:28
+<transcript>: That should be static.
+
+01:14:31
+<transcript>: Okay.
+
+01:14:35
+<transcript>: It was weird.
+
+01:14:38
+taxeroni: "SVG 2 removed the need for the xlink namespace, so instead of xlink:href you should use href." this is per mdn
+
+01:14:51
+<transcript>: Pennosaf should be XLink Href. I think they've now they support just Href, right? It doesn't have to be X link anymore. I mean, I can put X link there. I guess it'd be backwards compatible, but yeah, SDG to remove the need for Xlin namespace. So instead of you should. There you go.
+
+01:14:51
+<transcript>: welcome to
+
+01:14:53
+<transcript>: Welcome to Chat, taxironi.
+
+01:14:58
+<transcript>: Oh, wait, what was this.
+
+01:15:05
+<transcript>: There's still some, like, fast refresh errors. I don't know if that's because of this webpack stuff I'm doing. Oh, something failed.
+
+01:15:07
+pannosa: Ohh, didn't know that. Always used xlink :P
+
+01:15:12
+<transcript>: So we have a weird in between it's almost working state should not import the named export filter.
+
+01:15:14
+<transcript>: What should not import.
+
+01:15:18
+taxeroni: hi slpyVV
+
+01:15:19
+<transcript>: So the color everything's wrong? But we're getting there.
+
+01:15:27
+<transcript>: None of those errors are related to my issue here.
+
+01:15:27
+<transcript>: let's try and get another
+
+01:15:29
+<transcript>: Let's try and get another one.
+
+01:15:29
+<transcript>: well
+
+01:15:32
+<transcript>: Well, I needed a guess right now I got start over.
+
+01:15:32
+<transcript>: okay
+
+01:15:35
+shiftlessatol: another merch item
+
+01:15:39
+<transcript>: Okay. So it's not got the background. It's just doesn't have the background. Is that the issue? Is it stripping it out somewhere.
+
+01:15:45
+cowfacedude99: it's a different error LUL
+
+01:15:52
+<transcript>: Okay, let me just try and get one right earlier. I got like twelve in a row. Right now. I can figure out one of them. Yeah. So it's missing a background. That's interesting.
+
+01:15:58
+shiftlessatol: " everything is wrong - but we're getting there"
+
+01:15:59
+<transcript>: Oh, did I just see that it still didn't load a file correctly? What's that? Is that an old.
+
+01:16:03
+<transcript>: Let's do a refresh.
+
+01:16:07
+<transcript>: Everything is wrong. But we're getting there. That's right.
+
+01:16:07
+<transcript>: so
+
+01:16:11
+<transcript>: So what's this? What's? Trying to grab.
+
+01:16:15
+<transcript>: There's a 404 here on this SUG. What is this.
+
+01:16:20
+<transcript>: Public Sprite? Where are we still trying to get public.
+
+01:16:30
+<transcript>: I don't see where I'm trying to load public Sprite.
+
+01:16:30
+<transcript>: like
+
+01:16:32
+<transcript>: Like, what are you talking about.
+
+01:16:36
+<transcript>: I'm not. I'm definitely not.
+
+01:16:44
+<transcript>: I feel like there's something screwy going on today. Something kind of screwy with my browser. Maybe. Or with I don't know.
+
+01:16:47
+<transcript>: Let's disable that.
+
+01:16:50
+<transcript>: I don't know.
+
+01:16:55
+<transcript>: Predictable action arguments are true when using Create machine.
+
+01:16:59
+<transcript>: Yes, something's. Something's weird.
+
+01:17:01
+<transcript>: I don't like it.
+
+01:17:03
+<transcript>: Not one bit.
+
+01:17:04
+allcliffs: but is the file there ?
+
+01:17:11
+<transcript>: Like we had a situation earlier, where it was. We were getting errors in the console for code that had been deleted long ago.
+
+01:17:15
+<transcript>: And I don't understand what is going on.
+
+01:17:15
+<transcript>: what's hanging
+
+01:17:18
+<transcript>: What's hanging on to what? Like where.
+
+01:17:18
+<transcript>: are you seeing
+
+01:17:24
+<transcript>: Are you seeing someone trying to fetch public Sprite SDG it's just not a thing.
+
+01:17:27
+<transcript>: Not in the codebase.
+
+01:17:35
+<transcript>: Like this is from static Sprite. Okay, the file is saved.
+
+01:17:35
+<transcript>: what is
+
+01:17:36
+<transcript>: What is the deal.
+
+01:17:36
+<transcript>: hanging on
+
+01:17:40
+<transcript>: Hanging on to something? Let's just blow away, okay? Here's what we're gonna do.
+
+01:17:46
+<transcript>: Here's what we're gonna do, Peter. People. We're gonna we're gonna get heavyhanded here. Remove.
+
+01:17:48
+<transcript>: Node, modules.
+
+01:17:48
+<transcript>: now
+
+01:17:50
+<transcript>: Now we'll just start with next.
+
+01:17:53
+<transcript>: Okay.
+
+01:17:58
+<transcript>: Let's do a pnpm.
+
+01:18:03
+<transcript>: Run build and Kim him run start I'm just now I'm gonna run the dead server.
+
+01:18:05
+<transcript>: Is the file there.
+
+01:18:08
+<transcript>: It's like showing the browser is showing.
+
+01:18:08
+<transcript>: that i'm
+
+01:18:10
+<transcript>: That I'm.
+
+01:18:10
+<transcript>: requesting
+
+01:18:15
+<transcript>: Requesting a file I'm not requesting. So there's something like stored in the browser.
+
+01:18:15
+<transcript>: some file
+
+01:18:18
+<transcript>: Some file that is not getting updated.
+
+01:18:18
+<transcript>: oh that's
+
+01:18:26
+<transcript>: Oh, that's what the Saturation refresh errors are. I bet. Like something about my Webpack. Hmr is not working or something. And it's got old modules.
+
+01:18:26
+<transcript>: it's still doing it
+
+01:18:27
+<transcript>: It's still doing it.
+
+01:18:29
+<transcript>: Like, what is this.
+
+01:18:32
+<transcript>: Okay. Here's what we're gonna do.
+
+01:18:36
+<transcript>: Here's what we're gonna do. We're gonna.
+
+01:18:40
+<transcript>: Close in them.
+
+01:18:43
+<transcript>: We're gonna reopen in them.
+
+01:18:44
+th3_l3m0n: maybe clear the browser cache?
+
+01:18:49
+<transcript>: We're going to.
+
+01:18:51
+<transcript>: Remove.
+
+01:18:51
+<transcript>: node
+
+01:18:52
+<transcript>: Node, modules.
+
+01:18:54
+<transcript>: We're gonna remove.
+
+01:18:57
+<transcript>: Next.
+
+01:18:58
+cowfacedude99: worst case, change the port and try
+
+01:19:01
+<transcript>: And.
+
+01:19:01
+<transcript>: what else
+
+01:19:04
+<transcript>: What else? What else? I want to delete.
+
+01:19:11
+<transcript>: No. Okay, that's good. Now we're gonna do PMPM install.
+
+01:19:13
+shiftlessatol: A.D:: " here's what we're gonna do..."
+
+01:19:19
+<transcript>: Again. Oh, that's a good idea.
+
+01:19:27
+<transcript>: That's a good idea.
+
+01:19:35
+<transcript>: Here's what we're gonna do.
+
+01:19:46
+<transcript>: Dave, is David's on top of my little Idioms? My little sayings today PMPM install now PMPM run down Dev. We are just gonna run the Dev server.
+
+01:19:46
+<transcript>: i'm fine
+
+01:19:47
+<transcript>: I'm fine with that.
+
+01:19:51
+<transcript>: What is generate do? Oh, yeah, it creates.
+
+01:19:58
+<transcript>: Okay. We're running the data server people. I'm closing this to. I'm closing Chrome. I'm just restarting Chrome.
+
+01:20:01
+<transcript>: Watch this.
+
+01:20:01
+<transcript>: get out of here
+
+01:20:03
+shiftlessatol: coming to a drink mug near you
+
+01:20:05
+<transcript>: Get out of here. Chrome should have had some a Rick roll me but that would have cost to make 5000 points.
+
+01:20:10
+<transcript>: Email.
+
+01:20:10
+<transcript>: everything
+
+01:20:13
+<transcript>: Everything. No. Get out of here.
+
+01:20:15
+<transcript>: Okay.
+
+01:20:15
+<transcript>: local
+
+01:20:17
+<transcript>: Localhost 3000.
+
+01:20:22
+<transcript>: A brand new start? People brand new start.
+
+01:20:25
+<transcript>: How are we looking.
+
+01:20:27
+<transcript>: New game.
+
+01:20:35
+<transcript>: Aha, it didn't. It didn't try and fetch the wrong Sprite. So that's a that's a positive. It also still doesn't work. That's a negative.
+
+01:20:39
+<transcript>: What is this? Code Whisperer.
+
+01:20:42
+<transcript>: Yeah.
+
+01:20:49
+<transcript>: Okay, so backgrounds just backgrounds are missing. That's solvable SVG Sprite loader.
+
+01:20:53
+<transcript>: Like a solvable. Think we can get there.
+
+01:20:56
+allcliffs: but its there
+
+01:21:00
+<transcript>: I think so.
+
+01:21:04
+allcliffs: background might now be attached to id ?
+
+01:21:08
+<transcript>: Is it minimizing or what's it doing? The individual sprites. Let's see.
+
+01:21:10
+shiftlessatol: so the logos are right, the colors are not?
+
+01:21:11
+<transcript>: Never gonna.
+
+01:21:11
+<transcript>: change
+
+01:21:12
+<transcript>: Change.
+
+01:21:23
+<transcript>: Is this like there's two different modes. Extract and then the other mode. Is that what's going? Let's see.
+
+01:21:35
+<transcript>: External threat files generated for images imported from.
+
+01:21:35
+<transcript>: those places
+
+01:21:37
+<transcript>: Those places.
+
+01:21:38
+cowfacedude99: You should use a different streaming profile on chrome. That way, we don't see your email.
+
+01:21:42
+<transcript>: Svg stacking technique. This sounds suss.
+
+01:21:47
+<transcript>: You should use a different streaming profile. Chrome. That way you don't see your email. Yeah, I should do that.
+
+01:21:47
+<transcript>: so
+
+01:21:50
+<transcript>: So the logos are right. The colors are not.
+
+01:21:50
+<transcript>: back
+
+01:21:59
+<transcript>: Background might now be attached to ID. I guess let's let's just like, inspect the Sprite. How about that.
+
+01:21:59
+<transcript>: how about that
+
+01:22:00
+<transcript>: How about that.
+
+01:22:00
+<transcript>: are we smart enough
+
+01:22:03
+<transcript>: Are we smart enough to look at the Sprite and make sense of it.
+
+01:22:07
+<transcript>: Here's, let's open it with.
+
+01:22:10
+<transcript>: Text, mate? I don't know.
+
+01:22:10
+<transcript>: who it is
+
+01:22:12
+<transcript>: Who it is people.
+
+01:22:15
+<transcript>: This is the Sprite.
+
+01:22:21
+<transcript>: Okay symbol.
+
+01:22:21
+<transcript>: so like here
+
+01:22:24
+<transcript>: So like here is one of the one of the things.
+
+01:22:24
+<transcript>: phil
+
+01:22:26
+<transcript>: Phil. None.
+
+01:22:26
+<transcript>: phil none
+
+01:22:28
+<transcript>: Phil. None.
+
+01:22:28
+<transcript>: oh
+
+01:22:30
+<transcript>: Oh, wait, pathfill.
+
+01:22:33
+shiftlessatol: yep
+
+01:22:40
+<transcript>: I feel like that's the problem right there. Did it strip out the fill. I think that's a thing some people want, and I don't want.
+
+01:22:40
+<transcript>: phil
+
+01:22:41
+<transcript>: Phil.
+
+01:22:45
+cowfacedude99: all I see is a wall of text LUL
+
+01:22:47
+<transcript>: It's weird that it didn't do it.
+
+01:22:50
+<transcript>: All I see is a wall text. Yeah.
+
+01:22:55
+<transcript>: You know, I it's weird that when we didn't do the extract way.
+
+01:22:55
+<transcript>: what's
+
+01:22:57
+<transcript>: What's the stacking technique.
+
+01:23:20
+<transcript>: Background.
+
+01:23:20
+<transcript>: sprite
+
+01:23:24
+<transcript>: Sprite Sugue do I need to do that.
+
+01:23:28
+<transcript>: Now I should just feel do the ID, right.
+
+01:23:40
+<transcript>: I just want to stack the icons on top each other.
+
+01:23:45
+<transcript>: Oh.
+
+01:23:56
+<transcript>: Is this where ours did? I don't know. I'm trying to learn things really fast, but I don't know if I am. I feel like Phil.
+
+01:24:03
+shiftlessatol: that would be layers
+
+01:24:06
+<transcript>: Let's search fill on here.
+
+01:24:13
+<transcript>: Issues Ah.
+
+01:24:14
+allcliffs: can you search for id in the svg file, then you will see if it has a seperate bg
+
+01:24:17
+<transcript>: Svg fill loader.
+
+01:24:21
+<transcript>: Oh, I have to say the Filt. No.
+
+01:24:30
+<transcript>: What's this.
+
+01:24:36
+<transcript>: Search for ID and the SUG file. Then you'll see if it is a separate BG.
+
+01:24:41
+<transcript>: Like search for a specific ID.
+
+01:24:41
+<transcript>: i mean here's
+
+01:24:43
+<transcript>: I mean here's one of them.
+
+01:24:43
+<transcript>: so this
+
+01:24:45
+<transcript>: So this symbol right here.
+
+01:24:48
+<transcript>: Can I do like symbol.
+
+01:24:54
+<transcript>: I highlight them all. I don't know. I should open this in neovim. Shouldn't I.
+
+01:25:00
+<transcript>: Yeah, let's open it. Neil. Them. I wear. Is it next? Static Sprite. Svg.
+
+01:25:00
+<transcript>: okay
+
+01:25:02
+<transcript>: Okay.
+
+01:25:06
+<transcript>: Next.
+
+01:25:09
+<transcript>: Static Sprite.
+
+01:25:09
+<transcript>: svd
+
+01:25:11
+<transcript>: Svd.
+
+01:25:11
+<transcript>: but here it is
+
+01:25:12
+<transcript>: But here it is.
+
+01:25:12
+<transcript>: and all of its
+
+01:25:13
+<transcript>: And all of its glory.
+
+01:25:13
+<transcript>: the
+
+01:25:15
+<transcript>: The formatting.
+
+01:25:18
+<transcript>: Is.
+
+01:25:18
+<transcript>: not so good
+
+01:25:20
+<transcript>: Not so good, it's one big line.
+
+01:25:25
+<transcript>: But I feel like that fill nun is the issue, right.
+
+01:25:30
+<transcript>: Simple usage.
+
+01:25:30
+<transcript>: target
+
+01:25:32
+<transcript>: Target Slate in line.
+
+01:25:38
+<transcript>: It's like it. I think it's stripped out the cell. I think we're gonna find an answer here. Hang on.
+
+01:25:43
+<transcript>: Using the Spriteloader inline styles like that are changed by the loader.
+
+01:25:50
+allcliffs: no it might be a line or a border
+
+01:25:52
+<transcript>: I don't understand any of that.
+
+01:25:59
+<transcript>: All Pascu replaced with search iRendering.
+
+01:26:02
+<transcript>: No color AHA.
+
+01:26:02
+<transcript>: how
+
+01:26:03
+<transcript>: How.
+
+01:26:08
+<transcript>: Things are the Follow Arthur.
+
+01:26:15
+<transcript>: No, it might be a line or a border. That's true. All cliffs. I might not be looking through. Right thing. Well, sometimes pass.
+
+01:26:15
+<transcript>: what
+
+01:26:19
+<transcript>: What if I try to import in a view component like so.
+
+01:26:19
+<transcript>: the
+
+01:26:21
+<transcript>: The watch enters an endless loop.
+
+01:26:37
+<transcript>: Where do you say anything about color.
+
+01:26:40
+<transcript>: Just in the title.
+
+01:26:47
+<transcript>: This is the generated SVG.
+
+01:26:50
+<transcript>: That doesn't help me.
+
+01:27:00
+<transcript>: Fill Loader's deprecated.
+
+01:27:13
+<transcript>: Does it just say it in the docs? Did I just miss where this is a thing.
+
+01:27:18
+<transcript>: Color.
+
+01:27:20
+<transcript>: Background.
+
+01:27:20
+<transcript>: nothing
+
+01:27:21
+<transcript>: Nothing.
+
+01:27:21
+<transcript>: oh
+
+01:27:23
+<transcript>: Oh 20.
+
+01:27:30
+<transcript>: Am I using 20.
+
+01:27:44
+<transcript>: Extract configuration.
+
+01:27:44
+<transcript>: plane sp
+
+01:27:47
+<transcript>: Plane Sprite. I should look at all these. I guess.
+
+01:27:51
+<transcript>: You can render plain, Sprite and extraordinary without styles and usages.
+
+01:27:55
+<transcript>: I don't want a plane Sprite, right? I want.
+
+01:28:01
+<transcript>: Is that the default? Maybe. No. Probably not.
+
+01:28:06
+<transcript>: Without style usages like disease have styles in the.
+
+01:28:09
+<transcript>: Style.
+
+01:28:16
+<transcript>: So what am I seeing here.
+
+01:28:23
+<transcript>: I'll fill URL.
+
+01:28:30
+<transcript>: I don't know. What do we think.
+
+01:28:33
+allcliffs: so you need plainsprite:false
+
+01:28:33
+<transcript>: All cliffs. Do you have ideas.
+
+01:28:39
+<transcript>: You need plainfrite false. We can try that. Yeah, let's try it.
+
+01:28:39
+<transcript>: it's just worth a shot
+
+01:28:40
+<transcript>: It's just worth a shot.
+
+01:28:45
+<transcript>: Low risk high potential reward.
+
+01:28:45
+<transcript>: so
+
+01:28:48
+<transcript>: So let's say down here.
+
+01:28:51
+<transcript>: We're gonna say plane.
+
+01:28:51
+<transcript>: plane
+
+01:28:54
+<transcript>: Plane Sprot.
+
+01:29:00
+<transcript>: I don't think I have a plane Sprite right now, but let's just try this.
+
+01:29:00
+<transcript>: it's
+
+01:29:02
+<transcript>: It's worth a shot.
+
+01:29:10
+<transcript>: Maybe look at examples again.
+
+01:29:16
+<transcript>: I maybe just missing something with the way I'm addressing it. Browser Sprite extract.
+
+01:29:19
+<transcript>: Mode.
+
+01:29:22
+<transcript>: So, Twitter.
+
+01:29:24
+<transcript>: But I did the external.
+
+01:29:29
+<transcript>: What.
+
+01:29:29
+<transcript>: in browse
+
+01:29:36
+<transcript>: In browser Sprite is rendered and injected in page automatically. What? Okay, let's try this again.
+
+01:29:46
+<transcript>: So is it downloading the Sprite? Yeah. Downloads it right there.
+
+01:29:48
+<transcript>: Still looks the same.
+
+01:29:52
+<transcript>: Okay. Let's go back here.
+
+01:29:52
+barryxbtw: ight im back, turned to me going to the mall too lol, ice cream wednesday
+
+01:30:06
+<transcript>: In browser. Sprite is rendered in browser. Sprite is rendered. There need to be like a comma there or something. Spray is ready and injected in page automatically. You just refer to images via that. I don't think that's true.
+
+01:30:06
+<transcript>: oh
+
+01:30:07
+<transcript>: Oh.
+
+01:30:09
+<transcript>: Wait.
+
+01:30:14
+<transcript>: Because they imported it like that, right.
+
+01:30:30
+<transcript>: Now.
+
+01:30:33
+<transcript>: Okay. Let's go back here.
+
+01:30:33
+<transcript>: x with
+
+01:30:36
+<transcript>: X with DLL extract mode. What's that.
+
+01:30:39
+<transcript>: No. Read me on this one.
+
+01:30:41
+<transcript>: What's? Dll.
+
+01:30:45
+<transcript>: Svg.
+
+01:30:48
+<transcript>: Used symbol data. Url.
+
+01:30:52
+<transcript>: I'm so confused.
+
+01:30:55
+<transcript>: So confused.
+
+01:31:01
+<transcript>: What is dealing.
+
+01:31:07
+<transcript>: Script file name.
+
+01:31:09
+<transcript>: Deal.
+
+01:31:20
+<transcript>: All right, Berries, back. Turn to me. Going to the mall to ice cream Wednesday. Turning, you going.
+
+01:31:20
+<transcript>: okay
+
+01:31:25
+<transcript>: Okay, so the planes bright, false was a red herring. I didn't do it.
+
+01:31:29
+<transcript>: What's different about extracting mode.
+
+01:31:29
+<transcript>: automatically
+
+01:31:32
+<transcript>: Automatically for images imported from there.
+
+01:31:35
+<transcript>: Like why.
+
+01:31:39
+<transcript>: I don't understand.
+
+01:31:39
+<transcript>: why
+
+01:31:42
+<transcript>: Why the extract mode.
+
+01:31:42
+<transcript>: broke
+
+01:31:44
+<transcript>: Broke color.
+
+01:31:53
+<transcript>: As you spread separate files except true when loaders extra.
+
+01:31:53
+<transcript>: returning value
+
+01:31:57
+<transcript>: Returning value is extracted. Sprite file URL with symbol ID at the end.
+
+01:32:07
+<transcript>: Demo I guess we'll see if this still is the thing.
+
+01:32:13
+<transcript>: Image source Sprite. Sug Twitter usage.
+
+01:32:21
+<transcript>: Oh, so can I just use.
+
+01:32:30
+<transcript>: Can I just use Sprite SVG and just leave the public passing out and it'll figure it out. Maybe.
+
+01:32:32
+<transcript>: Maybe.
+
+01:32:37
+<transcript>: Spry. Let's see.
+
+01:32:39
+shiftlessatol: 'svg-fill-loader', 'svgo-loader'
+
+01:32:44
+<transcript>: Or I'd have to use HTML extract or whatever this is.
+
+01:32:44
+<transcript>: i don't know
+
+01:32:45
+<transcript>: I don't know.
+
+01:32:52
+<transcript>: Svg fill loader SV goloader.
+
+01:32:56
+<transcript>: Those are words, Dave. One of those mean.
+
+01:33:02
+<transcript>: What do those words mean.
+
+01:33:07
+barryxbtw: this whole sprite thing seems fun
+
+01:33:11
+shiftlessatol: https://gist.github.com/Temp2017/7075932163f3bbd0e6b50d59a307e313
+
+01:33:13
+<transcript>: Let's look at.
+
+01:33:16
+shiftlessatol: last code snippet
+
+01:33:19
+<transcript>: I'm gonna look, I'm gonna compare let's compare here we go.
+
+01:33:25
+<transcript>: So here we've got I wish I could put some, like, line breaks quickly in this.
+
+01:33:32
+<transcript>: Okay.
+
+01:33:32
+<transcript>: let's just do this
+
+01:33:33
+<transcript>: Let's just do this.
+
+01:33:44
+<transcript>: One.
+
+01:33:54
+<transcript>: Just trying to make sense of this.
+
+01:33:59
+<transcript>: Oh.
+
+01:34:07
+<transcript>: Okay.
+
+01:34:09
+<transcript>: Fill none.
+
+01:34:17
+<transcript>: I want to compare this with the actual SUG. So we're gonna find watch this.
+
+01:34:20
+<transcript>: We're gonna find the SCG.
+
+01:34:27
+<transcript>: In here public.
+
+01:34:27
+<transcript>: images
+
+01:34:28
+<transcript>: Images.
+
+01:34:32
+<transcript>: Hashed. So, what is this? 1002 a.
+
+01:34:35
+<transcript>: Here.
+
+01:34:35
+<transcript>: we're gonna open
+
+01:34:37
+<transcript>: We're gonna open this.
+
+01:34:44
+<transcript>: Somewhere where I can look at the I'm just comparing these two. Right.
+
+01:34:44
+<transcript>: so view
+
+01:34:46
+<transcript>: So Viewbox.
+
+01:34:49
+<transcript>: Viewbox.
+
+01:34:53
+allcliffs: you can see that the fill is referencing another id, so maybe that doesnt get imported
+
+01:34:53
+<transcript>: So here they've got some stop offset.
+
+01:34:53
+<transcript>: and stop
+
+01:34:58
+<transcript>: And stop color. This is like a gradient fill, right? Yeah. Linear gradient. Okay.
+
+01:34:58
+<transcript>: that's
+
+01:35:00
+<transcript>: That's the background right.
+
+01:35:04
+<transcript>: When your gradient right there.
+
+01:35:06
+<transcript>: Okay.
+
+01:35:15
+<transcript>: Well, why can't I.
+
+01:35:20
+<transcript>: Look the same.
+
+01:35:23
+<transcript>: Stop. I said Stop. Colors.
+
+01:35:27
+<transcript>: Looks the same. Yeah. Okay.
+
+01:35:34
+<transcript>: G filmen fill rule even. Okay, so that was not bad. That that says film on it's. Something else.
+
+01:35:34
+<transcript>: path
+
+01:35:36
+<transcript>: Path, fill.
+
+01:35:40
+<transcript>: Where do we use this linear gradient.
+
+01:35:50
+<transcript>: Where are we using it.
+
+01:35:54
+<transcript>: Silk.
+
+01:35:58
+<transcript>: Rule. Fill URL a okay.
+
+01:36:01
+<transcript>: So it's that pass right there.
+
+01:36:05
+<transcript>: That has the URL fill. Yes, this one.
+
+01:36:09
+<transcript>: So it should be should be grabbing a.
+
+01:36:09
+<transcript>: this thing
+
+01:36:15
+<transcript>: This thing? Is that ID right there? So why is it why isn't. Yeah. Why isn't it working.
+
+01:36:15
+<transcript>: why is that
+
+01:36:21
+<transcript>: Why is that not working? Url. Does it need these need to all have the file name in them? No.
+
+01:36:27
+<transcript>: I don't understand why it's not working.
+
+01:36:27
+<transcript>: it looks
+
+01:36:29
+<transcript>: It looks similar.
+
+01:36:33
+<transcript>: It's not stripping anything out. That's for sure. Right.
+
+01:36:34
+allcliffs: maybe url doesnt work when its extracted
+
+01:36:39
+allcliffs: because it extracts the id
+
+01:36:40
+<transcript>: You can see that the fill is referencing another ID. So maybe that doesn't get imported.
+
+01:36:40
+<transcript>: maybe
+
+01:36:44
+<transcript>: Maybe URL doesn't work when it's extracted because it extracts the idea.
+
+01:36:51
+<transcript>: Yeah. What would be the alternative.
+
+01:36:51
+<transcript>: like
+
+01:36:52
+<transcript>: Like.
+
+01:36:54
+<transcript>: If this.
+
+01:36:54
+<transcript>: weren't
+
+01:37:00
+<transcript>: Weren't URL. What would it be? Just the cell would be like the ID itself. Svg.
+
+01:37:00
+<transcript>: sc
+
+01:37:03
+<transcript>: Scg fill URL.
+
+01:37:09
+<transcript>: Behaving strangely.
+
+01:37:09
+<transcript>: in firefox
+
+01:37:11
+<transcript>: In Firefox.
+
+01:37:15
+<transcript>: Like it's within this file.
+
+01:37:15
+<transcript>: so
+
+01:37:19
+<transcript>: So that should work right. Url gradient two.
+
+01:37:26
+<transcript>: Let's.
+
+01:37:36
+<transcript>: Open this thing in something else, not the browser. Sprite. Svg open with.
+
+01:37:36
+<transcript>: what
+
+01:37:38
+<transcript>: What would be able to visualize that.
+
+01:37:38
+<transcript>: i guess
+
+01:37:42
+<transcript>: I guess I try Firefox. Oh, illustrator.
+
+01:37:46
+<transcript>: Let's see what it looks like. An illustrator.
+
+01:37:57
+<transcript>: What did you say, Dave? Last code? Snip. This whole Sprite thing seems fun. Yeah, so much fun.
+
+01:38:01
+<transcript>: I'm having so much fun can you tell how much fun I'm having.
+
+01:38:05
+<transcript>: Okay. Here's our spray.
+
+01:38:11
+<transcript>: There's your problem. There's nothing in it.
+
+01:38:12
+vagorge: looks good
+
+01:38:12
+<transcript>: I don't know.
+
+01:38:12
+<transcript>: sprites
+
+01:38:14
+<transcript>: Sprites.
+
+01:38:22
+<transcript>: I feel like it's evident in this Sprite that there's no background colors, you know, like there might be other stuff.
+
+01:38:26
+shiftlessatol: change the bg
+
+01:38:27
+<transcript>: I don't know if there's anything in the I don't know.
+
+01:38:29
+shiftlessatol: add a new layer
+
+01:38:29
+allcliffs: layers
+
+01:38:32
+<transcript>: How can I, like explore layers. Oh, look at this.
+
+01:38:36
+shiftlessatol: that is not white
+
+01:38:41
+allcliffs: look at layers level
+
+01:38:43
+<transcript>: Oh, look. So they're all just invisible. And I can make them visible.
+
+01:38:48
+<transcript>: This is presumably what our things should be doing, right.
+
+01:38:59
+shiftlessatol: it is
+
+01:38:59
+<transcript>: Yeah. Layers. So we're doing.
+
+01:39:02
+shiftlessatol: but not the gradients
+
+01:39:03
+<transcript>: We're learning things. Maybe. Thanks for following Moose.
+
+01:39:08
+<transcript>: We're learning things.
+
+01:39:08
+<transcript>: maybe
+
+01:39:09
+<transcript>: Maybe.
+
+01:39:09
+<transcript>: maybe
+
+01:39:15
+<transcript>: Maybe learning things. The backgrounds look fine in here. Right? So.
+
+01:39:19
+<transcript>: What is the issue.
+
+01:39:19
+<transcript>: issue
+
+01:39:21
+<transcript>: Issue Clip Group What's this.
+
+01:39:24
+<transcript>: No, not.
+
+01:39:30
+<transcript>: I'm looking for.
+
+01:39:33
+<transcript>: Layer One. Okay.
+
+01:39:41
+<transcript>: So maybe this isn't as bad as we think. Maybe this isn't maybe it's just a little thing that needs to change, not a big thing.
+
+01:39:43
+<transcript>: Maybe.
+
+01:39:43
+<transcript>: let's
+
+01:39:48
+<transcript>: Let's go back to our where we're importing it and we'll see if there's maybe something I can do.
+
+01:39:48
+<transcript>: not
+
+01:39:49
+<transcript>: Not out there.
+
+01:39:52
+<transcript>: Index.
+
+01:39:57
+<transcript>: Let's see here.
+
+01:40:04
+<transcript>: So here.
+
+01:40:04
+<transcript>: i
+
+01:40:05
+<transcript>: I.
+
+01:40:05
+<transcript>: icon
+
+01:40:09
+<transcript>: Icon hidden area hint. Let's just delete all that.
+
+01:40:09
+janluofficial: Hey there, just had a power bar explode on me. need something to cheer me up
+
+01:40:13
+<transcript>: Let's just try.
+
+01:40:15
+<transcript>: Getting back to basics.
+
+01:40:19
+<transcript>: I don't know why I had that class on it anyway.
+
+01:40:22
+<transcript>: Next static spread. Sug.
+
+01:40:22
+<transcript>: and then the
+
+01:40:24
+<transcript>: And then the ID.
+
+01:40:26
+barryxbtw: i love you janlu
+
+01:40:29
+<transcript>: Here.
+
+01:40:32
+<transcript>: Okay.
+
+01:40:32
+<transcript>: new game
+
+01:40:33
+<transcript>: New game.
+
+01:40:40
+<transcript>: Okay. So now we didn't actually load the Sprite. Did I change something.
+
+01:40:44
+<transcript>: Did it change something in the next.
+
+01:40:44
+<transcript>: config
+
+01:40:45
+<transcript>: Config.
+
+01:40:49
+<transcript>: Static. Public. That's static. Now. I didn't change anything, right.
+
+01:40:53
+<transcript>: Oh, plane Sprite. I changed. Let's just delete all that.
+
+01:40:58
+<transcript>: I don't think that should be the issue, though. What happened.
+
+01:41:02
+janluofficial: @barryxbtw aww
+
+01:41:06
+janluofficial: that helps with my mood
+
+01:41:09
+<transcript>: Did we break it? And Dan, Lou, welcome to Chat. Hey, there. Just had a power bar explode on me. What a power bar? What's a power bar.
+
+01:41:12
+<transcript>: Let's see.
+
+01:41:18
+<transcript>: Very loves you There you go. Thanks for the Follow Jan Lew official.
+
+01:41:21
+<transcript>: What is a power bar.
+
+01:41:27
+<transcript>: And why is it exploding.
+
+01:41:34
+<transcript>: Okay, we're back to this weird situation.
+
+01:41:39
+janluofficial: power bar as in the thing that splits one outlet into multiple
+
+01:41:40
+<transcript>: Where? Let's see. Inspect. Inspect that.
+
+01:41:42
+<transcript>: Use Ahref.
+
+01:41:47
+<transcript>: Kind of go to that thing.
+
+01:41:58
+<transcript>: I need this to not be on a timer and not kick me out. I just need to look at this thing first, you know.
+
+01:42:02
+<transcript>: So let's do let's do this.
+
+01:42:11
+<transcript>: Index.
+
+01:42:13
+<transcript>: Art.
+
+01:42:20
+<transcript>: Yeah, that one.
+
+01:42:24
+<transcript>: This one.
+
+01:42:24
+<transcript>: all right
+
+01:42:26
+<transcript>: All right, don't start a timer.
+
+01:42:36
+<transcript>: Apparently the timer is still going.
+
+01:42:42
+<transcript>: I don't know if it's gonna. I don't know what's gonna happen, okay. Inspect.
+
+01:42:42
+<transcript>: is fast ref
+
+01:42:46
+<transcript>: Is fast. Refresh is not working. This is just straight, broken. So anything is just broken.
+
+01:42:49
+<transcript>: So here.
+
+01:42:51
+<transcript>: We've got.
+
+01:42:51
+<transcript>: we're missing
+
+01:42:53
+<transcript>: We're missing something.
+
+01:42:57
+<transcript>: Console.
+
+01:42:58
+allcliffs: @adamdotdev can you inspect the svg in chrome
+
+01:43:06
+<transcript>: Certainly obvious. Like Loading air fast refresh, perform full load. What is going on with my browser.
+
+01:43:12
+<transcript>: It can't load next static webpack hot update JSON.
+
+01:43:17
+<transcript>: Everything is broken.
+
+01:43:26
+<transcript>: The timer shouldn't be running.
+
+01:43:33
+<transcript>: Like what is going on.
+
+01:43:38
+sargath666: @adamdotdev good afternoon :bow:
+
+01:43:41
+allcliffs: does your url have a # in front ?
+
+01:43:43
+<transcript>: What is going on.
+
+01:43:47
+<transcript>: It's annoying me. I'm annoyed.
+
+01:43:57
+<transcript>: Does your URL have a pound sign in front? It does. Hello, Sargoth. What's going on? Sargas? Can you expect SUG and Chrome? That's what we're doing now.
+
+01:44:02
+<transcript>: Power Bar. As in the thing that splits one outlet in multiple Oof.
+
+01:44:02
+<transcript>: expl
+
+01:44:04
+<transcript>: Exploded.
+
+01:44:09
+<transcript>: Oof, okay, let's inspect this thing.
+
+01:44:09
+<transcript>: maybe let's not
+
+01:44:17
+<transcript>: Maybe let's not turn on the timer. That'd be great. Maybe let's actually use the latest bundle. That'd be cool. Am I gonna have to just keep killing Chrome? What are going on.
+
+01:44:24
+<transcript>: I don't know what's going on.
+
+01:44:28
+<transcript>: Faster.
+
+01:44:28
+<transcript>: full relief
+
+01:44:29
+<transcript>: Full relief.
+
+01:44:33
+<transcript>: Well, you failed. You failed. Fast. Refresh.
+
+01:44:35
+<transcript>: Remove.
+
+01:44:35
+<transcript>: next
+
+01:44:36
+<transcript>: Next.
+
+01:44:49
+<transcript>: And then let's just I'm gonna just I'm gonna kill this tab. I don't know. We'll try just killing the tab. Let's turn off the stately visualizer. I don't know if that's I'm not using it. I don't think it's the problem, but.
+
+01:44:52
+<transcript>: It also just doesn't need to run right now.
+
+01:44:54
+<transcript>: Okay.
+
+01:45:05
+<transcript>: This basic stuff today just basic stuff can't get basic stuff working.
+
+01:45:11
+<transcript>: Maybe a lot of our barrel help.
+
+01:45:22
+<transcript>: Did it work, did it work.
+
+01:45:29
+<transcript>: Still got a timer.
+
+01:45:32
+<transcript>: Which is weird.
+
+01:46:00
+<transcript>: Stuff just being cash like crazy.
+
+01:46:07
+<transcript>: Okay.
+
+01:46:23
+<transcript>: I get HMR to work at all.
+
+01:46:23
+<transcript>: okay
+
+01:46:26
+<transcript>: Okay. So the HMR. It's not an HMR problem.
+
+01:46:26
+terror2012: VoHiYo
+
+01:46:34
+<transcript>: It's not an HMR problem. It's a. It's a meproblem. I'm not starting the timer. But what is the timer? Do.
+
+01:46:43
+<transcript>: What does this timer do.
+
+01:46:44
+barryxbtw: timer probably starts somewhere else
+
+01:46:46
+<transcript>: Second.
+
+01:47:01
+<transcript>: My son are in multiple places handle new game.
+
+01:47:11
+<transcript>: I don't think I understand my own state management anymore.
+
+01:47:20
+<transcript>: Expiry timestamp.
+
+01:47:25
+<transcript>: Restart. We're calling restart. Right here.
+
+01:47:34
+allcliffs: LUL
+
+01:47:38
+<transcript>: And we're going restart right here. I don't know. I'm just trying to stop the timer, you know.
+
+01:47:48
+<transcript>: Okay. Let's try that.
+
+01:47:55
+<transcript>: Cool. Okay. No. Timer. Cool. Okay.
+
+01:47:55
+<transcript>: so the
+
+01:47:58
+<transcript>: So the Sprite is downloaded.
+
+01:48:01
+<transcript>: Let's inspect this again.
+
+01:48:05
+<transcript>: Yeah, good call, Barry. Terror. Welcome to chat.
+
+01:48:07
+<transcript>: Hi Oh.
+
+01:48:07
+<transcript>: does your
+
+01:48:12
+<transcript>: Does your URL have a pound sign in front? Let's see.
+
+01:48:14
+<transcript>: No.
+
+01:48:14
+<transcript>: the
+
+01:48:16
+<transcript>: The Href here.
+
+01:48:16
+<transcript>: or i'm sorry
+
+01:48:19
+<transcript>: Or I'm sorry. Do you mean the URL.
+
+01:48:19
+<transcript>: to
+
+01:48:20
+<transcript>: To.
+
+01:48:24
+<transcript>: What it still went to game over.
+
+01:48:31
+<transcript>: That timer stuff is superficial. It's just for the visual of the timer.
+
+01:48:33
+<transcript>: Okay.
+
+01:48:38
+<transcript>: Oh, man? What those days.
+
+01:48:38
+<transcript>: it's
+
+01:48:40
+allcliffs: url in svg
+
+01:48:40
+<transcript>: It's one of those days.
+
+01:48:45
+<transcript>: How do I just I'm gonna make the timer really long.
+
+01:48:50
+<transcript>: Really long timer.
+
+01:48:55
+<transcript>: Yeah. Plus 30. Let's make that.
+
+01:48:59
+<transcript>: Nope. Not that.
+
+01:49:05
+<transcript>: Cool.
+
+01:49:08
+<transcript>: I need to restart the server. Probably.
+
+01:49:34
+vagorge: lol
+
+01:49:46
+<transcript>: 32 me seconds.
+
+01:49:56
+shiftlessatol: "it's broken and we're not getting there anymore "
+
+01:50:04
+<transcript>: You were all in SVG.
+
+01:50:18
+<transcript>: What.
+
+01:50:22
+<transcript>: Why did that affect the SVG load.
+
+01:50:25
+<transcript>: Going on today.
+
+01:50:25
+<transcript>: someone
+
+01:50:27
+<transcript>: Someone tell me what's going on.
+
+01:50:30
+<transcript>: Just like you shouldn't have streamed today.
+
+01:50:32
+<transcript>: Oh, this is.
+
+01:50:34
+<transcript>: Mis punishment.
+
+01:50:34
+<transcript>: streaming
+
+01:50:35
+<transcript>: Streaming.
+
+01:50:39
+<transcript>: Like what's the problem here? Why doesn't it even load now.
+
+01:50:40
+barryxbtw: is all going down
+
+01:50:47
+<transcript>: It's all going down.
+
+01:50:47
+<transcript>: it's all
+
+01:50:49
+<transcript>: It's all going down.
+
+01:50:49
+<transcript>: thanks so much for
+
+01:50:51
+<transcript>: Thanks so much for following recycle.
+
+01:50:54
+<transcript>: I'm not gonna read your whole name because that's gross.
+
+01:51:03
+<transcript>: Like what? What happened.
+
+01:51:06
+<transcript>: And now it can't load the Sprite.
+
+01:51:06
+<transcript>: if it
+
+01:51:12
+<transcript>: If it's trying to find it from public, I'm gonna lose my mind no. Okay.
+
+01:51:15
+<transcript>: But it can't find it nonetheless and that's annoying.
+
+01:51:23
+<transcript>: Static it's the day.
+
+01:51:23
+<transcript>: why
+
+01:51:26
+<transcript>: Why didn't it create it? What in the world.
+
+01:51:26
+<transcript>: is
+
+01:51:27
+allcliffs: @adamdotdev 1) the linear reference by id url can be affected by base path etc. 2) the linear bg might be set to display none by default so even if it loads correctly thats the reason it might be hidden.
+
+01:51:29
+<transcript>: Is going on.
+
+01:51:32
+recyclepoopandeatit: y not read the name please  , dude do you discuss open source here
+
+01:51:41
+<transcript>: It's not even creating the Sprite. Now.
+
+01:51:57
+<transcript>: Okay, all clips. Here we go. The linear reference by Idurl can be affected by base path, etc. The linear background might be such a display none by default. So even if it loads correctly, that's a reason it might be hidden. Interesting.
+
+01:52:05
+<transcript>: Why not read the name, please recycled poop and eat it. That's just kind of gross. I don't know.
+
+01:52:10
+<transcript>: Do you discuss Open Source here.
+
+01:52:10
+<transcript>: so yeah
+
+01:52:14
+janluofficial: I wrote 762 lines of css and still dont know anything
+
+01:52:17
+<transcript>: So yeah. I mean, we do a lot of poking around an open source repos and trying to use them and then complaining when they're broken.
+
+01:52:17
+<transcript>: things
+
+01:52:25
+<transcript>: Things like that. I wrote 762 lines of CSS and still don't know anything. Yeah. That happened with CSS.
+
+01:52:33
+<transcript>: Are we getting an error? Is it failing to write? Is it not writing the Sprite? What happened.
+
+01:52:35
+<transcript>: For the phone Zol.
+
+01:52:42
+<transcript>: This was work. This was working. This was not our problem. Now we've a new problem.
+
+01:52:42
+<transcript>: this just
+
+01:52:47
+<transcript>: This just whack them all today public past. Static. We're like what happened here.
+
+01:52:47
+<transcript>: what
+
+01:52:48
+<transcript>: What happened.
+
+01:53:03
+<transcript>: We're doing it again. Like it's even me messing up my shell. Do you see that? Did you see that? Okay. We're killing.
+
+01:53:09
+<transcript>: Next no.
+
+01:53:22
+<transcript>: Did we have the file? We had the buffer open, didn't we? We had the buffer open so it couldn't write to the Sprite. Maybe that would explain that. Maybe I need some explanations. You know, I just need some explanation.
+
+01:53:22
+<transcript>: remove
+
+01:53:24
+<transcript>: Remove, next.
+
+01:53:26
+<transcript>: Remove.
+
+01:53:28
+shiftlessatol: the file is open in illustrator
+
+01:53:29
+<transcript>: Node, modules.
+
+01:53:29
+<transcript>: controller
+
+01:53:33
+<transcript>: Controller again, this is ridiculous. Pmpm. Install.
+
+01:53:36
+allcliffs: close illustrator
+
+01:53:38
+<transcript>: I'm closing this stupid tab.
+
+01:53:42
+<transcript>: Close illustrator, oh, illustrator, Oh.
+
+01:53:45
+<transcript>: Illustrator.
+
+01:53:50
+janluofficial: mac
+
+01:53:52
+<transcript>: Good call. I'm bringing all this on myself. It really is my fault.
+
+01:53:54
+janluofficial: i love the new mac wallpaper
+
+01:53:54
+<transcript>: But like.
+
+01:53:54
+<transcript>: also it's really
+
+01:53:56
+<transcript>: Also, it's really annoying.
+
+01:54:00
+<transcript>: Yeah. The new Mac Welp Wallpaper is pretty good.
+
+01:54:00
+<transcript>: okay
+
+01:54:04
+<transcript>: Okay. We did it. We installed. Now, let's do PMP.
+
+01:54:06
+<transcript>: pmpm run
+
+01:54:08
+<transcript>: Pmpm, Run Div.
+
+01:54:13
+<transcript>: divineful today
+
+01:54:14
+<transcript>: Divineful today. So painful.
+
+01:54:17
+shiftlessatol: A.D:: " I'm bringing all this on myself"
+
+01:54:18
+<transcript>: On stream on Wednesdays. I should have not streamed on a Wednesday.
+
+01:54:21
+<transcript>: I made this more painful than it needed to be.
+
+01:54:25
+terror2012: Damn, I'm getting javascripted left and right LUL
+
+01:54:25
+<transcript>: Okay.
+
+01:54:35
+<transcript>: I'm getting javascripted left and right.
+
+01:54:35
+<transcript>: sounds
+
+01:54:36
+<transcript>: Sounds bad.
+
+01:54:37
+shiftlessatol: I love Wednesday live diary morning
+
+01:54:42
+<transcript>: Okay, we're back to the state, which is still broken, but it's something.
+
+01:54:46
+shiftlessatol: #personalfavorite
+
+01:54:57
+<transcript>: Okay. Inspect.
+
+01:55:01
+<transcript>: Svg.
+
+01:55:07
+janluofficial: I finished the CSS and JS dock tilt for my thing
+
+01:55:21
+<transcript>: This is your personal favorite.
+
+01:55:21
+barryxbtw: say fuck it
+
+01:55:27
+<transcript>: Shouldn't I.
+
+01:55:28
+shiftlessatol: look @ the props
+
+01:55:33
+<transcript>: We've looked at this file.
+
+01:55:36
+<transcript>: With what we know about the file.
+
+01:55:38
+<transcript>: Look at the props.
+
+01:55:40
+shiftlessatol: in styels
+
+01:55:41
+<transcript>: What props? These.
+
+01:55:42
+allcliffs: open in new tab ?
+
+01:55:45
+shiftlessatol: and modify
+
+01:55:49
+shiftlessatol: yes
+
+01:55:53
+<transcript>: Are what props am I looking at.
+
+01:56:00
+<transcript>: Opening a new tab. Open this one. A new tab.
+
+01:56:04
+daglee: How many % of your nutrients comes from larbars?
+
+01:56:06
+<transcript>: So it's presumably all white right now and we can't see it.
+
+01:56:06
+shiftlessatol: the one that highlights the image
+
+01:56:08
+<transcript>: Right.
+
+01:56:11
+<transcript>: How many.
+
+01:56:11
+<transcript>: percent of your
+
+01:56:14
+<transcript>: Percent of your nutrients come from Larvars. I'd say about 25%.
+
+01:56:16
+allcliffs: there was background color greyed out
+
+01:56:16
+shiftlessatol: and start changing background-ish things
+
+01:56:18
+<transcript>: The one that highlights the image.
+
+01:56:23
+<transcript>: Inspect this one. Maybe.
+
+01:56:25
+<transcript>: Okay.
+
+01:56:29
+<transcript>: Oh Oh.
+
+01:56:38
+<transcript>: These. No, these are like no, never mind. Those are my issues.
+
+01:56:38
+<transcript>: okay
+
+01:56:40
+<transcript>: Okay. So here is the SVG.
+
+01:56:40
+<transcript>: this is much
+
+01:56:46
+<transcript>: This is much easier to look at. We're gonna get someone with this. Thanks for the ball. Treflix is.
+
+01:56:50
+<transcript>: There was a background color. Grayed out. Really.
+
+01:56:50
+<transcript>: where
+
+01:56:51
+<transcript>: Where.
+
+01:56:57
+<transcript>: So here's our cells.
+
+01:57:02
+<transcript>: Use ID do I need to be putting usage on the end.
+
+01:57:07
+<transcript>: Am I supposed to do that.
+
+01:57:20
+<transcript>: I'm doing what I'm going in here.
+
+01:57:25
+<transcript>: Fill none.
+
+01:57:29
+<transcript>: So there's the path to that URL.
+
+01:57:35
+<transcript>: Do I need to just do underscore usage.
+
+01:57:37
+<transcript>: No.
+
+01:57:43
+<transcript>: Cds uses they have the usage.
+
+01:57:43
+<transcript>: sprit
+
+01:57:45
+<transcript>: Sprite. Symbol usage.
+
+01:57:48
+<transcript>: Like one of those.
+
+01:57:52
+<transcript>: They're just using the ID, though.
+
+01:57:56
+<transcript>: I'm confused.
+
+01:58:08
+<transcript>: But here's our symbols. These are the things. Oh, linear gradient is outside of the symbol.
+
+01:58:08
+<transcript>: it's got
+
+01:58:12
+<transcript>: It's got symbols in the gradient. Symbol, gradient. Okay.
+
+01:58:12
+<transcript>: and
+
+01:58:16
+<transcript>: And the gradient. That's the idea. Right there. Right.
+
+01:58:20
+<transcript>: Inside this symbol. It should be saying.
+
+01:58:22
+<transcript>: This path. Right here.
+
+01:58:27
+<transcript>: Is supposed to use that background, right.
+
+01:58:33
+<transcript>: Where's the problem.
+
+01:58:36
+<transcript>: Like this is the linear gradient.
+
+01:58:43
+<transcript>: And it's doing URL.
+
+01:58:43
+<transcript>: and
+
+01:58:44
+<transcript>: And then the ID.
+
+01:58:49
+<transcript>: Is this thing also hidden or something.
+
+01:58:51
+<transcript>: Like.
+
+01:58:59
+<transcript>: No, it doesn't have any kind of style applied to it. Right.
+
+01:59:04
+<transcript>: Who's making sense of this? Anybody.
+
+01:59:07
+<transcript>: You've been making sense of this.
+
+01:59:17
+<transcript>: So there's that G.
+
+01:59:17
+<transcript>: i think just
+
+01:59:22
+shiftlessatol: go back to game
+
+01:59:22
+<transcript>: I think just understanding how these are laid out with helping. So they're all in the same spot.
+
+01:59:24
+shiftlessatol: inspect
+
+01:59:26
+<transcript>: Go back to the game.
+
+01:59:29
+shiftlessatol: find image object
+
+01:59:30
+<transcript>: I'm inspecting it's right here.
+
+01:59:36
+shiftlessatol: change stytle
+
+01:59:36
+<transcript>: That's all it is that's the whole SVG right there.
+
+01:59:36
+<transcript>: we're just
+
+01:59:38
+<transcript>: We're just using.
+
+01:59:39
+shiftlessatol: see what is not happening
+
+01:59:40
+<transcript>: Ahref, and then the ID.
+
+01:59:40
+<transcript>: let's add
+
+01:59:42
+<transcript>: Let's add usage.
+
+01:59:42
+<transcript>: change
+
+01:59:45
+<transcript>: Change style. See what is not happening.
+
+01:59:46
+<transcript>: What do you mean.
+
+01:59:46
+<transcript>: change the style
+
+01:59:50
+<transcript>: Change the style of this. What would I change it to.
+
+01:59:53
+shiftlessatol: change style
+
+01:59:55
+<transcript>: Let's do this. Let's go.
+
+02:00:04
+<transcript>: Here. Let's say instead of just use.
+
+02:00:04
+shiftlessatol: next section down
+
+02:00:10
+allcliffs: add display:block
+
+02:00:13
+<transcript>: Here. Let's say usage. I don't know. I'm just grasping the straws. Here.
+
+02:00:19
+<transcript>: Grasspin at straws.
+
+02:00:22
+<transcript>: Does not work. It doesn't break it.
+
+02:00:22
+<transcript>: did it actually
+
+02:00:24
+<transcript>: Did it actually.
+
+02:00:24
+<transcript>: there's actually change
+
+02:00:27
+<transcript>: There's actually change? Or did My HMR network.
+
+02:00:30
+<transcript>: Now it just changed usage.
+
+02:00:32
+<transcript>: Thanks for follow.
+
+02:00:32
+<transcript>: it's
+
+02:00:39
+<transcript>: It's me. Your salt. It's mirror salt. Add display block to what.
+
+02:00:39
+<transcript>: what
+
+02:00:41
+<transcript>: What would I display block to.
+
+02:00:41
+<transcript>: and
+
+02:00:43
+<transcript>: And here you mean.
+
+02:00:43
+<transcript>: it's a linear gradient
+
+02:00:47
+<transcript>: It's a linear gradient to one of the linear gradients display block.
+
+02:00:55
+shiftlessatol: no
+
+02:00:55
+<transcript>: These don't have any styles applied. That was the would make them not visible. They're just gradients. Or that's not what you're talking about.
+
+02:01:02
+<transcript>: Now changed I'll name section down next section down.
+
+02:01:04
+shiftlessatol: you're doing it wrong
+
+02:01:04
+<transcript>: What do you mean.
+
+02:01:04
+<transcript>: here
+
+02:01:06
+<transcript>: Here.
+
+02:01:10
+<transcript>: I'm doing it wrong. What if I do it wrong.
+
+02:01:13
+<transcript>: What are you talking about.
+
+02:01:15
+<transcript>: This is the whole SVG element.
+
+02:01:16
+shiftlessatol: window
+
+02:01:21
+<transcript>: I don't need to do display block on it. Is that what you're saying? It's already displayed.
+
+02:01:21
+shiftlessatol: where it says Styles
+
+02:01:25
+<transcript>: Window, where it says styles.
+
+02:01:25
+<transcript>: yeah
+
+02:01:28
+shiftlessatol: below the element
+
+02:01:35
+<transcript>: Yeah. This window display block. This is not gonna help me. I feel like I misunderstanding you because it doesn't make any sense. This is already displayed below the element.
+
+02:01:39
+shiftlessatol: no
+
+02:01:41
+<transcript>: Yeah. No, I know what you're talking about. I just don't think it makes sense.
+
+02:01:44
+<transcript>: I understand the words you were saying.
+
+02:01:44
+<transcript>: no
+
+02:01:47
+<transcript>: No. Below the element no.
+
+02:01:53
+shiftlessatol: keep scrolling through styles until you highlight the image
+
+02:02:00
+shiftlessatol: that will be the style of the element
+
+02:02:01
+<transcript>: And display block. Could you guys tell me what I'm adding display block to? I know how to add display block. I'm totally aware of how to do that. Keep scrolling through styles until you highlight the image. This is the image.
+
+02:02:05
+recyclepoopandeatit: I can help , wats the prblem statement
+
+02:02:05
+<transcript>: This right here is the image. It's this SVG.
+
+02:02:05
+<transcript>: are we clear on that
+
+02:02:05
+shiftlessatol: then modify the style
+
+02:02:07
+<transcript>: Are we clear on that.
+
+02:02:09
+<transcript>: What's the problem statement.
+
+02:02:14
+daglee: html/css has it ever made sense?
+
+02:02:15
+shiftlessatol: in the styels
+
+02:02:17
+<transcript>: Then modify the style. What would I it's already got display block literally right there. What would I change.
+
+02:02:28
+<transcript>: Has it ever made sense in the styles? I know how to change the styles, Dave. I know how. Well, that's not the problem. What would I change the style to? Am I taking crazy pills? Hang on.
+
+02:02:35
+<transcript>: What's going on here.
+
+02:02:40
+<transcript>: David Solsink, this ball.
+
+02:02:48
+<transcript>: Dave, I know how to change your styles of an element. That doesn't help me, though. I don't need to change the styles of that SVG. It's already displayed. What are you saying.
+
+02:02:52
+<transcript>: Code a code 675 thanks so much for follow.
+
+02:02:52
+<transcript>: could someone
+
+02:02:53
+recyclepoopandeatit: always bro html css is so cool
+
+02:02:53
+nofhto: the camera is sooo smooth
+
+02:02:54
+<transcript>: Could someone please.
+
+02:02:54
+<transcript>: explain to me
+
+02:02:55
+<transcript>: Explain to me.
+
+02:02:55
+<transcript>: why
+
+02:02:57
+<transcript>: Why that would help.
+
+02:02:58
+stanislausdp: overflow: fuckcss
+
+02:03:02
+shiftlessatol: the background is not
+
+02:03:03
+<transcript>: Camera is so smooth thanks Naft Nah Nas NASA to.
+
+02:03:03
+<transcript>: also welcome to june
+
+02:03:04
+microg0d: nice camera
+
+02:03:07
+<transcript>: Also welcome to June chat. Also welcome to Chat stand.
+
+02:03:11
+allcliffs: @adamdotdev is your url("#id") wrong because you have <svg><use></use></svg> so you have  <svg><svg></svg></svg> so the path is wrong ?
+
+02:03:14
+stanislausdp: hello :)
+
+02:03:14
+<transcript>: First time chat, micro, geography, nice camera. Welcome to Chat, all of you. Thank you. Yes, it's a nice camera.
+
+02:03:14
+<transcript>: is your url
+
+02:03:18
+shiftlessatol: modify the style in order to determine what the app is not doing
+
+02:03:20
+<transcript>: Is your URL ID rom because you have sugus so you have sugar. Sug.
+
+02:03:24
+shiftlessatol: that you can do manually in illustrator
+
+02:03:24
+<transcript>: So the path is wrong. Now that's something I can look at. Here.
+
+02:03:33
+nofhto: i just arrived, whats going on?
+
+02:03:34
+<transcript>: So.
+
+02:03:34
+<transcript>: dave
+
+02:03:44
+<transcript>: Dave The There's no style to modify. The SVG is literally just an SG tag with one tag in it. It's a used tag, and it has an Href pointing at the.
+
+02:03:44
+<transcript>: element
+
+02:03:46
+<transcript>: Element.
+
+02:03:48
+<transcript>: Inside.
+
+02:03:48
+<transcript>: the svg
+
+02:03:50
+<transcript>: The SVG that I want to render.
+
+02:03:54
+<transcript>: It's an SVG Sprite. Right.
+
+02:04:00
+<transcript>: And there's no style involved. That is my problem.
+
+02:04:02
+shiftlessatol: but something is stripping the gradients
+
+02:04:12
+<transcript>: Nafta. We're trying to use SUG sprites. And something is stripping the gradients. It's not that it's stripping the gradient. It's that it's like it can't reference it. Let's look at what.
+
+02:04:15
+<transcript>: Let's look at what all cliffs is saying is your URL.
+
+02:04:15
+<transcript>: pound
+
+02:04:15
+recyclepoopandeatit: what going on really?
+
+02:04:21
+<transcript>: Pound ID rom because you have SVG use SVG so you have SVGs.
+
+02:04:23
+<transcript>: Maybe.
+
+02:04:26
+<transcript>: Maybe let's look.
+
+02:04:31
+<transcript>: So this is the syntax for using an SVG Sprite.
+
+02:04:38
+<transcript>: We have the SVG tag and then use and then the href.
+
+02:04:38
+<transcript>: points at the
+
+02:04:40
+<transcript>: Points at the ID.
+
+02:04:40
+<transcript>: of
+
+02:04:43
+<transcript>: Of the what are they called the thing.
+
+02:04:53
+<transcript>: The symbol inside the Sprite that we want to render that we want to be choosing right. But we have to also point it to the URL.
+
+02:04:53
+<transcript>: of the
+
+02:05:07
+<transcript>: Of the Sprite SUG because we're actually outputting the file. That was the whole thing we tried to do this morning like this was all working. When we just bundled the Sprite into the JavaScript bundle. I don't want to do that. I want to do them externally. So we figured out how to extract the Sprite as an SVG file.
+
+02:05:12
+<transcript>: But now we're not getting backgrounds. So we're not going to background.
+
+02:05:12
+<transcript>: hassan
+
+02:05:13
+<transcript>: Hassan.
+
+02:05:13
+<transcript>: and
+
+02:05:16
+<transcript>: And Cosmon. And Thomas.
+
+02:05:20
+<transcript>: Okay. So here is.
+
+02:05:28
+<transcript>: Here is the inside of that SDG file, this SVG Sprite file.
+
+02:05:28
+<transcript>: it
+
+02:05:31
+<transcript>: It's got a style block here.
+
+02:05:31
+<transcript>: sprite sy
+
+02:05:37
+<transcript>: Sprite symbol usage display none, but then target display inline. So we are displaying.
+
+02:05:42
+<transcript>: Whatever the target is, I don't really understand.
+
+02:05:50
+<transcript>: How sprites work? I don't know. I don't know. I just know that's how they. That's how you use them. You say I want to use this symbol.
+
+02:05:50
+<transcript>: the grad
+
+02:05:51
+stanislausdp: feels like the bundling and the sprite extraction took different steps or... something
+
+02:05:55
+allcliffs: @adamdotdev so when you reference the symbol, the linear id element is not included
+
+02:05:55
+<transcript>: The gradients are defined here alongside the symbols.
+
+02:05:55
+<transcript>: they have
+
+02:05:57
+<transcript>: They have an ID.
+
+02:05:57
+recyclepoopandeatit: change inline property
+
+02:06:00
+<transcript>: And inside the symbol we've got.
+
+02:06:00
+<transcript>: a
+
+02:06:00
+bausmeier: Target is the #xyz in the url.
+
+02:06:04
+<transcript>: A path that's trying to use that fill here.
+
+02:06:13
+<transcript>: Right as a gradient. So if I changed if I change this gradient to just be like Fill, black.
+
+02:06:16
+<transcript>: Okay.
+
+02:06:23
+<transcript>: Well, that one's not displayed right now, so I'd have to actually make this symbol.
+
+02:06:30
+<transcript>: Now that one works, how would I make the symbol visible at right now.
+
+02:06:42
+bausmeier: Hello by the way. Missed the last few streams.
+
+02:06:44
+<transcript>: I don't know. I don't know how it make that spray. I was trying to just see if I could render.
+
+02:06:44
+<transcript>: what did we do
+
+02:06:47
+recyclepoopandeatit: fill black
+
+02:06:48
+<transcript>: What did we do earlier? Oh, we can done here. And we said.
+
+02:06:52
+<transcript>: Yeah, here. We said in line.
+
+02:06:52
+<transcript>: right
+
+02:06:53
+<transcript>: Right.
+
+02:06:53
+<transcript>: but then
+
+02:06:56
+<transcript>: But then what is this? 10? Two, a, four.
+
+02:07:01
+<transcript>: Zero to a four, so I can delete that.
+
+02:07:13
+<transcript>: That's fine. This linear gradient right here or no, I changed. I changed this symbol. Right? I said the fill here should be black.
+
+02:07:17
+<transcript>: That didn't affect it, though? What am I missing.
+
+02:07:23
+<transcript>: So when you reference. Okay, let's see. Feels like.
+
+02:07:27
+<transcript>: The bundling and the Spry distraction took different steps or something. Yeah.
+
+02:07:30
+shiftlessatol: that's not the thign
+
+02:07:36
+<transcript>: So when you reference the symbol, the linear ID element is not included when you reference the symbol.
+
+02:07:41
+<transcript>: The linear ID element is not included.
+
+02:07:51
+<transcript>: Change in line property. Target is Xi D in the URL. Hello, by the way, Bals is here. Miss lashu shoes. That's all right, fill black. That's not the thing.
+
+02:07:53
+<transcript>: Okay.
+
+02:07:59
+<transcript>: So when you.
+
+02:08:06
+<transcript>: When you reference the symbol, the linear ID element is not included.
+
+02:08:06
+<transcript>: you're saying i
+
+02:08:09
+<transcript>: You're saying I should be like here.
+
+02:08:11
+<transcript>: This should be.
+
+02:08:15
+<transcript>: Somehow I should be.
+
+02:08:21
+<transcript>: Including the linear ID in this should I be using it as well.
+
+02:08:21
+<transcript>: i
+
+02:08:26
+<transcript>: I don't know what the. Oh, I do know what the idea is. Hey, interesting.
+
+02:08:37
+<transcript>: They're all the same ID. Right. The gradients are the they're just underscore a so can I just, like, use the gradient to watch this. Let's try this.
+
+02:08:42
+shiftlessatol: these are all stacked layers that are turned on and off - the turning on and off is turning on and off the white patths
+
+02:08:48
+shiftlessatol: but not doing so for the gradients
+
+02:08:55
+<transcript>: Instead of usage. This one's going to be.
+
+02:08:55
+<transcript>: what
+
+02:08:56
+<transcript>: What.
+
+02:08:56
+<transcript>: 's going on
+
+02:09:06
+nexxeln: heyoo
+
+02:09:06
+<transcript>: 's going on? I I swear, like, am I actually hitting keys that are wrong? Or is everything broken to today? Okay. That's.
+
+02:09:06
+<transcript>: a
+
+02:09:08
+<transcript>: A. Okay.
+
+02:09:08
+<transcript>: use
+
+02:09:11
+<transcript>: Use both those things. Maybe.
+
+02:09:16
+<transcript>: I'm using the background. Oh, did something.
+
+02:09:22
+<transcript>: Let me make sure that's not just that icon is weird, okay? It didn't do anything. Now.
+
+02:09:27
+<transcript>: Use Sprite. Sug did I get the name wrong? Did I get the ID wrong.
+
+02:09:33
+<transcript>: That's it right. It's just the ID with the underscore a. Those are the gradients.
+
+02:09:48
+<transcript>: These are all stacked layers that are turned on and off. The turning on and off is turning on and off the whole the white pads but not doing so for the gradient.
+
+02:09:54
+<transcript>: Next is here. Hey, next. Hey. At the beginning of the stream, I explained that we went back to the T three stack.
+
+02:09:54
+<transcript>: yesterday was
+
+02:09:59
+<transcript>: Yesterday was dumb. It was a waste of 5 hours, but I learned something so it wasn't wait.
+
+02:10:02
+nexxeln: oh coool
+
+02:10:05
+<transcript>: But I don't have time to rewrite this whole app, and that was dumb. So reason. Two, three.
+
+02:10:11
+<transcript>: So it's not turning on.
+
+02:10:11
+nexxeln: we have a huge announcement today
+
+02:10:15
+<transcript>: It's like the symbol needs to include.
+
+02:10:20
+<transcript>: The linear gradient. I don't understand. I just don't understand.
+
+02:10:31
+<transcript>: I don't see why this wouldn't work. I see here. Where this path? What if I don't have this silk nun here.
+
+02:10:34
+barryxbtw: is it secret
+
+02:10:37
+<transcript>: That's not one of my talking about. That's not gonna change anything.
+
+02:10:40
+<transcript>: Past fill.
+
+02:10:40
+<transcript>: url
+
+02:10:42
+<transcript>: Url, and then.
+
+02:10:51
+<transcript>: You have a huge announcement today.
+
+02:10:51
+nexxeln: oh hi barry
+
+02:10:51
+barryxbtw: oh i know what it is nvm
+
+02:10:52
+shiftlessatol: 1 stars for this filter do not recommend for screen share
+
+02:10:53
+<transcript>: What's the announcement next.
+
+02:10:55
+barryxbtw: yh hello
+
+02:10:57
+<transcript>: Is it the new website.
+
+02:11:01
+barryxbtw: yh
+
+02:11:04
+<transcript>: One stars for this filter. Do not recommend for screen share. Yeah, yeah, it messes up my Chroma key.
+
+02:11:06
+nexxeln: yeah
+
+02:11:15
+<transcript>: It's not turning on. So like right here. Oh, look at that.
+
+02:11:15
+<transcript>: look at that
+
+02:11:18
+<transcript>: Look at that. Look at that. Hang on, go back.
+
+02:11:21
+<transcript>: Did you see that.
+
+02:11:23
+<transcript>: Element.
+
+02:11:27
+<transcript>: I could click on here so path attribute fill.
+
+02:11:32
+<transcript>: Is this and I can click on it. It's linked to that thing.
+
+02:11:44
+<transcript>: Which just takes me to the whole Sprite. Oh, is that the problem? Should it actually be taking me directly to a thing that it's just not because it's the reference is broken or something.
+
+02:11:49
+<transcript>: Is that what's going on? What if I changed.
+
+02:11:53
+shiftlessatol: #2
+
+02:11:54
+<transcript>: What if I change this URL to have the file name as well? Is that what you were trying to say.
+
+02:11:54
+<transcript>: that might be
+
+02:11:58
+<transcript>: That might be what that might be what you were trying to say? All cliffs.
+
+02:12:01
+<transcript>: That we were trying to say.
+
+02:12:01
+<transcript>: reference
+
+02:12:05
+<transcript>: Reference the symbol the linear ID element is not included.
+
+02:12:08
+<transcript>: Let's try.
+
+02:12:11
+<transcript>: What if we said this.
+
+02:12:11
+<transcript>: was
+
+02:12:13
+<transcript>: Was you are.
+
+02:12:16
+<transcript>: Next.
+
+02:12:18
+<transcript>: Static.
+
+02:12:19
+<transcript>: Right.
+
+02:12:19
+<transcript>: svg
+
+02:12:21
+<transcript>: Svg.
+
+02:12:23
+<transcript>: Then that.
+
+02:12:24
+allcliffs: try
+
+02:12:25
+<transcript>: If we did that.
+
+02:12:28
+<transcript>: Now let's turn the symbol on.
+
+02:12:30
+<transcript>: User to this one.
+
+02:12:37
+<transcript>: What did it do? Nothing.
+
+02:12:39
+<transcript>: Did nothing.
+
+02:12:42
+<transcript>: Let's see here.
+
+02:12:46
+<transcript>: The fill now is like that.
+
+02:12:50
+<transcript>: Okay.
+
+02:12:50
+shiftlessatol: it doesn't work like that
+
+02:12:52
+<transcript>: So not that way.
+
+02:12:52
+<transcript>: next
+
+02:12:54
+<transcript>: Next bright SVG.
+
+02:12:59
+<transcript>: It doesn't work like that. I'm seeing that all. Cliffs.
+
+02:13:05
+<transcript>: Try, try something? Try what? I just tried.
+
+02:13:08
+<transcript>: Unsuccessfully.
+
+02:13:19
+<transcript>: So clearly it doesn't work like that.
+
+02:13:21
+shiftlessatol: you in a completely different area of the SVG
+
+02:13:27
+<transcript>: Let's do this.
+
+02:13:28
+shiftlessatol: you need to modify the actual layer
+
+02:13:31
+<transcript>: Svg spring.
+
+02:13:33
+<transcript>: Linear gradient.
+
+02:13:35
+<transcript>: Are all broken.
+
+02:13:42
+<transcript>: How do I not search this earlier if this is like a common.
+
+02:13:56
+<transcript>: Our issue.
+
+02:14:08
+<transcript>: In Chrome.
+
+02:14:08
+<transcript>: oh is this
+
+02:14:11
+<transcript>: Oh, is this just a Chromebook hang on.
+
+02:14:16
+<transcript>: Hang on.
+
+02:14:23
+<transcript>: Oh, my word. It works in Firefox. This is a Chrome thing, specifically.
+
+02:14:25
+<transcript>: Okay. That might be a workaround.
+
+02:14:25
+<transcript>: also firefox
+
+02:14:28
+<transcript>: Also Firefox the layout very broken.
+
+02:14:31
+<transcript>: Turns out.
+
+02:14:33
+<transcript>: Okay, we were all wrong.
+
+02:14:33
+<transcript>: it
+
+02:14:37
+<transcript>: It's something very specific and odd.
+
+02:14:45
+barryxbtw: well that was that hour
+
+02:14:45
+<transcript>: And longhang bug report.
+
+02:14:53
+<transcript>: Need to have the element and the resources inside the same file. What.
+
+02:14:59
+<transcript>: We can go back and.
+
+02:15:07
+<transcript>: Delete this. Nope.
+
+02:15:08
+allcliffs: so it works in FF ?
+
+02:15:09
+<transcript>: What just happened.
+
+02:15:20
+<transcript>: That's the that's the path.
+
+02:15:21
+daglee: Parts works in Fx
+
+02:15:25
+<transcript>: If you feel like I shouldn't have to say.
+
+02:15:40
+<transcript>: It works in Firefox. Yeah.
+
+02:15:45
+barryxbtw: I think its just /static
+
+02:15:48
+<transcript>: It works in Firefox, but there's other issues in Firefox.
+
+02:15:49
+barryxbtw: The / is important
+
+02:15:57
+<transcript>: We're gonna try and figure out the workaround.
+
+02:15:58
+barryxbtw: Or that might point to static
+
+02:16:02
+<transcript>: For now.
+
+02:16:02
+barryxbtw: So /sprite.svg
+
+02:16:07
+<transcript>: Need to have the element and the resources inside the same file.
+
+02:16:13
+<transcript>: Element and the resources. What are they talking about.
+
+02:16:24
+<transcript>: Okay, I have an SUG represents a Google, a Sore badge.
+
+02:16:28
+<transcript>: Promokers when I put that SUG in a Sprite.
+
+02:16:43
+<transcript>: If you open up your newly created index, HTML works perfectly, and if Firefox and Chrome it does not work at all. Great is completely missing.
+
+02:16:48
+<transcript>: Am I doing something wrong? Changing the sources to do with the badges. An option for me. Here.
+
+02:16:57
+<transcript>: New Intel this only happens if we have an external Sprite file if the Spring file is included in line in the same page as the Sprite inclusion.
+
+02:17:01
+privann: Hellllo
+
+02:17:02
+<transcript>: It works in Chrome. So if the SVG is inline.
+
+02:17:12
+<transcript>: The slash is important. I think it's just static.
+
+02:17:18
+<transcript>: I think.
+
+02:17:23
+shiftlessatol: *pukes*
+
+02:17:24
+<transcript>: I think I can just continue to use the next static.
+
+02:17:31
+<transcript>: And it's fine. Just. It looked weird to me. Like this looks super weird to me. I think it works.
+
+02:17:31
+<transcript>: let's make sure
+
+02:17:35
+<transcript>: Let's make sure it works with Pnpm. Run, build.
+
+02:17:37
+<transcript>: Pmpm, Run start.
+
+02:17:47
+<transcript>: Okay. We've made Dave Puke. So that's where we're at in today's stream.
+
+02:17:54
+<transcript>: How can I refer to an internal graded definition? Let's say SVG broken in Chrome.
+
+02:17:57
+<transcript>: We can find a better workaround.
+
+02:18:33
+<transcript>: Hey.
+
+02:18:37
+<transcript>: Death should be combined and not within each symbol.
+
+02:18:41
+<transcript>: What.
+
+02:18:47
+shiftlessatol: side note:: how to get a public.dev beta key?
+
+02:18:58
+<transcript>: Oh, what a bummer.
+
+02:19:12
+<transcript>: Possible configuration all the gradients.
+
+02:19:14
+<transcript>: Into this block.
+
+02:19:29
+<transcript>: Dev.
+
+02:19:29
+<transcript>: devon's easy
+
+02:19:29
+adamdotdev: !betakey
+
+02:19:29
+fossabot: Use beta key `adamisontwitch2` after signing up at public.dev.
+
+02:19:30
+<transcript>: Devon's, easy.
+
+02:19:32
+<transcript>: Like that.
+
+02:19:33
+privann: Cloudflare D1 is in alpha nu
+
+02:19:36
+privann: now *
+
+02:19:38
+privann: coool
+
+02:19:41
+<transcript>: How can I refer to an internal gradient definition from inside.
+
+02:19:41
+<transcript>: and
+
+02:19:44
+<transcript>: And SUG Sprite. Symbol.
+
+02:20:14
+<transcript>: Gradient fills when the whole SDG block is marked with style display none if the styles remove the gradient rendered properly.
+
+02:20:24
+<transcript>: Oh.
+
+02:20:41
+<transcript>: Visibility hidden or Pesi zero boast allow the gradient turned it properly. Obviously they don't offer purpose solutions, though, as they still Demark it the space that this would you would have taken up if visible. That's not good.
+
+02:20:49
+<transcript>: After scubbing all this I was pretty sure it would be no problem.
+
+02:21:02
+<transcript>: All you need to do is wrap the entire SUG code in a Div container.
+
+02:21:06
+<transcript>: Which messed but will never affect layout.
+
+02:21:06
+<transcript>: why
+
+02:21:08
+<transcript>: Why.
+
+02:21:11
+<transcript>: I'm confused.
+
+02:21:14
+<transcript>: You're saying if I wrap.
+
+02:21:14
+<transcript>: the entire
+
+02:21:18
+<transcript>: The entire SVG code. So this one.
+
+02:21:18
+<transcript>: it's already
+
+02:21:21
+<transcript>: It's already in a Div. So if I take this Div.
+
+02:21:25
+<transcript>: Let's wrap it in another Div.
+
+02:21:28
+<transcript>: I don't think this is gonna work, but.
+
+02:21:35
+<transcript>: This seems like it's not gonna work. I don't know.
+
+02:21:38
+<transcript>: Class.
+
+02:21:38
+<transcript>: name
+
+02:21:39
+<transcript>: Name.
+
+02:21:42
+<transcript>: With zero.
+
+02:21:42
+<transcript>: absolute
+
+02:21:43
+<transcript>: Absolute.
+
+02:21:47
+<transcript>: Hidden.
+
+02:21:47
+<transcript>: what is this doing
+
+02:21:48
+<transcript>: What is this doing.
+
+02:21:50
+allcliffs: see his fiddle
+
+02:21:54
+<transcript>: Here's a fiddle. Let's see.
+
+02:22:05
+<transcript>: What.
+
+02:22:05
+<transcript>: see you settle
+
+02:22:06
+<transcript>: See you settle.
+
+02:22:10
+<transcript>: This style. And then the SVG.
+
+02:22:12
+<transcript>: Linear gradient.
+
+02:22:21
+<transcript>: And then what's happening down here.
+
+02:22:25
+<transcript>: So here's the SVGs.
+
+02:22:27
+<transcript>: Link.
+
+02:22:27
+<transcript>: and there
+
+02:22:30
+<transcript>: And there's source. Wait. What.
+
+02:22:33
+<transcript>: What's this source.
+
+02:22:47
+<transcript>: So the it's actually the source SDG that needs to be wrapped in this Div is what they're saying.
+
+02:22:51
+<transcript>: Not.
+
+02:22:57
+<transcript>: These SVGs that do the use right.
+
+02:22:57
+<transcript>: okay
+
+02:23:02
+<transcript>: Okay. So let's say I could let's just let's manually edit it here.
+
+02:23:05
+<transcript>: This is so dumb.
+
+02:23:05
+<transcript>: this
+
+02:23:10
+<transcript>: This is so dumb. So let's go in here. I'm going to.
+
+02:23:10
+<transcript>: first of all
+
+02:23:17
+<transcript>: First of all, did I test it using the actual production server? Is it actually even rendering? Yeah. Okay.
+
+02:23:17
+shiftlessatol: https://github.com/elrumordelaluz/svgsprit.es/issues/9#issuecomment-707198321
+
+02:23:21
+<transcript>: So let's get back to the Dev server.
+
+02:23:25
+<transcript>: Ah.
+
+02:23:30
+<transcript>: Remove Where's all that stuff I just did.
+
+02:23:30
+<transcript>: out here
+
+02:23:32
+<transcript>: Out here.
+
+02:23:38
+<transcript>: Okay. So removing that and let's go in here.
+
+02:23:41
+<transcript>: I need to start the Dev server.
+
+02:23:42
+recyclepoopandeatit: front-end is so shit really , less abt algorithm and more garbage gif svgs and ssr or csr bullshitt
+
+02:23:49
+<transcript>: Yeah. The front ends. The worst.
+
+02:23:56
+<transcript>: Yeah, I just hate it. I think that's the takeaway here. Just hate the front end. That's all.
+
+02:23:58
+<transcript>: I just hate it.
+
+02:24:01
+<transcript>: Now we've got this static.
+
+02:24:04
+<transcript>: It didn't create it. Why didn't it create it.
+
+02:24:08
+<transcript>: Like, Why do I have it open? I have it open.
+
+02:24:10
+<transcript>: I don't.
+
+02:24:11
+allcliffs: @recyclepoopandeatit that is because you have so much history on all sorts decisions
+
+02:24:14
+<transcript>: I had it open, but I don't anymore. Right.
+
+02:24:20
+<transcript>: Do I have the SVG open somehow and it can't create it.
+
+02:24:27
+<transcript>: What.
+
+02:24:27
+<transcript>: we're
+
+02:24:30
+<transcript>: We're back here again. Remove.
+
+02:24:30
+<transcript>: next
+
+02:24:31
+<transcript>: Next.
+
+02:24:48
+<transcript>: Okay.
+
+02:24:48
+<transcript>: let's look
+
+02:24:50
+allcliffs: @adamdotdev maybe just replace linearbgs with static bgs ?
+
+02:24:50
+<transcript>: Let's look at the.
+
+02:24:55
+<transcript>: Sprite. File. Let's see if I can manually edit it.
+
+02:24:59
+<transcript>: Open with Text mate.
+
+02:24:59
+<transcript>: so we're gonna
+
+02:25:01
+<transcript>: So we're gonna wrap this.
+
+02:25:01
+<transcript>: somehow
+
+02:25:10
+shiftlessatol: try  fill: var(the stuffs)
+
+02:25:13
+<transcript>: Somehow this is so dumb. I don't understand how this would hurt, how this would help. I think the reason it works in this case in Chrome is because they've defined it in line here, just like it says.
+
+02:25:13
+<transcript>: you had to
+
+02:25:16
+<transcript>: You had to do in Chrome, right.
+
+02:25:18
+<transcript>: But let's say we did this.
+
+02:25:21
+<transcript>: Let's say we did this.
+
+02:25:24
+<transcript>: This isn't an SVG file anymore. Right.
+
+02:25:27
+<transcript>: We got it saved in.
+
+02:25:31
+<transcript>: Scg file. It's not an SVG.
+
+02:25:33
+<transcript>: It's a Div.
+
+02:25:36
+<transcript>: divit
+
+02:25:37
+<transcript>: Divit.
+
+02:25:41
+<transcript>: I'm gonna try it.
+
+02:25:48
+<transcript>: Let's go to network tab and see if it.
+
+02:25:52
+<transcript>: Has.
+
+02:25:52
+<transcript>: the
+
+02:25:55
+<transcript>: The yeah, it's got the Div on there.
+
+02:26:03
+<transcript>: That didn't change anything.
+
+02:26:08
+<transcript>: That is because.
+
+02:26:08
+<transcript>: you have so much
+
+02:26:11
+<transcript>: You have so much history on all sorts of decisions.
+
+02:26:15
+<transcript>: Maybe just replace linear BGS with static background.
+
+02:26:23
+<transcript>: The problem with that one, I have to do that like I have to manually go through.
+
+02:26:23
+<transcript>: all
+
+02:26:33
+<transcript>: All the source Sugs from AWS and actually replace the fills, but then also it's just not what the logos look like, right.
+
+02:26:34
+<transcript>: Try, fill.
+
+02:26:34
+<transcript>: var
+
+02:26:38
+<transcript>: Var the stuff. What does that mean? Dave.
+
+02:26:46
+<transcript>: What does that mean.
+
+02:26:49
+<transcript>: So I'm surprised it actually even let me.
+
+02:26:52
+<transcript>: Put that Div around it.
+
+02:26:53
+shiftlessatol: for the style
+
+02:27:00
+shiftlessatol: https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/
+
+02:27:01
+<transcript>: So let's go, let's go to this one.
+
+02:27:09
+<transcript>: How's I seeing that earlier.
+
+02:27:20
+<transcript>: Like I was able to click on it somewhere. Or was that.
+
+02:27:32
+<transcript>: How did I do that earlier? Did anyone see where I was able to click on the.
+
+02:27:36
+<transcript>: Layout.
+
+02:27:41
+<transcript>: Am I going crazy? I think I'm going crazy today. I think that's what's going on.
+
+02:27:48
+<transcript>: Styling SUG Use Content CSS.
+
+02:27:48
+<transcript>: okay
+
+02:27:53
+<transcript>: Okay, we know what the issue is. It's a Chrome issue. I just need a workaround.
+
+02:27:53
+<transcript>: if there is
+
+02:27:57
+<transcript>: If there is a workaround that's not inlining the file in the HTML.
+
+02:28:06
+<transcript>: Right.
+
+02:28:08
+shiftlessatol: that's the work around
+
+02:28:10
+<transcript>: I just need to work around.
+
+02:28:25
+<transcript>: Display none.
+
+02:28:25
+<transcript>: oh
+
+02:28:30
+<transcript>: Oh, I got changed something else. So I added the okay. Okay.
+
+02:28:30
+<transcript>: does that actually work
+
+02:28:33
+<transcript>: Does that actually work? I think this might actually work.
+
+02:28:39
+<transcript>: Back in here.
+
+02:28:42
+<transcript>: Open that with Text mate.
+
+02:28:48
+<transcript>: I think this is actually work. I don't know why I think it might actually work, but I think it might actually work.
+
+02:28:54
+<transcript>: So up here, we're gonna remove.
+
+02:28:54
+<transcript>: this
+
+02:28:55
+<transcript>: This.
+
+02:28:58
+<transcript>: Change it to inline as well.
+
+02:29:04
+<transcript>: And then let's reload.
+
+02:29:14
+<transcript>: Okay. Did not work. Did it get the updated file though.
+
+02:29:26
+<transcript>: I guess I needed to look at the network tab.
+
+02:29:34
+<transcript>: Yeah. Okay.
+
+02:29:36
+<transcript>: Display.
+
+02:29:39
+<transcript>: None was not.
+
+02:29:39
+<transcript>: in there now
+
+02:29:40
+<transcript>: In there now.
+
+02:29:45
+phojiee: is that tailwind? how did you do the text-orange-9? instead of 900 ?. sorry new to tw
+
+02:29:52
+<transcript>: Yeah, it's till wind.
+
+02:29:58
+<transcript>: In the 900, I've got a custom color palette in there based on radddock's colors.
+
+02:29:58
+<transcript>: what's the
+
+02:30:00
+<transcript>: What's the Workground.
+
+02:30:02
+<transcript>: I'm copying this. Dave.
+
+02:30:06
+<transcript>: Styling SUG.
+
+02:30:07
+<transcript>: sugss
+
+02:30:08
+<transcript>: Sugss.
+
+02:30:37
+<transcript>: I'm confused.
+
+02:30:42
+<transcript>: Override presentation attributes.
+
+02:30:47
+<transcript>: So I can set a class.
+
+02:30:47
+<transcript>: that overrides
+
+02:30:48
+shiftlessatol: keep scrolling
+
+02:30:49
+<transcript>: That overrides.
+
+02:30:49
+<transcript>: the fill
+
+02:30:53
+<transcript>: The fill. I. But how would I keep track of that? Like I can't keep track of.
+
+02:30:53
+<transcript>: the
+
+02:30:57
+<transcript>: The gradients outside of the actual SVG file, right.
+
+02:31:00
+<transcript>: I don't know.
+
+02:31:00
+<transcript>: i don't know
+
+02:31:02
+<transcript>: I don't know this helps me.
+
+02:31:09
+<transcript>: If this is a workaround, it's really long and I don't know how this is. Take anything out of it.
+
+02:31:13
+<transcript>: Keep scrolling.
+
+02:31:15
+shiftlessatol: the end
+
+02:31:17
+<transcript>: For how long, Dave? How long do I keep scrolling.
+
+02:31:21
+shiftlessatol: there
+
+02:31:22
+<transcript>: What am I looking for? Like this is this is a huge giant article. What am I gonna get out of this.
+
+02:31:25
+shiftlessatol: the robot
+
+02:31:30
+<transcript>: I don't know. There's a lot of stuff in here. A lot of information.
+
+02:31:35
+<transcript>: But I'm not really taking anything away from it.
+
+02:31:39
+<transcript>: Okay. Okay.
+
+02:31:58
+<transcript>: So they got this working. I think this has to do with the actual SUG being in line in the same file. That's what we just read that this bug doesn't exist if you do exactly what they just did. So I don't know if that's an unrelated bug they fix.
+
+02:32:09
+<transcript>: I need is wrap the entire SD code in a Div container must be displayed but will never affect layout.
+
+02:32:23
+shiftlessatol: you can force the css to apply the gradient
+
+02:32:26
+<transcript>: This version says it's not rendering in Firefox.
+
+02:32:30
+<transcript>: You can force the CSS to apply the gradient.
+
+02:32:30
+<transcript>: how
+
+02:32:34
+<transcript>: How can I do that, Dave? Can you give me like a oneliner and then.
+
+02:32:37
+<transcript>: 150 word article.
+
+02:32:38
+<transcript>: Three weeks.
+
+02:32:38
+<transcript>: browser cons
+
+02:32:40
+<transcript>: Browser consistencies.
+
+02:32:51
+<transcript>: Svg. Sprite. Gradient.
+
+02:32:55
+<transcript>: Broken in Chrome.
+
+02:32:57
+shiftlessatol: yes fill:var(the fill )
+
+02:33:05
+<transcript>: Var. Phil.
+
+02:33:05
+<transcript>: or phil
+
+02:33:08
+<transcript>: Or Phil. Phil VAR. The film.
+
+02:33:15
+<transcript>: But, Dave, I don't know. The fills. The fills are inside, like they are in the SUG file.
+
+02:33:15
+<transcript>: so like
+
+02:33:18
+<transcript>: So, like, Where am I? Where am I doing that.
+
+02:33:22
+<transcript>: Where am I setting a variable for each gradient in doing that.
+
+02:33:25
+<transcript>: Like you're saying, I'm modifying the SVG.
+
+02:33:28
+shiftlessatol: you're not
+
+02:33:30
+<transcript>: I'm not even creating this SUG it's generated for me.
+
+02:33:35
+shiftlessatol: you will use the svg as the fill
+
+02:33:36
+<transcript>: Okay, here's. Chrome.
+
+02:33:36
+<transcript>: and problems
+
+02:33:39
+<transcript>: And problems with the desk tag nested inside the symbol tag.
+
+02:33:46
+<transcript>: Did not render the contents inside those desks Tags correctly.
+
+02:33:46
+<transcript>: you know
+
+02:33:50
+<transcript>: You know, I should also just search this SUG spriteloader.
+
+02:33:50
+<transcript>: for chrome
+
+02:33:53
+<transcript>: For Chrome See if anybody's missing issues.
+
+02:33:56
+<transcript>: Not working.
+
+02:34:41
+<transcript>: Is referenced in CSS.
+
+02:34:45
+<transcript>: I need to reference it and see.
+
+02:34:45
+<transcript>: how
+
+02:34:48
+shiftlessatol: change from inline to block
+
+02:34:48
+<transcript>: How would I reference the CSS.
+
+02:34:48
+<transcript>: of this su
+
+02:34:50
+<transcript>: Of this SUG and CSS.
+
+02:34:50
+grasp5533: Hey everyone
+
+02:34:56
+<transcript>: You will use the SDG as the fill change from inline to block.
+
+02:34:56
+<transcript>: hey
+
+02:34:59
+<transcript>: Hey, Graph. What's going on in grasp.
+
+02:35:03
+<transcript>: Change from inline to block.
+
+02:35:03
+<transcript>: so you're saying
+
+02:35:05
+shiftlessatol: the gradient may be to the right of the path
+
+02:35:05
+<transcript>: So you're saying Edit this again.
+
+02:35:08
+<transcript>: Change it from inline.
+
+02:35:11
+<transcript>: Block.
+
+02:35:14
+shiftlessatol: on both
+
+02:35:30
+shiftlessatol: the gradent also
+
+02:35:36
+<transcript>: No dice, Dave. No dice gradient. Maybe to the right of the path on both. No, listen. I know why the grain inside is blade. It's a Chromebook. I know why it's not displayed. I don't need to figure out why it's not displayed. It's not a CSS issue. It's a Chromebook. And I need to figure out the Workground for.
+
+02:35:36
+<transcript>: that chromebook
+
+02:35:38
+<transcript>: That Chromebook.
+
+02:35:39
+<transcript>: Okay.
+
+02:35:39
+<transcript>: chrome cutting off
+
+02:35:43
+<transcript>: Chrome cutting off icons from Sugar Sprites great is not working in Firefox.
+
+02:35:48
+<transcript>: Interesting to say gradients not working at Firefox.
+
+02:35:59
+<transcript>: Moving the desks.
+
+02:36:10
+<transcript>: This is such a mess. Some people have issues with Firefox mine works in Firefox.
+
+02:36:11
+j_c___: why can't the svg be inline?
+
+02:36:13
+<transcript>: Want to bring this over here.
+
+02:36:14
+alvee__: what is that font in nvim?
+
+02:36:18
+<transcript>: Bring this over here.
+
+02:36:20
+<transcript>: Mine works.
+
+02:36:20
+<transcript>: fire
+
+02:36:27
+<transcript>: Firefox, ignore all the other layout issues in Firefox, which apparently I need fix as well. Man, I hate the browser, man, I hate the web.
+
+02:36:30
+<transcript>: Why do I work on web stuff.
+
+02:36:34
+<transcript>: See the gradients work in firefights just fine.
+
+02:36:34
+<transcript>: it's not a
+
+02:36:36
+<transcript>: It's not a CSS issue.
+
+02:36:36
+<transcript>: it's an issue
+
+02:36:37
+<transcript>: It's an issue.
+
+02:36:37
+<transcript>: it's an
+
+02:36:40
+<transcript>: It's an Idiosyncrasy within Chrome.
+
+02:36:40
+<transcript>: and
+
+02:36:42
+<transcript>: And SUG sprites.
+
+02:36:42
+<transcript>: and
+
+02:36:44
+<transcript>: And I need to figure out.
+
+02:36:44
+<transcript>: if i need
+
+02:36:49
+<transcript>: If I need to create if I need to hand create a Sprite if this Sprite loader is just not gonna do it.
+
+02:36:49
+<transcript>: i
+
+02:36:52
+<transcript>: I like the idea of it.
+
+02:36:54
+<transcript>: Do not populate.
+
+02:37:00
+<transcript>: Sugar.
+
+02:37:04
+<transcript>: Sprite is broken.
+
+02:37:16
+<transcript>: What do they say? Not working in Chrome.
+
+02:37:19
+01_pollux: wiat what are the glases reflecting when you move?
+
+02:37:34
+<transcript>: What is the font? It's operator. Mono.
+
+02:37:48
+<transcript>: Welcome to Chat JC. Why can't the SDGB inline? I guess I can. So here's the thing. It's a giant file. It's like, well, let's just see it's. 566 KB uncompressed.
+
+02:37:48
+<transcript>: it's a giant
+
+02:38:08
+<transcript>: It's a giant Sprite. It has over 300 AWS logos in it. And if I inline it in the page, then I'm losing all the benefits. I can use this webpack plugin and just have it bundled the Sprite bundled into the JavaScript bundle. And that works. I have no issues on Chrome. Everything works. It just means every time I make a change to the app, people are gonna have to read.
+
+02:38:08
+<transcript>: download
+
+02:38:11
+tsoutsou_proutsou: split them :/
+
+02:38:17
+<transcript>: Download that giant bundle instead of having the Sprite file separate where that can be cached in the browsers separately. I'd love for the Sprite file to just be cashed.
+
+02:38:17
+<transcript>: you know i'm saying
+
+02:38:19
+<transcript>: You know, I'm saying.
+
+02:38:19
+<transcript>: if i inline
+
+02:38:25
+<transcript>: If I inline it in the HTML, then I have the same problem like now every time the page changes when I make changes to the app.
+
+02:38:25
+<transcript>: they're having to
+
+02:38:26
+tsoutsou_proutsou: and lazy load them
+
+02:38:30
+<transcript>: They're having to redownload that whole Sprite thing. So it's an optimization.
+
+02:38:30
+<transcript>: also
+
+02:38:32
+<transcript>: Also welcome to Chat Aldi.
+
+02:38:36
+<transcript>: Wait, what are the glasses reflecting when you move.
+
+02:38:40
+<transcript>: I don't know. What are they reflecting.
+
+02:38:44
+<transcript>: Ha How's that work.
+
+02:38:44
+<transcript>: i really
+
+02:38:44
+allcliffs: @adamdotdev can you try this silly thing:  can you rename linearGradient id to a short id like "a123" and reference "a123" ?
+
+02:38:46
+<transcript>: I really don't know.
+
+02:38:49
+<transcript>: I don't know what it's reflecting.
+
+02:38:52
+<transcript>: It's interesting, though.
+
+02:38:52
+<transcript>: so
+
+02:38:54
+shiftlessatol: I think it's John Lenon
+
+02:38:56
+<transcript>: So split them and LazyLoad them. That's a good idea tootsuit. Su. Now we're talking.
+
+02:38:58
+<transcript>: Now we're talking.
+
+02:39:00
+01_pollux: i think they added a picture inside
+
+02:39:03
+01_pollux: hmm
+
+02:39:05
+<transcript>: Can you try this silly thing? Can you rename linear gradient ID to short ID like a one, two, three, and reference a one, two, three.
+
+02:39:05
+<transcript>: like no
+
+02:39:08
+<transcript>: Like no underscore. I can try that.
+
+02:39:08
+01_pollux: i saw a man
+
+02:39:10
+<transcript>: I can try that.
+
+02:39:18
+cr4xr3v: reflecting self
+
+02:39:20
+shiftlessatol: Lennon*
+
+02:39:21
+<transcript>: They added a picture inside. Is there a man in there.
+
+02:39:25
+<transcript>: Inside this filter you all see a man.
+
+02:39:28
+<transcript>: Let's do this so you can see.
+
+02:39:32
+<transcript>: It's kind of creepy if there's a man in there.
+
+02:39:52
+<transcript>: Okay, so all Cliffs says try Rename linear gradient ID to a short ID. Like a one, two, three. Let's try it. We got nothing to lose.
+
+02:39:54
+<transcript>: Open with.
+
+02:39:57
+<transcript>: Text, meat.
+
+02:40:01
+<transcript>: The problem is like I have to find the right one.
+
+02:40:01
+<transcript>: so
+
+02:40:04
+<transcript>: So like this ID.
+
+02:40:08
+<transcript>: And it won't be the same.
+
+02:40:08
+<transcript>: you know i'm saying
+
+02:40:10
+<transcript>: You know, I'm saying like.
+
+02:40:13
+<transcript>: I guess I can hard.
+
+02:40:13
+<transcript>: i can
+
+02:40:18
+<transcript>: I can hard code it. So let's hard code to one of the first one. This one.
+
+02:40:24
+<transcript>: Okay, turn it off you by for a second.
+
+02:40:32
+<transcript>: Here we can just say.
+
+02:40:45
+<transcript>: Now we're hardcoding it to you. That one specifically.
+
+02:40:48
+<transcript>: Should be the first one.
+
+02:40:53
+<transcript>: In the file is right there. Now we're gonna change it.
+
+02:40:56
+<transcript>: Display? None. So it's getting overwritten.
+
+02:40:56
+<transcript>: oh that got
+
+02:41:00
+<transcript>: Oh, that got overwritten. Okay. Did I restart the thing? I don't know.
+
+02:41:00
+<transcript>: symbol
+
+02:41:03
+<transcript>: Symbol here, we're gonna say.
+
+02:41:03
+<transcript>: the
+
+02:41:04
+<transcript>: The.
+
+02:41:09
+<transcript>: Fill is gonna be one, two, three.
+
+02:41:09
+<transcript>: and then we
+
+02:41:11
+<transcript>: And then we got to find it down here.
+
+02:41:15
+<transcript>: It's gonna be linear gradient. Right here. No, that's not it.
+
+02:41:18
+<transcript>: Linear. Written right here.
+
+02:41:18
+<transcript>: one
+
+02:41:20
+<transcript>: One, two, three.
+
+02:41:20
+<transcript>: you're
+
+02:41:22
+<transcript>: You're saying just try like that.
+
+02:41:27
+<transcript>: This is a silly thing, but we're gonna try it.
+
+02:41:34
+<transcript>: I did our SVG actually get rebuilt.
+
+02:41:34
+<transcript>: it's a question
+
+02:41:35
+<transcript>: It's a question.
+
+02:41:36
+shiftlessatol: BTW that is the fill that you can't find
+
+02:41:41
+<transcript>: To the urban.
+
+02:41:43
+shiftlessatol: you literally just modified
+
+02:41:45
+<transcript>: Now it's using the new URL. One, two, three.
+
+02:41:47
+<transcript>: No dice.
+
+02:41:47
+<transcript>: not
+
+02:41:51
+<transcript>: Note have been surprising if that was the issue. It's like the length of the.
+
+02:41:53
+<transcript>: Thing.
+
+02:42:02
+<transcript>: That is the fill that you can't find. You literally just modified. What do you mean.
+
+02:42:09
+<transcript>: You're saying, Dave, you're saying I could change that fill to be what it's like, hard code.
+
+02:42:15
+<transcript>: What do you say to not reference a linear gradient and just make it flat color.
+
+02:42:22
+<transcript>: Like Dave. Let me play this out with you. What are you saying I should do here? You're saying I should go in here.
+
+02:42:24
+shiftlessatol: reference the id
+
+02:42:25
+<transcript>: And instead of doing.
+
+02:42:25
+<transcript>: fill url
+
+02:42:26
+<transcript>: Fill, URL.
+
+02:42:26
+<transcript>: to type what
+
+02:42:27
+shiftlessatol: in the css
+
+02:42:28
+<transcript>: To type what I should type in there.
+
+02:42:28
+<transcript>: reference the id
+
+02:42:31
+<transcript>: Reference the ID in the CSS.
+
+02:42:36
+<transcript>: So you're saying I create a CSS file that has all of these IDs.
+
+02:42:36
+<transcript>: all three
+
+02:42:42
+<transcript>: All 300 plus A Tobis Services I've classes for each of them targeting.
+
+02:42:46
+<transcript>: Those specific IDs and duplicating the linear gradient.
+
+02:42:46
+<transcript>: that's what
+
+02:42:47
+shiftlessatol: fill="var(url(theid))
+
+02:42:47
+<transcript>: That's what you're saying to me.
+
+02:42:47
+<transcript>: and
+
+02:42:49
+shiftlessatol: "
+
+02:42:50
+<transcript>: And you're saying that will work.
+
+02:42:53
+<transcript>: Far URL the ID.
+
+02:42:56
+<transcript>: Variable.
+
+02:42:56
+<transcript>: url
+
+02:42:59
+<transcript>: Url. The ID in the CSS.
+
+02:43:04
+<transcript>: Okay, let me play this out.
+
+02:43:04
+<transcript>: i'm gonna give you
+
+02:43:06
+<transcript>: I'm gonna give you the myth of it out here, Dave.
+
+02:43:09
+shiftlessatol: try it here first
+
+02:43:11
+<transcript>: Gonna give you the benefit of the doubt.
+
+02:43:11
+<transcript>: i'm gonna play
+
+02:43:15
+<transcript>: I'm gonna play it out, let me I'm just trying to recreate my SUG file.
+
+02:43:19
+<transcript>: So let's say.
+
+02:43:22
+<transcript>: Oh.
+
+02:43:22
+<transcript>: my word
+
+02:43:24
+<transcript>: My word.
+
+02:43:28
+<transcript>: I'm gonna lose my mind today this is just ridiculous.
+
+02:43:41
+<transcript>: I think this webpack plugins is flaky as well. I think that's part of the problem.
+
+02:43:47
+<transcript>: Or do I have the Do I have it open? No, I don't have the SVG open anywhere.
+
+02:43:51
+<transcript>: Okay. So you're saying.
+
+02:43:54
+<transcript>: I could write some CSS.
+
+02:43:57
+<transcript>: That targets.
+
+02:43:57
+<transcript>: that
+
+02:43:58
+<transcript>: That specific idea.
+
+02:43:58
+<transcript>: so let's just
+
+02:44:01
+<transcript>: So let's just yank.
+
+02:44:06
+<transcript>: That word. And let's say.
+
+02:44:06
+<transcript>: let's
+
+02:44:10
+<transcript>: Let's say we had a bit of CSS here.
+
+02:44:16
+<transcript>: Wherever.
+
+02:44:22
+<transcript>: I go to my global styles, I guess.
+
+02:44:22
+<transcript>: now let's
+
+02:44:24
+<transcript>: Now let's say I had.
+
+02:44:27
+<transcript>: A class.
+
+02:44:27
+<transcript>: right here
+
+02:44:28
+tsoutsou_proutsou: i think splitting me gonna be much faster :P
+
+02:44:28
+<transcript>: Right here. First.
+
+02:44:28
+<transcript>: fill var
+
+02:44:31
+<transcript>: Fill VAR URL the ID.
+
+02:44:31
+<transcript>: what
+
+02:44:32
+<transcript>: What.
+
+02:44:36
+tsoutsou_proutsou: them*
+
+02:44:40
+<transcript>: Splitting so two, two. Are you saying manually create the sprites and splitting them.
+
+02:44:45
+<transcript>: Like creating five files that have the different sprites in them.
+
+02:44:47
+<transcript>: Manually.
+
+02:44:49
+<transcript>: And then what.
+
+02:44:53
+<transcript>: Because I still can't load them.
+
+02:44:53
+<transcript>: my chrome
+
+02:44:54
+tsoutsou_proutsou: not sprite but 178 svgs
+
+02:44:55
+<transcript>: My Chrome will still have this bug.
+
+02:45:08
+<transcript>: 178 SVGs. Oh, do this the individual suds. I mean, that's what I had originally, but then the problem with that suitsu is.
+
+02:45:12
+<transcript>: There's a delay in downloading the SVG.
+
+02:45:12
+<transcript>: okay
+
+02:45:13
+<transcript>: Okay.
+
+02:45:13
+<transcript>: there's
+
+02:45:16
+<transcript>: There's a delay when you download the SCG.
+
+02:45:17
+tsoutsou_proutsou: your render is very slow
+
+02:45:23
+tsoutsou_proutsou: and looks glitchy
+
+02:45:28
+<transcript>: In that amount of time, you're not able to answer the question because you don't even you can't see the image so it doesn't make the gameplay consistent for everybody. Your network bandwidth could affect your score, and I don't want that. Does that make sense.
+
+02:45:28
+<transcript>: my render
+
+02:45:30
+<transcript>: My render is very slow and look squishy.
+
+02:45:34
+<transcript>: Like my face.
+
+02:45:34
+<transcript>: my
+
+02:45:36
+<transcript>: My drop in frames or something.
+
+02:45:39
+<transcript>: No.
+
+02:45:41
+tsoutsou_proutsou: the page
+
+02:45:42
+<transcript>: Render is very slow.
+
+02:45:45
+tsoutsou_proutsou: when you lick new game
+
+02:45:47
+<transcript>: So, Dave, what are you saying here? You're saying fill.
+
+02:45:49
+<transcript>: Var.
+
+02:45:49
+<transcript>: no u
+
+02:45:49
+tsoutsou_proutsou: click*
+
+02:45:51
+<transcript>: No. Url. The ID.
+
+02:45:57
+<transcript>: Fill VAR. You're saying fill the whole SVG, this whole thing.
+
+02:45:57
+<transcript>: fill
+
+02:45:58
+<transcript>: Fill.
+
+02:46:02
+<transcript>: You Arel.
+
+02:46:03
+shiftlessatol: no
+
+02:46:10
+<transcript>: The ID. You're saying like this.
+
+02:46:12
+<transcript>: How are you trying to tell me.
+
+02:46:16
+allcliffs: @adamdotdev what shift is saying try <use href="sprite.svg" fill="var(url(#id)" />
+
+02:46:18
+shiftlessatol: SMH
+
+02:46:21
+<transcript>: Oh when I click new game yeah yeah it's slow to create the first thing.
+
+02:46:21
+<transcript>: no
+
+02:46:30
+<transcript>: No. What shift is saying? Try your use Ahref Sprite SVG oh on the use tag. You're saying on the use tag? So here.
+
+02:46:33
+<transcript>: Add some style.
+
+02:46:36
+<transcript>: Fill.
+
+02:46:40
+<transcript>: Bar.
+
+02:46:40
+<transcript>: url
+
+02:46:41
+<transcript>: Url.
+
+02:46:41
+<transcript>: the id
+
+02:46:42
+<transcript>: The ID.
+
+02:46:45
+<transcript>: Is that what you're saying.
+
+02:46:48
+shiftlessatol: the gradient url
+
+02:46:51
+<transcript>: Or no, not a style.
+
+02:46:53
+shiftlessatol: @allcliffs yes
+
+02:46:56
+<transcript>: Just a fill tag or a fill attribute.
+
+02:47:04
+<transcript>: So fill.
+
+02:47:04
+<transcript>: the
+
+02:47:05
+shiftlessatol: style is right
+
+02:47:06
+<transcript>: The equals.
+
+02:47:09
+<transcript>: Style is right.
+
+02:47:09
+<transcript>: var
+
+02:47:11
+<transcript>: Var.
+
+02:47:14
+<transcript>: variable
+
+02:47:15
+<transcript>: Variable.
+
+02:47:15
+<transcript>: is it
+
+02:47:17
+<transcript>: Is it Siler is it Phil.
+
+02:47:20
+<transcript>: Url.
+
+02:47:22
+<transcript>: I. D.
+
+02:47:27
+<transcript>: This is what you're saying to me.
+
+02:47:28
+shiftlessatol: in that order
+
+02:47:31
+<transcript>: I guess it's like underscore a.
+
+02:47:34
+<transcript>: aisle is right
+
+02:47:35
+<transcript>: Aisle is right in that order.
+
+02:47:41
+shiftlessatol: style="fill:var(url(ID))"
+
+02:47:41
+<transcript>: So on the use tag do style and say the fill.
+
+02:47:41
+<transcript>: is
+
+02:47:44
+<transcript>: Is VAR.
+
+02:47:46
+<transcript>: Url.
+
+02:47:50
+<transcript>: The ID.
+
+02:47:50
+<transcript>: underscore
+
+02:47:53
+<transcript>: Underscore a.
+
+02:47:54
+<transcript>: Like that.
+
+02:48:00
+<transcript>: It's not working.
+
+02:48:04
+tsoutsou_proutsou: its not #123?
+
+02:48:08
+<transcript>: Does the URL need to have the whole necks.
+
+02:48:08
+<transcript>: static
+
+02:48:10
+<transcript>: Static.
+
+02:48:11
+shiftlessatol: it's not working
+
+02:48:13
+<transcript>: Right. Svg.
+
+02:48:17
+<transcript>: It's not working.
+
+02:48:17
+<transcript>: it's not
+
+02:48:21
+<transcript>: It's not one, two, three. No, we regenerate the file. So the file should now be.
+
+02:48:24
+<transcript>: Like it was.
+
+02:48:26
+<transcript>: Deaf.
+
+02:48:29
+<transcript>: Yeah, it's this.
+
+02:48:29
+<transcript>: fill
+
+02:48:30
+<transcript>: Fill.
+
+02:48:30
+<transcript>: url
+
+02:48:31
+<transcript>: Url.
+
+02:48:34
+<transcript>: Like, what.
+
+02:48:37
+<transcript>: Yeah, I'm not understanding.
+
+02:48:44
+<transcript>: Not understanding.
+
+02:48:51
+<transcript>: Why would the Why would we using VAR there.
+
+02:48:55
+<transcript>: It's not a variable like there's no variable here. Why would I use variable.
+
+02:48:58
+<transcript>: I should question what I'm typing.
+
+02:49:02
+<transcript>: So that almost makes sense to me.
+
+02:49:02
+<transcript>: fill
+
+02:49:03
+<transcript>: Fill.
+
+02:49:03
+<transcript>: next
+
+02:49:10
+<transcript>: Next X. Right. That almost makes sense. And that actually even seems to be linking to something. I don't know why.
+
+02:49:12
+shiftlessatol: here is the example
+
+02:49:14
+shiftlessatol: style="fill: var(--primary-color, #1E8F90)"
+
+02:49:14
+<transcript>: Now, next stack, bright. Is she.
+
+02:49:14
+<transcript>: it's not working
+
+02:49:16
+<transcript>: It's not working.
+
+02:49:28
+<transcript>: Style. Phil VAR. Primary color. What are you talking about? Dave? What are you talking about? I mean, I could fill it with an arbitrary color. Yes.
+
+02:49:28
+<transcript>: i think
+
+02:49:32
+<transcript>: I think for the follow F, one AB and osmoses.
+
+02:49:32
+<transcript>: i
+
+02:49:36
+<transcript>: I could in fact, fill it with an arbitrary color. Dave, how does that help me.
+
+02:49:36
+<transcript>: that's
+
+02:49:41
+<transcript>: That's that doesn't help me, though, right? I'm trying to fill it with the actual color.
+
+02:49:44
+<transcript>: That comes from the SCG.
+
+02:49:48
+<transcript>: And it's a bug in Chrome, and I need to figure it out.
+
+02:49:52
+shiftlessatol: do  fill: var(--gradient,gradient)
+
+02:49:53
+<transcript>: But I'm not gonna I can't keep chasing these red herrings. I just have a little bit of time left.
+
+02:49:55
+<transcript>: I don't know.
+
+02:49:55
+<transcript>: var
+
+02:49:59
+<transcript>: Var gradient gradient. What are you talking about? What is the gradient.
+
+02:50:01
+sondreal: adamdo8DealWithIt
+
+02:50:07
+<transcript>: What? There's no variable name. Gradient. What are you talking about? Sandriel? What's going on? Sandra.
+
+02:50:07
+<transcript>: okay i'm
+
+02:50:08
+shiftlessatol: var ( the property, the value )
+
+02:50:11
+<transcript>: Okay. I'm done with this. I'm done. I'm done chasing this stuff down.
+
+02:50:11
+<transcript>: var the
+
+02:50:14
+shiftlessatol: the ide
+
+02:50:16
+<transcript>: Var the property of the value. Yeah, I know how far works. I'm just saying, like, no. Okay.
+
+02:50:21
+<transcript>: We're gonna figure this out, but it's not chasing this.
+
+02:50:21
+<transcript>: style stuff
+
+02:50:22
+<transcript>: Style stuff.
+
+02:50:22
+<transcript>: visibility
+
+02:50:24
+<transcript>: Visibility. Hidden.
+
+02:50:31
+<transcript>: Point out in the comments. Place the linear gradient outside the symbol.
+
+02:50:40
+<transcript>: So ours are actually outside of the symbol. That's not an issue for us. We're not putting them inside.
+
+02:50:43
+j_c___: hryPuff
+
+02:50:48
+allcliffs: @adamdotdev can you share the svg, ill try to play around :)
+
+02:50:49
+<transcript>: Like the desks are not inside. But maybe they were. That would help. Maybe we need to put the deaf. Let's try that actually.
+
+02:50:49
+<transcript>: that's an interesting
+
+02:50:50
+<transcript>: That's an interesting.
+
+02:50:50
+<transcript>: how do i
+
+02:50:51
+shiftlessatol: fill: var(--fill,url(ID))?
+
+02:50:52
+<transcript>: How do I undo all this.
+
+02:50:58
+<transcript>: So let's try, let's try that let's try.
+
+02:50:58
+<transcript>: let's
+
+02:51:00
+<transcript>: Let's take it.
+
+02:51:00
+<transcript>: and let's
+
+02:51:03
+<transcript>: And let's nest the def.
+
+02:51:03
+<transcript>: open
+
+02:51:05
+<transcript>: Open here.
+
+02:51:06
+<transcript>: Let's go.
+
+02:51:06
+<transcript>: symbol
+
+02:51:08
+<transcript>: Symbol.
+
+02:51:08
+<transcript>: we're gonna have
+
+02:51:12
+<transcript>: We're gonna have death inside our symbol. Is that how they have it.
+
+02:51:12
+<transcript>: it's
+
+02:51:19
+<transcript>: It's funny. We're doing literally the thing they said doesn't work. We're gonna try it because we're doing the other way and it doesn't work.
+
+02:51:19
+<transcript>: so
+
+02:51:23
+<transcript>: So the G, so D and then put the linear gradient inside. There.
+
+02:51:26
+<transcript>: Linear gradient.
+
+02:51:34
+<transcript>: So we're gonna cut that one and we're gonna put it inside.
+
+02:51:37
+<transcript>: This symbol tag. So we already have a defs right here.
+
+02:51:37
+<transcript>: drop it
+
+02:51:39
+<transcript>: Drop it right there.
+
+02:51:42
+<transcript>: Okay.
+
+02:51:45
+<transcript>: Maybe that'll work.
+
+02:51:45
+<transcript>: let
+
+02:51:46
+<transcript>: Let's try it.
+
+02:51:52
+<transcript>: If I refresh the page, is it gonna regenerate? I don't think so.
+
+02:51:57
+<transcript>: Did it regenerate the thing.
+
+02:51:59
+<transcript>: Let's see.
+
+02:52:06
+<transcript>: And now it's Regenerate. Still didn't work, though.
+
+02:52:08
+<transcript>: Okay.
+
+02:52:11
+<transcript>: Let's see can you share the SUG I'll try to play around.
+
+02:52:11
+<transcript>: yeah
+
+02:52:14
+<transcript>: Yeah. How do I want to do that.
+
+02:52:18
+<transcript>: How do I want to share the SEC? I'll create a gist.
+
+02:52:27
+<transcript>: File.
+
+02:52:34
+<transcript>: Nope. That's all I want? So I can just upload. Let's just.
+
+02:52:34
+<transcript>: slide it open
+
+02:52:35
+<transcript>: Slide it open.
+
+02:52:35
+<transcript>: no
+
+02:52:36
+<transcript>: No.
+
+02:52:38
+<transcript>: Open with.
+
+02:52:43
+<transcript>: Okay. Here it is.
+
+02:52:46
+<transcript>: Here it is.
+
+02:52:52
+<transcript>: Gonna make it public? I don't know.
+
+02:52:57
+<transcript>: I guess if it's private can I share it? Okay. Here it is.
+
+02:52:57
+<transcript>: here is
+
+02:52:59
+adamdotdev: https://gist.github.com/adamelmore/3019cab4e63126572f27597b52100647
+
+02:52:59
+<transcript>: Here is the SVG.
+
+02:53:02
+<transcript>: For the curious.
+
+02:53:02
+<transcript>: and
+
+02:53:04
+<transcript>: And not for the fainted heart.
+
+02:53:10
+<transcript>: Saint of heart.
+
+02:53:18
+allcliffs: thanks
+
+02:53:26
+<transcript>: I've just got five more minutes here.
+
+02:53:31
+<transcript>: What a frustrating stream, what a frustrating stream.
+
+02:53:33
+<transcript>: I.
+
+02:53:39
+<transcript>: I don't know what to try next. I feel like I've tried it. I've tried the things.
+
+02:53:40
+grasp5533: Adam do you have any opinions on Twitter talking about Tech Debt?
+
+02:53:43
+<transcript>: Kill text, mate, and see if I can.
+
+02:53:43
+<transcript>: rec
+
+02:53:45
+<transcript>: Recreate. The SVG.
+
+02:53:52
+<transcript>: I wonder if I could craft.
+
+02:53:52
+<transcript>: well i
+
+02:53:58
+allcliffs: thats SVG's for you xD
+
+02:54:02
+<transcript>: Well, I guess I can try it right now. I wonder if I could craft like a handmade Sprite that would work, but I think the issue is the linear gate gradient references.
+
+02:54:02
+<transcript>: thanks for
+
+02:54:05
+<transcript>: Thanks for the follow Pixel Dev.
+
+02:54:09
+<transcript>: Do you have any opinions on Twitter talking about Tech debt.
+
+02:54:12
+<transcript>: Twitter's talking about tech debt.
+
+02:54:12
+<transcript>: is that you saying
+
+02:54:14
+<transcript>: Is that you saying like people are.
+
+02:54:23
+<transcript>: You mean the employees who was like, if we didn't have so much tech debt, then things would be fast. That whole conversation on Twitter with Elon.
+
+02:54:33
+<transcript>: So talking about planes bright true should we try plain Sprite? Let's try plain strike why not? Let's try planespray.
+
+02:54:40
+<transcript>: X config just got a few more minutes here. I'm gonna try some things.
+
+02:54:44
+<transcript>: Plain.
+
+02:54:47
+<transcript>: Plain Sprite truth.
+
+02:54:50
+grasp5533: Yeah, and other people are arguing whether tech debt is because of business decisions or engineering decisions
+
+02:54:52
+<transcript>: Okay.
+
+02:55:07
+shiftlessatol: intafix!
+
+02:55:09
+<transcript>: Yeah and arguing. Other people are arguing whether tech debt.
+
+02:55:12
+shiftlessatol: instafix*!
+
+02:55:15
+<transcript>: Is because of business decisions or engineering decisions.
+
+02:55:25
+<transcript>: I don't have a lot of opinions. I I'm not worked on a lot of teams for one thing, so I don't.
+
+02:55:30
+<transcript>: I don't have a lot of experience with organizational philosophies. Things like that.
+
+02:55:34
+shiftlessatol: *snaps fingers*
+
+02:55:37
+<transcript>: It's an interesting thought, though. Like.
+
+02:55:48
+dinksrl: oh damn that spacebar
+
+02:55:51
+<transcript>: I've heard. I've definitely heard engineers say, like, oh, we wouldn't have someone check that if you'd slow down and let us, like, fix all the stuff. And there's probably something to that. But there's also probably engineers who don't create a lot of tech debt just by nature. I don't know.
+
+02:55:57
+<transcript>: That's spacebar. What about my super? The sound of it.
+
+02:55:57
+<transcript>: dink
+
+02:55:59
+<transcript>: Dink, welcome to Chat dink.
+
+02:56:03
+<transcript>: What am I doing right now? I'm trying to.
+
+02:56:03
+<transcript>: i'm just
+
+02:56:07
+<transcript>: I'm just trying to figure out why.
+
+02:56:07
+<transcript>: why
+
+02:56:07
+dinksrl: sounds hot
+
+02:56:13
+<transcript>: Why? Just why? Why does everything not work? I guess we're trying to do something kind of complicated.
+
+02:56:16
+<transcript>: Let's look at the file.
+
+02:56:16
+<transcript>: why not
+
+02:56:18
+<transcript>: Why not.
+
+02:56:25
+<transcript>: What did plain Sprite get us? What did it do differently.
+
+02:56:32
+<transcript>: Or did it.
+
+02:56:32
+<transcript>: sounds
+
+02:56:36
+<transcript>: Sounds hot. Yeah, it's a. It's a nice keyboard. My mode, sonnet.
+
+02:56:36
+<transcript>: where is sex
+
+02:56:38
+<transcript>: Where is sex mate.
+
+02:56:40
+<transcript>: Where is it.
+
+02:56:44
+<transcript>: Opened TextMate.
+
+02:56:44
+<transcript>: did open
+
+02:56:47
+<transcript>: Did open on a different screen.
+
+02:57:03
+<transcript>: Checks out today. That checks out. Like, why would I be able to open it? Why would I be able to I can't have nice things.
+
+02:57:03
+<transcript>: let's open
+
+02:57:05
+<transcript>: Let's open it in something else.
+
+02:57:06
+allcliffs: @Grasp5533 I think overall its complex because imagine everyone has their own agenda on how to progress features and their careers. Overall with few exceptions all software will have tech debt over time.
+
+02:57:11
+<transcript>: We'll just open it here.
+
+02:57:16
+<transcript>: It is.
+
+02:57:20
+<transcript>: What did Planespright do is the question.
+
+02:57:25
+<transcript>: Symbol def.
+
+02:57:30
+<transcript>: Okay, linear gradient. There's still gradients.
+
+02:57:33
+<transcript>: Did it not.
+
+02:57:33
+<transcript>: apply
+
+02:57:37
+<transcript>: Apply the gradient so symbol there should be a path here.
+
+02:57:45
+<transcript>: Oh yeah. I don't see the path with the the background gradient. So didn't I don't know.
+
+02:57:47
+<transcript>: I don't know.
+
+02:57:59
+<transcript>: There it is. Yeah, it still got it in there. I don't know what plane was supposed to do, but I don't see the difference.
+
+02:58:01
+<transcript>: I don't see the difference.
+
+02:58:05
+grasp5533: Yeah, I always kind of viewed it as engineering teams allowing themselves to be pressured to make the tech debt decisions. I think it falls on engineering to weight business needs against internal needs
+
+02:58:08
+<transcript>: Okay, so planes, right? Didn't do the trick.
+
+02:58:13
+<transcript>: What are the other options I can do.
+
+02:58:16
+grasp5533: weigh*
+
+02:58:22
+<transcript>: I don't think anything's gonna matter because ultimately, there's this. We've got this bug. We've got a bug in Chrome.
+
+02:58:37
+<transcript>: I think overall it's complex because imagine everyone has their own agenda on how to progress features and their careers. Overall, with few exceptions, all software will have tech bit over time. I agree with that.
+
+02:58:39
+<transcript>: I agree with that.
+
+02:58:41
+<transcript>: Man.
+
+02:58:44
+<transcript>: I'd love to have some kind of resolution.
+
+02:58:44
+<transcript>: to
+
+02:58:48
+<transcript>: To this problem before I step away for the day.
+
+02:58:48
+j_c___: is it worth the time you're spending to fix this chrome bug
+
+02:58:49
+dinksrl: what even is the issue rn I joined late
+
+02:58:50
+<transcript>: But I don't think I'm gonna have it.
+
+02:58:53
+<transcript>: I think we've got an issue with Chrome.
+
+02:58:55
+<transcript>: It's a bummer.
+
+02:58:55
+<transcript>: is there
+
+02:58:58
+<transcript>: Is there some way that I could create the background colors.
+
+02:58:59
+shiftlessatol: can you upload the rest
+
+02:59:04
+<transcript>: Is there some way I could do it.
+
+02:59:04
+<transcript>: you know what
+
+02:59:06
+<transcript>: You know what.
+
+02:59:09
+<transcript>: There is.
+
+02:59:11
+shiftlessatol: of the files that are generated in that same directory as the svg?
+
+02:59:16
+<transcript>: Every service belongs to a family. The family is what determines the background gradient.
+
+02:59:20
+<transcript>: I could probably manufacture the background.
+
+02:59:28
+<transcript>: It's I don't love it I don't love it but I can probably let's just go in here.
+
+02:59:39
+<transcript>: I should have thought about just thought outside the box a little bit before this. So Amazon API gateway. I don't know the family's that they belong to, though right now.
+
+02:59:41
+<transcript>: Is part of the problem.
+
+02:59:41
+<transcript>: i could determine
+
+02:59:47
+<transcript>: I could determine it from the background color. Okay. So I could put in this map. I could put in this map.
+
+02:59:47
+<transcript>: the actual
+
+02:59:52
+<transcript>: The actual background color, and I could render it separately from the SUG. That's what I'm gonna do.
+
+02:59:52
+<transcript>: it's dumb
+
+02:59:58
+<transcript>: It's dumb. I shouldn't have to do that. But that's what I'm gonna do. And I'm not gonna do it right now. Because.
+
+02:59:58
+<transcript>: i got
+
+03:00:00
+<transcript>: I got a run.
+
+03:00:05
+<transcript>: Does that makes sense.
+
+03:00:11
+<transcript>: Does that make sense? I think I can just have the background colors, the gradients.
+
+03:00:11
+<transcript>: stored
+
+03:00:27
+<transcript>: Stored or just the family. I can determine the family of the service based on the color in the SVG and then render the background for the color of the service as I Div with a background color behind the SVG, it's dumb again. Shouldn't have to do that.
+
+03:00:27
+<transcript>: but
+
+03:00:36
+allcliffs: submit a bug fix for chrome LUL
+
+03:00:37
+<transcript>: But I think it'll work. It'll get a round this stupidestvg bug and it allows me to cache the SVG Sprite as a separate asset.
+
+03:00:37
+<transcript>: i think
+
+03:00:38
+<transcript>: I think it all works.
+
+03:00:42
+<transcript>: Submit a bug fix for Chrome. Yeah, I'm not gonna do that.
+
+03:00:49
+<transcript>: Thanks for the follow Mayback it's been normally in the stream and I say it's been fun.
+
+03:00:53
+<transcript>: Maybe we could do it again. Something I don't think today I can say that today it's been.
+
+03:00:53
+<transcript>: painful
+
+03:00:56
+<transcript>: Painful. It's been a challenge.
+
+03:00:59
+<transcript>: But do you have days like this.
+
+03:00:59
+<transcript>: this is just part
+
+03:01:03
+<transcript>: This is just part of it. Every day is not the best day and.
+
+03:01:03
+<transcript>: need to accept
+
+03:01:05
+<transcript>: Need to accept that.
+
+03:01:05
+<transcript>: but
+
+03:01:12
+<transcript>: But it's been nice to have you all here and to interact with you. All that part was fun. Maybe we could do a game sometimes.
+
+03:01:24
+dinksrl: It's been sad and Chrome has used you
+
+03:01:35
+allcliffs: cya

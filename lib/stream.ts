@@ -92,6 +92,12 @@ export const guests: Record<string, Guest> = {
     twitter: "trash__dev",
     image: "./images/trash.jpg",
   },
+  dax: {
+    name: "Dax Raad",
+    ping: "ckyafyuis069108lcmqyto3e7",
+    twitter: "thdxr",
+    image: "./images/thdxr.jpg",
+  },
 }
 
 export default class StreamController {

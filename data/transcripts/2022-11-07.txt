@@ -1,0 +1,2077 @@
+
+
+15:07:31
+adamdotdev: !topic recording an episode of tomorrow.fm with dax
+
+15:08:17
+<transcript>: Subscribe.
+
+15:08:29
+<transcript>: Check.
+
+00:00:48
+<transcript>: One to check, check.
+
+00:01:40
+<transcript>: Hey.
+
+00:01:42
+cowfacedude99: late stream?
+
+00:01:43
+<transcript>: Can you hear me.
+
+00:01:47
+<transcript>: All right.
+
+00:01:50
+<transcript>: I've started the stream just because it takes ten minutes.
+
+00:01:54
+<transcript>: Just trying to get it all set up here.
+
+00:02:00
+<transcript>: I'll put you over here and I need to join Ping.
+
+00:02:14
+<transcript>: This this camera on Riverside is not getting my LUT, so it's all washed out.
+
+00:02:20
+<transcript>: I could fix it. I'm just not going to write this. I guess.
+
+00:02:20
+<transcript>: are you even
+
+00:02:23
+<transcript>: Are you even gonna be looking at paying or you'll just be looking at Riverside.
+
+00:02:29
+<transcript>: Okay, so we want to turn down our volume as much as we can remember.
+
+00:02:29
+<transcript>: that was the thing
+
+00:02:30
+<transcript>: That was the thing.
+
+00:02:39
+<transcript>: Oh, yeah, nice. Oh, can you boost it more even because.
+
+00:02:43
+<transcript>: The the bar still doesn't move that much.
+
+00:02:46
+<transcript>: Trail or more.
+
+00:02:51
+<transcript>: I think it's better.
+
+00:02:51
+<transcript>: you probably do
+
+00:02:52
+<transcript>: You probably do more.
+
+00:02:59
+<transcript>: Like my volume compared to yours on the.
+
+00:03:01
+<transcript>: Thing.
+
+00:03:09
+<transcript>: Why am I so confused right now.
+
+00:03:12
+<transcript>: Can you join the Ping call real quick.
+
+00:03:18
+<transcript>: Oh, sorry Ping GD call Addam.
+
+00:03:22
+<transcript>: I'm gonna mute my audio.
+
+00:03:31
+<transcript>: Oh, yeah, we're not doing the plan scale stuff. Oh, yeah, yeah. We're gonna wait till the blog post for that one.
+
+00:03:37
+<transcript>: We're gonna do he's not got it written yet, but we're gonna do the serverless thing today, right.
+
+00:03:43
+<transcript>: I should tweet.
+
+00:04:09
+<transcript>: And you might want to join the Twitch Stream. I'm going to we'll take a break in the middle.
+
+00:04:23
+<transcript>: Just like interact with chat and then I can put one of my little I've got all these audio bumpers that I never get to use because there's never a good time. Okay. I've added you to Ping. I'm just muteing my audio and turning off my video and Ping.
+
+00:04:23
+<transcript>: i'm
+
+00:04:26
+<transcript>: I'm assuming though we have to have the call going for me to use your embed.
+
+00:04:26
+<transcript>: i could be wrong
+
+00:04:28
+<transcript>: I could be wrong but.
+
+00:04:32
+<transcript>: I'm getting an Echo somehow.
+
+00:04:32
+<transcript>: what
+
+00:04:34
+<transcript>: What is that.
+
+00:04:40
+<transcript>: So confusing.
+
+00:04:40
+<transcript>: oh
+
+00:04:43
+<transcript>: Oh, yeah? Can I.
+
+00:04:48
+<transcript>: Okay. So I can just leave it.
+
+00:04:55
+<transcript>: Yeah. You'll need to have okay. I'm just gonna leave the room. And if you're in the room, you in my room still.
+
+00:04:59
+<transcript>: Cool. Okay. Then that should do that.
+
+00:04:59
+<transcript>: i'm not gonna
+
+00:05:01
+<transcript>: I'm not gonna have it open.
+
+00:05:01
+<transcript>: where we had on
+
+00:05:04
+<transcript>: Where we had on the timer. Five minutes. Okay.
+
+00:05:08
+<transcript>: I think I've got my overlay setup where it should just work.
+
+00:05:14
+<transcript>: With putting you in the overlay. I think we'll see.
+
+00:05:17
+<transcript>: And then we'll hit record.
+
+00:05:17
+<transcript>: after
+
+00:05:20
+<transcript>: After a little intro on Twitch.
+
+00:05:26
+<transcript>: I'm going to call this one.
+
+00:05:30
+<transcript>: Instead.
+
+00:05:35
+<transcript>: Okay. So could you talk again.
+
+00:05:39
+<transcript>: I'm just going to turn my volume way down.
+
+00:05:45
+<transcript>: Check, check? Yeah, I think we're good.
+
+00:05:55
+<transcript>: Anything you'll talk about before we have other people listening to us, presumably, some people will join. I don't know. This is not a time I know my stream.
+
+00:06:18
+<transcript>: Wait. What's the pseudo serverless stuff.
+
+00:06:25
+<transcript>: Oh Yeah.
+
+00:06:25
+<transcript>: yeah
+
+00:06:27
+<transcript>: Yeah, I did see that.
+
+00:06:37
+<transcript>: Yeah.
+
+00:06:49
+<transcript>: The serverless is dead is the main thing was on my mind with the chrismoons.
+
+00:06:54
+<transcript>: Are not as dead, but.
+
+00:06:59
+<transcript>: Just his I mean coming from the startup position is AWS season.
+
+00:06:59
+<transcript>: it's an
+
+00:06:59
+vim_cerf: blobDance blobDance
+
+00:07:01
+<transcript>: It's an interesting tweet.
+
+00:07:06
+<transcript>: Yeah, exactly.
+
+00:07:15
+<transcript>: I'm trying to think of this music's gonna be distracting, but it won't be there won't be music.
+
+00:07:26
+<transcript>: Once we start, I don't know why this is no confusing to me. It's still I have. This whole thing is so, like, duct tape and wires. And like, every time I hit a button, I'm like, Wait, what's that gonna do.
+
+00:07:26
+<transcript>: okay
+
+00:07:27
+<transcript>: Okay.
+
+00:07:32
+<transcript>: Yeah.
+
+00:07:37
+<transcript>: I have to start like four applications before I start the stream.
+
+00:07:52
+<transcript>: Okay, so just general topic is the seam of this episode serverless happenings. We can talk about things we hope happen at reinvent with serverless maybe.
+
+00:08:00
+<transcript>: Yeah, no, I love it. It's very clickbaity.
+
+00:08:08
+<transcript>: Are we just recording one episode? Probably.
+
+00:08:10
+<transcript>: Yeah.
+
+00:08:10
+<transcript>: primes
+
+00:08:13
+<transcript>: Primes. I think prime streaming Today at ten.
+
+00:08:19
+<transcript>: I'm building this. Oh, this is kind of a service topic I'm trying to build. I'm sorry. This morning.
+
+00:08:22
+<transcript>: I got Twitter, API, clone.
+
+00:08:31
+<transcript>: With Just serverless. It's like the premise, I think, is now like, what can you do with Just serverless? And like, what are the response times.
+
+00:08:37
+<transcript>: Was the global picture look like so I'm building with like kind of my traditional stack with AppSync and VTL.
+
+00:08:37
+<transcript>: and just seeing
+
+00:08:45
+<transcript>: And just seeing how many services limits I hit on the road to like 100 concurrent and then 1000 concurrent tweets like per second.
+
+00:08:54
+<transcript>: I am I've got like $7,000 in credits. And I think if I'm just doing it for short while, I can get away with it. I've done some napkin math. Like it's like.
+
+00:08:54
+<transcript>: hundreds of
+
+00:09:00
+<transcript>: Hundreds of month. I wouldn't want to run this thing for a long, but it's like not that much for an hour.
+
+00:09:02
+<transcript>: So.
+
+00:09:02
+<transcript>: yeah
+
+00:09:08
+<transcript>: Yeah, I'm gonna run it like I'm just gonna break through the credits. Some of them expire at the end of the year, like, I've got to use them.
+
+00:09:14
+<transcript>: But I'm realizing all these things. What's that.
+
+00:09:16
+<transcript>: Yeah.
+
+00:09:16
+<transcript>: i would
+
+00:09:18
+<transcript>: I would.
+
+00:09:18
+<transcript>: and
+
+00:09:21
+<transcript>: And I don't know what their billing would look like, too.
+
+00:09:21
+<transcript>: if i
+
+00:09:26
+<transcript>: If I start hitting them, I don't have the credit picture to forgive.
+
+00:09:34
+<transcript>: But I'm realizing certain services like Secrets Manager, there is no it's a hard cap at 50 requests per second.
+
+00:09:43
+<transcript>: On get secret value. I think that's going to be fine, but, well, I guess that's probably per region. No, it might not be per region. I'm not sure.
+
+00:09:43
+<transcript>: so i'm
+
+00:09:45
+<transcript>: So I'm spreading this over multiple regions.
+
+00:09:53
+<transcript>: Oh, Way better.
+
+00:10:02
+<transcript>: So that makes sense. Maybe that's the kind of thing I'll learn. Like, in this video will be an interesting exercise. And like, what can't you do? What services can and can't.
+
+00:10:02
+<transcript>: behave
+
+00:10:05
+<transcript>: Behave well at that size at scale.
+
+00:10:05
+<transcript>: but it's
+
+00:10:09
+<transcript>: But it's kind of like I've always made this claim that, like.
+
+00:10:09
+<transcript>: you can
+
+00:10:13
+<transcript>: You can build anything that scales indefinitely.
+
+00:10:13
+<transcript>: with serverless
+
+00:10:18
+<transcript>: With serverless and like, I've never tested any of this stuff. Like at those extreme levels.
+
+00:10:22
+<transcript>: Yeah, I don't know. I don't know what service.
+
+00:10:29
+<transcript>: Right.
+
+00:10:32
+<transcript>: Come on, load your image.
+
+00:10:32
+<transcript>: okay
+
+00:10:34
+<transcript>: Okay. Come on. Oh, it hurts.
+
+00:10:39
+<transcript>: Why didn't the image work? I wonder.
+
+00:10:44
+<transcript>: It's just a file on my file system. I think.
+
+00:10:51
+<transcript>: The faceless. Dax. Alright, well, here we go. I'm gonna take us in. I guess I'll just be watching.
+
+00:10:51
+<transcript>: when we take a break
+
+00:10:54
+<transcript>: When we take a break, we'll kind of catch up on chat.
+
+00:11:01
+<transcript>: Oh, boy, did I hit all the buttons? Did I do it right.
+
+00:11:01
+<transcript>: stacked here
+
+00:11:02
+<transcript>: Stacked here.
+
+00:11:03
+<transcript>: Oh.
+
+00:11:07
+<transcript>: You're a black screen. Hang on.
+
+00:11:10
+<transcript>: I mean, hey, Everybody, but hang on.
+
+00:11:10
+<transcript>: i
+
+00:11:12
+<transcript>: I wonder.
+
+00:11:12
+<transcript>: if i have to be
+
+00:11:15
+<transcript>: If I have to be in the call DAX. So I have to be on the pin call.
+
+00:11:16
+schrew: gm! love a black screen!
+
+00:11:18
+trash_dev: R I P
+
+00:11:18
+<transcript>: I'm joining.
+
+00:11:22
+<transcript>: The bummer so.
+
+00:11:23
+tayloreddev: into the black abyss we stare LUL
+
+00:11:30
+<transcript>: Okay. I'm muting that.
+
+00:11:30
+<transcript>: and still mess
+
+00:11:32
+<transcript>: And still messing.
+
+00:11:35
+<transcript>: Let's see what's the problem.
+
+00:11:47
+<transcript>: Oh, maybe let's let me try copying a new let's see, copy and bed link. Let's do this the manual way. I've got like a redirect in my.
+
+00:11:49
+trash_dev: it’s cause I’m here
+
+00:11:51
+<transcript>: In my overlay app.
+
+00:11:56
+<transcript>: And my kids just decide to start freaking out. They're screaming so loud.
+
+00:11:58
+<transcript>: Where is that camera.
+
+00:11:58
+<transcript>: it's this
+
+00:12:02
+<transcript>: It's this one. Yeah. Here we go. Okay. We'll try this.
+
+00:12:06
+<transcript>: I have to say, like an audio true or something.
+
+00:12:09
+<transcript>: That's right.
+
+00:12:12
+<transcript>: Okay.
+
+00:12:12
+<transcript>: i could
+
+00:12:14
+<transcript>: I could probably just refresh.
+
+00:12:14
+<transcript>: there he is
+
+00:12:17
+<transcript>: There he is. It's DAX.
+
+00:12:17
+<transcript>: trash
+
+00:12:22
+<transcript>: Trash is here. It's contrash is here. It's broken because you're here.
+
+00:12:26
+<transcript>: It's working? Yeah. I don't know if they can hear you.
+
+00:12:32
+<transcript>: Say something, say something again.
+
+00:12:32
+trash_dev: Can’t hear him
+
+00:12:33
+tayloreddev: no sound
+
+00:12:33
+vim_cerf: Can't her Dax :(
+
+00:12:35
+<transcript>: I don't yeah, I don't see your camera.
+
+00:12:36
+bigdiff___: we can hear dax
+
+00:12:41
+assertionbit: No sound
+
+00:12:42
+<transcript>: Can't hear DAX. Hang on. Oh, I got the Param wrong. I'm sure. Let me actually go back here.
+
+00:12:44
+bigdiff___: can't
+
+00:12:44
+<transcript>: And.
+
+00:12:44
+<transcript>: thought i could just
+
+00:12:46
+monciego: We can't hear dax
+
+00:12:46
+<transcript>: Thought I could just undo.
+
+00:12:49
+<transcript>: I did I did hang on.
+
+00:12:54
+<transcript>: Ping guests refresh cache. Let's try that.
+
+00:12:56
+<transcript>: Let's try that.
+
+00:12:56
+<transcript>: come on
+
+00:12:58
+<transcript>: Come on.
+
+00:13:00
+<transcript>: No.
+
+00:13:10
+<transcript>: Okay. I got to look up the hang on. Kind of like open Neil them and stuff.
+
+00:13:12
+<transcript>: Bummer.
+
+00:13:15
+<transcript>: Let's do like that.
+
+00:13:24
+thdxr: because I have nothing to say
+
+00:13:25
+<transcript>: Guests.
+
+00:13:28
+<transcript>: Nothing to see here people.
+
+00:13:30
+<transcript>: Nothing to see.
+
+00:13:36
+<transcript>: Let's see.
+
+00:13:37
+sockthedev: adam's hair? what?
+
+00:13:45
+<transcript>: What did I mess up? It also didn't load your images image. Which was a bummer. I maybe just messed up your THD XR.
+
+00:13:50
+vim_cerf: can't tell if new haircut or just extra fluffy
+
+00:13:50
+<transcript>: Oh, wow, someone's following over this.
+
+00:13:54
+<transcript>: Thank you for the follow Jack O lab.
+
+00:13:58
+<transcript>: Extra Fluffy Adams Here is extra fluffy today.
+
+00:14:02
+<transcript>: Does it okay. Well.
+
+00:14:02
+<transcript>: we'll see
+
+00:14:08
+<transcript>: We'll see my wife. My wife wants me to oh, this look good. How about this.
+
+00:14:14
+<transcript>: What am I looking for? I'm trying to see. Oh, yeah, Ping, let's see. Ping, GG.
+
+00:14:14
+<transcript>: it is
+
+00:14:16
+<transcript>: It is.
+
+00:14:16
+<transcript>: view
+
+00:14:17
+<transcript>: View.
+
+00:14:17
+<transcript>: and
+
+00:14:18
+<transcript>: And.
+
+00:14:26
+<transcript>: Audio on. I did audio, true, but it's audio on. We're gonna get this.
+
+00:14:28
+<transcript>: Guest.
+
+00:14:28
+<transcript>: ping
+
+00:14:32
+<transcript>: Ping I might just be able to fix it actually.
+
+00:14:40
+<transcript>: Thing is CL six QID. Okay, I gotta see. Where is your Ping? Where's our Ping call? There's so many things going on here. We're trying to record a podcast.
+
+00:14:42
+<transcript>: Trying to.
+
+00:14:58
+<transcript>: That is too funny.
+
+00:14:58
+<transcript>: okay
+
+00:15:00
+<transcript>: Okay, I updated this.
+
+00:15:03
+<transcript>: Now if I refresh this, maybe.
+
+00:15:10
+<transcript>: Oh, no, I'm going to have to restart the thing.
+
+00:15:13
+<transcript>: For close people, we're close.
+
+00:15:34
+<transcript>: With JavaScript.
+
+00:15:37
+<transcript>: Everything would be better.
+
+00:15:41
+<transcript>: There's like stream elements.
+
+00:15:45
+<transcript>: I don't know how I feel about it. I tried it.
+
+00:15:45
+<transcript>: okay
+
+00:15:48
+<transcript>: Okay, I'm refreshing the browser source.
+
+00:15:48
+<transcript>: still nothing
+
+00:15:49
+<transcript>: Still nothing.
+
+00:15:52
+sargath666: hail @adamdotdev
+
+00:16:00
+<transcript>: Okay. I'm gonna copy your thing directly in. I don't know what's going on with my.
+
+00:16:15
+<transcript>: Audio equal on we're gonna be good now I know this will work. I just don't know what happened. Why broke this feature in my overlays. Okay.
+
+00:16:15
+<transcript>: can everybody
+
+00:16:17
+<transcript>: Can. Everybody here? Dax. Now.
+
+00:16:23
+<transcript>: Yeah. See? Bars moving. I think we can hear you now.
+
+00:16:23
+vim_cerf: Yep!
+
+00:16:24
+bigdiff___: yup
+
+00:16:25
+<transcript>: Alright.
+
+00:16:27
+<transcript>: Let's see.
+
+00:16:27
+<transcript>: i'm just
+
+00:16:28
+tayloreddev: hey dax
+
+00:16:46
+<transcript>: I'm just catching up on chat. So we're gonna record a podcast. We'll probably be like, until we take a break, we'll take a break in the middle. But until we're taking a break, we'll probably not be interacting much on chat just because, like, they don't have to edit it out. It's more work. Like if I'm like, hey, Calf face, remember that time you taught me everything about Neil them? Then I'll have to go back and cut that out because the podcast, no one will understand what I'm talking, what I'm talking about.
+
+00:16:46
+<transcript>: but
+
+00:16:55
+<transcript>: But welcome everybody. I see cow faces here in Vim serf and Shrew is here and Trash was here. I don't know if he still is. Taylor was here.
+
+00:16:57
+marcelfahle: Hey everybody 👋
+
+00:16:58
+<transcript>: Big dish.
+
+00:16:58
+<transcript>: welcome to shad
+
+00:17:00
+<transcript>: Welcome to Shad Assertion bit.
+
+00:17:00
+<transcript>: and monsie
+
+00:17:03
+trash_dev: I’m here
+
+00:17:05
+<transcript>: And Monsiego is here sock. The Dev is here talking about my hair.
+
+00:17:05
+<transcript>: okay
+
+00:17:05
+trash_dev: Making breakfast
+
+00:17:09
+<transcript>: Okay. Sargass is here. Okay. Here we go.
+
+00:17:15
+<transcript>: Marcella is here. Okay, I'm done, I'm done. Trash is making breakfast. Let's record a podcast.
+
+00:17:17
+oetziofficial: hello :)
+
+00:17:22
+<transcript>: See if I configure this out, I'm gonna record in Riverside.
+
+00:17:26
+<transcript>: As your audio still coming in on Riverside, I guess just doublecheck that.
+
+00:17:26
+<transcript>: yep
+
+00:17:29
+<transcript>: Yep. Cool. Okay.
+
+00:17:29
+<transcript>: okay
+
+00:17:31
+<transcript>: Okay, I'm gonna hit the record button. X.
+
+00:17:31
+<transcript>: what i want
+
+00:17:39
+<transcript>: What I want to ask it's being I've been trying to like, have a theme where one of us asks us, Is that a Patagonia hat? That's a nice app. I like that.
+
+00:17:40
+assertionbit: Hi there!
+
+00:17:42
+<transcript>: We're one of us, like.
+
+00:17:42
+<transcript>: have i
+
+00:17:44
+<transcript>: Have I really okay say.
+
+00:17:46
+<transcript>: Like.
+
+00:17:54
+<transcript>: Yeah, that's generally what I say. Like, I think I just listen to the one where I was, like, hey, did you see the DHH post.
+
+00:17:58
+<transcript>: So, hey, did you see the Chris moons.
+
+00:17:58
+<transcript>: tweet
+
+00:18:00
+<transcript>: Tweet do we start with that.
+
+00:18:08
+<transcript>: All right, here we go. My drink. My hot drink is no longer hot.
+
+00:18:08
+<transcript>: and that makes me sad
+
+00:18:09
+<transcript>: And that makes me sad.
+
+00:18:15
+<transcript>: Hey.
+
+00:18:19
+<transcript>: Chris Moon Suite serverless is dead.
+
+00:18:45
+<transcript>: Yeah. I kind of felt like everything I thought was true is now false. It just shattered my entire worldview in technology.
+
+00:18:45
+<transcript>: and
+
+00:19:01
+vim_cerf: PopCorn hypComfy
+
+00:19:06
+<transcript>: And it took for some context. Chris is one a great guy. So Chris, if we say anything that sounds like we think you're wrong on this podcast because we might say something that we I don't know. We'll see you're a great guy. We love you, Chris, but Chris is like, involved with Startups at AWS, right? He like, he does a lot. He works with a lot of startups.
+
+00:19:06
+<transcript>: from the
+
+00:19:06
+fredkisss: What is the link of the thread ?
+
+00:19:14
+<transcript>: From the AWS side. So he sees what people actually use in startup land. And like his whole thing is basically like.
+
+00:19:22
+<transcript>: Startups don't really use serverless or at least not pure serverless. Maybe we should define pure serverless because that is an important note in this whole conversation.
+
+00:19:37
+trash_dev: I think it’s on his Twitter
+
+00:20:07
+<transcript>: The moment I have to create a VPC or I guess use the default VPC. I'm just pretty upset. So pure serverless is sort of like I thought just a default a way of operating when you're building.
+
+00:20:07
+<transcript>: any new products
+
+00:20:27
+<transcript>: Any new products, especially for startups. I know that that's not the case. Like, I know having worked with a lot of startups, they're mostly still building Rails apps. Like, I get that. But I thought, like, if you were in serverless, you were pretty well defaulting to Pure serverless. That was just like, assumed in my mind. So do you think there's a lot of, like, this hybrid stuff out there? Is that what he's kind of implying.
+
+00:20:51
+<transcript>: Kind of to start that way. Right.
+
+00:20:57
+fredkisss: Is this about the one engineer of basecamp who said that they completely changed to custom servers ?
+
+00:21:01
+<transcript>: Those are a few.
+
+00:21:01
+<transcript>: for pure
+
+00:21:07
+<transcript>: For pure serverless is he is he right? Is it dead and it's not coming back because he implies that it is not ever gonna be a thing.
+
+00:21:20
+adamdotdev: https://twitter.com/chrismunns/status/1588614836040372224?s=20&t=FH9LSYcll3Yd6hkUCJWpiQ
+
+00:21:58
+<transcript>: Right.
+
+00:22:01
+<transcript>: Yeah, and Chris also.
+
+00:22:01
+<transcript>: he's
+
+00:22:06
+jaystation3x: Having looked at hundreds or perhaps thousands of job postings over the last few months I can say that pure serverless does not show up at all. However, feel like it is still just emerging. Engineering leadership is old. The people calling the shots aren't there yet. Could be a decade or more.
+
+00:22:10
+<transcript>: He's very involved with starting up todaybis now. But before that he was like the big face of Serverless at a Tobis right. What was his title then? He was like a developer. Something.
+
+00:22:10
+<transcript>: relations
+
+00:22:11
+<transcript>: Relations.
+
+00:22:14
+<transcript>: Like that's. All he did, right was serverless.
+
+00:23:25
+<transcript>: Yeah.
+
+00:23:49
+sockthedev: well said dax.
+
+00:24:03
+<transcript>: And that I think that's the biggest bummer is the feeling that if it's coming from AWS.
+
+00:24:03
+<transcript>: that
+
+00:24:11
+<transcript>: That like that impacts product decisions, roadmap. I mean, they're so driven off of what customers are asking for and what customers are needing and using.
+
+00:24:11
+<transcript>: so to think
+
+00:24:16
+<transcript>: So to think that that trend. I remember it was Chris. Even I remember an interaction on Twitter.
+
+00:24:16
+<transcript>: like
+
+00:24:20
+<transcript>: Like a year ago. I think it was leading up to reinvent last year.
+
+00:24:20
+<transcript>: where
+
+00:24:27
+<transcript>: Where some sort of similar thread was going on. And I sort of asked Chris on Twitter. I had to find it.
+
+00:24:38
+<transcript>: Like is it feels like serverless is slow moving, like we're just having a hard time making progress as a community. Like, it's just not that it's not moving in the direction and the speed, I would think.
+
+00:24:38
+<transcript>: is there any
+
+00:24:50
+<transcript>: Is there any chance that AWS isn't prioritize it it was something exactly along these lines. And he said that AWS was like the biggest customer, like in terms internally, they use so many serverless offerings for things that they build.
+
+00:24:50
+<transcript>: so that
+
+00:24:51
+<transcript>: So that it was like.
+
+00:24:51
+<transcript>: just
+
+00:25:09
+<transcript>: Just on that front alone, a huge priority. And to your point, like we've had at every reinvent Sheen Bristles is up there, like talking about Legos transformation. And you just kind of felt like that was, you know, the future in the every reinvent would be seeing more and more progress towards a more serverless future.
+
+00:25:09
+<transcript>: so
+
+00:25:16
+<transcript>: So it's all very depressing. If now AWS is like internally people who were big Champions and serverless are fresh.
+
+00:25:16
+<transcript>: the adopt
+
+00:25:33
+<transcript>: The adoption is just not there. And they're sort of giving up and saying, it's gonna be this weird mishmash of using services that aren't because I just hope, like, we're just a few things away, like search. And like, they're gonna hit a couple more of these buckets, and we're gonna have everything we need to build anything you can imagine with serverless first stuff.
+
+00:25:37
+<transcript>: But yeah, maybe it's the tides are turning. I don't like it.
+
+00:25:37
+<transcript>: i don't like it
+
+00:25:39
+<transcript>: I don't like it.
+
+00:26:14
+<transcript>: Yeah.
+
+00:26:21
+sockthedev: other platforms are heavily invested in serverless and dx around that though right. aws is falling behind...
+
+00:26:23
+<transcript>: The Aurora service.
+
+00:26:38
+<transcript>: Yeah, of that big batch that they launched last Reinvent. There were like, four of those analysts.
+
+00:26:38
+<transcript>: offerings
+
+00:26:46
+<transcript>: Offerings that got serverless options. And they all were kind of like a mixed bag of Is that serverless? Like, how managed is it.
+
+00:27:03
+<transcript>: Yeah.
+
+00:27:11
+sargath666: spins up not optimized app on lambda - and your balance goes brrrrrrr :)
+
+00:27:23
+<transcript>: Oh, Wow.
+
+00:27:38
+neondactyl: hiya folks
+
+00:27:47
+<transcript>: So maybe the yeah, maybe the third party ecosystem.
+
+00:27:47
+<transcript>: is enough
+
+00:27:53
+<transcript>: Is enough. And maybe this is just part of like a Tobis isn't great at building the vertical.
+
+00:27:53
+<transcript>: developer
+
+00:27:57
+<transcript>: Developer Experiences is Serverless just sort of a flavor of that.
+
+00:27:57
+<transcript>: is this
+
+00:28:15
+<transcript>: Is this really going to take the community building on top of the more traditional, primitives the AWS builds and launching startups that Survive, like the ones that survive will give us all that we need because yeah, Planet Scale is looking really good these days. And I think from a serverless perspective.
+
+00:28:18
+<transcript>: I choose it any day over Aurora service.
+
+00:28:18
+<transcript>: v one or v two
+
+00:28:20
+<transcript>: V. One or V. Two.
+
+00:28:27
+<transcript>: If you need Postgres I guess then there's neon and I don't know like there's some companies sprouting up for all these things.
+
+00:28:37
+<transcript>: Different degrees of serverless, I guess. But that is all the serverless is, I guess, is just sort of like managed services. It doesn't have to be all in your AWS account.
+
+00:28:37
+<transcript>: right
+
+00:28:39
+<transcript>: Right.
+
+00:28:49
+<transcript>: Yeah.
+
+00:28:55
+<transcript>: So I guess.
+
+00:28:55
+<transcript>: i'm
+
+00:28:58
+<transcript>: I'm building. I'm building something.
+
+00:28:58
+<transcript>: with
+
+00:29:01
+<transcript>: With serverless. And I want to test like.
+
+00:29:01
+<transcript>: this is
+
+00:29:04
+<transcript>: This is a dumb idea. I had just kind of over the weekend.
+
+00:29:15
+<transcript>: But like thinking about the limits of what you can build with serverless in terms of, like, a lot of people wanted on the container side. Oh, that's another topic I want to hit. We'll do that after we take a break.
+
+00:29:25
+<transcript>: Like on the containerization side, people want to throw rocks at serverless and say, like cold starts and does it really scale? Like I.
+
+00:29:27
+<transcript>: Serverless is that.
+
+00:29:27
+<transcript>: it's on demand
+
+00:29:45
+<transcript>: It's on demand. It's like all elastic. You're never like, provisioning anything. It's autoscaling. But we all know that there are actual limits in your AWS accounts for how many, like, concurrent Lambda functions can be executing that sort of thing. So I'm trying to build, like, what is the biggest scale thing I'm using, like, a Twitter clone.
+
+00:30:03
+<transcript>: Like with serverless only things. How how many tweets per second? How many transactions per second can we push with serverless? I'm doing it this week. So it's kind of in line with what we're doing, what we're talking about here, like, what is serverless good for? What is it not my thought was that it was good for everything and that it's just the future.
+
+00:30:03
+<transcript>: we're still
+
+00:30:17
+<transcript>: We're still building the developer experience. That part's not there, but like from a runtime perspective, from like your app actually living in the cloud felt like there are no limits to you know what you can build with serverless. Do you have thoughts on any of that.
+
+00:30:31
+<transcript>: It's all going to be in a single database account. It'll be in separate regions, which I think is fine because Twitter is global. So like if I'm trying to mimic a Twist or API.
+
+00:30:31
+<transcript>: having it
+
+00:30:35
+<transcript>: Having it spread across six regions.
+
+00:30:35
+<transcript>: it
+
+00:30:45
+<transcript>: It's sort of like represents a global API that Twitter is, but that gets around some of the limits, like the Per region, concurrency, limits and stuff.
+
+00:30:54
+<transcript>: I don't think the Lambda function ones are, but I know like the AppSync, so I'm using app sync. And like app sync.
+
+00:30:54
+<transcript>: operations
+
+00:31:05
+<transcript>: Operations some mutations and queries those are per region. So I'm going through the process trying to like, increase all the limits and get all the quotas up for this experiment. But.
+
+00:31:12
+<transcript>: Yeah, I don't know. I think you can build any thing with serverless and I think like Simon Wordley we mentioned on a passpodcast. Like.
+
+00:31:12
+<transcript>: that the people
+
+00:31:16
+<transcript>: That the people who can't build with serverless should be the edge case.
+
+00:31:16
+<transcript>: and
+
+00:31:22
+<transcript>: And I hope that's still true. I hope we're not gonna be super disappointed at reinvent because AWS doesn't care anymore.
+
+00:31:51
+<transcript>: Yeah.
+
+00:32:02
+<transcript>: I am. Yeah, I wasn't going to try this with a sequel based state base. I just don't think it makes sense.
+
+00:32:02
+<transcript>: from like a
+
+00:32:10
+<transcript>: From like a hundred thousand tweets per second perspective. But if you think about even just 100 tweets per second.
+
+00:32:10
+<transcript>: dynamo
+
+00:32:15
+<transcript>: Dynamo has like an 800 with OnDemand pricing and 800.
+
+00:32:15
+<transcript>: right
+
+00:32:16
+<transcript>: Right.
+
+00:32:16
+<transcript>: the
+
+00:32:21
+<transcript>: The BCU's. What does that stand for? Right. Capacity units.
+
+00:32:21
+<transcript>: so per second
+
+00:32:26
+<transcript>: So per second 80,000. That's a like a soft limit. It can be raised.
+
+00:32:26
+<transcript>: but
+
+00:32:29
+<transcript>: But like one tweet being added to a database.
+
+00:32:29
+<transcript>: ultimately
+
+00:32:37
+<transcript>: Ultimately has like a lot of downstream things also being written to the database. So you have to write those to everyone's timelines and all that. I mean, I think that's the best architecture.
+
+00:32:37
+<transcript>: so i don't know
+
+00:32:38
+neondactyl: My desktop handles 69,420 tweets per second Kappa
+
+00:32:48
+oskrm: how expensive would 80k/s ?
+
+00:32:55
+<transcript>: So I don't know. It's gonna be really interesting to see, like what falls over fastest, what can't scale? Because some of these services has hard limits. Like you can't do more than 5000 secret value reads per second in Secrets Managers. So can I even use Secrets Manager those types of questions it's gonna be fun to see.
+
+00:33:03
+<transcript>: Oh, yeah. No. It's gonna like the whole premise is gonna be.
+
+00:33:03
+<transcript>: can it sustain
+
+00:33:10
+<transcript>: Can it sustain 10,1000 tweets per second with people still fetching their timeline in a performant way.
+
+00:33:10
+<transcript>: basically mimic
+
+00:33:23
+<transcript>: Basically mimic as much of the core Twitter functionality as possible, not thinking about DMs or anything like that, but I don't know, just this whole, like Elon Bot, Twitter, and everyone's upset. And then you just there's. The fever pitch around Twitter clones is even higher than ever.
+
+00:33:23
+<transcript>: i just
+
+00:33:34
+<transcript>: I just started thinking about, like, could you build a single engineer, build a Twitter clone on serverless tech and, AWS, what would it cost to run it? Like, just kind of getting into the cost and pricing conversation with serverless.
+
+00:33:39
+<transcript>: Yeah, I don't know. My mind is going in a million miles now right now, but.
+
+00:33:51
+<transcript>: Yeah.
+
+00:34:00
+<transcript>: I'm going to actually try and build it because I'm trying to make a YouTube video this week of it. I mean, just the process and what I learned.
+
+00:34:00
+<transcript>: but it's really
+
+00:34:15
+<transcript>: But it's really more like Teding, I think the serverless limits. Like, what can you do with serverless? Because obviously, if you start running containers and things like that, it gets easier to manage more expensive, probably. But.
+
+00:34:26
+<transcript>: Yeah.
+
+00:34:35
+<transcript>: Twitter does.
+
+00:34:43
+<transcript>: Yeah it might all fail.
+
+00:35:01
+alan__rice: are you gonna keep streaming if you sell it for 44 billion?
+
+00:35:09
+<transcript>: Yep.
+
+00:35:11
+neondactyl: @alan__rice KEKW
+
+00:35:41
+oskrm: @alan__rice he would turn into crypto streaming
+
+00:35:55
+<transcript>: It's kind of like testing some of these quotas that are published, like, I'm just curious what starts falling over. But I know, like, I know the services that will be involved. So it is just a handful of services that you have to think about and what quotas will be hit. But this is like a big thing I think about, like, the idea of.
+
+00:35:59
+<transcript>: I totally blanked. I don't know serverless.
+
+00:35:59
+<transcript>: something
+
+00:36:02
+<transcript>: Something I don't know. This is a good time. Let's take a break.
+
+00:36:07
+<transcript>: I wanted to catch up. I saw Jay was in chat.
+
+00:36:07
+<transcript>: no there was something
+
+00:36:10
+neondactyl: He'd build a serverless twitch clone the next weekend and start streaming there
+
+00:36:12
+<transcript>: No, there was something I gotta remember what I was gonna say about that though, because there was something.
+
+00:36:14
+<transcript>: You said.
+
+00:36:14
+<transcript>: oh yeah yeah
+
+00:36:16
+<transcript>: Oh, yeah, yeah? The scaling.
+
+00:36:16
+<transcript>: like
+
+00:36:29
+<transcript>: Like from nothing to big scale. I think that's we'll talk about after the break, but I think that's one of my biggest points with serverless. I know the developer experience isn't there, but if the developer experience were there, why are people sacrificing.
+
+00:36:31
+<transcript>: The long term.
+
+00:36:31
+<transcript>: to build something
+
+00:36:37
+<transcript>: To build something fast and get it up there. I don't think you have to with Tech today. That's like a big point of mine. Okay. I want to read some chat.
+
+00:36:45
+<transcript>: J Station Hey, Jay, having looked at hundreds or perhaps thousands of job posts over the last few months, I can say pure service does not show up at all. However.
+
+00:36:55
+<transcript>: Feel like it's still just emerging. Engineering leadership is old people calling shots right there yet could be a decade or more Oof. Nice to the chest.
+
+00:36:55
+<transcript>: decade
+
+00:36:57
+<transcript>: Decade Ouch.
+
+00:36:59
+<transcript>: Other platform.
+
+00:37:05
+<transcript>: What's that toy? Oh, yeah. To keep pushing the Boulder for a decade.
+
+00:37:15
+<transcript>: Yeah.
+
+00:37:32
+<transcript>: Okay, so we're back from break. Let's just get into this because that is something that's interesting to me. Is serverless more adopted from an enterprise standpoint.
+
+00:37:32
+<transcript>: than it is
+
+00:37:38
+<transcript>: Than it is in the service. Chris is in the serverless space. I'm sorry. In the startup space.
+
+00:37:38
+<transcript>: is this just
+
+00:37:40
+<transcript>: Is this just like.
+
+00:37:40
+<transcript>: it's going to take
+
+00:37:45
+<transcript>: It's going to take Enterprise pushing this Boulder forward. Are they gonna see the benefits.
+
+00:37:45
+<transcript>: it seems unlikely
+
+00:37:47
+<transcript>: It seems unlikely, but.
+
+00:38:15
+<transcript>: Right.
+
+00:38:27
+<transcript>: Yeah.
+
+00:38:51
+<transcript>: That's an interesting thought. That, like what is the breakdown at AWS in terms of people focused on enterprise versus startups.
+
+00:38:51
+<transcript>: i mean
+
+00:39:04
+<transcript>: I mean, obviously the majority of their business is Enterprise and we've heard it before, even lastriend. But I remember some of the commentary after Reinvent last year was about how it's very clear. Aws just cares about Enterprise and the smaller use cases.
+
+00:39:04
+<transcript>: aren't as interesting
+
+00:39:12
+alan__rice: @NeonDactyl from the yacht
+
+00:39:12
+<transcript>: Aren't as interesting to them. I just it's weird to me because I think of AWS is being this best place to build your startup.
+
+00:39:12
+<transcript>: is that just
+
+00:39:20
+<transcript>: Is that just me looking through AWS glasses, like I just. Everything is a nail because I know there's a hammer.
+
+00:39:22
+neondactyl: @NeonDactyl LUL
+
+00:39:58
+neondactyl: My company uses azure; and my team in particular uses App Service via containers
+
+00:40:38
+<transcript>: Yeah, and it just makes our situation building things more fractured and disparate, like we're having to use more and more pieces. Like it makes it feel less likely that we're gonna get a really good serverless search offering from AWS. We're gonna have to use the thing that the community builds.
+
+00:40:38
+<transcript>: that wins out
+
+00:40:44
+<transcript>: That wins out, which is there, I guess. Is it Algolia? What is the like winning search.
+
+00:40:46
+trash_dev: I forget that all those alternatives are using aws 🤣
+
+00:40:53
+<transcript>: Type sense.
+
+00:40:53
+<transcript>: okay
+
+00:40:55
+<transcript>: Okay.
+
+00:41:10
+<transcript>: I know.
+
+00:41:15
+<transcript>: Are they just happy with Elasticsearch or whatever it's called now, clouds. What is it? Cloud search.
+
+00:41:17
+<transcript>: Open search.
+
+00:41:22
+<transcript>: No right? Yeah.
+
+00:41:25
+<transcript>: I don't know, it's a bummer.
+
+00:41:41
+<transcript>: I feel like the more you can leverage, manage stuff, the more leverage in individual developer gets. And I guess that's still true if I'm using Planet Scale versus something built in databus, but it does just add more and more.
+
+00:41:41
+<transcript>: like
+
+00:41:56
+<transcript>: Like complexity and risk, I guess. Like I always feel bad building on any startup that's like a series a startup. You build on their thing and you know, the success rate of it lasting the next decade is like whatever it is, 50% less. I don't know.
+
+00:42:17
+<transcript>: Okay, so serverless is dead. Is that the conclusion.
+
+00:42:19
+<transcript>: My clickbaity title.
+
+00:42:26
+rudixworld: who is dax?
+
+00:42:33
+<transcript>: I don't know what they've raised, but they seem to be doing they're good at things.
+
+00:43:08
+<transcript>: Yeah.
+
+00:43:33
+<transcript>: It does feel painful, though, when I didn't realize planet skills only two years old.
+
+00:43:39
+<transcript>: That kind of blows my mind. They're shipping some really cool stuff.
+
+00:43:39
+<transcript>: and like
+
+00:43:44
+<transcript>: And like they everything they do from marketing perspective, is very polished. They seem older than they are.
+
+00:43:47
+rudixworld: Next got amplify and its serverless,  unfortunately there is not much serverless datbases
+
+00:44:10
+<transcript>: What are your thoughts on.
+
+00:44:10
+<transcript>: someone
+
+00:44:13
+<transcript>: Someone mentioned Amplify. And that just.
+
+00:44:15
+carlosgn: just got laid off from my job, send me good vibes PoroSad
+
+00:44:22
+<transcript>: Started a whole new train of thought for me with regard to service because I mean Amplify does shove you down a path as a web developer where you're building with all this serverless stuff.
+
+00:44:25
+<transcript>: How does it this amplify. Like.
+
+00:44:25
+<transcript>: what
+
+00:44:32
+<transcript>: What is the traction like, how is that work with startups? Do you know of any startups that came from Amplify and they moved SST.
+
+00:44:39
+<transcript>: All right, the ones who don't.
+
+00:44:41
+<transcript>: Yeah.
+
+00:44:49
+<transcript>: Oh, amplify.
+
+00:44:54
+<transcript>: Really so it is getting a lot. I just can't think of startups I know that are building on amplify.
+
+00:45:20
+<transcript>: Yeah.
+
+00:45:34
+<transcript>: It's. Yeah, it's probably a worse version of amplify. I should probably use amplify because I use all the same underlying services, but I write my own VTL because I'm dumb.
+
+00:45:41
+<transcript>: I don't think that's true, but I do think it's.
+
+00:45:41
+<transcript>: a small group
+
+00:45:44
+<transcript>: A small group. There are like four of us on Twitter. We're pretty close.
+
+00:45:53
+<transcript>: Interesting. Okay. Well, I think that's everything I have to say about Chris Moon's kicking this off with that tweet.
+
+00:45:55
+<transcript>: Did you have anything else.
+
+00:45:56
+fragaverage: oh no @carlosgn
+
+00:45:59
+<transcript>: Cool. See you next.
+
+00:46:03
+fragaverage: also hi chat and @adamdotdev and dax!
+
+00:46:04
+<transcript>: We're not leaving. We're still here.
+
+00:46:04
+<transcript>: carlo
+
+00:46:06
+<transcript>: Carlos, I'm so sorry to hear that.
+
+00:46:07
+rudixworld: the awesome thing about amplify is support of lamba@edge
+
+00:46:09
+<transcript>: Good vibes being sent your way.
+
+00:46:23
+<transcript>: It's getting real.
+
+00:46:25
+<transcript>: Fragment here.
+
+00:46:28
+carlosgn: no, was a small startup
+
+00:46:31
+<transcript>: Hey, Frag, awesome thing about Amplify is support for Lambda at edge.
+
+00:46:33
+<transcript>: A small startup.
+
+00:46:40
+carlosgn: it's*
+
+00:46:48
+<transcript>: Yeah. Is this the beginning of the wave? Actually, you have opinions like the Layoffs seem to be intensifying. Is this like where are we at on the curve of what we're gonna see here with layoffs.
+
+00:47:09
+fragaverage: Are we seeing a lot of layoffs? Other than the twitter bs?
+
+00:47:15
+trash_dev: There’s been layoffs constantly it’s just finally hit the big ones
+
+00:47:20
+fragaverage: oh jeez, question answered
+
+00:48:03
+<transcript>: Yeah.
+
+00:48:06
+<transcript>: Interesting.
+
+00:48:07
+trash_dev: Big companies you’re gonna be based on what feature you’re working on
+
+00:48:11
+<transcript>: Well, this was fun recording on Twitch, like on stream.
+
+00:48:16
+<transcript>: This is the first we've recorded a few episodes.
+
+00:48:16
+<transcript>: never
+
+00:48:18
+trash_dev: Vs independent skill
+
+00:48:24
+<transcript>: Never in front of people. It's cool because you guys say stuff in chat. And if I just keep glancing at chat, you give us ideas of things to talk about.
+
+00:48:24
+<transcript>: so i
+
+00:48:26
+<transcript>: So I.
+
+00:48:38
+<transcript>: Think companies are gonna be based on what feature you're working on? Yeah, trash is working at big companies.
+
+00:48:38
+<transcript>: where
+
+00:48:42
+<transcript>: Where did you work before Netflix trash. I just saw this. And I forgot.
+
+00:48:43
+rudixworld: can I ask Next.js question?
+
+00:48:44
+<transcript>: You worked at another big company, right.
+
+00:48:49
+trash_dev: Hulu
+
+00:48:53
+cowfacedude99: twitter india has 50 employees now
+
+00:48:55
+<transcript>: Yeah, Rudyx, go for it. I don't know, DAX, if you need to go, you can just go. But. Okay, Hulu, that's right. That's a big company. Wait, does Disney own Hulu.
+
+00:48:57
+trash_dev: they weren’t too big but Disney acquired them
+
+00:48:57
+<transcript>: Yeah.
+
+00:49:01
+carlosgn: @trash_dev uwu
+
+00:49:04
+sockthedev: @RudixWorld How to migrate from Next to Remix?
+
+00:49:06
+<transcript>: Twitter India has 50 employees now. Did they have a lot cafes before that.
+
+00:49:11
+<transcript>: Oh, yeah. Do you work at Twitter.
+
+00:49:17
+<transcript>: What.
+
+00:49:25
+cowfacedude99: they fired 180 out of 230
+
+00:49:34
+<transcript>: If they fired 180 out of 230, wow. Do you work their cafes? Or you just heard that.
+
+00:49:38
+cowfacedude99: no I don't. unfortunately
+
+00:49:39
+<transcript>: No.
+
+00:49:39
+<transcript>: they went from two
+
+00:49:40
+rudixworld: with the new version of Next 13 there is introduction of Rust ... is it only for the dev environment or it works also in prod?
+
+00:49:41
+<transcript>: They went from 230 to 50.
+
+00:49:43
+<transcript>: She's.
+
+00:49:43
+<transcript>: the new version
+
+00:49:49
+<transcript>: The new version of Next 13 there's introduction of Russ is it only for the Dev environment or it works also.
+
+00:49:49
+<transcript>: so
+
+00:49:54
+<transcript>: So rust is the it's only involved with turbo pack and turbo pack only.
+
+00:49:54
+<transcript>: today
+
+00:49:59
+<transcript>: Today in Alpha only works with your Dev server so it doesn't do production builds yet.
+
+00:50:06
+<transcript>: And I think it's pretty early, even on the Dev server front. I wouldn't necessarily opt into it yet.
+
+00:50:13
+<transcript>: I don't know. Is this to be? See what's SDBC written? Is it written in rust.
+
+00:50:13
+<transcript>: okay so
+
+00:50:19
+<transcript>: Okay, so that's your, like what your transpile step and your minification step.
+
+00:50:19
+<transcript>: and then the
+
+00:50:23
+<transcript>: And then the Bundling step is Turbo pack.
+
+00:50:24
+fragaverage: two millenials wondering what uwu means xD
+
+00:50:34
+<transcript>: Yeah.
+
+00:50:34
+<transcript>: didn't it don
+
+00:50:36
+<transcript>: Didn't. It, Donnie.
+
+00:50:40
+<transcript>: What.
+
+00:50:40
+<transcript>: oh i think i
+
+00:50:42
+sockthedev: He went back to Rust
+
+00:50:46
+<transcript>: Oh, I think I did see him say he's gonna switch over to Rest. I know he had, like done that big debate of Go verse rust.
+
+00:50:58
+trash_dev: Donny or whatever
+
+00:50:58
+<transcript>: Yeah.
+
+00:50:59
+cowfacedude99: I'd wait for about a year for turbopack to use it somewhere.
+
+00:51:05
+<transcript>: Is his name? Donnie.
+
+00:51:09
+<transcript>: Can't find him on Twitter.
+
+00:51:09
+<transcript>: and i
+
+00:51:13
+<transcript>: And I am searching Donnie, which is probably not gonna work.
+
+00:51:17
+<transcript>: Okay.
+
+00:51:24
+<transcript>: There he is.
+
+00:51:24
+<transcript>: i
+
+00:51:28
+<transcript>: I love his avatar. That it's like a photo of a Photo.
+
+00:51:28
+<transcript>: i just love that
+
+00:51:30
+<transcript>: I just love that. So. He. Yeah.
+
+00:51:30
+<transcript>: st
+
+00:51:34
+<transcript>: Stc. So I didn't even know it was gonna be called STC.
+
+00:51:39
+<transcript>: I don't know.
+
+00:51:39
+<transcript>: what was
+
+00:51:42
+<transcript>: What was SWC? What's it stand for.
+
+00:51:44
+<transcript>: It's like.
+
+00:51:44
+<transcript>: i just saw
+
+00:51:46
+<transcript>: I just saw it the other day.
+
+00:51:50
+<transcript>: I don't know.
+
+00:51:53
+<transcript>: Is out of this speedy speedy type checker.
+
+00:51:53
+<transcript>: interesting
+
+00:51:54
+<transcript>: Interesting.
+
+00:52:07
+<transcript>: What Oo means? Oh, no, it's a Gym Z thing. Google, it DAX. What is it? Gin. Zoo.
+
+00:52:07
+<transcript>: oh geez
+
+00:52:09
+<transcript>: Oh, Geez.
+
+00:52:14
+<transcript>: No, I know. We have to. We have to type jinzie, Uhuu, to find out what it means.
+
+00:52:17
+trash_dev: anime thing
+
+00:52:24
+<transcript>: I'm trying to find the answer. I found something. It's like, oh, wow. It's like a big shark.
+
+00:52:25
+<transcript>: No, it's.
+
+00:52:29
+<transcript>: Means cute.
+
+00:52:39
+rudixworld: even its a big step Vercel made with next , AWS is still  unwelcome for it , amplify supports it up to version 11 :(
+
+00:52:39
+schrew: uwu --------------- do not read this message or you will become a weeb ----------------uwu
+
+00:52:42
+<transcript>: Can someone tell us please we give up.
+
+00:52:49
+<transcript>: Anime thing. Okay.
+
+00:52:54
+<transcript>: Even if.
+
+00:52:54
+<transcript>: it's a big
+
+00:53:00
+<transcript>: It's a big step Versail made with Next a Tobis is still unwelcome for it. Amplify supports app to version eleven.
+
+00:53:00
+<transcript>: hey rudics
+
+00:53:02
+<transcript>: Hey, Rudics, just hang tight.
+
+00:53:02
+<transcript>: hang
+
+00:53:08
+<transcript>: Hang tight, I think reinvents right around the corner and there may be some.
+
+00:53:08
+<transcript>: things
+
+00:53:19
+<transcript>: Things in store for hosting next on Amplify OOH spoiler. Do not read this message or you will become a Weeb what's a Weeb Shrew Oh, Geez.
+
+00:53:22
+<transcript>: Oh, really? Okay.
+
+00:53:22
+<transcript>: and
+
+00:53:25
+<transcript>: And UUU is an anime thing.
+
+00:53:28
+<transcript>: I'm learning.
+
+00:53:28
+<transcript>: kind of
+
+00:53:29
+<transcript>: Kind of.
+
+00:53:32
+carlosgn: is it?
+
+00:53:33
+<transcript>: Yeah.
+
+00:53:33
+<transcript>: we're in the wrong
+
+00:53:36
+schrew: Weeb and uwu go hand in hand. Or so I've seen online
+
+00:53:37
+carlosgn: jezz
+
+00:53:47
+rudixworld: uwuntu - this is a thing Kappa
+
+00:53:47
+<transcript>: We're in the wrong corner of the Internet. I think Genziz don't hang out. Where we hang out. Is Twitter like, Boomer, Facebook. Or if, like, Boomers are on Facebook. Our Millennials on Twitter. What is that? Twitter is Millennials, Facebook. Oh, no.
+
+00:53:51
+<transcript>: I do too.
+
+00:53:57
+<transcript>: But that's what my parents say about Facebook. They really love Facebook.
+
+00:54:06
+<transcript>: All right.
+
+00:54:09
+<transcript>: We're gonna get off here now.
+
+00:54:09
+<transcript>: if that's
+
+00:54:11
+<transcript>: If that's okay with you.
+
+00:54:11
+<transcript>: thanks for
+
+00:54:13
+cowfacedude99: insta is millennial's FB I think
+
+00:54:22
+<transcript>: Thanks for recording another one. I'll edit it, put it up there. Thanks for everybody that came to watch us recorded podcasts. I don't know if that's entertaining, but thanks for coming.
+
+00:54:27
+vim_cerf: it was fun
+
+00:54:31
+<transcript>: I guess I'm gonna outra. I guess you guys are gonna raid somebody. I guess this is just a normal Twitch stream. So there you go. I'm gonna hit the button now. Goodbye. Oh, wait.
+
+00:54:31
+<transcript>: it's been fun maybe
+
+00:54:34
+<transcript>: It's been fun. Maybe we could do it again sometime. I always say that.
+
+00:54:40
+mr_yan19: melkeyFistPow melkeyFistPow melkeyFistPow melkeyFistPow
+
+00:54:40
+<transcript>: Who's It rating.
+
+00:54:40
+<transcript>: avers
+
+00:54:41
+<transcript>: Avers.
+
+00:54:43
+<transcript>: averse
+
+00:54:44
+<transcript>: Averse.
+
+00:54:47
+<transcript>: I have it randomly.
+
+00:54:47
+<transcript>: raid
+
+00:54:50
+<transcript>: Raid one of my the people I've follow.
+
+00:54:59
+<transcript>: I just got tired of, like the ending with so many steps, like to end the stream to raid. So I just had it all do it automatically. It feels nice.
+
+00:55:05
+<transcript>: All right.
+
+00:55:05
+<transcript>: let's see
+
+00:55:07
+<transcript>: Let's see.
+
+00:55:12
+<transcript>: That means I have to get on neighbors stream and like, listen to him say.
+
+00:55:20
+<transcript>: How was your stream? What did you work on? And why does everyone do that? If you ever raid someone, they always do that. It drives me nuts.
+
+00:55:23
+<transcript>: Yeah.
+
+00:55:33
+<transcript>: If you raid me, I'm not gonna ask you how it went because no one cares, and you don't want to answer it. And usually if I'm raiding someone, I have to pee really bad. So, like, I just want to get out.
+
+00:55:35
+<transcript>: Yeah.
+
+00:55:39
+<transcript>: Okay.
+
+00:55:45
+<transcript>: Cool. Well, thanks. I know this is not the most efficient.
+
+00:55:52
+<transcript>: Use of that. Like there's a little bit of extra time before and after just doing the whole stream thing. But it's fun.
+
+00:55:56
+<transcript>: Hey, we show this. I didn't even say anything about tomorrow FM.
+
+00:56:00
+<transcript>: I didn't even say, like, please go listen to our podcast.
+
+00:56:02
+<transcript>: Should have probably done that.
+
+00:56:02
+<transcript>: that's terrible
+
+00:56:05
+<transcript>: That's terrible marketing. Why can't I click the button.
+
+00:56:07
+<transcript>: Yeah.
+
+16:08:59
+<transcript>: I don't know if I did the rate or not. It's not letting me click it. There we go. Maybe.
+
+16:08:59
+<transcript>: i don't know
+
+16:09:00
+<transcript>: I don't know.
+
+16:09:04
+<transcript>: Yeah, there we go? Rated.
+
+16:09:04
+<transcript>: done
+
+16:09:08
+<transcript>: Done. Okay. Cool. I'm gonna go piece.
+
+16:09:11
+<transcript>: I gotta close all these things where my mic is hot.
+
+16:09:11
+<transcript>: what
+
+16:09:13
+<transcript>: What is this.
+
+16:09:19
+<transcript>: Averse is leaving or something.
+
+16:09:30
+<transcript>: Okay. Sorry, Dicks. You're having to watch me panic and try and close everything.
+
+16:09:38
+<transcript>: I'm leaving, goodbye.
