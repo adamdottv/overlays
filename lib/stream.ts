@@ -30,6 +30,7 @@ export const songs = [
   "theme-lofi.wav",
   "theme-classical.wav",
   "theme-edm.wav",
+  "theme-tonight-show.wav",
 ]
 
 export const getStreamInfo = async (

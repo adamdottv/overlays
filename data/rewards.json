@@ -2,11 +2,11 @@
   {
     "title": "Giveaway Entry",
     "type": "giveaway-entry",
-    "cost": 300,
+    "cost": 50,
     "enabled": false,
-    "userMax": 4,
+    "userMax": 20,
     "description": "1x entry into the current giveaway.\n\nDon't redeem unless Adam says you can.",
-    "id": "3f1bbe3d-9188-4150-938d-07b8d0bf8f85"
+    "id": "6620c4bb-d777-4572-bf10-443feace043c"
   },
   {
     "title": "Rick Roll",
@@ -14,72 +14,14 @@
     "script": "./scripts/rick-roll.sh",
     "scene": "Screen",
     "cost": 5000,
-    "id": "4cb4876b-f847-4691-806c-07c44ecf9ae1"
-  },
-  {
-    "title": "Sponsored by Ray-Ban",
-    "type": "snap-filter",
-    "key": "122",
-    "cost": 500,
-    "id": "3c68234c-ef9c-4a53-8391-711c7201b96f",
-    "description": "ADAM IS NOT ENDORSED BY, DIRECTLY AFFILIATED WITH, MAINTAINED, AUTHORIZED, OR SPONSORED BY RAY-BAN. ALL PRODUCT AND COMPANY NAMES ARE THE REGISTERED TRADEMARKS OF THEIR ORIGINAL OWNERS. THE USE OF ANY TRADE NAME OR TRADEMARK IS FOR IDENTIFICATION AND REFERENCE (AND MEME) PURPOSES ONLY AND DOES NOT IMPLY ASSOCIATION WITH THE TRADEMARK HOLDER OF THEIR PRODUCT BRAND. MY LAWYER MADE ME DO THIS."
-  },
-  {
-    "title": "Animadam",
-    "type": "snap-filter",
-    "key": "120",
-    "cost": 1000000,
-    "id": "b68fde11-4f1a-49e6-b693-5f74278928ee"
-  },
-  {
-    "title": "Deal With It",
-    "type": "snap-filter",
-    "key": "96",
-    "cost": 500,
-    "id": "7acdcbd8-c467-432b-ba91-4ef2b42b8ff0"
-  },
-  {
-    "title": "Is that Primeagen?",
-    "type": "snap-filter",
-    "key": "97",
-    "cost": 500,
-    "id": "77ee3f54-84c2-464b-a85a-3f351a4bfc2d"
-  },
-  {
-    "title": "Minioned",
-    "type": "snap-filter",
-    "key": "109",
-    "cost": 500,
-    "id": "4b16a0f1-24c7-4ef9-9375-e7278fffbb10"
-  },
-  {
-    "title": "Bad Hair Day",
-    "type": "snap-filter",
-    "key": "98",
-    "cost": 500,
-    "id": "4fcc2d55-4341-4d36-b277-cba5eecbe9d4"
-  },
-  {
-    "title": "Howdy Partner",
-    "type": "snap-filter",
-    "key": "100",
-    "cost": 1000000,
-    "id": "2a794a99-23e4-480d-ab22-93ce0a170daa"
-  },
-  {
-    "title": "Heart Glasses",
-    "type": "snap-filter",
-    "key": "101",
-    "cost": 500,
-    "id": "7b6849f5-2c56-4379-b3ba-39bce59a21d6",
-    "description": "Where it all began..."
+    "id": "16e5c596-acc5-40b7-bba9-f7ed58095c8a"
   },
   {
     "title": "1-on-1 Call w/ Adam",
     "type": "meeting",
     "cost": 50000,
     "description": "You'll be sent a scheduling link to have a 30-minute, 1-on-1 call with Adam live on Twitch!",
-    "id": "ab76dd31-01ce-4af5-84a5-d8f747c1a415",
-    "prompt": "Email address"
+    "prompt": "Email address",
+    "id": "3195a8c7-4859-4a7b-879d-d65b41c6475f"
   }
 ]

@@ -1,7 +1,7 @@
-import fetch from "node-fetch"
 import { ChatClient, PrivateMessage } from "@twurple/chat"
 import { RefreshingAuthProvider } from "@twurple/auth"
 import { ApiClient } from "@twurple/api"
+import { EventSubWsListener } from "@twurple/eventsub-ws"
 import { promises as fs, readFileSync, writeFileSync } from "fs"
 import { CustomServer } from "./server"
 import { ShellScriptReward, SnapFilterReward, Reward } from "./rewards"
@@ -21,11 +21,7 @@ export interface TwitchChatEvent {
 export interface TwitchEventBase {
   key: string
   subscription: {
-    id: string
-    status: "enabled" | "disabled"
     type: TwitchEventType
-    version: "1"
-    created_at: string
   }
 }
 
@@ -185,10 +181,8 @@ export default class TwitchController {
   private server: CustomServer
   private snap: SnapController
   private apiClient?: ApiClient
+  private listener?: EventSubWsListener
   private clientId = process.env.TWITCH_CLIENT_ID as string
-  private clientSecret = process.env.TWITCH_CLIENT_SECRET as string
-  private webhookSecret = process.env.TWITCH_WEBHOOK_SECRET as string
-  private callback = process.env.TWITCH_CALLBACK_URL as string
   private userId = process.env.TWITCH_USER_ID as string
   username = process.env.TWITCH_USERNAME as string
   rewards: Reward[] = []
@@ -209,10 +203,10 @@ export default class TwitchController {
       return
     }
 
-    this.setupApiClient()
+    await this.setupApiClient()
+    await this.setupRewards()
     await this.setupEventSub()
     await this.setupChatBot()
-    await this.setupRewards()
   }
 
   async setupRewards() {
@@ -261,8 +255,8 @@ export default class TwitchController {
     writeFileSync(rewardsPath, JSON.stringify(this.rewards, undefined, 2))
   }
 
-  setupApiClient() {
-    const authProvider = getAuthProvider()
+  async setupApiClient() {
+    const authProvider = await getAuthProvider()
     this.apiClient = new ApiClient({ authProvider })
   }
 
@@ -323,55 +317,175 @@ export default class TwitchController {
   }
 
   async setupEventSub() {
-    const token = await this.getToken()
-    const subscriptions = await listSubscriptions({
-      token,
-      clientId: this.clientId,
+    this.listener = new EventSubWsListener({
+      apiClient: this.apiClient!,
     })
-    console.log(subscriptions)
 
-    const eventTypes: [TwitchEventType, object?][] = [
-      ["channel.follow"],
-      ["channel.subscribe"],
-      ["channel.channel_points_custom_reward_redemption.add"],
-      ["channel.update"],
-      ["channel.cheer"],
-      ["channel.subscription.gift"],
-      ["channel.raid", { to_broadcaster_user_id: this.userId }],
-      ["stream.online"],
-      ["stream.offline"],
-    ]
-    for (const [eventType, condition] of eventTypes) {
-      const existing = subscriptions.find((sub) => sub.type === eventType)
-      if (
-        existing &&
-        (existing.status === "enabled" ||
-          existing.status === "webhook_callback_verification_pending")
-      ) {
-        continue
-      }
-
-      if (existing) {
-        const response = await deleteSubscription({
-          subscription: existing,
-          token,
-          clientId: this.clientId,
-        })
-      }
-
-      const response = await createSubscription({
-        token,
-        clientId: this.clientId,
-        type: eventType,
-        webhookSecret: this.webhookSecret,
-        callback: this.callback,
-        condition: condition ?? { broadcaster_user_id: this.userId },
+    this.listener.onChannelFollow(this.userId, this.userId, (event) => {
+      this.handleEvent({
+        key: "",
+        subscription: {
+          type: "channel.follow",
+        },
+        type: "channel.follow",
+        event: {
+          user_id: event.userId,
+          user_name: event.userDisplayName,
+          user_login: event.userName,
+          broadcaster_user_id: event.broadcasterId,
+          broadcaster_user_login: event.broadcasterName,
+          broadcaster_user_name: event.broadcasterDisplayName,
+          followed_at: event.followDate.toISOString(),
+        },
       })
+    })
+
+    for (const reward of this.rewards.filter((r) => !!r.id)) {
+      this.listener.onChannelRedemptionAddForReward(
+        this.userId,
+        reward.id as string,
+        (event) => {
+          this.handleEvent({
+            key: "",
+            subscription: {
+              type: "channel.channel_points_custom_reward_redemption.add",
+            },
+            type: "channel.channel_points_custom_reward_redemption.add",
+            event: {
+              id: event.id,
+              user_id: event.userId,
+              user_name: event.userDisplayName,
+              user_login: event.userName,
+              user_input: event.input,
+              broadcaster_user_id: event.broadcasterId,
+              broadcaster_user_login: event.broadcasterName,
+              broadcaster_user_name: event.broadcasterDisplayName,
+              status: event.status as "unfulfilled" | "fulfilled",
+              redeemed_at: event.redemptionDate.toISOString(),
+              reward: {
+                id: event.rewardId,
+                title: event.rewardTitle,
+                prompt: event.rewardPrompt,
+                cost: event.rewardCost,
+              },
+            },
+          })
+        }
+      )
     }
+
+    this.listener.onChannelSubscription(this.userId, (event) => {
+      this.handleEvent({
+        key: "",
+        subscription: {
+          type: "channel.subscribe",
+        },
+        type: "channel.subscribe",
+        event: {
+          user_id: event.userId,
+          user_name: event.userDisplayName,
+          user_login: event.userName,
+          broadcaster_user_id: event.broadcasterId,
+          broadcaster_user_login: event.broadcasterName,
+          broadcaster_user_name: event.broadcasterDisplayName,
+          tier: event.tier,
+          is_gift: event.isGift,
+        },
+      })
+    })
+
+    this.listener.onChannelUpdate(this.userId, (event) => {
+      this.handleEvent({
+        key: "",
+        subscription: {
+          type: "channel.update",
+        },
+        type: "channel.update",
+        event: {
+          broadcaster_user_id: event.broadcasterId,
+          broadcaster_user_login: event.broadcasterName,
+          broadcaster_user_name: event.broadcasterDisplayName,
+          title: event.streamTitle,
+          language: event.streamLanguage,
+          category_id: event.categoryId,
+          category_name: event.categoryName,
+          is_mature: event.isMature,
+        },
+      })
+    })
+
+    this.listener.onChannelCheer(this.userId, (event) => {
+      this.handleEvent({
+        key: "",
+        subscription: {
+          type: "channel.cheer",
+        },
+        type: "channel.cheer",
+        event: {
+          is_anonymous: event.isAnonymous,
+          user_id: event.userId || "",
+          user_name: event.userDisplayName || "",
+          user_login: event.userName || "",
+          broadcaster_user_id: event.broadcasterId,
+          broadcaster_user_login: event.broadcasterName,
+          broadcaster_user_name: event.broadcasterDisplayName,
+          message: event.message,
+          bits: event.bits,
+        },
+      })
+    })
+
+    this.listener.onChannelSubscriptionGift(this.userId, (event) => {
+      this.handleEvent({
+        key: "",
+        subscription: {
+          type: "channel.subscription.gift",
+        },
+        type: "channel.subscription.gift",
+        event: {
+          user_id: event.gifterId || "",
+          user_login: event.gifterName || "",
+          user_name: event.gifterDisplayName || "",
+          broadcaster_user_id: event.broadcasterId,
+          broadcaster_user_login: event.broadcasterName,
+          broadcaster_user_name: event.broadcasterDisplayName,
+          total: event.amount,
+          tier: event.tier,
+          cumulative_total: event.cumulativeAmount,
+          is_anonymous: event.isAnonymous,
+        },
+      })
+    })
+
+    this.listener.onChannelRaidTo(this.userId, (event) => {
+      this.handleEvent({
+        key: "",
+        subscription: {
+          type: "channel.raid",
+        },
+        type: "channel.raid",
+        event: {
+          from_broadcaster_user_id: event.raidingBroadcasterId || "",
+          from_broadcaster_user_login: event.raidingBroadcasterName || "",
+          from_broadcaster_user_name: event.raidingBroadcasterDisplayName || "",
+          to_broadcaster_user_id: event.raidedBroadcasterId,
+          to_broadcaster_user_login: event.raidedBroadcasterName,
+          to_broadcaster_user_name: event.raidedBroadcasterDisplayName,
+          viewers: event.viewers,
+        },
+      })
+    })
+
+    this.listener.onStreamOnline(this.userId, () => this.server.emit("online"))
+    this.listener.onStreamOffline(this.userId, () =>
+      this.server.emit("offline")
+    )
+
+    this.listener.start()
   }
 
   async setupChatBot() {
-    const authProvider = getAuthProvider()
+    const authProvider = await getAuthProvider()
     this.chatClient = new ChatClient({
       authProvider,
       channels: [this.username],
@@ -404,6 +518,8 @@ export default class TwitchController {
   }
 
   async handleEvent(event: TwitchEvent) {
+    this.server.ws.emit("twitch-event", event)
+
     switch (event.subscription.type) {
       case "channel.channel_points_custom_reward_redemption.add":
         await this.redeem(event as TwitchChannelRedemptionEvent)
@@ -496,44 +612,28 @@ export default class TwitchController {
     //     console.log(JSON.stringify(test))
   }
 
-  async getToken() {
-    const params: Record<string, string> = {
-      client_id: this.clientId,
-      client_secret: this.clientSecret,
-      grant_type: "client_credentials",
-    }
-
-    const formBody = []
-    for (const property in params) {
-      const encodedKey = encodeURIComponent(property)
-      const encodedValue = encodeURIComponent(params[property])
-      formBody.push(encodedKey + "=" + encodedValue)
-    }
-    const body = formBody.join("&")
-
-    const response = await fetch("https://id.twitch.tv/oauth2/token", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
-      },
-      body,
-    })
-
-    const { access_token: token } = (await response.json()) as {
-      access_token: string
-    }
-    return token
-  }
-
   async raidRandom() {
-    const response = await this.apiClient?.streams.getFollowedStreams(
-      this.userId
-    )
-    const streams = response?.data
+    const response =
+      (await this.apiClient?.streams.getStreamsByUserNames([
+        "thdxr",
+        "theprimeagen",
+        "teej_dv",
+        "StudyTme",
+        "acorn1010",
+        "bashbunni",
+        "thealtf4stream",
+        "ottomated",
+        "cmgriffing",
+        "theo",
+        "d0nutptr",
+        "roxcodes",
+        "melkey",
+      ])) || []
+    const streams = response.map((r) => r.userId)
     if (!streams) return
 
-    const randomStream = randomItem(streams)
-    await this.apiClient?.raids.startRaid(this.userId, randomStream.userId)
+    const [randomStream] = streams
+    await this.apiClient?.raids.startRaid(this.userId, randomStream)
   }
 
   async getStreamInfo() {
@@ -545,118 +645,24 @@ export default class TwitchController {
   }
 }
 
-export const getAuthProvider = () => {
+export const getAuthProvider = async () => {
   const clientId = process.env.TWITCH_CLIENT_ID as string
   const clientSecret = process.env.TWITCH_CLIENT_SECRET as string
-  const tokenData = JSON.parse(readFileSync("./tokens.json", "utf-8"))
+  const userId = process.env.TWITCH_USER_ID as string
 
-  return new RefreshingAuthProvider(
-    {
-      clientId,
-      clientSecret,
-      onRefresh: async (newTokenData) =>
-        await fs.writeFile(
-          "./tokens.json",
-          JSON.stringify(newTokenData, null, 4),
-          "utf-8"
-        ),
-    },
-    tokenData
-  )
-}
-
-const listSubscriptions = async ({
-  token,
-  clientId,
-}: {
-  token: string
-  clientId: string
-}) => {
-  const subscriptions = await fetch(
-    "https://api.twitch.tv/helix/eventsub/subscriptions",
-    {
-      headers: {
-        Authorization: `Bearer ${token}`,
-        "Client-Id": clientId,
-      },
-    }
-  )
-
-  const { data } = (await subscriptions.json()) as {
-    data: TwitchEventSubscription[]
-  }
-  return data
-}
-
-const deleteSubscription = async ({
-  subscription,
-  token,
-  clientId,
-}: {
-  subscription: TwitchEventSubscription
-  token: string
-  clientId: string
-}) => {
-  const { id } = subscription
-  const response = await fetch(
-    `https://api.twitch.tv/helix/eventsub/subscriptions?id=${id}`,
-    {
-      method: "DELETE",
-      headers: {
-        Authorization: `Bearer ${token}`,
-        "Client-Id": clientId,
-      },
-    }
-  )
-  console.log(response)
-
-  return response
-}
-
-const createSubscription = async ({
-  token,
-  clientId,
-  type,
-  condition,
-  callback,
-  webhookSecret: secret,
-}: {
-  token: string
-  clientId: string
-  type: TwitchEventType
-  condition: unknown
-  callback: string
-  webhookSecret: string
-}) => {
-  const body = JSON.stringify({
-    type,
-    version: "1",
-    condition,
-    transport: {
-      method: "webhook",
-      callback,
-      secret,
-    },
+  const tokenData = JSON.parse(await fs.readFile("./tokens.json", "utf-8"))
+  const provider = new RefreshingAuthProvider({
+    clientId,
+    clientSecret,
+    onRefresh: async (userId, newTokenData) =>
+      await fs.writeFile(
+        `./tokens.json`,
+        JSON.stringify(newTokenData, null, 4),
+        "utf-8"
+      ),
   })
 
-  try {
-    const subscription = await fetch(
-      "https://api.twitch.tv/helix/eventsub/subscriptions",
-      {
-        method: "POST",
-        headers: {
-          Authorization: `Bearer ${token}`,
-          "Client-Id": clientId,
-          "Content-Type": "application/json",
-        },
-        body,
-      }
-    )
-
-    const response = await subscription.json()
-    console.log(response)
-    return response
-  } catch (error) {
-    console.error(error)
-  }
+  // await provider.addUserForToken(tokenData)
+  provider.addUser(userId, tokenData, ["chat"])
+  return provider
 }

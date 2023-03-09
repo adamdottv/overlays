@@ -1,0 +1,8767 @@
+
+
+11:35:01
+<transcript>: You.
+
+11:56:10
+<transcript>: Subscribe.
+
+11:57:14
+adamdotdev: !topic celebrating 3000 followers and building rebase.tv
+
+11:57:25
+<transcript>: Check, check.
+
+11:57:35
+<transcript>: Check.
+
+11:58:43
+<transcript>: I discovered yesterday that I don't have thoughts. As a developer, I.
+
+11:58:49
+<transcript>: Don't have takes I try to force them sometimes, but mostly don't have them just don't.
+
+11:58:49
+<transcript>: i see all
+
+11:58:57
+<transcript>: I see all these smart people who can use a piece of technology and be like, here's what I love about it. Oh, but it falls over in this way. And.
+
+11:58:57
+<transcript>: i just don't
+
+11:59:01
+<transcript>: I just don't have Fox. I think I use something. And I'm like.
+
+11:59:04
+<transcript>: I don't really enjoy it.
+
+11:59:04
+<transcript>: those are basically
+
+11:59:06
+<transcript>: Those are basically My pigs.
+
+11:59:06
+<transcript>: does that just mean
+
+11:59:10
+<transcript>: Does that just mean I'm not a thinker we have any behavioral psychologists watching this.
+
+11:59:17
+<transcript>: You should join me on Twitter. I'm giving away a $1,000 in aws credits because.
+
+11:59:21
+<transcript>: We hit 30 followers on Twitter.
+
+11:59:21
+<transcript>: and whenever
+
+11:59:27
+<transcript>: And whenever I hit not arbitrary threshold on Twitch followers I give stuff away.
+
+11:59:27
+<transcript>: why not
+
+11:59:32
+<transcript>: Why not $3,000 in AWS credits. Don't get greedy, okay.
+
+00:00:44
+tymekdev: First!
+
+00:01:13
+adamdotdev: !setcmd giveaway giving away $1000 in aws credits today, listen to adam for instructions!
+
+00:01:18
+adamdotdev: !giveaway
+
+00:01:18
+fossabot: I'm giving away an M2 MacBook Pro to one random person who stars this repo: https://github.com/adamelmore/good-repo and/or retweets this tweet: https://twitter.com/adamdotdev/status/1622642796812173322
+
+00:01:49
+cowfacedude99: again? that repo is upto no good LUL
+
+00:01:54
+devinda_me: did you change up your music ?
+
+00:02:45
+kleschnja: !giveaway
+
+00:02:45
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+00:06:02
+mjewl: dangDance
+
+00:06:20
+andreull: does anyone know the song at the end of Adam's twitter video?
+
+00:06:51
+neochromer: Hello hello
+
+00:06:53
+neochromer: long time no see :D
+
+00:06:55
+tayloreddev: what does a $1000 aws credits get you, aws newb here
+
+00:07:13
+andreull: using their machines and stuff for $1000
+
+00:08:39
+cowfacedude99: that's a lot of ec2 instances
+
+00:08:44
+laytanl_: @TayloredDev 2 months of their database service NotLikeThis
+
+00:08:48
+tayloreddev: i get that, just wondering how to put it to good use and not waste on say a dumb RDS instance
+
+00:09:02
+andreull: mand a lot of s3 storage LUL LUL
+
+00:09:05
+andreull: and*
+
+00:09:27
+cowfacedude99: if I remember altf4 ran with that much of credits for over 3 months. with all of their stuff.
+
+00:09:42
+tayloreddev: Where i work at the moment has a $50k monthly AWS bill, mostly made up of RDS :/
+
+00:10:08
+alexkates: what's good fam
+
+00:10:08
+laytanl_: RDS is ridiculous
+
+00:10:14
+tayloreddev: its so expensive
+
+00:10:21
+alexkates: ddb single table is the way
+
+00:10:55
+laytanl_: A project in my company just put a sqlite file on s3 and uses that as its database LUL
+
+00:11:33
+ogasege: Let's gooo
+
+00:11:35
+<transcript>: Oh.
+
+00:11:39
+<transcript>: That's not ideal.
+
+00:11:43
+<transcript>: How do I get rid of this thing.
+
+00:11:45
+tayloreddev: F
+
+00:11:46
+lilfreezi: theres my favorite stud muffin
+
+00:11:47
+<transcript>: Ha.
+
+00:11:49
+<transcript>: Well.
+
+00:11:51
+<transcript>: Something's broke.
+
+12:19:15
+andreull: escape the Matrix with adamdotdev
+
+12:19:16
+<transcript>: Okay.
+
+12:19:26
+<transcript>: Hey, sorry, I was also late. Like late starting also late after the lifto thing because I realized I hadn't set up one of my cameras.
+
+12:19:29
+mjewl: HeyGuys
+
+12:19:31
+<transcript>: I don't know what I do like at the end of my day sometimes the Zoom is working.
+
+12:19:31
+<transcript>: it's the only
+
+12:19:34
+<transcript>: It's the only my day sometimes I'm like.
+
+12:19:34
+<transcript>: did i
+
+12:19:39
+<transcript>: Did I wait? Did I actually get anything done that I can, like, point to.
+
+12:19:47
+<transcript>: And like I've been up for 2 hours, I couldn't tell you what I accomplished in those 2 hours. The Zoom is very sensitive today.
+
+12:19:47
+<transcript>: it's
+
+12:19:52
+<transcript>: It's very I'm not even making faces like these are very simple.
+
+12:19:54
+<transcript>: Neutral faces.
+
+12:20:00
+<transcript>: Oh, and it didn't do it on that one. It's very broken.
+
+12:20:03
+devinda_me: it auto zoomes ?
+
+12:20:05
+<transcript>: Let's see. I gotta read chat. I'm never gonna catch it. What is going on.
+
+12:20:10
+<transcript>: Okay.
+
+12:20:10
+<transcript>: whatever
+
+12:20:11
+<transcript>: Whatever.
+
+12:20:16
+cowfacedude99: you are 8 months into streaming nobody expects you to work LUL
+
+12:20:16
+<transcript>: Time ech was first.
+
+12:20:16
+<transcript>: time
+
+12:20:20
+<transcript>: Time equ was first let the record show.
+
+12:20:30
+<transcript>: Calphase is here to venda is here. Did you change your music? No, I just always am getting new versions of it. Okay. The Zoom thing.
+
+12:20:33
+<transcript>: Hang on.
+
+12:20:38
+<transcript>: Let's just start over. Let's bring this didn't happen.
+
+12:21:17
+alexkates: nothing like writing some ddb migration scripts to start your thursday
+
+12:21:18
+<transcript>: Break. Okay.
+
+12:21:23
+<transcript>: Shouldn't Zoom in on my face anymore. That was getting a little annoying.
+
+12:21:23
+<transcript>: and distracting
+
+12:21:24
+<transcript>: And distracting.
+
+12:21:29
+<transcript>: Giveaway I'm giving a $1,000 in AWS credit.
+
+12:21:39
+laytanl_: Nooo I loved the zoom
+
+12:21:39
+<transcript>: We're gonna see it's a giveaways work in my overlay app. I mean, we'll make it work. I've had to do that on every giveaway. Every giveaway so far has been.
+
+12:21:39
+<transcript>: the entire
+
+12:21:45
+<transcript>: The entire stream media trying to hollow together a mechanism for doing the giveaway.
+
+12:21:45
+<transcript>: and then
+
+12:21:47
+tymekdev: Damn, Adam's studio really giving me an anxiety lol. Feels like anything less will make the setup irrelevant :s
+
+12:21:47
+<transcript>: And then finally getting it working.
+
+12:21:50
+<transcript>: In jules, here.
+
+12:21:50
+<transcript>: also
+
+12:21:52
+<transcript>: Also clash.
+
+12:21:52
+<transcript>: welcome to ch
+
+12:21:53
+laytanl_: funny when it zoomed randomly
+
+12:21:55
+<transcript>: Welcome to Chat. I saw that welcome.
+
+12:22:07
+<transcript>: Andre's here. Does anyone know the song at the end of Editam's Twitter video? That's just a little snippet of my theme. So the stuff you hear at the beginning and the intro, that's my theme music. It was made my Breakmaster cylinder.
+
+12:22:07
+<transcript>: and
+
+12:22:10
+<transcript>: And that's just kind of like a little.
+
+12:22:10
+<transcript>: a little
+
+12:22:17
+<transcript>: A little like thing that he made for me. That it's like part of the song. So it kind of goes with the melody of the song or something.
+
+12:22:27
+<transcript>: Neocromers here long time no see Hello Neocromer. I have not been streaming until this week. I took a long break.
+
+12:22:33
+<transcript>: We're celebrating 3000 followers today can't believe 30 followers on Twitch.
+
+12:22:41
+llebc: Congrats on 3k!
+
+12:22:43
+<transcript>: I mean, I can't believe it. I've got like $15,000 on Twitter, so I guess it makes sense that some of you have come over from Twitter. Some of you just wandered into the stream from twitch and stayed.
+
+12:22:48
+<transcript>: I'm very appreciative of every single one of you. It's been a fun time on Twitch.
+
+12:22:48
+<transcript>: what
+
+12:22:53
+neochromer: @adamdotdev very nice to join a stream again :D
+
+12:22:54
+<transcript>: What has it been? It's been like five, six months with a three month break in the middle.
+
+12:23:00
+<transcript>: If been so fun I don't know why I just stopped to say that.
+
+12:23:07
+<transcript>: Using the machines and stuff. Oh, what is $1,000 a day? Get you. Okay. So it's actually I should point this out.
+
+12:23:07
+<transcript>: it's not
+
+12:23:12
+<transcript>: It's not one $1000 gift, it's.
+
+12:23:12
+<transcript>: fifty
+
+12:23:16
+<transcript>: 50, no, $2050 gets so 20 of you are gonna win.
+
+12:23:16
+<transcript>: fifty dollars
+
+12:23:17
+tiredbeaver: !giveaway
+
+12:23:17
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+12:23:19
+alexkates: That would completely fund my new start up for like... ever?
+
+12:23:24
+devinda_me: baited !
+
+12:23:24
+<transcript>: $50 in aws credits. I don't know if that's more exciting or less exciting. On the one hand, it's less dollars per person. On the other hand.
+
+12:23:24
+<transcript>: you have more
+
+12:23:27
+<transcript>: You have more chances of winning it.
+
+12:23:30
+<transcript>: So your chances have improved.
+
+12:23:32
+salkinvonbach: Hi
+
+12:23:34
+<transcript>: But you're not gonna win $1,000 at once.
+
+12:23:38
+alexkates: i'm not greedy
+
+12:23:39
+stinklestudio: aand 50 dollars is 50 dollars!
+
+12:23:40
+<transcript>: Unless there's like, mutiny and everybody's like, no, we want one 10 prize, and then I'll do that. But.
+
+12:23:40
+<transcript>: you guys
+
+12:23:42
+<transcript>: You guys can let me know what you think.
+
+12:23:43
+cowfacedude99: more than 1 entry?
+
+12:23:48
+<transcript>: I actually have both options available. I literally have $2050 promotional credits, and I also have.
+
+12:23:48
+<transcript>: some one thousand
+
+12:23:50
+<transcript>: Some $1000 credits.
+
+12:23:55
+lilfreezi: thats it 1 $50 credit
+
+12:23:55
+<transcript>: Did it using their machines and stuff. Let's see that's a lot of easy two instances.
+
+12:23:55
+<transcript>: laten
+
+12:23:57
+tiredbeaver: give me 100% ownership of statsmuse
+
+12:23:57
+ogasege: Nooo 50 dollars to 20 people
+
+12:23:58
+<transcript>: Latent's. Here. Taylor's. Here.
+
+12:24:02
+<transcript>: Two months of their database service. That's funny.
+
+12:24:06
+<transcript>: Lot of s three storage.
+
+12:24:06
+<transcript>: okay
+
+12:24:09
+<transcript>: Okay, I'm gonna scroll. Alex is here.
+
+12:24:17
+<transcript>: Let's go. Welcome to Chat ogus siege, ogasiege.
+
+12:24:17
+<transcript>: i'm gonna go and start playing
+
+12:24:19
+overra_dev: howdy
+
+12:24:19
+ogasege: Haha I also want statmuse. Give me 20% though 😂😂😂
+
+12:24:20
+<transcript>: I'm gonna go and start playing music because it starts to feel like.
+
+12:24:20
+<transcript>: oh it's just
+
+12:24:23
+<transcript>: Oh, it's just my voice. So I just feel little.
+
+12:24:23
+<transcript>: naked
+
+12:24:27
+<transcript>: Naked. I don't know. That's the best word I can think of.
+
+12:24:31
+<transcript>: Thank you so much for that. Follow Julian.
+
+12:24:35
+statsndata: Party day 🎉
+
+12:24:35
+<transcript>: A little freezey. There's. My favorite stud. Muffin.
+
+12:24:35
+<transcript>: a little crazy guys
+
+12:24:39
+<transcript>: A little crazy guys know how to make me feel good. You come in with the.
+
+12:24:39
+<transcript>: physical
+
+12:24:42
+neochromer: a little intimate :D
+
+12:24:42
+statsndata: And we're back!
+
+12:24:42
+<transcript>: Physical appearance, comments.
+
+12:24:42
+<transcript>: i appreciate
+
+12:24:44
+<transcript>: I appreciate them.
+
+12:24:47
+<transcript>: Write an email to the developer.
+
+12:24:48
+ogasege: It's pronounced o-ga-se-geh
+
+12:24:53
+<transcript>: Yeah, yeah, I saw those over there. Welcome to Chat Vpvp. Hi. Hi.
+
+12:24:56
+donpiruletto: !giveaway
+
+12:24:56
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+12:24:57
+tymekdev: Do you have audio loopback on? As in hearing your mics in your headphones?
+
+12:24:58
+ogasege: Thanks for the shout out 🤩
+
+12:25:01
+<transcript>: Let's see. I'm almost caught up. I think. No, I'm not. You guys keep typing. Why you keep typing? I can't catch up.
+
+12:25:01
+<transcript>: you know i like
+
+12:25:03
+<transcript>: You know, I like to read them all.
+
+12:25:03
+<transcript>: david yeah
+
+12:25:06
+salkinvonbach: hnhGun
+
+12:25:23
+<transcript>: David. Yeah, I made an autozoom thing. Obviously, I just turned it off. It was supposed to only. And yesterday it worked pretty good. It's only supposed to like, when my face makes drastic expressions. Today it was apparently the opposite. It decided today, the more neutral my face, the more it should Zoom. And when I make silly faces, no, don't Zoom in on that. So I don't know why.
+
+12:25:23
+<transcript>: but it's broken
+
+12:25:24
+<transcript>: But it's broken.
+
+12:25:29
+<transcript>: You're eight months in a streaming. Nobody expects you to work.
+
+12:25:35
+julianfbeck: Just saw your tweet about not having thoughts haha i feel the same for most sfuff :D
+
+12:25:48
+<transcript>: You mean like, do work on stream because that I don't do very well today. We're gonna do some different work. We're gonna build rebase TV. It's a project. Dax and I are working on it's a live game show for developers where you can win real cash prizes. I think that's the first time I've ever said that little said that little pitch. That watching any other words.
+
+12:25:57
+<transcript>: Let's see. Nothing like writing some dynamodb Migration scripts to start your Thursday whew.
+
+12:26:03
+<transcript>: I was thinking that yesterday, looking at what code bases are looking at, where there's migration files.
+
+12:26:04
+tiredbeaver: ur title says remix dot tv though
+
+12:26:07
+<transcript>: Code bases at oh, the sat me's code base.
+
+12:26:21
+alexkates: it just feels wrong writing scan operations
+
+12:26:24
+desu_is_sparta: I love that Django generates all the migrations for you
+
+12:26:25
+<transcript>: There's like, all these migration sequel things. And I just thought, like, Man, I love dynamo because I don't have to write migration scripts. And then I remembered, oh, I do it's just like, I write them in typescript, and they're not. There's no, like, rhymer reason, just like, one off, I'm gonna migrate all this stuff.
+
+12:26:34
+<transcript>: Ty mik Adam studio really giving me anxiety feels like anything less will make the setup irrelevant.
+
+12:26:34
+<transcript>: oh oh
+
+12:26:36
+<transcript>: Oh, oh, wait? What.
+
+12:26:40
+<transcript>: My studio is giving you anxiety.
+
+12:26:40
+<transcript>: anything
+
+12:26:43
+<transcript>: Anything less will make the setup irrelevant.
+
+12:26:48
+<transcript>: It was funny when it zoomed randomly. Okay, well, maybe we'll bring it back.
+
+12:26:53
+<transcript>: First time Chat. Welcome to Chat. Olympic libbuk.
+
+12:26:53
+<transcript>: oh awesome
+
+12:26:55
+<transcript>: Oh, awesome. Thanks for the following.
+
+12:26:56
+salkinvonbach: How far behind is he?
+
+12:26:59
+<transcript>: I missed some follows. Thank you for the follow.
+
+12:26:59
+<transcript>: oga se
+
+12:27:00
+ayushsharma: !giveaway
+
+12:27:00
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+12:27:07
+<transcript>: Oga seg. Or maybe I did say that. Okay. Never mind all the people who followed me after my stream yesterday. Thank you for those follows as well.
+
+12:27:11
+<transcript>: I don't know where the cutoff is. The last one that I would have seen.
+
+12:27:11
+<transcript>: but a lot of people
+
+12:27:12
+cowfacedude99: I found this today. do you want to give it a chance? https://one2n.gitbook.io/docs/
+
+12:27:14
+<transcript>: But a lot of people followed me after I stopped streaming yesterday.
+
+12:27:17
+ayushsharma: No thanks aws
+
+12:27:18
+<transcript>: I think to follow chronic's.
+
+12:27:26
+<transcript>: Neo. Very nice to join a stream again. It's very nice to stream again. It feels really good. I've been enjoying it this week has been a lot of fun.
+
+12:27:29
+<transcript>: Tired Beavers here.
+
+12:27:36
+<transcript>: That was completely fun. My startup for like ever. Exactly. Alex serverless is the best.
+
+12:27:42
+<transcript>: Baited? Who baited? Davinda Diabate.
+
+12:27:42
+<transcript>: was ibating
+
+12:27:43
+<transcript>: Was ibating.
+
+12:27:48
+<transcript>: First time chat. Welcome to Chat. Stinkle studio.
+
+12:27:53
+<transcript>: $50 is $50. That is right. I mean, honestly.
+
+12:28:00
+<transcript>: You have to use them this year like expire the end of the year so like a $1,000 in credits.
+
+12:28:00
+<transcript>: i mean
+
+12:28:05
+salkinvonbach: Reminds me I gotta ship some servers
+
+12:28:06
+<transcript>: I mean if you're doing a lot of EC two stuff, I guess RDS there's some services where you could spend that, but.
+
+12:28:06
+<transcript>: you build
+
+12:28:13
+<transcript>: You build stuff modern serverless stuff probably want to use that you'll use 50 though.
+
+12:28:17
+<transcript>: You could buy like a domain or something and use credit that way.
+
+12:28:19
+<transcript>: I think.
+
+12:28:22
+<transcript>: More than one entry cafe.
+
+12:28:28
+<transcript>: I think we'll do the thing where you spend channel points to get entries.
+
+12:28:34
+<transcript>: Give me 100% ownership of stagnese.
+
+12:28:38
+<transcript>: That would be quite a giveaway like today.
+
+12:28:38
+<transcript>: i'm giving away
+
+12:28:40
+<transcript>: I'm giving away my startup.
+
+12:28:44
+<transcript>: $50 to 20 people. That's what you say.
+
+12:28:44
+<transcript>: okay
+
+12:28:53
+<transcript>: Okay, that's what we'll do. Welcome to Chad. Overa Howdy welcome to my chat, love. When people join the ranks of the chatters.
+
+12:28:58
+ayushsharma: Have you oracle cloud?
+
+12:29:00
+<transcript>: I also want Sam use. Give me 20%, though. Okay? I don't own that much of samus. I can't give anybody.
+
+12:29:00
+<transcript>: any amount
+
+12:29:12
+<transcript>: Any amount of statmes. I own a very small sliver of status, and I don't think I don't even think I could give away, like, stat news options. That would actually be amazing. That would be an amazing giveaway. Like, Hey.
+
+12:29:12
+<transcript>: that means
+
+12:29:16
+<transcript>: That means we're doing things. We're going places to the moon, even.
+
+12:29:21
+<transcript>: Here's a slice here's a slice to a random Twitch viewer.
+
+12:29:23
+salkinvonbach: I have some old xeon v3 and v4 machines I still need to sell
+
+12:29:23
+<transcript>: That'd be super cool.
+
+12:29:27
+<transcript>: Party days. That's in data. That's right.
+
+12:29:27
+<transcript>: a little
+
+12:29:31
+<transcript>: A little intimate. I am so behind. So I don't know what was intimate.
+
+12:29:36
+<transcript>: I hate when I get so behind I hate it oh, sorry Oh.
+
+12:29:36
+<transcript>: gesega
+
+12:29:46
+<transcript>: Gesega, I'm so bad at pronouncing. Oga Sega. Did I say it correctly? Please, let me know if that was correct. I think I got that right. Oga Sega.
+
+12:29:54
+<transcript>: Do you have audio loop back on as in hearing your mics in your headphones. Yes.
+
+12:29:54
+<transcript>: time act
+
+12:29:57
+<transcript>: Time act. I do. Are you hearing it in my mic? From my headphones.
+
+12:30:01
+<transcript>: I possibly.
+
+12:30:03
+<transcript>: Think, turn it down.
+
+12:30:05
+<transcript>: You're welcome for the shoutout.
+
+12:30:05
+<transcript>: what is that
+
+12:30:09
+<transcript>: What is that? Little guy hugun? What is that.
+
+12:30:09
+<transcript>: looks
+
+12:30:11
+<transcript>: Looks like.
+
+12:30:16
+<transcript>: Santa claus. From here, it's very small.
+
+12:30:23
+<transcript>: Welcome to Chat. Julian. Just saw your tweet about not having thoughts. You feel the same for most stuff. Yeah, I really don't.
+
+12:30:23
+<transcript>: i admire
+
+12:30:31
+salkinvonbach: hnhDead
+
+12:30:33
+ogasege: would be the best for sure! Statmuse has saved in many twitter basketball convos
+
+12:30:43
+<transcript>: I admire people like dax, who like, whenever he uses something he can like, break it down. And like, here's how it compares to past stuff. And here's how it points to the future and how it makes me feel, and how good of A. Dx. It is. And I just literally don't have any of those thoughts. And I've been doing this a long time.
+
+12:30:43
+<transcript>: i got
+
+12:30:47
+<transcript>: I got been a software developer for 15 years.
+
+12:30:52
+<transcript>: And I still don't have any thoughts. I don't know if that means I just. I'm more of a.
+
+12:30:52
+<transcript>: code monkey
+
+12:30:56
+<transcript>: Code monkey just like a billion stuff but not really pay attention to what I'm doing.
+
+12:30:56
+<transcript>: it's kind of
+
+12:31:01
+<transcript>: It's kind of like I'm like that in life too. I don't really observe things around me very much.
+
+12:31:01
+<transcript>: i'm just
+
+12:31:04
+<transcript>: I'm just not very observant. I wonder if that's it.
+
+12:31:07
+<transcript>: I.
+
+12:31:07
+ogasege: You get points for trying but it's a yoruba name from Nigeria so you get a pass haha
+
+12:31:11
+tymekdev: No, it is fine! I don't hear it. I tried that once, but I couldn't get a sentence out - hearing myself made it so hard to focus
+
+12:31:13
+<transcript>: 'd beaver is accurate. We are we are going to work on remix TV Today, on stream.
+
+12:31:26
+salkinvonbach: What's your myer Briggs?
+
+12:31:26
+<transcript>: We're gonna see if I can do a little more on stream when I'm working on remix, then when I'm working on Statmes because I don't get much accomplished when I'm working on Sad news. I mean, I'm going to be working on Savvy tomorrow, but we're gonna try working on a little where you make stuff today.
+
+12:31:26
+<transcript>: this feels
+
+12:31:40
+<transcript>: This feels wrong. Writing scan operations. It really does, Alex. Even when I know there's not much data still just feels dirty. Welcome to Chat desa. Desu. I love that django generates all migrations for you, does it.
+
+12:31:41
+tymekdev: remix dot tv? Not rebase dot tv?
+
+12:31:43
+<transcript>: Does it have not done any Django.
+
+12:31:43
+<transcript>: although i
+
+12:31:44
+rudixworld: whadup
+
+12:31:50
+<transcript>: Although I did work at a python shop and there was some django being used, I just didn't really get into the django bits.
+
+12:31:50
+<transcript>: how far behind him
+
+12:31:55
+<transcript>: How far behind him? I. That's a great question. How far behind am I Nicholas? I don't know.
+
+12:31:59
+<transcript>: I found this today. Do you want to give it a chance.
+
+12:31:59
+<transcript>: oh another
+
+12:32:03
+<transcript>: Oh, another thing. Another link from calface.
+
+12:32:03
+<transcript>: i'm gonna open it up
+
+12:32:04
+<transcript>: I'm gonna open it up.
+
+12:32:04
+<transcript>: i'm gonna
+
+12:32:06
+<transcript>: I'm gonna open it.
+
+12:32:11
+<transcript>: On my computer so we can look at it in a minute. When I go to my computer.
+
+12:32:11
+<transcript>: cloud
+
+12:32:13
+<transcript>: Cloud lens.
+
+12:32:13
+<transcript>: like
+
+12:32:16
+<transcript>: Like K nine s.
+
+12:32:16
+<transcript>: for
+
+12:32:20
+<transcript>: For aws, what is K nine? S.
+
+12:32:20
+<transcript>: i know what
+
+12:32:24
+<transcript>: I know what kubernetes is, but what is K nine? S.
+
+12:32:29
+<transcript>: Is this supposed to be K eight.
+
+12:32:35
+alexkates: kuberneetes
+
+12:32:38
+<transcript>: Ayucha. Says you says no thanks. It was not interested in aws. Credits.
+
+12:32:41
+<transcript>: Remind me I gotta ship some servers.
+
+12:32:47
+<transcript>: Have you ordered oracle Cloud? I do not have any oracle Cloud credit. That would be funny.
+
+12:32:54
+<transcript>: I have some old zon V three and V four machines. I still need to sell. You're selling old machines. That sounds cool.
+
+12:32:57
+cowfacedude99: k9s is a ui for Kubernetes.
+
+12:32:58
+<transcript>: That's some old machines.
+
+12:33:10
+alexkates: i'm glad i didn't know this tbh
+
+12:33:10
+<transcript>: Okay, sega says would be the best for sure. Statmes is saved in mini Twitter basketball condos. That's awesome. Brian. Thanks so much for the follow Brian. I know Brian.
+
+12:33:10
+<transcript>: i know brian
+
+12:33:14
+brianhhough: Adam!! 🙌
+
+12:33:16
+<transcript>: I know Brian Hugh, from Twitter and from Real life. I met Brian ryan's, one of the few people.
+
+12:33:23
+alexkates: oh shoot Brain is here
+
+12:33:25
+<transcript>: Brian, Hugh making sure I'm not going crazy, and I am going crazy. No, I'm not. Yeah, I know. Brian.
+
+12:33:25
+<transcript>: i was making sure
+
+12:33:27
+<transcript>: I was making sure that was your last name.
+
+12:33:27
+<transcript>: yeah i know
+
+12:33:30
+brianhhough: Alex in the house too?!
+
+12:33:35
+<transcript>: Yeah, I know, Brian. We met at reinvent in Vegas. I've met, like, whoever I met at Vegas is the only people in Tech that I've met.
+
+12:33:35
+<transcript>: and brian
+
+12:33:36
+alexkates: sup brother!
+
+12:33:37
+<transcript>: And Brian is one of them.
+
+12:33:37
+stiefbroerikzitvast: goodmorning to my favorite programmer on Twitch since all others died
+
+12:33:40
+brianhhough: Yes! From re:Invent!!!
+
+12:33:45
+brianhhough: 🙏🙏🙏
+
+12:33:47
+<transcript>: Let's see you get points for trying, but it's a Euroba name from Nigeria. So you get what did I say? That right.
+
+12:33:47
+<transcript>: yo rob
+
+12:33:51
+<transcript>: Yo roba, Yo ruba, see, you get a pass.
+
+12:33:51
+<transcript>: thank you
+
+12:34:05
+<transcript>: Thank you. I'm from the ozarks. I can't say names that everyone says fine, especially names that are harder to say, but oga sega, I've got it now. I think. Am I doing it right? That would be really sad if I was watching it. Still.
+
+12:34:05
+<transcript>: time ago
+
+12:34:22
+<transcript>: Time ago. It's fine. I don't hear it. I tried that one, but I couldn't get a sentence out hearing myself Mint. Sora to focus. Yeah. All I hear is I mean, I just hear the audio that you all hear. I just like to make sure, like, my mics on. And I also hear the mix with the music. So I kind of know, like music's not too loud or whatever.
+
+12:34:26
+<transcript>: What's? Your Myer Briggs.
+
+12:34:26
+<transcript>: great
+
+12:34:35
+<transcript>: Great question, Nicholas. I don't know. I think I'm an introvert IDs STV or something. I don't remember, but my wife is really into.
+
+12:34:41
+<transcript>: Enneagram. I'm an innagram. Type nine, which means I hate conflict.
+
+12:34:41
+<transcript>: i'm a middle
+
+12:34:44
+<transcript>: I'm a middle child, so I like to mediate if people.
+
+12:34:44
+<transcript>: are upset with
+
+12:34:48
+<transcript>: Are upset with each other. I want to fix it.
+
+12:34:48
+<transcript>: i just don't want anybody
+
+12:34:48
+ogasege: yo-rooo-bar is right. Has some intonation but that's correct
+
+12:34:48
+stinklestudio: type 7! here
+
+12:34:51
+<transcript>: I just don't want anybody ever to have bad feelings.
+
+12:34:53
+stinklestudio: The Entusiast
+
+12:34:54
+<transcript>: So that's my personality.
+
+12:34:54
+<transcript>: i don't
+
+12:34:55
+salkinvonbach: Why do you need a ui for kubernetes? @cowfacedude99
+
+12:34:56
+lilfreezi: middle child gang
+
+12:34:58
+<transcript>: I don't know if there's other stuff in Myersbriggs that I'm missing, but.
+
+12:35:00
+brianhhough: Adam you made me want to livesteam more this year. Just got a new mic this week 🙏
+
+12:35:05
+<transcript>: Rebase TV, not rebase TV. Oh, no, did I put remix TV.
+
+12:35:08
+<transcript>: Did I do re mix.
+
+12:35:08
+<transcript>: in the title
+
+12:35:09
+<transcript>: In the title.
+
+12:35:09
+<transcript>: that would be
+
+12:35:14
+<transcript>: That would be wrong. How can I see the title of my own stream.
+
+12:35:16
+<transcript>: Hang on.
+
+12:35:18
+<transcript>: Oh, remix? Oops.
+
+12:35:21
+<transcript>: That's funny.
+
+12:35:21
+<transcript>: that's funny
+
+12:35:24
+iann0036: Type 3 - Competitive Achiever :P
+
+12:35:24
+<transcript>: That's funny. Didn't know the name of my own project. Okay.
+
+12:35:25
+cowfacedude99: !title
+
+12:35:25
+devinda_me: oh no, remix guys out to get to you now !
+
+12:35:28
+salkinvonbach: That's a lot of things you're kinda missing
+
+12:35:30
+<transcript>: That's not if dax is here. That's not a good look. Sorry about that.
+
+12:35:33
+tiredbeaver: bro didn't i point that out?
+
+12:35:37
+<transcript>: Oh, and when I refresh the page, I lost Olive Chat. Cool. Looks like I have to read it over on this page.
+
+12:35:41
+tiredbeaver: BibleThump
+
+12:35:42
+<transcript>: Oh, you pointed that out meter? I don't know. I probably just dismissed you.
+
+12:35:42
+<transcript>: i just miss
+
+12:35:44
+<transcript>: I just missed anybody that's, like.
+
+12:35:44
+<transcript>: you got
+
+12:35:50
+<transcript>: You got the title rolling. I know what I'm talking about. I'm not working on stamping today, and we're gonna rebate.
+
+12:35:52
+daglee: Hello!
+
+12:35:53
+<transcript>: Ian, thank you so much for the follow.
+
+12:35:53
+<transcript>: the prime
+
+12:35:57
+daglee: !giveaway
+
+12:35:57
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+12:36:01
+<transcript>: The prime sub. Three months daglies here if I came over to this screen because I've got more of twitch history so I can actually catch up.
+
+12:36:07
+<transcript>: Going up, up. I'm gonna see the Twitch chat that I missed.
+
+12:36:09
+<transcript>: I think I'm almost caught up.
+
+12:36:14
+salkinvonbach: Aight i gotta head out to the doctor
+
+12:36:17
+<transcript>: Brian first time chat. Welcome to Chat. Brian. Good to see you on Twitch.
+
+12:36:19
+salkinvonbach: Ttyl
+
+12:36:21
+<transcript>: Knight S is a UI for Kubernetes.
+
+12:36:21
+<transcript>: ooh
+
+12:36:24
+<transcript>: Ooh, that sounds cursed. So I'm being honest.
+
+12:36:28
+<transcript>: What up? Rudix World? What's going on.
+
+12:36:33
+<transcript>: I'm glad I didn't know this. To be honest, no, I.
+
+12:36:33
+<transcript>: give i
+
+12:36:38
+<transcript>: Give. I give kubernetes a lot of stuff. I just don't care for it.
+
+12:36:46
+<transcript>: Step Rose here. Good morning to my favorite program on twitch. Since all others died. I'm sorry. What.
+
+12:36:46
+<transcript>: you
+
+12:36:48
+<transcript>: You mean figuratively.
+
+12:36:48
+<transcript>: they died
+
+12:36:50
+<transcript>: They died.
+
+12:36:50
+<transcript>: oh speaking
+
+12:36:53
+<transcript>: Oh, Speaking of twitch programmers, dying.
+
+12:36:53
+<transcript>: we're gonna
+
+12:36:58
+<transcript>: We're gonna play among us. Maybe not on this stream, but probably today.
+
+12:36:58
+<transcript>: i might do a second
+
+12:37:03
+stiefbroerikzitvast: LUL nice bridge
+
+12:37:04
+tiredbeaver: with tawny or nah
+
+12:37:06
+<transcript>: I might do a second stream today. I don't know. Or we're gonna do it on this stream. We might be like I'm getting nothing done. Dax, let's go. So me and dax and some friends are gonna play.
+
+12:37:06
+<transcript>: among us
+
+12:37:08
+<transcript>: Among us.
+
+12:37:08
+<transcript>: tawny
+
+12:37:16
+meranofox: @StiefbroerIkZitVast You're just missing Nick aren't you
+
+12:37:22
+<transcript>: Tawny would be great. Oh, I should see if tony's available on short notice. The only reason I am not trying to get together with the whole crew I just played with is I want to train, I want to get really good among us and then go back and play with them and be like, oh, yeah, no big deal.
+
+12:37:22
+<transcript>: just got really good
+
+12:37:28
+tiredbeaver: tawny is horrendous so it is fine
+
+12:37:30
+<transcript>: Just got really good. In the meantime, since we played last, that's the goal I want to train with my friends that I can play with as much as I want.
+
+12:37:30
+<transcript>: and then
+
+12:37:30
+tiredbeaver: LUL
+
+12:37:32
+stiefbroerikzitvast: @MeranoFox a lot
+
+12:37:35
+<transcript>: And then get so good that they can't even hang. I'm gonna go back and just be like.
+
+12:37:35
+<transcript>: you're not good
+
+12:37:38
+<transcript>: You're not good at this. Look at me. Look. I've good. I am.
+
+12:37:42
+<transcript>: Your bar is right. Okay.
+
+12:37:42
+<transcript>: it hasn't some
+
+12:37:54
+<transcript>: It hasn't some intonation. Yeah, I will never get intonation correct. I will tell you that oh Stinkle Studio Type Seven, the enthusiast. I actually know a lot about all the types because my wife is she's very into it. She thinks it's really cool.
+
+12:38:07
+stinklestudio: i got the book on my desk right now :D LUL
+
+12:38:11
+<transcript>: Okay, middle child, gang, little freezie. Adam, you made me want to live stream more this year. Just got a new mic this week. Hey, livestream, it's so fun. I love it. I get why like everyone doesn't do it because I also get next to nothing done when I stream.
+
+12:38:11
+<transcript>: but
+
+12:38:12
+<transcript>: But.
+
+12:38:12
+<transcript>: for fun
+
+12:38:16
+<transcript>: For fun. In terms of the fun factor, it's very fun.
+
+12:38:21
+<transcript>: Type Three for Ian Competitive achiever. Oh, I know. Type three.
+
+12:38:21
+<transcript>: are live in
+
+12:38:24
+<transcript>: Are live in nanny. Pearl. Is a type three.
+
+12:38:31
+<transcript>: And I think my co founder, eli, is a type three, although he doesn't do the Inagram stuff. I'm just I can tell. Yeah, you can just tell.
+
+12:38:37
+<transcript>: Remix guys have to get me now. Sorry. Remix guys. It's a lot of things you're kind of missing.
+
+12:38:37
+<transcript>: what
+
+12:38:41
+<transcript>: What was that? I was missing something. Why do you need a ui? Oh.
+
+12:38:41
+<transcript>: wait
+
+12:38:44
+rudixworld: very trendy design this rebase / remix project ... I am so winning this Mac :)
+
+12:38:46
+<transcript>: Wait. I don't know. I don't know what you were saying, Nicholas, if you were talking to me.
+
+12:38:46
+<transcript>: you did
+
+12:38:50
+<transcript>: You did point it out to wow. That's how far behind I am.
+
+12:38:50
+<transcript>: dad
+
+12:38:51
+<transcript>: Dad.
+
+12:38:51
+<transcript>: alright i gotta
+
+12:38:56
+<transcript>: Alright. I gotta head out to Dr. C. Nicholas. I'm sure you left like five minutes ago. See.
+
+12:39:03
+<transcript>: Okay. Just missing. Nick. I missed Nick. I miss. I miss Nick.
+
+12:39:03
+<transcript>: star
+
+12:39:05
+<transcript>: Star ansible.
+
+12:39:07
+<transcript>: Okay.
+
+12:39:13
+<transcript>: I got the book on my desk right now. Oh, the enigram book. Nice.
+
+12:39:19
+saudxd_: Sadge nick
+
+12:39:28
+<transcript>: Very trendy design this rebates remix project. I am so winning this Mac. Oh, no, Rudyx, I'm not giving away Mac. Did I say I was giving away Mac? I'm not giving away a Mac today. I'm giving away a to bs credits just as good.
+
+12:39:33
+<transcript>: Thank you for the follows. Stalwart.
+
+12:39:33
+<transcript>: and
+
+12:39:37
+<transcript>: And sonics and did I see gjam.
+
+12:39:41
+<transcript>: J jam, Why did I say J.
+
+12:39:44
+<transcript>: jg
+
+12:39:49
+brianhhough: AWS credits > anything else
+
+12:39:54
+<transcript>: Jg It's hard for me to say those two letters together. Welcome to Chat sonics. Nick. I know. Maybe we could oh, I could reach out to him and see if he would come on my stream.
+
+12:39:54
+<transcript>: could i have
+
+12:39:57
+<transcript>: Could I have star ensue on my stream.
+
+12:40:03
+alexkates: @BrianHHough facts
+
+12:40:03
+<transcript>: Would that be the weirdest clash of personalities ever? I am very much not like Nick. Like.
+
+12:40:06
+<transcript>: He's hilarious. I'm not.
+
+12:40:09
+tiredbeaver: that'll be content
+
+12:40:11
+<transcript>: He says, whatever he thinks. I do not.
+
+12:40:15
+<transcript>: We would be we would be very contrasted.
+
+12:40:15
+<transcript>: i would probably
+
+12:40:19
+<transcript>: I would probably be uncomfortable at seven, Several points.
+
+12:40:19
+<transcript>: of
+
+12:40:23
+<transcript>: Of the stream, like he would say something. And I would be like.
+
+12:40:24
+stiefbroerikzitvast: hes a dead streamer, you're very much alive
+
+12:40:25
+<transcript>: Kind of.
+
+12:40:28
+<transcript>: Disturbing. I love Nick.
+
+12:40:30
+<transcript>: Okay.
+
+12:40:30
+<transcript>: that'll be
+
+12:40:36
+<transcript>: That'll be content. We're gonna do it now. I'm just gonna get him to come on. Just still, like, hang out with me and make me feel uncomfortable.
+
+12:40:46
+<transcript>: He'll say something very offensive to me or not not to me, but like, but I feel like other people are offended by remember, I'm a type nine. Like, if other people feel bad, I feel bad.
+
+12:40:46
+<transcript>: so
+
+12:40:47
+<transcript>: So.
+
+12:40:49
+brianhhough: @alexkates u know it!! also congrats on your app’s launch! 🔥🔥
+
+12:40:50
+<transcript>: Yeah, that'd be fun.
+
+12:40:54
+<transcript>: I tried not to say anything that would offend people for the same reason.
+
+12:40:58
+<transcript>: Okay.
+
+12:40:58
+<transcript>: so
+
+12:41:01
+<transcript>: So cloud lens.
+
+12:41:01
+<transcript>: cl
+
+12:41:02
+saudxd_: i'm type 7 🤡
+
+12:41:02
+stalwartcoder: This project was recently open sourced. Looks good.
+
+12:41:03
+tiredbeaver: sometimes you just gotta be based
+
+12:41:07
+<transcript>: Cli or no, it's a it's a cli for aws, but not the aws. Cli.
+
+12:41:09
+tiredbeaver: bc some people get offended easily
+
+12:41:10
+<transcript>: Interesting cow face. Interesting. Okay, I see.
+
+12:41:10
+<transcript>: so it's just like
+
+12:41:15
+<transcript>: So it's just like a better it's just supposed to be like a better cli. Basically.
+
+12:41:15
+<transcript>: for
+
+12:41:16
+<transcript>: For AWS.
+
+12:41:16
+<transcript>: i do
+
+12:41:22
+stiefbroerikzitvast: how did you find out you're type 9? Is there a test somewhere I can do?
+
+12:41:25
+stalwartcoder: For AWS console with some tweaks
+
+12:41:26
+<transcript>: I do kind of appreciate it. There's their cli. I appreciate how a lot of their tools I know consistency, like within their products, is not what they're known for. But I feel like.
+
+12:41:26
+<transcript>: i can kind of
+
+12:41:27
+iannery: sup adam!
+
+12:41:33
+mehulsharmamat: yoo heyy! (sending msgs while watching ads)
+
+12:41:34
+<transcript>: I can kind of guess what the cli commands will be for basically any api that I ever hit regularly and that's not nice. Like you just kind of know what it's gonna be.
+
+12:41:42
+<transcript>: Stalwart. Welcome to Chat. This project was recently open source. Looked good. Okay.
+
+12:41:45
+<transcript>: Sonic's also type seven.
+
+12:41:46
+alexkates: fig + aws-cli is superpower
+
+12:41:55
+<transcript>: Sometimes you just got to be based because some people get offended easily. I actually don't know what base means. Could someone please tell me I could Google? Let's just Google it.
+
+12:41:56
+mehulsharmamat: oh my god I love the camera views!!!
+
+12:41:59
+<transcript>: Jin ZBased.
+
+12:42:02
+saudxd_: PepeLaugh
+
+12:42:03
+cowfacedude99: !lurk
+
+12:42:04
+alexkates: @BrianHHough Thanks homie!
+
+12:42:06
+<transcript>: Let's put base in quotes.
+
+12:42:11
+<transcript>: What does this mean.
+
+12:42:14
+rudixworld: for rebase you are getting the username of the GitHub user, yet the referral url is this random string .. it would be much better if you use the username
+
+12:42:18
+overra_dev: lol google
+
+12:42:18
+<transcript>: Based to be your self and not care about how others view you okay.
+
+12:42:24
+<transcript>: Okay. So that's what people say. That's based it just means, like.
+
+12:42:26
+<transcript>: Just being myself. Okay.
+
+12:42:26
+<transcript>: i'm gonna
+
+12:42:30
+<transcript>: I'm gonna try and remember that some people get affinity to it's true.
+
+12:42:30
+<transcript>: but my mom
+
+12:42:36
+<transcript>: But my mom also watches me stream, and I know she gets offended when if I say certain things.
+
+12:42:36
+<transcript>: i know she
+
+12:42:38
+<transcript>: I know she does.
+
+12:42:41
+<transcript>: And yes, my mom does watch my.
+
+12:42:41
+<transcript>: i've never
+
+12:42:43
+stalwartcoder: TIL
+
+12:42:47
+<transcript>: I've never seen her saying in Chat, but once she she went up early. And I once you learned that I streamed on Twitch.
+
+12:42:47
+<transcript>: she found
+
+12:42:48
+overra_dev: that's cool :)
+
+12:42:54
+<transcript>: She found out how to navigate there on the Internet. And she might be among us right this moment. I love you, mom. Aye.
+
+12:42:59
+<transcript>: How did you find out your type nine? Is there a test? Yeah, just Google, Google.
+
+12:43:04
+<transcript>: Enneagram test it's free. You can do the test for free.
+
+12:43:08
+saudxd_: @adamdotdevmom
+
+12:43:18
+<transcript>: Lanerry. What's going on later, II? Welcome to Chat. Maholsharman. Met. I'm sorry I botched her name. If you could tell me what you'd like me to call you. That's a little bit shorter. Just a few like maho. Can I just call you Mohu.
+
+12:43:18
+<transcript>: i don't want to cut off
+
+12:43:21
+mehulsharmamat: that's fine - may-hul is good
+
+12:43:26
+<transcript>: I don't want to cut off in the middle of a name if Yo hey, sending messages while watching ads? Oh, I'm sorry. You're watching ads. I'm sorry about that.
+
+12:43:26
+<transcript>: i forget
+
+12:43:35
+mehulsharmamat: ads are GOOD!
+
+12:43:40
+<transcript>: I forget that ads are. I do the twitch turbo thing, so I never see ads on twitch. And I forget that some people see ads on twitch. I'm sorry about that. I wish I could. Can I do something about it? I actually don't even know. I think I used to know and I don't know anymore.
+
+12:43:46
+<transcript>: Alex. So it's Fig plus. Aws, cli is a super pair. Oh, you use fig.
+
+12:43:46
+<transcript>: okay
+
+12:43:47
+<transcript>: Okay.
+
+12:43:47
+<transcript>: you
+
+12:43:50
+<transcript>: You love the camera views. That's good news.
+
+12:43:50
+<transcript>: i do have
+
+12:44:03
+<transcript>: I do have some camera views on this stream you will see some camera views for sure. Goodbye, Calface. I don't want I don't know why I always tell you goodbye when you say you're lurking I probably don't need to but goodbye.
+
+12:44:12
+<transcript>: For rebates you are getting the username of the GitHub user yet the referral URL is this random string. It will be much better if you use the username.
+
+12:44:12
+<transcript>: interesting
+
+12:44:14
+<transcript>: Interesting rudics.
+
+12:44:17
+<transcript>: Yeah, I guess it could.
+
+12:44:28
+<transcript>: I don't know if dax joins. Well, he's smarter. He does smart things on rebates, and we can ask him if there's any reason we can't do that. I guess the only problem would be if you change your github username or something.
+
+12:44:28
+<transcript>: i'm not sure
+
+12:44:30
+<transcript>: I'm not sure.
+
+12:44:32
+<transcript>: Okay.
+
+12:44:32
+<transcript>: dev
+
+12:44:34
+<transcript>: Dev mom.
+
+12:44:45
+<transcript>: Mayhule is good. Okay. Mayhewell, thank you for the thank you for the pronunciation, everybody. It helps me a lot when you like phonetically spell stuff out for me.
+
+12:44:45
+<transcript>: okay
+
+12:44:49
+iannery: did you use the ticket component from next.conf in rebase or its just a similar one?
+
+12:44:49
+<transcript>: Okay. Let's get to it. We're going to.
+
+12:44:49
+<transcript>: see i want to
+
+12:44:59
+<transcript>: See, I want to do the giveaway right now. Don't want to do the giveaway. Maybe I'll just sprinkle the giveaways in throughout the entire show. I've got I've got 20 of them to give away.
+
+12:45:05
+<transcript>: Should I just do one every once in a while? We'll just keep doing them throughout the let's see that why not.
+
+12:45:05
+<transcript>: instead of doing
+
+12:45:07
+<transcript>: Instead of doing them all at once.
+
+12:45:09
+alexkates: do it
+
+12:45:10
+devinda_me: giveaway countdown
+
+12:45:13
+<transcript>: Mayhule thank you so much for the subscription tier one. Appreciate that so much.
+
+12:45:15
+brianhhough: Here for the sprinkle ✨
+
+12:45:18
+mehulsharmamat: subbed for the camera views :)
+
+12:45:20
+devinda_me: for every giveaway
+
+12:45:21
+<transcript>: That's. Do you just joined, right? You're brand new. You're brand new. You've already subscribed.
+
+12:45:29
+saudxd_: POGGERS
+
+12:45:31
+<transcript>: I appreciate that a whole lot. Okay. Yeah, we'll do it. We'll just do it right now. Let's see if it works.
+
+12:45:38
+stinklestudio: I just did research and saw that type 7 is the more rare number to get. Who knew haha
+
+12:45:38
+<transcript>: Did you laner you did you use the ticket component from Next conf and rebase? Or is it just a similar one? It's just similar. I just modeled.
+
+12:45:46
+<transcript>: This kind of like drew from a lot of that prior art. There are other people that have done things similar, just kind of like modeled our thing after that.
+
+12:45:46
+<transcript>: but it's not
+
+12:45:50
+<transcript>: But it's not the same component or anything. I mean, it's.
+
+12:45:50
+<transcript>: i don't think we're
+
+12:45:54
+<transcript>: I don't think we're using the same tech. It's not next. It's astro. So.
+
+12:46:00
+<transcript>: Yeah, just designed it in figma, and then made it.
+
+12:46:05
+<transcript>: Giveaway countdown here for the sprinkle.
+
+12:46:11
+<transcript>: Sub for the camera views. Alright.
+
+12:46:11
+<transcript>: okay
+
+12:46:17
+<transcript>: Okay, here we go. We're gonna do a giveaway. We're gonna see if the button just works. If it just works, that would be fantastic.
+
+12:46:21
+<transcript>: Yeah. Actually. Single type seven. I don't know. A lot of type seven.
+
+12:46:25
+<transcript>: Is type Seven. The life of the Party one.
+
+12:46:29
+<transcript>: I think one of my brothers is the type seven.
+
+12:46:31
+saudxd_: i'm here
+
+12:46:32
+stinklestudio: The Social Energizer
+
+12:46:36
+<transcript>: But if I recall there are not a lot of type sevens or is the type seven the.
+
+12:46:36
+<transcript>: social
+
+12:46:39
+stinklestudio: Pleasure seeker LUL
+
+12:46:43
+<transcript>: Social energizer? Yeah, yeah the life of the party yeah, yeah my older brother is the type Seven We think.
+
+12:46:43
+<transcript>: pleasure
+
+12:46:45
+<transcript>: Pleasure. Figure. Yeah, that sounds right.
+
+12:46:49
+maleero: What do we have to do to enter? Just exist in your chat?
+
+12:46:51
+<transcript>: And I think my younger brother is a type four, which is the like.
+
+12:46:59
+<transcript>: Kind of artist. Nobody there's nobody like me I'm very unique. Hang on one SEC I gotta close a blind.
+
+12:47:14
+<transcript>: Here we go. What do we have to do to enter? Yeah. You're gonna see.
+
+12:47:14
+<transcript>: now i'm gonna
+
+12:47:15
+<transcript>: Now I'm gonna hit a button.
+
+12:47:15
+<transcript>: if
+
+12:47:17
+mehulsharmamat: I have no idea what AWS does or how it works but I think I need to use s3 for a project. kinda scared
+
+12:47:18
+0xjonan: same let me uhmmm win 1k
+
+12:47:24
+mehulsharmamat: buuut it should be good
+
+12:47:33
+<transcript>: If you just subscribed or no that's I'm sorry you're maliro. If you've got some channel points, it'll be helpful because the way you enter is by spinning channel points. Ooh, this is gonna be tough if I'm doing it 20 times, I you're gonna spend so many point. Nobody like people won't have enough points so I can't do that.
+
+12:47:38
+<transcript>: We'll just we'll do away with the point restriction today.
+
+12:47:40
+tayloreddev: i've got plenty
+
+12:47:41
+<transcript>: Or we'll make it like ten points or something.
+
+12:47:45
+laytanl_: ^
+
+12:47:56
+<transcript>: Okay, we'll do that. Let's just lower the amount of points. I have no idea what a tobacco does or how it works, but I think I need to use S three for a project. Kind of scared. Well, hey, mayhu you're gonna have maybe some A Tobis credits.
+
+12:47:56
+<transcript>: save you
+
+12:48:07
+binajmen: Good afternoon adam
+
+12:48:08
+greenshoesbrownsocks: hello
+
+12:48:08
+brianhhough: S3 for the win 🙏
+
+12:48:09
+<transcript>: Save you some some money there. Welcome to Chat jonan. Same. Let me win one. K. We're actually giving away $2050 credits, so I'm gonna do it 20 times throughout the show.
+
+12:48:09
+<transcript>: i'm
+
+12:48:12
+<transcript>: I'm calling this a show. Now. The stream, whatever.
+
+12:48:22
+stalwartcoder: XD
+
+12:48:24
+<transcript>: Also Jonathan, I've noticed several people in the last few days like this week I came back to streaming. A lot of people use the little like hexadecimal Zero X thing. I've noticed that is that a trend.
+
+12:48:34
+<transcript>: Or you've all been out there forever and I'm just attracting you somehow there's something I'm doing.
+
+12:48:34
+<transcript>: to
+
+12:48:37
+0xjonan: started from crypto devs i think
+
+12:48:37
+<transcript>: To tracking the hexadecimal crowd.
+
+12:48:37
+<transcript>: okay
+
+12:48:38
+<transcript>: Okay.
+
+12:48:38
+<transcript>: the taylor's got
+
+12:48:40
+stalwartcoder: I think that’s relayed to crypto thingy
+
+12:48:40
+rudixworld: "double it and give it to the next person" Kappa
+
+12:48:44
+mehulsharmamat: Oh yeah it has a show quality ngl - the camera quality is superb (i know mentioned too many times but it is!)
+
+12:48:44
+<transcript>: The taylor's got plenty. Leighton. Also. Good afternoon, Benjamin. Good afternoon, Green Shoes is here.
+
+12:48:44
+<transcript>: okay
+
+12:48:46
+stalwartcoder: Related*
+
+12:48:48
+<transcript>: Okay, here we go? We're gonna do the first giveaway? Oh, yeah? I gotta make a change.
+
+12:48:57
+<transcript>: Quality. Superb. Thank you. Mayhool you're fine. You can mention it. You can talk about the camera. Call the all you want.
+
+12:48:57
+<transcript>: all you want
+
+12:48:59
+<transcript>: All you want.
+
+12:48:59
+<transcript>: let's
+
+12:49:05
+<transcript>: Let's see if I got this one working. I set. Where is it? Mobile. I set this camera up. Here we go.
+
+12:49:09
+<transcript>: Oh, geez, that's not the right direction.
+
+12:49:11
+overra_dev: lol
+
+12:49:17
+mehulsharmamat: behind the AWS
+
+12:49:17
+<transcript>: I put a camera behind me. That's what I was doing. That's why I was late this morning. Hang on one SEC.
+
+12:49:23
+stalwartcoder: Lol
+
+12:49:33
+<transcript>: Okay. Now it should be better. You won't see it until I go on break and then you'll see it. You can see it behind me.
+
+12:49:34
+daneoshiga: "kid asking for attention view"
+
+12:49:37
+<transcript>: Just literally laying in the floor.
+
+12:49:37
+<transcript>: okay
+
+12:49:38
+<transcript>: Okay.
+
+12:49:40
+<transcript>: Let's see.
+
+12:49:40
+<transcript>: was it
+
+12:49:45
+<transcript>: Was it doing? Oh, I was gonna go to my overlays. Let's do this.
+
+12:49:50
+<transcript>: There's nothing sensitive showing right now. I don't normally I don't intend to share this screen.
+
+12:49:50
+<transcript>: oh geez
+
+12:49:52
+<transcript>: Oh, geez, what did I just do.
+
+12:49:57
+mehulsharmamat: im so scared of the logs I just saw
+
+12:49:58
+<transcript>: That's that wake indicator is a light and my kids room and it would turn on and wake them up.
+
+12:50:01
+<transcript>: Don't want to hit that button.
+
+12:50:01
+<transcript>: okay
+
+12:50:04
+<transcript>: Okay. Let's go to giveaways.
+
+12:50:06
+<transcript>: Giveaway.
+
+12:50:11
+<transcript>: And there should be like a point. Let's see.
+
+12:50:18
+<transcript>: Oh, you know what? It's actually here. I can just change the cost right here. We'll just make it cost.
+
+12:50:24
+<transcript>: Ten points per entry. You can do four Max.
+
+12:50:31
+<transcript>: Or or we're doing 20 today. So how would I make it? Where if you have a thousand channel point.
+
+12:50:31
+<transcript>: you could get
+
+12:50:34
+<transcript>: You could get the maximum effect today.
+
+12:50:37
+<transcript>: So if there's 20.
+
+12:50:40
+<transcript>: That means you'd spend 50.
+
+12:50:45
+<transcript>: 50 points per round.
+
+12:50:45
+<transcript>: and if we
+
+12:50:50
+<transcript>: And if we want to say you have multiple entries, let's just say not multiple entries today. Let's just say you.
+
+12:51:02
+<transcript>: Spend 50 Channel Points. You get an entry into each round under 20 rounds.
+
+12:51:02
+<transcript>: you got twenty
+
+12:51:04
+<transcript>: You got 20 chances at winning.
+
+12:51:06
+<transcript>: A $50.
+
+12:51:06
+<transcript>: aws
+
+12:51:09
+<transcript>: Aws Promotional credit.
+
+12:51:09
+<transcript>: and
+
+12:51:10
+<transcript>: And.
+
+12:51:12
+<transcript>: I guess the same person could win multiple.
+
+12:51:12
+<transcript>: user ma
+
+12:51:18
+<transcript>: User Max. Wait, no, no. User Max would mean, oh, that doesn't work.
+
+12:51:21
+greenshoesbrownsocks: username === 'greenshoesbrownsocks' ? giftAllPoints ? giftAllPoints
+
+12:51:25
+<transcript>: Okay, here we go. This is kind of fun. User Max is 20 so you could send.
+
+12:51:33
+<transcript>: You can spend all your 20 entries on the first one, or you could spread them out over the 20 rounds, right.
+
+12:51:33
+<transcript>: that's kind of cool
+
+12:51:35
+<transcript>: That's kind of cool.
+
+12:51:35
+<transcript>: kind of
+
+12:51:37
+thdxr: in here
+
+12:51:38
+<transcript>: Kind of fun. I think that's kind of fun.
+
+12:51:38
+<transcript>: is that fun
+
+12:51:42
+<transcript>: Is that fun? Somebody tell me if that's fun I'm waiting for next is here.
+
+12:51:48
+binajmen: so fun!
+
+12:51:49
+mehulsharmamat: @greenshoesbrownsocks const username = parseUsername() as number
+
+12:51:50
+schrew: im here
+
+12:51:51
+<transcript>: Is that fun? Dax. Dax, I'm gonna do. I'm giving away 20 $50 AWS credits total thousand dollars in need of business credit.
+
+12:51:57
+<transcript>: But I'm thinking I'm gonna do it over, like 20 rounds, just rather stream.
+
+12:51:59
+<transcript>: And.
+
+12:52:01
+ogasege: Need someone to explain to me
+
+12:52:04
+<transcript>: They're gonna each cost an entry cost 50 channel points. Okay.
+
+12:52:04
+<transcript>: so
+
+12:52:05
+<transcript>: So.
+
+12:52:09
+<transcript>: So if there's a user Max of 20.
+
+12:52:09
+mehulsharmamat: adamdotmatch
+
+12:52:10
+<transcript>: Then.
+
+12:52:10
+<transcript>: you
+
+12:52:11
+mehulsharmamat: math
+
+12:52:16
+<transcript>: You could choose to enter all your entries on the first one, or spread them out over the 20 rounds, however you want.
+
+12:52:16
+<transcript>: i think that's
+
+12:52:19
+<transcript>: I think that's pretty fun. We're gonna do it that way.
+
+12:52:19
+<transcript>: okay
+
+12:52:21
+<transcript>: Okay.
+
+12:52:28
+<transcript>: So now everybody's gonna use their 20 on the first one, and it's gonna be a noxious, there's gonna be so many.
+
+12:52:28
+<transcript>: events
+
+12:52:31
+<transcript>: Events flying around. Okay, let's try this. Giveaway.
+
+12:52:36
+<transcript>: No, I don't need to do anything different here. I just need to.
+
+12:52:51
+<transcript>: Okay say.
+
+12:52:51
+<transcript>: og
+
+12:52:53
+greenshoesbrownsocks: not me
+
+12:52:54
+mehulsharmamat: @ogasege i think following and lurking has it?
+
+12:52:57
+<transcript>: Did I say it right? Okay. Second.
+
+12:53:01
+tayloreddev: \o
+
+12:53:04
+studioprisoner: lets gooo first try!
+
+12:53:04
+<transcript>: It's been a bit and I've already had to try and pronounce someone else's name, and now it left my brain.
+
+12:53:08
+ogasege: @ogasege Oh I see
+
+12:53:10
+<transcript>: Let's go first try studio prisoner.
+
+12:53:15
+<transcript>: Here we go. I'm gonna hit the button. We have a button.
+
+12:53:15
+<transcript>: that starts
+
+12:53:16
+brianhhough: First try 🔥
+
+12:53:20
+<transcript>: That starts to give away when I hit that button, it should send a message to chat.
+
+12:53:20
+<transcript>: what's everybody
+
+12:53:22
+ogasege: just go on haha
+
+12:53:24
+<transcript>: What's? Everybody first trying. What did I do to do something? First try.
+
+12:53:26
+<transcript>: Did I do something.
+
+12:53:30
+<transcript>: Just go on. Okay. Sorry.
+
+12:53:30
+<transcript>: sega
+
+12:53:31
+<transcript>: Sega I messed up.
+
+12:53:31
+<transcript>: okay
+
+12:53:35
+<transcript>: Okay. Oneonone call. Nope. I find it.
+
+12:53:35
+<transcript>: there should be giveaway
+
+12:53:41
+brianhhough: You said you were doing something on the first try haha
+
+12:53:42
+<transcript>: There should be giveaway entry. Okay, it's not there yet because I've hit the button. I'm gonna hit this button. It's gonna enable the channel point redemption.
+
+12:53:42
+<transcript>: called
+
+12:53:45
+<transcript>: Called giveaway entry or something.
+
+12:53:45
+mrsgoodman_: !giveaway
+
+12:53:45
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+12:53:48
+<transcript>: Oh, I said I was doing something on the first try. Thank you.
+
+12:53:55
+<transcript>: So I'm gonna hit the button and, oh, we're gonna see if it works on the first try. It's gonna announce and chat. You can now.
+
+12:53:55
+<transcript>: redeem the channel
+
+12:53:57
+<transcript>: Redeem the channel. Point reward.
+
+12:53:57
+<transcript>: and then everybody
+
+12:54:09
+<transcript>: And then everybody's entries will fly in and end up in my overlay app, and then we'll choose one at random. When I hit the second button, ready, we're gonna try it. It could totally fail. Who knows? Here we go.
+
+12:54:09
+simaomsjr: !giveaway
+
+12:54:09
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+12:54:22
+<transcript>: Let's giveaway begin redeem your channel points now. Okay. Did it work? Are the point. Oh, there they are. Yep. 50 points. Here they come. Oh, this gets obnoxious. I remember, like, the number of notifications.
+
+12:54:24
+binajmen: !giveaway
+
+12:54:25
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+12:54:28
+<transcript>: Well, this is fun. Maybe I should change.
+
+12:54:31
+<transcript>: My notifications view.
+
+12:54:33
+<transcript>: For next time.
+
+12:54:33
+<transcript>: to not
+
+12:54:35
+<transcript>: To not be.
+
+12:54:38
+<transcript>: Every single one I don't know.
+
+12:54:38
+<transcript>: it's kind of fun
+
+12:54:41
+mehulsharmamat: oh this looks great
+
+12:54:42
+<transcript>: It's kind of fun, though. Remember that when I made that animation, I did that on Stream. That was fun.
+
+12:54:42
+<transcript>: confet
+
+12:54:44
+<transcript>: Confetti going.
+
+12:54:51
+<transcript>: Oh, that's a lot of that's. A lot of redeeming.
+
+12:54:51
+<transcript>: it's a lot of red
+
+12:55:01
+overra_dev: nice
+
+12:55:05
+binajmen: which audio headset are you using?
+
+12:55:06
+<transcript>: It's a lot of redeeming people. Okay. So remember, you could redeem this a lot of times, but you can only redeem it 20 times in this stream, and I'm giving away 20 separate rounds, so you don't want to spin them all at once. If you want to spread out your giveaway entry or entrance.
+
+12:55:06
+<transcript>: entries
+
+12:55:15
+schrew: But there might be more people here later!!!
+
+12:55:15
+lilfreezi: ALL OR NOTHING BABY
+
+12:55:17
+<transcript>: Entries. You might want to spread them out. You might want to save some for the next round. Okay, I'm just telling everybody you can only do 20 today. Dax, did you hear the rules? Did everyone even hear the roles? Did I explain the rules.
+
+12:55:25
+mehulsharmamat: people are playing their own game lol
+
+12:55:25
+<transcript>: I feel like everyone's redeeming a lot. And the next round, no one's gonna have points or no one's gonna be able to redeem because you don't have.
+
+12:55:25
+<transcript>: you've used your
+
+12:55:27
+blakegreendev: Going all in on the first one! Yolo!
+
+12:55:31
+<transcript>: You've used your 20 entries. You know, I'm saying, this is just for $50 people. This is not the one.
+
+12:55:33
+<transcript>: Oh, my goodness.
+
+12:55:35
+stalwartcoder: Yes we did
+
+12:55:35
+mehulsharmamat: im playing the probability game baby
+
+12:55:39
+<transcript>: We're giving away $2050 credits. Okay.
+
+12:55:41
+binajmen: I'll wait the end of the stream to play alone :D
+
+12:55:41
+<transcript>: $2050 credits.
+
+12:55:41
+<transcript>: this is just the
+
+12:55:43
+<transcript>: This is just the first round.
+
+12:55:43
+<transcript>: there will be
+
+12:55:51
+brianhhough: $50 to build the next FAANG company u never know
+
+12:55:53
+mehulsharmamat: @binajmen me and you
+
+12:56:02
+mehulsharmamat: this is like squid game rn lol
+
+12:56:04
+<transcript>: There will be 19 more rounds. Okay, you're playing the probability game. Well, I think everyone's not playing the probability game because everyone's throwing in all their chips at the same time. So you're all just getting diluted. If you saved it for like, round 20, no one will have any redemptions left. And then probabilities are definitely in your favor. Okay, now that I've explained math and prob.
+
+12:56:04
+<transcript>: probabilities
+
+12:56:08
+<transcript>: Probabilities. So the best of my ability, this is like squid Gaming right now.
+
+12:56:08
+<transcript>: the not
+
+12:56:10
+greenshoesbrownsocks: every knows the first $50 is worth the most
+
+12:56:10
+<transcript>: The notifications are probably gonna go on.
+
+12:56:10
+<transcript>: forever
+
+12:56:12
+binajmen: haha
+
+12:56:12
+thdxr: shut up Adam yolo!
+
+12:56:13
+<transcript>: Forever. I don't think they'll ever stop.
+
+12:56:17
+<transcript>: I guess I don't need to be on this video. I'm gonna come back over here.
+
+12:56:17
+<transcript>: shut up adam
+
+12:56:20
+<transcript>: Shut up. Adam. Yolo.
+
+12:56:23
+<transcript>: You guys are fun.
+
+12:56:30
+blakegreendev: @thdxr 😂
+
+12:56:30
+<transcript>: Dax, after this. This is just the first round. I'm gonna start working on rebase. We've just been talking for an hour.
+
+12:56:30
+<transcript>: so
+
+12:56:32
+<transcript>: So.
+
+12:56:32
+<transcript>: yeah
+
+12:56:33
+<transcript>: Yeah.
+
+12:56:37
+mehulsharmamat: @adamdotdev if you're logging how many people are clicking redeem per round I'm down to make a chart for it!
+
+12:56:38
+<transcript>: Blake Green is here.
+
+12:56:43
+<transcript>: Blake Green Everyone knows the first $50 is worth the most.
+
+12:56:52
+thdxr: I probably broke everything in the rebase codebase so that'll be fun
+
+12:56:54
+<transcript>: $50 to build the next fang Company. You never know. You never know, Brian. That's right. Somebody could build the next unicorn with this $50.
+
+12:57:00
+<transcript>: Yeah, binge, man, that's a good call wait till the end of the stream to play alone.
+
+12:57:03
+<transcript>: Okay, looks like the entries have slowed down.
+
+12:57:06
+overra_dev: i keep getting more channel points to bet with
+
+12:57:07
+<transcript>: Thank you for the follow. Br, four.
+
+12:57:09
+<transcript>: Br for Adam.
+
+12:57:09
+<transcript>: bradham
+
+12:57:11
+<transcript>: Bradham.
+
+12:57:16
+<transcript>: Okay, so we got a few more entries rolling in.
+
+12:57:16
+<transcript>: remember
+
+12:57:19
+gerellt: daddys gotta pay off 20k aws bill
+
+12:57:20
+<transcript>: Remember there will be more Ram. You can save your entries for later.
+
+12:57:24
+daneoshiga: I won't be able to stick for long, so it's all or nothing xD
+
+12:57:25
+<transcript>: People are playing their own game.
+
+12:57:31
+<transcript>: All or nothing, baby, you guys really are a bunch of yoloters, aren't you.
+
+12:57:49
+<transcript>: Okay, I'm gonna have to cut it off here pretty quick, and I think it's then you're all's interest that I cut it off. Actually, I'm just gonna go and cut it off because I feel like I'm doing it all a favor. If I cut it off now, you can save some of those for later. Here we go. Choosing the first winner. Round one. The winner is.
+
+12:57:49
+<transcript>: food
+
+12:57:49
+binajmen: thank god the chat is not in vegas
+
+12:57:50
+<transcript>: Food, boob.
+
+12:57:53
+mehulsharmamat: yooo @foobfoob congratss
+
+12:57:57
+<transcript>: Food. You win. You're gonna have to join Chat. If you're not already in Chat, you won.
+
+12:57:58
+foobfoob: yeeeesssss
+
+12:58:00
+foobfoob: im in chat
+
+12:58:04
+brianhhough: 🥳🥳🥳🥳
+
+12:58:09
+<transcript>: Congrats Food round $150 promotional credit. You are the winner. Here's what we're gonna do. Yes, you're in Chat now. Foo poop. If you could help me out and send me a dm saying I won the first round.
+
+12:58:10
+schrew: Congrats @foobfoob! Did you go all in???
+
+12:58:15
+foobfoob: on twitter?
+
+12:58:19
+<transcript>: That will make it easy for me, because I'm gonna do this all at the end. I'm not gonna try and like, send them out on stream, just like I'll leak them all, and then they'll be all worth nothing, because somebody will see them.
+
+12:58:26
+laytanl_: How many entries did you do @foobfoob ?
+
+12:58:26
+<transcript>: So no, just here on twitch is fine. Twitter were maybe there's a better way for me to keep track. Hang on, let me look.
+
+12:58:35
+<transcript>: If my rewards, I think I put these in the giveaway? Yeah, yeah, I put these in here. I'll come back over to my screen now.
+
+12:58:37
+gerellt: @laytanl_ asking the real questions
+
+12:58:40
+<transcript>: So it writes a file like this that has the whole list.
+
+12:58:43
+<transcript>: The whole list. You dummies.
+
+12:58:43
+<transcript>: why
+
+12:58:45
+<transcript>: Why did you all enter so many times.
+
+12:58:45
+<transcript>: two
+
+12:58:48
+<transcript>: 222 entrance.
+
+12:58:48
+<transcript>: so
+
+12:58:57
+<transcript>: So how could I remember the winner? I should output the winner to this file. Now I'm just trying to create more work for myself. What am I doing? I don't need to do that. So we're gonna call this one.
+
+12:58:58
+tymekdev: @adamdotdev we see the infinite mirror with OBS!
+
+12:59:00
+<transcript>: Oh, I'll just put the name of the winner.
+
+12:59:00
+<transcript>: in the file
+
+12:59:02
+<transcript>: In the file.
+
+12:59:02
+<transcript>: in the filen
+
+12:59:03
+<transcript>: In the filename. Right.
+
+12:59:03
+<transcript>: so we'll
+
+12:59:06
+<transcript>: So we'll say a rename to.
+
+12:59:10
+<transcript>: Round one, or we'll say, aws, credit.
+
+12:59:13
+<transcript>: One soup Foo.
+
+12:59:13
+<transcript>: look at that
+
+12:59:14
+<transcript>: Look at that.
+
+12:59:14
+<transcript>: help me remember
+
+12:59:19
+<transcript>: Help me remember you can still send me a dm, but I think I'm got a system now.
+
+12:59:19
+<transcript>: okay let's
+
+12:59:22
+<transcript>: Okay, let's get some work done, and we'll do another giveaway here in a SEC.
+
+12:59:26
+<transcript>: I'm so happy that it worked.
+
+12:59:26
+<transcript>: you see the
+
+12:59:29
+<transcript>: You see the infinite Mirror with obs. That's right.
+
+12:59:34
+<transcript>: Sometimes I have to give you a peek behind the curtain.
+
+12:59:34
+<transcript>: sometimes
+
+12:59:35
+<transcript>: Sometimes.
+
+12:59:35
+<transcript>: i'm just
+
+12:59:38
+<transcript>: I'm just so glad the giveaway thing worked.
+
+12:59:43
+yeltrah_: hey hey
+
+12:59:45
+<transcript>: Oh denio, you won't be able to sick for law. So that was your all or nothing. I'm so sorry, Daniel. We'll do another one here in like ten minutes.
+
+12:59:52
+<transcript>: Gerald daddy's got to pay off $20,000 a to best bill. Good luck with the $50 credits.
+
+12:59:54
+<transcript>: Okay.
+
+13:00:01
+<transcript>: Oh, yeah. Dax, you probably broke everything. I'm scared. Honestly, dax, I'm scared to pull it down. I haven't pulled it down.
+
+13:00:07
+<transcript>: Like I've got everything pulled up, I've got it all running again, which is quite a feat, by the way.
+
+13:00:07
+<transcript>: i've got like
+
+13:00:10
+brianhhough: Every little bit helps
+
+13:00:10
+<transcript>: I've got like this bottom pane down here.
+
+13:00:10
+<transcript>: in the corner
+
+13:00:15
+<transcript>: In the corner. I don't know how to show it. This one with my mouth. This is like.
+
+13:00:15
+<transcript>: sst
+
+13:00:16
+brianhhough: But 20k bill? 🥺🥺🥺
+
+13:00:24
+<transcript>: Sst Dev running this one here is the like Expodev server running this one here is Me streaming.
+
+13:00:25
+<transcript>: A.
+
+13:00:25
+<transcript>: rick athlete
+
+13:00:35
+<transcript>: Rick Athlete video to ibs so I can test with it while I'm building because I'm streaming on twitch. I can't really use my own stream. So this is the thing that's being streamed to rebase right now.
+
+13:00:40
+<transcript>: Yeah, my machine is doing a lot. I'm kind of surprised it's still standing.
+
+13:00:42
+<transcript>: Should have probably fallen over by now.
+
+13:00:51
+<transcript>: Okay, but I haven't pulled down your changes because I just want to make sure I get all this working.
+
+13:00:57
+<transcript>: With the fake video. And now I'm terrified. I'm terrified.
+
+13:00:57
+<transcript>: but i guess
+
+13:01:04
+<transcript>: But I guess I'll pull it down. Dax, you're here. You're here. So you can help me if everything breaks when I pull it down. Alright.
+
+13:01:04
+<transcript>: you confirm
+
+13:01:06
+<transcript>: You confirm or deny.
+
+13:01:13
+thdxr: sure!
+
+13:01:14
+<transcript>: Just in case that's something sensitive in there. Let's just go back.
+
+13:01:14
+<transcript>: and let's
+
+13:01:18
+<transcript>: And let's here we go. I'm gonna pull it down. Sure. Okay.
+
+13:01:22
+<transcript>: I've got all my changes stage does that mean I can do get pull rebates.
+
+13:01:30
+<transcript>: No, I have to commit or stash them okay feels bad when everything's running to do get stashed but.
+
+13:01:33
+<transcript>: I guess such as life.
+
+13:01:38
+<transcript>: Do I want to do this? It's gonna get rid of the video file. Everything's gonna break.
+
+13:01:41
+thdxr: commit
+
+13:01:41
+<transcript>: Maybe I'll just do this. Let's actually.
+
+13:01:41
+<transcript>: on
+
+13:01:44
+thdxr: then rebase
+
+13:01:47
+<transcript>: On purpose break every thing so I can feel a little better that everything's shut down.
+
+13:01:47
+<transcript>: let's shut it all
+
+13:01:49
+<transcript>: Let's shut it all down.
+
+13:01:51
+<transcript>: It's all shutting down.
+
+13:01:55
+<transcript>: Mit. Then rebase. Okay, you say commit, don't stash it okay.
+
+13:01:58
+<transcript>: We'll do that.
+
+13:02:00
+<transcript>: Get.
+
+13:02:04
+mehulsharmamat: i never touch prod after it's working - probably why my products dont get more than 1 user
+
+13:02:11
+<transcript>: I just don't even know what to say here. Animation progress.
+
+13:02:17
+<transcript>: Yeah, we got to get this on dev. That's what we're gonna do, right? So that we could get off my stupid branch.
+
+13:02:19
+<transcript>: Okay.
+
+13:02:22
+<transcript>: Get push no, I need to do get.
+
+13:02:22
+<transcript>: pull
+
+13:02:27
+<transcript>: Pull rebates really hard to type commands when the keycaster is right over it and I can't see anything.
+
+13:02:27
+<transcript>: here we
+
+13:02:29
+<transcript>: Here we go.
+
+13:02:36
+<transcript>: Got unmerged.
+
+13:02:37
+<transcript>: Conflict.
+
+13:02:47
+<transcript>: An app TX tsx package json and pmpm lock I don't care about pmp lock.
+
+13:02:50
+<transcript>: If I want to just.
+
+13:02:57
+<transcript>: How much is take your version of pmpm lock. How do I do that? Somebody tell me this. Some smart person tell me the git command.
+
+13:02:57
+<transcript>: thanks so
+
+13:03:01
+<transcript>: Thanks So much for Follow Eddie vick. Hey, anything.
+
+13:03:01
+<transcript>: zinc
+
+13:03:02
+<transcript>: Zinc. I know you some Twitter.
+
+13:03:05
+<transcript>: I know you from Twitter, Sir.
+
+13:03:05
+<transcript>: how you doing eddie
+
+13:03:07
+<transcript>: How you doing? Eddie, Eddie.
+
+13:03:12
+<transcript>: Never touch prod after it's working probably by my products don't get more than one user.
+
+13:03:13
+eddyvinck: Hey 👋
+
+13:03:15
+<transcript>: That's funny.
+
+13:03:15
+thdxr: you can probably fix those easily
+
+13:03:16
+binajmen: which audio headset do you have? it looks way more comfy than my beats..
+
+13:03:20
+eddyvinck: Doing alright, have a day off
+
+13:03:27
+<transcript>: Hey, somebody tell me, welcome to Chad, Eddie. Probably six those easily. I'm gonna fix the the twos that are easy, but the pmpm lock is there like a command where I can just be like, I want to take his version of pmp unlock. Isn't there just a way to do that.
+
+13:03:30
+<transcript>: Like if I said.
+
+13:03:36
+thdxr: run pnpm install and it'll fix it
+
+13:03:44
+<transcript>: Filters a get command for that. It's doing all right. Having a day off? Ooh, days off are always good. Which audio headset do you have? It looks way more comfy than My Beats is very comfy. These are Sethes or sinhizer.
+
+13:03:47
+<transcript>: Hd 650s.
+
+13:03:47
+<transcript>: i've had them for like
+
+13:03:53
+<transcript>: I've had them for, like six years, seven years. Pnp install and it'll fix it. Oh, good call.
+
+13:03:53
+<transcript>: it's not a
+
+13:03:56
+<transcript>: It's not a git thing. It's just a.
+
+13:03:56
+<transcript>: mp over
+
+13:03:58
+<transcript>: Mp override the lock file.
+
+13:04:02
+mehulsharmamat: closed back headphones - theo and I are not proud of you
+
+13:04:04
+thdxr: but need to fix package.json first
+
+13:04:04
+chronixsc: git checkout --theirs pathtofile
+
+13:04:05
+<transcript>: Good call, good callbacks so dax said some crazy typescript things.
+
+13:04:08
+<transcript>: And we're gonna see if they work.
+
+13:04:14
+<transcript>: Oh need to fix the package? Json I'm so dumb. Well, it's trying. Even without fix.
+
+13:04:19
+<transcript>: It's trying let's go down and fix the package json.
+
+13:04:23
+<transcript>: Okay.
+
+13:04:25
+<transcript>: What did I ask.
+
+13:04:31
+<transcript>: When it hits these weird, that's so weird that it actually tried or succeeded. I don't know.
+
+13:04:33
+<transcript>: Head.
+
+13:04:36
+<transcript>: What changed? Here? Let's see.
+
+13:04:36
+<transcript>: you added
+
+13:04:39
+<transcript>: You added React query, cool.
+
+13:04:39
+<transcript>: tan sa
+
+13:04:42
+thdxr: merge it all
+
+13:04:44
+<transcript>: Tan sac react, query. That's fun. What did I change, though.
+
+13:04:46
+<transcript>: Expose the same.
+
+13:04:46
+<transcript>: ibs
+
+13:04:49
+<transcript>: Ibs players the same.
+
+13:04:49
+<transcript>: types
+
+13:04:54
+<transcript>: Types react. Did I change anything? I don't think I'd change anything. Oh, I added this.
+
+13:04:55
+<transcript>: Masked view.
+
+13:04:55
+<transcript>: so i'm gonna add
+
+13:04:58
+<transcript>: So I'm gonna add this up here to yours.
+
+13:04:58
+<transcript>: then i'm
+
+13:05:08
+<transcript>: Then I'm gonna just get rid of all the rest. Hey, dax, what time are we playing? What time we play in among us? Because I really want to play merge at all.
+
+13:05:11
+<transcript>: Hit. Check out theirs. Merge it all.
+
+13:05:16
+<transcript>: This is fun Twitch chat helping me get through some get stuff.
+
+13:05:18
+<transcript>: What could go wrong.
+
+13:05:18
+<transcript>: so you have
+
+13:05:24
+<transcript>: So you have this changed as a C. I feel like I should probably take that because you know what you're doing.
+
+13:05:28
+<transcript>: But I also added reactive.
+
+13:05:28
+<transcript>: reanimated
+
+13:05:28
+binajmen: but is it better than copilot?
+
+13:05:29
+thdxr: um
+
+13:05:29
+<transcript>: Reanimated.
+
+13:05:29
+<transcript>: i'm going to
+
+13:05:31
+<transcript>: I'm going to move up.
+
+13:05:31
+<transcript>: to
+
+13:05:34
+<transcript>: To rst. Yeah. Okay.
+
+13:05:37
+<transcript>: Is that it, that's it.
+
+13:05:37
+<transcript>: that's all the changes
+
+13:05:39
+<transcript>: That's all the changes.
+
+13:05:41
+<transcript>: There's a numb.
+
+13:05:44
+mehulsharmamat: upload to dropbox and deploy with ftp
+
+13:05:45
+<transcript>: Can you say merge at all? What does that even mean.
+
+13:05:47
+thdxr: I think should just update to latest sst after you pull everything down
+
+13:05:54
+<transcript>: Upload the drawbox in the flow with ftp, I think should just update the latest sstf after you pull everything down okay.
+
+13:05:54
+<transcript>: let's go
+
+13:05:59
+<transcript>: Let's go and fix this merge conflict as well. Even I don't mean to.
+
+13:06:02
+<transcript>: What did you do here? You.
+
+13:06:05
+<transcript>: Import trpc.
+
+13:06:09
+<transcript>: What else did you do.
+
+13:06:16
+<transcript>: Where's? What I did? Oh, I did a lot of things, so I just needed.
+
+13:06:16
+<transcript>: what did you do
+
+13:06:19
+<transcript>: What did you do? More things too.
+
+13:06:25
+<transcript>: This is hard to read. Oh, you did more things. Trpc provider.
+
+13:06:27
+<transcript>: You.
+
+13:06:28
+thdxr: honestly maybe you just delete my changes here
+
+13:06:30
+<transcript>: Let's see I've changed things.
+
+13:06:30
+<transcript>: a lot
+
+13:06:32
+thdxr: I'll repush my stuff
+
+13:06:33
+schrew: I've been working on RTC things recently, and hearing "tRPC" is breaking my brain
+
+13:06:38
+<transcript>: A lot, so I just need to wrap in trx, maybe just delete my changes here. I'll RePosh my stuff. You sure.
+
+13:06:40
+<transcript>: Are you sure about that.
+
+13:06:45
+thdxr: yeah my changes are minimal
+
+13:06:46
+<transcript>: I have made a lot of changes to this file, so maybe you're right. I'm gonna get rid of your changes.
+
+13:06:50
+<transcript>: Are minimal. Cool.
+
+13:06:54
+<transcript>: Merge conflict. Margaret. Someone delete all that.
+
+13:06:54
+<transcript>: scroll
+
+13:06:57
+<transcript>: Scroll on down here until I find.
+
+13:07:07
+<transcript>: Where's the end marker.
+
+13:07:11
+<transcript>: You see, I.
+
+13:07:13
+<transcript>: Deleted.
+
+13:07:15
+mehulsharmamat: this stream is so chill i love it - gonna hit the gym and come back if you're still on have fun everyone! :D
+
+13:07:17
+<transcript>: Here's the end market. Which means.
+
+13:07:17
+<transcript>: i can just delete
+
+13:07:19
+<transcript>: I can just delete that one.
+
+13:07:19
+<transcript>: because
+
+13:07:27
+<transcript>: Because I deleted your part. Yeah. So I can delete that one. Now. I'm good. Now just gonna get to the next one. I can do this, people. I can do it.
+
+13:07:30
+<transcript>: I'm fully capable.
+
+13:07:33
+<transcript>: Right.
+
+13:07:33
+<transcript>: where's
+
+13:07:35
+<transcript>: Where's the other one.
+
+13:07:39
+<transcript>: Right? Oh, I don't know why I was doing equals.
+
+13:07:39
+<transcript>: yeah okay
+
+13:07:40
+<transcript>: Yeah. Okay.
+
+13:07:44
+brianhhough: the most capable!!!
+
+13:07:45
+<transcript>: Did it. I think. I think we merged. Now let's go over here.
+
+13:07:45
+<transcript>: let's
+
+13:07:47
+<transcript>: Let's do this.
+
+13:07:47
+<transcript>: let's
+
+13:07:48
+<transcript>: Let's.
+
+13:07:54
+<transcript>: See another pmpm install? Because I don't know what it just did. I have no idea what it did.
+
+13:08:04
+<transcript>: I have no idea if the file had all the merge stuff in it. What did it install on my machine? And why did it not complain? It says everything's up to date.
+
+13:08:07
+<transcript>: I don't know how that's true.
+
+13:08:07
+<transcript>: okay so
+
+13:08:09
+<transcript>: Okay. So we're gonna add.
+
+13:08:09
+<transcript>: all
+
+13:08:11
+<transcript>: All of it. I guess.
+
+13:08:17
+<transcript>: I feel like the lock file might be kind of weird right now. Let's just look at the lock file.
+
+13:08:19
+brianhhough: @adamdotdev listening to u stream is so relaxing while i'm coding LOL @mehulsharmamat is right!
+
+13:08:27
+<transcript>: Let's search for the arrow. No. Okay. So it results. Okay.
+
+13:08:27
+<transcript>: okay
+
+13:08:29
+<transcript>: Okay, cool.
+
+13:08:31
+<transcript>: Hit add all oh no.
+
+13:08:31
+<transcript>: get
+
+13:08:33
+<transcript>: Get add all.
+
+13:08:37
+<transcript>: Get rebase.
+
+13:08:37
+<transcript>: continue
+
+13:08:42
+<transcript>: Continue it's so hard to type commands when I can't see the command.
+
+13:08:44
+<transcript>: Okay.
+
+13:08:47
+<transcript>: Cool. We did it.
+
+13:08:47
+<transcript>: yeah sure
+
+13:08:48
+<transcript>: Yeah, sure.
+
+13:08:48
+<transcript>: that's the fine
+
+13:08:51
+<transcript>: That's the Fine, right? Yeah, Yeah.
+
+13:08:54
+<transcript>: We did it. We rebased.
+
+13:08:54
+<transcript>: okay
+
+13:08:56
+eddyvinck: I wish I was cool enough to use Vim
+
+13:08:57
+<transcript>: Okay. I'm gonna push now. Dax.
+
+13:08:58
+oetziofficial: kruzWave
+
+13:08:59
+<transcript>: Push.
+
+13:09:02
+eddyvinck: That’s neovim right?
+
+13:09:06
+<transcript>: Okay, let's see my team's are minimal. I've been waiting on rtc things recently and hearing trpc is breaking my brand.
+
+13:09:08
+mehulsharmamat: @eddyvinck you are! it's super easy
+
+13:09:12
+<transcript>: Okay.
+
+13:09:17
+<transcript>: Brian the most capable. Thank you so much.
+
+13:09:34
+mehulsharmamat: woaaah
+
+13:09:37
+<transcript>: May hold this stream is so chill. I love it. Gonna hit the gym and come back if you're still on have fun, everyone. That sounds great, man. Who? I can't wait to see you again. Just so you know, dax, listen to me while he works out at the gym. Just a little tip. I want to try it. I don't know. I don't feel like I'd be good for, like, trying to get a pump. Like my voice. I think prime. You catch a prime stream while you're working out.
+
+13:09:37
+<transcript>: that probably helps
+
+13:09:38
+<transcript>: That probably helps.
+
+13:09:38
+<transcript>: like that make you
+
+13:09:44
+<transcript>: Like that make you just want, you know, blow something up, push something out of the gym.
+
+13:09:44
+<transcript>: but when i'm
+
+13:09:47
+<transcript>: But when I'm hanging out, it's probably not as exciting.
+
+13:09:47
+<transcript>: it's a little more chill
+
+13:09:49
+<transcript>: It's a little more chill.
+
+13:09:54
+<transcript>: Wish I was cool enough to use them. Everyone's cool enough. Eddie? I just started.
+
+13:09:54
+<transcript>: it is neove
+
+13:10:10
+<transcript>: It is neovem. I just started using Neil them. I had never used them. I mean aside from like sshing into some machine having to use V or something. I didn't know the venmovements at all like six months ago. I just started while on twitch. In fact I think start streaming Eddie, if you don't already and then.
+
+13:10:20
+<transcript>: And then learn Neil them on twitch. You'll get the most helpful people ever that come in and just tell you how to do stuff. I learned the vim, motions.
+
+13:10:20
+<transcript>: through twitch
+
+13:10:25
+eddyvinck: I’ve used the Vim extension for VSCode for a bit, it’s pretty fun
+
+13:10:26
+schrew: do you ever plan on using vim fugitive or similar within  nvim instead of regular git cli?
+
+13:10:27
+<transcript>: Through twitch chat. I think twitch Chat helped me accelerate my learning curve by like 200% because.
+
+13:10:27
+<transcript>: every time i did something
+
+13:10:33
+eddyvinck: Haha that’s good advice
+
+13:10:36
+<transcript>: Every time I did something done, they'd be like, stop hitting J and K so much. You can just do page up and page down. I still do J and K a lot much to their sugar in.
+
+13:10:40
+eddyvinck: Backseat coding lmao
+
+13:10:44
+<transcript>: Okay, let's see oh, etsy's here hey, OTSI.
+
+13:10:45
+stalwartcoder: Adam doesn’t need a gym, he is building muscles on git and vim XD
+
+13:10:45
+leanstein_: Hey haven't been here in a hot minute what project(s) are you working on right now?
+
+13:10:50
+fusionplays: i made myself not be able to disable the vscode vim plugin for a month, never switched back again
+
+13:10:57
+<transcript>: I've used the Vim Extent reviews cut for a bit. It's pretty fun. Yeah, I love it. I've actually loved all of it. The vim motions, the Neil Vim thing's just kind of a fun like tinkering and Community thing.
+
+13:11:05
+oetziofficial: I'm currently taking my break kruzComfy
+
+13:11:10
+<transcript>: But Vs. Code was Vin bindings. I think if I were going back to Vs. Code, I've learned so much about moving around a file and editing text more efficiently that I would take a lot of that with me. I would enjoy that experience as well.
+
+13:11:10
+<transcript>: do you ever
+
+13:11:15
+<transcript>: Do you ever plan on using Jim Fugesitive or similar within nvm instead of regular get cli.
+
+13:11:15
+<transcript>: i think
+
+13:11:18
+<transcript>: I think I've played with some of the git stuff.
+
+13:11:18
+<transcript>: and
+
+13:11:20
+daglee: Page up/page down? You can do ctrl-u/ctrl-d instead!
+
+13:11:23
+<transcript>: And I don't know. Maybe someone needs to sell it to me. Sell me on it.
+
+13:11:28
+neochromer: Whats the Theme you are using for the Terminal?
+
+13:11:30
+<transcript>: Stalwart. Adam doesn't need a gym. He's Billy muscles on github. That's right.
+
+13:11:31
+neochromer: P10K?
+
+13:11:36
+neochromer: I love the colors
+
+13:11:40
+<transcript>: Leinstein hey, haven't been here in a hot minute. What projects are you working on right now? Line sign. We're working on rebates TV. In fact, I will show you I haven't plugged it yet.
+
+13:11:40
+<transcript>: rebase
+
+13:11:41
+<transcript>: Rebase.
+
+13:11:41
+<transcript>: that tv
+
+13:11:42
+<transcript>: That TV.
+
+13:11:51
+<transcript>: It's a live game show for dead's, where you can win real cash prizes. Every time I say it, it gets a little more like infomercially.
+
+13:12:06
+<transcript>: But me and dax are building this dax's thxr if you didn't know me and dax are building rebates TV, it's gonna be a lot. It's like hqtrivia, but for devs, we'll do it like once a week, starting out. And then we'll see, we'll see how it goes.
+
+13:12:14
+<transcript>: And also welcome back Line stein. I have been here in a hot minute. I just started streaming again this week. It took a three month break, so I'm back.
+
+13:12:14
+<transcript>: fusion
+
+13:12:24
+<transcript>: Fusion Plays welcome to Chat. I made myself not be able to disable the Vs code bin plugin for a month. Never switch back again. Nice. So you forced yourself into it and then you stuck around.
+
+13:12:33
+stalwartcoder: I guess it’s P10k 🧐
+
+13:12:37
+oetziofficial: Does rebase got any sponsors?
+
+13:12:39
+<transcript>: Osci's taking his break. I think I'm taking your break, too. I don't know what this is. I'm so slow. Sorry, dax. Now I have dax, like, hanging out, watching me work on rebates and watching how slow I am. Oh, no. What happened? I tried to get push large files detected. Oh, no.
+
+13:12:39
+<transcript>: oh
+
+13:12:41
+<transcript>: Oh, I know what it is.
+
+13:12:46
+<transcript>: You know what? I should probably remove.
+
+13:12:46
+<transcript>: so
+
+13:12:48
+<transcript>: So, dax, I added a.
+
+13:12:52
+<transcript>: Test video. Where did I add that.
+
+13:12:52
+<transcript>: yes streams
+
+13:12:59
+<transcript>: Yes. Streams setting before it's. What that? If you saw this guy, the Rick Ashley video.
+
+13:12:59
+<transcript>: that frame
+
+13:13:02
+<transcript>: That frame. Look at that frame. What a perfect still.
+
+13:13:02
+<transcript>: that's
+
+13:13:09
+<transcript>: That's that's basically the summation of my Twitch streams right there. That right there.
+
+13:13:12
+<transcript>: That's basically what we've got accomplished so far.
+
+13:13:16
+schrew: Kreygasm
+
+13:13:18
+<transcript>: Yes. So I put that in there, but I should probably remove it.
+
+13:13:18
+<transcript>: you should probably not
+
+13:13:20
+<transcript>: You should probably not at it.
+
+13:13:22
+stalwartcoder: That’s after every merge conflict
+
+13:13:24
+<transcript>: Let's just do this. Let's do get removed.
+
+13:13:26
+<transcript>: Get removed.
+
+13:13:27
+stalwartcoder: That face*
+
+13:13:32
+thdxr: we're looking for sponsors!
+
+13:13:34
+<transcript>: No is get removed the way to do it. I don't want to delete the file you know should I get ignore it I could get ignore it.
+
+13:13:36
+overra_dev: successful deploy face
+
+13:13:40
+<transcript>: Should I get ignored? It. We're looking for sponsors. Yeah, we are P Ten K. Yeah, yeah, I use that. Oh, my zsh.
+
+13:13:40
+<transcript>: the theme
+
+13:13:43
+<transcript>: The theme you're using for the terminal is Dracula.
+
+13:13:49
+<transcript>: Control. U and control D. Yeah, that's what I meant. Begley. Sorry. I just. I was using, like the name of it.
+
+13:13:49
+<transcript>: but
+
+13:13:52
+<transcript>: But like I use control U, and control D.
+
+13:13:59
+<transcript>: Successful Deploy fit.
+
+13:13:59
+<transcript>: okay
+
+13:14:00
+<transcript>: Okay.
+
+13:14:00
+<transcript>: i need to
+
+13:14:01
+oetziofficial: Isn't the file in the commit?
+
+13:14:10
+thdxr: nah
+
+13:14:13
+<transcript>: I need to fix this. Dax, I don't want to add large files unless you want the file. Do you want the file? The files are already in the commit. So if I get ignore it. Can I remove it from git so that I can push anybody know it may smart.
+
+13:14:13
+<transcript>: need
+
+13:14:17
+<transcript>: Need someone smart? No, I don't want the file. Okay.
+
+13:14:21
+thdxr: the problem is it's in the git history now
+
+13:14:24
+stalwartcoder: You can add *.mp4 in gitignore but now just checkout the file
+
+13:14:26
+<transcript>: Then I need to get ignore it or get removed or move it it's in the get history now.
+
+13:14:26
+<transcript>: no i'll
+
+13:14:31
+<transcript>: No, I'll read. I'll fix it, I'll fix it, fix it. Hang on. People.
+
+13:14:33
+<transcript>: Okay.
+
+13:14:36
+<transcript>: We'll do this. We'll say, get amend.
+
+13:14:36
+<transcript>: is that the
+
+13:14:37
+thdxr: you should do a git reset and overwrite the commit
+
+13:14:38
+<transcript>: Is that the word.
+
+13:14:38
+<transcript>: amend
+
+13:14:39
+<transcript>: Amend.
+
+13:14:39
+<transcript>: and
+
+13:14:43
+<transcript>: And you should do a git reset an overwrite the commit.
+
+13:14:43
+<transcript>: reset set
+
+13:14:45
+<transcript>: Reset. Set, sounds.
+
+13:14:45
+<transcript>: scary
+
+13:14:45
+daglee: But you haven't commited it?
+
+13:14:46
+<transcript>: Scary.
+
+13:14:47
+schrew: ^^ reset is the one
+
+13:14:52
+<transcript>: I have committed it. Dagli. Reset. You want me to reset.
+
+13:14:52
+<transcript>: you're saying
+
+13:14:56
+<transcript>: You're saying, literally, just do gitreset. That sounds so scary.
+
+13:14:58
+<transcript>: Reset.
+
+13:15:01
+<transcript>: No.
+
+13:15:01
+<transcript>: but
+
+13:15:04
+thdxr: git log to get the commit
+
+13:15:10
+<transcript>: But first, before I do get reset, let's do another giveaway. Here we go. This is for another $50. Aws Promotional credit.
+
+13:15:10
+<transcript>: another
+
+13:15:14
+<transcript>: Another $50 credit. Redeem. Those things.
+
+13:15:14
+<transcript>: and
+
+13:15:20
+dalt_kb: LUL
+
+13:15:24
+<transcript>: And redeem as many or as few as you want. You can only redeem 20 today it cost 50 points each. You can only reading 20 and there's 20 giveaways.
+
+13:15:24
+<transcript>: so do we
+
+13:15:25
+<transcript>: So do we.
+
+13:15:25
+<transcript>: that what
+
+13:15:26
+maleero: Suckers
+
+13:15:31
+yeltrah_: What is the giveaway for?
+
+13:15:33
+<transcript>: That what you will and now Chad is gonna be impossible to read as I try to get instructions for git, get logged to get the commit and then get reset just that commit.
+
+13:15:36
+<transcript>: And you're saying that I'll just put all my changes into.
+
+13:15:40
+neochromer: !giveaway
+
+13:15:41
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+13:15:41
+<transcript>: The the heart gene, heart genes here.
+
+13:15:41
+<transcript>: the entry
+
+13:15:53
+<transcript>: The entry is for a $50 AWS credit. So 50 points for a chance at $50. And dax, you're saying if I do get reset that commit hash, it will just put it into my working changes.
+
+13:15:56
+<transcript>: Is that what you're saying.
+
+13:15:57
+thdxr: yes
+
+13:16:00
+neochromer: spamm fest lol \
+
+13:16:01
+<transcript>: I should change that command. Yes. Okay. Perfect.
+
+13:16:01
+<transcript>: i should
+
+13:16:01
+eddyvinck: Channel points for giveaway entries, nice 👌
+
+13:16:03
+<transcript>: I should change that command.
+
+13:16:03
+<transcript>: my
+
+13:16:04
+<transcript>: My.
+
+13:16:09
+blakegreendev: How do I know how many times I’ve submitted?
+
+13:16:12
+<transcript>: To change the Fat sabot command to not say a $1,000 because that's saving.
+
+13:16:12
+<transcript>: it's twenty
+
+13:16:13
+<transcript>: It's 20.
+
+13:16:13
+<transcript>: twenty dollars
+
+13:16:14
+<transcript>: $20.
+
+13:16:15
+<transcript>: which
+
+13:16:17
+stalwartcoder: git rm <file> then git amend should works too
+
+13:16:20
+oetziofficial: May i ask if these credits have to be used any time?
+
+13:16:23
+<transcript>: Which is also a $1,000, but different than giving away one, one $0. How do I know how many times it's submitted? I don't know, Blake. Honestly, I have no idea.
+
+13:16:23
+<transcript>: get
+
+13:16:27
+<transcript>: Get removed file then get a min should work two.
+
+13:16:27
+<transcript>: oh stalwart
+
+13:16:29
+<transcript>: Oh, stalwart, that's a good idea.
+
+13:16:34
+<transcript>: May I ask if these credits had to be used by any time? Yes. Otsi they had to use this year.
+
+13:16:38
+axxeltatto: Hi im new what are you doing?
+
+13:16:39
+<transcript>: Okay, I'm cutting you all off. You can put your entries in on the next one if you didn't get it already. And the winner is.
+
+13:16:39
+<transcript>: eddie
+
+13:16:45
+<transcript>: Eddie, Eddie, Welcome, you just won $50 in aws. Promotional credits.
+
+13:16:45
+<transcript>: congratul
+
+13:16:48
+eddyvinck: Ayyy
+
+13:16:49
+gerellt: imagine almost hitting the 5k entry
+
+13:16:52
+eddyvinck: Let’s go 🔥
+
+13:16:52
+<transcript>: Congratulations, Eddie. You can still win again. I have no limits on how many times any one person can win. So there you go.
+
+13:16:52
+<transcript>: thanks so much
+
+13:16:57
+<transcript>: Thanks so much for the follow fusion plays and also.
+
+13:16:57
+<transcript>: i miss
+
+13:16:58
+<transcript>: I miss something else.
+
+13:16:58
+<transcript>: victor
+
+13:17:00
+oetziofficial: kruzDragonJAM
+
+13:17:02
+gerellt: It would be the ultimate rick roll
+
+13:17:03
+<transcript>: Victori. Thank you for that. Follow the giveaway entries. Kind of like make it hard to see anything.
+
+13:17:03
+<transcript>: because
+
+13:17:06
+<transcript>: Because they're very intense.
+
+13:17:09
+<transcript>: Eddie vic thanks so much that Follow Eddie.
+
+13:17:09
+<transcript>: oh alex
+
+13:17:13
+<transcript>: Oh, Alex, with the sub and talent and calf face with the subway that's three days ago.
+
+13:17:20
+<transcript>: I'm sorry what? I just scrolled and got to three day ago stuff somehow.
+
+13:17:37
+<transcript>: Let's see. Let's see. Does anybody else that followed? I'm sorry if I did. I'm sorry. The giveaway entries. They just, you know, they take over overa. Thank you for that. Tier one sub. I appreciate that. Tier one sub. Brand new. Tier one one month. Let's go.
+
+13:17:57
+<transcript>: Eddie, so I will send you food as well. I'll send you the credits just after the stream. Just don't want to try and I will leak them if I try and fumble around and send them to you right now they're just a code that you'll add into your a debs console. And if I try and do it on stream, then the whole world will see it and okay, not the whole world. Everyone that's watching, we'll see it. And then the whole giveaway thing was.
+
+13:17:57
+<transcript>: pointless
+
+13:17:59
+physotronic: adamdotdev can you talk more about what benefits did you get from using neovim? what can you do there that you cant do in VSC?
+
+13:18:01
+<transcript>: Pointless because whoever entered it in first wins.
+
+13:18:02
+eddyvinck: Sweet, thanks 🙏
+
+13:18:04
+<transcript>: Okay.
+
+13:18:04
+<transcript>: let's see
+
+13:18:12
+<transcript>: Let's see. Did it. I was doing four things at once. I'm so sorry, dax. This is what happens when I work on a project on stream.
+
+13:18:15
+<transcript>: Get removed. Okay, so I'm gonna do git.
+
+13:18:15
+<transcript>: reset
+
+13:18:18
+<transcript>: Reset and then the commit hash.
+
+13:18:19
+stalwartcoder: Lol
+
+13:18:22
+<transcript>: And then get status Oh.
+
+13:18:23
+<transcript>: That did nothing.
+
+13:18:23
+<transcript>: oh
+
+13:18:25
+thdxr: reset to my commit
+
+13:18:28
+<transcript>: Oh, even worse than nothing. It didn't give me any feedback. I didn't say anything.
+
+13:18:28
+<transcript>: res
+
+13:18:31
+<transcript>: Reset to your commit.
+
+13:18:33
+<transcript>: That was terrifying.
+
+13:18:35
+<transcript>: Like okay, I gotcha.
+
+13:18:35
+<transcript>: thank you
+
+13:18:37
+<transcript>: Thank you, dax, for being patient with me.
+
+13:18:37
+<transcript>: i
+
+13:18:39
+<transcript>: I apologize.
+
+13:18:46
+<transcript>: Next is funny. I totally forgot your last name.
+
+13:18:50
+<transcript>: Also just spit really bad. Was that on camera.
+
+13:18:57
+0xcouch: What are we working on today?
+
+13:18:58
+<transcript>: That makes me laugh. I guess I totally haven't used your last name since. Like you run my first podcast, episode.
+
+13:18:58
+<transcript>: and
+
+13:19:00
+thdxr: my last name is Elmore
+
+13:19:06
+<transcript>: And you are dax, and also your th dxr. But I just did not consider. Oh, no, I'm leaking your email address. Dax, I'm so sorry.
+
+13:19:09
+<transcript>: And then I called attention to it. Even worse.
+
+13:19:12
+<transcript>: Those are.
+
+13:19:13
+thdxr: lol it's ok
+
+13:19:17
+<transcript>: Let's remove packages. No, I'm gonna move it.
+
+13:19:18
+<transcript>: Your last name is Ellen.
+
+13:19:18
+<transcript>: that's funny
+
+13:19:22
+<transcript>: That's funny couch. Today we're working on rebates TV.
+
+13:19:31
+<transcript>: Don't, Rick, roll me. Don't do it. Imagine almost hitting the five K entry. What's the five K entry.
+
+13:19:38
+<transcript>: Welcome to Chat first time Chat so axle.
+
+13:19:57
+stalwartcoder: Also add it to gitignore for future  commits :))
+
+13:19:59
+<transcript>: First of all, thank you so much for joining on Chad. What I'm doing is working on rebase TV. Kind of we're not. We've not got anything done yet, but that's what I will be doing throughout the stream. Working on rebates TV. It's a project dax and I are working on, but also throughout the stream. I'm gonna give away $50 AWS credits, 20 of them, so total $1,000 in credits.
+
+13:20:05
+<transcript>: And I guess theoretically, someone could win all 20 of them, and then you would win a $1,000. So it's not that deceiving.
+
+13:20:05
+<transcript>: but
+
+13:20:08
+<transcript>: But it is 20 different giveaways.
+
+13:20:11
+<transcript>: The catch is.
+
+13:20:11
+<transcript>: in order
+
+13:20:17
+<transcript>: In order to win, we've done two of them so far. So Food, boob and Eddie have won the first two.
+
+13:20:17
+<transcript>: in
+
+13:20:18
+<transcript>: In order to win.
+
+13:20:30
+<transcript>: You redeemed channel points for entries, and I hit a button. I'm just gonna hit it randomly throughout the stream. And when I hit the button, it'll announce and chat. It's time for a giveaway. Then everyone will start redeeming these things.
+
+13:20:30
+<transcript>: you can only redeem
+
+13:20:32
+<transcript>: You can only redeem 20 of them.
+
+13:20:32
+<transcript>: today
+
+13:20:34
+<transcript>: Today. Okay.
+
+13:20:34
+<transcript>: so
+
+13:20:45
+<transcript>: So there's a limit on each user. You can only redeem 20 of them and there's 20 giveaways. You could do one for each giveaway or you could be like everyone else and dump them all on the first and then not participate.
+
+13:20:48
+<transcript>: That's what most everyone seems to have done.
+
+13:20:59
+eddyvinck: It worked for me lol
+
+13:21:06
+<transcript>: So you have to spend 50 channel points per entry and you know you 20 total today, but there's 20 different giveaways for $50 injuries. I would stick around till the end personally and save one of those entries for that last one. I don't know if anyone's gonna have any rewards they can redeem. Okay.
+
+13:21:13
+<transcript>: Imagine almost anything like the injury. Let's go. Let's see. Okay. It would be the ultimate crow. I'm caught up. Adam. Goddev. Psych.
+
+13:21:13
+<transcript>: psycho
+
+13:21:33
+<transcript>: Psycho. Can you talk more about what benefits did you get from using Neil them? What can you do there that you can't do via C so nothing. I'm honestly, I don't think there's anything I can do in the event I couldn't do invisible Studio code. I use new of it because it's fun. It's a fun hobby for me. Like just like mechanical keyboards. I got really into them. Could I use any old keyboard and get the same job done? Yeah.
+
+13:21:33
+<transcript>: but
+
+13:21:41
+neochromer: !keyboard
+
+13:21:41
+fossabot: Adam uses a custom Mode Eighty mechanical keyboard, and has a collection of other Mode keyboards!
+
+13:21:48
+stalwartcoder: It’s a dark side ;)
+
+13:21:48
+iamyeizi: @PhysoTronic IMO movements in your code (u can try vim extension on vscode and learn vim motions), lightweight = less ram consumption, clean UI, less distraction and funny
+
+13:21:54
+<transcript>: But I got really into just tinkering and building keyboards and enjoying customizing them and all the fun things you can do with the keyboard, same thing with ne of them. It's like I get to tinker with my development environment. This is fun, that's it. I did get a lot of benefits using vim movements and if I were to go back to Vs. Code ever, I probably won't because I'm pretty sold on this experience. But if I did, I would use.
+
+13:21:54
+<transcript>: vin bindings
+
+13:21:54
+neochromer: I just got myself a new nuphy
+
+13:21:59
+<transcript>: Vin bindings and I would get most of the benefit in terms of like efficiency of editing text.
+
+13:21:59
+<transcript>: okay
+
+13:22:02
+<transcript>: Okay. I'm gonna try and focus now.
+
+13:22:04
+nft_scam: only thing i like is the vim motion
+
+13:22:09
+<transcript>: Did it add. Did it add it to Gitagon. I'm just gonna move it out of that directory.
+
+13:22:09
+<transcript>: key
+
+13:22:11
+<transcript>: Keyboard.
+
+13:22:11
+<transcript>: it's a dark side
+
+13:22:26
+<transcript>: It's a dark side. Okay, I gotta catch up. I mean, I just gotta move faster with my brain or something. First time chat. Welcome to Chat. I am easy movements in your code. You can try vim extension of vehicle lightweight equals less Ram consumption. Yeah, all those things are true too. It does use less memory.
+
+13:22:29
+thdxr: Adam make the commit!
+
+13:22:34
+thdxr: I wanna add my changes
+
+13:22:40
+<transcript>: Fun fact. I bought a $50,000 Mac Pro and installed all 44, 300 whatever vs. Code extensions. It was dumb because you install 500 vs. Code extensions and you can't use ds code anymore. It's completely unusable. So there you go.
+
+13:22:45
+<transcript>: I wonder if you didn't follow 500 neo vim plugins.
+
+13:22:45
+<transcript>: and it still out
+
+13:23:04
+<transcript>: And it still outrate. I bet it would. I guess the plugins could be different degrees of complexity, and that would totally skew the results. But I just got myself a newfie oh, newfie. Those are good. Those are cool keyboards. I think I've seen that. Okay. Make the commit only thing like it's a video.
+
+13:23:09
+<transcript>: I'm so sorry to ask. I really am a terrible partner. I should never try and stream.
+
+13:23:09
+<transcript>: okay
+
+13:23:11
+<transcript>: Okay. I just need to move.
+
+13:23:13
+<transcript>: Packages.
+
+13:23:13
+<transcript>: it is so
+
+13:23:17
+<transcript>: It is so hard when I can't see stream test mp4.
+
+13:23:17
+<transcript>: okay
+
+13:23:23
+<transcript>: Okay, move it. I'm gonna move it to where I'm gonna move it to.
+
+13:23:29
+<transcript>: Adam, we're just moving it right here. Stream, test. Mp4. How about that.
+
+13:23:29
+<transcript>: okay
+
+13:23:37
+<transcript>: Okay. Get status. I'm so sorry to ask. I feel so bad right now. Can you tell that I feel bad? Does that make it any better.
+
+13:23:43
+<transcript>: Animation progress. I can't see what I'm typing so it's probably not gonna be what I thought it was push.
+
+13:23:45
+rudixworld: is there self-hosted solution for what GitHub called - "workspaces" .. its an IDE as I can see
+
+13:23:50
+cowfacedude99: I think you could go farther than 500 plugins with nvim. and lazy loading everything will make it usable.
+
+13:23:50
+<transcript>: You forgive me? Dax, can we hug it out over some among us later.
+
+13:23:53
+physotronic: iamyeizi what do you mean by movement? can you explain a bit more so I get image of what you mean
+
+13:23:54
+<transcript>: Ali to you straight to your face for like an hour.
+
+13:23:54
+<transcript>: we can maybe
+
+13:23:56
+<transcript>: We can maybe make up.
+
+13:24:03
+<transcript>: Is there a self host solution for what github called workspaces. It's a ide. As I can see.
+
+13:24:03
+<transcript>: i've not used
+
+13:24:06
+<transcript>: I've not used workspaces. I think there's a lot of things like it, though, right.
+
+13:24:06
+<transcript>: i don't know
+
+13:24:13
+<transcript>: I don't know if any of myself hosted, but I know there's a lot of things in that like click a button, get a dev environment.
+
+13:24:20
+<transcript>: I think you go further than 500 plugins with new of them and lazy Loading everything will make it useable interesting.
+
+13:24:27
+<transcript>: So that's a fun test. See at what point vs. Code falls over when you add more plugins and then.
+
+13:24:27
+<transcript>: how far
+
+13:24:32
+<transcript>: How far can you go? They're like endurance runners.
+
+13:24:32
+<transcript>: what do you
+
+13:24:43
+<transcript>: What do you mean by movement? Can explain a bit more. So I get images of what you mean. I think I think he's just saying, like, moving around in text. So if I'm here in this file, not that file. If I'm in here and I'm like, flying around, I want to, like, find.
+
+13:24:51
+<transcript>: Or like, okay, here's. This used animated style. It's got a bunch of contents. So let's say I did like.
+
+13:24:51
+<transcript>: that and i
+
+13:24:55
+<transcript>: That. And I want to highlight it all, and then replace it with something.
+
+13:24:55
+<transcript>: and i
+
+13:25:02
+iamyeizi: @PhysoTronic move through your code, adding words, deleting, inserting lines, etc
+
+13:25:05
+<transcript>: And I could just start typing. I mean, there's just like the vim movements make it a lot easier to kind of like edit a text file quickly and efficiently with as little.
+
+13:25:05
+<transcript>: fanfare as
+
+13:25:08
+<transcript>: Fanfare as possible. What is this? What is this.
+
+13:25:12
+<transcript>: Lsp restart.
+
+13:25:15
+<transcript>: I don't know if this is actually an issue.
+
+13:25:15
+<transcript>: oh this
+
+13:25:23
+iamyeizi: obviously requires some practice
+
+13:25:24
+<transcript>: Oh, this is. Oh, yeah, yeah, no, this is a problem with that library. It's really annoying. I'm sorry to act if you've seen that. There's. There's a problem. There's a way you can fix it with a patch.
+
+13:25:24
+<transcript>: but i don't know
+
+13:25:27
+<transcript>: But I don't know how to do that. Get patch or something.
+
+13:25:35
+cowfacedude99: @RudixWorld I'd come pretty close with my neovim+nix setup on pretty much any cheap vm.
+
+13:25:37
+<transcript>: Just watch. Yeah, watch Primagin on twitch for like ten minutes. And you'll understand the power of improvement.
+
+13:25:44
+<transcript>: Thanks so much for Follow. I am sander, axel, tattoo, and brezerk.
+
+13:25:46
+<transcript>: Okay.
+
+13:25:51
+<transcript>: Let's.
+
+13:25:51
+<transcript>: sex
+
+13:25:59
+neochromer: @adamdotdev no vim motions will help my Brain be faser :D
+
+13:26:02
+<transcript>: Sex. I've pushed the stuff to you. You haven't responded since I did. I think you might be mad at me, but I think you're adding your code, and you're gonna push it, and then I'm gonna pull it. So now's a good time for me to just talk. Let's just talk.
+
+13:26:06
+<transcript>: Matthos Bob thanks for so much for the follow.
+
+13:26:09
+physotronic: is vim and neovim same thing? I assume that neovim has more stuff coming with it by default if I am not mistaken?
+
+13:26:09
+neochromer: thats the bottleneck
+
+13:26:11
+<transcript>: Do you want to do another guy? Number three. What's your number three.
+
+13:26:15
+<transcript>: Excuse me.
+
+13:26:15
+<transcript>: no vim
+
+13:26:18
+<transcript>: No vim motions will help my brain be faster.
+
+13:26:23
+cowfacedude99: @NeoChromer You are emacs user. can't trust you LUL
+
+13:26:25
+<transcript>: That's the bottleneck. A lot of people say that I thought I probably had the same argument.
+
+13:26:25
+<transcript>: before i
+
+13:26:28
+<transcript>: Before I really used vim at all.
+
+13:26:28
+<transcript>: and
+
+13:26:34
+<transcript>: And I will say I surprised myself with some of the things that.
+
+13:26:34
+<transcript>: it's not really
+
+13:26:35
+iamyeizi: neovim is modern, with some tweaks
+
+13:26:41
+thdxr: ok I pushed my changes again
+
+13:26:43
+eddyvinck: You get used to it tbh
+
+13:26:47
+thdxr: lmk if your TS becomes super laggy
+
+13:26:53
+iamyeizi: @PhysoTronic right
+
+13:26:53
+<transcript>: It's not really like your brain is the bottom. Like, for every single thing, for some things, for sure. But I think there are a lot of things that are just like, I know what I need to do to this file, and I can do it a lot faster than I used to. Okay. Zach pushes changes just as I came over here. Well, just to make it worth it, let me know if your ts becomes super leggy. Okay.
+
+13:26:53
+<transcript>: we're gonna do
+
+13:26:53
+stalwartcoder: Muscle memory
+
+13:27:03
+<transcript>: We're gonna do a giveaway just since I came over here, we're gonna do a giveaway, so just remember, you'll only get 20 redemptions, 20 redemptions, this entire stream. And there's 20 giveaways.
+
+13:27:03
+<transcript>: so that
+
+13:27:07
+<transcript>: So that you might want to save them. I'm just saying, there's some strategy here.
+
+13:27:10
+iamsandr: !giveaway
+
+13:27:10
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+13:27:11
+<transcript>: Dax, I'll pull it down as soon as this giveaway son.
+
+13:27:16
+<transcript>: sonbree
+
+13:27:18
+<transcript>: Sonbree, thanks so much for the follow.
+
+13:27:21
+<transcript>: And my notifications. The blowing up.
+
+13:27:22
+nft_scam: monkaS only 20?
+
+13:27:25
+<transcript>: They blowin up.
+
+13:27:25
+<transcript>: okay
+
+13:27:31
+<transcript>: Okay. I'm just gonna, like, let it go for a little bit, and then I'm gonna end it because remember, there's more giveaways.
+
+13:27:31
+<transcript>: and
+
+13:27:33
+laytanl_: We should track lines of code written per stream
+
+13:27:35
+<transcript>: And I'm just gonna randomly cut it off.
+
+13:27:39
+<transcript>: Okay.
+
+13:27:39
+<transcript>: this one's
+
+13:27:49
+meranofox: Oetzi redeemed like 25
+
+13:27:49
+<transcript>: This one's been a little less active. People have probably used up all their thing. Well, there they come. Here they come. So this is a $50. Aws credit, remember? Oh, I gotta rename the last one.
+
+13:27:53
+eddyvinck: Stop the count 😝
+
+13:27:53
+<transcript>: To put eddie's name in there.
+
+13:27:58
+<transcript>: Okay, since I get done renaming this, I'm going to.
+
+13:28:06
+<transcript>: End the thing. I'm going to end it.
+
+13:28:06
+<transcript>: i'm gonna end
+
+13:28:10
+<transcript>: I'm gonna end it. Here goes. And the winner is.
+
+13:28:13
+oetziofficial: I got rate limited looooool
+
+13:28:13
+<transcript>: And the winner is wait.
+
+13:28:13
+<transcript>: wait
+
+13:28:17
+eddyvinck: Congrats!
+
+13:28:18
+<transcript>: Wait. I can't scroll far enough and the winner is up. Sundo.
+
+13:28:21
+<transcript>: Uhoh OS he got rate limited.
+
+13:28:21
+<transcript>: up suna
+
+13:28:24
+<transcript>: Up suna Congrats.
+
+13:28:24
+<transcript>: you won the third
+
+13:28:26
+<transcript>: You won the third giveaway.
+
+13:28:26
+cowfacedude99: adding that to the notifications wasn't a good idea LUL
+
+13:28:28
+<transcript>: So many points being redeemed.
+
+13:28:29
+overra_dev: congrats!
+
+13:28:37
+<transcript>: Adding that to the nose case wasn't a good idea. I completely agree, Cafe. It's just gonna keep going and going and going.
+
+13:28:40
+meranofox: yeah maybe get rid of the sound
+
+13:28:42
+<transcript>: Congrats up soono. I'm gonna add your name to this one.
+
+13:28:43
+<transcript>: i'm gonna
+
+13:28:45
+<transcript>: I'm gonna add your name.
+
+13:28:45
+<transcript>: so i
+
+13:28:46
+nft_scam: i like the sound
+
+13:28:47
+<transcript>: So I remember to send it to you.
+
+13:28:47
+<transcript>: a dm
+
+13:28:47
+opsuno: Yeeey!
+
+13:28:50
+oetziofficial: I have 17k kruzFB
+
+13:28:52
+iamyeizi: plis notif without sound BibleThump
+
+13:28:57
+<transcript>: A dm. Me actually, actually actually, actually, actually, you know what? Food boob. You've already done this, Eddie. If you could as well email or I'm sorry, dm? Me your email address.
+
+13:29:03
+cowfacedude99: !discord
+
+13:29:03
+opsuno: Thanks! <3
+
+13:29:03
+fossabot: Adam has a Discord server and he'd love to see you there: https://discord.gg/E92M2chd3e
+
+13:29:03
+<transcript>: No. What am I talking about? It's just a code. I don't need your email address. Never mind. Nevermind don't do it. Don't send me an email address.
+
+13:29:07
+<transcript>: Option or work on the chat. I'm going to.
+
+13:29:07
+<transcript>: send it
+
+13:29:19
+<transcript>: Send it to you just on Twitter. I'm just gonna DM you the codes on twitch sign. That sucks because you'll have to be can I. Dm. Me while you're offline? Someone tell me, can I. Dm. People on twitch while they're offline.
+
+13:29:19
+<transcript>: if you don't
+
+13:29:26
+<transcript>: If you don't want to get the dm, the promotional credit over twitch, just send me a message on twitch that tells me how you want me to send it to you, okay.
+
+13:29:26
+<transcript>: say like
+
+13:29:30
+<transcript>: Say like send it to me on Twitter or here's my email address. Whatever you want to do.
+
+13:29:32
+<transcript>: Aws credit.
+
+13:29:38
+<transcript>: This is gonna be a big distraction today, but it's worth it because 30 followers, people.
+
+13:29:38
+<transcript>: were celebrating
+
+13:29:39
+oetziofficial: You can via /w <text>
+
+13:29:40
+<transcript>: Were celebrating.
+
+13:29:41
+nft_scam: u can whisper
+
+13:29:44
+<transcript>: Let me get your name exactly right. Ops. Uno. Perfect.
+
+13:29:44
+<transcript>: json
+
+13:29:46
+<transcript>: Json okay, cool.
+
+13:29:50
+<transcript>: Let's go back and actually accomplish something.
+
+13:29:52
+<transcript>: On rebase.
+
+13:29:52
+<transcript>: reb
+
+13:29:54
+<transcript>: Rebase.
+
+13:29:54
+<transcript>: tv
+
+13:29:55
+<transcript>: Tv.
+
+13:29:55
+<transcript>: did it actually
+
+13:30:00
+<transcript>: Did it actually work? I gotta watch my overlays. They might just not work like they did earlier.
+
+13:30:04
+<transcript>: Whether you have 17,000 channel points.
+
+13:30:06
+<transcript>: Are you serious.
+
+13:30:06
+<transcript>: that's
+
+13:30:08
+<transcript>: That's incredible.
+
+13:30:11
+<transcript>: Sorry for the sound. Yeah, it does make that sound.
+
+13:30:11
+<transcript>: a whole lot
+
+13:30:14
+<transcript>: A whole lot also sorry if I miss any followers.
+
+13:30:22
+<transcript>: Sorry if I. Oh, it's the redeemed 25 is my 20 limit. Not working.
+
+13:30:25
+laytanl_: I got 13k and was scammed out of a rick roll the other day
+
+13:30:27
+schrew: how many channel points do you have @laytanl_ ?
+
+13:30:28
+<transcript>: Someone tell me someone be honest. Is the 20 limit working or not.
+
+13:30:32
+oetziofficial: I mean. /w <user> <text>
+
+13:30:37
+<transcript>: Track lines of code written per stream latent. I know it's getting bad just since I came back it's so bad.
+
+13:30:38
+oetziofficial: That'll work
+
+13:30:39
+<transcript>: I've just gotten nothing done.
+
+13:30:40
+th3_l3m0n: I need to save my 27k because i need MORE xD
+
+13:30:43
+<transcript>: Okay.
+
+13:30:43
+<transcript>: but now i
+
+13:30:44
+schrew: I think I might have the most. Sitting on 60k
+
+13:30:45
+<transcript>: But now I'm gonna change that.
+
+13:30:47
+<transcript>: Dax, yell at me.
+
+13:30:47
+<transcript>: thr
+
+13:30:49
+<transcript>: Threaten the something.
+
+13:30:51
+<transcript>: Tell me you won't play.
+
+13:30:52
+laytanl_: Damnn
+
+13:30:53
+cowfacedude99: You owe me one rick roll LUL. otherwise I would have 5k more
+
+13:30:56
+<transcript>: The game with me if I don't get something done or something.
+
+13:30:58
+<transcript>: It, pull.
+
+13:30:59
+thdxr: lol
+
+13:30:59
+cowfacedude99: I spent all mine on rick rolls
+
+13:31:00
+<transcript>: You won't play what's it called.
+
+13:31:03
+<transcript>: Okay. Done.
+
+13:31:08
+<transcript>: See if I have this changes.
+
+13:31:12
+laytanl_: @cowfacedude99 same haha
+
+13:31:13
+<transcript>: Constant player view. You added something. When did you add.
+
+13:31:16
+<transcript>: Trpc. There it is.
+
+13:31:28
+<transcript>: Oh, calf is. I'm so sorry. I will. Rick, roll myself. I'll recreate myself twice. Someone else did it. And I'm sorry for that. I hope they're here. I don't remember who it was.
+
+13:31:42
+<transcript>: Oh, no. Coffee. Do not have enough point to do redeems right now.
+
+13:31:45
+<transcript>: Oh no.
+
+13:31:48
+<transcript>: Okay.
+
+13:31:50
+<transcript>: Here we go.
+
+13:31:50
+<transcript>: let's
+
+13:31:54
+<transcript>: Let's try and build everything again? Let's try and build everything.
+
+13:31:54
+<transcript>: what is this
+
+13:31:54
+cowfacedude99: I have 3k
+
+13:31:57
+<transcript>: What is this? Oh, that I never stopped. That.
+
+13:32:00
+<transcript>: Okay? Tmp? Dev.
+
+13:32:01
+cowfacedude99: that much should be enough.
+
+13:32:03
+<transcript>: You've got three K, you're good.
+
+13:32:12
+<transcript>: That should be enough for the giveaway. I think 10 points is the most you could spend today on the giveaways. Oh, it's gonna show the stream code. No, no.
+
+13:32:16
+<transcript>: I don't want to show that one.
+
+13:32:20
+nft_scam: monkaS
+
+13:32:21
+<transcript>: Okay. Can't see it when it's that like that cool.
+
+13:32:29
+<transcript>: Next. I shouldn't export that dax. I shouldn't export stream code.
+
+13:32:29
+<transcript>: and
+
+13:32:31
+<transcript>: And the key, or the stream key.
+
+13:32:31
+<transcript>: it's
+
+13:32:36
+<transcript>: It's probably a bad idea. Oh, it's doing a lot of work, actually. It's deploying some changes, isn't it.
+
+13:32:40
+<transcript>: Here. I'm gonna do yarn, iOS.
+
+13:32:41
+sj_se: hello
+
+13:32:41
+<transcript>: Clear.
+
+13:32:47
+<transcript>: Then I got to do this command. I got changed.
+
+13:32:52
+<transcript>: I've got.
+
+13:32:52
+<transcript>: to change
+
+13:33:00
+<transcript>: To change the path. I'll just do it in this command. Why not? We're waiting on ssd to deploy all that stuff anyway.
+
+13:33:03
+<transcript>: Ingesting point. Here it is.
+
+13:33:05
+<transcript>: It's going to be.
+
+13:33:16
+<transcript>: Oh, no. In. Just implants on it. It's the inner file. Video file path. Oh, bummer. Oh, here, I can do this.
+
+13:33:18
+<transcript>: Here we go.
+
+13:33:21
+<transcript>: Look at that vim to the rescue.
+
+13:33:27
+<transcript>: I'm gonna do.
+
+13:33:32
+<transcript>: Like that. Can I use that? I'll just do this. Users.
+
+13:33:32
+<transcript>: users
+
+13:33:34
+<transcript>: Users Adam.
+
+13:33:36
+<transcript>: What was the file name.
+
+13:33:36
+<transcript>: streamed
+
+13:33:40
+<transcript>: Streamed test mp4.
+
+13:33:43
+<transcript>: Oh, that's timing.
+
+13:33:45
+<transcript>: Bad timing.
+
+13:33:52
+<transcript>: Okay, I'm streaming that video to ives. Now.
+
+13:33:55
+<transcript>: Ios bundling failed DAX.
+
+13:34:00
+<transcript>: Contain no uic configuration directory.
+
+13:34:05
+<transcript>: Sj? Hello? Sj.
+
+13:34:05
+<transcript>: what
+
+13:34:07
+<transcript>: What I do here.
+
+13:34:08
+thdxr: can you make that import relative
+
+13:34:14
+<transcript>: Can you make that import relative.
+
+13:34:14
+<transcript>: there's an
+
+13:34:16
+<transcript>: There's an import.
+
+13:34:20
+sj_se: reboot computer and start again
+
+13:34:20
+thdxr: last error
+
+13:34:23
+<transcript>: Where is the import? I don't know where to look. Info P list contained no uic configurated.
+
+13:34:23
+<transcript>: configure
+
+13:34:28
+<transcript>: Configure. Oh, unable to write data tz oh, I got you yes, yes, sorry.
+
+13:34:33
+<transcript>: That relative.
+
+13:34:38
+<transcript>: Data would be like relative to here.
+
+13:34:38
+<transcript>: would be
+
+13:34:40
+<transcript>: Would be like.
+
+13:34:46
+thdxr: I think that's right
+
+13:34:49
+<transcript>: Where is it.
+
+13:34:52
+<transcript>: Not that far.
+
+13:34:54
+<transcript>: Is data in the root now.
+
+13:34:58
+laytanl_: just ./
+
+13:34:59
+<transcript>: Why am I so dumb.
+
+13:35:03
+<transcript>: Oh, it just be right here.
+
+13:35:05
+<transcript>: Yeah.
+
+13:35:10
+<transcript>: Everyone's trying to tell me because I'm a dummy.
+
+13:35:15
+<transcript>: Eddie vick, thanks so much for the prime sub.
+
+13:35:15
+<transcript>: thank you
+
+13:35:19
+thdxr: so looks like TS is laggy lol
+
+13:35:23
+<transcript>: Thank you so much, Eddie. I appreciate your prime sub. I appreciate you joining me on twitch. Also. George.
+
+13:35:29
+thdxr: not sure why this is happening WutFace
+
+13:35:32
+<transcript>: And Mickeyl, thank you for the follows. Looks like ts is laggy. I haven't noticed yet. I haven't done anything yet, but.
+
+13:35:32
+<transcript>: i just
+
+13:35:38
+laytanl_: what typescript magic did you add lol @thdxr
+
+13:35:40
+<transcript>: I just did an lst restart because that was. That wasn't working. So ts. So I need to check and see if ts works. Let's see. What would I do.
+
+13:35:45
+<transcript>: I guess I would actually do real work.
+
+13:35:50
+<transcript>: I just did some real work that would tell me if ts was laggy right.
+
+13:35:50
+thdxr: check the stream variablen
+
+13:36:00
+<transcript>: Let's see if the app works. No Tan sac react query could not be found. Oh, I need to do yarn install, too, don't I.
+
+13:36:06
+<transcript>: Need any do yarn install. I haven't actually done yarn saw. I just did PNP install at the root.
+
+13:36:09
+<transcript>: Can you confirm or deny.
+
+13:36:11
+thdxr: type stream.data. and see if it autocompletes url
+
+13:36:12
+caasidev: hey Adam, how are you?
+
+13:36:17
+<transcript>: Type stream data.
+
+13:36:17
+<transcript>: can you confirm that i
+
+13:36:21
+<transcript>: Can you confirm that I should have yarn installed so I hadn't yarn installed yet.
+
+13:36:23
+thdxr: I thought we do pnpm i inside the
+
+13:36:25
+thdxr: app
+
+13:36:33
+<transcript>: Hey, cassie, I'm good. How are you? I thought we do npm inside the app. Oh, I've been doing pmp or I've been doing the yarn inside the app because it's a yarn lock file.
+
+13:36:35
+<transcript>: Should I not be doing yarn.
+
+13:36:38
+thdxr: oh lol
+
+13:36:40
+<transcript>: My messing something up every time I do that probably.
+
+13:36:40
+<transcript>: oh
+
+13:36:42
+<transcript>: Oh.
+
+13:36:45
+thdxr: we don't need to use yarn right
+
+13:36:46
+<transcript>: Okay, so do stream.
+
+13:36:46
+<transcript>: dot
+
+13:36:47
+<transcript>: Dot data.
+
+13:36:52
+<transcript>: I don't think that's real.
+
+13:36:57
+<transcript>: I don't think that's real like typescript, stuff.
+
+13:36:57
+<transcript>: stream
+
+13:36:58
+<transcript>: Stream.
+
+13:37:03
+<transcript>: It's not giving me any typescript what's it say on that.
+
+13:37:07
+<transcript>: It's an any says it's an inning.
+
+13:37:08
+thdxr: yeah looks slow af
+
+13:37:11
+thdxr: oh
+
+13:37:13
+<transcript>: Wait failed to build Project xcode.
+
+13:37:15
+thdxr: need to pnpm i
+
+13:37:20
+<transcript>: Build input file can I be found.
+
+13:37:28
+<transcript>: Amazon ibs Manager Poster distributed. Clear this files now put oh, oh, I think this is my fault? Hang on, I know how to do this.
+
+13:37:32
+rohithgilla: !giveaway
+
+13:37:32
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+13:37:32
+<transcript>: Do I know how to do this? I think I'm.
+
+13:37:32
+<transcript>: new to exp
+
+13:37:35
+<transcript>: New to Expo. Okay, I'm new.
+
+13:37:39
+<transcript>: Pmpmi that'll do it.
+
+13:37:39
+meranofox: this window management NotLikeThis
+
+13:37:42
+<transcript>: No, it just says.
+
+13:37:51
+thdxr: inside app folder
+
+13:37:51
+<transcript>: The workspaces are already installed. So you're saying I shouldn't do yarn.
+
+13:37:58
+<transcript>: Oh, Sorry, is my window management.
+
+13:37:58
+<transcript>: to curse
+
+13:38:06
+<transcript>: To curse. I should put these on the sound, like the vertical. They should be over on the side. I just made them like this today. And I was like, Why did I do that.
+
+13:38:06
+<transcript>: inside
+
+13:38:12
+<transcript>: Inside App folder? Yeah, I'm inside the App folder. And I do pmpn gmpm install.
+
+13:38:12
+<transcript>: it says
+
+13:38:13
+<transcript>: It says.
+
+13:38:13
+<transcript>: all five
+
+13:38:16
+<transcript>: All five workspace projects done.
+
+13:38:21
+<transcript>: Okay.
+
+13:38:22
+sj_se: do you have cocoapods installed?
+
+13:38:24
+thdxr: oh hm
+
+13:38:26
+<transcript>: Not not loving the music.
+
+13:38:29
+<transcript>: Let's give it another try.
+
+13:38:36
+<transcript>: Do you have cocoa pods installed? Yes, I've definitely run the app.
+
+13:38:36
+<transcript>: recently
+
+13:38:37
+<transcript>: Recently.
+
+13:38:39
+<transcript>: Let's try.
+
+13:38:39
+<transcript>: let's
+
+13:38:41
+thdxr: maybe we do use yarn...thought I was using pnpm for everything
+
+13:38:42
+<transcript>: Let's try yarn iOS.
+
+13:38:52
+<transcript>: Maybe we do use yarn. Thought I was using pmp for everything. Remember, Expo doesn't work with pnpm or something. Something like that.
+
+13:39:00
+<transcript>: Build input file cannot be found.
+
+13:39:02
+<transcript>: Is this.
+
+13:39:06
+<transcript>: Rebate packages App node modules.
+
+13:39:11
+<transcript>: So that did you forget to clear this files and output custom build.
+
+13:39:13
+sm1sko: Delete node_modules and package.lock ?
+
+13:39:15
+<transcript>: I remember I had to like, do.
+
+13:39:21
+<transcript>: Yeah let's delete yeah, yeah remove rf node models.
+
+13:39:27
+<transcript>: Do that. Thank you. Welcome to Chat sm. One SCO.
+
+13:39:32
+<transcript>: Let's do yarn install.
+
+13:39:42
+<transcript>: And then I'm pretty sure how to do like an Expo thing to make it build the iOS depending, but I thought doing yarn iOS did that.
+
+13:39:49
+<transcript>: I think I can do like mpx Expo.
+
+13:39:51
+<transcript>: Install.
+
+13:39:53
+oetziofficial: So many package managers kruzEw
+
+13:39:55
+<transcript>: Aws, what is the package called.
+
+13:39:57
+sm1sko: Wait why are you using yarn and pnpm at the same time?
+
+13:40:03
+<transcript>: Where is it.
+
+13:40:04
+<transcript>: That one.
+
+13:40:15
+<transcript>: Do the native thing.
+
+13:40:15
+<transcript>: so many
+
+13:40:18
+<transcript>: So many package managers, it's obnoxious.
+
+13:40:20
+<transcript>: Okay yarn iOS.
+
+13:40:32
+<transcript>: Sorry. I know that this view is very hard to make sense of. We're just trying to build the app again and it's not building what is what is going on.
+
+13:40:34
+<transcript>: Build input file.
+
+13:40:34
+<transcript>: can't be
+
+13:40:36
+<transcript>: Can't be found.
+
+13:40:40
+<transcript>: Where is that it's in node modules.
+
+13:40:40
+<transcript>: app node mod
+
+13:40:42
+sj_se: what shell configuration are you using? ohmyzsh?
+
+13:40:44
+<transcript>: App node Mode modules ibs React Native Player iOS.
+
+13:40:48
+<transcript>: It is oh, My zs H S J.
+
+13:40:52
+grasp5533: !giveaway
+
+13:40:53
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+13:40:53
+eddyvinck: We need another package manager to rule them all Kappa
+
+13:40:56
+<transcript>: In sm One, we're using yarn inside our stupid Expo app because it doesn't work with pnpm.
+
+13:41:00
+<transcript>: We're using pnpm at the root for the whole project.
+
+13:41:00
+<transcript>: but it's like a
+
+13:41:02
+massabrutto: pods install?
+
+13:41:06
+<transcript>: But it's like a pmp and Monterrepo, but we can't use it inside the Expo Project. It breaks.
+
+13:41:07
+sj_se: nice. which theme is that?
+
+13:41:09
+<transcript>: Pods, install.
+
+13:41:09
+<transcript>: so you're saying just
+
+13:41:10
+<transcript>: So you're saying just do like.
+
+13:41:10
+<transcript>: install
+
+13:41:12
+<transcript>: Install.
+
+13:41:17
+<transcript>: Push the Iowa.
+
+13:41:22
+<transcript>: Install.
+
+13:41:28
+<transcript>: This might actually be working.
+
+13:41:28
+<transcript>: hey
+
+13:41:34
+<transcript>: Hey, masa, thank you so much for the tip. And welcome to Chat. Let's see if that actually worked.
+
+13:41:39
+<transcript>: Let's see.
+
+13:41:39
+<transcript>: mario
+
+13:41:42
+<transcript>: Mario When I was a yarn iOS.
+
+13:41:49
+<transcript>: Hey, I think it's doing more than it was doing. Maybe not.
+
+13:41:49
+<transcript>: i might just be over
+
+13:41:51
+<transcript>: I might just be overly excitable.
+
+13:42:01
+<transcript>: Thank you so much. Also, welcome to Chat masa. You saved my day. Look at this. Look at this. It works.
+
+13:42:03
+<transcript>: It works.
+
+13:42:05
+<transcript>: I think.
+
+13:42:05
+<transcript>: it
+
+13:42:07
+rohithgilla: Sometimes, pod install —repo- update works for me
+
+13:42:07
+<transcript>: It works.
+
+13:42:10
+<transcript>: Which theme is that you know.
+
+13:42:14
+<transcript>: Power level 9000.
+
+13:42:14
+<transcript>: or ten
+
+13:42:16
+<transcript>: Or 10,001 of those things.
+
+13:42:20
+<transcript>: All right, while we're waiting on this single build? Because it's slow? Oh, it built.
+
+13:42:20
+<transcript>: starting another give
+
+13:42:24
+<transcript>: Starting another giveaway. Here we go. Redeem your points.
+
+13:42:24
+<transcript>: and
+
+13:42:26
+<transcript>: And it still doesn't work.
+
+13:42:30
+eddyvinck: Btw is there an expiry on the AWS credits that I should be aware of?
+
+13:42:31
+<transcript>: Trpc server shared from something something.
+
+13:42:36
+<transcript>: George, thank you for that. Follow. Oh, I already saw that.
+
+13:42:36
+<transcript>: well still thank you
+
+13:42:37
+<transcript>: Well, still. Thank you. Thank you again.
+
+13:42:37
+<transcript>: by the way
+
+13:42:44
+<transcript>: By the way, is there an expiration on the scratch? Yes. This year you have to use that $50. This year.
+
+13:42:50
+<transcript>: Have to use it before December 31.
+
+13:42:50
+<transcript>: two
+
+13:42:55
+eddyvinck: Alright 👌
+
+13:42:55
+oetziofficial: I can't use the redeems anymore twitch rate limited my phone ayyyyyy
+
+13:42:56
+<transcript>: 2023 so bundling failed DAX unable to resolve purpose.
+
+13:42:56
+<transcript>: shared from
+
+13:43:01
+<transcript>: Shared from node modules. Crpc React query disk Index Does this work on your machine or you're not building iOS.
+
+13:43:01
+<transcript>: probably
+
+13:43:03
+<transcript>: Probably.
+
+13:43:04
+thdxr: might need to add @trpc/server to the app package.jsom
+
+13:43:18
+<transcript>: Oh, it's you can't use the redeems anymore. Twitch rate limited. My phone. Are you sure it's not that you hit the 20 cap. There should be a cap where you can only redeem 20 today on stream.
+
+13:43:25
+oetziofficial: Ohhhhhhh
+
+13:43:25
+pstoa: first time catching the stream HeyGuys
+
+13:43:26
+<transcript>: Might need to add tier PC server to the end package. Json. Okay. Is it just that just at two or PC server.
+
+13:43:29
+<transcript>: Set it.
+
+13:43:35
+<transcript>: Dependencies so we have tierpc client.
+
+13:43:35
+<transcript>: we're
+
+13:43:36
+<transcript>: We're going to add.
+
+13:43:41
+<transcript>: Your piece server same version number.
+
+13:43:45
+oetziofficial: I spammed it earlier kruzKEKW
+
+13:43:52
+<transcript>: Yarn install okay ending the giveaway. The fourth giveaway winner is.
+
+13:43:52
+<transcript>: bm
+
+13:43:53
+<transcript>: Bmbo.
+
+13:43:57
+dnbull: yay
+
+13:44:00
+eddyvinck: LUL
+
+13:44:00
+<transcript>: Sorry. Let's see. Yeah. It was a limit of 20. I've tried to explain it. I've done it. I've just been.
+
+13:44:00
+<transcript>: a bad job
+
+13:44:10
+octogon: get rekt @cowfacedude99
+
+13:44:14
+<transcript>: A bad job of explaining it. But basically there's 20 giveaways today and you get 20 redemptions so you could do one redemption per giveaway or 20 on the first one, or in your case, 20 on the third one.
+
+13:44:16
+<transcript>: That's how it works.
+
+13:44:16
+<transcript>: welcome to
+
+13:44:19
+<transcript>: Welcome to Chat. Octro. Gun.
+
+13:44:25
+<transcript>: Okay, so the winner was dm bowl, rear.
+
+13:44:28
+<transcript>: This thing here.
+
+13:44:30
+oetziofficial: bashFrown ok
+
+13:44:32
+<transcript>: Aws credits.
+
+13:44:37
+<transcript>: For B, and bully.
+
+13:44:41
+<transcript>: This just helped me keep track of who's one. So I don't forget.
+
+13:44:41
+<transcript>: i
+
+13:44:44
+<transcript>: I will send those out after the stream is over.
+
+13:44:47
+oetziofficial: I should've listen better kruzKEKW
+
+13:44:52
+kindrak: !giveaway
+
+13:44:53
+fossabot: i'm giving away $1000 in aws credits, listen to adam for instructions
+
+13:44:53
+<transcript>: We've done four, and we gotta do 20, and I'm only streaming for another. I'm streaming for another, like, two and a half hours. So I think we'll get through.
+
+13:44:53
+<transcript>: maybe
+
+13:44:56
+<transcript>: Maybe need to pick up the base.
+
+13:44:56
+<transcript>: i should
+
+13:45:00
+<transcript>: I should probably change the command to giveaway command should be more descriptive.
+
+13:45:03
+<transcript>: Because that is not.
+
+13:45:03
+<transcript>: very descriptive
+
+13:45:04
+<transcript>: Very descriptive.
+
+13:45:09
+nexxeln: helloo
+
+13:45:10
+<transcript>: Okay. So I added it back. Now I'm gonna do yarn iOS again.
+
+13:45:14
+<transcript>: Texas. Here.
+
+13:45:25
+<transcript>: Let me just do the thing I said I should do right now. Fossil bot giveaway edit.
+
+13:45:31
+<transcript>: Giving away a total of $1,000 in average credit.
+
+13:45:33
+<transcript>: Spread.
+
+13:45:36
+<transcript>: 50.
+
+13:45:39
+<transcript>: No. 20.
+
+13:45:43
+<transcript>: Times $50 credit.
+
+13:45:48
+<transcript>: There will be 20 separate.
+
+13:45:51
+<transcript>: Step rit separate giveaways.
+
+13:45:57
+<transcript>: You can only redeem.
+
+13:45:59
+<transcript>: 20.
+
+13:46:21
+<transcript>: Whatever. That's better at least, but it's better than my head cannot read property. Let's see. Oh new error. New error cannot reprop the abort on unmount of null.
+
+13:46:23
+<transcript>: That's a strange one.
+
+13:46:26
+<transcript>: Strange one aboard.
+
+13:46:26
+<transcript>: on unknown
+
+13:46:32
+<transcript>: On unknown. Where does that in create hooks? Internal? Is that something you made? Dax.
+
+13:46:35
+<transcript>: Is that like userland code, or is that.
+
+13:46:39
+<transcript>: Art. Ct. View Created by view.
+
+13:46:44
+<transcript>: What's? Think about that.
+
+13:46:49
+<transcript>: What's.
+
+13:46:52
+<transcript>: I don't know when in doubt.
+
+13:46:58
+<transcript>: Next is here. Next is here.
+
+13:46:58
+laytanl_: If the stream f's we get that limit reset 🤔
+
+13:46:59
+thdxr: maybe remove the tRPC provider and see if it all just works without it
+
+13:47:06
+<transcript>: If the stream s, we get that limit reset.
+
+13:47:06
+<transcript>: don't do it
+
+13:47:14
+<transcript>: Don't do it late and don't find some way to crash my stream, but yes, you will maybe remove the trpc provider and see if it all just works without it. Okay.
+
+13:47:21
+<transcript>: Idaxis this is probably frustrating one watching me just fluffs around and be super slow but.
+
+13:47:21
+<transcript>: to
+
+13:47:22
+<transcript>: To.
+
+13:47:26
+oetziofficial: My breaks over, gotta continue coding. Catch y'all later, have fun!
+
+13:47:32
+<transcript>: Rpc stuff and trying to debug through my screen and then I'm like giveaway time then I'm like Pay for the follow but but 2000.
+
+13:47:33
+thdxr: I'm playing with my dog anyway
+
+13:47:35
+<transcript>: That was my best guess. It the name on Twitch.
+
+13:47:45
+<transcript>: Let's try that. Did I mess up the markup? Yes, I did. I did mess up the markup.
+
+13:47:45
+<transcript>: let's undo
+
+13:47:46
+<transcript>: Let's undo.
+
+13:47:49
+<transcript>: Okay.
+
+13:47:49
+<transcript>: can't use
+
+13:47:53
+<transcript>: Can't use gsx, and we'll suggest flag is provided. What.
+
+13:47:56
+<transcript>: Are your playing with your dog anyway cool.
+
+13:48:03
+<transcript>: My breakfast over got continued coding catch all later C O E T It's so nice to see you again.
+
+13:48:03
+<transcript>: we'll see you next time
+
+13:48:04
+<transcript>: We'll see you next time.
+
+13:48:15
+<transcript>: Okay. This is back to what I expect. Now I'm gonna just try collapsing all of this.
+
+13:48:19
+<transcript>: Oh, come on, there we go? I'm gonna try just deleting.
+
+13:48:19
+<transcript>: the provider
+
+13:48:20
+<transcript>: The provider.
+
+13:48:24
+nexxeln: how do i participate in a rebase game show?
+
+13:48:25
+<transcript>: Leaving everything else. And now we're gonna rebuild.
+
+13:48:28
+<transcript>: Start over? I'm gonna do.
+
+13:48:28
+<transcript>: this
+
+13:48:29
+<transcript>: This.
+
+13:48:35
+neochromer: uu I lovbe the new nvim config
+
+13:48:35
+<transcript>: How do I participate in rebates Game Show next? Well, it's we're building it.
+
+13:48:39
+neochromer: you really got into it fast
+
+13:48:39
+<transcript>: We haven't had the first show. We are gonna have some private shows.
+
+13:48:42
+<transcript>: And I would guess.
+
+13:48:45
+<transcript>: I would guess.
+
+13:48:55
+<transcript>: That you folks here. You find folks in my twitch chat. We'll have an opportunity to be part of some of the private early shows while we're beta testing.
+
+13:49:01
+<transcript>: So that'll be coming. You'll hear about it if you just kind of like, follow me anywhere on the Internet, I'll be talking about it a lot.
+
+13:49:01
+<transcript>: bored
+
+13:49:06
+<transcript>: Bored on unmount cannot read so it didn't change anything. This is in use queries.
+
+13:49:21
+<transcript>: So do we have actually our we using use query. Oh, we sure are stream is to see streamcreate use query.
+
+13:49:22
+thdxr: remove the use query line
+
+13:49:26
+<transcript>: What is that? Do? What is that? Query? Do.
+
+13:49:33
+<transcript>: Stream that data. That's how you get the data. Url.
+
+13:49:38
+<transcript>: Remove the use query line. Do you want me to put the provider back or leave it.
+
+13:49:40
+thdxr: and hardcore the stream url to an empty string
+
+13:49:44
+<transcript>: Love the new neovm config. You really got into it fast. Thanks. Neocromer.
+
+13:49:48
+<transcript>: Hard code the stream URL to an empty string.
+
+13:49:50
+thdxr: just want to get everything working without tRPC
+
+13:49:57
+<transcript>: Just want to get everything working without trpc. Okay, so leave the provider out.
+
+13:49:57
+<transcript>: and
+
+13:50:02
+<transcript>: And just we're gonna just get rid of this. And we're gonna say.
+
+13:50:10
+<transcript>: Wait.
+
+13:50:13
+<transcript>: Where's that stream URL coming from.
+
+13:50:23
+<transcript>: You see this one back.
+
+13:50:23
+<transcript>: that's
+
+13:50:26
+<transcript>: That's not set to anything.
+
+13:50:28
+thdxr: oh that maybe the error I didn't realize it was used in two places
+
+13:50:31
+<transcript>: Should that be? Maybe that's the problem. No, probably not. But I'm gonna change it to be.
+
+13:50:35
+<transcript>: Yeah. She's in two places. So let's just do.
+
+13:50:39
+<transcript>: Stream, data, url, or something? Is that what it was.
+
+13:50:42
+<transcript>: You got data at url, no. Three.
+
+13:50:45
+<transcript>: Do this.
+
+13:50:48
+<transcript>: Should I re add the provider, maybe.
+
+13:50:52
+<transcript>: Oh, no. Did I have a typo? What.
+
+13:50:52
+<transcript>: i just use anim
+
+13:50:54
+<transcript>: I just use animated style.
+
+13:50:54
+<transcript>: we come out
+
+13:50:55
+<transcript>: We come out.
+
+13:51:03
+<transcript>: That's weird.
+
+13:51:12
+<transcript>: So we'll leave it without the provider. We'll try it and then see what it says.
+
+13:51:19
+<transcript>: I'm just looking at debug output here.
+
+13:51:22
+<transcript>: Or blending stuff.
+
+13:51:22
+<transcript>: okay let's just try
+
+13:51:23
+<transcript>: Okay, let's just try it.
+
+13:51:32
+<transcript>: Let's just try it.
+
+13:51:37
+<transcript>: We don't have the trpc pervider now, so I don't know if that's problem.
+
+13:51:40
+<transcript>: Now.
+
+13:51:40
+<transcript>: it
+
+13:51:45
+<transcript>: It hates it hates react. Query where it hates something.
+
+13:51:52
+<transcript>: Thanks Roger fellow busy biz Royal King as well. I appreciate those follows.
+
+13:52:01
+<transcript>: The inbole if you don't want me to send you your credit that you won through twitch chat. Just dme let me know how you'd like me to set it to you.
+
+13:52:01
+<transcript>: did gg
+
+13:52:03
+<transcript>: Did GG.
+
+13:52:03
+<transcript>: also think
+
+13:52:10
+<transcript>: Also think for the follow an imposterengineer OOH imposter engineer reminds me later I'm gonna play among us with DAX.
+
+13:52:10
+<transcript>: very
+
+13:52:13
+<transcript>: Very excited. I might stream it.
+
+13:52:13
+<transcript>: i don't
+
+13:52:16
+<transcript>: I don't know if we decided if we're gonna stream it or not.
+
+13:52:26
+<transcript>: Okay, so that didn't fix it. I'm gonna kill that on my cop here. And we're gonna say, let's just do the hardcoding thing. Like you said the first time.
+
+13:52:26
+<transcript>: and we'll just
+
+13:52:28
+<transcript>: And we'll just say.
+
+13:52:28
+<transcript>: cons
+
+13:52:31
+<transcript>: Cons stream equals data.
+
+13:52:31
+<transcript>: u
+
+13:52:33
+<transcript>: Url.
+
+13:52:33
+<transcript>: empty
+
+13:52:33
+nexxeln: can you play among us on a mac
+
+13:52:35
+<transcript>: Empty string. How about that.
+
+13:52:45
+<transcript>: Can you play among us on a Mac? You can. I did last weekend with a bunch of other streamers.
+
+13:52:56
+<transcript>: And it's not great. You can't use the keyboard. So I was really slow moving around. I think there's some like Hacksmade figured out some app you can run that helps you use the keyboard.
+
+13:52:56
+<transcript>: okay
+
+13:52:58
+<transcript>: Okay. Dax. Here we go. Moment of truth.
+
+13:53:02
+<transcript>: So it does seem to work.
+
+13:53:06
+eddyvinck: Wait you can’t use the keyboard on Mac?? Lmao
+
+13:53:06
+<transcript>: It does seem to work with out the T of the user.
+
+13:53:08
+<transcript>: Okay.
+
+13:53:14
+<transcript>: You can't use the keyboard in among us Mac like.
+
+13:53:14
+<transcript>: you
+
+13:53:16
+<transcript>: You have to like, click around.
+
+13:53:16
+<transcript>: to move
+
+13:53:20
+<transcript>: To Move and click the activate Button. It's tedious.
+
+13:53:20
+<transcript>: makes you
+
+13:53:26
+<transcript>: Makes you look real dumb and really slow which I already did because I was new.
+
+13:53:26
+<transcript>: but
+
+13:53:30
+<transcript>: But even dumber, even slower. You know, I'm saying it was bad.
+
+13:53:37
+<transcript>: All right, dax. So we've got we've got an issue with use, query.
+
+13:53:37
+<transcript>: how
+
+13:53:38
+grasp5533: Are you going to build an android for rebase.tv also?
+
+13:53:40
+<transcript>: How much should I try to figure this out.
+
+13:53:53
+<transcript>: You're gonna build an Android for you based? Yes grass. We're using Expo, which is built on top of React native and we will have Android support from day One. Feels good.
+
+13:53:58
+thdxr: didn't you remove useQuery
+
+13:54:07
+<transcript>: Feels good. Mike. Legos. I love legos, Mike. Thanks so much to follow. Didn't your move U square? Yeah, yeah, it works without use. Query.
+
+13:54:10
+<transcript>: I'm saying how much should I try and figure out.
+
+13:54:10
+<transcript>: oh you're saying
+
+13:54:11
+thdxr: oh ok
+
+13:54:15
+<transcript>: Oh, you're saying just hard coded while I do my work, like you know me, just hard code the stream to one that works.
+
+13:54:15
+eddyvinck: You can use tRPC with React Native? I’ve yet to try it
+
+13:54:17
+thdxr: yeah
+
+13:54:18
+<transcript>: For what we send.
+
+13:54:24
+<transcript>: Okay. Yeah, I'll do that. I'll just hard code. It.
+
+13:54:25
+thdxr: gonna try fixing now
+
+13:54:28
+<transcript>: I don't want to do that.
+
+13:54:31
+<transcript>: So.
+
+13:54:36
+<transcript>: This one is doing the work for me.
+
+13:54:36
+<transcript>: i
+
+13:54:40
+<transcript>: I need to get a Url. How do I want to get a url.
+
+13:54:51
+<transcript>: I need to hit this endpoint.
+
+13:54:51
+<transcript>: in my
+
+13:54:53
+<transcript>: In my api, right.
+
+13:54:54
+thdxr: can add your old code back in
+
+13:54:55
+<transcript>: That's all.
+
+13:54:55
+<transcript>: don't be
+
+13:55:00
+<transcript>: Don't be dumb at them. You can do this. Can add your old code back in. Oh.
+
+13:55:04
+<transcript>: Just like fetch to this endpoint. Yeah.
+
+13:55:07
+<transcript>: Well, but I would have to.
+
+13:55:11
+<transcript>: Let's come over here. What is this? What was I doing in this one.
+
+13:55:15
+<transcript>: It worked. Okay.
+
+13:55:17
+<transcript>: Export.
+
+13:55:22
+<transcript>: I just need the api URL.
+
+13:55:28
+<transcript>: I'm really dumb back don't watch me I'm gonna do something really dumb.
+
+13:55:28
+<transcript>: i don't know
+
+13:55:30
+<transcript>: I don't know how.
+
+13:55:30
+<transcript>: api
+
+13:55:32
+<transcript>: Api, gateway.
+
+13:55:32
+<transcript>: how else do
+
+13:55:34
+<transcript>: How else do it right now.
+
+13:55:38
+<transcript>: I'm just gonna go in here and find the thing.
+
+13:55:39
+fragaverage: what is going on here
+
+13:55:41
+<transcript>: Adam rebase API.
+
+13:55:44
+<transcript>: Frag? What's going on.
+
+13:55:44
+<transcript>: we are
+
+13:55:46
+<transcript>: We are here we go.
+
+13:55:50
+<transcript>: Here we go here we go here we go.
+
+13:55:50
+<transcript>: we're working on re
+
+13:55:54
+<transcript>: We're working on rebates TV. Frag rebase.
+
+13:55:54
+<transcript>: tv
+
+13:55:55
+<transcript>: Tv.
+
+13:55:58
+<transcript>: So I need to just hit.
+
+13:56:05
+fragaverage: im messing with Dynamo today
+
+13:56:14
+<transcript>: Messing with dynamo today? Hey, rebase uses dynamo. Maybe I'll just hit it. I'll just hit it with my browser.
+
+13:56:14
+<transcript>: like
+
+13:56:16
+<transcript>: Like a dummy.
+
+13:56:17
+fragaverage: max 25 updates is annoying isn't it
+
+13:56:21
+<transcript>: Api. No, not even api. Just slash stream.
+
+13:56:25
+nft_scam: !giveaway
+
+13:56:25
+<transcript>: Nobody steals this. I'm getting a url that I don't want anyone to use.
+
+13:56:25
+<transcript>: nobody
+
+13:56:26
+fossabot: i'm giving away a total of $1000 in aws credits: 20 x $50 credits. there will be 20 separate giveaways, but you can only redeem 20 entries total! so spend wisely!
+
+13:56:27
+<transcript>: Nobody use it.
+
+13:56:27
+<transcript>: don't do it
+
+13:56:29
+<transcript>: Don't do it.
+
+13:56:32
+<transcript>: I'm also gonna put it right here. Don't use it.
+
+13:56:38
+<transcript>: Okay. I think we're good now. Players top. Like a forbidden Oh.
+
+13:56:42
+<transcript>: Why would it be forbidden.
+
+13:56:45
+<transcript>: Soding it over.
+
+13:56:52
+<transcript>: Max 25 update is annoying, isn't it? Yeah. Transaction. Is that transactions? Or is that the bold.
+
+13:56:52
+<transcript>: i can't
+
+13:56:57
+<transcript>: I can't remember which one's? 25. I think they up to the transactions to 100.
+
+13:56:57
+<transcript>: but
+
+13:56:59
+<transcript>: But there's still a 25 limit on.
+
+13:56:59
+<transcript>: like
+
+13:57:03
+<transcript>: Like, is it the bulk right, or something.
+
+13:57:06
+<transcript>: Okay. It's saying forbidden.
+
+13:57:08
+<transcript>: Why.
+
+13:57:10
+<transcript>: Why though.
+
+13:57:16
+eddyvinck: Got my Developer Associate cert this week, so I’m looking forward to making some toy projects in AWS.
+
+13:57:17
+<transcript>: Repace API.
+
+13:57:21
+<transcript>: I don't think it's the wrong one stage atom.
+
+13:57:21
+<transcript>: i got
+
+13:57:22
+maleero: We were promised balloons!
+
+13:57:28
+<transcript>: I got my developer associated cert this week, so I'm looking forward to making some toy project, and they did this. That's so cool. Eddie.
+
+13:57:28
+<transcript>: aws
+
+13:57:30
+<transcript>: Aws certs.
+
+13:57:30
+<transcript>: we were
+
+13:57:36
+cowfacedude99: @eddyvinck congrats.
+
+13:57:36
+<transcript>: We were promised balloons. We are celebrating maliro. We're celebrating with giveaways of which I'm starting now.
+
+13:57:36
+<transcript>: number five
+
+13:57:39
+<transcript>: Number five let's give away begin.
+
+13:57:39
+<transcript>: go
+
+13:57:40
+fragaverage: yeah bulk writes. We're writing a small cache layer using dynamo but when we update a property, we wanna invalidate (delete) a bunch of entries
+
+13:57:40
+<transcript>: Go.
+
+13:57:45
+<transcript>: Congrats, Eddie. Seriously, that's awesome. A to best is such a fun rabbit hole.
+
+13:57:45
+<transcript>: bulk
+
+13:57:50
+eddyvinck: Thank you @cowfacedude99
+
+13:57:52
+<transcript>: Bulk. Right. We're writing a small cache layer using dynamo. But when we update a property, we want to invalidate delete a bunch of entries.
+
+13:57:52
+<transcript>: one of these
+
+13:58:03
+<transcript>: One of these giveaways. I'm gonna just do it so slow, I'm gonna do it so fast, like, I'm gonna be like, start it. And then there's just gonna be some entries I'm gonna do end it like this one. End it. Who's the winner? The winner is calface.
+
+13:58:03
+<transcript>: look at you
+
+13:58:04
+schrew: RIP
+
+13:58:05
+<transcript>: Look at you cafe.
+
+13:58:05
+<transcript>: rolling in it
+
+13:58:06
+<transcript>: Rolling in it.
+
+13:58:08
+cowfacedude99: what the?
+
+13:58:11
+<transcript>: Rolling it sure it's okay. There's gonna be like 15 more.
+
+13:58:12
+nft_scam: 🐮 face
+
+13:58:21
+<transcript>: I'm doing 15 more giveaways. Oh, no, calfase. Tell me you actually entered. Did you not enter? Oh, no, there's a flaw. There's a bug in the code.
+
+13:58:21
+<transcript>: no you entered
+
+13:58:24
+nft_scam: wait
+
+13:58:24
+<transcript>: No, you entered calf. It is only one entry, though.
+
+13:58:25
+cowfacedude99: I did
+
+13:58:28
+laytanl_: Ayoo I was alt-tabbing
+
+13:58:30
+<transcript>: Only one you did. I'd saw it. But just one of them.
+
+13:58:30
+<transcript>: that was
+
+13:58:32
+<transcript>: That was lucky.
+
+13:58:37
+zakhal2: It’s not working for me
+
+13:58:37
+<transcript>: Oh, late. And did you miss it? It's okay. I'm gonna do another one really soon.
+
+13:58:37
+<transcript>: i've got to still do this
+
+13:58:38
+ogasege: Guys, hear me out. Let only me go for the next giveaway and I win and we are all winners
+
+13:58:42
+<transcript>: I've got to still do this. 15 of them. It's not working for you.
+
+13:58:44
+<transcript>: Zack.
+
+13:58:44
+<transcript>: welcome to chat
+
+13:58:44
+ogasege: What do y'all think?
+
+13:58:47
+cowfacedude99: I'll send my details on on discord later.
+
+13:58:48
+<transcript>: Welcome to Chat. First of all, second of all, when you say it's not working like you can't redeem.
+
+13:58:48
+<transcript>: the redeem
+
+13:58:50
+<transcript>: The redeem thing.
+
+13:58:56
+<transcript>: Thanks Scott face. That'd be great so I can internet stock you with your details.
+
+13:58:56
+<transcript>: hear me out
+
+13:58:59
+zakhal2: It says Out of stock
+
+13:58:59
+stalwartcoder: I just have 20 bits 😂😂😂😂
+
+13:59:01
+<transcript>: Hear me out. Let only me go for the next giveaway and I win. We are all winning. What do you like.
+
+13:59:01
+<transcript>: says
+
+13:59:02
+maleero: You're screwing up my late game play by ending it early! Let them use all of their entries LUL
+
+13:59:06
+<transcript>: Says out of stock. Have you done it 20 times? Zacle.
+
+13:59:06
+<transcript>: if you've done
+
+13:59:08
+<transcript>: If you've done it over 20 times.
+
+13:59:11
+cowfacedude99: or you can just send them on discord.
+
+13:59:15
+<transcript>: Let's use all their entries. I'll let some of them run on for a while. We got a bunch of them.
+
+13:59:17
+zakhal2: I’m not sure
+
+13:59:18
+nft_scam: unfortunate
+
+13:59:19
+<transcript>: I'll listen to one discord that makes sense. Calf base.
+
+13:59:21
+adamdotdev: !discord
+
+13:59:22
+fossabot: Adam has a Discord server and he'd love to see you there: https://discord.gg/E92M2chd3e
+
+13:59:26
+<transcript>: Hey, that's a great plug for the discord, discord, discord, you join the discord? There's an easy way from its end to your credits.
+
+13:59:46
+<transcript>: I'm gonna be doing more with that discord sometime soon. So, zack, you say it says out of stock, it only is when I hit the button. It makes it enabled where you can redeem it. And then when I hit the off button, you can't redeem anymore. So that's one thing. It's only available for a short window time. And then you have to have 50 points channel points, and then.
+
+13:59:56
+<transcript>: Out of stock might mean you've already done 20. If you've entered in your name 20 times already, then that would also mean it's out of stock. There's only 20. Everyone gets 20 goes at it.
+
+13:59:56
+<transcript>: across all
+
+14:00:01
+<transcript>: Across all 20 giveaways it's kind of a weird system. I don't know if anyone's gonna be around at the end.
+
+14:00:03
+<transcript>: Hopefully.
+
+14:00:08
+<transcript>: Okay, let's actually get some work done. That'd be fun.
+
+14:00:11
+<transcript>: You name this one.
+
+14:00:16
+fragaverage: If I did 20 on the first, I cant enter the rest? or its pooled?
+
+14:00:19
+<transcript>: Five cafes. That was just the fifth one.
+
+14:00:23
+<transcript>: Just the fifth one.
+
+14:00:25
+<transcript>: The Times. Okay. 15 more hunts.
+
+14:00:25
+<transcript>: so
+
+14:00:35
+<transcript>: So why if I did 20 on the first, I can't enter the rest. Yeah, sorry, frag. That's how it works. You just get 20 in this entire stream.
+
+14:00:40
+fragaverage: I didn't, was theory
+
+14:00:40
+nft_scam: Sadge
+
+14:00:42
+<transcript>: There may be a there could have been some misunderstandings I would understand if people misunderstood and if you all vote.
+
+14:00:42
+<transcript>: oh
+
+14:00:46
+zakhal2: Oh ok I only clicked it once
+
+14:01:01
+fragaverage: I am in support, I have a LOT of adam bucks LUL
+
+14:01:02
+laytanl_: Nah man I have been saving
+
+14:01:06
+cowfacedude99: I spammed a bunch on the last.
+
+14:01:08
+sj_se: not in support
+
+14:01:09
+tayloreddev: no, i am being strategic LUL
+
+14:01:15
+leanstein_: I yoloed on purpose
+
+14:01:22
+dylandavids0n: Yeah let it ride.
+
+14:01:33
+cowfacedude99: I will spam a bunch later.
+
+14:01:34
+overra_dev: adamdo8DealWithIt
+
+14:01:36
+cowfacedude99: !lurk
+
+14:01:41
+laytanl_: That doesn't make sense, we can all spam now, and then get it reset after the poll
+
+14:01:43
+fragaverage: I'm staying above 50k though, wanna get that 1 on 1 scheduled soon :P
+
+14:02:04
+tiredbeaver: did you mean rtmps?
+
+14:02:15
+fragaverage: he meant rtfm
+
+14:02:26
+fragaverage: no thats a joke lmao
+
+14:02:35
+fragaverage: Read The F**king Manual
+
+14:02:43
+tayloreddev: friendly manual
+
+14:02:44
+tiredbeaver: rtmps -> Real Time Messaging Protocol Secure
+
+14:02:50
+guitaripod: Do you find that font more readable?
+
+14:03:19
+tiredbeaver: i actually implemented the server part of the rtmp protocol
+
+14:03:24
+tiredbeaver: in C and it was miserable
+
+14:03:33
+christhemanguydude: he did
+
+14:03:38
+christhemanguydude: not
+
+14:03:40
+christhemanguydude: maybe
+
+14:03:48
+nft_scam: i love operator mono
+
+14:03:54
+guitaripod: It's different but I don't hate it, which is interesting
+
+14:03:56
+nft_scam: recently switched to Dank Mono
+
+14:04:16
+nexxeln: i use dank mono too
+
+14:05:25
+guitaripod: If this isn't Dank Mono, what is it?
+
+14:06:16
+guitaripod: kk ty
+
+14:06:22
+webdeveloperguy: howdy
+
+14:07:28
+eddyvinck: I was playing Elden Ring and now I’m distracted by the stream, so I’m not getting anything done either LUL
+
+14:08:24
+overra_dev: nice
+
+14:09:11
+tiredbeaver: im trying matcha from starbucks for the first time
+
+14:09:16
+tiredbeaver: and I gotta say. it ain't bad
+
+14:10:38
+webdeveloperguy: @tiredbeaver that stuff tastes like dirt to me lol
+
+14:11:11
+schrew: close it quick!
+
+14:11:23
+jamesprodev: yyaayyyy!
+
+14:11:26
+teej_dv: SCAMMED
+
+14:11:28
+fragaverage: Yo SCAMMED
+
+14:11:29
+webdeveloperguy: it wouldn't let me
+
+14:11:29
+jamesprodev: LOL
+
+14:11:35
+schrew: NOREFUNDS
+
+14:11:35
+thdxr: I'm here
+
+14:11:39
+laytanl_: @WebDeveloperGuy me neither
+
+14:11:40
+mooosa: didnt let me buy
+
+14:11:42
+mooosa: sadge
+
+14:11:42
+binajmen: :'(
+
+14:11:47
+ogasege: can't redeem
+
+14:11:48
+webdeveloperguy: no, I'm new and I had to refresh
+
+14:11:53
+ogasege: HELPPPP
+
+14:11:57
+teej_dv: adam biased against web devs
+
+14:11:58
+laytanl_: I haven't done 20
+
+14:11:59
+christoph0saurus: same here. I have only done 3
+
+14:12:00
+tayloreddev: that was fast, i was too slow
+
+14:12:00
+teej_dv: confirmed
+
+14:12:01
+thdxr: says it's out of stock
+
+14:12:02
+maleero: I may have been too slow, but it didn't let me buy and I've only used 2 so far
+
+14:12:06
+mooosa: I've not bought any
+
+14:12:13
+webdeveloperguy: specific message is "Reward is temporarily unavailable. Check back for it soon."
+
+14:12:31
+zakhal2: It showed up for me but it said error
+
+14:12:37
+webdeveloperguy: ok, sounds good.
+
+14:12:48
+binajmen: time to poll, I didn't stick to my strategy :D
+
+14:12:48
+teej_dv: try watching the stream from 100ish accounts (that's what I do)
+
+14:12:53
+mooosa: temporarily unavailable
+
+14:12:54
+schrew: LUL
+
+14:13:09
+andreaslorozco: ads play sometimes after refreshing tho
+
+14:13:20
+jamesprodev: i entered twice, yeah
+
+14:13:23
+andreaslorozco: can I still redeem during ads?
+
+14:13:29
+cowfacedude99: hi @teej_dv
+
+14:13:32
+rudixworld: keep in mind there is a delay
+
+14:13:33
+thdxr: I need to see the error
+
+14:13:34
+jamesprodev: I'd like to thank all the little people, oh no acceptance speeches?
+
+14:13:37
+caasidev: heyup @teej_dv
+
+14:13:38
+laytanl_: yes @andreaslorozco
+
+14:13:40
+teej_dv: o/ chat
+
+14:13:42
+rwxcoc: yo what are u watching that has to be blurred out monkaS
+
+14:13:45
+andreaslorozco: coolio
+
+14:13:53
+vapor__dev: sst v2 nsfw
+
+14:14:04
+cowfacedude99: mind if I shoutout teej? @adamdotdev
+
+14:14:10
+jamesprodev: Twitch sounds fine!
+
+14:14:22
+teej_dv: <3
+
+14:14:34
+teej_dv: hey :) it's nice having you back on twitch!
+
+14:14:42
+jamesprodev: Oh good, I don't need new glasses
+
+14:14:54
+thdxr: somehow cdk code is getting into trpc.handler
+
+14:14:57
+cowfacedude99: one of our resident neovim maintainers.
+
+14:15:24
+thdxr: did you change something in core?
+
+14:15:28
+thdxr: or in functions
+
+14:15:32
+cowfacedude99: everyone does leaky leak.
+
+14:16:07
+overra_dev: adamdo8Adambar
+
+14:16:07
+schrew: I think if larabar cared, they could send a cease and desist
+
+14:16:12
+teej_dv: i just want sunchips to notice me
+
+14:16:13
+cowfacedude99: prime and theo have done much worse LUL
+
+14:16:22
+dalt_kb: I bought a box yesterday
+
+14:16:23
+tiredbeaver: i don't think you'd get in trouble unless you made them look bad
+
+14:16:26
+cowfacedude99: @teej_dv this has gone far more LUL
+
+14:16:33
+tiredbeaver: tbh u doing it for free benefits them anyways
+
+14:16:40
+brianhhough: LOL adam
+
+14:17:03
+thdxr: nvm I recreated the error one sec
+
+14:17:07
+vapor__dev: GT kombucha sponsor
+
+14:17:11
+cowfacedude99: I think prime leaked his credit ard one year.
+
+14:17:19
+cowfacedude99: card*
+
+14:17:23
+eddyvinck: This chat message is sponsored by Raycon  and Nord VPN
+
+14:18:07
+dalt_kb: I was influenced by you LUL
+
+14:18:18
+overra_dev: how many cal
+
+14:18:42
+thdxr: nooooo why?
+
+14:19:01
+thdxr: I figured out the error - go into `trpc.ts` and remove the import from useSession and delete the lines that reference it
+
+14:19:34
+webdeveloperguy: works this time
+
+14:19:45
+laytanl_: now it works yeh
+
+14:19:46
+winter_squirrel: How does she feel about your larabar addiction?
+
+14:19:56
+zakhal2: It worked for me now
+
+14:20:24
+eddyvinck: I love dates, just not in JavaScript
+
+14:20:26
+sj_se: resetting it punishes those who were waiting until the latter giveaways for a better chance at winning...
+
+14:20:33
+binajmen: Time for a poll, I'm broke :D
+
+14:20:37
+schrew: really hoping this vote goes the way I want
+
+14:20:44
+vapor__dev: all these flashing lights and coins and sounds is giving me vegas flashbacks
+
+14:20:53
+schrew: LUL
+
+14:21:05
+ayushsharma: Send me a box of that chocolate
+
+14:21:09
+tiredbeaver: i spent all of it already
+
+14:21:10
+tiredbeaver: im broke
+
+14:21:12
+tiredbeaver: and homeless
+
+14:21:20
+overra_dev: give away $50 larabar
+
+14:21:25
+sj_se: eat another candy bar
+
+14:21:28
+thdxr: ohh I figured it out the trpc issue, but we need to structure a project a bit more. Can't have everything in the App file, need to make one more
+
+14:21:30
+schrew: I yolo'd assuming this poll was happening monkaS
+
+14:21:38
+ogasege: The YOLO-ers will vote that you reset
+
+14:21:43
+binajmen: Exactly, like sucks. Go poll
+
+14:21:44
+laytanl_: @Schrew ^^^
+
+14:21:44
+ogasege: The polls will be rigged
+
+14:21:48
+tiredbeaver: you know i've thought about that statement a lot.
+
+14:21:50
+ogasege: NOOOOOOOO
+
+14:21:56
+fragaverage: its the last entry
+
+14:22:01
+fragaverage: 100% rigged LUL
+
+14:22:06
+maleero: Can you increase the max to 40 rather than reset? Would be fair that way
+
+14:22:06
+zol0: PogChamp
+
+14:22:11
+tiredbeaver: "life isn't fair" but we as a society still tries to make things as fair as possible.
+
+14:22:12
+ogasege: hmmmmm
+
+14:22:13
+binajmen: The algo is broke
+
+14:22:25
+jamesprodev: LUL
+
+14:22:26
+ogasege: IT's rigged?? Wowwww
+
+14:22:27
+binajmen: Suspicious
+
+14:22:29
+schrew: cowface definitely wasn't last
+
+14:22:33
+zol0: EZ Clap
+
+14:22:34
+sj_se: at this point nothing is technically "fair" because it is modifying the rules after the fact
+
+14:22:36
+ogasege: Pick me and that fixes it
+
+14:22:41
+eddyvinck: I don’t think I was last
+
+14:23:05
+winter_squirrel: !giveaway
+
+14:23:06
+fossabot: i'm giving away a total of $1000 in aws credits: 20 x $50 credits. there will be 20 separate giveaways, but you can only redeem 20 entries total! so spend wisely!
+
+14:23:21
+binajmen: Sounds fair
+
+14:23:34
+grasp5533: inflation
+
+14:23:36
+eddyvinck: Don’t increase it imo because I’m saving now 🤣
+
+14:23:36
+sj_se: 1
+
+14:23:49
+zol0: thanks man
+
+14:23:52
+binajmen: Love the prediction :)
+
+14:23:59
+ogasege: I got 6 votes left. Tricky hmm
+
+14:24:07
+maleero: LUL
+
+14:24:15
+schrew: thought about putting 50k on YES
+
+14:24:20
+caasidev: gotta dash now, good luck everyone, see ya Adam
+
+14:24:37
+fragaverage: We need to know the result, check the code lmao
+
+14:24:48
+eddyvinck: I can’t gamble my credits with polls in my country what even is this regulation LUL
+
+14:25:17
+tayloreddev: will it reset everyone back to zero
+
+14:26:00
+binajmen: Why broke people are not voting
+
+14:26:08
+sj_se: as it should be
+
+14:26:14
+binajmen: xD
+
+14:26:19
+tiredbeaver: im still here
+
+14:26:26
+ogasege: So we're all saving?
+
+14:26:26
+eddyvinck: Broke bois
+
+14:26:30
+ogasege: Oh well
+
+14:27:08
+coolpantstv: looks rigged to me
+
+14:27:08
+overra_dev: lgtm
+
+14:27:09
+tiredbeaver: yes
+
+14:27:18
+eddyvinck: Code suggestion: If name === eddyvinck { pickWinner() }
+
+14:27:22
+zakhal2: Yes
+
+14:27:24
+ogasege: unbiased outside perspective hre: Let it pickk me
+
+14:27:27
+tiredbeaver: but tbh "randomness" within the context of computers is really pseudo randomness
+
+14:27:32
+schrew: Sadge, got baited by the existence of the poll and thinking the crowd would give us a reset
+
+14:27:38
+tiredbeaver: depends on how JS does things
+
+14:27:45
+sj_se: but how are yo udealing with the decimal places?
+
+14:27:46
+maleero: Show us the real script #rigged
+
+14:27:51
+sj_se: without using floor or ceil
+
+14:27:53
+overra_dev: it might not have picked the last entry, they might have just been the last person as well
+
+14:28:04
+fragaverage: you have a floor
+
+14:28:06
+fragaverage: iirc
+
+14:28:09
+overra_dev: there's a floor
+
+14:28:11
+spartangtr: even if you're using system entropy mechanisms?
+
+14:28:13
+sj_se: oh yo udo duh
+
+14:28:16
+sj_se: i missed it my bad
+
+14:28:32
+zol0: let's see your Math.random() re-implementation Kappa
+
+14:28:43
+overra_dev: lol
+
+14:29:05
+binajmen: let's vote
+
+14:29:10
+ogasege: AMONG US
+
+14:29:12
+ogasege: YES
+
+14:29:13
+spartangtr: that's an intense lighting umbrella
+
+14:29:17
+eddyvinck: How much work is it to create an integration with the twitch points like this? It’s pretty cool
+
+14:29:32
+thdxr: brb
+
+14:29:36
+thdxr: I'm pooping
+
+14:29:43
+daglee: I wasn't able to vote! Not fair!
+
+14:29:45
+eddyvinck: 💩
+
+14:29:46
+spartangtr: @thdxr appreciate the update!
+
+14:29:46
+fragaverage: remove useSession stuff from trpc.ts
+
+14:29:51
+christhemanguydude: may it be pleasant
+
+14:30:06
+thdxr: no no
+
+14:30:17
+fragaverage: best chinese whispers game
+
+14:30:20
+daglee: No, I can't vote because it's "illegal gambling" in my country.
+
+14:30:50
+eddyvinck: I can vote but I can’t gamble credits with polls either
+
+14:31:08
+thdxr: can I just push a fixed version of this
+
+14:31:21
+overra_dev: you can vote, but you can't bet on predictions, i'm assuming
+
+14:31:25
+gerellt: Oh wow
+
+14:31:32
+eddyvinck: Man’s pooping and fixing code at the same time
+
+14:31:34
+eddyvinck: What a legend
+
+14:31:38
+sj_se: SimTower
+
+14:31:40
+coolpantstv: first rebase stream 2025 at this pace lol
+
+14:31:54
+pixori: Which font is that?
+
+14:32:00
+fragaverage: !font
+
+14:32:00
+fossabot: Adam uses the Dracula theme and the Operator Mono font in VSCode.
+
+14:32:08
+pixori: !font
+
+14:32:08
+thdxr: hshs
+
+14:32:08
+fossabot: Adam uses the Dracula theme and the Operator Mono font in VSCode.
+
+14:32:10
+thdxr: hahah
+
+14:32:22
+cowfacedude99: @Fossabot this needs to change LUL
+
+14:32:48
+tumtumpkinz: I am considering moving to a non-tecjh hub from a major tech city. Do you ever feel left out living in MO?
+
+14:33:02
+cowfacedude99: we left vs**** behind LUL
+
+14:33:26
+overra_dev: is there a dev stream guide, like a TV guide for dev streamers and their schedules
+
+14:33:55
+tumtumpkinz: thanks :)
+
+14:33:57
+adamdotdev: streamers.dev
+
+14:34:13
+spartangtr: what? that's awesome. makes me wanna start live coding
+
+14:34:15
+overra_dev: nice, thanks!
+
+14:34:29
+mehulsharmamat: im baaack
+
+14:34:53
+metensis: !giveaway
+
+14:34:54
+fossabot: i'm giving away a total of $1000 in aws credits: 20 x $50 credits. there will be 20 separate giveaways, but you can only redeem 20 entries total! so spend wisely!
+
+14:35:01
+overra_dev: short
+
+14:35:06
+zakhal2: Short
+
+14:35:15
+ogasege: It's not random if it's not me
+
+14:35:16
+overra_dev: congrats @llebc
+
+14:35:24
+ogasege: IT'S NOT ME
+
+14:35:27
+ogasege: I'M TIREDDD
+
+14:35:29
+llebc: Wooo
+
+14:35:36
+christhemanguydude: then send it to me
+
+14:35:50
+thdxr: OK I GOT IT WORKING
+
+14:35:53
+eddyvinck: I want another $50 credits, this is rigged Kappa
+
+14:36:20
+tiredbeaver: teach ur 3 yr old web dev
+
+14:36:21
+tiredbeaver: ez
+
+14:36:55
+gerellt: I threw all my chances at once and failed
+
+14:36:56
+gerellt: hahaha
+
+14:37:03
+eddyvinck: Is it just a REST API from twitch for this giveaway integration with credits? It’s pretty cool
+
+14:37:16
+gerellt: RIGHHT
+
+14:37:20
+gerellt: I should've done that.
+
+14:37:24
+schrew: Never heard of Foals, but I keep thinking this is the talking heads
+
+14:37:24
+thdxr: OK  1. Reset to all my changes 2. pnpm install in root 3. yarn install in app folder 4. it should work?
+
+14:38:11
+thdxr: you'r enot in the root of the project
+
+14:38:14
+mjewl: ..
+
+14:38:47
+thdxr: I also log the stream url in the function so you can see if it looks right
+
+14:38:53
+thdxr: everyone stop talking to adam it's MY TURN
+
+14:38:58
+thdxr: gonna ban everyone
+
+14:39:00
+eddyvinck: Cool 👌
+
+14:39:15
+eddyvinck: Oops I’m banned now
+
+14:39:24
+coolpantstv: 🤐
+
+14:39:28
+thdxr: yeah restart it
+
+14:39:30
+thdxr: now
+
+14:39:48
+tiredbeaver: this chat is now ruled by an authoritarian government
+
+14:39:49
+christhemanguydude: HeyGuys
+
+14:39:50
+lifelessirl: wait u live in ozarks, ozarks???
+
+14:39:51
+tiredbeaver: sadge
+
+14:39:56
+tiredbeaver: democracy is important you guys
+
+14:40:20
+lifelessirl: no, i just watched the show hahahahaha
+
+14:40:22
+spartangtr: yea but do you know marty
+
+14:40:29
+thdxr: lifeless just disappointed you
+
+14:40:31
+vapor__dev: lol adam so excited
+
+14:40:31
+cowfacedude99: SECRETS. @adamdotdev
+
+14:40:33
+thdxr: was it worth it?
+
+14:40:38
+vapor__dev: that was sad
+
+14:40:53
+thdxr: we gotta rotate those secrets anyway before launch
+
+14:40:58
+lifelessirl: one day ill go there just to watch the filming spots, favorite show of all time
+
+14:41:09
+thdxr: lol the camera cut to her right when she showed up
+
+14:41:11
+fragaverage: Wife leak!
+
+14:41:11
+tiredbeaver: 21,866 (2021) ozarks population in 2021
+
+14:41:15
+thdxr: WIFE LEAK
+
+14:41:22
+schrew: She'll never know!
+
+14:41:34
+thdxr: it's ok she was blurry
+
+14:41:37
+thdxr: is your wife blurry?
+
+14:41:40
+overra_dev: adamdo8DealWithIt
+
+14:41:50
+tiredbeaver: i never got the appeal of tiktok
+
+14:42:05
+overra_dev: delicious
+
+14:42:05
+cowfacedude99: someone banned tiktok for us.
+
+14:42:09
+thdxr: looks DISGUSTING
+
+14:42:12
+tiredbeaver: that's so good
+
+14:42:19
+cowfacedude99: ps.the government did it
+
+14:42:20
+zakhal2: Looks nice
+
+14:42:35
+mjewl: You should get an emote of your blurry wife
+
+14:42:56
+thdxr: ok it worked check the stream url
+
+14:43:04
+thdxr: sst terminal
+
+14:43:09
+thdxr: mine shows up black
+
+14:43:27
+thdxr: when I open my app it shows up all black
+
+14:43:37
+tiredbeaver: oh those are pancakes
+
+14:43:48
+thdxr: I was on my stage
+
+14:43:52
+thdxr: let me try yours since it's up
+
+14:43:55
+tiredbeaver: oh
+
+14:44:08
+hacksore: HeyGuys
+
+14:44:10
+sj_se: chickpea FTW, i love chickpea noodles
+
+14:44:10
+tiredbeaver: let us see you eat it
+
+14:44:13
+tiredbeaver: that's good content
+
+14:44:19
+jiggaman98: That's rich people food.
+
+14:44:20
+tiredbeaver: hell ye
+
+14:44:34
+jiggaman98: Probably has caviar in it too... lol.
+
+14:44:36
+christhemanguydude: that's a big bite
+
+14:44:40
+maleero: That looks really good
+
+14:44:41
+tiredbeaver: YUMMY
+
+14:44:44
+tiredbeaver: OM NOM NOM
+
+14:44:52
+thdxr: yeah I guess something is wrong with the stream url?
+
+14:44:55
+thdxr: not sure what happened
+
+14:44:56
+tiredbeaver: he's a BIG MAN
+
+14:45:00
+tiredbeaver: BIG MAN TAKE BIG BYTE
+
+14:45:09
+hacksore: same I eat fast and LARGE bites
+
+14:45:14
+vapor__dev: big bites big checks
+
+14:45:41
+thdxr: yeah I guess you have to log it
+
+14:46:12
+thdxr: you have to log it in `core/src/stream.ts`
+
+14:46:41
+thdxr: I just printed mine
+
+14:46:41
+jiggaman98: My AI can decode the scramble. I see everything. Sorry to say that.
+
+14:46:50
+thdxr: no it's not working
+
+14:46:54
+unq_za: think your res is a bit low
+
+14:46:54
+thdxr: I thought black screen meant it's working
+
+14:47:03
+thdxr: no I can try though
+
+14:47:18
+thdxr: can you stream to my url?
+
+14:47:18
+jiggaman98: not a multi cam setup, lol.
+
+14:47:18
+thdxr: rtmps://3460cdb84f2a.global-contribute.live-video.net/app/
+
+14:47:36
+thdxr: yeah
+
+14:47:38
+thdxr: is that the wrong url
+
+14:47:42
+jiggaman98: not you giving us multiple camera angles in a crisis, lol!!!!!
+
+14:47:50
+thdxr: oh nvm
+
+14:48:01
+stroopwafel26: hello!
+
+14:48:24
+thdxr: nbd I broke it
+
+14:48:28
+jiggaman98: wow, this food process is intense. lol
+
+14:48:57
+eddyvinck: Last one again Kappa
+
+14:48:58
+cowfacedude99: looks like I am done for the day LUL
+
+14:49:01
+overra_dev: congrats @christhemanguydude
+
+14:49:03
+christhemanguydude: i can't believe it
+
+14:49:14
+stroopwafel26: STROOP IS HERE
+
+14:49:21
+christhemanguydude: whisper is fine
+
+14:49:25
+laytanl_: Lines of code per stream is up from yesterday at least
+
+14:49:31
+ogasege: I've given up
+
+14:49:32
+overra_dev: @stroopwafel26 t3ggWave
+
+14:50:01
+christhemanguydude: i had to keep adding because the name christheman was taken
+
+14:50:33
+overra_dev: nice
+
+14:50:40
+stroopwafel26: @christhemanguydude the next christhemanguydude is gonna be called christhemanguydudebro
+
+14:50:42
+laytanl_: CatJam
+
+14:50:59
+laytanl_: catJAM
+
+14:51:16
+stroopwafel26: GlitchCat
+
+14:51:27
+christhemanguydude: @christhemanguydude you are spot on
+
+14:51:42
+eddyvinck: Squid1 Squid2 Squid3 Squid4
+
+14:51:56
+overra_dev: t3ggParty
+
+14:52:00
+thdxr: ohhh adam LOL
+
+14:52:02
+thdxr: I figured it out
+
+14:53:27
+thdxr: I moved the publickey to be owned by the production stage, so when you pulled the changes and deployed it removed it (your stage owned it previously)
+
+14:53:34
+thdxr: so I just have to do a prod deploy and it should be good
+
+14:53:48
+stroopwafel26: @thdxr you're lucky it's not friday
+
+14:53:54
+thdxr: lol
+
+14:54:32
+thdxr: I got it working! rick astley on my phone
+
+14:55:47
+thdxr: yes
+
+14:56:38
+thdxr: uh you should see what it looks like on my phone lol
+
+14:56:55
+fragaverage: HOLD UP
+
+14:56:57
+fragaverage: SCAMMER
+
+14:57:31
+stroopwafel26: There goes 5k
+
+14:57:33
+fragaverage: i demand a full playthrough of the rick roll
+
+14:57:36
+thdxr: yes
+
+14:57:38
+thdxr: great idea
+
+14:58:34
+eddyvinck: Rigged
+
+14:58:36
+zakhal2: Yessssss!!!!
+
+14:58:42
+eddyvinck: Congrats 🎉
+
+14:58:44
+mooosa: gz gz
+
+14:58:48
+stroopwafel26: gg
+
+14:58:56
+therussiancze: its okay @adamdotdev
+
+14:58:57
+zakhal2: Thanks
+
+14:59:11
+thdxr: wow I won!
+
+14:59:15
+thdxr: thank you!!!
+
+14:59:30
+jiggaman98: it goes down in the DMs
+
+14:59:33
+therussiancze: I use rick roll every time, when im using video in some part of programming ❤️
+
+15:00:37
+thdxr: wait wait let me go on my phone
+
+15:00:38
+thdxr: at the same time
+
+15:00:56
+thdxr: it looks so wrong on my phone rn
+
+15:00:56
+thdxr: lol
+
+15:01:03
+thdxr: hit me with that ivs metadata tho
+
+15:01:09
+stroopwafel26: you're holding it wrong
+
+15:01:11
+traylortrash84: Good morning
+
+15:01:13
+thdxr: I can send it to you on discord
+
+15:01:16
+thdxr: LOL
+
+15:01:34
+stroopwafel26: every rebase user gets a free bumper on their iphone
+
+15:01:38
+stroopwafel26: heard it here first
+
+15:01:40
+thdxr: sent it to you on discord
+
+15:01:57
+stroopwafel26: iphone 4
+
+15:02:18
+thdxr: lol the pixellated version looks so funny
+
+15:02:20
+jiggaman98: that second cam makes me feel like a stalker, lol.
+
+15:02:27
+thdxr: I was looking away can you try again
+
+15:02:29
+thdxr: yeah
+
+15:02:39
+spotmonk: never look away!
+
+15:02:49
+thdxr: animation looked good
+
+15:02:52
+thdxr: I think
+
+15:03:07
+coolpantstv: how does the client receive the message?
+
+15:03:09
+thdxr: it's funny because the audio is playing twice also
+
+15:03:31
+thdxr: switch to a web app
+
+15:03:34
+sockthedev: are y'all using expo? is it in a monorepo? i heard pnpm support was getting better for RN
+
+15:03:34
+texoport: amogus
+
+15:03:37
+thdxr: 1v1 amongus
+
+15:03:38
+sockthedev: yes!!! amongus
+
+15:03:58
+stroopwafel26: sus
+
+15:04:00
+spotmonk: web app and capacitor?
+
+15:04:05
+thdxr: let me ping everyone
+
+15:04:12
+thdxr: let me make a discord group
+
+15:04:19
+sockthedev: i'm in
+
+15:04:21
+coolpantstv: @adamdotdev how does the client listen to the metadata message?
+
+15:04:23
+vapor__dev: i got standup at 11am
+
+15:04:24
+overra_dev: gotta go! it's been fun
+
+15:04:34
+vapor__dev: hire me at statsmuse then ill do it all day
+
+15:04:59
+overra_dev: np cya next time!
+
+15:05:18
+thdxr: vapor is alan
+
+15:05:30
+stroopwafel26: lol
+
+15:05:43
+thdxr: we can figure out this cross platform stuff OR we can buy every rebase user an iphone
+
+15:05:49
+vapor__dev: im trying to figure out my identity
+
+15:05:56
+vapor__dev: everyone keeps mispronouncing wyteryce
+
+15:05:57
+thdxr: he changed his name because people pronounced wyterice wrong
+
+15:06:02
+thdxr: EST
+
+15:06:06
+vapor__dev: i have such a mesed ups chedule today
+
+15:06:11
+vapor__dev: i dont even wanna say it
+
+15:06:13
+thdxr: quit ur job already
+
+15:06:22
+vapor__dev: 11am standup , 12pm spring grooming
+
+15:06:23
+spoeky_: !giveaway
+
+15:06:24
+fossabot: i'm giving away a total of $1000 in aws credits: 20 x $50 credits. there will be 20 separate giveaways, but you can only redeem 20 entries total! so spend wisely!
+
+15:06:27
+coolpantstv: just release a custom device "Rebase Quiz Tablets"
+
+15:06:32
+schrew: amongus is actually gaining steam LUL this started as a joke I thought
+
+15:06:32
+thdxr: wtf is spring grooming, sounds perverted
+
+15:06:38
+vapor__dev: boing boing
+
+15:06:43
+dnbull: you said you are using dynamo db for rebase dot tv? is that nosql?
+
+15:06:48
+vapor__dev: i can def play before 11
+
+15:06:56
+thdxr: ok we have 3 lol
+
+15:07:07
+vapor__dev: 30mins adam stream, 1 hr among us, 2 hours agile meetings, that's a workday right there
+
+15:07:27
+vapor__dev: i cant wait to get 50k adam points and get on a call
+
+15:07:29
+devinda_me: how far are we into the giveaway ?
+
+15:07:30
+maleero: What library are you using for dynamodb?
+
+15:07:31
+thdxr: we need to find 4 people who have no life
+
+15:07:33
+christhemanguydude: i'm working right now
+
+15:07:38
+christhemanguydude: kind of
+
+15:07:51
+vapor__dev: electrodb my fav dynamo lib
+
+15:07:52
+stroopwafel26: @thdxr you're on the internet, shouldn't be too hard
+
+15:08:05
+thdxr: do a double giveaway
+
+15:08:25
+thdxr: 2x the CASH
+
+15:08:31
+thdxr: 10x the cash, jackpot
+
+15:08:32
+vapor__dev: if i start playing among us my fiance gonna judge me too hard after sitting here watching a steam all morning but sometimes you gotta push it to the edge
+
+15:08:44
+maxnikl: oof
+
+15:09:21
+vapor__dev: i still dont get how this works lmao
+
+15:09:36
+thdxr: I'm 100% not getting among us setup lol
+
+15:09:53
+thdxr: yeah I can play now
+
+15:10:15
+schererja: nice :D
+
+15:10:22
+christhemanguydude: congrats!
+
+15:10:40
+schererja: This gives me a reason to finally do the projects I've wanted to do that I delay lol
+
+15:10:45
+brianhhough: so many people did that one haha
+
+15:11:05
+schrew: that's a weird way to spell schrew
+
+15:11:14
+schererja: Twitch will be fine :)
+
+15:11:21
+stroopwafel26: I'm looking for a job and see all these job openings that say "cloud engineer" and then you have to figure out what cloud provider they use, not a fun game
+
+15:11:40
+eddyvinck: All the providers, at the same time
+
+15:11:52
+christhemanguydude: catch em all
+
+15:11:59
+eddyvinck: Good luck with the job search Stroop
+
+15:12:08
+stroopwafel26: probably some vmware cluster on 8 year old hardware
+
+15:12:21
+thdxr: now let me get amongus working on linux so I don't have to reboot...
+
+15:12:23
+mehulsharmamat: among us i love it
+
+15:12:33
+eddyvinck: Starting a new job in April and I’m hoping to do more AWS work there. It’s a consultancy so it kinda depends on the client.
+
+15:12:39
+earholesmcgee: How do you get the yellow/purple stuffs on your terminal like that?
+
+15:12:43
+mehulsharmamat: @eddyvinck yay 4 u
+
+15:13:17
+stroopwafel26: @eddyvinck I'm looking to leave AWS consultancy, it's become a cesspool for me
+
+15:13:18
+mehulsharmamat: adam are you aware of CHADStack Prime is building?
+
+15:13:24
+earholesmcgee: Is that available on warp?
+
+15:13:36
+mehulsharmamat: I made a PR for it https://github.com/ThePrimeagen/CHADstack/pull/5
+
+15:13:51
+eddyvinck: @stroopwafel26 My new job is a frontend consultancy, just also want to do some stuff with AWS
+
+15:13:51
+mehulsharmamat: it's not code
+
+15:14:42
+thdxr: jay and frank haven't responded in an hour to me
+
+15:14:47
+thdxr: they're off being candian
+
+15:14:48
+vapor__dev: oof
+
+15:14:56
+vapor__dev: lets fire dax eh
+
+15:15:03
+zakhal2: I can join but do I need have the amount us app?
+
+15:15:11
+zakhal2: How does it work?
+
+15:15:11
+sockthedev: i'm gonna have to play via phone. got a mac only, no parallels etc
+
+15:15:32
+thdxr: isn't adam playing on a mac
+
+15:15:35
+thdxr: oh is it in a VM?
+
+15:15:53
+sockthedev: must be?
+
+15:15:54
+stroopwafel26: it's the ios version
+
+15:16:03
+sockthedev: how are you playing via mac?
+
+15:16:11
+stroopwafel26: need an M1/M2
+
+15:16:14
+vapor__dev: i coudl also do like 4pm EST
+
+15:16:30
+7ijme: yo, what are we working on?
+
+15:17:11
+sockthedev: downloading bluestacks
+
+15:17:13
+7ijme: I see you use (neo)vim
+
+15:17:57
+glamshatterskull: some amongus min maxing
+
+15:18:10
+stroopwafel26: Get an xbox or a nintendo switch and play there :P
+
+15:18:13
+thdxr: that is insane
+
+15:18:21
+7ijme: just so you know, the 7 stands for a T, you pronounce my name like time. Can I join the game of among us?
+
+15:18:32
+thdxr: I'M READY
+
+15:18:37
+thdxr: 1 v 1 me bro
+
+15:19:03
+christhemanguydude: noscope only
+
+15:19:03
+coolpantstv: This seems like a prank, amongus keyboard support using ML
+
+15:20:08
+coolpantstv: this is 100% mining BTC
+
+15:20:35
+sondreal: LUL
+
+15:20:47
+maleero: It's trying to figure out what you're doing. It's 67% confident you're currently in a menu
+
+15:20:58
+brianhhough: gotta jump to meetings but great hanging on your livestream Adam!!
+
+15:21:02
+brianhhough: keep up the awesome content!
+
+15:21:03
+7ijme: My code is
+
+15:21:16
+7ijme: futuretea#1931
+
+15:21:26
+thdxr: yes
+
+15:21:34
+sondreal: they should make it copy able without showing it
+
+15:21:57
+thdxr: we need to be in discord
+
+15:22:37
+7ijme: I added you
+
+15:22:43
+glamshatterskull: so if they change the ui it breaks?
+
+15:22:56
+sockthedev: sockthedev#5612
+
+15:23:21
+sockthedev: discord
+
+15:23:24
+7ijme: Can i play too?
+
+15:23:39
+sondreal: This will be proper dinner entertainment
+
+15:23:43
+7ijme: futuretea is me
+
+15:23:57
+7ijme: we dont hear the call
+
+15:24:46
+7ijme: not that much, but i have played a few games
+
+15:24:54
+denzilv: Hi hi
+
+15:25:10
+glamshatterskull: declaring "i don't know how to play" is the ultimate amongus strat
+
+15:25:13
+7ijme: Tijme#4938 this is my discord if i can join
+
+15:25:40
+sondreal: now I hard the mic activation
+
+15:25:47
+7ijme: still don't hear them
+
+15:26:38
+7ijme: Adam, can you add me on discord
+
+15:26:40
+sockthedev: i'm gonna bail on this one chaps. my installer being funny. next round for sure 💜
+
+15:27:32
+7ijme: I still don't hear the people in Discord
+
+15:27:45
+7ijme: Time
+
+15:27:45
+fragaverage: Just got your DM, I don't have amongus LUL
+
+15:27:51
+7ijme: that's how you pronounce it
+
+15:28:08
+wbw72: Cool, same as the previous winner :) Giving me a good reason to actually start using my AWS account
+
+15:28:13
+7ijme: I want to play
+
+15:28:28
+7ijme: Tijme#4938 is my discord
+
+15:28:46
+7ijme: futuretea#1931 is my among us
+
+15:28:47
+sockthedev: Trying to get this set up on my mac: https://www.bluestacks.com/apps/action/among-us-on-pc.html  For those who want to run on their mac. Not working right now, but I'll try get it running for the next time y'all play. x
+
+15:29:11
+schrew: some sus pixellation going on here
+
+15:30:34
+sondreal: WutFace
+
+15:30:36
+7ijme: ahhh my ears
+
+15:30:38
+christhemanguydude: noice
+
+15:30:39
+dnbull: WTF LUL
+
+15:30:42
+the_true_jinx: lol
+
+15:30:44
+laytanl_: holy shit
+
+15:30:44
+the_true_jinx: yeah
+
+15:30:47
+laytanl_: i jumped
+
+15:30:48
+schrew: I may never hear again!
+
+15:30:48
+denzilv: My virgin ears LUL
+
+15:30:48
+7ijme: either way, can you add me on discord
+
+15:30:49
+dnbull: I thought my sound on my laptop got destroyed lmfaoo
+
+15:30:58
+eddyvinck: Glad I’m not wearing headphones
+
+15:31:02
+eddyvinck: Lol
+
+15:31:12
+schererja: Well thanks for waking me up
+
+15:31:34
+sondreal: I think so
+
+15:31:36
+laytanl_: no among us sounds
+
+15:31:49
+schrew: oof
+
+15:31:52
+mjewl: WutFace
+
+15:31:57
+wbw72: brrr brrr
+
+15:31:57
+7ijme: lmao
+
+15:32:02
+sondreal: Legends say that someone in south dakota lost their hearing
+
+15:32:03
+dnbull: run it back Kappa
+
+15:32:05
+christhemanguydude: NotLikeThis NotLikeThis
+
+15:32:13
+dylandavids0n: Oooooo spicy
+
+15:32:19
+christhemanguydude: try again
+
+15:32:20
+zakhal2: NotLikeThis
+
+15:32:22
+schererja: mottzyFacepalm
+
+15:32:23
+christhemanguydude: you never know
+
+15:32:30
+dylandavids0n: One more time
+
+15:32:34
+dylandavids0n: It’s calming.
+
+15:32:44
+christhemanguydude: command f4
+
+15:33:07
+dylandavids0n: The sound of our people.
+
+15:33:34
+7ijme: @adamdotdev can you add me on discord Tijme#4938
+
+15:33:51
+christhemanguydude: sus
+
+15:35:27
+schererja: now someone new comes in they going to really think you are talking to yourself LUL
+
+15:35:30
+gigo6000: good morning
+
+15:35:37
+gigo6000: what are we looking at??
+
+15:35:41
+sockthedev: adam - single handedly taking out the productivity of the entire SST team
+
+15:36:08
+ayush_dev: Hey hows it going
+
+15:36:52
+schrew: unfuzz!
+
+15:36:56
+schrew: @adamdotdev
+
+15:37:11
+ayush_dev: streamer mode on
+
+15:37:50
+ayush_dev: pixels everywhere
+
+15:39:14
+nexxeln: we can see the code
+
+15:39:29
+ayush_dev: NNOOO U LEAKED THE CODE
+
+15:39:42
+zakhal2: What’s the code I’ll try to join
+
+15:39:52
+schrew: "Likely to win" not so sure
+
+15:40:09
+dylandavids0n: I’ll play a round. What’s the code?
+
+15:41:11
+coolpantstv: need to retrain the model
+
+15:41:39
+coolpantstv: too bad we can't hear discord lol
+
+15:41:50
+eddyvinck: LUL LUL
+
+15:42:36
+eddyvinck: Rigged game
+
+15:43:23
+eddyvinck: Ah I’m at my max
+
+15:43:32
+thdxr: Adam sucks at among us
+
+15:43:47
+ractoon: !giveaway
+
+15:43:47
+fossabot: i'm giving away a total of $1000 in aws credits: 20 x $50 credits. there will be 20 separate giveaways, but you can only redeem 20 entries total! so spend wisely!
+
+15:44:35
+kjbetz: Yay!
+
+15:44:43
+schrew: Congrats @kjbetz !
+
+15:44:52
+kjbetz: Awesome 😎
+
+15:45:13
+dylandavids0n: Weapons just vented bruhhh
+
+15:45:21
+dylandavids0n: How’s you miss that
+
+15:47:39
+kjbetz: Thank you!
+
+15:47:48
+ogasege: When will it be meeeee
+
+15:48:16
+laytanl_: Is this a phone game?
+
+15:48:32
+adamdotdev: QKMWQG
+
+15:48:33
+kjbetz: I'll DM you, thank you!
+
+15:48:34
+adamdotdev: join usssss
+
+15:49:07
+adamdotdev: !discord
+
+15:49:07
+fossabot: Adam has a Discord server and he'd love to see you there: https://discord.gg/E92M2chd3e
+
+15:51:00
+laytanl_: I can join
+
+15:51:01
+schrew: nah I don't play, otherwise I'd join
+
+15:51:14
+ogasege: I just want to be among us(winners of the giveaway)
+
+15:51:32
+jasyui0: has neovim installation exploded because of plugins?
+
+15:51:33
+adamdotdev: haha, nice
+
+15:51:47
+7ijme: we dont hear you adam
+
+15:51:54
+7ijme: you dont hear us either
+
+15:52:35
+7ijme: there isnt a green circle around your name
+
+15:52:38
+7ijme: you also left the game
+
+15:52:53
+adamdotdev: booooo
+
+15:53:08
+7ijme: i can hear you via twich but not via discord
+
+15:53:47
+rene_p8: Maybe wrong input
+
+15:53:56
+7ijme: nope
+
+15:54:03
+7ijme: still no green circle around your name
+
+15:54:25
+7ijme: we now have 6 people in the game
+
+15:55:01
+7ijme: nope, maybe turn off push to talk
+
+15:55:39
+7ijme: can you hear us
+
+15:55:52
+7ijme: we hear you
+
+15:55:58
+7ijme: you shuld change output
+
+15:56:10
+fragaverage: stream hears all
+
+15:56:17
+fragaverage: except that, thanks LUL
+
+15:56:23
+schrew: stream hears buzzing LUL
+
+15:56:26
+devinda_me: aaaaaaah
+
+15:56:30
+fragaverage: oh no, we dont hear them
+
+15:56:32
+devinda_me: i thought my pc was crashing
+
+15:56:33
+schrew: Nope, I only hear adam
+
+15:56:48
+devinda_me: out of giveaways ?
+
+15:57:22
+christhemanguydude: yes
+
+15:57:22
+devinda_me: yes
+
+15:57:22
+rene_p8: yes
+
+15:57:24
+salkinvonbach: Back from the doctor's
+
+15:57:25
+devinda_me: can ear you
+
+15:57:30
+salkinvonbach: o7
+
+15:57:35
+stinklewinks: yessir
+
+15:57:51
+christhemanguydude: noooo I have no more entries
+
+15:57:53
+stinklewinks: says ive claimed the max amount
+
+15:57:57
+ractoon: DOUBLE OR NOTHING
+
+15:58:05
+stinklewinks: i didn't get to enter this one
+
+15:58:15
+salkinvonbach: I honestly don't want it lol
+
+15:58:16
+devinda_me: how do i know if i hit my cap ?
+
+15:58:32
+exjers: damn
+
+15:58:37
+schrew: @devinda_me it'll tell you it's temporarily unavailable, i believe
+
+15:58:43
+exjers: that keybaord sounds great :p
+
+15:59:35
+salkinvonbach: I have real servers LUL
+
+15:59:38
+stream_kyle: How's it going? 3k followers...always growing so fast.
+
+15:59:38
+ractoon: RIGGED
+
+15:59:39
+laytanl_: I'll join among us when you fix your arch install
+
+15:59:43
+rene_p8: pls reroll
+
+15:59:45
+boleknowak: !giveaway
+
+15:59:45
+fossabot: i'm giving away a total of $1000 in aws credits: 20 x $50 credits. there will be 20 separate giveaways, but you can only redeem 20 entries total! so spend wisely!
+
+15:59:46
+devinda_me: RIGGGED !
+
+15:59:50
+rene_p8: i will give to another
+
+15:59:51
+agemonkey: rigged
+
+15:59:55
+schrew: schrew redeemed Giveaway Entry 4Head 50
+
+15:59:55
+devinda_me: its rigged folks !
+
+16:00:01
+bheet: LUL
+
+16:00:05
+ractoon: REEE
+
+16:00:12
+devinda_me: rene hacking RNG
+
+16:00:13
+ractoon: PepeHands
+
+16:00:15
+laytanl_: Everybody is out of entries lol
+
+16:00:31
+sondreal: says max entries for me :(
+
+16:00:35
+7ijme: dont have enough credits
+
+16:00:44
+schrew: schrew redeemed Giveaway Entry WholeWheat 50
+
+16:00:52
+up_o_lo_g: :P
+
+16:00:53
+ractoon: NOT RIGGED!
+
+16:00:56
+bheet: Rigged
+
+16:00:57
+salkinvonbach: Oh damn
+
+16:01:28
+salkinvonbach: I have real servers what am I gonna do with this
+
+16:01:44
+rohithgilla: @salkinvonbach give it away
+
+16:02:24
+salkinvonbach: Is audio out of sync?
+
+16:02:26
+suprememastertv_rosidae0: been a while since ive seen you live
+
+16:02:33
+laytanl_: DM me when you need someone to play next time
+
+16:02:40
+salkinvonbach: RIP
+
+16:02:44
+alistairdev: woot
+
+16:02:45
+schrew: audio is fine to viewers like me
+
+16:02:49
+schererja: the whole stream is slowly spiraling down lol
+
+16:02:50
+salkinvonbach: I just got back
+
+16:03:14
+<transcript>: Just.
+
+16:03:14
+<transcript>: at
+
+16:03:15
+<transcript>: At.
+
+16:03:17
+<transcript>: We don't have any issues.
+
+16:03:20
+<transcript>: With the giveaway system.
+
+16:03:20
+<transcript>: as we near
+
+16:03:22
+<transcript>: As we near 4 hours.
+
+16:03:30
+<transcript>: You just got back. Nicholas. Audio is fine to viewers like me. Okay? You're still here in it. Everything's fine.
+
+16:03:45
+<transcript>: Late and I will DM you. I would love for you to play with us. We will be a little more organized next time we'll plan it ahead of time we'll get through all the issues, make sure we can hear each other before we start streaming. Or am I just not stream it? All right. Last giveaway. Giveaway number 20. This is the last $50 credit.
+
+16:03:54
+<transcript>: Here it is. It's going number 20, the people who saved them for the very end. You're all just dumping your points right now.
+
+16:03:54
+<transcript>: getting your
+
+16:03:55
+<transcript>: Getting your entries in.
+
+16:03:55
+<transcript>: good
+
+16:03:57
+<transcript>: Good times.
+
+16:03:57
+<transcript>: fifty dollars
+
+16:03:58
+7ijme: yeah i'd like to play a game with you
+
+16:04:01
+<transcript>: $50, and aws Credits if you win.
+
+16:04:01
+<transcript>: simul if
+
+16:04:17
+<transcript>: Simul if you don't want me to send you those credits over twitch because otherwise I will send them in a whisper on twitch. That's easiest. But if you'd like me to send it on discord or Twitter or send you an email or a letter in the mail? Maybe not a letter in the mail. If you live somewhere far away.
+
+16:04:17
+<transcript>: but i
+
+16:04:20
+<transcript>: But I'd like them. I can send them to you that way.
+
+16:04:25
+sondreal: send it as a love letter plz
+
+16:04:26
+<transcript>: It's been a fun stream this last giveaways going and then I'm gonna take off.
+
+16:04:31
+<transcript>: Next time I try and play among us, I promise it'll be better. Sandra, send it as a love letter. Please.
+
+16:04:33
+salkinvonbach: Maybe I shouldn't have done that
+
+16:04:37
+<transcript>: I also I promise. Tomorrow. Tomorrow we're gonna get something done. Okay.
+
+16:04:40
+bheet: A NFT
+
+16:04:42
+<transcript>: It's been a week of coming back to streaming, getting used to the streaming thing again.
+
+16:04:55
+<transcript>: Tomorrow, I'm actually going to accomplish something. I don't know what project, whichever one I think has the best chance of success. Thank you so much for that. Follow Schoozel. Did everybody use all of their giveaway entries? Oh, we got a couple more coming in.
+
+16:05:02
+<transcript>: Yeah. Tomorrow we're getting something done. Okay. If you show up on my screen tomorrow, you just better expect.
+
+16:05:02
+<transcript>: it's gonna be real
+
+16:05:04
+<transcript>: It's gonna be real. I'm gonna be focused.
+
+16:05:04
+<transcript>: i'm gonna
+
+16:05:09
+salkinvonbach: I bet Renee wins
+
+16:05:17
+<transcript>: I'm gonna be a man on a mission? I'm gonna get some feature shipped, some code written on stream. I got to prove that I can still accomplish things. And Nicholas bets that renee wins. Here we go. Ten.
+
+16:05:17
+<transcript>: nine i'm gonna
+
+16:05:20
+<transcript>: Nine. I'm gonna hit the button. Eight, seven.
+
+16:05:20
+<transcript>: six
+
+16:05:22
+<transcript>: Six, five.
+
+16:05:25
+<transcript>: Four, three.
+
+16:05:25
+<transcript>: two
+
+16:05:27
+<transcript>: Two, one.
+
+16:05:27
+<transcript>: and the last give
+
+16:05:29
+<transcript>: And the last giveaway winner is.
+
+16:05:29
+<transcript>: dnbull
+
+16:05:29
+rene_p8: OMEGALUL
+
+16:05:31
+<transcript>: Dnbull again.
+
+16:05:32
+<transcript>: Alright.
+
+16:05:33
+dnbull: KEKW
+
+16:05:35
+<transcript>: That was.
+
+16:05:36
+rene_p8: Congrats
+
+16:05:37
+<transcript>: A lot of giveaways.
+
+16:05:39
+salkinvonbach: Oh way to fail
+
+16:05:48
+agemonkey: crap, I didn't realize there was a stream limit
+
+16:05:50
+<transcript>: Every time I've given giveaway before I've done a giveaway, it's just one giveaway in the stream so it's pretty like easy to start the giveaway in the giveaway in the giveaway this time I had to do it 20 times almost 20 times.
+
+16:05:50
+<transcript>: those
+
+16:05:50
+schrew: Time to earn another thousand followers!
+
+16:05:53
+<transcript>: Those intents so dm Bowl.
+
+16:06:03
+<transcript>: D in bowl time to earn another 1000 followers. That's right. We'll see you guys back at 4000 whenever the is.
+
+16:06:11
+<transcript>: Want me to get away? More stuff. Just tell your friends come follow me or something. 20 dn bowl. Not Jason.
+
+16:06:16
+salkinvonbach: Kek
+
+16:06:22
+<transcript>: All right, it's been so fun? My music is so busted? The audio on my Mac is ruined. I think I broke it completely, but otherwise successful. Stream had a good time.
+
+16:06:22
+<transcript>: got to hang
+
+16:06:25
+<transcript>: Got to hang out with my friends.
+
+16:06:25
+<transcript>: almost got to
+
+16:06:26
+<transcript>: Almost got to play among us.
+
+16:06:26
+<transcript>: it's
+
+16:06:27
+salkinvonbach: Have a nice day mate
+
+16:06:28
+<transcript>: It's pretty awful.
+
+16:06:35
+laytanl_: HeyGuys
+
+16:06:36
+<transcript>: Didn't really get anything done except for building the project and getting daxis code working on my machine for rebase.
+
+16:06:36
+<transcript>: yeah
+
+16:06:37
+<transcript>: Yeah.
+
+16:06:40
+<transcript>: We could do it again sometime.
+
+16:06:41
+7ijme: cya adam ;p
+
+16:06:57
+wbw72: Tnx! 2020Forward
+
+16:07:11
+salkinvonbach: hnhSip
+
+16:07:20
+schrew: Byeee!
+
+16:07:25
+zakhal2: Thanks for the amazing stream!! Bye

@@ -8,8 +8,8 @@ export default async function handler(
   res: CustomNextApiResponse
 ) {
   try {
-    await goToPose(1)
-    await delay(15000)
+    // await goToPose(1)
+    // await delay(15000)
     res.server.ws.emit("fade-audio-out", {})
     await delay(3000)
     await res.server.obs.transition("Camera")

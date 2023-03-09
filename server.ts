@@ -72,7 +72,6 @@ async function init() {
   const obsController = new ObsController(
     server,
     wsController,
-    snapController,
     streamController
   )
 

@@ -7,7 +7,7 @@ export default async function handler(
   res: CustomNextApiResponse
 ) {
   try {
-    await goToPose(0)
+    // await goToPose(0)
     await res.server.obs.transition("Break")
   } catch (error) {
     console.error(error)

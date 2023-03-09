@@ -5,7 +5,7 @@ import TwitchController from "./twitch"
 import { CustomServer } from "./server"
 
 const pathToJsonFile = "./data/giveaways/current.json"
-const giveawayRewardId = "3f1bbe3d-9188-4150-938d-07b8d0bf8f85"
+const giveawayRewardId = "6620c4bb-d777-4572-bf10-443feace043c"
 
 export default class GiveawaysController {
   entrants: string[]
@@ -38,7 +38,7 @@ export default class GiveawaysController {
     this.entrants = []
 
     await this.twitch.enableReward(giveawayRewardId)
-    await this.twitch.chatClient?.announce(
+    await this.twitch.chatClient?.action(
       this.twitch.username,
       "Let the giveaway begin! Redeem your channel points now!"
     )
@@ -49,7 +49,7 @@ export default class GiveawaysController {
 
     try {
       fs.writeFileSync(pathToJsonFile, JSON.stringify(this.entrants))
-    } catch (error) { }
+    } catch (error) {}
   }
 
   async end() {
@@ -57,7 +57,7 @@ export default class GiveawaysController {
 
     const winner = randomItem(this.entrants)
 
-    await this.twitch.chatClient?.announce(
+    await this.twitch.chatClient?.action(
       this.twitch.username,
       `AND THE WINNER IS: @${winner}!`
     )

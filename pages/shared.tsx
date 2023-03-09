@@ -17,6 +17,7 @@ import { motion, AnimatePresence } from "framer-motion"
 import { delay } from "../lib/utils"
 import { getStreamInfo, GetStreamResponse } from "../lib/stream"
 import { CustomNextApiResponse } from "../lib"
+import * as faceapi from "face-api.js"
 
 const MAX_NOTIFICATIONS = 5
 const NOTIFICATION_DURATION = 1
@@ -57,6 +58,96 @@ function Shared({
   const [lastSentTranscript, setLastSentTranscript] = React.useState<
     string | undefined
   >()
+
+  const videoRef = React.useRef<HTMLVideoElement | null>(null)
+
+  const loadModels = async () => {
+    const MODEL_URL = `/models`
+    await Promise.all([
+      faceapi.nets.tinyFaceDetector.load(MODEL_URL),
+      faceapi.nets.faceExpressionNet.load(MODEL_URL),
+    ])
+  }
+
+  const handleLoadWaiting = async () => {
+    return new Promise((resolve) => {
+      const timer = setInterval(() => {
+        if (videoRef.current?.readyState == 4) {
+          resolve(true)
+          clearInterval(timer)
+        }
+      }, 500)
+    })
+  }
+
+  useEffect(() => {
+    async function init() {
+      const video = videoRef.current
+      if (!video) return
+
+      const cameras = await navigator.mediaDevices.enumerateDevices()
+      const camlinkCameras = cameras.filter(
+        (camera) =>
+          camera.kind === "videoinput" && camera.label.startsWith("Cam Link 4K")
+      )
+
+      // const deviceName = router.query.device as Device
+      // const deviceIndex = deviceName === "primary" ? 0 : 1
+      const desiredCamera =
+        camlinkCameras.find(
+          (c) =>
+            c.deviceId ===
+            "09d16b1e893828c0aa4b112785e8d2ee6f5f694731ba188643f4863e9ddd5184"
+        ) || camlinkCameras[1]
+
+      const userMedia = await navigator.mediaDevices.getUserMedia({
+        video: {
+          deviceId: desiredCamera
+            ? { exact: desiredCamera.deviceId }
+            : undefined,
+        },
+      })
+
+      video.srcObject = userMedia
+      video.play()
+
+      await loadModels()
+      await handleLoadWaiting()
+
+      if (videoRef.current) {
+        const video = videoRef.current
+        const handle = setInterval(async () => {
+          const detectionsWithExpressions = await faceapi
+            .detectAllFaces(video, new faceapi.TinyFaceDetectorOptions())
+            .withFaceExpressions()
+          if (detectionsWithExpressions.length > 0) {
+            const [{ expressions }] = detectionsWithExpressions
+            const zoomIn =
+              Math.min(1, expressions.disgusted) +
+              Math.min(1, expressions.sad) +
+              Math.min(1, expressions.angry) +
+              Math.min(1, expressions.surprised) +
+              Math.min(1, expressions.fearful) >
+              // Math.min(1, expressions.happy) >
+              0.66
+            const zoomOut =
+              // Math.min(1, expressions.happy) +
+              Math.min(1, expressions.neutral) > 0.66
+
+            if (zoomIn) {
+              await fetch("/api/obs/zoom?zoomIn=true", { method: "POST" })
+            } else if (zoomOut) {
+              await fetch("/api/obs/zoom?zoomOut=true", { method: "POST" })
+            }
+          }
+        }, 1000)
+
+        return () => clearInterval(handle)
+      }
+    }
+
+    init()
+  }, [])
 
   useEffect(() => {
     if (transcript?.text && transcript?.text !== lastTranscript?.text)
@@ -106,19 +197,18 @@ function Shared({
   })
 
   const creditAuthor = async (author?: string) => {
-    if (!author || debug) return
-
-    await delay(500)
-
+    // if (!author || debug) return
+    //
+    // await delay(500)
     // Credit the animation author
-    await fetch("/api/chat", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        announce: true,
-        message: `Transition animation brought to you by @${author}`,
-      }),
-    })
+    // await fetch("/api/chat", {
+    //   method: "POST",
+    //   headers: { "Content-Type": "application/json" },
+    //   body: JSON.stringify({
+    //     announce: true,
+    //     message: `Transition animation brought to you by @${author}`,
+    //   }),
+    // })
   }
 
   return (
@@ -161,6 +251,15 @@ function Shared({
       </ul>
 
       <Stinger transitioning={transitioning} onTransitioned={creditAuthor} />
+      <video
+        id="video"
+        width="1280"
+        height="720"
+        autoPlay
+        muted
+        ref={videoRef}
+        className={`absolute inset-0 ${!debug && "invisible"}`}
+      ></video>
     </div>
   )
 }

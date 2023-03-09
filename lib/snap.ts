@@ -26,9 +26,6 @@ export default class SnapController {
 
     if (!this.currentFilter) {
       this.server.emit("snap-filter-cleared")
-      /* if (this.obs.currentScene === "Camera") { */
-      /*   await this.obs.setScene("Camera (HD)") */
-      /* } */
       return true
     }
 
@@ -36,10 +33,6 @@ export default class SnapController {
       spawnSync("bash", ["./scripts/toggle-snap-filter.sh", this.currentFilter])
       this.lastKey = this.currentFilter
       this.server.emit("snap-filter-set")
-
-      /* if (this.obs.currentScene === "Camera (HD)") { */
-      /*   await this.obs.setScene("Camera") */
-      /* } */
     } catch (error) {
       console.error(error)
       return false

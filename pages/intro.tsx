@@ -107,7 +107,7 @@ function Intro({
           topLeft={<BrandMark />}
           topCenter={
             <div className="flex h-full items-center text-mauve-12">
-              Streaming web development every Tuesday and Thursday
+              Streaming web development every weekday 
             </div>
           }
           centerLeft={
