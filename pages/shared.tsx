@@ -10,22 +10,32 @@ import {
   useTwitchEvent,
 } from "../hooks"
 import type { TwitchEvent } from "../lib/twitch"
-import { NotifiableTwitchEvent, Notification, Stinger } from "../components"
+import {
+  Grid,
+  NotifiableTwitchEvent,
+  Notification,
+  Overlay,
+  Stinger,
+} from "../components"
 import hash from "object-hash"
 import cn from "classnames"
 import { motion, AnimatePresence } from "framer-motion"
-import { delay } from "../lib/utils"
 import { getStreamInfo, GetStreamResponse } from "../lib/stream"
 import { CustomNextApiResponse } from "../lib"
 import * as faceapi from "face-api.js"
 
-const MAX_NOTIFICATIONS = 5
-const NOTIFICATION_DURATION = 1
+const MAX_NOTIFICATIONS = 3
+const NOTIFICATION_DURATION = 3
 const NOTIFICATION_PANEL_HEIGHT = MAX_NOTIFICATIONS * 100 + 65
 
 export interface SharedSsrProps {
   stream: GetStreamResponse
   debug: boolean
+}
+
+interface Segment {
+  title: string
+  track?: string
 }
 
 export const getServerSideProps: GetServerSideProps<SharedSsrProps> = async (
@@ -50,6 +60,7 @@ function Shared({
   debug,
 }: InferGetServerSidePropsType<typeof getServerSideProps>): JSX.Element {
   const [transitioning, setTransitioning] = React.useState(false)
+  const [segment, setSegment] = React.useState<Segment>()
 
   const transcript = useAssemblyAi(debug)
   const [lastTranscript, setLastTranscript] = React.useState<
@@ -122,14 +133,23 @@ function Shared({
             .withFaceExpressions()
           if (detectionsWithExpressions.length > 0) {
             const [{ expressions }] = detectionsWithExpressions
+            const abnormality = [
+              expressions.disgusted,
+              expressions.sad,
+              expressions.angry,
+              expressions.happy,
+              expressions.disgusted,
+              expressions.fearful,
+            ].some((e) => e >= 2)
             const zoomIn =
+              !abnormality &&
               Math.min(1, expressions.disgusted) +
-              Math.min(1, expressions.sad) +
-              Math.min(1, expressions.angry) +
-              Math.min(1, expressions.surprised) +
-              Math.min(1, expressions.fearful) >
-              // Math.min(1, expressions.happy) >
-              0.66
+                Math.min(1, expressions.sad) +
+                Math.min(1, expressions.angry) +
+                Math.min(1, expressions.surprised) +
+                Math.min(1, expressions.fearful) >
+                // Math.min(1, expressions.happy) >
+                0.66
             const zoomOut =
               // Math.min(1, expressions.happy) +
               Math.min(1, expressions.neutral) > 0.66
@@ -195,6 +215,9 @@ function Shared({
   useEvent<boolean>(socket, "transitioning", (value) => {
     setTransitioning(value)
   })
+  useEvent<Segment>(socket, "segment", (segment) => {
+    setSegment(segment)
+  })
 
   const creditAuthor = async (author?: string) => {
     // if (!author || debug) return
@@ -212,56 +235,78 @@ function Shared({
   }
 
   return (
-    <div className="relative h-[1080px] w-[1920px]">
-      <Head>
-        <title>Adam&apos;s Twitch Overlay</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <ul
-        className={cn({
-          "absolute top-10 right-10 z-50 flex w-[400px] flex-col-reverse justify-end space-y-4 space-y-reverse":
-            true,
-          "gradient-mask-b-80": true,
-        })}
-        style={{ height: NOTIFICATION_PANEL_HEIGHT }}
-      >
-        <AnimatePresence initial={false}>
-          {notificationsWithPrevious?.map((notification) => (
-            <motion.li
-              key={notification.key}
-              layout="position"
-              initial={{ opacity: 0.33, y: -50 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{
-                duration: 0.33,
-                type: "spring",
-                damping: 25,
-                stiffness: 300,
-                mass: 0.5,
-              }}
-              exit={{
-                opacity: 0,
-                transition: { duration: 0.33, ease: "anticipate" },
-              }}
-            >
-              <Notification notification={notification} />
-            </motion.li>
-          ))}
-        </AnimatePresence>
-      </ul>
+    <div className="origin-top-left scale-[200%] transform">
+      <div className="relative h-[1080px] w-[1920px]">
+        <Head>
+          <title>Adam&apos;s Twitch Overlay</title>
+          <link rel="icon" href="/favicon.ico" />
+        </Head>
+        <ul
+          className={cn({
+            "absolute top-10 right-10 z-50 flex w-[400px] flex-col-reverse justify-end space-y-4 space-y-reverse":
+              true,
+            "gradient-mask-b-80": true,
+          })}
+          style={{ height: NOTIFICATION_PANEL_HEIGHT }}
+        >
+          <AnimatePresence initial={false}>
+            {notificationsWithPrevious?.map((notification) => (
+              <motion.li
+                key={notification.key}
+                layout="position"
+                initial={{ opacity: 0.33, y: -50 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{
+                  duration: 0.33,
+                  type: "spring",
+                  damping: 25,
+                  stiffness: 300,
+                  mass: 0.5,
+                }}
+                exit={{
+                  opacity: 0,
+                  transition: { duration: 0.33, ease: "anticipate" },
+                }}
+              >
+                <Notification notification={notification} />
+              </motion.li>
+            ))}
+          </AnimatePresence>
+        </ul>
 
-      <Stinger transitioning={transitioning} onTransitioned={creditAuthor} />
-      <video
-        id="video"
-        width="1280"
-        height="720"
-        autoPlay
-        muted
-        ref={videoRef}
-        className={`absolute inset-0 ${!debug && "invisible"}`}
-      ></video>
+        <Stinger transitioning={transitioning} onTransitioned={creditAuthor} />
+        <video
+          id="video"
+          width="1280"
+          height="720"
+          autoPlay
+          muted
+          ref={videoRef}
+          className={`absolute inset-0 ${!debug && "invisible"}`}
+        ></video>
+        {segment ? (
+          <div className="origin-top-left scale-50 transform">
+            <SegmentScreen segment={segment} />
+          </div>
+        ) : null}
+      </div>
     </div>
   )
 }
 
 export default Shared
+
+const SegmentScreen = ({ segment }: { segment: Segment }) => {
+  return (
+    <Overlay>
+      <audio autoPlay src={segment.track || "/media/downward.wav"} />
+      <Grid
+        center={
+          <div className="absolute inset-0 flex items-center justify-center font-holbeard text-[600px] uppercase text-mauve-12">
+            {segment.title}
+          </div>
+        }
+      />
+    </Overlay>
+  )
+}

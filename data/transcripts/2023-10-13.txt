@@ -1,0 +1,2932 @@
+
+
+00:00:40
+formerlyscience: ADAAAAAAAAAMM!!!
+
+00:00:48
+formerlyscience: YA BACK!!!
+
+00:01:06
+th3_l3m0n: O.O adam is back?
+
+00:01:14
+enzujp: We don't get him for 4 months, and now we get him for two days in a row!
+
+00:01:22
+enzujp: Must be early Christmas.
+
+00:01:28
+tayloreddev: it won't last LUL
+
+00:02:02
+freedomdao: thx for stream yesterday adam i really enjoy seeing your demo of the amazon provided llm setup.
+
+00:02:18
+freedomdao: these ones going to change the world :O
+
+00:06:28
+bholmesdev: OMG ADAM IS STREAMING
+
+00:06:52
+bholmesdev: KIND OF
+
+00:11:02
+pbertrand_dev: imagine being late for ur own stream
+
+00:11:17
+<transcript>: Good morning.
+
+00:11:17
+<transcript>: being
+
+00:11:22
+<transcript>: Being late I can't be late it's my stream how could I be late.
+
+00:11:29
+<transcript>: Ben is here. What's up? Ben? How are you.
+
+00:11:33
+<transcript>: Streaming kind of. Yeah, the intro. It's hardly streaming.
+
+00:11:43
+<transcript>: So I have so much to do, but I thought it's stuff I can stream, so I should do it on stream. The first thing I want to do is.
+
+00:11:43
+<transcript>: i've been very busy
+
+00:11:53
+<transcript>: I've been very busy for, like six months, whatever it's been. And I haven't updated my dot files. My neovim is stale and crusty. I want to get that.
+
+00:12:04
+<transcript>: Buttoned up up to date real fast and then I got to finish this app for the json link source thing. I have to finish it today and really have to finish it in the next 3 hours.
+
+00:12:09
+<transcript>: It's very important that I finish it in the next 3 hours.
+
+00:12:09
+<transcript>: because two
+
+00:12:19
+<transcript>: Because 2 hours probably it's going to be a quick stream. I got to finish it and then I got to make a little video or explain it the repo and I kind of walk through it.
+
+00:12:19
+<transcript>: and in order
+
+00:12:30
+<transcript>: And in order to explain it, I have to understand all the slack workflow stuff because I still don't. There's triggers. There's workflows there's manifests it's a lot. It's just a lot.
+
+00:12:40
+<transcript>: I miss the old slack bots. Anybody remember the old slack bots? It's like it doesn't matter what you do. Just give us an endpoint and just like, do whatever you want.
+
+00:12:40
+<transcript>: now
+
+00:12:51
+mvpopuk: VIM... it will be the best stream ever
+
+00:12:51
+<transcript>: Now it's like it all runs on slack's infrastructure, which is cool, but it's also just a lot to take in, I guess. Sorry, I'm getting straight into it. How are you guys doing? Everybody good.
+
+00:12:54
+<transcript>: We good. Okay.
+
+00:12:54
+<transcript>: let's do it
+
+00:12:55
+<transcript>: Let's do it.
+
+00:12:59
+<transcript>: Vim. It will be the best stream ever.
+
+00:12:59
+<transcript>: everybody love
+
+00:13:02
+<transcript>: Everybody loves when we update them.
+
+00:13:02
+<transcript>: so
+
+00:13:06
+<transcript>: So I haven't updated neo vim in a while and I wonder, does this work.
+
+00:13:13
+<transcript>: Can I just brew install neo them? Am I going to regret running brew like I did yesterday.
+
+00:13:13
+<transcript>: does that even
+
+00:13:22
+<transcript>: Does that even update to the latest? Probably. Let's see if it updates everything else on my machine to the latest. Then surely it updates the thing I ask you to right.
+
+00:13:31
+pbertrand_dev: I'm good, working on a productized service for WP. First time doing this productized service thing. Curious if customers will like it
+
+00:13:33
+<transcript>: It's funny that we are. Oh, it's done. Did it do it? I should have checked what my new inversion was before this.
+
+00:13:38
+freedomdao: if you use brew while drinking coffee it does indeed work faster LUL
+
+00:13:39
+mvpopuk: brew upgrade neovim
+
+00:13:43
+<transcript>: Zero, Nine, four.
+
+00:13:43
+<transcript>: up
+
+00:13:45
+<transcript>: Upgrade.
+
+00:13:45
+<transcript>: through upgrade
+
+00:13:48
+<transcript>: Through upgrade neo. Oh, look at that. I've done this before.
+
+00:13:54
+<transcript>: We've been here before. Isn't that like a Lord of the Rings thing? Anybody New van.
+
+00:13:54
+<transcript>: had already installed
+
+00:13:57
+<transcript>: Had already installed. No, we're good.
+
+00:13:59
+<transcript>: We're good.
+
+00:13:59
+<transcript>: berksh
+
+00:14:09
+<transcript>: Berkshan's good working on a productized service for wp. Wordpress first time doing this productized service thing. Curious if customers like it. This sounds awesome. Bertrand I want to hear more.
+
+00:14:17
+<transcript>: Poor bird trand in my veins. I miss you. I miss all of you. I guess I kind of see you on Twitter sometimes, but hardly.
+
+00:14:17
+<transcript>: if
+
+00:14:29
+<transcript>: If you use brew while drinking coffee, it does indeed work faster. Well, it did work faster than it did yesterday, but I guess that's the key. We ran it yesterday. So it had time yesterday, 15 minutes to update everything I've ever installed.
+
+00:14:29
+<transcript>: with brew
+
+00:14:30
+<transcript>: With brew.
+
+00:14:30
+<transcript>: and
+
+00:14:40
+<transcript>: And today it was just a quick, diff, quick patch. Okay, so we've got the latest neo vim. Let's go over here and let's update all our plugins.
+
+00:14:42
+<transcript>: Plugins.
+
+00:14:46
+<transcript>: Lua now when I save this file.
+
+00:14:46
+<transcript>: it's just going to update
+
+00:14:50
+<transcript>: It's just going to update them all because that's the magic of this file.
+
+00:14:56
+<transcript>: Here we go. Everything's going to be broken. I really don't have time for this. I don't know why I'm doing it.
+
+00:14:56
+<transcript>: i
+
+00:14:58
+<transcript>: I think I'm stalling.
+
+00:14:58
+<transcript>: that's the slack
+
+00:15:00
+<transcript>: That's the slack documentation.
+
+00:15:11
+<transcript>: Can you guys hear my music? Is it even playing? I don't even remember if it's still routing what is happening? Why am I just smashing buttons like a monkey hoping it's going to just go away.
+
+00:15:11
+<transcript>: look at
+
+00:15:15
+<transcript>: Look at this. It's counting up. So I guess it's kind of working.
+
+00:15:17
+<transcript>: Consider.
+
+00:15:21
+<transcript>: Hope everything's okay presetter.
+
+00:15:21
+<transcript>: hope this is
+
+00:15:25
+<transcript>: Hope this is fine. I can tap faster. Look how fast I can go.
+
+00:15:26
+freedomdao: :O oi think itll work if you just press button
+
+00:15:28
+<transcript>: We did it.
+
+00:15:34
+<transcript>: We did it. I think. Okay. We updated lots of stuff. Oh, boy.
+
+00:15:34
+<transcript>: think it'll work
+
+00:15:37
+<transcript>: Think it'll work if you just press button.
+
+00:15:41
+<transcript>: Apparently there was a magic button. I could have pressed it. Made it just stop.
+
+00:15:41
+<transcript>: trees dep
+
+00:15:47
+<transcript>: Trees departure for Julia has been installed. What's Julia? Is that? A programming language.
+
+00:15:47
+<transcript>: i'm so
+
+00:15:49
+<transcript>: I'm so out of it.
+
+00:15:49
+<transcript>: all right
+
+00:15:51
+<transcript>: All Right, well.
+
+00:15:52
+<transcript>: We did it.
+
+00:15:52
+<transcript>: let's see
+
+00:15:54
+<transcript>: Let's see.
+
+00:15:56
+<transcript>: How broken it is.
+
+00:16:03
+<transcript>: I think it's the first time I've updated all my plugins and not gotten warnings right when I open this thing.
+
+00:16:04
+<transcript>: Okay.
+
+00:16:04
+<transcript>: well
+
+00:16:06
+<transcript>: Well, maybe we're done.
+
+00:16:06
+<transcript>: re
+
+00:16:08
+<transcript>: Reopen this.
+
+00:16:11
+<transcript>: Maybe we're just good.
+
+00:16:17
+<transcript>: You know what's not good is not being on shovel shuffle.
+
+00:16:23
+<transcript>: Could somebody let me know if the music is working.
+
+00:16:26
+<transcript>: That would be great.
+
+00:16:31
+pbertrand_dev: the base analyzer looks broken, seems like it cant read the files
+
+00:16:31
+tumtumpkinz: working
+
+00:16:32
+<transcript>: Or if you can hear me maybe there's no audio at all. Have you guys just been watching me.
+
+00:16:33
+tayloreddev: its working
+
+00:16:35
+<transcript>: Like move my lips.
+
+00:16:35
+<transcript>: the
+
+00:16:35
+pbertrand_dev: music is working but very soft
+
+00:16:41
+freedomdao: audio sound real good n calmin
+
+00:16:45
+adellphos: hearing you and the music
+
+00:16:46
+freedomdao: im relaxed more
+
+00:16:47
+<transcript>: The base Analyzer looks broken. Seems like it can't read the files. I'm sorry. What's? The base Analyzer music is working. Okay, but very soft. It's very soft to me too. I thought that was just on my end.
+
+00:16:50
+<transcript>: How's that.
+
+00:16:53
+enochkambale: sound and music is great
+
+00:17:02
+<transcript>: Hearing you and the music. Thank you so much. Adelphio. Adela FOS adelphos. Welcome to my chat, enoch. Also. Welcome to my chat. I'm relaxed. More.
+
+00:17:05
+<transcript>: Sound of Music is Great. Okay, cool.
+
+00:17:08
+<transcript>: So what did bertrand say about.
+
+00:17:14
+<transcript>: The base Analyzer what's that? Are you talking about? Neovan? Is that a sing in neo vim that I'm not aware of.
+
+00:17:15
+pbertrand_dev: yeah the base analyzer is used for analysing the base files
+
+00:17:22
+<transcript>: I'm going to consolidate that's another thing I want to do. I want to consolidate this git, ignore.
+
+00:17:32
+<transcript>: I just put all that in this. Do I need to put, like, the root.
+
+00:17:32
+<transcript>: i don't need
+
+00:17:34
+<transcript>: I don't need this again.
+
+00:17:37
+pbertrand_dev: for syntax etc
+
+00:17:39
+<transcript>: Do I need to put like the directory so like packages.
+
+00:17:42
+<transcript>: Packages.
+
+00:17:42
+<transcript>: slack
+
+00:17:46
+<transcript>: Slack app like that? Do I need to do that.
+
+00:17:48
+<transcript>: What do we think.
+
+00:17:52
+<transcript>: Probably not like that. Just like that.
+
+00:17:53
+pbertrand_dev: might be a permission thing
+
+00:17:54
+<transcript>: Packages.
+
+00:17:54
+<transcript>: slack
+
+00:17:56
+<transcript>: Slack app.
+
+00:17:56
+<transcript>: okay
+
+00:17:58
+<transcript>: Okay, that's not it.
+
+00:18:02
+<transcript>: Packages. I guess this should just always be.
+
+00:18:08
+<transcript>: Okay. Now I can get rid of this. Get ignore. Probably.
+
+00:18:18
+<transcript>: The Bass analogy is used for analyzing the base files for syntax. Might be a permission thing. Interesting. Okay, well, we will look into that. Maybe later.
+
+00:18:22
+<transcript>: Ms should also be ignored.
+
+00:18:22
+<transcript>: packages
+
+00:18:24
+<transcript>: Packages.
+
+00:18:26
+<transcript>: Slack app.
+
+00:18:26
+<transcript>: in
+
+00:18:27
+<transcript>: In.
+
+00:18:27
+<transcript>: why
+
+00:18:30
+<transcript>: Why can't I still slack? That's fun.
+
+00:18:34
+<transcript>: Same typo, twice in a row.
+
+00:18:34
+<transcript>: okay
+
+00:18:36
+<transcript>: Okay get status.
+
+00:18:50
+<transcript>: I'm sorry. What? That's not in the right directory. What? Oh, it's not a git. It's not even. Oh, get a knit. There we go. Get status.
+
+00:18:54
+<transcript>: Ds store should be ignored. It is not.
+
+00:18:58
+<transcript>: So what's wrong.
+
+00:19:04
+freedomdao: We have repo now gayelaJustdance
+
+00:19:05
+<transcript>: Wait. Ds source should be ignored, right? No, wait. Is dslr not what I think it is.
+
+00:19:08
+<transcript>: Store.
+
+00:19:10
+<transcript>: Right.
+
+00:19:21
+<transcript>: That's not important, right vs. Thor. That's like an unimportant file. That's like a maxing, I think.
+
+00:19:32
+<transcript>: Okay, I can get rid of the default app icon. I made an icon yesterday. You want to see it after you guys couldn't see me anymore.
+
+00:19:32
+<transcript>: i made
+
+00:19:35
+<transcript>: I made an icon and it looks like.
+
+00:19:35
+<transcript>: this
+
+00:19:35
+freedomdao: what is jsonc?
+
+00:19:37
+<transcript>: This tldr.
+
+00:19:45
+<transcript>: It's not that great, but it's something. What is json. C. I don't know. Freedom. That's a great question.
+
+00:19:45
+freedomdao: oh neat! look sweet
+
+00:19:49
+<transcript>: The extension here json. C. Denno json. C. I have no idea.
+
+00:19:53
+<transcript>: No idea.
+
+00:19:53
+<transcript>: import
+
+00:20:01
+<transcript>: Import Map license manifest. What's this? License? So it's an mit license? Let's just move this.
+
+00:20:01
+<transcript>: i don't have a
+
+00:20:04
+<transcript>: I don't have a license in here. Let's just move it down here.
+
+00:20:04
+<transcript>: oats
+
+00:20:07
+<transcript>: Oats. Copyright. Slack technologies.
+
+00:20:11
+<transcript>: Elmore, Inc. I don't know.
+
+00:20:13
+freedomdao: i think its json with comments
+
+00:20:18
+<transcript>: And we'll move this to the root.
+
+00:20:20
+<transcript>: What did I do.
+
+00:20:22
+freedomdao: i learn something new all the time here
+
+00:20:24
+<transcript>: Rename.
+
+00:20:27
+<transcript>: To would it be up to.
+
+00:20:33
+<transcript>: Yep. I guess I'll have to put a readme in here at some point.
+
+00:20:33
+<transcript>: i'll just
+
+00:20:36
+<transcript>: I'll just move this. Read me for now.
+
+00:20:39
+<transcript>: Rename.
+
+00:20:42
+<transcript>: To.
+
+00:20:45
+<transcript>: That.
+
+00:20:45
+<transcript>: okay
+
+00:20:49
+<transcript>: Okay. We're doing stuff. We are doing stuff.
+
+00:20:52
+<transcript>: Got to read me.
+
+00:20:58
+schrew: Postal service, Adam early-ish stream, name a more iconic duo
+
+00:20:59
+<transcript>: All this stuff cdk, our git ignore we got our dot end in our slack app.
+
+00:21:06
+<transcript>: Truth here.
+
+00:21:06
+<transcript>: i
+
+00:21:08
+<transcript>: I love it.
+
+00:21:11
+<transcript>: True I miss you.
+
+00:21:19
+<transcript>: Yeah, it would have been an earlier stream. I don't know what happened. I got up at five somehow.
+
+00:21:19
+<transcript>: two
+
+00:21:19
+freedomdao: seems jsonc is VS code specific, invented by microsoft. so that's why i havent seen it
+
+00:21:23
+<transcript>: 2 hours just lost sorry I don't understand.
+
+00:21:33
+<transcript>: I was in the cold punch for about 30 seconds, and then I dried off, and then it was 07:00. I don't know how. From five to seven. That's what happened.
+
+00:21:33
+<transcript>: but
+
+00:21:35
+<transcript>: But that's what happened.
+
+00:21:51
+<transcript>: I did set at my desk just trying to think of a thing for a teaser. If you guys could just give me teasers ideas in discord. If you want me to stream, just give me ideas for those little videos I make at the beginning of my thing. If you could just give me those, feed them to me.
+
+00:22:09
+<transcript>: Like if I had a nice collection of ideas just flowing in and I didn't have to think of them every morning. That would be fantastic. I could put my own spin on them, but just like, hey, it'd be funny if Adam said this, just like, send it my way. I would love to outsource.
+
+00:22:09
+<transcript>: the
+
+00:22:13
+<transcript>: The creativity that I put into those that would be great.
+
+00:22:13
+<transcript>: okay so
+
+00:22:23
+<transcript>: Okay, so what we need to do? I want to rename all these from the sample. We're going to get rid of sample. Also, why the underscores. I don't know. We're going to call them just. We're just.
+
+00:22:23
+<transcript>: removing
+
+00:22:24
+<transcript>: Removing.
+
+00:22:24
+<transcript>: the
+
+00:22:26
+<transcript>: The sample word.
+
+00:22:34
+<transcript>: Just like this. That's going to just be data store. That's just going to be function.
+
+00:22:38
+<transcript>: Just don't like.
+
+00:22:38
+<transcript>: that
+
+00:22:39
+rtr1129: You have a discord?
+
+00:22:41
+<transcript>: That they're called sample. That.
+
+00:22:41
+<transcript>: feels
+
+00:22:42
+<transcript>: Feels.
+
+00:22:45
+adamdotdev: !discord
+
+00:22:45
+fossabot: Adam is a member of the watch.dev Discord server and he'd love to see you there: https://discord.gg/watchdotdev
+
+00:22:45
+alsoux: Привет
+
+00:22:45
+<transcript>: Oh, I do. Yeah, I have a discord. Sorry.
+
+00:22:49
+<transcript>: I think watch dev discord.
+
+00:22:49
+<transcript>: the idea
+
+00:22:54
+<transcript>: The idea was that it would be like a discord for multiple streamers. So I think right now.
+
+00:22:54
+<transcript>: like dax
+
+00:22:57
+<transcript>: Like dax is in there.
+
+00:23:03
+<transcript>: And it's Me and dax is only discord. But some of the streamers that are in there have other discord. They have their own discord.
+
+00:23:03
+<transcript>: but
+
+00:23:09
+<transcript>: But they're still kind of participating in the Watch dev experiment. I have not put a lot of effort into it. Unfortunately.
+
+00:23:15
+<transcript>: Just been too busy. But that was the idea. I'm going to turn this down. Just a scotch.
+
+00:23:22
+<transcript>: Sorry I can hear myself think. Okay, we've renamed all those now I need to go through and actually update.
+
+00:23:22
+<transcript>: probably
+
+00:23:24
+<transcript>: Probably in here.
+
+00:23:24
+<transcript>: every
+
+00:23:29
+<transcript>: Everywhere it says, Sample, what's been host.
+
+00:23:29
+<transcript>: i guess
+
+00:23:31
+<transcript>: I guess I don't need to worry about that.
+
+00:23:31
+<transcript>: like
+
+00:23:33
+<transcript>: Like that.
+
+00:23:33
+<transcript>: and then
+
+00:23:34
+<transcript>: And then.
+
+00:23:40
+<transcript>: For some reason we couldn't get deno working.
+
+00:23:40
+<transcript>: my
+
+00:23:42
+<transcript>: My lsp.
+
+00:23:42
+<transcript>: i need to
+
+00:23:49
+<transcript>: I need to re enable copilot. I need to take care of so many things. I've let the weeds grow up around here.
+
+00:23:54
+<transcript>: Like my thing expired. I think.
+
+00:23:54
+<transcript>: my credit card
+
+00:24:02
+freedomdao: r u using copilot a lot
+
+00:24:02
+<transcript>: My credit card changed my business. Credit card has changed, like three times. And every time it does, I have a go, and I have to update every single thing.
+
+00:24:02
+<transcript>: and
+
+00:24:07
+<transcript>: And I need to do that for github. So let's see. Github. Copilot.
+
+00:24:07
+<transcript>: i want it
+
+00:24:10
+<transcript>: I want it. Give it to me.
+
+00:24:12
+<transcript>: Do today.
+
+00:24:15
+<transcript>: Sounds good. It's got change of credit card.
+
+00:24:20
+<transcript>: That's the one.
+
+00:24:33
+<transcript>: Yes, we're doing it. We're updating, copilot. I've been staring at this for, like, three months. It's just been popping up and being like.
+
+00:24:40
+<transcript>: Your thing's expired, and I've been like, oh, I need to fix that. And then I don't. Now's the time to actually take care of some of these things.
+
+00:24:40
+<transcript>: okay there's
+
+00:24:44
+<transcript>: Okay. There's my card. Submit.
+
+00:24:47
+<transcript>: Did it work.
+
+00:24:47
+<transcript>: no
+
+00:24:49
+<transcript>: No, get access.
+
+00:24:50
+guaca_joely: Pixelated filter is cool!
+
+00:24:53
+<transcript>: I thought I did this. Okay, we'll do it again.
+
+00:24:53
+<transcript>: suggestions
+
+00:24:56
+<transcript>: Suggestions Matching Public code.
+
+00:24:56
+<transcript>: sure
+
+00:25:02
+<transcript>: Sure. Why not allow github to use my code syphilis for product improvements? Sure.
+
+00:25:04
+<transcript>: I'll let my code.
+
+00:25:04
+<transcript>: contribute
+
+00:25:11
+<transcript>: Contribute. I don't know if that's best. Also ux. Also ux. Welcome to chat. I don't speak.
+
+00:25:11
+<transcript>: i believe that
+
+00:25:15
+<transcript>: I believe that's Russian. So I don't know what you said.
+
+00:25:25
+<transcript>: But if you could translate for me are you using copilot? A lot I used to before it expired and I just have failed to update it.
+
+00:25:25
+<transcript>: we'll see
+
+00:25:31
+<transcript>: We'll see if it's just fixed now or if I need to do anything in my files. Okay.
+
+00:25:33
+pbertrand_dev: they said hello in russian
+
+00:25:38
+<transcript>: Do this back here. So let's see if copilot just works. Now if I just say like.
+
+00:25:46
+<transcript>: Oh, look at that copilot. Look at that. Cool. Okay.
+
+00:25:46
+<transcript>: so
+
+00:25:47
+schrew: Hi "Hello in russian" im dad
+
+00:25:53
+<transcript>: So I want to figure out the demo thing because it's going to be really annoying to keep building this thing if I don't have Dino.
+
+00:25:57
+<transcript>: I do not have dinner.
+
+00:26:00
+<transcript>: So Mason install.
+
+00:26:00
+<transcript>: demo
+
+00:26:02
+<transcript>: Demo.
+
+00:26:08
+<transcript>: Hello in Russian.
+
+00:26:08
+<transcript>: hello
+
+00:26:12
+<transcript>: Hello Hello to you also you X.
+
+00:26:16
+<transcript>: Okay.
+
+00:26:16
+<transcript>: dinner up to
+
+00:26:23
+<transcript>: Dinner up to date. Let's just go ahead and update all the packages. Astro needs to be updated. That's fun. I don't know if Ben still here.
+
+00:26:27
+<transcript>: But we're going to update the astro lsp.
+
+00:26:39
+<transcript>: Feels good. Okay. And then I need the configure. Probably. Dino, do I need to or does it just configure itself? Who knows.
+
+00:26:42
+<transcript>: Let's try, let's just try this.
+
+00:26:51
+<transcript>: Let's open up that file again, so slack app ds store keeps popping back up.
+
+00:26:53
+<transcript>: I was ignoring you.
+
+00:26:57
+<transcript>: Broken? What's wrong with this.
+
+00:27:01
+<transcript>: What's wrong with this.
+
+00:27:01
+pbertrand_dev: @Schrew privet "im dad", ya papa
+
+00:27:05
+<transcript>: I'm going to say ignore all.
+
+00:27:16
+<transcript>: I'm dad. They said, I'm, dad, what.
+
+00:27:23
+<transcript>: So that should be hidden. I don't know why.
+
+00:27:31
+<transcript>: That is like it's supposed to hide all my get ignored files. I don't know what the deal is there.
+
+00:27:33
+<transcript>: Get status.
+
+00:27:38
+<transcript>: Get add see like in why is that showing up.
+
+00:27:39
+pbertrand_dev: they said show ur guns
+
+00:27:42
+<transcript>: I do get add.
+
+00:27:46
+<transcript>: It should not be adding that dot end.
+
+00:27:46
+<transcript>: oh
+
+00:27:48
+<transcript>: Oh unless.
+
+00:27:51
+<transcript>: It shouldn't. Oh, wait.
+
+00:27:57
+koamb: Hello!! Just a question, what bedrock will do for you in this slack app??
+
+00:27:57
+<transcript>: Remove rf, get.
+
+00:28:01
+<transcript>: I know what I did. I did it in the wrong folder.
+
+00:28:01
+adrienoak: do you have **/.env ?
+
+00:28:02
+freedomdao: bigg smalls play in my head when  usaid im dad.. "they like to call me big poppa" LUL
+
+00:28:05
+adrienoak: in the gitignore?
+
+00:28:07
+<transcript>: I'm in the wrong fold. I'm in a subdirectory. Get an it right there.
+
+00:28:07
+<transcript>: let's see
+
+00:28:12
+<transcript>: Let's see. Show your guns. Who said, Show your guns. What are you talking about? Are you hearing.
+
+00:28:12
+<transcript>: me
+
+00:28:20
+<transcript>: Me? Bertrand, you're messing with me. Coam. Welcome to Chat. Hello? Just a question. What bedrock will do for you in this slack app? Great question.
+
+00:28:20
+<transcript>: the
+
+00:28:24
+<transcript>: The question is, what am I using bedrock for? Because I put it in the title.
+
+00:28:24
+<transcript>: i will show you shortly
+
+00:28:26
+<transcript>: I will show you shortly.
+
+00:28:26
+<transcript>: the
+
+00:28:38
+freedomdao: @koamb :O im excited to see
+
+00:28:40
+<transcript>: The slack app summarizes a series of messages from your team, and we use bedrock as an llm, one of the models that's available in bedrock. To summarize the text, you'll see it work here in just a second. I'm just doing some plumbing.
+
+00:28:40
+<transcript>: so
+
+00:28:47
+<transcript>: So the problem was I didn't have my git repo initialized in the correct place. Now.
+
+00:28:47
+<transcript>: it is
+
+00:28:48
+<transcript>: It is.
+
+00:28:48
+<transcript>: so now
+
+00:28:50
+<transcript>: So now.
+
+00:28:54
+<transcript>: If I quit.
+
+00:28:58
+koamb: awesome
+
+00:28:59
+<transcript>: Sorry? What.
+
+00:29:01
+<transcript>: Why can't I close it.
+
+00:29:06
+<transcript>: Wait. What? I can't quit vim. It's the meme.
+
+00:29:08
+<transcript>: What is happening.
+
+00:29:10
+adrienoak: also, what is that plugin to have the env hidden? :)
+
+00:29:11
+freedomdao: you cant close vim YASSSS
+
+00:29:14
+<transcript>: I made it. We escaped.
+
+00:29:14
+<transcript>: we
+
+00:29:14
+freedomdao: finally
+
+00:29:18
+freedomdao: you feel our pain :O
+
+00:29:18
+schrew: a tale as old as time!
+
+00:29:20
+<transcript>: We escaped. I don't know what happened there. So if I go into the packages in is hidden now. Perfect.
+
+00:29:20
+<transcript>: okay
+
+00:29:27
+<transcript>: Okay, so we have functions. We have core. I'm not actually using core. So I'm just going to delete core.
+
+00:29:35
+<transcript>: I'm just trying to get this thing tidied up, because this is going to be a public repo. It's going to be a public repo that is used.
+
+00:29:35
+<transcript>: what is this
+
+00:29:36
+pbertrand_dev: told you, the base analyzer is broken
+
+00:29:36
+<transcript>: What is this.
+
+00:29:36
+<transcript>: i don't
+
+00:29:38
+<transcript>: I don't need that.
+
+00:29:49
+<transcript>: This is going to be a public repo. When Jason makes his video. People might reference this for learning purposes.
+
+00:29:52
+<transcript>: But we don't want to confuse them.
+
+00:29:57
+<transcript>: Clean up a little bit packages. Core. I don't care about that.
+
+00:29:57
+<transcript>: that'll
+
+00:30:06
+<transcript>: That'll get updated, I guess. Okay. I think that's it. That's all the references secure. So we just have functions. We have our slack app.
+
+00:30:10
+<transcript>: Bedrock is the only function that's fine.
+
+00:30:17
+<transcript>: The base Analyzer is broken. What does that mean? Bertrand? Are you being for real.
+
+00:30:20
+<transcript>: Are you for real now.
+
+00:30:20
+<transcript>: what
+
+00:30:25
+<transcript>: What is that plugin to have the ends hidden. Oh, great question, Adrian. That is.
+
+00:30:25
+<transcript>: called
+
+00:30:31
+<transcript>: Called cloak by our good friend layton. Friend of the Channel. I haven't seen layton. So that came back.
+
+00:30:36
+<transcript>: Yeah, he made.
+
+00:30:36
+<transcript>: it for me because
+
+00:30:38
+pbertrand_dev: Would I joke about the base analyzer?
+
+00:30:39
+<transcript>: It for me because I leaked my secrets.
+
+00:30:41
+<transcript>: I wish there were.
+
+00:30:41
+<transcript>: a way to not
+
+00:30:42
+<transcript>: A way to not do that.
+
+00:30:42
+<transcript>: when i joke
+
+00:30:47
+<transcript>: When I joke about the base analyzer, it just sounds like the flux capacitor. It sounds like a joke.
+
+00:30:47
+<transcript>: that's the bass anal
+
+00:30:49
+<transcript>: That's the Bass Analyzer.
+
+00:30:49
+adrienoak: damn, that is a lifesaver
+
+00:30:53
+<transcript>: Okay.
+
+00:30:53
+<transcript>: we got to keep
+
+00:30:55
+<transcript>: We got to keep going.
+
+00:30:57
+<transcript>: So.
+
+00:30:57
+<transcript>: i upd
+
+00:30:58
+schrew: i remember when layton did that, it was sick
+
+00:30:59
+<transcript>: I updated the manifest.
+
+00:31:05
+<transcript>: No more sample manifests. Let's see if we have dinner.
+
+00:31:07
+<transcript>: Four clients attached.
+
+00:31:11
+<transcript>: Why can't I.
+
+00:31:15
+<transcript>: What about I keep like starting macros.
+
+00:31:19
+<transcript>: And I just want to quit. What is going on.
+
+00:31:19
+<transcript>: did
+
+00:31:22
+<transcript>: Did I forget how to vim.
+
+00:31:26
+<transcript>: I promise I use them even when I don't stream.
+
+00:31:26
+freedomdao: every good tech streams gotta have a few leaks :P
+
+00:31:29
+<transcript>: What was I looking for.
+
+00:31:31
+<transcript>: Manifest? Yeah. So.
+
+00:31:31
+<transcript>: in here
+
+00:31:32
+<transcript>: In here.
+
+00:31:36
+<transcript>: Why does that not work.
+
+00:31:44
+<transcript>: So four clients attach this buffer, copilot, dino, ts server and tailwind. That's what I would expect and what I would hope for.
+
+00:31:47
+<transcript>: Some reason.
+
+00:31:55
+<transcript>: Typescript. An import pack can only end with the ts extension when allow importing extensions is enabled. Okay, this sounds like a fixable problem.
+
+00:31:55
+<transcript>: ts
+
+00:31:57
+<transcript>: Ts config.
+
+00:32:00
+<transcript>: Allow.
+
+00:32:09
+<transcript>: Okay.
+
+00:32:09
+<transcript>: does
+
+00:32:11
+<transcript>: Does Anyone know.
+
+00:32:16
+<transcript>: What the allow what the thing is.
+
+00:32:21
+<transcript>: Guess it just told me, didn't it allow importing ts extensions.
+
+00:32:26
+<transcript>: Let's just try putting it right here. Allow importing.
+
+00:32:26
+<transcript>: ps
+
+00:32:29
+<transcript>: Ps extensions.
+
+00:32:30
+adrienoak: doesnt the deno lsp require a deno.json somewhere or something liek that to know to attach to the file?
+
+00:32:32
+<transcript>: Extensions. Right.
+
+00:32:42
+<transcript>: Lsp restart. Maybe.
+
+00:32:45
+<transcript>: No.
+
+00:32:48
+<transcript>: Cannot find it.
+
+00:32:51
+<transcript>: Find it. It's a different problem.
+
+00:32:57
+<transcript>: There we go. Allow importing ts extensions. Is an enabled.
+
+00:32:57
+<transcript>: i think
+
+00:32:59
+<transcript>: I think I did that.
+
+00:33:05
+<transcript>: I believe I did that. Let's just Google it.
+
+00:33:05
+<transcript>: allow
+
+00:33:10
+<transcript>: Allow I really got to hurry allow importing PS.
+
+00:33:11
+<transcript>: Extensions.
+
+00:33:21
+<transcript>: Allow importing ts extensions under modules.
+
+00:33:37
+<transcript>: Does that just go in the in the thing in module or whatever in compiler options.
+
+00:33:38
+<transcript>: I think so.
+
+00:33:42
+<transcript>: Allow.
+
+00:33:44
+adrienoak: yeah
+
+00:33:46
+<transcript>: Allow import and kiss yeah, just like that.
+
+00:33:46
+<transcript>: okay
+
+00:33:48
+<transcript>: Okay. Well.
+
+00:33:51
+<transcript>: I tried.
+
+00:33:54
+adrienoak: it looked like it was inside the compiler options section there
+
+00:33:58
+<transcript>: Just a little quick invent again.
+
+00:34:09
+<transcript>: Every good tech stream has got to have a few leagues. It's so true. I remember when layton did that. It was. He did it like, same. He did it like, an hour. He just turned it around. He's like, oh, here's a plugin for you. That was so cool.
+
+00:34:30
+<transcript>: Doesn't the dino lsp require a dino json somewhere or something like that? Oh, maybe because it was inside a compiler option section there. Okay, so dino json. I got about three minutes I can spend on this. And then I really got to just keep moving because we are on a hard, hard deadline today. Got jujitsu at ten.
+
+00:34:34
+<transcript>: So jino Here we go. Dinner. Json. C.
+
+00:34:39
+<transcript>: So there's that is that.
+
+00:34:39
+<transcript>: the file you're
+
+00:34:40
+<transcript>: The file? You're speaking of.
+
+00:34:42
+<transcript>: Maybe.
+
+00:34:47
+<transcript>: Manifest.
+
+00:34:49
+<transcript>: Better, it's not better.
+
+00:34:59
+<transcript>: Can't find it, and then also an import passing on the end with a ts extension when that is enabled, so apparently it doesn't pick up my ts config from the root.
+
+00:35:02
+adrienoak: root_pattern("deno.json", "deno.jsonc", ".git")
+
+00:35:02
+<transcript>: That's unfortunate, if that's the case.
+
+00:35:10
+<transcript>: Root pattern Dino json Dino json C get.
+
+00:35:13
+adrienoak: https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#denols
+
+00:35:18
+<transcript>: Do I need to put a ts config in this directory.
+
+00:35:23
+<transcript>: Do that. Csconfig. Json.
+
+00:35:27
+<transcript>: And I could copy this one.
+
+00:35:28
+adrienoak: maybe that deno.json in the root? :/
+
+00:35:38
+<transcript>: It's not going to be node 18. Oh, does anybody know? Is there just like a dinner like based on dino TS config I could use.
+
+00:35:38
+<transcript>: that like oh
+
+00:35:41
+<transcript>: That like, oh, let's just check. Ps config.
+
+00:35:41
+<transcript>: at ts
+
+00:35:45
+<transcript>: At ts. Config dino. That would be great.
+
+00:35:55
+<transcript>: And implied ts? Config, what.
+
+00:35:59
+<transcript>: If you were to ride a ts config for dino, it looks something like this.
+
+00:36:05
+<transcript>: It is impossible to get TSC debate like dinner. Awesome.
+
+00:36:24
+<transcript>: You can't copy paste this into a configuration filing it works. Just leave this built in type libraries custom to dinner, which are provided to typescript compiler. Somewhat be mocked by running. Let's just do this. Lsp zero Dino config.
+
+00:36:33
+<transcript>: Using lc Zero How to prevent dino and ts server.
+
+00:36:42
+<transcript>: Unique root dur for dino ls recently fixed this in denim manual.
+
+00:36:56
+<transcript>: You need to add the unattached function on ls zero VAR checks on every lsp attached received dental project closed ts server otherwise dino never runs unless it detects a root pattern.
+
+00:36:59
+iannery: hey adam, how's it going? finally saved some money to get a macbook for myself!
+
+00:37:02
+<transcript>: So if I just add this.
+
+00:37:06
+<transcript>: And then on attach.
+
+00:37:09
+<transcript>: Dino json Import map.
+
+00:37:13
+<transcript>: Then stop ps server.
+
+00:37:17
+<transcript>: Is this modern? When was this? Seven months ago.
+
+00:37:22
+<transcript>: Dino lsp.
+
+00:37:26
+<transcript>: So I guess I need to disable typescript.
+
+00:37:30
+<transcript>: I guess.
+
+00:37:39
+<transcript>: I have now spent more than three minutes on this. How's it going, lannery? It's good. Finally. Save some money to get a macbook. Nice.
+
+00:37:39
+<transcript>: welcome back
+
+00:37:43
+<transcript>: Welcome back, Lanerry. Hopefully one of these slips.
+
+00:37:45
+<transcript>: On tach.
+
+00:37:49
+<transcript>: Okay. I don't love this.
+
+00:37:49
+<transcript>: i
+
+00:37:51
+<transcript>: I'd like to add another solution.
+
+00:38:05
+<transcript>: Okay, whatever. We're just not going to have good denim. I don't care. I'd rather have a good type script.
+
+00:38:05
+<transcript>: and i'm over
+
+00:38:07
+<transcript>: And I'm over it.
+
+00:38:09
+<transcript>: Delete. So we're just not going to.
+
+00:38:09
+<transcript>: have good
+
+00:38:14
+<transcript>: Have good editor support, and that's just fine. It's whatever.
+
+00:38:14
+<transcript>: it sucks
+
+00:38:16
+<transcript>: It sucks. But it is what it is.
+
+00:38:16
+<transcript>: so we're going
+
+00:38:20
+rtr1129: DHH has a guide on disabling typescript
+
+00:38:21
+<transcript>: So we're going to call these not sample, but just like that.
+
+00:38:28
+<transcript>: Object database. Okay.
+
+00:38:39
+<transcript>: Delete the W delete o. Okay, so no more sample words in here, right.
+
+00:38:51
+<transcript>: Here's data stores. We're going to say.
+
+00:38:57
+<transcript>: Just getting rid of all.
+
+00:38:57
+<transcript>: the
+
+00:38:58
+<transcript>: The.
+
+00:38:58
+<transcript>: sample stuff
+
+00:38:59
+<transcript>: Sample stuff.
+
+00:39:04
+<transcript>: Object data store.
+
+00:39:04
+<transcript>: i don't really
+
+00:39:09
+<transcript>: I don't really even need the data store. Probably. We'll see if I end up needing it.
+
+00:39:19
+<transcript>: I have a feeling they mess with that. And I don't need to touch it. So see, sample.
+
+00:39:19
+<transcript>: sa
+
+00:39:22
+<transcript>: Sample. Deletes it, there.
+
+00:39:30
+<transcript>: Object data store. This is going to be function definition.
+
+00:39:32
+<transcript>: Okay.
+
+00:39:32
+<transcript>: callback id
+
+00:39:34
+<transcript>: Callback ID. Title.
+
+00:39:34
+<transcript>: is
+
+00:39:37
+<transcript>: Is what does this function do.
+
+00:39:41
+<transcript>: This is the main thing. The function.
+
+00:39:41
+<transcript>: dh
+
+00:39:44
+<transcript>: Dhh has a guide on disabling typescript.
+
+00:39:54
+<transcript>: Functions Sample function.
+
+00:39:59
+<transcript>: functions function
+
+00:39:59
+<transcript>: functions function i should probably
+
+00:40:02
+<transcript>: Functions, function. I should probably name this something meaningful.
+
+00:40:09
+<transcript>: Triggers. Workflow. Okay.
+
+00:40:14
+<transcript>: How do I want to go about this? Maybe we should get the functionality working real quick.
+
+00:40:17
+<transcript>: And then I will come back.
+
+00:40:19
+<transcript>: To.
+
+00:40:24
+<transcript>: We got to update the trigger. This should be.
+
+00:40:27
+<transcript>: Delete. There.
+
+00:40:29
+<transcript>: Like that.
+
+00:40:34
+<transcript>: I missed a step on that last one, too.
+
+00:40:34
+aj_stuyvenberg: back to back streams? What a time to be alive
+
+00:40:36
+sockthedev: ola
+
+00:40:37
+ben_winnen: Oh snaps, two days in a row. Morning everyone
+
+00:40:40
+<transcript>: This isn't sample trigger. It's just.
+
+00:40:44
+<transcript>: Trigger.
+
+00:40:56
+<transcript>: All okay, there's still some samples in here. Like the name we'll fix all that.
+
+00:41:02
+<transcript>: And then back in here, I think I missed the spot. Did I miss the spot? Yeah.
+
+00:41:06
+<transcript>: Function definition.
+
+00:41:09
+<transcript>: Does that stuff.
+
+00:41:13
+<transcript>: Sample object, everything's, just sample.
+
+00:41:19
+<transcript>: Object database.
+
+00:41:25
+<transcript>: Data store is called objects.
+
+00:41:29
+<transcript>: Really nice to have the lsp working.
+
+00:41:37
+<transcript>: This isn't the best object data store.
+
+00:41:37
+<transcript>: yes
+
+00:41:39
+<transcript>: Yes, that's the thing.
+
+00:41:47
+<transcript>: And data store is objects. Item sample object. Okay, I'm assume that still works. We'll test all this in a second.
+
+00:41:47
+<transcript>: okay
+
+00:41:50
+<transcript>: Okay. So I updated all these.
+
+00:41:50
+<transcript>: right yes now
+
+00:41:56
+<transcript>: Right. Yes. Now workflow. We got to get rid of that sample and that sample.
+
+00:42:01
+<transcript>: This is just a workflow, not a sample workflow.
+
+00:42:03
+<transcript>: We'll update all those in a second.
+
+00:42:08
+<transcript>: Sample.
+
+00:42:20
+<transcript>: She.
+
+00:42:25
+<transcript>: Function definition.
+
+00:42:28
+<transcript>: Okay.
+
+00:42:31
+<transcript>: We're so close.
+
+00:42:31
+<transcript>: we're
+
+00:42:33
+<transcript>: We're so close.
+
+00:42:43
+<transcript>: Two days in a row. Ben sock is here. Aj's here. Feels good.
+
+00:42:43
+<transcript>: what
+
+00:42:45
+<transcript>: What a time to be alive.
+
+00:42:45
+<transcript>: adam
+
+00:42:47
+mooosa: omg i remember working with this 2 years ago... i hated it so much.. was my first project as a junior engineer
+
+00:42:52
+<transcript>: Adam Streams again. Kind of I'm really glad. Way back when I very first started streaming.
+
+00:42:52
+<transcript>: long before
+
+00:42:54
+mooosa: (the slack api)
+
+00:42:56
+<transcript>: Long before any of you had ever graced me with your presence.
+
+00:43:16
+schrew: some things never change
+
+00:43:17
+<transcript>: The first few streams, I updated my little streaming notification to be omg Adam is streaming in all caps. It's been that way ever since. And back then it made no sense because like I streamed every day and like, no big deal, it's every morning. Omg Adam is streaming. But now that it's like four months go by and I don't stream when I do, I'm so happy.
+
+00:43:17
+<transcript>: as that not
+
+00:43:24
+<transcript>: As that notification is OMG out of his streaming because it's like this is actually a rare occurrence. You should pay attention.
+
+00:43:26
+schrew: just like how astro/sst is in the description
+
+00:43:27
+<transcript>: Isn't that funny how that works out.
+
+00:43:37
+<transcript>: The slack api. Oh, my God, I remember working with this two years ago. I hate it so much. Yes, musa, I'm not a fan of that. Oh, I shouldn't say that. Never mind.
+
+00:43:45
+<transcript>: Flack may or may not be sponsoring this. I'm not sure. I'm just not going to say it. Something's ever changed. Just like how astro ssc is in the description.
+
+00:43:51
+<transcript>: Okay.
+
+00:43:57
+<transcript>: Let's actually make the functionality work. What do you say? What do you say.
+
+00:43:57
+<transcript>: we're going to have so
+
+00:44:02
+<transcript>: We're going to have so many errors because typescript is running. It should not be.
+
+00:44:06
+<transcript>: Let's go in here.
+
+00:44:15
+<transcript>: That's fine. Okay, let's just search for sample again so that's readme, don't care. Sample workflow. These are all just titles.
+
+00:44:15
+<transcript>: sample
+
+00:44:18
+<transcript>: Sample function step. I don't like that one.
+
+00:44:20
+<transcript>: Sample.
+
+00:44:22
+<transcript>: Yeah. I don't like that.
+
+00:44:25
+<transcript>: F.
+
+00:44:29
+<transcript>: Function step.
+
+00:44:32
+<transcript>: Well, that didn't work.
+
+00:44:34
+<transcript>: Okay.
+
+00:44:42
+<transcript>: We good.
+
+00:44:43
+<transcript>: Are we good.
+
+00:44:47
+<transcript>: Think we're good. We got all these callback ids. That's fine.
+
+00:44:47
+<transcript>: oh
+
+00:44:50
+<transcript>: Oh sample object.
+
+00:44:53
+<transcript>: Well, I can't name an object now, can I.
+
+00:44:58
+dnbull: damn, I miss you Adam.
+
+00:44:59
+<transcript>: We'll call it payload. That sounds fancy.
+
+00:45:02
+<transcript>: Let's do like.
+
+00:45:04
+<transcript>: Payload.
+
+00:45:15
+<transcript>: I could have called it item and then gotten rid of that's my Mo. I just go item, and then down here I make it a little prettier, like.
+
+00:45:17
+<transcript>: Love it.
+
+00:45:17
+<transcript>: okay
+
+00:45:18
+pbertrand_dev: can only call it pay load if its a paid app
+
+00:45:20
+<transcript>: Okay. I miss you too. Dimble.
+
+00:45:25
+<transcript>: Can only call it payload if it's a paid app.
+
+00:45:29
+<transcript>: Bertrand with the humor.
+
+00:45:29
+<transcript>: let's do
+
+00:45:31
+<transcript>: Let's do slack, run.
+
+00:45:35
+<transcript>: If this thing works. Oh, I'm not in the right directory.
+
+00:45:35
+<transcript>: for
+
+00:45:37
+<transcript>: For.
+
+00:45:43
+<transcript>: Okay. So now I can actually show somebody asked earlier what's bedrock doing.
+
+00:45:48
+<transcript>: Following data source will be deleted after the deploy sample objects that's fine.
+
+00:45:48
+<transcript>: friday manifest
+
+00:45:53
+<transcript>: Friday manifest file does not validate against schema. I'm sorry. What.
+
+00:45:56
+<transcript>: Sorry? What.
+
+00:45:56
+<transcript>: error
+
+00:46:03
+<transcript>: Error details following data. Swords will be deleted. Yeah, that's fine. Delete them. I'm good with that. Let's force it.
+
+00:46:03
+<transcript>: force
+
+00:46:05
+<transcript>: Force that run.
+
+00:46:05
+<transcript>: so
+
+00:46:08
+<transcript>: So I'll actually show what the app does.
+
+00:46:13
+<transcript>: And then it'll make sense why we're using Amazon bedrock.
+
+00:46:13
+<transcript>: okay
+
+00:46:14
+<transcript>: Okay.
+
+00:46:16
+<transcript>: It did the thing.
+
+00:46:19
+<transcript>: Let's open up here.
+
+00:46:19
+<transcript>: actually
+
+00:46:20
+<transcript>: Actually.
+
+00:46:25
+<transcript>: Let's update all this. This is going to drive me crazy.
+
+00:46:30
+theruggedbear: the one and oooonlyyy. adaaamdoootdeeeeev
+
+00:46:32
+<transcript>: I don't want a trigger like this. I want the trigger to be a slash command. So slack.
+
+00:46:34
+<transcript>: Workflows.
+
+00:46:36
+<transcript>: Command.
+
+00:46:36
+<transcript>: tr
+
+00:46:38
+<transcript>: Trigger.
+
+00:46:40
+<transcript>: Do this.
+
+00:46:44
+<transcript>: The one and only rugged bears here.
+
+00:46:44
+<transcript>: rugged
+
+00:46:46
+<transcript>: Rugged bears.
+
+00:46:50
+<transcript>: It's so fun to see you all pop back.
+
+00:46:50
+<transcript>: in
+
+00:46:59
+<transcript>: In and see friendly faces or usernames. Okay, flash commands I'll use your invoker app by typing a string into the Message composer box.
+
+00:47:22
+ben_winnen: Oh, the emoji reaction wasn'tt possible as a trigger? I thought that was your preference yesterday
+
+00:47:23
+<transcript>: So it's just going to be summarize or just slash tldr when to enable slash commands when part of the app to get easily installed in your single workspace or distributed worksheet. That's fine slash convenient could be a vote from a message shred, but the responding app cannot publish a message back to that thread. That's fine.
+
+00:47:28
+<transcript>: It's going to send it in a dm to you understand. Structure of a slash command. Yeah.
+
+00:47:37
+<transcript>: Getting started creating a slash band? Yeah, we're ahead of this. We're way ahead of this. We already got an app and everything.
+
+00:47:44
+<transcript>: While your eyes might take less offense to the second devil. In that case, you'd have to resolve those plain tech things yourself.
+
+00:47:44
+<transcript>: what
+
+00:47:45
+<transcript>: What.
+
+00:47:53
+<transcript>: Preparing your app to receive commands. Wow, this is a lot.
+
+00:47:56
+<transcript>: Is it a trigger type or no.
+
+00:47:59
+<transcript>: Is it a trigger type.
+
+00:47:59
+<transcript>: what
+
+00:48:00
+<transcript>: What is all this.
+
+00:48:03
+<transcript>: I don't know if this is the thing.
+
+00:48:08
+<transcript>: I want automation.
+
+00:48:08
+<transcript>: trigger
+
+00:48:10
+<transcript>: Triggers.
+
+00:48:16
+<transcript>: Are there command triggers.
+
+00:48:16
+<transcript>: event
+
+00:48:18
+<transcript>: Event triggers.
+
+00:48:18
+<transcript>: schedule
+
+00:48:20
+<transcript>: Scheduled triggers.
+
+00:48:25
+<transcript>: Slash.
+
+00:48:25
+<transcript>: uhoh
+
+00:48:27
+<transcript>: Uhoh.
+
+00:48:27
+zgredfred1: video flickering every 1.5s or its just me?
+
+00:48:34
+<transcript>: Oh, no. Z grid. I was going to fix that.
+
+00:48:37
+theruggedbear: reaction_added
+
+00:48:43
+<transcript>: The emoji trigger is the more I thought about it that's kind of not how I would use this if I had this in my slack. If I use slack.
+
+00:48:43
+<transcript>: i would not want everybody
+
+00:48:51
+<transcript>: I would not want everybody to know that I'm trying to get summaries of their messages. So if I put an emoji on it, everybody's going to know, like, oh, he's just lazy.
+
+00:48:51
+<transcript>: so
+
+00:49:02
+<transcript>: So I decided it should just be a little silent thing where I can just slash tldr and then voila I get a message. You know what I'm saying? Reaction added. Yeah.
+
+00:49:07
+<transcript>: I want a slash command as a trigger. Can that be a thing.
+
+00:49:10
+<transcript>: Can it be a thing.
+
+00:49:10
+<transcript>: interact
+
+00:49:12
+<transcript>: Interactivity.
+
+00:49:12
+<transcript>: interactive
+
+00:49:15
+theruggedbear: but, can you remove the reaction after ?
+
+00:49:16
+ben_winnen: Ahhh, that makes sense.
+
+00:49:17
+<transcript>: Interactive message, interactive modal. I don't want any of those things.
+
+00:49:20
+<transcript>: What is an interactive message.
+
+00:49:20
+<transcript>: you could remove
+
+00:49:25
+<transcript>: You could remove the yeah, you could remove the reaction. That's true.
+
+00:49:32
+<transcript>: Apparently, it might be hard to do slash commands. I don't know. Interactive block Kit Elements What is an interactive message.
+
+00:49:35
+<transcript>: I don't think this is what I want.
+
+00:49:40
+<transcript>: All I want is to be able to trigger this thing off a slash command.
+
+00:49:50
+<transcript>: Let's get better with searching slack, workflows.
+
+00:49:53
+<transcript>: That's exactly what I want to search.
+
+00:49:57
+<transcript>: Command.
+
+00:50:02
+<transcript>: Oh, slash coins via workflow builder. Here we go.
+
+00:50:13
+<transcript>: No oh no.
+
+00:50:16
+<transcript>: Is this not even a thing.
+
+00:50:21
+thdxr: still working on this?
+
+00:50:21
+<transcript>: Slackware, foes.
+
+00:50:23
+thdxr: unsurprising
+
+00:50:33
+<transcript>: Dax. Yes, I'm still working on it. I just saw on Twitter. Unsurprising. I just saw on Twitter where grep was written overnight, like one night.
+
+00:50:36
+<transcript>: And I'm working on this for two days.
+
+00:50:36
+<transcript>: oh
+
+00:50:37
+<transcript>: Oh, man.
+
+00:50:38
+<transcript>: let's see
+
+00:50:42
+<transcript>: Let's see. Paul. Did you? It what.
+
+00:50:42
+<transcript>: workflow
+
+00:50:45
+ben_winnen: LUL
+
+00:50:46
+<transcript>: Workflow does not allow for a slash command. What.
+
+00:50:55
+<transcript>: Did I choose the wrong thing to make? Did I not make a thing that's good.
+
+00:51:00
+<transcript>: For slat for workflows. I'm supposed to use workflows specifically.
+
+00:51:10
+<transcript>: Probably for sponsorship reasons, and apparently the thing I'm making is not a good fit for workflows because all I want is just slash tldr and then.
+
+00:51:10
+<transcript>: voila
+
+00:51:15
+<transcript>: Voila. We'll do it here's what we'll do. We'll just do it on a timer.
+
+00:51:18
+<transcript>: Which is not great for testing.
+
+00:51:18
+<transcript>: but like
+
+00:51:19
+theruggedbear: well, you can add a slash command and add the thread to a queue Kappa
+
+00:51:22
+<transcript>: But like we could do, there's triggers for scheduled triggers.
+
+00:51:22
+<transcript>: link
+
+00:51:24
+<transcript>: Link triggers.
+
+00:51:29
+<transcript>: You can add a slash command and add the thread to a queue.
+
+00:51:34
+<transcript>: I don't understand that webhook triggers.
+
+00:51:38
+<transcript>: Could I send a web.
+
+00:51:39
+<transcript>: webhook from
+
+00:51:39
+<transcript>: webhook from a
+
+00:51:42
+<transcript>: Webhook from a slash command.
+
+00:51:50
+<transcript>: Create the trigger file so you can do webhooks.
+
+00:51:55
+<transcript>: If I can do this.
+
+00:52:00
+<transcript>: Could I do.
+
+00:52:05
+<transcript>: Slack slash command webhook.
+
+00:52:08
+<transcript>: Is this a bad idea.
+
+00:52:12
+<transcript>: Look at that.
+
+00:52:16
+<transcript>: Http. Post.
+
+00:52:19
+<transcript>: In order to get slash trans up and running.
+
+00:52:19
+<transcript>: a user in
+
+00:52:28
+<transcript>: A user in flat types in the message Box command submits it. A payload is sent via Hgtp. Post. Request your app. Your app responds in some way.
+
+00:52:30
+<transcript>: Okay, this could work.
+
+00:52:34
+<transcript>: Set payload tube when the command is evoked by user you want to use your users.
+
+00:52:37
+theruggedbear: when you type `/summary`, (maybe) you can grab the thread id and add it to a queue and process it afterwards (just thinking out loud)
+
+00:52:39
+<transcript>: Publishers After This Navy hbs Solely for your workspace.
+
+00:52:42
+<transcript>: Short Description USAgent.
+
+00:52:42
+<transcript>: so
+
+00:52:45
+<transcript>: So this could work.
+
+00:52:52
+<transcript>: Yeah, I got you rugged bear that makes sense.
+
+00:52:56
+<transcript>: I just have to have a way to incorporate workflows.
+
+00:52:56
+<transcript>: so
+
+00:53:02
+<transcript>: So when it does the post, do I have any control over the payload? Because presumably.
+
+00:53:06
+<transcript>: I need let's see, interactivity.
+
+00:53:06
+<transcript>: workflow
+
+00:53:13
+<transcript>: Workflow? Am I in the workflow section? No. Automation. What? Wait. What.
+
+00:53:18
+<transcript>: Am I in? Yeah. Triggers. So if I had a webhook trigger.
+
+00:53:22
+<transcript>: If I had a webhook trigger.
+
+00:53:22
+<transcript>: what's the payload
+
+00:53:25
+<transcript>: What's the payload look like that I have to send to it.
+
+00:53:25
+<transcript>: here
+
+00:53:29
+<transcript>: Here we go. So triggers, header.
+
+00:53:29
+<transcript>: data
+
+00:53:31
+<transcript>: Data channel.
+
+00:53:31
+<transcript>: now
+
+00:53:34
+<transcript>: Now, what is the channel about.
+
+00:53:38
+<transcript>: What is the channel.
+
+00:53:42
+<transcript>: Oh, so it has inputs.
+
+00:53:48
+<transcript>: Like channel. So all I have to do is hit the endpoint and it'll trigger it.
+
+00:53:48
+<transcript>: it's just optionally
+
+00:53:48
+schrew: The postal service (remixed) and a (not so early) morning stream, name a more iconic duo
+
+00:53:50
+<transcript>: It's just optionally. I provide.
+
+00:53:50
+<transcript>: some data
+
+00:53:56
+<transcript>: Some data. I do need some data. Oh, just a channel. We're doing this. Okay.
+
+00:53:58
+<transcript>: Seems kind of.
+
+00:54:02
+<transcript>: The Postal Service remix and a not so early morning stream.
+
+00:54:04
+techleed: when would this app be useful? i cant think of a summarize utility in my work slack
+
+00:54:23
+<transcript>: That was a good one. True. That was a good long play joke. People that missed the beginning. The first part of that joke. He just missed out tech lead. When would this app be useful? I can't think of a summerized utility in my work flack. The idea is like the only time I use slack was it a very big organization? I say, very big.
+
+00:54:23
+<transcript>: there's like one hundred and
+
+00:54:26
+<transcript>: There's like 150 engineers, maybe 300 people in the company.
+
+00:54:26
+<transcript>: and
+
+00:54:41
+<transcript>: And there were slack channels where there's just a lot going on, but I can't stay on top of it. The idea of this would just be to get like a little digest, like a two, three cent summary of the goings on in a channel or a thread in a given day. I don't know if anyone would use it, but.
+
+00:54:48
+<transcript>: No. I mean, it would simplify my life. That's the whole point of this exercise, to make a slack out, that would simplify my life. And this would do that.
+
+00:54:50
+<transcript>: If anyone asks.
+
+00:54:59
+<transcript>: Okay, so we're going to add a trigger. It's not what I want. We're going to add a webhook trigger.
+
+00:54:59
+techleed: oh cool, yeah id use that. my slack is over 10k engineers
+
+00:55:05
+<transcript>: And then we're going to add a slash command. Now, where do I add slash commands.
+
+00:55:05
+<transcript>: when to enable
+
+00:55:07
+<transcript>: When to enable slash commands.
+
+00:55:07
+<transcript>: installed
+
+00:55:10
+<transcript>: Installed in your workspace as a single Workspace app.
+
+00:55:14
+<transcript>: So how do I create.
+
+00:55:14
+<transcript>: a
+
+00:55:18
+<transcript>: A slash command. Oh, create your slack app, so it'll be a separate slack app.
+
+00:55:23
+msmazaya: HI ADAM
+
+00:55:25
+techleed: i want to keep tabs on some channels but i can't read them all every day
+
+00:55:26
+<transcript>: Can I put it in this slack app if you don't already have a slack app following button, I think I can put it in this one.
+
+00:55:31
+<transcript>: App management and then add slash commands feature in the navigation Yes.
+
+00:55:34
+<transcript>: That's what we're going to do.
+
+00:55:39
+<transcript>: We're going to go to Apps Management dashboard.
+
+00:55:43
+<transcript>: So I can just add a slash command here. Maybe.
+
+00:55:43
+<transcript>: so here
+
+00:55:48
+<transcript>: So here's my app. Oh, I can't. I have to manage it with the cli.
+
+00:55:48
+<transcript>: sl
+
+00:55:51
+<transcript>: Slack cli add.
+
+00:55:51
+<transcript>: slash
+
+00:55:53
+<transcript>: Slash command.
+
+00:56:00
+<transcript>: Was that in here.
+
+00:56:00
+<transcript>: did i just
+
+00:56:01
+<transcript>: Did I just.
+
+00:56:06
+<transcript>: No.
+
+00:56:11
+<transcript>: I need to create it with the cli. I need to do it with cli.
+
+00:56:16
+<transcript>: Legacy commands.
+
+00:56:16
+techleed: do you use chatgpt?
+
+00:56:18
+theruggedbear: there was slack CLI in the sidebar
+
+00:56:23
+<transcript>: Hey, Ms.
+
+00:56:23
+<transcript>: msia
+
+00:56:24
+<transcript>: Msia.
+
+00:56:32
+<transcript>: Yeah, I'd use that. My slacks are 10,000 users, 10,000 engineers. I'm going to keep tabs on some channels, but I can't read them all every day. There you go.
+
+00:56:32
+<transcript>: instead of chad g
+
+00:56:35
+<transcript>: Instead of Chad gpt I'm using Amazon bedrock.
+
+00:56:35
+<transcript>: there was
+
+00:56:39
+<transcript>: There was flax cli in the sidebar. Did I miss it.
+
+00:56:43
+<transcript>: Over here.
+
+00:56:43
+<transcript>: or over
+
+00:56:46
+theruggedbear: left one, sorry
+
+00:56:47
+<transcript>: Or over here? Oh, yeah, it's over here.
+
+00:56:49
+<transcript>: Commands. Let's see.
+
+00:56:51
+<transcript>: Commands.
+
+00:57:00
+<transcript>: App.
+
+00:57:00
+<transcript>: de
+
+00:57:03
+<transcript>: Delete install list.
+
+00:57:07
+<transcript>: Let's just search, slash.
+
+00:57:07
+<transcript>: no
+
+00:57:08
+<transcript>: No.
+
+00:57:08
+<transcript>: i got so excited
+
+00:57:14
+<transcript>: I got so excited. I really got to get this done. Is this going to work? Is it going to work.
+
+00:57:17
+<transcript>: is it going to work can i do
+
+00:57:29
+koamb: is there any reason to use bedrock over chatgpt, i may be  cheaper for sure right
+
+00:58:20
+techleed: @TECHLEED i meant for writing the app, why not use chatgpt to figure out slashcommands and cli and stuff
+
+00:59:29
+schrew: I just realized that since adam is now a nvim main, we don't have to see that whack vscode cursive font anymore
+
+01:02:43
+schrew: I've been having too much fun the last 30 minutes https://bingobaker.com/view/6542054
+
+01:03:38
+warrenbuffering: TWO DAYS IN A ROW??
+
+01:03:51
+theruggedbear: @warrenbuffering I KNOW, RIGHT?
+
+01:05:52
+techleed: lmao
+
+01:08:20
+2dorkstv: Adam! Good to see you back :D
+
+01:08:31
+techleed: did yhou get your adam.dev sign on etsy
+
+01:08:48
+ben_winnen: slurp
+
+01:10:46
+warrenbuffering: my name is now kjfedgrnfvytttapdt
+
+01:11:37
+thdxr: @adamdotdev looks like a base analyzer issue
+
+01:11:39
+naxodev: Twitch notifications are the worst
+
+01:11:59
+thdxr: ?
+
+01:12:01
+thdxr: huh
+
+01:12:06
+naxodev: yeah
+
+01:12:17
+thdxr: adam’s so paranoid lmao
+
+01:12:19
+pbertrand_dev: i tried to warn u
+
+01:12:24
+thdxr: we messed with him too much
+
+01:12:28
+techleed: !headphones
+
+01:12:33
+techleed: what are those cans
+
+01:13:19
+naxodev: @aj_stuyvenberg lol
+
+01:14:05
+opti_21: Omg you’re live
+
+01:14:10
+techleed: the keyboard link in your bio is 404, can you fix it?
+
+01:14:55
+thdxr: cans = headphones
+
+01:15:00
+opti_21: ^
+
+01:15:21
+opti_21: Sweet haircut
+
+01:15:32
+pbertrand_dev: yeah nice cans adam
+
+01:15:44
+opti_21: LUL
+
+01:16:01
+koamb: Adam, could you please a little bit more about bedrock, first time i hear about it. Did you povide the model, have you trained it, how it is going???
+
+01:16:34
+thdxr: @koamb no it's pretty basic just like openai
+
+01:16:38
+thdxr: pre-existing models you can call
+
+01:17:05
+thdxr: using slack workflows seems a lot harder than the app i just made
+
+01:17:17
+thdxr: most of the config was done in slack ui
+
+01:17:23
+thdxr: and i just used slack's npm package to talk to slack
+
+01:17:32
+opti_21: Oh new drama, AI bros complaining about vercel “copying” their ideas
+
+01:17:40
+pbertrand_dev: I tried to use that shortcut link in my slack but it didnt work
+
+01:18:24
+pbertrand_dev: @opti_21 dannypostma?
+
+01:18:56
+koamb: @thdxr true hahah
+
+01:19:06
+koamb: @thdxr thanks
+
+01:19:23
+opti_21: @pbertrand_dev nico_jeannen
+
+01:20:00
+pbertrand_dev: ah I see
+
+01:20:24
+pbertrand_dev: I used dannypostmas tool to create a headshot, use it on upwork now. Win a lot more proposals now lol
+
+01:21:19
+opti_21: Oh sweet haha
+
+01:21:58
+opti_21: I mean it’s not even vercel, it’s a template for Leap AI
+
+01:24:56
+aj_stuyvenberg: oh dang nice logo
+
+01:26:26
+aj_stuyvenberg: @thdxr think he's gonna be done in time to record today or nah?
+
+01:26:43
+thdxr: we recorded yesterday
+
+01:26:53
+thdxr: adam did you make a logo
+
+01:27:12
+thdxr: show me
+
+01:27:17
+aj_stuyvenberg: f
+
+01:27:18
+thdxr: LOL
+
+01:27:23
+aj_stuyvenberg: emoji trigger is no good?
+
+01:27:50
+aj_stuyvenberg: oh no we use that for our product lmao
+
+01:28:27
+thdxr: adam wants it to be private
+
+01:28:32
+aj_stuyvenberg: ah makes sense.
+
+01:28:38
+kailondo: it izzz what it izz 🤷
+
+01:29:05
+kailondo: aamishHello awcHelloHello
+
+01:30:46
+cowfacedev: well, we move the goalpost as we like.. Your product manager is going to be angry LUL
+
+01:34:50
+kailondo: Everything is aa Leg eye see
+
+01:35:31
+karunkamal: Can you please reiterate the problem you are solving right now! :-)
+
+01:35:49
+kailondo: bedrock is the AWS ML platform?
+
+01:39:39
+m2devdotnet: How many tabs you got man? lol
+
+01:39:50
+aj_stuyvenberg: @KaiLondo Yeah, it lets you run a bunch of models with the same api call
+
+01:49:24
+chevywood_: !screen
+
+01:49:30
+chevywood_: !monitor
+
+01:50:04
+karunkamal: we need a tldr for slack developers website :-D
+
+01:50:17
+chevywood_: Aha apple display :D
+
+01:54:24
+thdxr: give up
+
+01:55:13
+ahmedgaber1588: lovely
+
+01:57:55
+m2devdotnet: count the number of messages in the response and compare it
+
+01:59:21
+m2devdotnet: if you're doing a mention now instead of a slash command, i bet you could do that in the thread too
+
+02:01:21
+m2devdotnet: (that first message was for troubleshooting the date filtering)
+
+02:04:11
+notorioussledge: Hey Adam, since you are an amazonian hero, perhaps you can assist me with the answer to an age old riddle... How do I spell AWS?
+
+02:04:44
+thdxr: i forgot adam was a hero
+
+02:04:46
+thdxr: L O L
+
+02:04:59
+aj_stuyvenberg: @thdxr feelsbadman
+
+02:05:01
+m2devdotnet: i wanna be an AWS Hero
+
+02:05:14
+aj_stuyvenberg: @m2devdotnet applications are open on twitter, gotta make the best memes
+
+02:05:21
+schrew: dotnet in the name? Barred from being an AWS Hero
+
+02:06:15
+notorioussledge: @thdxr Do you even stream anymore, I never see you online? :(
+
+02:07:39
+m2devdotnet: @Schrew sorry you feel that way. I have built a lot of .NET on AWS...
+
+02:07:41
+thdxr: i haven't in a while :(
+
+02:07:43
+thdxr: been too busy
+
+02:08:04
+nani_964: OH UR THE PHP || JS GUY
+
+02:08:29
+ocelot2123: holy shit adam is streaming
+
+02:08:38
+nefine_: The laravel guy tsodinPog
+
+02:08:38
+nani_964: it that vim or sublim text editor
+
+02:08:53
+tysoon: Hello, can I promote my new web tool here?
+
+02:09:04
+nani_964: !keyboard
+
+02:09:04
+fossabot: Adam uses a custom Mode Eighty mechanical keyboard, and has a collection of other Mode keyboards!
+
+02:10:25
+notorioussledge: @thdxr I understand, hopefully I will catch it next time
+
+02:10:40
+notorioussledge: Last time I was here Adam doing PHP was just a meme
+
+02:15:56
+karunkamal: awesome
+
+02:17:32
+aiden: Sir you’re supposed to be using a real editor like IntelliJ
+
+02:18:35
+m2devdotnet: are you hosting the API in Lambda?
+
+02:18:35
+hambonemcglone: "Only include the summary in your response"
+
+02:18:59
+aiden: Nah I’m going
+
+02:19:21
+aiden: Yeah I’m in there
+
+02:19:22
+m2devdotnet: Nice. How are you exposing the lambda then in this case?
+
+02:19:40
+aiden: I can’t wait to tell trash that he’s short IRL
+
+02:20:12
+m2devdotnet: have it reply to that as a thread
+
+02:23:09
+aiden: You have the new slack UI, my condolences
+
+02:23:43
+aiden: I think workflows are nice
+
+02:24:10
+aiden: Whenever I just need a webhook to dump some shit in a channel I use a workflow
+
+02:29:14
+hambonemcglone: MORE TOOLS
+
+02:29:43
+hambonemcglone: Sorry, I'm not trying to be helpful
+
+02:30:51
+hambonemcglone: logs ahoy
+
+02:33:34
+haliphax: working, yes
+
+02:33:44
+mbp_ii: Just came back from nasa launch
+
+02:33:45
+hambonemcglone: I'm also working @ 50%
+
+02:33:46
+kalo0m: that's totally what I'm doing ahah
+
+02:33:52
+m2devdotnet: I like your background
+
+02:33:53
+kalo0m: you're my background sound
+
+02:33:56
+m2devdotnet: :P
+
+02:34:04
+mbp_ii: watching
+
+02:34:12
+johnburd1: Hi from Branson
+
+02:34:15
+haliphax: I use Twitch dev streams for body doubling, spurs me to actually work LUL
+
+02:34:25
+hicat_pl: yeap working and listening sometimes looking on your screen when you telling something about your code
+
+02:34:26
+haliphax: hi from Columbia (ish)
+
+02:34:48
+hicat_pl: greetings from Poland ;)
+
+02:34:54
+haliphax: yep
+
+02:34:59
+johnburd1: Yes lol
+
+02:35:03
+johnburd1: I'm from Mtn. Grove
+
+02:35:35
+haliphax: grew up in Columbia, have lived in Columbia, Fayette, and Moberly
+
+02:35:46
+johnburd1: No class o f2015
+
+02:35:52
+haliphax: LUL
+
+02:35:58
+haliphax: "yes. no."
+
+02:36:05
+thdxr: my sister lives in moberly too!
+
+02:36:07
+johnburd1: No I'm 27
+
+02:36:26
+thdxr: she does and she lives in moberly!
+
+02:36:45
+thdxr: i accidentally deleted my LUT file
+
+02:36:47
+thdxr: been dull af lately
+
+17:15:45
+<transcript>: Check, one, two, check, check.

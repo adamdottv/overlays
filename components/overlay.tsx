@@ -7,16 +7,18 @@ export const Overlay: React.FC<PropsWithChildren<ComponentProps<"div">>> = ({
   ...props
 }) => {
   return (
-    <div
-      className={cn({
-        "relative h-[1080px] w-[1920px]": true,
-        [className]: className,
-      })}
-      {...props}
-    >
-      <div className="absolute inset-0 -z-10 bg-black/75" />
-      <Lines className="absolute inset-0 stroke-current text-white opacity-[15%]" />
-      {children}
+    <div className="origin-top-left scale-[200%] transform">
+      <div
+        className={cn({
+          "relative h-[1080px] w-[1920px]": true,
+          [className]: className,
+        })}
+        {...props}
+      >
+        <div className="absolute inset-0 -z-10 bg-black/75" />
+        <Lines className="absolute inset-0 stroke-current text-white opacity-[15%]" />
+        {children}
+      </div>
     </div>
   )
 }

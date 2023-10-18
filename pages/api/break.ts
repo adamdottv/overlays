@@ -1,13 +1,13 @@
 import type { NextApiRequest } from "next"
 import { CustomNextApiResponse } from "../../lib"
-import { goToPose } from "../../lib/edelkrone"
+import { fadeOut } from "../../lib/spotify"
 
 export default async function handler(
   _req: NextApiRequest,
   res: CustomNextApiResponse
 ) {
   try {
-    // await goToPose(0)
+    fadeOut()
     await res.server.obs.transition("Break")
   } catch (error) {
     console.error(error)

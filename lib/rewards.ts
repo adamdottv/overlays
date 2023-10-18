@@ -13,6 +13,11 @@ export interface RewardBase {
   prompt?: string
 }
 
+export interface CustomReward extends RewardBase {
+  type: "custom"
+  name: string
+}
+
 export interface GiveawayEntryReward extends RewardBase {
   type: "giveaway-entry"
 }
@@ -37,5 +42,6 @@ export type Reward =
   | ShellScriptReward
   | GiveawayEntryReward
   | MeetingReward
+  | CustomReward
 
 export const defaultSnapFilterDuration = 5 * 60 * 1000

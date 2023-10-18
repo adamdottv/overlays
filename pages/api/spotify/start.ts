@@ -1,22 +1,13 @@
 import type { NextApiRequest } from "next"
+import { fadeIn } from "../../../lib/spotify"
 import { CustomNextApiResponse } from "../../../lib"
 
-interface Request {
-  zoomIn: boolean
-}
-
 export default async function handler(
-  req: NextApiRequest,
+  _req: NextApiRequest,
   res: CustomNextApiResponse
 ) {
-  const { zoomIn } = req.query as unknown as Request
-
   try {
-    if (zoomIn) {
-      await res.server.obs.zoomIn()
-    } else {
-      await res.server.obs.zoomOut()
-    }
+    await fadeIn()
   } catch (error) {
     console.error(error)
     res.status(500).end()

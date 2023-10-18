@@ -1,4 +1,5 @@
 import fetch from "isomorphic-unfetch"
+import { spawn } from "node:child_process"
 import querystring from "querystring"
 
 const client_id = process.env.SPOTIFY_CLIENT_ID
@@ -33,4 +34,12 @@ export const getNowPlaying = async () => {
       Authorization: `Bearer ${access_token}`,
     },
   })
+}
+
+export const fadeIn = async () => {
+  spawn("bash", ["./scripts/spotify-fade-in.sh"])
+}
+
+export const fadeOut = async () => {
+  spawn("bash", ["./scripts/spotify-fade-out.sh"])
 }

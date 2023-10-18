@@ -1,0 +1,5701 @@
+
+
+00:00:21
+nefine_: :O
+
+00:00:46
+nullchefo: HeyGuys
+
+00:00:51
+derzemba: Adam FeelsGoodMan
+
+00:01:26
+dmdboi: Is this Moe's Tavern? Im looking for Amanda Hugandkis
+
+00:02:49
+nefine_: PHP :O
+
+00:03:02
+sj_se: yoyo
+
+00:03:05
+alexkates: adamdevDealWithIt
+
+00:03:08
+rodneypk: PHP is good?
+
+00:03:19
+rodneypk: Good morning
+
+00:04:33
+teej_dv: CAN BE PLEASE STOP POSTING ON TWITTER FIVE MINUTES BEFORE HE STARTS IT MAKES ME CRY EVERY TIME
+
+00:05:29
+thdxr: guys look
+
+00:05:32
+thdxr: https://twitter.com/thdxr/status/1656631567706365953?s=46
+
+00:06:09
+totole654: Oh Laravel. are you going to use livewire?
+
+00:07:32
+cazcik: damn we got arcangel in the house @thdxr
+
+00:08:01
+julianfbeck: thats the wii sport sound effect?
+
+00:08:27
+julianfbeck: @thdxr love your hat :P
+
+00:09:05
+cazcik: "arcangel is here" *in Adam voice*
+
+00:09:07
+laame: Is he going for Lambo?
+
+00:09:17
+ry4nch0id: Hi chat . I think I just got hired for an as400 position lol
+
+00:10:11
+goodgrandpaa: @thdxr Was it paint on tattoos then?! Kappa
+
+00:10:28
+dmmulroy: Gm y'all
+
+00:10:31
+aj_stuyvenberg: helllooooooo
+
+00:10:39
+goodgrandpaa: Good morning everyone!
+
+00:11:08
+dodolkecik: HeyGuys HeyGuys
+
+00:11:20
+<transcript>: Let's go, let's go.
+
+00:11:24
+dmmulroy: @thdxr i died reading your tweet on log rocket paying seo blog spammers lol
+
+00:11:27
+msmazaya: ADAM TEACH ME PHP, SHOW ME THE WAY
+
+00:11:30
+<transcript>: I'm going to play music. I'm going to hit the music. Just going to start with music out of Bound music. Maybe that's what made me think of it. Thank you so much for the follow out of ben's music.
+
+00:11:30
+<transcript>: and
+
+00:11:35
+<transcript>: And everyone can thank you that we're listening to music now, and not just my dumb voice.
+
+00:11:46
+<transcript>: Daniel grep. Thanks for redeeming. That macbook reward. Anybody win while I was out, I haven't been paying attention. Nobody won the macbook, right.
+
+00:11:48
+thdxr: adam your hair is TOO tall now
+
+00:11:49
+goodgrandpaa: We all did Kappa
+
+00:11:50
+charafmrah: Bonjour
+
+00:11:51
+<transcript>: Who is here? Who's here? Who's here? Dex is here. I'm just scrolling up.
+
+00:11:51
+<transcript>: naf
+
+00:11:56
+<transcript>: Nafine with a shocked face? Are you shocked that I'm streaming.
+
+00:11:58
+foobarqix: hi, will you really do php?
+
+00:12:01
+<transcript>: I've not been streaming as much. It's the elephant in the room. Let's get it out there.
+
+00:12:03
+thdxr: @dmmulroy lol i’m glad everyone knows what i’m talking about
+
+00:12:04
+caasidev: heyup @adamdotdev
+
+00:12:05
+outofbounds_music: 🎶🎵🎶🎵🎶
+
+00:12:05
+foobarqix: nice hair cut
+
+00:12:06
+william_jacob: Heyy
+
+00:12:06
+aj_stuyvenberg: hair looks great adam, don't get mad at dax
+
+00:12:07
+fransverwoester: hello adamdotdev!!!
+
+00:12:17
+<transcript>: I've been filming a lot of YouTube videos. I'm going to be releasing two YouTube videos a week for the rest of the year. That's my commitment to you all. I guess that doesn't really help you all. You don't care. You just want to watch me stream, but I'm doing it.
+
+00:12:17
+<transcript>: two week
+
+00:12:23
+<transcript>: Two week, I recorded one this morning, even. And then I started streaming. That's a big step for me because.
+
+00:12:23
+<transcript>: normally
+
+00:12:28
+<transcript>: Normally I either do YouTube or I stream in a day. I can't seem to do both today. Did both.
+
+00:12:28
+<transcript>: all it takes is
+
+00:12:33
+<transcript>: All it takes is hiring an editor. I can down, just send my videos to Flip and know that.
+
+00:12:33
+<transcript>: they'll be edited
+
+00:12:35
+<transcript>: They'll be edited.
+
+00:12:35
+<transcript>: feels good
+
+00:12:36
+<transcript>: Feels good.
+
+00:12:36
+<transcript>: but yeah
+
+00:12:44
+<transcript>: But, yeah, I'm going to be doing two, and we're doing two episodes of our podcast a week. We're going to record one today, doing lots of things. I'm becoming a full time content creator.
+
+00:12:44
+<transcript>: except nobody
+
+00:12:50
+<transcript>: Except nobody pays me to do it and I'll never make any money from it otherwise full time.
+
+00:12:54
+<transcript>: Who else is here? Noel? Chef. O's, here durzimba.
+
+00:12:54
+<transcript>: diamond
+
+00:12:57
+delvoid: pretending to be busy Kappa
+
+00:12:59
+<transcript>: Diamond is here. Is this most savvy? I'm looking for Amanda hugging kiss.
+
+00:13:05
+<transcript>: The Simpsons. That's back when I used to know something about pop culture. Was The Simpsons.
+
+00:13:05
+dmdboi: Gottem
+
+00:13:07
+julianfbeck: I really enjoy your podcast, i think you need to promote it more! :P
+
+00:13:15
+msmazaya: I was going to learn OCaml because of @teej_dv but I guess it wont grant me lambo as fast as php and laravel 🤔🤔
+
+00:13:16
+<transcript>: Php. Nefine. Yes. We're going to do some PHP today. I'm so excited. I'm irrationally excited. Sj's here. Alex is here.
+
+00:13:16
+<transcript>: rodney
+
+00:13:17
+cmjio: Afternoon (or morning your local)
+
+00:13:19
+<transcript>: Rodney. Php is good. Good morning, it is good.
+
+00:13:29
+caiocodes: hi adam! good morning/afternoon
+
+00:13:31
+<transcript>: Tej on vacation. Please stop posting on Twitter five minutes before he starts. It makes me cry every time. Why does it make you cry? Why is it you mean like you come? And then there's a waiting screen and that bums you out because I get that.
+
+00:13:34
+airtonzanon: PHP is Good, but why laravel? D:
+
+00:13:36
+<transcript>: Dax, is that the Tweet? Is that the one with the guy from Red Bull.
+
+00:13:51
+<transcript>: Totos here. Laravel, are you going to use liveware? Yes, I believe we will be using livewire. I'm just not ready to jump back into the javascript frameworks. I know inertia is good. From what I hear, good.
+
+00:13:56
+<transcript>: But my goal is not to use nextjs again or react or view or anything.
+
+00:13:56
+<transcript>: i just want to
+
+00:13:58
+<transcript>: I just want to.
+
+00:13:58
+<transcript>: write
+
+00:14:01
+outofbounds_music: Found out you also stream through your YouTube videos and went to look up your Twitch just when you were starting the stream Perfect timing haha
+
+00:14:07
+<transcript>: Write this side project does not require a lot of client side interactivity a little bit, not a lot. I think it's good for liveware. We'll talk about it.
+
+00:14:11
+<transcript>: Kazakh got Archangel in the house. Archangel.
+
+00:14:11
+<transcript>: who
+
+00:14:14
+<transcript>: Who's? Archangel.
+
+00:14:17
+<transcript>: Archangel.
+
+00:14:19
+msmazaya: Isnt it the other way around?@airtonzanon
+
+00:14:21
+<transcript>: I got to thank everybody else that followed me dead by eol.
+
+00:14:26
+<transcript>: Wacko wookie graphicart.
+
+00:14:26
+<transcript>: lita
+
+00:14:31
+<transcript>: Lita Swoot oh type error thank you for the follow just now all the other people thank you for the follow.
+
+00:14:32
+<transcript>: follows
+
+00:14:32
+<transcript>: follows seventeen hours
+
+00:14:37
+unrulyhotfixer: TALL stack?
+
+00:14:39
+<transcript>: Follows. 17 hours ago. 4 hours ago. I don't know what was going on that you decided to follow me Saturday morning, 10:00 a.m.. That one's cool.
+
+00:14:39
+<transcript>: polar c
+
+00:14:44
+airtonzanon: @msmazaya unfortunately not haha
+
+00:14:48
+<transcript>: Polar Cubs, tobacco. I don't know why I do this. I don't think you people are even here. I don't think the people that followed me last night are even here.
+
+00:14:51
+<transcript>: France Verwaster, thank you for the follow.
+
+00:14:53
+<transcript>: This very minute.
+
+00:14:56
+<transcript>: So we're going to be working on a side project today.
+
+00:14:58
+rodneypk: I haven't used PHP since the 5.x days.
+
+00:15:03
+<transcript>: And I have too many things going on, but I'm working on a side project. I literally recorded a video on for YouTube this morning.
+
+00:15:03
+<transcript>: that's going to be titled
+
+00:15:07
+<transcript>: That's going to be titled something like Don't Start Side projects.
+
+00:15:21
+<transcript>: It's so funny how this stuff it comes in waves, like topics become like, they the reason I want to record a video about all my mistakes with side projects is that I have a new side project. And it's like, I have to talk about this.
+
+00:15:21
+<transcript>: crispian
+
+00:15:24
+<transcript>: Crispian, and William, and.
+
+00:15:24
+<transcript>: lewis
+
+00:15:25
+dmmulroy: can someone tell me if this link is down, can't tell if my work vpn is being wonky or not: https://v3.ocaml.org/p/base/v0.15.0/doc/index.html
+
+00:15:39
+dmmulroy: (I write ocaml, btw)
+
+00:15:40
+<transcript>: Lewis, thank you for the follows. So we're going to work on a little side project. It's something I need because I have too much going on. And this side project is just for me and dax, it's just the thing that's going to help us manage our podcast marketing. We're going to automate some stuff.
+
+00:15:40
+<transcript>: that's
+
+00:15:43
+<transcript>: That's too much time investment at the moment.
+
+00:15:47
+<transcript>: So, yeah, we're going to work on it. It's going to be built in laravel.
+
+00:15:47
+<transcript>: i'm going to need
+
+00:15:53
+rodneypk: Blank page for me.
+
+00:15:57
+dmmulroy: ty
+
+00:15:58
+thdxr: if it’s automated why does it need a UI
+
+00:15:58
+<transcript>: I'm going to need you find people who probably know laravel in my chat to help me go faster because that's what happens when you stream on twitch. People help you go faster because they know how to use the thing more than you do.
+
+00:16:00
+thdxr: HMMM?
+
+00:16:05
+<transcript>: That's the wii Sport sound effect? No, Julian, julian's. Here. It's not.
+
+00:16:05
+<transcript>: all of the sound
+
+00:16:09
+fransverwoester: always ready to help!
+
+00:16:13
+<transcript>: All of the sound effects on the stream are from breakmaster cylinder and all the music. I mean, not the music we're listening to right now, but all of the theme music.
+
+00:16:13
+<transcript>: during break
+
+00:16:26
+<transcript>: During breaks and stuff. Love my hat. Oh, yeah. Dex is sweet. Archangel is here. Who's Archangel? Kassick. Who's that? I didn't see Archangel. Lame. Is he going for a lambo? Yeah.
+
+00:16:35
+<transcript>: Funny. If they made an electric Lambo, I would probably buy a Lambo just for the memes. Like, literally. Just so I could be like.
+
+00:16:40
+<transcript>: Lambo started using php. Look at it in my garage.
+
+00:16:40
+<transcript>: i mean
+
+00:16:45
+<transcript>: I mean, I wouldn't do it just for the memes. I would do it because it'd be really cool to have an electric Lambo.
+
+00:16:49
+thdxr: arcangel is hereeee
+
+00:16:53
+aj_stuyvenberg: the ideal family vehicle
+
+00:17:02
+<transcript>: We've driven electric. This is going to sound so pretentious. We've driven electric for ten years, just like we've been plant based for ten years. So I know think at this point, we're driving a car that we have to go to the gas station. I just can't imagine pulling up to a gas station in the ozarks, in a Lambo.
+
+00:17:05
+<transcript>: What would that be like.
+
+00:17:06
+caiocodes: @danielhe4rt at twitch is a great php dev, he is now a devRel at ScyllaDB
+
+00:17:11
+sockthedev: do your neighbours find you insufferable?
+
+00:17:13
+<transcript>: I wonder if Taylor goes to gas stations or does he buy gasoline in bulk and have it shipped to him or something? I just can't imagine.
+
+00:17:13
+<transcript>: he lives
+
+00:17:17
+unrulyhotfixer: the revuelto is electric i think
+
+00:17:18
+<transcript>: He lives in the midwest like I do can't imagine rolling up to one of these.
+
+00:17:18
+<transcript>: like
+
+00:17:21
+<transcript>: Like conicas in your Lambo anyway.
+
+00:17:29
+<transcript>: Ryan Child is here. Choid is here. Hi, Chat. I think I just got hired for an as 400 position. What is that.
+
+00:17:29
+<transcript>: what is
+
+00:17:35
+modestasv: @unrulyhotfixer hybrid :)
+
+00:17:37
+<transcript>: What is as? 400. Okay, I got to catch up. Good morning, Diamolroy. Aj's. Here. Good grandpa's. Here.
+
+00:17:37
+<transcript>: good morning
+
+00:17:41
+<transcript>: Good morning, Everyone. Dodo is here. Okay, I'm way behind.
+
+00:17:41
+<transcript>: am i way behind
+
+00:17:41
+msmazaya: I want to start building product full time, give me a good tips? 👀
+
+00:17:44
+<transcript>: Am I way behind or just a little behind.
+
+00:17:44
+<transcript>: let's see
+
+00:17:45
+megos97: PHP is like the Johnson & Johnson vaccine. can't complain, it works
+
+00:17:47
+<transcript>: Let's see, France. Welcome to Chat. Hello.
+
+00:17:53
+unrulyhotfixer: @ModestasV ok. thanks
+
+00:17:56
+<transcript>: Hello, friends. Hair looks great. Don't get mad at X. I'm not going to I'm just. I'm rocking it. I'm just going with the uphair it's up.
+
+00:17:58
+<transcript>: I'm not even ashamed.
+
+00:18:00
+<transcript>: Cassie's, here.
+
+00:18:00
+<transcript>: fub
+
+00:18:15
+<transcript>: Fubar is here. Will you really do php I really will. We're going to get to work here pretty quick. Chara's here. Adam, your hair is too tall now. It really is too long. It is. I don't care what you say though. Adam, teach me PHP. Show me the way. I'm hoping you're going to teach me PHP but we'll try.
+
+00:18:15
+<transcript>: i
+
+00:18:21
+<transcript>: I died reading your Tweet on log, rocket ping, seal blocks all that too.
+
+00:18:21
+<transcript>: doj
+
+00:18:24
+<transcript>: Doj Maru haru. Thank you for the follow.
+
+00:18:26
+<transcript>: Okay.
+
+00:18:34
+<transcript>: Scrolling out of bands? Music? Welcome to Chat. Got some music notes? I love it.
+
+00:18:40
+<transcript>: Okay. Nice haircut. Thanks, William. Jacob. Welcome to Chat. Hey.
+
+00:18:55
+<transcript>: Okay. Pretending to be busy. That's what we're all doing, isn't it? Got him? Who got me? I really enjoy your podcast. I think you need a proponent. More. Yeah, Julian, we're going to in fact, the side project we're going to work on on this stream. Is that going to help us promote the.
+
+00:18:55
+<transcript>: podcast
+
+00:19:03
+lilfreezi: theres that dev that people call adam but i call good lookin
+
+00:19:04
+<transcript>: Podcast that we're going to record right after this stream on dax's stream. Just a bunch of what you want is happening right now. I was going to learn ocaml because of tease, but I guess it won't grant me.
+
+00:19:04
+<transcript>: a lambo
+
+00:19:13
+<transcript>: A Lambo as fast as php in larryville no ocammel and htmx. I'm still excited about that, by the way, tj, if you're still here, I'm still very excited.
+
+00:19:13
+<transcript>: the laravel
+
+00:19:20
+<transcript>: The laravel did not. There's plenty of love to go around. It just multiplies. But love multiplies. It doesn't subtract.
+
+00:19:20
+<transcript>: okay
+
+00:19:25
+<transcript>: Okay, my interest in other technologies just makes me more interested in other technologies.
+
+00:19:25
+<transcript>: afternoon
+
+00:19:26
+<transcript>: Afternoon.
+
+00:19:26
+<transcript>: cmj
+
+00:19:29
+<transcript>: Cmj. Good morning. Good afternoon.
+
+00:19:29
+<transcript>: good
+
+00:19:37
+<transcript>: Good. Whatever. Most of you you're all in Europe, right? This is a bunch of people in Southeast Asia, Europe, India.
+
+00:19:42
+<transcript>: Where else do we get people? Australia? Sometimes when I stream early, I guess it's not that early.
+
+00:19:44
+goodgrandpaa: Ohio. US LUL
+
+00:19:47
+insanitylater: Mass!
+
+00:19:50
+dmmulroy: #eastCoastGang
+
+00:20:01
+<transcript>: Hello, Chow codes. Good morning, afternoon, airton. Welcome to Chat. Php is good, but why laravel? If I'm going to write PHP, it's going to be larabel. Like, if you're going to write PHP, might as well be in the really productive framework known as laravel. Right.
+
+00:20:02
+lkfen: africa too
+
+00:20:06
+charafmrah: #IstanbulGang
+
+00:20:12
+<transcript>: Can't imagine why I wouldn't. If you're going to watch a twitch streamer, you might as well watch one that you might win a macbook right. If you're going to write php, you might as well.
+
+00:20:12
+<transcript>: write larave
+
+00:20:12
+dmdboi: @sockthedev what neighbours? He bought the surrounding plots LUL
+
+00:20:15
+<transcript>: Write laravel, and have a chance at a Lambo.
+
+00:20:15
+<transcript>: found out
+
+00:20:26
+<transcript>: Found out you also stream through your YouTube videos and when to look up your Twitch just when you're starting the stream. Perfect timing. I love that that's happened before. I think I love that. That's so cool. Like, oh, this person has a Twitch, and then they just went live.
+
+00:20:34
+tayloreddev: There are better choices for PHP imo
+
+00:20:37
+<transcript>: It makes sense. Some people find me and I'm not streaming that's the people that are 18 hours ago they followed me and I don't know if they'll ever see me because they may not watch twitch when I'm on.
+
+00:20:42
+julianfbeck: i know that your startup is in phoenix but have you played with phoenix and liveview yet?
+
+00:20:43
+<transcript>: Okay, tall stack. What's the tall stack? I don't even know what that is.
+
+00:20:43
+<transcript>: who else
+
+00:20:54
+<transcript>: Who else is here? Rodney I haven't used php since the five X days. I hear it's gone into bigger numbers. I don't remember exactly type error. Thank you so much for the prime sub.
+
+00:20:54
+<transcript>: you're one prime
+
+00:20:57
+<transcript>: You're one prime sub and you gave it to me.
+
+00:20:57
+<transcript>: also
+
+00:21:02
+<transcript>: Also seko seek seku miku. Thank you for the follow.
+
+00:21:09
+unrulyhotfixer: tall stack is tailwind alpine laravel and livewire
+
+00:21:20
+<transcript>: Yeah. Is there like eight point something now? Php. What is it on? We'll find out we're all learning together here. Can someone tell me if this link is down? Can tell if my work vpn is being wonky or not. I'm guessing somebody checked that for him. Do I need to check it? If it's automated, why does it need a UI.
+
+00:21:20
+<transcript>: it might not need
+
+00:21:25
+<transcript>: It might not need a ui. It might just be some scripts. We'll write some PHP scripts.
+
+00:21:28
+aj_stuyvenberg: woah @insanitylater
+
+00:21:30
+<transcript>: Insanity thank you so much for the Five gift. Subs.
+
+00:21:30
+<transcript>: wow
+
+00:21:32
+goodgrandpaa: @insanitylater woah, hey thanks!
+
+00:21:34
+<transcript>: Wow, thank you so much also.
+
+00:21:34
+<transcript>: bolts not to
+
+00:21:39
+totole654: Thanks @insanitylater
+
+00:21:44
+<transcript>: Bolts not to be missed. Thank you for the follow. I really appreciate the follows. Just like I really appreciate gift subs. That's fantastic. Thank you so much. I really do appreciate that. Insanity.
+
+00:21:46
+insanitylater: No problem!
+
+00:21:46
+nefine_: ¡@insanitylater, thanks for the sub!
+
+00:21:49
+<transcript>: Text beer and roasted thank you for the follows. Is this because I'm doing PHP.
+
+00:21:49
+<transcript>: is php
+
+00:21:53
+<transcript>: Is PHP like pumping up my numbers? What's going on.
+
+00:22:02
+<transcript>: Just a lot of people doing things following and gift. Subs prime. Subs. Blank Page okay, so that link was not working.
+
+00:22:02
+barely_usable: you're on your way to a lambo
+
+00:22:05
+<transcript>: Always ready to help? Ooh, friends.
+
+00:22:08
+<transcript>: Is new around here.
+
+00:22:08
+<transcript>: france
+
+00:22:09
+<transcript>: France.
+
+00:22:09
+<transcript>: knows
+
+00:22:12
+<transcript>: Knows PHP Wait a minute.
+
+00:22:14
+<transcript>: That name.
+
+00:22:14
+<transcript>: that
+
+00:22:15
+aj_stuyvenberg: 121 php developers created twitch accounts to join the stream today.
+
+00:22:19
+<transcript>: That name franz, do you make videos about php about laravel.
+
+00:22:19
+<transcript>: trans
+
+00:22:20
+typeerror_: Spending PHP money for subs
+
+00:22:22
+<transcript>: Transverse.
+
+00:22:29
+<transcript>: Do you? Is this the name of a person I have seen now that I'm a new member of.
+
+00:22:30
+mattgoslow: Numbers going up more than your fringe!
+
+00:22:30
+robinmalfait: 👋
+
+00:22:31
+<transcript>: The.
+
+00:22:32
+thdxr: adam you have one hour lol
+
+00:22:34
+<transcript>: Van ver. What was it? Frank.
+
+00:22:41
+<transcript>: Archangel is here. Who's archangel? Why do you guys keep saying that? The idea of ideal family vehicle. Yeah, an electric.
+
+00:22:44
+<transcript>: Lambo.
+
+00:22:48
+<transcript>: Twitch is a great PHP dev. He is now Deverel.
+
+00:22:48
+<transcript>: sk
+
+00:22:49
+insanitylater: As long as it's not an orange Lambo. Yuckj
+
+00:22:52
+<transcript>: Skyla, Scala, skyla. That's not Scala.
+
+00:22:57
+m4tty_d: @thdxr he will be talking the whole time per usual
+
+00:22:57
+<transcript>: Do your neighbors find you insufferable sock? What? What did I do.
+
+00:23:13
+kelyje: why not ReactNext? because of Lambo? )))
+
+00:23:15
+<transcript>: Why am I insufferable? First message. Hybrid. Welcome to Chat modestas. A hybrid lambo. Yeah, we could do that. I want to start building project full time. Give me good tips. You want to start building product full time? That's what you want to do. What kind of product.
+
+00:23:15
+<transcript>: airton
+
+00:23:21
+<transcript>: Airton xanon thank you for the follow. Here's a tip. You could just do it. You won't make any money. But if you're in a situation.
+
+00:23:25
+thdxr: he still hasn’t acknowledged arcangel
+
+00:23:29
+<transcript>: Where you don't need money like you live with your parents or you're otherwise supported and you don't need an income.
+
+00:23:29
+<transcript>: then
+
+00:23:34
+<transcript>: Then you immediately just start doing it full time because nobody can stop you.
+
+00:23:34
+<transcript>: the
+
+00:23:39
+<transcript>: The trick is to find a way to have a sustainable situation.
+
+00:23:39
+<transcript>: where you can
+
+00:23:42
+<transcript>: Where you can chase your dream.
+
+00:23:44
+rodneypk: Poor arcangel.
+
+00:23:44
+<transcript>: For me.
+
+00:23:44
+<transcript>: it worked
+
+00:23:45
+donttickle: what's the side project? :O
+
+00:23:59
+<transcript>: It worked in a way where I just got paid to learn a lot. I got an early job where somebody trusted me as a new software developer, and I was able to do a lot of learning on the job. But that doesn't happen for everyone. So if there's other ways, if you can save up some money.
+
+00:23:59
+<transcript>: at
+
+00:24:03
+<transcript>: At a different job. I don't even know if that's what you're asking.
+
+00:24:04
+<transcript>: You might be like.
+
+00:24:04
+<transcript>: systems engineer
+
+00:24:14
+<transcript>: Systems engineer. And you're like, how do I move into a product role? And then I feel like an idiot. But I just went into that big thing. We'll see, we'll see what you meant.
+
+00:24:18
+<transcript>: Migos. Php is like the Johnson Johnson vaccine. Can't complain it works.
+
+00:24:20
+<transcript>: That's funny.
+
+00:24:20
+<transcript>: little freez
+
+00:24:24
+<transcript>: Little freezies here. There's that Dev that people call Adam. But I call good looking.
+
+00:24:32
+<transcript>: Little freezey. I love it. Good. Grandpa. You're from Ohio. Did I know that? Good, grandpa.
+
+00:24:36
+<transcript>: You're in my time zone? No. Eastern. Are you Eastern.
+
+00:24:36
+<transcript>: massachusetts
+
+00:24:39
+<transcript>: Massachusetts. Okay, we got a bunch of east coasters.
+
+00:24:39
+<transcript>: africa
+
+00:24:41
+goodgrandpaa: I think so! :) Eastern time :)
+
+00:24:45
+<transcript>: Africa, Too. Lk. Finn, welcome to Chat. Got People in Africa. Istanbul.
+
+00:24:48
+<transcript>: What neighbors. He bought the surrounding plots.
+
+00:24:48
+<transcript>: how
+
+00:24:51
+<transcript>: How is that known? Did I say that on stream.
+
+00:24:51
+<transcript>: diamond
+
+00:24:57
+aj_stuyvenberg: lol yeah
+
+00:25:07
+<transcript>: Diamond. Did I say that once? Did I say that one side of us isn't a lot. It's just common ground in the neighborhood, but it might as well be our lot because it's just a big open corner. And then we bought the other lot next to us. So we do have a little bit of a buffer, but not like a ton of buffer.
+
+00:25:07
+<transcript>: we didn't
+
+00:25:14
+dmdboi: You did say that
+
+00:25:14
+<transcript>: We didn't buy up half the neighborhood. We just have a little bit of, like we set on, like, three acres, and nobody can touch us.
+
+00:25:14
+<transcript>: so
+
+00:25:15
+msmazaya: Yes I meant that, so youre saying that I should be working a full time job to fulfill my need and work on my product on my free time?
+
+00:25:17
+dmdboi: I also went through your trash
+
+00:25:20
+goodgrandpaa: Be real, do you own your neighborhood? Kappa
+
+00:25:24
+<transcript>: So they don't think I'm insufferable, though. Why would they think I'm insufferable? Do you think I'm insufferable? Taylor is here? There are better choices for php, in my opinion. Oh, really better than laravel.
+
+00:25:24
+<transcript>: say more
+
+00:25:26
+<transcript>: Say more words.
+
+00:25:26
+<transcript>: i'm
+
+00:25:31
+nicolahristov: cake
+
+00:25:34
+fransverwoester: untrue
+
+00:25:34
+nicolahristov: cake cake
+
+00:25:34
+<transcript>: I'm very sold on laravel, but I'd like to hear your argument. I know that you're starting up in Phoenix, but have you played with Phoenix in Live View yet.
+
+00:25:34
+<transcript>: no
+
+00:25:38
+<transcript>: No, I don't think we use Live View in our Phoenix app.
+
+00:25:40
+dmmulroy: Adams house: https://twitter.com/pubity/status/1655502332820602882
+
+00:25:42
+h4msterbo1: sup dev boi
+
+00:25:58
+<transcript>: I don't think because it's a react. We have like a React app embedded in this Phoenix app, so I don't think we're using Live View, but I'm curious about Live View. Tall Sack is tailwind alpine, laravel, and Livewear alpine. That's Caleb, right. Caleb porzio. I first learned of Caleb before I ever knew anything about PHP.
+
+00:25:58
+<transcript>: now i know
+
+00:25:59
+greemwahr: What make and model is ur headphone?
+
+00:26:00
+charafmrah: Symfony with Doctrine maybe?
+
+00:26:01
+goodgrandpaa: @dmmulroy LUL grandpa from Up!
+
+00:26:04
+william_jacob: Laravel problably has the best devex of all php frameworks
+
+00:26:06
+msmazaya: Oh yea, is phoenix good? Would you recommend it or do you regret using it?
+
+00:26:07
+<transcript>: Now I know so much about PHP. But before I was a php expert, I knew of caleb because I used vs. Code, and he had a make vs. Code. Awesome.
+
+00:26:07
+<transcript>: course
+
+00:26:16
+<transcript>: Course. I guess you call it. Was it a course or like I don't know. It was like an info product of some sort. And I bought it and it made my vs. Code awesome. It was really good.
+
+00:26:16
+<transcript>: i liked
+
+00:26:20
+thdxr: shut up and code
+
+00:26:31
+unrulyhotfixer: yes Caleb made Alpine and Livewire
+
+00:26:32
+dmdboi: @dmmulroy LUL
+
+00:26:36
+chrispian: Livewire and Alpine are  both from Caleb, right?
+
+00:26:37
+<transcript>: I liked caleb in that little course. And then I learned recently he's in this community, and he did the alpine thing, right? Okay. Scrolling, scrolling, scrolling. How behind it. I may just going to jump ahead. I'm just going to jump all the way to the bottom. Shut up. And Code dax says that. So let's do it. Let's shut up. And Code caleb made alpine and livewire. I just skipped so many message.
+
+00:26:37
+<transcript>: messages and
+
+00:26:39
+<transcript>: Messages. And I feel so bad about it.
+
+00:26:39
+<transcript>: but
+
+00:26:44
+<transcript>: But as I scroll, I don't know. I probably should just skip them.
+
+00:26:44
+<transcript>: there's some
+
+00:26:47
+<transcript>: There's some welcomes to chats, though kelg.
+
+00:26:49
+<transcript>: Kelgie.
+
+00:26:49
+<transcript>: oh did
+
+00:26:52
+<transcript>: Oh, did someone answer My question is.
+
+00:26:52
+<transcript>: france
+
+00:26:58
+<transcript>: France is franz, the person who makes laravel videos.
+
+00:26:58
+<transcript>: what they call
+
+00:27:03
+lesabotsy: Hi adam, hi chat :)
+
+00:27:05
+<transcript>: What they call laricasts. I don't know if anyone answered my question. Adam, you have 1 hour. Oh, boy, do I only have an hour.
+
+00:27:05
+<transcript>: oh
+
+00:27:05
+fransverwoester: no im not
+
+00:27:07
+<transcript>: Oh, man.
+
+00:27:18
+<transcript>: Just an hour. Still has to acknowledge archangel. Who is archangel? What are you even talking about? Oh, my goodness. I think you guys are making that up. There is no archangel. This is all just a big troll.
+
+00:27:18
+<transcript>: les is here
+
+00:27:19
+insanitylater: That's Jeffrey Wray isn't it? That does Laracasts
+
+00:27:20
+<transcript>: Les is here. What's going on.
+
+00:27:20
+<transcript>: crisp
+
+00:27:31
+caiocodes: heeeey wassup archangel!!!! good to see you
+
+00:27:34
+<transcript>: Crispy and livewire and alpine are both from caleb Bright. That's what someone just said. Yeah. Okay. I'm just going to rely on people to answer my questions. France you are not okay friends, but you know PHP you know PHP that's good enough for me.
+
+00:27:34
+<transcript>: don't
+
+00:27:40
+<transcript>: Don't tickle and muri and erton, thank you for the follows.
+
+00:27:54
+<transcript>: What's up, chow. Wait. What's? Arching. What? Okay, here we go. Jeffrey Ray. Okay, that's. Who does the lyricast. Okay. My bad. I don't know why I thought some of his name France. Okay, now I got to know now I got to know France.
+
+00:27:58
+<transcript>: Friends. Why did I think.
+
+00:28:00
+unrulyhotfixer: *jeffrey way
+
+00:28:02
+<transcript>: Why don't I think.
+
+00:28:02
+<transcript>: his
+
+00:28:05
+<transcript>: His name was.
+
+00:28:10
+ben_winnen: This is a Just Chatting Stream now
+
+00:28:10
+lesabotsy: Hyped for you to pick up Laravel/PHP, it's the framework for people wanting to get shit done.
+
+00:28:13
+<transcript>: France. I got to find his picture. When I see his picture, I will know.
+
+00:28:13
+<transcript>: who
+
+00:28:14
+mehulsharmamat: hello hello
+
+00:28:15
+foobarqix: you need to update your chrome
+
+00:28:15
+<transcript>: Who I'm talking about. There's? Caleb.
+
+00:28:18
+thdxr: you’re thinking of franz ferdinand
+
+00:28:20
+<transcript>: Where is this picture? His profile picture.
+
+00:28:23
+<transcript>: Oh, come on.
+
+00:28:25
+thdxr: adam
+
+00:28:29
+<transcript>: This is painting. It's painful. It hurts.
+
+00:28:35
+<transcript>: I need to find this person so I can know how close their name is to France.
+
+00:28:39
+<transcript>: Oh, man.
+
+00:28:39
+<transcript>: he was in the
+
+00:28:41
+<transcript>: He was in the laravel documentary.
+
+00:28:42
+modestasv: aarondfrancis ?
+
+00:28:46
+<transcript>: There's Chris, the laravel Documentary. Who knows what I'm talking about.
+
+00:28:48
+aj_stuyvenberg: LOL @thdxr
+
+00:28:50
+william_jacob: Jeffrey Way is from laracasts right?
+
+00:28:51
+<transcript>: Lyric Cast Aaron Francis. No, not Aaron.
+
+00:28:51
+<transcript>: i know aar
+
+00:28:56
+<transcript>: I know Aaron Lyricast. Here we go. Jeffrey Way is from laricast.
+
+00:28:56
+<transcript>: i
+
+00:29:01
+thdxr: adam it’s franz ferdinand
+
+00:29:04
+thdxr: ADAM
+
+00:29:07
+thdxr: FRANZ FERDINAND
+
+00:29:10
+<transcript>: I got to see this person's face. Maybe he doesn't do Larry casts. Maybe he's just prominent for other reasons. No, it's not this guy. Okay, so that's the owner at Larry. Okay, my bad somebody else. He doesn't do Larry Cast. What is his name.
+
+00:29:13
+tayloreddev: Long time Symfony user the best choice for me if you are going beyond a basic side project
+
+00:29:19
+dmdboi: @thdxr The archduke?
+
+00:29:19
+<transcript>: It has Van in it. Franz ferdinand. What? Oh, did you already tell me that.
+
+00:29:19
+<transcript>: are you
+
+00:29:21
+<transcript>: Are you serious.
+
+00:29:24
+donttickle: beyond code
+
+00:29:26
+<transcript>: Wait. Are you? Are you trolling me? You're trolling me.
+
+00:29:28
+sj_se: can i dm my email?
+
+00:29:31
+howleeno: this will probably be my favorite stream from now on
+
+00:29:33
+<transcript>: Yeah. You're trolling me one on one call.
+
+00:29:33
+insanitylater: hahaha
+
+00:29:34
+airtonzanon: Freek Van der Herten?
+
+00:29:35
+<transcript>: Sj you're the first.
+
+00:29:35
+<transcript>: you're the
+
+00:29:36
+dmdboi: Gottem LUL
+
+00:29:42
+<transcript>: You're the first yes. Dm me your email. We're making it happen. Oh, my word.
+
+00:29:44
+<transcript>: A one on one call.
+
+00:29:44
+<transcript>: franz ferdinand
+
+00:29:45
+thdxr: lookup franz ferdinand WW1
+
+00:29:51
+<transcript>: Franz ferdinand, what are you talking about? Dax, you're making that up. This isn't just setting stream. It's true.
+
+00:29:57
+aj_stuyvenberg: you're thinking of Marie-Louise von Franz, the Swiss Freudian psychologist
+
+00:29:59
+theslowdev: If you are trying to do something with PHP and laravel you should check this library: https://turbo-laravel.com/docs/1.x/installation
+
+00:30:03
+<transcript>: No, somebody tell me who is the prominent person? World War One. What? Van der hurton. This freak. Vanderherton. That's it. That's it. That's totally going to be it.
+
+00:30:10
+<transcript>: Yes. Freak. Dev. That's awesome. I need to see his profile picture to confirm. I need it.
+
+00:30:10
+<transcript>: yes
+
+00:30:15
+theslowdev: This guy ported the turbolinks from rails to laravel
+
+00:30:18
+theslowdev: it is awesome
+
+00:30:19
+dnbull: Hi ADAM
+
+00:30:23
+<transcript>: Yes. That's him. That's the one when I saw somebody's name was franz. Something. I'm sorry. Friends. You're here. And I'm sorry I bought your name, but I thought you were this person. But you're not. Okay. Hi. Dmbo.
+
+00:30:23
+<transcript>: okay here
+
+00:30:36
+robinmalfait: Freek and his team make a lot of Laravel packages. https://spatie.be
+
+00:30:38
+sj_se: @adamdotdev dm sent on here
+
+00:30:39
+<transcript>: Okay, here we go. Let's get to work. We got stuff to do. If you're trying to do something with php and laravel, you should check this library turbo. So I do need the community's help on all the hip things I should be using because there's so many things. There's so many things.
+
+00:30:42
+airtonzanon: https://twitter.com/freekmurze <- Freek's twitter
+
+00:30:50
+sj_se: dont dox me
+
+00:30:50
+wolfyjd: RoadRunner + Spiral if you want to do some crazy things
+
+00:30:50
+thdxr: franz ferdinand
+
+00:30:50
+<transcript>: What is the one that I just saw that everyone was like, oh, it's so good. It's like a third party thing. It's like a component library. Maybe I forget what it's called. Okay, first thing we got to do is actually.
+
+00:30:53
+chrispian: Filament?
+
+00:30:54
+charafmrah: @TayloredDev I heard that too
+
+00:31:04
+<transcript>: We're not actually using laravel to start. I'm sorry we're not using php or laravel. Such a clickbait. We're going to get to filament. Thank you, Christian. Yeah, filament. Somebody told me to use filament. Why do you keep saying franz ferdinand zax? What is going on.
+
+00:31:06
+airtonzanon: He runs the Fullstack Benelux conference
+
+00:31:13
+<transcript>: Thank you so much. Sj. I can't wait to have our one on one call. How crazy somebody finally redeemed it. It's been out there for months.
+
+00:31:13
+<transcript>: and
+
+00:31:13
+unrulyhotfixer: yeah filament is good!
+
+00:31:27
+<transcript>: And someone finally redeemed it. Me and sj are going to have a one on one call and I can't wait. Filament is good. Okay, good to know. So first thing we have to do is prove out the concept. I haven't even told you what the project is. So the project is called peasy.
+
+00:31:27
+<transcript>: peasy
+
+00:31:35
+<transcript>: Peasy like peasy FM. And the point is, Me and dax, we record a podcast twice a week now.
+
+00:31:35
+<transcript>: and
+
+00:31:37
+<transcript>: And.
+
+00:31:37
+<transcript>: it's our two
+
+00:31:39
+m4tty_d: easy peasy
+
+00:31:42
+<transcript>: It's our two heads. Our two talking heads. We have separate video files for each.
+
+00:31:42
+<transcript>: okay
+
+00:31:45
+<transcript>: Okay. And we need to turn them into.
+
+00:31:47
+<transcript>: Let's just do this.
+
+00:31:47
+<transcript>: we need to turn
+
+00:31:49
+<transcript>: We need to turn them into.
+
+00:31:50
+outofbounds_music: All that PHP tweetin makes me want to try PHP myself
+
+00:31:54
+<transcript>: One of these and you're not going to hear the audio, but you can get the idea.
+
+00:31:58
+mattgoslow: lemon squeezy
+
+00:31:59
+<transcript>: Oh, it's so loud, so loud.
+
+00:32:07
+<transcript>: How do I mute it? So it needs to do this. It needs to cut back and forth between our faces as we're talking. So we have two video files.
+
+00:32:07
+<transcript>: i want to find
+
+00:32:17
+wolfyjd: whisper.cpp also runs wonderfully on any device for speech to text
+
+00:32:21
+<transcript>: I want to find in that 30 minutes video file, I want to find the most interesting 1 minute clips. Okay. Two or three of them. And I want it to just automatically create this thing. It's a cut between our two faces. It's got captions automatically.
+
+00:32:21
+<transcript>: i want to do
+
+00:32:23
+<transcript>: I want to do it all. Okay.
+
+00:32:23
+<transcript>: i want to
+
+00:32:33
+mehulsharmamat: nice!
+
+00:32:34
+dmdboi: Tbh why would you want to cut to Dax?
+
+00:32:38
+julianfbeck: nice
+
+00:32:38
+<transcript>: I want to drop our two video files in it, and I want to spit out interesting clips so I can pump on social. Okay. Lemon squeezy. Exactly. Easy peasy, whisper cpp also runs wonderfully on any device for speech to text. So I was planning on using Mayhools. Here.
+
+00:32:38
+<transcript>: to be
+
+00:32:40
+canslaughter: cool
+
+00:32:42
+<transcript>: To be honest, why would you want to cut the decks.
+
+00:32:44
+mehulsharmamat: you're gonna use php for it?
+
+00:32:44
+dmdboi: Just let him talk but show some subway surfer video instead
+
+00:32:51
+charafmrah: There's a similar product called "Opus Clip" that does this
+
+00:33:02
+<transcript>: I love it so much. Oh, that was a good one. A good dax burn. I'm here for it. So here's how we're going to do this. Turbo. Laraville, I got to look into that. So we're going to use the whisper api from openai because I hear it's the best speech text. I've used so many of them, but I hear it's the best. Yes. Mayhew we're going to use larave.
+
+00:33:02
+<transcript>: laravel
+
+00:33:12
+airtonzanon: damn, that's a CLEAN desk!
+
+00:33:14
+mattgoslow: It's just for us to all stare at that wonderful fringe
+
+00:33:16
+<transcript>: Laravel, we're going to build this in laravel because it's amazing. And I'll have half the features already built. Well, I'll have all the user management stuff already built. I might even have teams and organizations just because laravel jetpack has it. It's just built in. I don't have to build it.
+
+00:33:19
+<transcript>: So here's the problem, though.
+
+00:33:19
+<transcript>: the main problem
+
+00:33:23
+<transcript>: The main problem of this app is not all the ffmpeg stuff.
+
+00:33:23
+<transcript>: that's a thing
+
+00:33:30
+mehulsharmamat: let's see if you can convince me to do laravel
+
+00:33:32
+lesabotsy: Is everything Laravel free?
+
+00:33:33
+<transcript>: That's a thing like we're going to have to cut up the video. We're going to have to do face detection to center the frames because I'm not centered in my frame. I'm not sure if dax is on his. If you can't just take the.
+
+00:33:33
+<transcript>: middle you can't just
+
+00:33:33
+m4tty_d: writing Laravel while eating a Larabar
+
+00:33:38
+<transcript>: Middle. You can't just 16, nine by 16. It in the middle and expect it to have our faces. We're going to have to actually.
+
+00:33:47
+<transcript>: Find the phase in the frames and kind of like center it on the best average position of face. Right. So that's a little problem. Not a big deal. Very.
+
+00:33:47
+<transcript>: easy prov
+
+00:33:48
+mehulsharmamat: i seriously cant set stuff up with AWS Literally calling a friend who works on amazon to fix my dumbness
+
+00:33:56
+<transcript>: Easy, proven stuff to do. Not very easy, but there's proven solutions. I don't have to do anything. I just have to use the right tools. The thing that's tricky about this is.
+
+00:33:56
+<transcript>: finding
+
+00:34:17
+<transcript>: Finding the right moments. So if you have a 30 minutes recording, how do you find the best, the three best minutes in that 30 minutes recording. There's a lot of different ways we could go with this. My first assumption is that AI is going to solve all my problems. So my first assumption is or my first guess. My first hypothesis, if you will, is.
+
+00:34:17
+<transcript>: we
+
+00:34:19
+<transcript>: We transcribe the whole thing.
+
+00:34:22
+<transcript>: I guess the two things. The two videos.
+
+00:34:22
+<transcript>: we inter
+
+00:34:24
+<transcript>: We interleave those transcriptions together.
+
+00:34:24
+<transcript>: speaker
+
+00:34:25
+thdxr: your friend likely is doing it wrong also
+
+00:34:26
+nefine_: @Lesabotsy they have deploy stuff that you can use to, that's not free, but it's really convenient, the rest yes, it's like rails or any FE framework
+
+00:34:30
+<transcript>: Speaker to speaker. Right. So we have one big transcription of the whole session. And we say, Hey.
+
+00:34:30
+<transcript>: gpt
+
+00:34:32
+thdxr: just ask me
+
+00:34:40
+<transcript>: Gpt four. Tell me what are the most interesting 1 minute clips? Because I'm assuming whisper gives us output. Let's just see I'm assuming it gives us timestamps. Oh, no, if it doesn't, that's bad.
+
+00:34:40
+<transcript>: if it
+
+00:34:43
+<transcript>: If it doesn't want to use something else.
+
+00:34:43
+bishopdev: yes
+
+00:34:46
+<transcript>: Where's the response.
+
+00:34:48
+bishopdev: there's a node api to whisper as well
+
+00:34:49
+<transcript>: Json with.
+
+00:34:53
+wolfyjd: cpp does provide timings :)
+
+00:34:54
+<transcript>: Prompting overview. Is that what the response looks like.
+
+00:34:54
+p1xl: It does not provide timestamps
+
+00:34:55
+mehulsharmamat: if you dont get SRT assemblyai generates srt @adamdotdev
+
+00:35:02
+<transcript>: Is that it CPP does provide time, yet most of them do node API to whisper as well. Okay.
+
+00:35:02
+<transcript>: they do have
+
+00:35:12
+<transcript>: They do have deploy stuff your friend likely is doing it wrong. Also, what are you talking about? I seriously can't set stuff up with avis, literally calling a friend who works on Amazon to fix my dumbness.
+
+00:35:18
+<transcript>: I'm just catching up on Chat. Similar product called Opens Clip that does this. Are you serious.
+
+00:35:18
+<transcript>: this might be
+
+00:35:21
+<transcript>: This might be the fastest side project I've ever made.
+
+00:35:21
+<transcript>: oh
+
+00:35:24
+<transcript>: Oh, does this just work.
+
+00:35:29
+<transcript>: Does it just work? One long video. Ten viral clips. Create. Ten.
+
+00:35:29
+<transcript>: side project
+
+00:35:30
+wolfyjd: :D
+
+00:35:36
+mehulsharmamat: @thdxr no they havent come on call yet lets see how it goes. i seriously hate myself for doing most stuff on localhost.
+
+00:35:42
+lesabotsy: @Lesabotsy I'm looking to make a real estate website, what components do you recommend? feat Laravel of course
+
+00:35:43
+charafmrah: Lol
+
+00:35:43
+<transcript>: Side Project Done we'll come up with something else to build in laraville. If this works, wait. Youtube link get clips for free gender vai tool repurchases long videos into shorts in one click. Powered by Open AI. That's what I was going to do.
+
+00:35:58
+<transcript>: Say goodbye to spending 20 hours editing a video on or $500 on edit. Hiring Editor Get top quality Shorts Clips this sounds like what we want. Short clips of a one man show. Shortcuts of Duo cameras. Shortclips of live stream. Short clips of product review.
+
+00:35:58
+<transcript>: okay
+
+00:36:04
+<transcript>: Okay. Let's just try it. Let's just see if this thing works. Thank you so much for the recommendation. Who said that.
+
+00:36:04
+<transcript>: can slaughter
+
+00:36:06
+<transcript>: Can slaughter? Welcome to chat.
+
+00:36:14
+<transcript>: Who said that? Who gave me that recommendation? Opal or whatever they said, what is this called opus? I don't see it. I lost it.
+
+00:36:14
+<transcript>: i'm so
+
+00:36:21
+<transcript>: I'm so sorry. I want to give credit to the credit where the credit is due. Who sent that.
+
+00:36:21
+charafmrah: It was me
+
+00:36:24
+<transcript>: Where is it.
+
+00:36:24
+<transcript>: why is it
+
+00:36:27
+<transcript>: Why is it not in my chat anymore.
+
+00:36:28
+charafmrah: but I didn't build it lol
+
+00:36:32
+delvoid: @charafmrah here
+
+00:36:33
+guaca_joely: charafmrah
+
+00:36:34
+<transcript>: Is my chat going faster than normal? No, I'm blind. I'm just not seeing it.
+
+00:36:34
+<transcript>: it was
+
+00:36:37
+kelyje: no lambo, so sad...
+
+00:36:41
+<transcript>: It was you, chara. Thank you. Okay. You didn't build it? Yeah. No, I knew you didn't build it. Thank you. Delboy tier.
+
+00:36:41
+<transcript>: no lambo
+
+00:36:47
+<transcript>: No lambo. No, we're going to buy. We'll go something else. Kelly, I didn't have time today anyway, if I'm being honest. But if this thing works.
+
+00:36:55
+<transcript>: Ai Virality Score Our AI automatically generates a score to show the virality potential of each short clip. The score is based on ai's analysis.
+
+00:36:55
+<transcript>: this is exactly
+
+00:37:00
+<transcript>: This is exactly what I want. Why do I have to drop a YouTube link, though.
+
+00:37:00
+<transcript>: so
+
+00:37:04
+<transcript>: So it does the face thing keyword highlighter.
+
+00:37:10
+<transcript>: So it creates captions for you. I guess it's just perfect. It does everything, and I don't have to build it.
+
+00:37:10
+<transcript>: post dail
+
+00:37:11
+guaca_joely: is for free tho?
+
+00:37:12
+<transcript>: Post daily and grow okay.
+
+00:37:12
+<transcript>: how do i
+
+00:37:17
+<transcript>: How do I not use a YouTube video? How does the open clip work.
+
+00:37:17
+<transcript>: don't
+
+00:37:21
+<transcript>: Don't need that. Why do I need to start making? No, I know that. How do I get started.
+
+00:37:21
+<transcript>: in our youtube
+
+00:37:27
+<transcript>: In our YouTube link and get clips. Okay. I guess we'll try it. What types of videos can I upload.
+
+00:37:32
+<transcript>: Videos are long 15 minutes since feature spoken words.
+
+00:37:37
+<transcript>: Video podcasts so I don't have a video on YouTube.
+
+00:37:51
+bishopdev: evening Adam, god damn it man, that "perch" is glorious
+
+00:37:54
+<transcript>: Over 97% accuracy you can change text and edit for there. This is so perfect. Currently free to use up to 5 hours roll out a pay plan. Oh no omen may it's new. This is exactly what I want. They built it.
+
+00:38:03
+<transcript>: Is for free. Not free. I'm okay with paying for it. Evening, Adam. That perch is glorious. Bishop. What perch? Oh, my hair.
+
+00:38:08
+<transcript>: It's my hair perch. Is that what you're talking about? That's funny.
+
+00:38:17
+<transcript>: I don't know how I feel about having a perch on my head. Hw buck and eat your Greens. And Mary M. Lucas, thank you for the follows mirror.
+
+00:38:23
+<transcript>: Muri. I'm so sorry. Thank you for the prime sub. I missed that in all my excitement.
+
+00:38:24
+outofbounds_music: Where do you get your music from?
+
+00:38:33
+bishopdev: isn't 'perch' like a high place to sit in english ?
+
+00:38:35
+<transcript>: I really appreciate it. Thank you for the prime sub. I know you only get one of them. I don't take it for granted. Where do you get your music from? Out of bounds. The music that's playing right now is just like music. I like on Spotify.
+
+00:38:42
+<transcript>: All the theme music and sound effects and stuff that's from breakmaster cylinder isn't perch like a high place to sit in English. Yeah.
+
+00:38:52
+<transcript>: So you're telling me I can only use let's sign in, let's create an account. Maybe then I don't have to use a YouTube clip. Maybe that's just like a top of funnel thing.
+
+00:38:53
+<transcript>: Maybe.
+
+00:38:54
+daltkb_: @insanitylater Thanks for the gift sub!
+
+00:39:02
+<transcript>: Five upload hours off for 30 days. Happy clipping Drop a video link, man.
+
+00:39:02
+<transcript>: i don't have
+
+00:39:04
+<transcript>: I don't have a video link.
+
+00:39:04
+<transcript>: dax how do we get a
+
+00:39:10
+<transcript>: Dax, how do we get a link to one of our videos? One of our podcasts. Well, here. Oh, I do.
+
+00:39:10
+<transcript>: hang on
+
+00:39:11
+<transcript>: Hang on Riverside.
+
+00:39:11
+<transcript>: i can
+
+00:39:13
+<transcript>: I can do this.
+
+00:39:13
+mattgoslow: That larabar placement is always quite satisfying
+
+00:39:15
+<transcript>: Do this.
+
+00:39:15
+h4msterbo1: i like your headphones. sennheiser 650hd, right?
+
+00:39:19
+charafmrah: maybe an unlisted video could work too?
+
+00:39:22
+<transcript>: Let's see. I want a video. Like one video of both of us.
+
+00:39:26
+bishopdev: got the job offer, starting june 1st, 100k with benefits woopty woop
+
+00:39:27
+<transcript>: Can it do it with two videos? Oh, no.
+
+00:39:31
+mehulsharmamat: huh interesting, i should prob allow custom audio upload on my tool as well. learning that prob not everyone has a yt link
+
+00:39:31
+<transcript>: Yes. Sennheiser. 650. That's right.
+
+00:39:36
+<transcript>: Does this work.
+
+00:39:36
+<transcript>: does
+
+00:39:38
+<transcript>: Does this work.
+
+00:39:39
+mehulsharmamat: @BishopDev yay lfg dude!
+
+00:39:43
+<transcript>: If I have two talking heads, it said something about.
+
+00:39:47
+<transcript>: Two Works best.
+
+00:39:47
+<transcript>: for videos
+
+00:39:56
+<transcript>: For videos that are conversation driven, single speaker, video and long in the 15 minutes. I wonder if this person who is making this, I wonder if they're taking investment because.
+
+00:39:56
+<transcript>: i'm convinced
+
+00:39:58
+<transcript>: I'm convinced this is going to be good.
+
+00:40:00
+julianfbeck: then the sideproject is merging two videos and uploading them to a private video to youtube :D
+
+00:40:01
+<transcript>: This is a good thing. It needs to exist.
+
+00:40:06
+<transcript>: And I wanted to build it. So I want to invest in it. Our story.
+
+00:40:08
+andreaslorozco: morning y'all! happy Thursday
+
+00:40:10
+<transcript>: Tiktok, ways.
+
+00:40:29
+<transcript>: Okay, our team and investors, Light Speed is already invested. Well, I have no chance of getting in. Okay, so this thing's going to be a thing. Let's free co founders, the founding members of opus came from TikTok, LinkedIn and airbnb. Yeah, this thing's going to make it. We received the best Port and funding from lightspeed, DC and other investors share the same vision. Thank you for the follow.
+
+00:40:31
+<transcript>: Blelly BL.
+
+00:40:38
+<transcript>: In hw. Buck So Story Time we pitched Lightspeed for stat muse did not go well.
+
+00:40:38
+<transcript>: it did not go
+
+00:40:41
+<transcript>: It did not go well because.
+
+00:40:42
+mehulsharmamat: wait @adamdotdev you seriously invest into things MyAvatar
+
+00:40:45
+<transcript>: We were a pre product, pre revenue, pre everything.
+
+00:40:52
+<transcript>: Or pre product. We had a product and some people really excited about our product. We'd raise $10 million from Disney and Google.
+
+00:40:52
+<transcript>: but
+
+00:40:59
+<transcript>: But we were going in looking for a $20 million raise, our Series B, and I don't remember what valuation.
+
+00:40:59
+<transcript>: but we were looking
+
+00:41:03
+<transcript>: But we were looking to raise $20 million. We had no idea how we would ever make money.
+
+00:41:03
+<transcript>: had not made
+
+00:41:11
+thdxr: tomorrow.fm hosts are successful investors
+
+00:41:15
+<transcript>: Had not made a dollar yet, and it was just me and my co founder being like, hey, your light speed. You should give us a lot of money. That's what you do, right? And they're like, no, we don't. Actually, you have to actually have a business. And it did not go well.
+
+00:41:15
+<transcript>: now at the same
+
+00:41:20
+<transcript>: Now at the same time, right after that, we pitched Andreessen.
+
+00:41:40
+<transcript>: And also didn't go well. That one was great, though his name is Frank. He's an AI person there at andreessen horowitz. I don't know if he's still there, but this has been four or five years ago. We walked in there the Sand Hill Road. We were late because we couldn't find it. It's like so many buildings in one little spot. And we're trying to find the andreessen office, and we finally get there. He's kind of annoyed that we're 20 minutes.
+
+00:41:40
+<transcript>: late
+
+00:41:45
+<transcript>: Late. We're sweating because we've been out walking around so fast, trying to find it.
+
+00:41:45
+<transcript>: we
+
+00:41:57
+<transcript>: We sit down and we pitch it. And it was like within a week of the light speed pitch. So similar story had no dollars to our name. No money we were making had raised a bunch of money. Still no plans to make money.
+
+00:42:02
+<transcript>: But we walk in, we show them some valid stuff we've been working on. And it was very clear.
+
+00:42:02
+<transcript>: like in the first
+
+00:42:08
+<transcript>: Like in the first ten minutes of the meeting. This guy was not interested. Frank was not having it. Not one bit.
+
+00:42:09
+adjectiveallison: Yo adam. I heard you got a personality for the first time? I've been looking for one. Do you have any advice on how you found it?
+
+00:42:13
+<transcript>: And at that point, we had done enough pitches.
+
+00:42:31
+trivenge: 1517 fund? @thdxr  not inviting danielle strachman NotLikeThis
+
+00:42:33
+<transcript>: Where I realized we're going to get nothing out of this, and we're going to walk out defeated. Or now that I know he's definitely not interested. I could just be totally honest with him and be like, Listen, I know you're not going to invest. It's very clear that you're not interested, but could you just give us some honest feedback? We'll never see each other again? It's fine. Just give me, like, Honestly, what do you think about this situation? Should we even be.
+
+00:42:33
+<transcript>: raising
+
+00:42:37
+<transcript>: Raising like, tell us what you really think, and he gave me some really good advice.
+
+00:42:37
+<transcript>: and really honest
+
+00:42:39
+trivenge: good morning everyone
+
+00:42:42
+<transcript>: And really honest, like there's no way you're raising $20 million if you do.
+
+00:42:47
+<transcript>: Then what he said was because we actually had someone that was interested in leading the round.
+
+00:42:47
+<transcript>: it was not a big
+
+00:42:49
+trivenge: oh shit, adam, im diggin the hair this morning
+
+00:42:50
+trivenge: SeemsGood
+
+00:42:53
+<transcript>: It was not a big brand name, but we had somebody. And we were just kind of pitching the big names.
+
+00:42:53
+<transcript>: so
+
+00:43:00
+<transcript>: So I told him I was like, Well, we actually have someone that's willing to lead this round. And he said, God bless America.
+
+00:43:00
+<transcript>: and he walked
+
+00:43:01
+<transcript>: And he walked out.
+
+00:43:06
+<transcript>: So good, he gave us some really good advice, though. I mean, he was very honest.
+
+00:43:06
+<transcript>: once i just
+
+00:43:12
+<transcript>: Once, I just dropped the whole facade of, like, we're trying to sell you. Clearly, it's not going to happen. So give us real advice.
+
+00:43:19
+<transcript>: Anyway, he was right. We shouldn't have raised $20 million. We didn't have any way to use that $20 million and make money.
+
+00:43:23
+<transcript>: Okay. I just realized I've been ignoring chat.
+
+00:43:28
+<transcript>: You seriously invest into things you know, Mayhew I always think I'm going to.
+
+00:43:35
+<transcript>: I feel like I'm at the stage of my career. I should, like, invest in stuff. But my wife and I have just never done it.
+
+00:43:55
+<transcript>: It's like the whole, like, all my eggs are in the technology basket. Investing in early stage technology companies feels a little weird. So we've never put our money there historically. But just like I see a lot of good opportunities. I'm kind of like, early enough to see things. And it feels like I should I don't know. Is that just like a coping thing? Is that just what we do? Midlife Cr.
+
+00:43:55
+<transcript>: crisis
+
+00:43:58
+lesabotsy: @adamdotdev would yo invest in a company outside the US?
+
+00:44:03
+<transcript>: Crisis for Technology bros. Then the side project is merging two videos and uploading them to a private video to YouTube. There you go, Julian.
+
+00:44:11
+howleeno: have you heard about Meld Studio?
+
+00:44:12
+<transcript>: Yeah. Mayhew you're making your thing. Make your thing. Are you taking investment? Is that where this is going.
+
+00:44:12
+<transcript>: because we should
+
+00:44:12
+trivenge: yes @Lesabotsy
+
+00:44:13
+<transcript>: Because we should talk.
+
+00:44:13
+<transcript>: okay
+
+00:44:15
+<transcript>: Okay. Where was I.
+
+00:44:31
+trivenge: mid life crisis HAHA
+
+00:44:35
+<transcript>: Tomorrow hosts are successful investors. That's right. Tomorrow, Fmhosts. Wait, what are you saying? Dax, you are. Yo, alison's here. I heard you got a personality. For the first time, I've been looking for one. Have any advice on anything? Yeah, laravel, just start talking about laravel on Twitter, and you will immediately find your personality.
+
+00:44:40
+<transcript>: Good morning. Triv is here. Good morning, TRIV.
+
+00:44:40
+<transcript>: let
+
+00:44:55
+<transcript>: Let's see Adam digging the hair. This one. Yeah, I know. I keep getting that. I got to go back to not trying. Once I start trying, I've just sold my soul to hair companies. I don't know. Like, now I feel like I have to fix my hair every day. You guys expect it.
+
+00:44:55
+reggie_dev: god bless america
+
+00:44:57
+charafmrah: we talked about Laravel and next thing you know we're talking about investments & lambos
+
+00:44:58
+bishopdev: to the HAIR GODS
+
+00:45:00
+<transcript>: Would I invest in a company outside the US? I don't know, lesa. I've never invested in a company.
+
+00:45:00
+<transcript>: i've considered
+
+00:45:03
+adjectiveallison: Perfect, TY PraiseIt
+
+00:45:04
+thdxr: my angel with investing is buying a relationship with people who have potential
+
+00:45:05
+trivenge: LUL
+
+00:45:08
+<transcript>: I've considered. I mean, I've invested in public companies. I've just never invested in an early stage startup. Have you heard about meld Studio? No, I've not.
+
+00:45:09
+nft_scam: how do you like the trackpad compare a mouse
+
+00:45:11
+thdxr: aka me and theo lmao
+
+00:45:14
+iamtrulyao: What keyboard is that?
+
+00:45:17
+vapor__dev: Vercel is coming out with a hair service
+
+00:45:19
+<transcript>: Miss Life crisis. God bless America. We talk about laravel. And next thing you know, we're talking about investments in lambos is true to the hair gods. Thank you, Bishop. That's what I was looking for.
+
+00:45:24
+mehulsharmamat: @thdxr good thing
+
+00:45:25
+<transcript>: My angel was investing. My angel with investing is buying a relationship.
+
+00:45:25
+<transcript>: or your angle
+
+00:45:25
+thdxr: “how did you and theo meet” “i paid him to be my friend”
+
+00:45:34
+deenr: @iamtrulyao Mode Eighty (2022)
+
+00:45:36
+<transcript>: Or your angle with investing is buying a relationship with people who have potential. There you go, dex. That works. How do you like the track bag? Compared with the mouse? I like an nft scam. I like it.
+
+00:45:36
+<transcript>: i've done it
+
+00:45:41
+trivenge: those key caps look worn NotLikeThis  are those abs keycaps and not pbt? NotLikeThis
+
+00:45:41
+<transcript>: I've done it for a while now, so I'm used to it me and the exactly.
+
+00:45:41
+<transcript>: what
+
+00:45:45
+<transcript>: What keyboard is that it is a Mode 80 keyboard.
+
+00:45:51
+<transcript>: And it sounds good. You never hear me do anything with it because I just talk all the time now, but it sounds really good.
+
+00:45:52
+adjectiveallison: dax doesn't know how to spell angle and adam can't read
+
+00:45:53
+trivenge: LUL @thdxr
+
+00:46:01
+<transcript>: X doesn't know how to spell Angle, and Adam can't read it's true.
+
+00:46:01
+<transcript>: okay
+
+00:46:08
+<transcript>: Okay. So we want to use this thing. I want to use it desperately. Even I want to use it. But I don't have a video link.
+
+00:46:12
+iamtrulyao: I can tell it feels so nice too...
+
+00:46:13
+<transcript>: So how can I use it.
+
+00:46:16
+<transcript>: I need two videos.
+
+00:46:31
+<transcript>: It feels so nice. Yeah, it does feel really good. Those keycaps look worn. Are those ABS keycaps and not pbd. Yeah. Triv, these are gmk. I buy all gmk keycaps. How did you and theo meet? I paid him to be my friend. That's awesome.
+
+00:46:31
+charafmrah: unlisted video?
+
+00:46:37
+<transcript>: Alan's here. Versailles is coming out with a hair service. Oh, my goodness.
+
+00:46:42
+<transcript>: Yeah, I do. The gmk keycaps. I know that they wear faster.
+
+00:46:45
+<transcript>: I've been on preorder for gmk dracula, two.
+
+00:46:47
+lesabotsy: @adamdotdev I'm building "something" but the for african market. Western money is worth more so I was thinking of looking for western investors. How do I make a good pitch?
+
+00:46:52
+<transcript>: For like a year now. So those will come sometime this year, hopefully. And then I'll replace these with new ones.
+
+00:46:52
+<transcript>: unlisted
+
+00:46:55
+<transcript>: Unlisted view it's not that I don't have a video.
+
+00:46:57
+<transcript>: On YouTube.
+
+00:46:57
+<transcript>: i don't
+
+00:47:02
+<transcript>: I don't know how to do this. It needs to be both of our videos. Needs to be two people.
+
+00:47:08
+howleeno: I wonder if you can drop like a google drive link
+
+00:47:15
+<transcript>: That I need to cut between us. Do we still have to build ours? I don't want to build ours because this thing exists. I just want him to build this feature. Him or her. I just want them to build it. Can they build it for me.
+
+00:47:19
+<transcript>: Because they're doing I mean, they're on it.
+
+00:47:19
+<transcript>: they're like on
+
+00:47:21
+<transcript>: They're like on it. They've got all.
+
+00:47:23
+<transcript>: The right things.
+
+00:47:24
+trivenge: !youtube
+
+00:47:27
+<transcript>: Oh, is it doing that? It's doing that.
+
+00:47:31
+mehulsharmamat: can i buidl it for you primeagenBig primeagenHands
+
+00:47:31
+<transcript>: So if I put both of ours side by side.
+
+00:47:31
+<transcript>: would it
+
+00:47:33
+<transcript>: Would it cut between us.
+
+00:47:40
+<transcript>: Would it.
+
+00:47:45
+<transcript>: Can you build it? Mayhew. Yeah. I mean, someone can build it for me.
+
+00:47:46
+zryqv: try it and find out
+
+00:47:47
+julianfbeck: yea just merge the videos and upload them to yt
+
+00:47:49
+jokestera_e: just grab 2 random videos and give it a try
+
+00:47:51
+trivenge: davinci resolve steppin up their game against premiere slowly
+
+00:47:53
+<transcript>: I feel like anybody building it is going up against this thing and light speeds behind it. This looks good. You got former TikTok people.
+
+00:47:53
+<transcript>: this is going to be good
+
+00:47:55
+<transcript>: This is going to be good.
+
+00:47:55
+<transcript>: it's just
+
+00:47:58
+thdxr: doesn’t riverside have a combined video export
+
+00:48:07
+<transcript>: It's just, I don't know. Short clips of duo cameras. So duo cameras. I have two cameras. And I want to bounce between the two. I got to just ask him, join our discord. There's a discord.
+
+00:48:08
+charafmrah: maybe try a random youtube video or upload an unlisted video
+
+00:48:09
+<transcript>: Fuzzy.
+
+00:48:09
+<transcript>: that
+
+00:48:15
+<transcript>: That was close. Join opus Clip. Wow, 10,000 people in this discord. Okay.
+
+00:48:20
+<transcript>: How did you hear about opus? Clip? Friend recommendation from an influencer.
+
+00:48:21
+bishopdev: we can replay that adam :D
+
+00:48:22
+<transcript>: How did I learn about it.
+
+00:48:22
+<transcript>: from
+
+00:48:26
+trivenge: adding in auto subtitles and premiere and davinci now have an AI to cut out dead space, making easy tiktok videos jump cut wise, is much easier now POGGERS
+
+00:48:28
+<transcript>: From an influencer in my twitch chat or a friend recommendation. Okay, we'll do that.
+
+00:48:31
+<transcript>: Okay. Start from here.
+
+00:48:34
+bishopdev: it's on the internet now .. that wasn't close, that was it
+
+00:48:36
+<transcript>: So how do I make sure this question hasn't already been asked? I bet it's already been asked.
+
+00:48:36
+<transcript>: i'm
+
+00:48:39
+<transcript>: I'm guessing it's already been asked.
+
+00:48:44
+smilingbig: I see you took dax's hair advice
+
+00:48:46
+<transcript>: Okay.
+
+00:48:46
+<transcript>: maybe
+
+00:48:48
+<transcript>: Maybe I'll search two cameras.
+
+00:48:53
+<transcript>: Duo.
+
+00:48:56
+<transcript>: Do that. No. Two. There's nothing.
+
+00:48:56
+<transcript>: in this
+
+00:49:03
+<transcript>: In this two people. Here we go. If we were taking a podcast with one camera, but I have two people in it. How does it. No, that's not what I want.
+
+00:49:10
+trivenge: at first i didnt get that joke, but now i do @smilingbig SeemsGood
+
+00:49:13
+<transcript>: Harper, My understanding is that there are two people on screen. No. Does posting directly to YouTube shorts work.
+
+00:49:17
+<transcript>: Two of them not sure. Thanks for the feedback.
+
+00:49:25
+<transcript>: I'd like to be able to set my full time preferences as full and fill and split.
+
+00:49:41
+<transcript>: Is there a way to split the subtitles? No. Oh, can opus take us podcast video with two hosts and flip the view back and forth with you. Yes, that's what I want. Yes.
+
+00:49:42
+thdxr: doesn’t riverside have a side by side export
+
+00:49:45
+<transcript>: Oh, did they say, did they answer this.
+
+00:49:49
+<transcript>: No.
+
+00:49:50
+smilingbig: LUL it wasn't a bald joke if that's what you mean triveNge
+
+00:49:54
+<transcript>: Nobody answered. Nobody answered. Big Mike.
+
+00:49:56
+<transcript>: No.
+
+00:49:58
+<transcript>: Okay.
+
+00:49:58
+<transcript>: i'm going to reply
+
+00:50:05
+<transcript>: I'm going to reply to this. That was on the 30th. That's been like twelve days ago. Reply.
+
+00:50:06
+<transcript>: Also.
+
+00:50:11
+<transcript>: Looking for this feature.
+
+00:50:11
+<transcript>: is it
+
+00:50:13
+<transcript>: Is it on the roadmap.
+
+00:50:16
+<transcript>: Is that way.
+
+00:50:16
+<transcript>: too like
+
+00:50:19
+<transcript>: Too like gorky to say per chance.
+
+00:50:19
+<transcript>: whatever
+
+00:50:21
+<transcript>: Whatever I said, it.
+
+00:50:21
+<transcript>: okay
+
+00:50:23
+<transcript>: Okay.
+
+00:50:23
+<transcript>: so we'll
+
+00:50:27
+<transcript>: So we'll see if they if they just add that it's perfect.
+
+00:50:27
+<transcript>: i guess
+
+00:50:30
+<transcript>: I guess I should just throw a sample video in there.
+
+00:50:30
+<transcript>: let's
+
+00:50:33
+greatgrievance: I object
+
+00:50:33
+<transcript>: Let's do something. Let's put something in there to see if it works.
+
+00:50:33
+<transcript>: les
+
+00:50:37
+jokestera_e: I honestly would just grab a video and just mess with it
+
+00:50:42
+<transcript>: Lesa, I'm building something. But the four African market Western money is worth more. So I was thinking of looking for Western investors. How do I make a good pitch.
+
+00:50:42
+<transcript>: lesa
+
+00:50:45
+<transcript>: Lesa. I have less advice.
+
+00:50:48
+<transcript>: On fundraising than maybe I should.
+
+00:51:04
+<transcript>: For someone who's raised a lot of money and been in a lot of those pitches. I did not lead our fundraising efforts. That was my co founder. So I feel like my advice is pretty shallow and I don't know what investors actually want. Here's what I will say.
+
+00:51:04
+<transcript>: we pitched
+
+00:51:09
+<transcript>: We pitched a lot of investors, like a lot for all of our rounds.
+
+00:51:15
+trivenge: if you look really closely, dax has microscopic hairs on his head SeemsGood  @smilingbig
+
+00:51:18
+<transcript>: Like, way more than we actually got to invest. So the hit rate was low, and that might be universal. Maybe that's for everybody.
+
+00:51:24
+<transcript>: I don't know, but that's the one advice I can give you is like you're going to have to pitch it a lot. Probably.
+
+00:51:24
+<transcript>: unless
+
+00:51:25
+<transcript>: Unless.
+
+00:51:25
+<transcript>: you've already
+
+00:51:31
+smilingbig: he hates those LUL triveNge
+
+00:51:32
+<transcript>: You've already got a successful startup. Then I think it's really easy. You just email somebody and you're like, hey, wire me some more money and they're like, okay, cool. What are we doing.
+
+00:51:37
+<transcript>: Wonder if you can drop like a Google Drive link? Probably.
+
+00:51:50
+<transcript>: Yeah, I just need to find somebody else's video at this point. Does it riverside, have a combined video export? Oh, maybe. Yeah, maybe. Let's do this. All participants. Is that what this is? High quality. One thousand and eighty P, four K grid.
+
+00:51:50
+<transcript>: okay
+
+00:51:52
+adjectiveallison: Adam It's so refreshing to experience your attention span - a good reminder to myself that I'm not the only person with a mind that's spinning.
+
+00:51:53
+<transcript>: Okay, we'll just do 1080p grid. That's fine.
+
+00:51:53
+<transcript>: one thousand and eighty
+
+00:52:01
+<transcript>: 1080p normalized now assigned. Remove armor export. Okay. Oh, it's going to take time. They're going to email me.
+
+00:52:04
+<transcript>: Okay.
+
+00:52:04
+<transcript>: they're going
+
+00:52:07
+<transcript>: They're going to email me.
+
+00:52:09
+<transcript>: Bummer.
+
+00:52:09
+<transcript>: wait i've already
+
+00:52:10
+jokestera_e: Does the service have docs?
+
+00:52:13
+<transcript>: Wait. I've already done this once. Full length. Already did it. Wait. Is that just one of us.
+
+00:52:16
+warrenbuffering: hey wire me some more money, I need a Lambo now
+
+00:52:20
+<transcript>: Oh, this one already cuts back and forth. Okay, this is perfect.
+
+00:52:20
+<transcript>: this is
+
+00:52:29
+<transcript>: This is perfect. Can I just get a link to it, or do I need to publish it on YouTube? What is going on? What.
+
+00:52:34
+<transcript>: Download. We'll just download it.
+
+00:52:39
+<transcript>: Okay. So I'm going to download this video. I'm going to put it on YouTube.
+
+00:52:43
+<transcript>: We'll put it on.
+
+00:52:43
+<transcript>: our how about
+
+00:52:46
+trivenge: https://www.autopod.fm/
+
+00:52:47
+<transcript>: Our how about tomorrow? Youtube like this.
+
+00:52:47
+<transcript>: we're going to
+
+00:52:50
+<transcript>: We're going to say, upload.
+
+00:52:51
+trivenge: is this what you are using?
+
+00:52:51
+mehulsharmamat: man i love this stream it's so easy to see what i should make seeing adam really want something as opposed to me imagining customer wants
+
+00:52:53
+<transcript>: Go to studio now we'll just do upload.
+
+00:52:54
+smilingbig: LUL those results
+
+00:52:55
+<transcript>: Upload video.
+
+00:53:03
+<transcript>: Oh, I may have found a personal chef. Did I mention that I was looking for a personal chef? And I think I found one.
+
+00:53:03
+<transcript>: autopod
+
+00:53:05
+<transcript>: Autopod FM? What's that.
+
+00:53:05
+<transcript>: warren's here
+
+00:53:06
+charafmrah: if they have it on youtube then it must have a link and be set as unlisted no?
+
+00:53:09
+<transcript>: Warren's here. Hey, wire me some more money. I need a lambo. Now. Exactly.
+
+00:53:12
+kauai_life: those youtube recommendations don't lie Kappa
+
+00:53:20
+<transcript>: Does the service have docked? Adam, it's so refreshing to experience your attention span. A good reminder of myself that I'm not the only person with the mind that's spinning. Yeah, no, it's all over the place.
+
+00:53:20
+<transcript>: it's worse than
+
+00:53:25
+<transcript>: It's worse than ever. It just keeps getting worse. Autopod automatic editing for video, podcasts and shows.
+
+00:53:25
+<transcript>: multic
+
+00:53:27
+<transcript>: Multicamera editor.
+
+00:53:27
+<transcript>: workshop
+
+00:53:29
+<transcript>: Workshop. Ten cameras.
+
+00:53:38
+<transcript>: Okay. Social Clip Creator. Okay. So this is a well worn path. People are doing this automatically. Create.
+
+00:53:38
+<transcript>: social career
+
+00:53:40
+jokestera_e: Personal chef... just grubhub like the rest of us meager peopler
+
+00:53:46
+<transcript>: Social Career New sequence based off in and outpoint automatically Resize sequence settings and footage sizes based on a select aspect ratio. Okay.
+
+00:53:46
+<transcript>: automatically
+
+00:53:51
+smilingbig: yeah the attention thing seems to just get worse and worse Sadge
+
+00:53:53
+<transcript>: Automatically jump cuts. Does this one do the find the best moments thing? I don't know if it does that.
+
+00:53:53
+<transcript>: but
+
+00:53:58
+adjectiveallison: that's my expierence too --- I'm over hear only drinking matcha now and doing oats and exercise and other nonsense and it still gets worse. Like I'm healthier, but what is the mind doing.
+
+00:53:59
+<transcript>: But otherwise encouraging. Okay, let's drop this video in here. We'll just make it unlisted.
+
+00:54:12
+<transcript>: If you look really closely, dex has microscopic hairs on its head. Honestly. Would just grab a video and just mess with it. Yeah, we're going to mess with it. Jokester. We're doing it. Great grievances. Here. You object. Great. Grievance. Objects.
+
+00:54:21
+<transcript>: The attention thing seems to just get worse and worse. Yeah. I think it's like the Internet. I think the Internet is doing it.
+
+00:54:24
+trivenge: it jump cuts when silence is found in audio analysis. sara dietschy did a solid video on it SeemsGood
+
+00:54:28
+<transcript>: If they have it on YouTube, then it must have a link and be set as unlisted now. Yeah, we're going to do this one as unlisted.
+
+00:54:32
+<transcript>: Episode 19 I think.
+
+00:54:32
+<transcript>: no
+
+00:54:33
+<transcript>: No thumbnail.
+
+00:54:37
+<transcript>: Okay. Keep moving. Keep moving.
+
+00:54:37
+<transcript>: unless
+
+00:54:38
+<transcript>: Unless.
+
+00:54:39
+trivenge: and does work for multiple cameras and audio, great for podcasts
+
+00:54:42
+<transcript>: Unlisted.
+
+00:54:49
+<transcript>: Okay, here we go. Standard definition is ready. Upload. Complete. Okay.
+
+00:54:49
+<transcript>: so let's
+
+00:54:51
+<transcript>: So let's do this.
+
+00:54:55
+<transcript>: Get shareable link.
+
+00:54:57
+sebt__: I am definetly in love with your setup
+
+00:55:01
+<transcript>: Link. Copy to clipboard. Here we go. We're doing it. We're doing the thing.
+
+00:55:05
+<transcript>: Gimme uh.
+
+00:55:09
+<transcript>: Private. We can only ask public or unless.
+
+00:55:09
+<transcript>: it's public
+
+00:55:12
+<transcript>: It's public. I mean, it's unlisted.
+
+00:55:12
+<transcript>: oh
+
+00:55:14
+<transcript>: Oh, it's still processing.
+
+00:55:17
+charafmrah: it's still processing
+
+00:55:21
+<transcript>: It's processing. Every once in a while, I say a word, and I just want to say it like, tej. It's processing.
+
+00:55:24
+trivenge: takes time
+
+00:55:26
+smilingbig: LUL
+
+00:55:26
+trivenge: yeah
+
+00:55:33
+trivenge: come back in like 10 minutes
+
+00:55:35
+<transcript>: Personal chef just Grubhub like the rest of us. Meager people. No jokester. I live in the ozarks. There's nowhere for me to eat. I can't just have food delivered to me. It's not a thing. I mean, there are probably places that would deliver food. I do not want their food.
+
+00:55:39
+<transcript>: So I'm stuck hiring a personal chef.
+
+00:55:39
+<transcript>: it's interesting okay
+
+00:55:49
+bishopdev: I'm a pretty great cook
+
+00:55:54
+<transcript>: It's interesting. Okay, that's my experience too. I'm over here only drinking matcha now and doing oats and exercise and other nonsense, and it still gets worse like I'm healthier. But what is the mind doing? It's the Internet. I think the internet's just like killing our attention spans. I think the internet is just killing us all.
+
+00:55:54
+<transcript>: in sub
+
+00:56:01
+<transcript>: In subtle ways. Slowly on different time horizons. Some of us is killing sooner. Some of us, it's going to be a longer.
+
+00:56:04
+smilingbig: I often wonder about teej's accent, seems kind of unique
+
+00:56:06
+<transcript>: Process of killing us. But I think it's wearing us all down in ways.
+
+00:56:06
+<transcript>: that
+
+00:56:09
+mehulsharmamat: i only watch twitch streams to increase my attention span
+
+00:56:11
+<transcript>: That are maybe hard to detect but all the mental health issues.
+
+00:56:11
+<transcript>: internet
+
+00:56:12
+trivenge: being a great cook and a dev? you must be a catch on tinder @BishopDev  POGGERS
+
+00:56:14
+amanharwara: yeah my attention span has been fucked
+
+00:56:19
+<transcript>: Internet. It's just the Internet. Our brain says there's no way our brains evolved to be prepared for the onslaught of information.
+
+00:56:19
+<transcript>: knowing
+
+00:56:22
+warrenbuffering: ChatGPT killed me
+
+00:56:23
+<transcript>: Knowing this many people being in touch with this many people.
+
+00:56:23
+<transcript>: there's no way
+
+00:56:28
+bishopdev: @triveNge already married m8, kids too
+
+00:56:30
+<transcript>: There's no way. It's just like not what we have ever had to endure. So I think the internet's killing us all slowly. That's my big theory.
+
+00:56:35
+dmmulroy: I think that's why adult ADHD is on the rise
+
+00:56:36
+adjectiveallison: Did you see the humane AI hardware device video demo on ted adam? It gave me chills. I think you'd like it.
+
+00:56:39
+<transcript>: Jump cuts when silence is sound and audio analysis. Sarah dichi did a solid video on it. Oh, Sarah dichi runs with peachy. I know who that creator is. I do.
+
+00:56:39
+<transcript>: does work for
+
+00:56:44
+mehulsharmamat: oh yeah def most people who arent vocal about it just doomscrolling stuff def have tons more anxiety and all that stuff
+
+00:56:48
+trivenge: already taken POGGERS  @BishopDev  SeemsGood
+
+00:56:48
+charafmrah: Sarah is cool
+
+00:56:50
+<transcript>: Does work for multiple cameras and audio. Great for podcast. Okay, triv, we're going to check that one out, too. Sebbed, welcome to Chat. I'm definitely in love with your setup. Thank you so much, sebbed. Sebbed. Thank you so much.
+
+00:56:57
+trivenge: https://www.youtube.com/watch?v=E00bO05L3v8&
+
+00:56:59
+cult_hero: Nice camera setup
+
+00:57:02
+trivenge: saras video for reference
+
+00:57:05
+<transcript>: Still processing. Takes time. Yeah. Come back in like ten minutes. Oh, man. Pretty great Cook. Bishop, you want to move to the ozarks? Be my personal chef. Often wonder about tj's accent. Seems kind of unique. Yeah, he's from, like the north, right from Michigan. Michigan.
+
+00:57:10
+thdxr: 40min left adam
+
+00:57:10
+sebt__: How do you make this moving camera?
+
+00:57:11
+<transcript>: It's processing. It's processing. I feel like if peach said that that's what it would sound like.
+
+00:57:11
+<transcript>: i only watch twitch
+
+00:57:17
+<transcript>: I only watch twitch Stream to increase my attention span. Yeah, I guess twitch is a long form, medium.
+
+00:57:18
+bishopdev: @adamdotdev nah, I'm good, the guns give me anxiety
+
+00:57:18
+smilingbig: 100% LUL
+
+00:57:24
+<transcript>: That's a good point. Twitch. Not the short video unavailable. It was removed. Wait, what.
+
+00:57:30
+<transcript>: What? This video was removed because it was too long. Is this a joke.
+
+00:57:32
+trivenge: LOL
+
+00:57:32
+<transcript>: What.
+
+00:57:32
+<transcript>: good run
+
+00:57:34
+texoport: rip
+
+00:57:36
+smilingbig: good problem to have Kappa
+
+00:57:36
+<transcript>: Good run. What happened? Video is too long. What are you talking about.
+
+00:57:38
+chipwheel: i removed all social media from my phone and I am a happier person
+
+00:57:38
+charafmrah: what
+
+00:57:41
+jokestera_e: lol its early 2000s again
+
+00:57:43
+<transcript>: Upload videos longer than 15 minutes you can upload after 15 minutes and verify against are you kidding me.
+
+00:57:44
+kauai_life: Thats wghat she said
+
+00:57:46
+<transcript>: I have to verify. What is this.
+
+00:57:51
+<transcript>: Okay, fuzzy, I can't give you all my phone number.
+
+00:57:51
+<transcript>: that can't be
+
+00:57:51
+adjectiveallison: lmao
+
+00:57:52
+<transcript>: That can't be a thing.
+
+00:57:52
+<transcript>: i've never
+
+00:57:52
+mehulsharmamat: wait what?? thats a thing?
+
+00:57:55
+<transcript>: I've never seen anything like that.
+
+00:57:56
+trivenge: LUL
+
+00:58:00
+<transcript>: I guess I have one YouTube channel, so of course, I've never seen it. Oh, no.
+
+00:58:00
+<transcript>: the numbers
+
+00:58:03
+<transcript>: The numbers associated with too many channels.
+
+00:58:03
+smilingbig: don't worry we won't call you Kappa
+
+00:58:06
+<transcript>: Oh, hey, DAX.
+
+00:58:08
+trivenge: LOL
+
+00:58:10
+<transcript>: Hey, dax. Could you.
+
+00:58:12
+<transcript>: I need your help.
+
+00:58:12
+trivenge: hahahahaha
+
+00:58:15
+thdxr: i can try yeah
+
+00:58:16
+<transcript>: Zax, are you here.
+
+00:58:16
+<transcript>: dax
+
+00:58:17
+<transcript>: Dax.
+
+00:58:23
+adamdotdev: https://www.youtube.com/verify
+
+00:58:24
+<transcript>: You can try. Okay. Perfect. Go to this link. Youtube.com verify.
+
+00:58:24
+thdxr: getting out of the shower
+
+00:58:26
+<transcript>: I'll even paste it for you.
+
+00:58:28
+mattgoslow: Adam needs a grown up!
+
+00:58:29
+<transcript>: Getting out of the shower. Okay.
+
+00:58:29
+<transcript>: tm
+
+00:58:31
+adjectiveallison: @thdxr hot
+
+00:58:37
+<transcript>: Tmi. But I'm just kidding. Adam needs a grown up. I need grown up. Help. Dax. Okay, here's what we're going to do.
+
+00:58:37
+<transcript>: we're going
+
+00:58:41
+jokestera_e: is the phone in the shower?
+
+00:58:51
+<transcript>: We're going to eat a larabar because I'm hungry, and because we're waiting on dax to get his clothes on and verify our YouTube account. That's the sentence I never thought I would say, ever. Do we ever figure out who Archangel is? Who's Archangel.
+
+00:58:52
+smilingbig: LUL
+
+00:58:55
+<transcript>: Is the phone in the shower? That's a great question.
+
+00:58:55
+<transcript>: dax
+
+00:59:01
+<transcript>: Dax, is your phone in your shower with you. Do you take your shower? Your phone to the shower.
+
+00:59:01
+mattgoslow: Hurry up and get flossing Dax!
+
+00:59:06
+inouno: Coding laravel because of larabar?
+
+00:59:09
+<transcript>: Did it work? Oh, there's no music.
+
+00:59:09
+amanharwara: you listen to Lorn? t3ggParty SeemsGood
+
+00:59:11
+warrenbuffering: Its (913) 634 2069
+
+00:59:11
+charafmrah: I don't know if I feel good about the suggestion or bad for ruining the Laravel & PHP fun
+
+00:59:12
+trivenge: i do, i listen to them podcasts when i shower
+
+00:59:14
+thdxr: yes and i was watching you the whole time
+
+00:59:16
+<transcript>: There's no music? Daxy skyler, shower.
+
+00:59:18
+onewobblybadger: Got my first dev job last year at 30 years old, and the 22 year olds I work with are just as ADHD as I am. We’re all screwed
+
+00:59:20
+<transcript>: There you go. There's your dax fact for the day.
+
+00:59:21
+trivenge: i even listened to this podcast a few times with this dax and adam fella
+
+00:59:24
+thdxr: while i cleaned my body
+
+00:59:28
+thdxr: and shaved my head
+
+00:59:33
+<transcript>: I got my first Dev job last year at 30 years old and a 22 year old I work with are just as ADHD as I am. We're all screwed. It's so true. Also, welcome to Chat. One wobbly Badger.
+
+00:59:39
+mattgoslow: 🦲
+
+00:59:41
+<transcript>: Oh, man.
+
+00:59:45
+trivenge: lol
+
+00:59:49
+<transcript>: That one was good. Dax, you watched me the whole time. You're in the shower.
+
+00:59:49
+andreaslorozco: LUL
+
+00:59:49
+dmdboi: sus champ
+
+00:59:52
+sj_se: adam should go shaved head as well
+
+00:59:56
+trivenge: "if only adam knew what i was doing right now"
+
+00:59:58
+<transcript>: Hurry up and get flossing. Okay, I got to stop reading chat coding. Laravel. Because of lara Bar. How funny, right.
+
+01:00:04
+<transcript>: Slap your melon like it's ripe. Thank you for the follow.
+
+01:00:08
+<transcript>: Twitch. Twitch is the strangest place on Earth, and I love it so much.
+
+01:00:11
+<transcript>: It's not your name. It's just that I said that.
+
+01:00:17
+<transcript>: Just like, in what world do I say? Things like slap your melon. Like it's right. Thanks for the follow.
+
+01:00:18
+mattgoslow: The internet is weird isn't it haha
+
+01:00:20
+<transcript>: It's just a funny life. I live now.
+
+01:00:24
+<transcript>: Larvae. Larabar. How funny? Right.
+
+01:00:33
+<transcript>: Listen to Lauren. Yeah, I do. Aman. I'm glad you liked it. Warren, is that your phone number? Can we all just text you now.
+
+01:00:35
+zryqv: wait till IceWallowCome follows you
+
+01:00:36
+<transcript>: I don't know if I feel good about.
+
+01:00:36
+<transcript>: the
+
+01:00:36
+warrenbuffering: laraghini
+
+01:00:44
+smilingbig: I feel like everything is weird not only the internet LUL
+
+01:00:47
+<transcript>: The suggestion or bad for ruining the laravel and php fund. Oh chara, no, listen, there are plenty of ideas, plenty of side projects that I want to build. And laravel is the next thing I'm going to use to build something.
+
+01:00:50
+<transcript>: We'll get to it in due time.
+
+01:00:54
+<transcript>: Okay.
+
+01:00:54
+<transcript>: did i see
+
+01:00:57
+<transcript>: Did I see Bishop earlier? I don't know if I saw.
+
+01:00:57
+<transcript>: bishop did
+
+01:00:59
+smilingbig: life is weird
+
+01:01:00
+julianfbeck: you going to raid the aws stream again after this stream :D
+
+01:01:03
+<transcript>: Bishop, did you say you got a job? You got the job offer? Bishop? Did I see that you still here.
+
+01:01:05
+bishopdev: I DID !
+
+01:01:08
+trivenge: adam comes on stream, clean shaven on top, "today, i am dressed up as...wait for it...DAX!" the day? halloween
+
+01:01:09
+delvoid: What made you decide to try laravel?
+
+01:01:10
+<transcript>: You even listened to this podcast a few times with dax and Adam. Hey, while you're in the shower. All right.
+
+01:01:10
+<transcript>: and cheers
+
+01:01:10
+thdxr: did you see arc angel
+
+01:01:11
+<transcript>: And cheers.
+
+01:01:11
+<transcript>: your head
+
+01:01:12
+<transcript>: Your head.
+
+01:01:13
+smilingbig: congrats BishopDev
+
+01:01:15
+<transcript>: That's funny.
+
+01:01:21
+<transcript>: Okay. Adam should go shaved as well. Maybe I should. Honestly, I would never have to think about my terrible hair again.
+
+01:01:21
+<transcript>: i probably
+
+01:01:23
+warrenbuffering: No my number is {say Dax's number out loud}
+
+01:01:30
+<transcript>: I probably should. If only Adam knew. Oh, my God. Okay. I'm going to keep moving. The Internet is where is weird, isn't it? It's so true.
+
+01:01:31
+bishopdev: gonna have the $ rolling in now, leave my wife, buy a porsche and spend it on a mistress
+
+01:01:39
+<transcript>: Wait till I swallow come follows you who's that.
+
+01:01:39
+<transcript>: oh god
+
+01:01:41
+<transcript>: Oh, God, I just said that out loud.
+
+01:01:43
+onewobblybadger: Average day on twitch: “Thanks for the bits xxx_php_poonhunter”
+
+01:01:46
+smilingbig: LUL
+
+01:01:47
+insanitylater: hahaha
+
+01:01:47
+dmdboi: LUL
+
+01:01:50
+daltkb_: LUL
+
+01:01:50
+jokestera_e: LUL
+
+01:01:50
+deenr: KEKW
+
+01:01:50
+andreaslorozco: oh
+
+01:01:50
+<transcript>: I've never seen that one. I've seen a lot of them.
+
+01:01:50
+<transcript>: i've seen
+
+01:01:51
+thdxr: LMAOOOO
+
+01:01:53
+thdxr: ADAM
+
+01:01:54
+<transcript>: I've seen the very innocent ones, like the Simpson ones. Someone at the beginning of my stream said.
+
+01:01:54
+<transcript>: i'm
+
+01:01:55
+thdxr: HOWWWW
+
+01:01:57
+charafmrah: lmfaooo
+
+01:01:57
+goodgrandpaa: LUL clipped for virality inc
+
+01:01:57
+insanitylater: LOL
+
+01:01:58
+texoport: xD
+
+01:01:59
+thdxr: CLIP IT
+
+01:02:01
+mattgoslow: Read first Adam, read first!!!
+
+01:02:02
+ben_winnen: amazing
+
+01:02:03
+trivenge: lol
+
+01:02:04
+bweezy224: LOL
+
+01:02:04
+<transcript>: I'm looking for Amanda hugging kiss. I've I've heard that one. I've never heard that one that you just posted. Zr. And I regret saying it out loud.
+
+01:02:11
+<transcript>: I feel like everything is weird. Not all the Internet. It's true. Life is weird.
+
+01:02:11
+jokestera_e: They are all from the Simpsons lmao
+
+01:02:14
+mattgoslow: Bless you're innocent aren't you lol
+
+01:02:16
+jokestera_e: Barts prank calls
+
+01:02:19
+dmdboi: Clip it
+
+01:02:21
+<transcript>: You're going to raid the aws stream again? I can't raid the Ad best stream. I don't know how dax did, because somebody told me they have to follow you. Does aws follow daxon, not me.
+
+01:02:23
+dmdboi: Bart prank calls are my favourite
+
+01:02:26
+<transcript>: If so, that would be what you call hate following.
+
+01:02:28
+trivenge: theres money in programming still?
+
+01:02:33
+goodgrandpaa: We had to manually raid them LUL
+
+01:02:35
+<transcript>: You did, Bishop. Oh, jeez, I see a lot of messages. What is going on? Don't clip it, don't clip it.
+
+01:02:35
+<transcript>: don't cl
+
+01:02:35
+thdxr: I convinced one of them to follow me
+
+01:02:38
+<transcript>: Don't clip it. Just don't do it.
+
+01:02:38
+<transcript>: how
+
+01:02:38
+mehulsharmamat: gaah. just ran into npm cache minimatch problems hell naw
+
+01:02:38
+cult_hero: Hey Adam - I’ve noticed that recruiters aren’t beating down the door on linkedin as they were a year ago - do you feel like this is uniform across the tech industry or focused on specific developers / roles?
+
+01:02:42
+<transcript>: How was my inflection? It didn't really sound like the words, right.
+
+01:02:44
+goodgrandpaa: @thdxr oh.. Kappa
+
+01:02:48
+andreaslorozco: ummm it did
+
+01:02:48
+<transcript>: Who is Arc? Angel dax. Oh, my word. What is the archangel thing? Someone tell me. Let me in on the joke.
+
+01:02:52
+<transcript>: Adam Comes on stream clean shaven on top.
+
+01:02:54
+smilingbig: no worries you can see how you said it in the clip LUL
+
+01:02:56
+mattgoslow: It sounded exactly like the words
+
+01:02:56
+jokestera_e: It did sound like it lol
+
+01:02:58
+<transcript>: Yeah, I could dress as dax. Oh, man, I'm going to be dax for Halloween. I can't wait.
+
+01:02:58
+<transcript>: i'm just going to be
+
+01:02:59
+<transcript>: I'm just going to be.
+
+01:02:59
+<transcript>: a jerk
+
+01:03:00
+<transcript>: A jerk.
+
+01:03:00
+<transcript>: to everybody
+
+01:03:03
+trivenge: adam is like anchorman, ron burgundy over here, reads everything that comes on the teleprompter LUL
+
+01:03:04
+<transcript>: To everybody. It's okay. I'm from the East Coast. I get to be a jerk to you.
+
+01:03:06
+insanitylater: @cult_hero I'm a CSM in tech and I've noticed the slow down as well.
+
+01:03:11
+<transcript>: What made you decide to try? Laravel? Devil devoid. Great question. I'm a free agent.
+
+01:03:11
+<transcript>: i left
+
+01:03:16
+<transcript>: I left the React next community. The I'm just done with react.
+
+01:03:20
+cazcik: arcángel
+
+01:03:31
+warrenbuffering: ayyyy I wokkin eeeearrrr
+
+01:03:34
+<transcript>: And I needed something new. And I know all these people from the Larry Booking community. They're all on Twitter. We bump into them all the time. We had Aaron on the podcast on Tuesday. We bumped into them all the time. They seem so happy, so drama free. And I finally just tried it. And I was going to make a YouTube video. So I made a YouTube video. It'll be out soon.
+
+01:03:39
+<transcript>: Of just like a javascript developer's first impressions of larabelle I didn't know I was going to fall in love.
+
+01:03:39
+<transcript>: i just
+
+01:03:40
+trivenge: junior devs are struggling, too many devs now @cult_hero
+
+01:03:45
+<transcript>: I just thought I'm going to record my first exposure to it. I'm going to do, like, the starter project. I'm going to get started and see what happens.
+
+01:03:45
+<transcript>: and
+
+01:03:46
+thdxr: you're not a fucking free agent
+
+01:03:52
+<transcript>: And I fell in love. It's amazing. I just can't believe how much functionality on the starter project, how good the docks are. All of it.
+
+01:03:52
+<transcript>: so
+
+01:03:53
+smilingbig: LUL
+
+01:04:00
+trivenge: clear data on this as well. far too many people at the junior level. not enough good programmers at the upper level though
+
+01:04:01
+<transcript>: So I'm still in the very early stage where I'm just enamored. I have not gotten to the part where, oh, I don't actually like php. I'm sure I'll get there. I'm not there yet.
+
+01:04:02
+smilingbig: thdxr <3
+
+01:04:07
+<transcript>: Bishop going to have the money rolling. And now leave my wife buy a porsche. Oh, no, this just went dark.
+
+01:04:09
+cult_hero: @insanitylater hopefully
+
+01:04:13
+thdxr: can you link me to the verify thing again
+
+01:04:15
+trivenge: basically, if you are a dev now, you made it. enjoy
+
+01:04:16
+<transcript>: Average day on twitch. Thanks for the Bits XXX petri.
+
+01:04:16
+<transcript>: yeah
+
+01:04:18
+<transcript>: Yeah, exactly.
+
+01:04:21
+adjectiveallison: @thdxr youtube.com/verify
+
+01:04:27
+<transcript>: Okay. How? Adam? How. What did I do? Oh, that's when I said that I can't believe I've never seen that one. Okay.
+
+01:04:32
+<transcript>: I'm naive. I see somebody write something in chat. I read it out loud.
+
+01:04:32
+<transcript>: they
+
+01:04:32
+cult_hero: PHP 8 is incredibly good with strict mode - plus the ecosystem is great and composer is the best package manager out there
+
+01:04:38
+<transcript>: They're all from the simpsons. That one's from there's no way that one's from the simpsons. That one's way, too. Rated X.
+
+01:04:39
+thdxr: Only channel owners can verify their phone number.
+
+01:04:41
+<transcript>: There's no way, right.
+
+01:04:47
+thdxr: can you try putting in my phone number?
+
+01:04:47
+<transcript>: They're all from simpsons. Bless your Innocent, aren't you? Yeah. No, I'm from the Ozarks.
+
+01:04:47
+<transcript>: i don't get
+
+01:04:49
+<transcript>: I don't get out a lot.
+
+01:04:49
+<transcript>: there's
+
+01:04:50
+thdxr: I'll send you the sms
+
+01:04:55
+<transcript>: There's no way that when someone tell me if that one's from the instance I need to see like a YouTube clip, there's no way.
+
+01:04:58
+emerycik: Any opinion on .NET?
+
+01:05:05
+<transcript>: There's money in programming. Still, I think so. We had to manually raid them. How do you manually rate them? You just all left and decided you're going into the aw stream. That's funny.
+
+01:05:05
+<transcript>: you
+
+01:05:09
+mehulsharmamat: ooh i love life itself good song
+
+01:05:09
+trivenge: but your pay may decrease in the future. there was a talk about this on an investment and business talk featuring forbes and a number of t500 companies, and the consensus is, that in the future, devv pay must come down was the talk.
+
+01:05:11
+bishopdev: @triveNge it's not quite like that, outsourcing companies got hit but most product companies, especially in essential services + industry
+
+01:05:13
+<transcript>: You convince one of them to follow you. Is that true? Dax just ran into mpm cache, mini match problems. Oh, hell, no, that sounds awful.
+
+01:05:13
+<transcript>: hello
+
+01:05:23
+<transcript>: Hello, colt. Hero. I've noticed that recruiters aren't beating down the door on LinkedIn as they were a year ago. Do you feel this is uniform across Second Street? Focus on specific developer girls. No, it's probably pretty uniform.
+
+01:05:24
+kauai_life: @Emerycik love it
+
+01:05:27
+<transcript>: I think hiring slowed a bit.
+
+01:05:31
+william_jacob: There is a video on youtube: "25 Years of PHP (by the Creator of PHP)", it gives you a very good understanding of why php works the way it does
+
+01:05:37
+<transcript>: And I'm sure there's less recruiting going on during this little stretch. I think it'll recover. It always recovers. Economy go up. It's how it works, right.
+
+01:05:37
+<transcript>: i think
+
+01:05:39
+<transcript>: I think.
+
+01:05:42
+<transcript>: And the reason I think.
+
+01:05:42
+<transcript>: i said that
+
+01:05:43
+trivenge: it wont recover
+
+01:05:44
+trivenge: lol
+
+01:06:02
+<transcript>: I said that so flippantly. The reason I think it'll recover and the reason I think generally things get better over time. This is rational, optimist stuff. So I'm not like these are not my own thoughts. It's just books I've read. But generally there are more people in the world waking up every day, trying to make the world better than the opposite or people who just don't care. There's more people waking up every day and trying.
+
+01:06:02
+<transcript>: to improve
+
+01:06:04
+bishopdev: it will, it'll just take some time
+
+01:06:05
+smilingbig: after all the ai breaks everything we'll get hired again LUL
+
+01:06:05
+trivenge: its far too saturated at the lower end. how will it recover? people who are at the gate will need to find a different career path
+
+01:06:09
+<transcript>: To improve the lives of them and then people around them. So I think generally it'll recover. Just generally. Things trend upward.
+
+01:06:09
+<transcript>: no worries
+
+01:06:21
+<transcript>: No worries. You can see how you said it in the clip. Oh, boy. Sounds exactly like the words. I don't know. This is awful. I'm going to get canceled. Adam is like anchorman, not Ron burgundy. Over here reads everything that comes on teleprompter. It's so true. I really do.
+
+01:06:21
+<transcript>: i'm a cs
+
+01:06:27
+<transcript>: I'm a csm in Tech, and I've noticed the slowdown as well. Archangel. Who is Archangel.
+
+01:06:27
+<transcript>: a
+
+01:06:33
+<transcript>: A Warren? What? I woke an ear? I walk in ear? Oh, I walk in here I got you.
+
+01:06:33
+<transcript>: junior
+
+01:06:36
+<transcript>: Junior Desert struggling too many devs now.
+
+01:06:47
+<transcript>: I'm not a free agent. Why am I not a free agent? Dax, I can be whatever I want. Are you my agent? No. I'm a free agent. Clear data on this as well. Far too many people to junior level. Not enough. Good programs at the upper level.
+
+01:06:51
+<transcript>: Can you lead me to the verify thing? Do I really have to do I have to do it again.
+
+01:06:52
+adamdotdev: https://www.youtube.com/verify 󠀀
+
+01:06:53
+<transcript>: Do I have to.
+
+01:06:56
+<transcript>: Go, dex.
+
+01:07:00
+<transcript>: It's just literally verify.
+
+01:07:02
+dontreadmynameoutloud1: more people waking up and trying to make the world a better place: RSC - you are doing everything wrong -  exists. Are none of these people on the react team?
+
+01:07:06
+smilingbig: catJAM
+
+01:07:07
+yoloswag360noscope: don't throw rocks at me, but i hope software engineering becomes like other engineering profession and u need a liscense to practice, this will cut out the job saturation :)
+
+01:07:16
+<transcript>: I love life itself. Good song. Agreed. Any opinion on Net? Emery? Great question. I started my career in Net, spent my first five years writing only Net. I think it was great. I had a great time writing Net. Oh, Alison, you already took care of it. Thanks.
+
+01:07:22
+trivenge: oh no, license is always a great gatekeeping tool SeemsGood
+
+01:07:22
+greatgrievance: @triveNge i disagree. I think the bar for entry has just gone up a little, for the time being.
+
+01:07:24
+<transcript>: Basically, if you're a dev, now, you made it enjoy. Oh, that's a bummer. It'll recover. It'll recover. There's going to be plenty of new jobs created.
+
+01:07:24
+<transcript>: it's going to
+
+01:07:31
+<transcript>: It's going to recover. Only channel owners can verify their phone number. Can you try putting in my phone number? Yes. Send it to me.
+
+01:07:31
+<transcript>: dax
+
+01:07:31
+coolpantstv: dotnet is great
+
+01:07:32
+<transcript>: Dax.
+
+01:07:32
+<transcript>: okay
+
+01:07:44
+thdxr: you have my phone number bozo
+
+01:07:45
+trivenge: the bar has gone up because there are too many people at the gate, yes @GreatGrievance
+
+01:07:45
+thdxr: just don't leak it
+
+01:07:49
+<transcript>: Okay, by the way, about your pay may decrease in the future. There was a talk about this on an investment business stock featuring Forbes. A number of tfit 500 companies consider future Dev pay must come down. Yeah. No. I believe we were probably in a big bubble. I think we've been getting paid too much. Maybe. I don't know. Oh, I have your fun.
+
+01:07:49
+<transcript>: funeral
+
+01:07:50
+<transcript>: Funeral.
+
+01:07:55
+<transcript>: Just put it in twitch chat. Next.
+
+01:07:55
+<transcript>: i do have
+
+01:07:57
+<transcript>: I do have to access phone number.
+
+01:07:57
+<transcript>: let's find
+
+01:07:57
+sockthedev: have y'all noticed copilot getting much better recently? it's crazy how much code it is writing for me now.
+
+01:07:59
+<transcript>: Let's find it.
+
+01:08:11
+<transcript>: Let's find this phone number. I don't have it memorized. Do you guys remember when you were young and you had your friends numbers memorized? Because you said, type it in like a monkey every time you want to talk to them. Okay, here we go.
+
+01:08:12
+thdxr: don't read it out loud
+
+01:08:15
+thdxr: like you read everything out loud
+
+01:08:16
+<transcript>: I'm not sharing my screen, right.
+
+01:08:16
+<transcript>: should probably
+
+01:08:18
+jaystation3x: More than 5 years of .NET. The shift branch alone lasted 3.5 years.
+
+01:08:19
+<transcript>: Should probably object. I'm not right.
+
+01:08:19
+<transcript>: no
+
+01:08:19
+gitpush__gitpaid: @thdxr harsh way to find out adam didnt save your number
+
+01:08:20
+coolpantstv: nah, just you boomer
+
+01:08:21
+<transcript>: No. Okay. Good.
+
+01:08:25
+thdxr: i still remember my friend's phone number from when i was 8
+
+01:08:26
+<transcript>: Dax, send me the code. You can text it to me. I've got you pulled up right here.
+
+01:08:26
+mehulsharmamat: your screen is being shared adam
+
+01:08:27
+adjectiveallison: @thdxr It's amazing that you have to say this
+
+01:08:30
+<transcript>: Okay.
+
+01:08:33
+smilingbig: gitpush__gitpaid LUL
+
+01:08:36
+pankexillo: Hi Adam, how's Laravel treating you?
+
+01:08:37
+jokestera_e: I remember taking my friends number and signing them up at those remodeling kiosks at the mall so they would get constant calls
+
+01:08:37
+<transcript>: There's a video on YouTube. 25 years of php by the creator of php. It gives you a very good understanding why php works the way it does. Okay.
+
+01:08:43
+<transcript>: We might check that out. After all, I missed it.
+
+01:08:43
+greatgrievance: @triveNge too many? no, people are just lining up at the gate before they're actually ready to ship software
+
+01:08:51
+<transcript>: Bar has gone up because there are too many people at the gate. Just don't leak it. I won't leak it if you all notice copilot getting much better recently. It's crazy how much code. I haven't noticed that, but I'd like to.
+
+01:08:54
+<transcript>: Don't read it out loud like you read.
+
+01:08:56
+<transcript>: Harsh.
+
+01:08:57
+bishopdev: I can tell you from my experience looking for a new job, 3 years ago I had to block recruiters, stuff was insane, companies just throwing money. this past month interviewing has been a wake up call, actually have to put in some effort
+
+01:09:00
+<transcript>: Number. Okay. Here we go. Look. Iphone. Here we go.
+
+01:09:00
+onewobblybadger: Still remember my grandparents land line number they they haven’t had in 10
+
+01:09:06
+<transcript>: Your verification code would start like that. Dax. Only me. And you get that one.
+
+01:09:06
+<transcript>: only
+
+01:09:12
+<transcript>: Only mean you get that phone number verified. Congratulations. We did it. Now what are we done.
+
+01:09:12
+<transcript>: is it
+
+01:09:16
+<transcript>: Is it working? Can I upload big videos now.
+
+01:09:19
+adjectiveallison: now you can upload the video
+
+01:09:22
+adjectiveallison: GGWP
+
+01:09:25
+<transcript>: Can I delete? We gotta try again. I'm not gonna bring you guys over here to the screen in case it doesn't work. I don't want to waste your time.
+
+01:09:31
+kauai_life: you can upload MASSIVE videos now
+
+01:09:32
+<transcript>: I don't want to waste your time. That's the thing I just said on my stream of all places.
+
+01:09:34
+<transcript>: Okay.
+
+01:09:34
+<transcript>: just you
+
+01:09:46
+greatgrievance: @triveNge for a long time, all you had to do was prove you could learn. You didn't actually need to know much. That was never going to last
+
+01:09:49
+<transcript>: Just you. Boomer. What am I, the boomer? I still remember my friend's phone number from when I was eight. I could probably if I thought hard enough, I could probably remember some phone numbers. Your screen is being shared. Stop it, stop it. Behold. Just trolling me.
+
+01:09:49
+<transcript>: all
+
+01:09:50
+<transcript>: All.
+
+01:09:50
+<transcript>: hey pink
+
+01:09:58
+<transcript>: Hey, Pink. Welcome to Chat. How's larval treating you good. We ended up not having to build my side project because.
+
+01:09:58
+<transcript>: somebody else built
+
+01:10:01
+<transcript>: Somebody else built it and it's better than I would have ever built it.
+
+01:10:13
+<transcript>: So we're going to look at if it works. We're going to try it out here in just a second. You can upload massive videos now, here we go. Now you can upload the video. Here we go. Big, massive video episode.
+
+01:10:13
+<transcript>: nineteen
+
+01:10:14
+<transcript>: 19.
+
+01:10:14
+<transcript>: let's go
+
+01:10:15
+<transcript>: Let's go.
+
+01:10:17
+<transcript>: 19.
+
+01:10:21
+<transcript>: Next unlisted save.
+
+01:10:24
+<transcript>: Here we go.
+
+01:10:24
+<transcript>: is it
+
+01:10:26
+<transcript>: Is it working.
+
+01:10:28
+<transcript>: Thank you for the follow.
+
+01:10:32
+<transcript>: I'm not going to say that one.
+
+01:10:32
+<transcript>: hug
+
+01:10:34
+<transcript>: Hug. I'm going to call you hug.
+
+01:10:34
+<transcript>: i don't know what
+
+01:10:37
+dontreadmynameoutloud1: what is the side project?
+
+01:10:43
+<transcript>: I don't know what that's supposed to mean, but hug. We'll go with that. Now. I feel like people are just making new twitch accounts to get me to say things out loud.
+
+01:10:43
+<transcript>: i'm not going
+
+01:10:49
+dmdboi: who would do that
+
+01:10:49
+<transcript>: I'm not going to do it. I'm not going to say things out loud anymore. What is the side project? Don't read my name out loud.
+
+01:10:49
+<transcript>: the sidewalk
+
+01:10:50
+<transcript>: The sidewalk.
+
+01:10:55
+smilingbig: KEKW
+
+01:10:56
+thdxr: it's not a side project it's a side side project
+
+01:10:59
+warrenbuffering: things out loud
+
+01:10:59
+kauai_life: you can change your twitch username too
+
+01:11:01
+<transcript>: We need to automate making clips out of our longer form videos of our podcast. So we recorded a podcast with me and dax. We have two full size videos. We want to make one.
+
+01:11:01
+<transcript>: social
+
+01:11:04
+thdxr: podcast = side project podcast tool = side side project
+
+01:11:08
+<transcript>: Social like portrait sized clip that bounces between our as we talk our cuts like our videos.
+
+01:11:08
+<transcript>: and it needs
+
+01:11:12
+<transcript>: And it needs to find the most interesting clips. And it exists. It's called.
+
+01:11:17
+<transcript>: I'm never going to remember the name of this opus. Opus, clip.
+
+01:11:21
+<transcript>: It's not a side project it's a side side project it's so true.
+
+01:11:33
+<transcript>: Things out loud. That's funny, Warren. You can change your tweak username, too. Oh, did somebody just change it? Just for me, podcast equals side Project Podcast tool equals side side project? That's a good point. It's a side project for our side project.
+
+01:11:38
+yoloswag360noscope: I think the problem is people can work in this field without degrees and even call themself engineers, you need a liscense to cal yourself an engineer ( at least in my country). Why can someone who watched youtube call themself an engineer
+
+01:11:40
+<transcript>: Inception. Okay. Now I got to see. Let's see if this video made it onto YouTube. Then.
+
+01:11:40
+<transcript>: i'll go over
+
+01:11:42
+<transcript>: I'll go over to my screen and we'll look at it.
+
+01:11:46
+<transcript>: Still processing.
+
+01:11:46
+<transcript>: okay
+
+01:11:53
+mehulsharmamat: @thdxr the node 18 solution worked
+
+01:11:54
+<transcript>: Okay. While it's processing, I really have to pee. How much time do we record? In 30 minutes, zacks? Yeah, we do. In 30 minutes. Right. Okay. I'll be right back. Got a pee.
+
+01:11:58
+<transcript>: I won't leave you long it'll just be a minute.
+
+01:11:59
+thdxr: woo
+
+01:12:11
+mehulsharmamat: i have no idea what it does tho but it WORKS!
+
+01:12:13
+trivenge: adams gonna pee and watch dax while hes on stream
+
+01:12:14
+trivenge: payback
+
+01:12:28
+sockthedev: adam has a bladder problem. honestly might have an infection. should see a doctor.
+
+01:12:28
+greatgrievance: @yoloswag360noscope imo, you shouldn't need a license for anything unless there a chance of severe damage. Building a bridge? get a license. Building a todo app? no license required
+
+01:12:47
+trivenge: maybe he takes stimulants, coffee, adderall, who knows
+
+01:12:55
+trivenge: i take adderall, and peeing a lot is fun :)
+
+01:12:58
+fixdib: @triveNge imao
+
+01:12:59
+bishopdev: @yoloswag360noscope I can clal myself w/e I want
+
+01:13:15
+yoloswag360noscope: @yoloswag360noscope true true, but at least need the CS degree then, this is why theres job saturation anyone can enter the field
+
+01:13:29
+adjectiveallison: If you drink a lot of water you pee a lot
+
+01:14:03
+jaystation3x: Stop watching Adam then because he doesn't have a CS degree.
+
+01:14:11
+trivenge: ^
+
+01:14:17
+trivenge: you guys need to gatekeep harder, ok?
+
+01:14:26
+greatgrievance: @yoloswag360noscope I had already shipped multiple sites/apps well before i graduated high school. Why do I need a CS degree? We don't need artificial barriers. Either you can or you can't build the thing you client/employer needs.
+
+01:14:26
+thdxr: i don't have a cs degree
+
+01:14:26
+trivenge: im disappointed in your gatekeeping skills
+
+01:14:32
+jaystation3x: Neither do I
+
+01:14:35
+adjectiveallison: I have 5 CS degrees
+
+01:14:40
+thdxr: adam doesn't have one and it shows!
+
+01:14:41
+sockthedev: i feel like this laravel play is just adam fishing for followers
+
+01:14:41
+canslaughter: @yoloswag360noscope just verify all your code in coq. Math doesn't care about degrees
+
+01:14:42
+mehulsharmamat: i dont have a cs degree but i also suck so...
+
+01:14:42
+adjectiveallison: none of them are real though
+
+01:14:52
+<transcript>: All right. Did it work? Is there a video? I guess you guys wouldn't know.
+
+01:14:55
+<transcript>: Let's see.
+
+01:14:55
+<transcript>: still processing
+
+01:14:56
+serudda: wuaaaa @adamdotdev who did you do the “I'll be right back” scene? It's beautiful, do you have a guide or a tutorial about it? Thanks in advance...
+
+01:14:56
+<transcript>: Still processing.
+
+01:14:59
+mehulsharmamat: wait... how many people ACTUALLY have a cs degree?
+
+01:15:04
+<transcript>: It's like a 30 minutes video. Does it take that long to process a 30 minutes video? I don't know. I don't know anything about YouTube. Anybody know.
+
+01:15:07
+nxia618: hey all, laravel docs looks so enticing
+
+01:15:08
+<transcript>: Seruta.
+
+01:15:16
+trivenge: 10-30 minutes
+
+01:15:17
+<transcript>: Who did? Who did you do? The. I'll be right back. Scene. It's beautiful. Do you have a guide or a tutorial about it? Thanks. In advance. No, siruda. I don't have any guides.
+
+01:15:17
+bishopdev: I don't have a CS degree, but I plan on getting one cause I get a 15% tax discount for it
+
+01:15:19
+trivenge: sometimes longer
+
+01:15:20
+<transcript>: So all my overlays.
+
+01:15:22
+<transcript>: Are designed by David.
+
+01:15:24
+greatgrievance: @nxia618 laravel docs is laravel's best selling point
+
+01:15:24
+adamdotdev: !david
+
+01:15:25
+fossabot: Adam regularly uses David Hill for design work. You can check out David's personal site at https://iamdavidhill.com/ which includes links to socials!
+
+01:15:29
+mehulsharmamat: @BishopDev woah i hope i got funded to do stuff like that
+
+01:15:34
+<transcript>: My designer friend, David, let's see here. David. You could reach out to David if you want David Hill to do your design work, he designed all my overlays and then the music is all Breakmaster cylinder.
+
+01:15:38
+<transcript>: I don't know if I have a command.
+
+01:15:38
+adamdotdev: !theme
+
+01:15:38
+fossabot: Adam uses the Dracula theme with the Operator Mono font in Neovim.
+
+01:15:39
+yoloswag360noscope: @yoloswag360noscope oh i'm aware of that, just saying that to work in any other profession you mostly need a certification most of the time
+
+01:15:39
+<transcript>: For.
+
+01:15:41
+adamdotdev: !music
+
+01:15:41
+fossabot: Adam's stream music is created by Breakmaster Cylinder. Check them out on twitter @ https://twitter.com/brkmstrcylinder
+
+01:15:43
+<transcript>: Music.
+
+01:15:46
+<transcript>: Yeah, breakmaster, cylinder.
+
+01:15:46
+<transcript>: and speaking of
+
+01:15:47
+trivenge: !youtube
+
+01:15:51
+<transcript>: And speaking of music, where did the music go? Did it stop it? Did the music stop.
+
+01:15:52
+adjectiveallison: David doesn't have a valid SSL certificate
+
+01:15:52
+trivenge: !tiktok
+
+01:15:54
+<transcript>: It stopped.
+
+01:15:57
+serudda: Thanks!
+
+01:15:58
+adjectiveallison: maybe you should help him with that since he did your overlays
+
+01:16:01
+<transcript>: There we go. So we're still waiting on YouTube. David doesn't have a valid ssl certificate.
+
+01:16:02
+mehulsharmamat: im really scared of adding payment to aws because i have no idea what's happening and i don't want to pay $100k a month
+
+01:16:05
+<transcript>: Maybe I should.
+
+01:16:06
+trivenge: omg adam doesnt post his content clips on tiktok NotLikeThis
+
+01:16:16
+<transcript>: I didn't know david's site didn't have an sl shirt. That's not good. I'm really scared of adding payment to aws because I have no idea what's happening and I don't want to pay $100,000 a month. May. Listen.
+
+01:16:16
+<transcript>: those
+
+01:16:19
+<transcript>: Those fears are unfounded.
+
+01:16:19
+<transcript>: there's a little
+
+01:16:19
+greatgrievance: david mustve missed the LetsEncrypt transition
+
+01:16:22
+<transcript>: There's a little piece of larbar laying on my desk.
+
+01:16:26
+<transcript>: You're not going to end up with $100 bill.
+
+01:16:28
+thdxr: @mehulsharmamat that's more likely to happen to you on vercel lol
+
+01:16:30
+<transcript>: If you're building it in a modern way.
+
+01:16:30
+<transcript>: like with
+
+01:16:32
+<transcript>: Like with SST.
+
+01:16:33
+mehulsharmamat: @thdxr ayo lmao
+
+01:16:39
+thdxr: he's deploying with SST
+
+01:16:40
+<transcript>: We're like going to have it on forcellia. If you're building with ssc, there's just no way you're going to rack up a big bill because you're going to use services that are very cheap.
+
+01:16:41
+thdxr: i think
+
+01:16:44
+william_jacob: Maybe a fun idea to look at large scale open source laravel projects to get an idea of what you can build with it?
+
+01:16:46
+trivenge: cant you just get a random debit card from mastercard, a prepaid, and just set a specific amount on there? @mehulsharmamat
+
+01:16:51
+mehulsharmamat: @thdxr is sst serverless? lambda thingy?
+
+01:16:54
+thdxr: and they always refund mistakes
+
+01:16:56
+<transcript>: I got to start posting stuff on TikTok.
+
+01:17:00
+trivenge: they have prepaid cards at walmart
+
+01:17:06
+<transcript>: Yeah? Aws.
+
+01:17:09
+mehulsharmamat: @triveNge yep probably will do that
+
+01:17:11
+mattmancodes: I don't have a CS degree, nor do I personally call myself an Engineer. I've only been doing this for ~20 yrs now so something must be going right without one.
+
+01:17:11
+darrenbaldwin03: omg
+
+01:17:13
+<transcript>: If you make a big mistake and you get a big bill. In the rare case, what happens? They work with them, they refund it.
+
+01:17:18
+<transcript>: Or forgive it or whatever.
+
+01:17:19
+alexandersix_: What's up what's up? Pumped that you've caught the Laravel bug!
+
+01:17:20
+<transcript>: Okay.
+
+01:17:20
+<transcript>: can't believe
+
+01:17:21
+dax_dev: I had a surprise 20€ bill from AWS last month.
+
+01:17:23
+darrenbaldwin03: @adamdotdev looking smexy with that hair
+
+01:17:23
+<transcript>: Can't believe SJ redeemed the one on one I'm so excited.
+
+01:17:27
+vanessa_machado: Bom dia!
+
+01:17:32
+<transcript>: Darren, thank you.
+
+01:17:37
+sockthedev: phew, theo was raging in that twitter space on the whole edge dialogue. saw you in there adam. awkward.
+
+01:17:39
+<transcript>: Dax said something about my hair one day and started this storyline where I fix my hair now.
+
+01:17:41
+thdxr: i built rox's product in 1hr yesterday and it can scale infinitely with no overhead
+
+01:17:42
+<transcript>: I still don't feel great about it.
+
+01:17:46
+trivenge: LUL
+
+01:17:47
+<transcript>: But it does look better than when I let it fall down on my face.
+
+01:17:51
+mehulsharmamat: @thdxr woah which one
+
+01:17:54
+<transcript>: It doesn't look good. Alex. Alex. Alexander. Thank you for the prime sub.
+
+01:17:55
+sj_se: @adamdotdev do we have to talk about tech stuff or can we tell each other our deepest secrets?
+
+01:17:57
+trivenge: roxcodes?
+
+01:17:57
+<transcript>: I think I know you from Twitter.
+
+01:17:57
+<transcript>: don't know me from twitter
+
+01:17:59
+<transcript>: Don't know me from Twitter, Alex.
+
+01:18:02
+darrenbaldwin03: @thdxr is like ur second wife lmao
+
+01:18:03
+<transcript>: College thank you for the follow.
+
+01:18:03
+<transcript>: also
+
+01:18:05
+<transcript>: Also nixia.
+
+01:18:05
+<transcript>: and
+
+01:18:05
+alexandersix_: Yep!
+
+01:18:08
+thdxr: https://twitter.com/thdxr/status/1656439412970995718
+
+01:18:10
+<transcript>: And Rascatar, Rascatar and dayloop. Thank you for the follows.
+
+01:18:11
+alexandersix_: I'm the excited Laravel guy lol
+
+01:18:20
+<transcript>: Do we have to talk about tech shop till we tell each other our deepest secrets and say we can do whatever you want.
+
+01:18:20
+<transcript>: we can do whatever
+
+01:18:23
+<transcript>: We can do whatever you want. I'm so excited. First one on one, call.
+
+01:18:23
+<transcript>: we're going
+
+01:18:26
+<transcript>: We're going to talk about any and everything.
+
+01:18:27
+<transcript>: It's all of it.
+
+01:18:31
+<transcript>: Okay.
+
+01:18:31
+<transcript>: you're the exc
+
+01:18:32
+trivenge: lol
+
+01:18:33
+<transcript>: You're the excited larvae guy. Yes.
+
+01:18:36
+<transcript>: I know you, Alex.
+
+01:18:36
+<transcript>: we'll
+
+01:18:37
+mehulsharmamat: what did you use for it @thdxr pls tell im literally doing the same thing but 1/100th compute (i think)
+
+01:18:38
+<transcript>: We'll see if the video is done.
+
+01:18:38
+<transcript>: you built
+
+01:18:41
+<transcript>: You built rocks. I just missed a message. What did you say.
+
+01:18:47
+<transcript>: I built roxas product in 1 hour yesterday and you can scare infinitely with no overhead. Yeah, the power of SST.
+
+01:18:47
+<transcript>: if everyone
+
+01:18:48
+nxia618: one day I’ll set some css and it’ll work
+
+01:18:53
+<transcript>: If everyone just could get an hour of dax's time, their side project would be way better for it.
+
+01:18:53
+<transcript>: vane
+
+01:18:56
+<transcript>: Vanessa, welcome to my.
+
+01:18:56
+<transcript>: chat
+
+01:19:00
+<transcript>: Chat BOM dia. What language is that? I feel like I've seen that before.
+
+01:19:05
+bishopdev: portuguese
+
+01:19:07
+dmmulroy: Think I'm going to write ReasonML bindings for SST
+
+01:19:08
+<transcript>: Few Theo was raging in that Twitter space. On the whole edge dialogue saw you in there, Adam. Awkward.
+
+01:19:09
+mattmancodes: portuguese
+
+01:19:15
+<transcript>: I listened to some of that space last night. I didn't hear him say anything about Edge, though. That's funny.
+
+01:19:24
+mehulsharmamat: serverless CSS
+
+01:19:25
+chrispian: Yeah, he got hot on the edge topic lol
+
+01:19:28
+trivenge: i entered rox's chat and was talkin about youtube and he wasnt in a good mood that day. says he knows a lot about youtube. and im like, i didnt know you know more than night media does, if you do, please share, but like, hes a cool dude SeemsGood
+
+01:19:29
+thdxr: @mehulsharmamat do you want me to rebuild your product too?
+
+01:19:30
+<transcript>: Did I hear him say anything about Edge? No, I didn't. But yeah, no, just don't call things the wrong thing. And then nobody will get upset like it's really easy. Just don't mix up words and confuse people. No one gets mad, I think.
+
+01:19:30
+<transcript>: i'm going to write reason
+
+01:19:33
+<transcript>: I'm going to write Reason ml bindings for SST.
+
+01:19:34
+gustavobarretto: it's good morning in portuguese
+
+01:19:34
+thdxr: tell me what you're making
+
+01:19:35
+tadeucaldas: Bom dia again! Hello from brazil!
+
+01:19:37
+<transcript>: Is the video ready.
+
+01:19:40
+<transcript>: The video is ready.
+
+01:19:40
+<transcript>: all right
+
+01:19:40
+dontreadmynameoutloud1: theo is an edgelord
+
+01:19:40
+coolpantstv: @thdxr are you building that on stream today?
+
+01:19:42
+mehulsharmamat: @thdxr the repo i shared :P
+
+01:19:43
+sockthedev: he was raging about edge. how did you miss it. called out dax hard. also said he loved him in same breath.
+
+01:19:44
+<transcript>: All right, let's drop the link. Let's go back over here.
+
+01:19:45
+warrenbuffering: motion to rename serverless to SLS?
+
+01:19:47
+<transcript>: Here we are.
+
+01:19:53
+<transcript>: We're back over here. We're dropping the video link. It says to drop it. We dropped it.
+
+01:19:55
+thdxr: @mehulsharmamat i don't wanna read the code tell me what it does lol
+
+01:19:59
+thdxr: @CoolpantsTV yeah i might
+
+01:20:04
+mattmancodes: LUL
+
+01:20:06
+<transcript>: Motion to rename serverless to sls. Okay, SST and sls. I like it. He was raging about edge. How'd you miss it? Called out dax hard. Oh, really? Also said he loved him in the same breath. Oh, I missed it.
+
+01:20:06
+<transcript>: i may have
+
+01:20:07
+trivenge: he worked for mr beast i guess for a bit, but hes aware of night at least. was a funny convo lol. rox seems cool though
+
+01:20:09
+vanessa_machado: @TadeuCaldas VirtualHug VirtualHug VirtualHug VirtualHug VirtualHug
+
+01:20:11
+warrenbuffering: we need more acronyms
+
+01:20:12
+gitpush__gitpaid: @mehulsharmamat rebuild my product too i fucking hate it
+
+01:20:12
+trivenge: is it ready???
+
+01:20:18
+<transcript>: I may have looked like I was in there for more than I was because I was tucking my kids in, and I tried to stick an airpod in, but I think I had taken out at one point, so I probably just missed it. I wish I would have heard that part, though.
+
+01:20:19
+trivenge: the video?
+
+01:20:25
+<transcript>: Okay estimated waiting time ten minutes process and analyzing 15%.
+
+01:20:29
+coolpantstv: He said Dax is bald
+
+01:20:30
+darrenbaldwin03: What is SST? Server Side Trauma?
+
+01:20:31
+<transcript>: I wonder if this is built with laravel. What's this built with? How can we tell.
+
+01:20:34
+alexandersix_: So what video are we uploading?
+
+01:20:35
+sockthedev: he called you out too. said you would rat him out to dax.
+
+01:20:36
+<transcript>: Let's look at the page source see if we can do some splunking.
+
+01:20:39
+oldmanfleming: Damn GitHub is completely down. Never seen that before
+
+01:20:39
+<transcript>: On next JS.
+
+01:20:40
+mehulsharmamat: im gonna tell you the dumbest thing ever but it works locally. uses fs/ffmpeg to take audio and do some operations with API endpoints and generate an audio file which i wanna upload somewhere.
+
+01:20:41
+trivenge: no idea what it is built with
+
+01:20:42
+thdxr: @darrenbaldwin03 yes
+
+01:20:42
+<transcript>: It's one of those.
+
+01:20:42
+<transcript>: it's one of those
+
+01:20:45
+sockthedev: lol, can't believe you missed it
+
+01:20:45
+mattmancodes: it's built with pixels
+
+01:20:50
+<transcript>: It's one of those apps. Old Man fleming, welcome to Chat. Github is completely down. Never seen that before. Oh, seriously.
+
+01:20:53
+<transcript>: Completely down oh, Wow.
+
+01:20:58
+<transcript>: There's been a lot of this lately. What's going on with the githubs.
+
+01:20:58
+<transcript>: microsoft
+
+01:20:58
+alexandersix_: Yeah, it's suuuuuper down right now
+
+01:21:00
+<transcript>: Microsoft spending all their money on AI.
+
+01:21:00
+<transcript>: he said
+
+01:21:03
+<transcript>: He said, dax is bald. What.
+
+01:21:04
+darrenbaldwin03: @thdxr Seriously? LUL
+
+01:21:04
+alexandersix_: They're having a rough morning
+
+01:21:05
+trivenge: github has been going down?
+
+01:21:09
+trivenge: is it cloudflare related?
+
+01:21:10
+<transcript>: We need more acronyms. Yeah, that's a good call. Good call. Warren. Motion granted.
+
+01:21:15
+<transcript>: All in favor. Okay, I'm the only one that can talk, so.
+
+01:21:15
+<transcript>: i it
+
+01:21:18
+<transcript>: I It sounds like it's officially sls. Now.
+
+01:21:19
+thdxr: @mehulsharmamat is it meant to be a web service?
+
+01:21:24
+<transcript>: He worked for Mr. Beast, I guess for a bit, but he's aware of night. At least.
+
+01:21:28
+trivenge: Incident with Actions, API Requests, Codespaces, Git Operations, Issues, Pages, Pull Requests and Webhooks
+
+01:21:29
+<transcript>: Was a funny combo. Rock seems cool though. What are you talking about.
+
+01:21:29
+trivenge: NotLikeThis
+
+01:21:40
+<transcript>: Oh, Bomb, Dia again. Hello, from Brazil, teddyo.
+
+01:21:40
+<transcript>: welcome to my channel
+
+01:21:43
+thdxr: AWS has a service that can extract audio from an uploaded video i'm pretty sure
+
+01:21:44
+<transcript>: Welcome to my channel as well. Thank you for filling me in. Yeah. There's a lot of people from Brazil.
+
+01:21:44
+<transcript>: it's good
+
+01:21:49
+<transcript>: It's good morning in Portuguese. Gustavo, thank you for joining Chat as well.
+
+01:21:49
+<transcript>: let's see
+
+01:21:55
+dmdboi: Why's the screen pixelated
+
+01:21:57
+trivenge: talkin about an interaction i had when i went into rox's chat a while back. we had a laugh about youtube
+
+01:22:00
+<transcript>: Let's see Iron roxas chat and was talking about YouTube, and he wasn't in a good mood that day. Says he knows a lot about YouTube. And I'm like, I didn't know, you know, more than Media does. If you do, please share. But like, he's a cool dude.
+
+01:22:01
+tadeucaldas: @TadeuCaldas eh noissssssssss
+
+01:22:06
+mehulsharmamat: @mehulsharmamat landing page -> clerk+stripe setup thingy -> dashboard -> button click on frontend starts process -> you are emailed a link with a .mp3 file (eventually i can improve process)
+
+01:22:08
+<transcript>: How do we get talking about rocks? I like rocks. Oh, you're building rocks? Yeah, building rocks's. App.
+
+01:22:08
+<transcript>: okay
+
+01:22:10
+<transcript>: Okay.
+
+01:22:14
+<transcript>: So we're just waiting now eight minutes for this thing.
+
+01:22:20
+<transcript>: What video? It's a video. Alex, of Me and dax's podcast.
+
+01:22:28
+trivenge: !tomorrow
+
+01:22:28
+fossabot: Adam has a podcast with Dax Raad (@thdxr) where they talk about the future of everything: https://tomorrow.fm
+
+01:22:28
+blakegreendev: sls is the command for serverless framework
+
+01:22:31
+alexandersix_: Oooooh nice! Excited to watch!
+
+01:22:33
+<transcript>: El Green Go luna. Thank you for the follow. Also, pxo I appreciate your follows. I really do. I don't know if I said it lately, but I love when people follow me because I think that means you're one of the people who's going to come back.
+
+01:22:33
+<transcript>: on another day
+
+01:22:34
+elgringollunya: :D
+
+01:22:35
+trivenge: tomorrow is also on spotify
+
+01:22:38
+trivenge: !spotify
+
+01:22:41
+thdxr: @mehulsharmamat want me to rebuild your app and make it awesome
+
+01:22:44
+charafmrah: fuzzy screen btw
+
+01:22:45
+<transcript>: On another day when I stream and I get to hang out with you more. And the more I get to hang out with you, the more I get to know you, and the more I value our friendship on Twitch. I just love Twitch. Twitch is the best. I got to do this every day. Why don't I do it every day.
+
+01:22:45
+<transcript>: tad
+
+01:22:51
+<transcript>: Tadoo and one wobbly badger. Thank you for the follow. That's just a fun name.
+
+01:22:51
+<transcript>: one wobbly
+
+01:22:55
+trivenge: do you rebuild things with this fancy sst thing? @thdxr ?
+
+01:22:56
+<transcript>: One wobbly badger. I'm picturing a little wobbly badger. Now it's just so fun.
+
+01:22:56
+<transcript>: i am
+
+01:22:57
+staloneneizmoskvi: hey are you going to build a project with laravel or you are just trolling
+
+01:22:58
+alexandersix_: Twitch is the best. Met some awesome folks on here
+
+01:23:01
+<transcript>: I am Trent, or I. And Ian, Trent. Thank you for that. Follow.
+
+01:23:02
+mehulsharmamat: @thdxr sure lol id love whatever help i can get!
+
+01:23:05
+<transcript>: Okay, I got to catch up on chat.
+
+01:23:05
+<transcript>: tomorrow
+
+01:23:08
+<transcript>: Tomorrow is also on spotify. Yes, it is.
+
+01:23:09
+thdxr: if you're running ffmpeg this shit is gonna be super hard to deploy, not gonna work on any serverless platform
+
+01:23:11
+<transcript>: El gringo. Welcome to chat.
+
+01:23:11
+<transcript>: welcome
+
+01:23:13
+<transcript>: Welcome, welcome.
+
+01:23:13
+mehulsharmamat: also btw just deployed it i think it works on prod (by working i mean it loads up)
+
+01:23:17
+mehulsharmamat: @thdxr yeah..
+
+01:23:23
+<transcript>: Sls is a command for Service framework. A good call, blake's. Here it is. Sls. Yeah, that's what Serverless uses. Serverless ink. That is.
+
+01:23:23
+<transcript>: land
+
+01:23:24
+mattmancodes: plot twist, they're not ian trent
+
+01:23:24
+<transcript>: Landing page.
+
+01:23:37
+mehulsharmamat: thank god for SST
+
+01:23:38
+<transcript>: Clerk plus stripe checkout Setup thingy dashboard button. Click on front end Starts process your email link with an MP 35. Then you like an improve process. Oh yeah, that's your app that you're working on. Mayhew love whatever help I can get. Twitch is the best.
+
+01:23:38
+<transcript>: it is the
+
+01:23:42
+<transcript>: It is the best welcome to Chat Stallone.
+
+01:23:44
+<transcript>: Stallone.
+
+01:23:45
+pankexillo: What IDE are you using for Laravel? I'm using Phpstorm myself with the LaravelIdea plugin, it's so good
+
+01:23:55
+onewobblybadger: In my youth I would draw skeezy badgers on things while drunk at parties
+
+01:24:00
+<transcript>: Niaz moss. I'm not going to try. How are you going to build a project with larava, or are you just trolling? No, I really am. Okay, I'm not a troll. Honestly, sometimes I'm a troll. But right now I'm not a troll. I'm really into larryville. I'm going to build something with it. I started this stream with every intention.
+
+01:24:00
+trivenge: laravel and mojo are the future? POGGERS
+
+01:24:07
+thdxr: yooooo
+
+01:24:09
+thdxr: LARAVEL SCAM
+
+01:24:12
+<transcript>: Of building this new project in laravel. And then someone was like, hey, look, this already exists. It's called opus, and it really does. It's exactly what I wanted. And it's also backed by Lightspeed.
+
+01:24:12
+thdxr: ADAM IS DOING A LARAVEL SCAM NOW
+
+01:24:15
+mattmancodes: hahaha
+
+01:24:28
+<transcript>: Pretty famous investor vigor Capital affirm. So I'm confident this thing's going to make it. It's going to be the thing that I need. So I don't need to build that project. So I got to come up with a new project. But I'm going to build something with laravel. I promise on stream I'm going to build something.
+
+01:24:28
+<transcript>: fuz
+
+01:24:30
+mehulsharmamat: @thdxr +1. everyone is ignoring this scam that's happening in DAYLIGHT
+
+01:24:31
+<transcript>: Fuzzy Screen, by the way, wait.
+
+01:24:33
+charafmrah: @thdxr damn
+
+01:24:38
+<transcript>: This has been fuzzy this whole time. I'm so sorry, everybody. I mean, there's nothing to see, but I'm sorry it was fuzzy.
+
+01:24:45
+warrenbuffering: there's VCs who invest in PHP based tech?
+
+01:24:50
+<transcript>: Okay, if you're running Fmpeg, this shit is going to get super hard to deploy, not going to work on any service platform. You can run Ssmpeg in serverless stuff. Dax, what are you talking about? Also, by the way.
+
+01:24:52
+trivenge: rebuild your macbook channel redemption in laravel. no balls SeemsGood
+
+01:25:00
+tadeucaldas: dude.. thats a lot of tabs
+
+01:25:00
+<transcript>: By the way, I just missed it. By the way, I just deployed it. I think it works on prod, but working. I mean, it loads up nice pot twists. They're not entrant.
+
+01:25:06
+alexandersix_: You might need to add another tab or two while you wait
+
+01:25:09
+tadeucaldas: lol
+
+01:25:10
+<transcript>: Thank God for sst. What IDE are you using for laravel? I'm using PHP for myself with the layer of L idea plugin it's so good. So I plan on just using neo vim.
+
+01:25:10
+<transcript>: that's what
+
+01:25:11
+alexandersix_: Don't think there are enough LUL
+
+01:25:12
+<transcript>: That's what I've poked around and so far.
+
+01:25:12
+<transcript>: i have not
+
+01:25:16
+<transcript>: I have not looked into neo vim support.
+
+01:25:16
+<transcript>: like does
+
+01:25:19
+trivenge: how do you guys have less than 100 tabs? serious
+
+01:25:20
+<transcript>: Like does the lsp work well? And I have no idea.
+
+01:25:22
+dmdboi: Open a tab on Franz Ferdinand
+
+01:25:24
+mehulsharmamat: you can run ffmpeg on serverless but vercel has 10/60s timeout for execution. lambda has 15m which is really good but still, dangerous
+
+01:25:26
+alexandersix_: I write Laravel exclusively in Neovim, it's great
+
+01:25:28
+<transcript>: But that's what I usually use. So I was just assuming in my use I would draw skeezy Badgers on things while drunk at parties.
+
+01:25:28
+<transcript>: fun
+
+01:25:30
+<transcript>: Funny.
+
+01:25:31
+thdxr: https://twitter.com/home
+
+01:25:33
+<transcript>: Larry, Bell and mojo are the future.
+
+01:25:33
+<transcript>: yo lar
+
+01:25:34
+thdxr: https://twitter.com/thdxr/status/1656657410067513345
+
+01:25:38
+<transcript>: Yo, larryville, Scam. It's not a scam. Oh, my word, you people.
+
+01:25:38
+<transcript>: and
+
+01:25:39
+<transcript>: And.
+
+01:25:39
+<transcript>: you're scamming
+
+01:25:40
+mehulsharmamat: @thdxr dax..
+
+01:25:40
+<transcript>: You're scamming.
+
+01:25:40
+<transcript>: there's
+
+01:25:44
+alexandersix_: I use intellephense as the LSP. The paid version, specifically (it's a one-time purchase for a few bucks)
+
+01:25:44
+<transcript>: There's vcs who invest in php based tech.
+
+01:25:44
+<transcript>: who
+
+01:25:49
+thdxr: i fixed it
+
+01:25:51
+<transcript>: Who said php. This one opal opus is not php. It's a next js site.
+
+01:25:57
+warrenbuffering: ohhhh
+
+01:25:58
+iamtrulyao: My formatter kept putting my curly braces on a new line, I was going to lose my mind
+
+01:26:00
+elgringollunya: Port Laravel to QBasic
+
+01:26:01
+<transcript>: Okay. Actually, you've posted a lot of tweets, so I guess I'm just going to do Twitter time while we're waiting. Rebuild your macbook Channel redemption in a laravel no balls.
+
+01:26:03
+derzemba: @adamdotdev Do you read twitch dms? where could one reach you?
+
+01:26:09
+thdxr: @mehulsharmamat SST has a long running job concept that's like a lambda function that can run for 8 hours
+
+01:26:11
+<transcript>: That's a lot of times. Yeah, it is a lot of tabs, I guess. Might need to add another tab or two while you wait. Yeah. Oh, here we go. We got clips. We got clips.
+
+01:26:14
+warrenbuffering: Dax do u race F1 now?
+
+01:26:16
+thdxr: imma set it up for rox today then you can use it too
+
+01:26:16
+<transcript>: Okay. So this is going to look really pretentious, but it's talking about Equinox steam runs.
+
+01:26:24
+<transcript>: It had the clock emoji.
+
+01:26:29
+charafmrah: no sound
+
+01:26:29
+dmmulroy: @thdxr can't believe you're a red bull fan
+
+01:26:32
+<transcript>: Okay. I'm going to turn this on to audio so you guys can hear it, too.
+
+01:26:35
+<transcript>: I'm going to put it in my other browser.
+
+01:26:37
+zryqv: 🔇🔇
+
+01:26:37
+<transcript>: Hang on.
+
+01:26:39
+mehulsharmamat: @mehulsharmamat oh! but still im making like 100 internal api reqs. i seriously have no idea but that's like 100 function invocations? that's like a lot right?
+
+01:26:44
+thdxr: @dmmulroy im not i hate them
+
+01:26:44
+<transcript>: Ssc has a long running job concept that's like a lambda function that can run for 8 hours.
+
+01:26:46
+gitpush__gitpaid: my man still didnt update his browser
+
+01:26:48
+<transcript>: Dex, did you ever answer when I said you can, too.
+
+01:26:50
+dmmulroy: @dmmulroy <3
+
+01:26:50
+<transcript>: What are you talking about.
+
+01:27:01
+dmmulroy: McLaren fan here :')
+
+01:27:03
+thdxr: @adamdotdev because most ffmpeg work takes more than 15min
+
+01:27:04
+<transcript>: Alexander, you write laravel exclusive in the of them you can run Fsmpeg on a lambda function. What are you talking about? Brussels has 1060 2nd timeout for execution. Lambda has 15 Mint which is really good but still dangerous.
+
+01:27:09
+<transcript>: Oh, you're saying for like media processing stuff.
+
+01:27:16
+<transcript>: Okay, let's do this because most Ffmpig work takes more than 15 minutes. Oh, I got you. Yeah. Okay.
+
+01:27:18
+<transcript>: So yeah, I guess.
+
+01:27:21
+<transcript>: It depends on what you're doing.
+
+01:27:21
+<transcript>: i've done
+
+01:27:25
+<transcript>: I've done a lot of small things that we know.
+
+01:27:25
+<transcript>: well
+
+01:27:27
+<transcript>: Well.
+
+01:27:27
+<transcript>: it's very specific
+
+01:27:30
+mehulsharmamat: so my ffmpeg thing takes 3-8s per request, but i have like ~60 for a 5min video input.
+
+01:27:39
+jaystation3x: SM does it.
+
+01:27:42
+<transcript>: It's very specific. Some sat me stuff that we use ffmpeg in Lambda functions for, but we know all the possible clips. We know it's not going to take very long, I guess, is what I'm getting at three to 8 seconds per request. So I have like 60 for a five minute video input. I got you.
+
+01:27:46
+<transcript>: Jstation. Stamp Use. Does it? That's right, jay's. Here.
+
+01:27:46
+<transcript>: jay i miss
+
+01:27:48
+<transcript>: Jay, I miss you.
+
+01:27:48
+<transcript>: how's jay
+
+01:27:53
+<transcript>: How's Jay? How you been just popping in with.
+
+01:27:53
+<transcript>: that
+
+01:27:53
+mehulsharmamat: buuut i did test on my machine so maybe cloud isnt as compute heavy idk what im talking about at this point
+
+01:27:55
+<transcript>: That sword badge. No big deal.
+
+01:28:06
+adjectiveallison: @jaystation3x Where did you get your sword?
+
+01:28:09
+<transcript>: But I did test on my machine, so maybe cloud isn't as compute heavy. I don't know what I'm talking about at this point there should just be like a managed Ffmpig service that should just be a thing. It's a common enough use case. Can I open this up over here.
+
+01:28:09
+<transcript>: just watch
+
+01:28:10
+jaystation3x: You missed all my earlier comments!
+
+01:28:11
+<transcript>: Just watch this clip.
+
+01:28:11
+thdxr: @mehulsharmamat i have a bunch of options for you we'll talk later
+
+01:28:19
+mehulsharmamat: @thdxr tysm!
+
+01:28:19
+<transcript>: Let's watch this clip. Let's see if they're good. Oh, 99 on the virality score. It's a low res preview, though.
+
+01:28:24
+<transcript>: If this works, I'm going to be incredibly happy.
+
+01:28:37
+<transcript>: It didn't quite get my face in there, but whatever.
+
+01:28:52
+jokestera_e: Can you not adjust?
+
+01:28:59
+trivenge: it seems more interested in the microphone LUL
+
+01:29:00
+thdxr: I HATE THIS CLIP
+
+01:29:01
+thdxr: DELETE IT
+
+01:29:01
+gitpush__gitpaid: the pretentiousness "im not very relatable"
+
+01:29:04
+mehulsharmamat: im gonna hop off and do some gymin
+
+01:29:06
+<transcript>: You hate this clip backs. Okay, we'll delete it. We won't use it.
+
+01:29:07
+trivenge: LUL @thdxr
+
+01:29:08
+<transcript>: The prosingiousness.
+
+01:29:14
+charafmrah: @thdxr 99 virality
+
+01:29:16
+mehulsharmamat: have a good day everyone
+
+01:29:18
+<transcript>: Kju thank you for the follow.
+
+01:29:19
+<transcript>: Okay.
+
+01:29:19
+<transcript>: by the way
+
+01:29:23
+zryqv: 👉you can't feel it
+
+01:29:25
+thdxr: literally me talking about how my equinox memebership when i jetted between nyc and miami
+
+01:29:28
+<transcript>: By the way, our sonic came yesterday. It's in two giant crates. And I don't know how I'm going to build it. I would love to hire someone actually who can come over and build it for me. That would be great.
+
+01:29:28
+<transcript>: literally
+
+01:29:44
+gitpush__gitpaid: doubles down on not being relatable by talking about his sauna
+
+01:29:46
+<transcript>: Literally me talking about how my equinox membership went. I jetted between New York City and my yeah, that's not going to do well. Or maybe it will do well. And we lean into what's? That guy that people say you look like dax. Maybe we lean into that. We lean into the bro.
+
+01:29:46
+<transcript>: thing
+
+01:29:51
+<transcript>: Thing doubles down on not being relatable by talking about it. Sonic. Yeah, sorry.
+
+01:29:56
+<transcript>: What's that guy's name.
+
+01:29:56
+<transcript>: not
+
+01:29:57
+thdxr: let's pretend our net worths are 100x
+
+01:29:57
+alexandersix_: My parents' neighbor literally built an entire sauna building in his backyard from the ground up. Learned everything from YouTube, apparently
+
+01:30:03
+daglee: Have you heard about the sauna world cup? They had to bann it because people died.
+
+01:30:04
+<transcript>: Not Jordan peterson. That name's popping in my head. Why is that popping in my head? Let's pretend our net worth are 100 X. Yeah, exactly.
+
+01:30:04
+trivenge: i would just contact some contractors locally or regionally
+
+01:30:05
+thdxr: Andrew Tate
+
+01:30:06
+bishopdev: something with a B
+
+01:30:08
+trivenge: joe rogan?
+
+01:30:12
+<transcript>: No. What is that guy's name that people say you look like dax. Andrew tate. Yeah, let's lean into it. Talk about saunas and stuff.
+
+01:30:12
+<transcript>: this one's
+
+01:30:13
+trivenge: oh
+
+01:30:14
+<transcript>: This one's a 96.
+
+01:30:16
+elgringollunya: oh no
+
+01:30:16
+trivenge: kyrie irving?
+
+01:30:18
+trivenge: LUL
+
+01:30:21
+bishopdev: LMAO, he looks nothing like andrew tate
+
+01:30:21
+statsndata: Good Morning chat
+
+01:30:25
+unrulyhotfixer: common?
+
+01:30:27
+<transcript>: Are these gonna work? Good morning. Stats and data.
+
+01:30:29
+cazcik: guy doesn't know who arcángel is but literally does a podcast with him
+
+01:30:31
+trivenge: definitely kyrie irving
+
+01:30:37
+mehulsharmamat: id love to make a dax andrew tate edit
+
+01:30:43
+<transcript>: Is this gonna work? Dax? Do you think they're gonna work.
+
+01:30:45
+daglee: Dax looks like Andrew Tate? I have never heard that! LUL LUL LUL
+
+01:30:51
+adjectiveallison: I think it's going to work
+
+01:31:01
+dmdboi: Wow this service is pretty powerful
+
+01:31:03
+<transcript>: Wait. Did that. Was it. That was the whole clip. You think it's going to work? Where was the punchline on this one.
+
+01:31:05
+thdxr: lol the emojis
+
+01:31:10
+trivenge: LUL
+
+01:31:12
+gitpush__gitpaid: that clip is wack
+
+01:31:14
+<transcript>: I gotta listen more closely.
+
+01:31:20
+thdxr: here's the thing I want to MANUALLY grab a time slice which is pretty easy and have something process the rest
+
+01:31:23
+onewobblybadger: Not enough fire emojis. Gotta get that zoomer traffic
+
+01:31:25
+<transcript>: Okay. Okay.
+
+01:31:27
+gitpush__gitpaid: that clips comes off like dax is sad vice is going bankrupt
+
+01:31:31
+mhuggins7278: didn't take get arrest for human trafficing not sure you want to lean into that one :D
+
+01:31:34
+<transcript>: Here's the thing. I want to manually grab a time slice, which is pretty easy and have something process arrest. Oh, I see. So you're saying.
+
+01:31:34
+<transcript>: not just
+
+01:31:36
+<transcript>: Not just automatic.
+
+01:31:36
+bishopdev: @adamdotdev think you meant Dan Bilzerian
+
+01:31:38
+mhuggins7278: tate not take
+
+01:31:47
+<transcript>: Topic selection, stuff. Like, you want to just do it manually? Yeah, I agree. That would be good, actually, you know what, dax? You kind of kind of do that. You can kind of do it in Riverside.
+
+01:31:47
+<transcript>: i'll show
+
+01:31:50
+<transcript>: I'll show you so in Riverside.
+
+01:31:50
+<transcript>: here is our
+
+01:31:52
+thdxr: if we just uploaded a smaller segment to this service and let it do everything else that would work
+
+01:31:53
+<transcript>: Here is our Edit and create clips.
+
+01:31:53
+<transcript>: so we want to
+
+01:31:55
+<transcript>: So we want to make a story.
+
+01:31:55
+<transcript>: it's got
+
+01:31:57
+<transcript>: It's got the transcript. Here.
+
+01:31:59
+thdxr: yeah i tried doing it in riverside but it also had issues
+
+01:32:01
+thdxr: i tried everything!
+
+01:32:01
+adjectiveallison: @thdxr I agree with this approach
+
+01:32:09
+<transcript>: I wouldn't say it's easy to select a time range. You would think they would make that easy. Oh, wait, it is. You just drag it from the ends. Okay. So you get some clip like this. You say we want to do.
+
+01:32:15
+<transcript>: The full frame AI so it bounces between us, right. And then we want to do.
+
+01:32:18
+<transcript>: Does it do captions. I don't remember.
+
+01:32:18
+<transcript>: it might not do
+
+01:32:22
+<transcript>: It might not do captions, but I can do that easy enough.
+
+01:32:22
+thdxr: it doesn't do subs though
+
+01:32:26
+thdxr: that's the issue with riverside
+
+01:32:27
+<transcript>: Okay, how do I play it? How do I play it? Oh, here we go.
+
+01:32:27
+<transcript>: so it
+
+01:32:32
+thdxr: every tool has 1 big flaw
+
+01:32:35
+<transcript>: So it bounces between us. But you can choose clips just like that. It doesn't do subs. Okay, I can do the subzo. Dax.
+
+01:32:43
+thdxr: hmm
+
+01:32:43
+<transcript>: I can do the subs. Every tool has one big plot. So true. Do we still need to build it? Do we just need to build our own? Is that what you're saying.
+
+01:32:50
+<transcript>: I can do subs so easy though like I don't mind.
+
+01:32:50
+<transcript>: if you want to cut
+
+01:32:51
+mattmancodes: subs scam
+
+01:32:51
+jaystation3x: Isn't this fairly quick to do in Premiere?
+
+01:33:01
+<transcript>: If you want to cut clips and send them to me, I can run through Premiere Pro and have them subtitled in no time. Yeah, exactly. Jay, Premiere Pro has really good subtitles. I don't know if people know that.
+
+01:33:01
+<transcript>: i know people
+
+01:33:06
+thdxr: ugh why can't davinci resolve have this feature
+
+01:33:09
+thdxr: would solve everything
+
+01:33:16
+<transcript>: I know people have problems with Premiere Pro, and they prefer whatever else for a lot of reasons, but it's really good with the subs like transcriptions and adding captions. Why can't debit you resolve have this user it would solve everything. Yeah. How about dax? Listen, let's use Riverside.
+
+01:33:16
+<transcript>: so
+
+01:33:20
+<transcript>: So I'm not saying we're not going to do this. I think we could do this, too.
+
+01:33:20
+<transcript>: if
+
+01:33:22
+<transcript>: If.
+
+01:33:22
+<transcript>: it finds
+
+01:33:25
+<transcript>: It finds good ones. Then we use them. If it doesn't.
+
+01:33:25
+<transcript>: then
+
+01:33:38
+<transcript>: Then we don't. But this is worth trying. I guess I can't pay for this yet. They won't let me do unlimited. Look at all these clips. Look at that 15 of them. I think this has potential. I think if they could add a few features to this.
+
+01:33:38
+<transcript>: and
+
+01:33:38
+dmdboi: What was that about Dax and subbing?
+
+01:33:42
+<transcript>: And it actually surfaced. Good clips has potential.
+
+01:33:42
+<transcript>: camran
+
+01:33:42
+thdxr: i also hate the "upload download" from webservice flow
+
+01:33:44
+<transcript>: Camran. Thank you for that. Follow.
+
+01:33:45
+thdxr: everything is slow
+
+01:33:53
+<transcript>: What was that about? Daxon subbing. I'll say the upload download from Web service Flow, upload download from Web service Flow. Everything is slow? Yeah.
+
+01:33:53
+<transcript>: i know
+
+01:34:02
+<transcript>: I know. I wish it was like riverside doesn't have that problem, right? Because we record in riverside, so it should have all the video pretty quickly.
+
+01:34:02
+<transcript>: i think
+
+01:34:09
+<transcript>: I think this is a good like. You cut out clips. You like dax using riverside. You send them to me.
+
+01:34:09
+<transcript>: and
+
+01:34:11
+<transcript>: And.
+
+01:34:15
+<transcript>: I'll add captions, Does this do a good job with.
+
+01:34:18
+<transcript>: Our faces not being.
+
+01:34:18
+<transcript>: cut
+
+01:34:23
+<transcript>: Cut off. Yeah. I just got to be in the middle of my thing. I just got to make sure I'm in the middle.
+
+01:34:23
+<transcript>: right
+
+01:34:25
+<transcript>: Right.
+
+01:34:31
+<transcript>: Trying to find a clip of my face, but it's only showing DAX is DAX is only one of the talks.
+
+01:34:31
+<transcript>: on our
+
+01:34:37
+<transcript>: On our thing. Apparently, dax is the only one that talks. Okay, cool.
+
+01:34:40
+<transcript>: Okay. Is it time to record yet? Yeah, it is. Three minutes.
+
+01:34:40
+<transcript>: let
+
+01:34:44
+<transcript>: Let's do this. Next. Let's record another podcast.
+
+01:34:47
+<transcript>: We don't know what we're talking about today.
+
+01:34:50
+<transcript>: Do we? I don't think.
+
+01:34:52
+<transcript>: We know.
+
+01:34:57
+nefine_: php ofc
+
+01:34:58
+<transcript>: Why it's so quiet. Everyone stopped talking in my chat.
+
+01:34:58
+<transcript>: i
+
+01:35:05
+<transcript>: I think you meant Dan bilzerian. Who's that? That's who dax. Looks like.
+
+01:35:11
+<transcript>: The emojis. Yeah, no.
+
+01:35:12
+dmdboi: Same beard
+
+01:35:12
+bishopdev: @adamdotdev look him up :D
+
+01:35:19
+thdxr: im streaming
+
+01:35:20
+misterreboot: are you ever going to build an actual laravel project? Or you just scamming again?
+
+01:35:21
+<transcript>: Php. Of course everyone's just quiet because they're writing php. They're just happy. Look them up. I don't know if I want to Bishop do I want to.
+
+01:35:23
+qrucials: sorry was lurking for a couple minutes but ill provide a bit of content to see how things are happening
+
+01:35:25
+<transcript>: Your streaming decks. Okay, cool. I'm going to raid you.
+
+01:35:26
+thdxr: need a couple min though
+
+01:35:26
+jaystation3x: Please answer a call from California today, so I can start this new job. 😅
+
+01:35:29
+warrenbuffering: "it got so quiet in chat" "reads chat from 5 mins ago"
+
+01:35:33
+trivenge: some other alternatives, compare them with opus? https://www.editair.app/ https://www.getmunch.com/ https://pictory.ai/ https://vidyo.ai/
+
+01:35:40
+<transcript>: Ever going to build an actual larval project? Or just scam me in Mr. Ruba, or Mr. Reboot. Welcome to Chat. I am not scamming. I have never once scammed. Okay, dax likes to call me a scammer. Ha ha. It's funny.
+
+01:35:40
+<transcript>: it says that
+
+01:35:46
+<transcript>: It says that I do a lot of scamming. I don't do anything scammy. I give away, macbooks. I actually do.
+
+01:35:46
+<transcript>: just like no one
+
+01:35:53
+charafmrah: I scammed y'all this time guys, not Adam sorry
+
+01:35:58
+<transcript>: Just like no one's won yet. But I've given some away even before I did the thing on twitch. That's not a scam. I'm not scamming about larryville. I'm very excited about laravel. Like, I'm very excited. I'm going to build something.
+
+01:35:58
+<transcript>: okay
+
+01:35:59
+<transcript>: Okay.
+
+01:36:05
+<transcript>: Well, I don't have to go. You can come with me. We're going to dax's Stream. We're going to record a podcast.
+
+01:36:08
+<transcript>: It's been fun as always.
+
+01:36:10
+mattgoslow: Hasn't scammed since the last time ;)
+
+01:36:11
+misterreboot: shocker I didnt win
+
+01:36:14
+<transcript>: I can't believe I recorded a YouTube video this morning and then still streamed. It's never happened. This is the first.
+
+01:36:17
+<transcript>: That's a good sign if I can do both.
+
+01:36:17
+<transcript>: then
+
+01:36:18
+mehulsharmamat: scam over?
+
+01:36:20
+jokestera_e: You get pretty defensive when Dax calls you out I wonder why?
+
+01:36:21
+warrenbuffering: UPS said they don't have record of a MacBook being shipped
+
+01:36:23
+<transcript>: Then that's a good sign. Yeah. Get your last macbook redeems in because I'm getting ready to end the stream, and then you won't be able to.
+
+01:36:28
+<transcript>: You get pretty defensive when I called you out I wonder why.
+
+01:36:28
+<transcript>: up
+
+01:36:39
+<transcript>: Ups said they don't have a record of the macbook being shipped. Listen, I've got receipts. I can put you guys in touch with somebody in Italy that has a macbook, and they will vouch.
+
+01:36:39
+<transcript>: that i did
+
+01:36:51
+<transcript>: That. I did get them a new macbook. Okay, I really got to go. I don't need to defend my scamming. I don't scam. I'll see you all in dax's chat. Potentially while we record a podcast. It's been fun. Maybe we could do it again sometime.
+
+01:36:53
+trivenge: !macbook
+
+01:36:55
+trivenge: !scam
+
+01:37:01
+jokestera_e: Is dax on? where's the raid
+
+01:37:02
+mattgoslow: That's what a scammer would say...
+
+01:37:02
+trivenge: take care everyone
+
+01:37:04
+trivenge: adam it was fun
+
+01:37:06
+trivenge: <3
+
+01:37:08
+mattmancodes: !triangle
+
+01:37:08
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:37:21
+outofbounds_music: Nice stream
+
+01:37:23
+mr_true12: hi guys i use arch btw
+
+01:37:26
+trivenge: !tomorrow
+
+01:37:27
+fossabot: Adam has a podcast with Dax Raad (@thdxr) where they talk about the future of everything: https://tomorrow.fm
+
+01:37:28
+trivenge: !discord
+
+01:37:28
+fossabot: Adam is a member of the watch.dev Discord server and he'd love to see you there: https://discord.gg/watchdotdev
+
+01:37:30
+trivenge: join up
+
+01:37:34
+grasp5533: !triangle
+
+01:37:34
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:37:39
+trivenge: if you arent at least in the discord, are you even a follower?

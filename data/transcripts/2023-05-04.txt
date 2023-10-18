@@ -1,0 +1,5899 @@
+
+
+00:01:29
+tini_turner: catJAM
+
+00:03:50
+<transcript>: Check, one, two, check, check.
+
+00:03:54
+<transcript>: One, two, check, check, check.
+
+00:03:57
+<transcript>: One, two.
+
+00:05:45
+jiggaman98: wtf is going on with the job market?
+
+00:06:14
+jiggaman98: I'm looking for a new job in software development. Been grinding LeetCode for a while.
+
+00:06:27
+aj_stuyvenberg: tough out there, keep at it!
+
+00:07:16
+jiggaman98: I'm trying to make $120k/yr, and I'm a junior dev. It's possible with FAANG, but feeling a little anxious.
+
+00:07:39
+jiggaman98: I'm planning to work with a career coach to get me across the finish line.
+
+00:08:00
+jiggaman98: He's pricey, but he seems to be legit.
+
+00:08:58
+thesaltsea: where i can find the link guys
+
+00:09:08
+grasp5533: $120k/yr is pretty ambitious.
+
+00:09:12
+grasp5533: for a junior
+
+00:09:40
+grasp5533: Don't want to discourage you, but outside of FAANG that could be hard to find
+
+00:09:51
+jiggaman98: Yeahhh, I know.
+
+00:09:58
+samhuckaby: I've never heard of a career coach... What do they bring to the table that you would pay them anything for..? Just curious
+
+00:10:06
+jiggaman98: I've got a masters degree, and a security clearance.
+
+00:10:08
+grasp5533: @jiggaman98 Would this be your first role?
+
+00:10:09
+dmdboi: They coach your career
+
+00:10:15
+dmdboi: Yo
+
+00:10:26
+maleero: Adam gonna disappear on us again, I can feel it! LUL
+
+00:10:28
+samhuckaby: @dmdboi the 5head answer LUL
+
+00:10:40
+jiggaman98: also worked in IT 5 years prior to becoming a software dev.
+
+00:10:54
+iannery: almost got it
+
+00:11:08
+jiggaman98: @jiggaman98 No, I've got a 1 year of professional dev experience.
+
+00:11:18
+<transcript>: Let's go. Weird stream time. Who's here for it? Who's here.
+
+00:11:24
+h4msterbo1: sup
+
+00:11:24
+jiggaman98: @jiggaman98 I make about $80k now.
+
+00:11:24
+<transcript>: Why can't I find the beginning of this stream.
+
+00:11:25
+2dorkstv: I'm here
+
+00:11:28
+<transcript>: What.
+
+00:11:36
+iannery: PotFriend
+
+00:11:41
+<transcript>: Oh, that's from last stream. Catch antina turner's. Here. Welcome, tina Turner and jigga Man. What's going on with the job market? Looking for a new job in software development. Been grinding lead code for a while.
+
+00:11:42
+tumtumpkinz: Whoever is not here say I
+
+00:11:44
+<transcript>: Stuff out there. Aj's. Here.
+
+00:11:44
+<transcript>: trying to make
+
+00:11:48
+heyhemp: yo
+
+00:11:51
+<transcript>: Trying to make one hundred and twenty K a year. I'm a junior dev. It's possible a thing, but feeling a little anxious, I'm planning to work with a career coach to get me across the finish line.
+
+00:11:51
+<transcript>: he's pricey but
+
+00:11:57
+andrew8088: hey hey
+
+00:11:58
+<transcript>: He's pricey but he seems to be legit. I'm curious jigga Man, how much is a career coach? And what do they offer.
+
+00:12:01
+<transcript>: The Salt Sea is here. Where can I find the link? Guys.
+
+00:12:05
+<transcript>: The link to the link.
+
+00:12:05
+<transcript>: what
+
+00:12:07
+<transcript>: What link.
+
+00:12:07
+<transcript>: you're here
+
+00:12:10
+jiggaman98: @SamHuckaby They help me work on resume, interview prep, mock interviews, find jobs.
+
+00:12:10
+<transcript>: You're here. You made it. This is the only place you need to be.
+
+00:12:14
+<transcript>: I'm going to turn on music because.
+
+00:12:14
+<transcript>: we're just going to be talking
+
+00:12:17
+<transcript>: We're just going to be talking for a while, and why not.
+
+00:12:24
+<transcript>: Let's see. Don't want to discourage you, but outside of fang, that could be hard to find.
+
+00:12:31
+<transcript>: Never heard of a career coach. What do they bring to the table? That you would pay them for anything? That's my question. Sam is here and grasp.
+
+00:12:37
+<transcript>: This be your first role. They coach your career. Yo, diamonds. Here. Thank you.
+
+00:12:37
+<transcript>: for that
+
+00:12:40
+<transcript>: For that very apt description. Diamond.
+
+00:12:43
+<transcript>: And I'm going to disappear on a.
+
+00:12:46
+jiggaman98: The guy I found costs about $2k for everything.
+
+00:12:47
+samhuckaby: @SamHuckaby Ah gotcha. Maybe check with the defense people (Lockheed, Raytheon, etc)
+
+00:12:50
+<transcript>: No, Miliro, no, Matt. I'm not going anywhere. I'm not going anywhere. It's been a weird few weeks. I will say.
+
+00:12:57
+<transcript>: Had a little work sprint kind of took me out of everything. I think I streamed through some of it.
+
+00:12:57
+<transcript>: but it was
+
+00:12:59
+<transcript>: But it was tough.
+
+00:12:59
+<transcript>: and
+
+00:13:01
+<transcript>: And stuff on my family. They're not used to me being.
+
+00:13:03
+laame: So, paywall is paying off..
+
+00:13:05
+<transcript>: So focused on a problem at work.
+
+00:13:05
+<transcript>: and so
+
+00:13:20
+<transcript>: And so just like when I'm done working, I'm still thinking about it. And I'm walking around like a zombie. But it's shipped. It's done. We got through the aftermath, just thousands of people online that hate me. But other than that, it all went smoothly. I'm here. These are my friends. This is where I want to be.
+
+00:13:20
+<transcript>: just
+
+00:13:23
+mehulsharmamat: hello hello!
+
+00:13:27
+<transcript>: Just had a little rough patch here, Sam. I could be the five hit answer also worked in it.
+
+00:13:27
+<transcript>: five
+
+00:13:31
+jiggaman98: @Grasp5533 The career coach says it's possible. I don't wanna dox him, but he's credible.
+
+00:13:31
+<transcript>: Five years prior to becoming Software Dev.
+
+00:13:32
+mattmancodes: Do you send them pictures of your career and they send advice? LUL
+
+00:13:52
+<transcript>: Oh, you almost got it, lena, you were so close to that time. Larry's here. I've got one year professional Dev experience. What's going on, hamster boy? So one thing jigman that's unfortunate about. I think every industry, I don't think this is just unique to software devs. One thing that sucks is depending on how much you make at your current job that will impact how much.
+
+00:13:52
+<transcript>: you can make
+
+00:13:58
+maleero: It's $20! How can people be upset over $20/month LUL
+
+00:14:02
+<transcript>: You can make at your next job because they'll inevitably say, how much do you make now? I don't know why. I don't know why that's a thing. But it's like nobody wants to let anybody jump too far.
+
+00:14:16
+<transcript>: If you only make 70k right now, they don't want to be like, okay, let's jump you up to 120. They want to slowly stagger you. I don't know what that is. I don't know if there's, like, a handbook that everyone who employs people.
+
+00:14:18
+jiggaman98: I refuse to give my current salary during interviews.
+
+00:14:30
+<transcript>: Swears they take a blood oath and they put their hand on it and say that they will never hire anyone or never pay anyone more than 10% of their previous salary. I don't know what it is, but it just seems to be a thing.
+
+00:14:30
+<transcript>: you make about
+
+00:14:31
+mehulsharmamat: adam srs q about something I'm making: if there was a tool that'
+
+00:14:32
+pbertrand_dev: TIP, if they ask your salary convert it to australian dollars first
+
+00:14:33
+<transcript>: You make about 80k. Now that was close.
+
+00:14:33
+<transcript>: so yeah
+
+00:14:35
+<transcript>: So. Yeah, that's the thing.
+
+00:14:35
+<transcript>: i'm
+
+00:14:39
+jiggaman98: You're not legally obligated to share your salary. So I don't.
+
+00:14:43
+<transcript>: I'm afraid it's the thing you could just not tell them, but then they could also just not hire you two. Dorks is here.
+
+00:14:45
+grasp5533: @jiggaman98 I was able to make a similar jump from $80k to $120k, but I had several years of experience and led a big project that boosted my confidence significantly
+
+00:14:50
+jiggaman98: I ask for salary band.
+
+00:14:50
+<transcript>: Whoever's not here say I Tom Dumppins is here. Hey, Hemp yo, welcome to Chat. Hemp.
+
+00:14:52
+mattmancodes: just lie about current salary
+
+00:14:57
+sockthedev: shhh, don't tell dax 🤫
+
+00:14:58
+<transcript>: Hey, Hemp, do I know you hemp? Are you Hemp? David, Hemp? David, Hemp, Hill? Or a different hemp.
+
+00:15:05
+<transcript>: Andrew, 80 88 Ad 88 That's fun to say welcome to Chat. Hey, Hey.
+
+00:15:13
+heyhemp: I am he. From down the road
+
+00:15:18
+<transcript>: They helped me work on. So it's funny. Looks like bertrand tried to win a macbook. I've not seen bertrand grace's presence in Chat. It's okay. I'm not paying attention. Oh, there he is. I'm just way behind. Okay.
+
+00:15:18
+<transcript>: just like
+
+00:15:20
+schrew: I jumped from 60k to 102k and it was a good time
+
+00:15:24
+<transcript>: Just like you're here for the macbook, and then out of here, hamster boy, thank you so much for the prime sub.
+
+00:15:24
+<transcript>: prime
+
+00:15:26
+<transcript>: Prime. Sub.
+
+00:15:29
+jiggaman98: @mattmancodes I stopped lying about 2 years ago, and God blessed me for doing so.
+
+00:15:31
+h4msterbo1: just take my money
+
+00:15:33
+<transcript>: Special prime sub. Your one and only prime sub. And you gave it to me. Thank you so much.
+
+00:15:33
+<transcript>: okay
+
+00:15:36
+<transcript>: Okay, I got to scroll a little faster.
+
+00:15:36
+<transcript>: we hope you work on your
+
+00:15:42
+<transcript>: We hope you work on your resume. Interview, prep, mock and interviews. Fine jobs. The guy found cost about 2000 for everything. Interesting.
+
+00:15:49
+<transcript>: What are their credentials? Jigamand how can you ensure that this person.
+
+00:15:49
+<transcript>: is legit
+
+00:15:52
+mattmancodes: @mattmancodes It's the way to get the salary you want
+
+00:16:04
+mehulsharmamat: adam srs q about something I'm making: if there was a tool that'd translate your videos to other languages like french/hindi (indian) to reach local audience (mrbeast once said majority of YT audience dont watch content in english), what would you pay per minute of translation?
+
+00:16:05
+<transcript>: Is legit. And could we as twitch chat, just do it for you? Could we just maybe look over your resume? Interview prep you mock interview you. That'd be a fun segment. Let's mock interview people here on my twitch channel oreo milkshake. Thank you for the follow. Also.
+
+00:16:05
+<transcript>: mr
+
+00:16:12
+<transcript>: Mr. Mike Guy, thank you for the prime. Sub. Two prime subs to start off. What is today.
+
+00:16:18
+<transcript>: Thursday. Is it Thursday? It's been a weird week. It's been a weird two, three weeks.
+
+00:16:18
+<transcript>: it's been
+
+00:16:20
+<transcript>: It's been a weird month. Okay.
+
+00:16:25
+<transcript>: I think it's Thursday. Thank you so much for the prime sub Oreo milkshake in.
+
+00:16:25
+<transcript>: g bag
+
+00:16:29
+<transcript>: G baguette. Now I want bread. Unbelievable.
+
+00:16:29
+<transcript>: mr
+
+00:16:32
+<transcript>: Mr. Mike, Guy, Steiner.
+
+00:16:39
+<transcript>: And sierra, thank you for the follows when I wasn't streaming or when I was streaming, but I didn't notice.
+
+00:16:39
+<transcript>: some of
+
+00:16:43
+<transcript>: Some of those were recently. Some of them were hours ago.
+
+00:16:43
+<transcript>: dal
+
+00:16:46
+<transcript>: Dalba's Cluster zpeck.
+
+00:16:46
+<transcript>: sony
+
+00:16:54
+samhuckaby: Reading names is my favorite segment on this show. No sarcasm.
+
+00:16:58
+<transcript>: Sony. Elope Shannon yesterday. What happened yesterday? Why do I have, like, a dozen people that followed me yesterday? I wasn't even here yesterday. It's okay. I'll take it. Thank you so much. Mayhool's. Here.
+
+00:16:58
+<transcript>: lame
+
+00:17:15
+<transcript>: Lame is here. So paywall is paying off. I mean, it's doing okay. It's doing better than the people that hate us. Want you to think nobody will pay for that. They say, Sorry, I got a little worked up and I tweeted a thing. And then people thought I was just trying to flex about how much money. I don't care how much money. It's not going to me. I don't get the money.
+
+00:17:15
+<transcript>: but
+
+00:17:25
+<transcript>: But the point was lots of people signed up for it. Hundreds of people in the first few hours. I mean, it was like, clearly, some people wanted this. I think it's priced too high.
+
+00:17:25
+<transcript>: but
+
+00:17:33
+<transcript>: But that wasn't up to me. And people still pay for it. So you know what? What am I supposed to do? What am I supposed to tell them it's too expensive? You shouldn't sign up. No.
+
+00:17:33
+<transcript>: the
+
+00:17:37
+pbertrand_dev: Enough people signed up to buy daddy some new shirts
+
+00:17:40
+<transcript>: The career coach says it's possible. I don't want to dox him, but he's credible. Oh, yeah, no, don't, don't juggle, juggerman, don't do that.
+
+00:17:40
+<transcript>: do you
+
+00:17:53
+<transcript>: Do you send him pictures of your career? And they send advice. Pictures? What? $20? How can people be upset over $20 a month? Well, it is a little high relative to a lot of other things that are subscriptions. Griffith, thank you for the follow.
+
+00:17:53
+<transcript>: i refuse
+
+00:18:02
+<transcript>: I refuse to give my current salary during interviews. Yeah, just don't tell them, Adam serious question about something I'm making. If there was a tool that. Oh, no, I got to wait for the next message.
+
+00:18:02
+<transcript>: birch
+
+00:18:05
+<transcript>: Birch and Tip if they ask your salary, convert it to Australian.
+
+00:18:11
+th3_l3m0n: Hello o/
+
+00:18:15
+<transcript>: You're not legally obligated to share your salary, so I don't. Yeah. I wonder if they don't want to hire people who don't share their salary. I don't know. Just thinking through it.
+
+00:18:15
+<transcript>: i was able
+
+00:18:26
+<transcript>: I was able to make a similar jump from eighty K to one hundred and twenty K. But I had several years of experience and led a big project that boosted my confidence significantly. A lot of it is confidence how confidently you enter that interview.
+
+00:18:26
+<transcript>: and make
+
+00:18:31
+jiggaman98: I found him on LinkedIn, but he thinks I can get the job I want within 6 weeks, even in this market.
+
+00:18:32
+<transcript>: And make them feel like you're going to solve a lot of their problems. That's a lot of it. It really is.
+
+00:18:34
+derzemba: Heyy
+
+00:18:35
+<transcript>: Do you send them pig? Oh, I already read that.
+
+00:18:50
+<transcript>: I ask for salary. Band. Okay. Did they give you one? Just lie about current salary? Well, you could do that, too. Matt. Man Codes is here. Sock is here. Don't tell DAX. Don't tell DAX. Oh, you're here. I won't tell DAX.
+
+00:18:50
+<transcript>: hey
+
+00:18:56
+<transcript>: Hey, Hip, I am he from down the road? Hemp from down the road Hey.
+
+00:18:56
+<transcript>: what's
+
+00:19:14
+charafmrah: Loving your tweets lately
+
+00:19:16
+<transcript>: What's going on? How are you, hemp. We need to meet sometime. I feel like we need to. I've met some people here from twitch who are in the area. We got coffee one day. I don't know if you drink coffee. I don't drink coffee, but I do when I go see people because I used to drink coffee. And I love coffee. But my wife doesn't love coffee. So the only time I can drink coffee is when.
+
+00:19:16
+<transcript>: i go
+
+00:19:23
+<transcript>: I go, like, once in a while, every once in a while, I wander out of the house. It's very rare. But when I do.
+
+00:19:23
+<transcript>: it's generally
+
+00:19:29
+unrulyhotfixer: I typically don't get my current salary. They generally ask my expected salary range.
+
+00:19:29
+<transcript>: It's generally to get coffee with friends. Anyway, that was a lot to say. Hemp, I'd love to meet you sometime. That'd be fun.
+
+00:19:29
+<transcript>: we have
+
+00:19:35
+<transcript>: We have mechanical keyboards in common. We both love keyboards. We both live in this little corner of the world.
+
+00:19:52
+<transcript>: Hamster boy. I already saw that jump from 60 to 102. And it was a good time. That is a good time. Shrew's here stopped lying about two years ago. God blessed me for doing so. Just take my money, hamster boy. Oh, prime sub. Is that Jean.
+
+00:19:52
+<transcript>: it's the way
+
+00:19:54
+<transcript>: It's the way to get the salary you want.
+
+00:19:56
+<transcript>: Just lie about the Grand.
+
+00:20:16
+<transcript>: Mayhew. Adam sears question. Oh, here we go, here we go, we're back. I've been waiting for the rest of your message. Mayhel, if there was a tool that translate your videos to other languages, like French, Hindi, to reach local audience. Mr. Beats, once the majority of you two, I just don't watch the content in English. What would you pay per minute of translation? Mayhew, I've heard this about.
+
+00:20:16
+<transcript>: mr beast
+
+00:20:25
+<transcript>: Mr. Beast that he grew a lot really fast because he literally ported all his videos into native other native languages. How much would I pay.
+
+00:20:27
+<transcript>: Right now.
+
+00:20:27
+<transcript>: my main problem
+
+00:20:29
+<transcript>: My main problem with YouTube is.
+
+00:20:29
+<transcript>: making the
+
+00:20:42
+jiggaman98: I'm kinda in a situation where if I don't raise my salary, I could lose my house. So, yeah, I've been studying a lot every day. I don't have a choice but to try.
+
+00:20:44
+<transcript>: Making the time to make YouTube videos. So I'm not so much thinking about growth. But when I am making a lot of videos and I want them in every language, what would I pay? I'll say this. I paid rev.com for a lot of podcast transcriptions. I want to say.
+
+00:20:44
+<transcript>: they're like
+
+00:20:47
+<transcript>: They're like a dollar to $2 a minute.
+
+00:20:47
+<transcript>: i could
+
+00:20:50
+<transcript>: I could be off. I think that's right.
+
+00:20:58
+<transcript>: So something like that. Yeah, I would pay that. Now. How would it work? So you would translate an overdub. Wait.
+
+00:21:02
+<transcript>: Would it just be other languages? Like.
+
+00:21:02
+<transcript>: so
+
+00:21:03
+mehulsharmamat: so somewhere bw 0.5-1$ sounds good?
+
+00:21:08
+<transcript>: So it would be like overdubbed audio, right? Not just like captions that are transcribed. I'm guessing.
+
+00:21:08
+<transcript>: okay i
+
+00:21:12
+grasp5533: @jiggaman98 Have you tried asking your current job for a raise?
+
+00:21:14
+mattmancodes: They usually ask salary in the UK, you don't have to tell, but if you don't you'll get a rubbish offer - regardless of experience, etc. and it's a waste of time.
+
+00:21:18
+<transcript>: Okay, I got to catch up. Reading Names is my favorite segment of the show. No sarcasm. Hey, I'm glad, Sam. I do it. Every show, enough people signed up to buy daddy some new shirts.
+
+00:21:20
+<transcript>: What.
+
+00:21:29
+<transcript>: You talking about my Tweet. About Todd shelton, the company that dax makes fun of me for the widest Manus company ever.
+
+00:21:29
+<transcript>: hello
+
+00:21:38
+mehulsharmamat: yeah translation of YOUR VOICE (not AMAZING) but yeah -- for multiple languages. just trying to finish MVP and yeah this is purely for people focused on growth
+
+00:21:41
+<transcript>: Hello, the lemon. I found him on LinkedIn, but he thinks I can get the job I want within six weeks, even in this market. Well, it's worth a shot, I guess. Jigga Man. I mean, does he have any guarantees for that fee? I don't know.
+
+00:21:41
+<transcript>: there's emba
+
+00:21:51
+<transcript>: There's emba. What's going on? Chara is here loving your tweets lately. Me because I feel like my tweets are getting worse all the time.
+
+00:21:51
+<transcript>: like
+
+00:21:53
+<transcript>: Like I. Tweeted. Yesterday.
+
+00:21:53
+<transcript>: about the todd
+
+00:22:01
+<transcript>: About the Todd shelton thing. And then immediately, people are like, a little expensive, and it's like, oh, is it? Oh, shoot. I don't know what things cost.
+
+00:22:01
+<transcript>: that's like i go
+
+00:22:05
+reillyobore: AI is moving towards translated dubbing with perfect lipsync
+
+00:22:10
+jiggaman98: @Grasp5533 Yeah, they gave me a 4% raise. I make about $80k year, but I need to make $120k/yr to stay off the street. It's stressful.
+
+00:22:18
+mehulsharmamat: but like for eg. im from india, and lot of people dont watch content in english bc a lot of people arent fluent in it. so educational tech content that isn't just tutorials is not something they can benefit from
+
+00:22:19
+<transcript>: That's like I go to the grocery store and I have no idea my wife will be like, how much do you think this costs? I don't know. $5 is everything $5. I just don't know. I know. It's a very privileged thing to say. I realize it's not lost on me. Typically don't get my current salary. They generally ask my unexpected. Oh, my expected salary range.
+
+00:22:25
+<transcript>: Priv. Thank you so much for the resub. Three months. No. Macbook. Scams. Maybe.
+
+00:22:27
+<transcript>: That's funny.
+
+00:22:27
+<transcript>: i'm kind of
+
+00:22:42
+<transcript>: I'm kind of in a situation where if I don't raise my salary, I could lose my house. So, yeah, I've been studying a lot every day. Oh, jeez, don't have a try a choice but to try derzimba. Thank you for the prime sub. Three prime subs. That's a prime pet trick.
+
+00:22:44
+<transcript>: A Hat Prime. Sub. Hat trick.
+
+00:22:44
+<transcript>: got to have
+
+00:22:47
+<transcript>: Got to have something catchier than that. That's not a very.
+
+00:22:48
+iannery: is this the vercel ship roast party
+
+00:22:49
+<transcript>: Doesn't roll off the tongue.
+
+00:22:49
+<transcript>: somewhere
+
+00:22:54
+<transcript>: Somewhere between 0.5 and one dollars. Sounds good. Yeah. No, for sure. Mayhew.
+
+00:22:54
+<transcript>: i think
+
+00:22:59
+<transcript>: I think if you could just clarify. Oh, yeah, you did. Down here. Translation.
+
+00:23:05
+<transcript>: Of your voice not amazing, but yeah. Oh, you're using the AI voice things.
+
+00:23:06
+<transcript>: Interesting.
+
+00:23:16
+<transcript>: It wouldn't be perfect. But over time, that trends to be higher quality. That's a great idea. Mayhew, that's a fantastic idea. And the little bit I know about you.
+
+00:23:16
+<transcript>: you're really good
+
+00:23:19
+samhuckaby: @mehulsharmamat how long are the kind of videos that you want to target to translate?
+
+00:23:27
+<transcript>: You're really good at Twitter. You're really good at YouTube. You're probably really good at building products too. You should make this product. I will be your first customer and you can put that in writing. Pier as thank you for the follow.
+
+00:23:36
+<transcript>: They usually ask salary. In the UK. You don't have to tell, but if you don't, you'll get a rubbish offer, regardless of experience, et cetera. It's a waste time. Yeah, that's what I worry.
+
+00:23:38
+mehulsharmamat: @SamHuckaby any timing. im doing dynamic pricing for now
+
+00:23:42
+<transcript>: Genesis. Thank you for that. Follow.
+
+00:23:47
+bananscode: I feel fancy when I enter this stream
+
+00:23:49
+bananscode: why
+
+00:23:57
+mehulsharmamat: thanks so much @adamdotdev but yeah ill shoot you a dm to try it out!
+
+00:24:02
+<transcript>: Ai is moving towards translated dubbing with perfect lip sync. Yeah, it's going to just keep trending better. So I'm all for this idea. May hole. I think it's fantastic. Also, Riley obore welcome to my chat. Welcome, welcome. They gave me a 4% raise. I make about eighty K a year, but I need to make 120 to stay off the street. It's stressful OOH jigga. Do you have any other living options.
+
+00:24:05
+<transcript>: Because it's very stressful.
+
+00:24:08
+<transcript>: To have basic needs.
+
+00:24:08
+<transcript>: under
+
+00:24:10
+<transcript>: Under Financial duress.
+
+00:24:17
+<transcript>: And it'll just add a lot of pressure to things like interviews, like when you're interviewing, you don't want to be thinking about being on the Street.
+
+00:24:17
+<transcript>: that will not play well
+
+00:24:23
+mehulsharmamat: @SamHuckaby the first one ill try it own is my own :P
+
+00:24:34
+<transcript>: That will not play well in an interview. You want to enter into a situation like getting a new job from a position of leverage where you don't need it. You really don't like genuinely in your own heart and mind. You know, you don't need this job, but it might be nice to take a different job.
+
+00:24:34
+<transcript>: that's when
+
+00:24:38
+<transcript>: That's when you're going to have the confidence to really sell yourself.
+
+00:24:43
+<transcript>: If you're really needing something like more money because.
+
+00:24:43
+<transcript>: you're in
+
+00:24:47
+<transcript>: You're in tough financial situation. It's going to make it really difficult.
+
+00:24:47
+<transcript>: to go
+
+00:25:06
+<transcript>: To go out and get that job you want. I think that's just my experience. I make the most money in my career when I don't need anything like when I haven't needed new work and people really want me to do it for them, that's when they pay me a lot of money to do it. So I think that would play here as well. And I wonder if there's a way you can get into a cheaper living situation.
+
+00:25:06
+<transcript>: not
+
+00:25:12
+tini_turner: @SamHuckaby i wonder how the memes translate in other languages and retain context
+
+00:25:24
+<transcript>: Not that that's the right move. I'm just saying, like if there's any other ways to relieve the financial stress that will help you in getting better opportunities. I think because I just think it's tough psychologically, when you're struggling financially or when you really need something, it's tough to get what you really want out of it.
+
+00:25:28
+samhuckaby: @SamHuckaby Gotcha. I could honestly see going higher being worthwhile then, since most people will probably be translating videos that are 5ish minutes. just my opinion, I'd go closer to $2/minute.
+
+00:25:28
+<transcript>: Okay mayhew. But like, for example, I'm from India.
+
+00:25:37
+<transcript>: And a lot of people don't watch content in English because a lot of people aren't fluent in it. So educational tech content that isn't just tutorials is not something they can benefit from.
+
+00:25:57
+<transcript>: So yes. Mayhew I love this idea. So much of the dev community is global. And I've thought that just from being on Twitter, so many of the people that follow me on Twitter are all over the place. And so anytime I do anything, I do want it to be consumable by all those people. But it's also a lot of work for me to go out and try and make each video. And I hardly have time or make time to make.
+
+00:25:57
+<transcript>: any
+
+00:26:06
+<transcript>: Any video to make them all internationalized. It's just a hard thing. But if there were services or a service that could do that for me. I'm all for it. I love it.
+
+00:26:13
+<transcript>: Is this the Versailleship roast party? No, we're not going to roast it. We're just going to watch it together.
+
+00:26:13
+<transcript>: i have no
+
+00:26:18
+jiggaman98: Thanks Adam, I'm trying. I have until August to fix this problem, or it's basically the apocalypse for me.
+
+00:26:18
+<transcript>: I have no idea what they're shipping today. I'm excited because it's a surprise. I love surprises.
+
+00:26:18
+<transcript>: and
+
+00:26:19
+mehulsharmamat: @SamHuckaby yep yep im thinking a small flat fee then per minute.
+
+00:26:27
+<transcript>: And there's been mixed. We should talk about what's been announced so far because I honestly don't know. I was off the internet yesterday. I'd like to know heading into today's.
+
+00:26:28
+mehulsharmamat: anyway love the feedback tysm @SamHuckaby
+
+00:26:29
+<transcript>: What have I missed.
+
+00:26:29
+<transcript>: how long
+
+00:26:33
+dmmulroy: Howdy y'all
+
+00:26:41
+<transcript>: How long? The kind of videos you want to target? Translate. Any timing. I'm doing dynamic pricing. For now. I feel fancy when I enter this stream, you feel fancy. Banana, bananas, fancy.
+
+00:26:41
+<transcript>: why
+
+00:26:46
+<transcript>: Why? Why do you feel fancy? I don't know. I'd like to know, though.
+
+00:26:46
+<transcript>: thanks so much
+
+00:26:47
+mehulsharmamat: im gonna hit the vscoding and try to get it out asap
+
+00:26:52
+<transcript>: Thanks so much. Yeah, I'll shoot you a dm try it out. Yes, please do. Mayhew I love it first one. I'll try.
+
+00:26:57
+<transcript>: It own is my own. Oh, by the way, Mayhew I went to look at your YouTube channel. I think I've already seen all your videos. So.
+
+00:26:57
+<transcript>: i wasn't two out
+
+00:27:06
+<transcript>: I wasn't two out of three or whatever. I think I've watched them all. So I need more. I need you to make more because they're very good. And I think you said you were working on one. I'm very excited for it.
+
+00:27:11
+<transcript>: I wonder how the memes translate into the language and retain context. That's a great question.
+
+00:27:14
+<transcript>: Could honestly see going higher being worth it.
+
+00:27:14
+<transcript>: thanks ad
+
+00:27:27
+<transcript>: Thanks, Adam. I'm trying. I have until August fixed this problem, or it's basically the apocalypse. Oh, gee, see, you don't want that pressure. I know that's easier said than done to just alleviate all that pressure, but you got to figure out a way.
+
+00:27:27
+<transcript>: to be going
+
+00:27:30
+<transcript>: To be going into the job market from a position of strength.
+
+00:27:30
+<transcript>: it's just
+
+00:27:33
+<transcript>: It's just always going to work out better, I think.
+
+00:27:35
+<transcript>: I could be wrong.
+
+00:27:38
+<transcript>: You could still in your desperation.
+
+00:27:38
+<transcript>: pull it
+
+00:27:46
+<transcript>: Pull it off. I just think it's a lot easier to get what you want out of relationships or contracts or employment.
+
+00:27:53
+jiggaman98: You're right Adam.
+
+00:28:06
+<transcript>: When you don't need that thing, if that makes sense, okay, thing is Spotify flee, then per minute. Yes. Love the feedback. So like, Mayhew I pay for podcast transcription or not transcriptions? Podcast editing? Chris, edits our podcast and it's per minute. But there's a minimum. So there's, like every episode he has a minimum fee. So if you do, like a ten minute episode, you're at least paying.
+
+00:28:06
+<transcript>: him
+
+00:28:09
+<transcript>: Him X, and then per minute after that.
+
+00:28:09
+<transcript>: if that helps
+
+00:28:11
+mattmancodes: that pressure could also lead to accepting a horrible job just because it pays what you need.
+
+00:28:18
+<transcript>: If that helps, I don't know what's up, Diamol Roy, How's it going? Going to hit the Vs coding? Try to get it out asap. Please do.
+
+00:28:24
+<transcript>: The pressure could also lead to accepting a horrible job. That because it pays what you need. That's also true.
+
+00:28:24
+<transcript>: just
+
+00:28:25
+<transcript>: Just.
+
+00:28:25
+<transcript>: your opportunity set
+
+00:28:30
+<transcript>: Your opportunity set will look a lot nicer when you don't need any of the opportunities.
+
+00:28:31
+parkour_peter: Hello everyone!
+
+00:28:36
+dmmulroy: @jiggaman98 I've used and worked with a really great recruiter (hard to come by) for my last job hunt - I can connect y'all if you're interested. He really advocated for me to land the highest salary/benefits possible
+
+00:28:36
+<transcript>: Generally, that's been the case for me in my career. Okay. Let's talk about Versailleship so far.
+
+00:28:36
+<transcript>: get my
+
+00:28:41
+<transcript>: Get my speed who's kept up I saw the storage stuff the first day.
+
+00:28:48
+<transcript>: But it's now Thursday. What other stuff has been released? I've just seen the storage stuff, so hit me.
+
+00:28:48
+<transcript>: somebody
+
+00:28:49
+<transcript>: Somebody.
+
+00:28:52
+<transcript>: Parkour. Peters. Here.
+
+00:28:54
+pirazgg: security
+
+00:28:57
+<transcript>: I've used them work with a really great recruiter. Hard to come by for my last job. Hunt.
+
+00:28:57
+<transcript>: i
+
+00:29:02
+<transcript>: I can connect oh, jeez, I almost dropped my wire. I can connect you all if you're interested, you really advocate for me.
+
+00:29:03
+krunal_dev: 2nd was security
+
+00:29:05
+jiggaman98: @dmmulroy Sure! Can you DM me the info?
+
+00:29:10
+dmmulroy: Absolutely
+
+00:29:11
+<transcript>: Purizag. Welcome to Chat. Same with for crew. Now.
+
+00:29:11
+<transcript>: security
+
+00:29:20
+grasp5533: I just got a deposit down for Seattle.  About to move from East Coast to West Coast
+
+00:29:20
+<transcript>: Security. Second was security. What is security? They're going to give you security now in versaille. That's good. Can someone give me more details.
+
+00:29:20
+krunal_dev: Firewalls
+
+00:29:24
+<transcript>: Because I don't know. I thought we already had security.
+
+00:29:32
+hugueshs: "Visual editing" for CMS if you use Vercel, Next.js, Sanity and Enterprise client
+
+00:29:32
+<transcript>: Absolutely. I just got a deposit down for cl about maybe for East Coast West Coast firewalls. Okay, so they're reselling.
+
+00:29:32
+<transcript>: waf i don't mean that in a
+
+00:29:38
+<transcript>: Waf. I don't mean that in a condescending way, just like they're reselling another aws service or a collapse service.
+
+00:29:38
+<transcript>: okay
+
+00:29:46
+<transcript>: Okay, firewalls Cool Visual editing for cms if you use versaille nextjs, sanity and Enterprise client.
+
+00:29:51
+jiggaman98: I've been holding this in for like 6 months, idk why I'm sharing it now. Probably b/c I'm running out of time.
+
+00:29:51
+<transcript>: Okay, hugo. Or Hugoosh, welcome to my chat.
+
+00:29:57
+<transcript>: So you have to be an Enterprise Versaille client, but you get visual editing for your CMS.
+
+00:29:57
+<transcript>: visual ed
+
+00:30:00
+<transcript>: Visual editing. Okay. So I've got content.
+
+00:30:00
+<transcript>: in a cms
+
+00:30:11
+<transcript>: In a cms like sanity, but now I can visually edit on the site instead of in the sanity. The sanity UI is slow. I don't know. Everyone praises sanity so much and I get it.
+
+00:30:11
+<transcript>: i guess
+
+00:30:19
+<transcript>: I guess it's developer first, or it's like they've done a good job on that front. But man, the editor is slow. It feels bad using it.
+
+00:30:19
+<transcript>: so that's
+
+00:30:24
+<transcript>: So that's nice if you can just visually edit the site. That's cool.
+
+00:30:24
+<transcript>: but you have to be
+
+00:30:31
+<transcript>: But you have to be an enterprise client, which means at least a few thousand dollars a month. So that's interesting. They're not just hoping that up to everybody.
+
+00:30:31
+<transcript>: been hold
+
+00:30:37
+<transcript>: Been holding this in for, like, six months. I don't know why I'm sharing it now. Probably because I'm running out of time. Yeah. Jigga man.
+
+00:30:37
+<transcript>: you can
+
+00:30:40
+<transcript>: You can DM me on discord.
+
+00:30:40
+<transcript>: the discord
+
+00:30:42
+<transcript>: The discord is Watch Dev.
+
+00:30:42
+<transcript>: happy
+
+00:30:44
+adamdotdev: !discord
+
+00:30:44
+fossabot: Adam is a member of the watch.dev Discord server and he'd love to see you there: https://discord.gg/watchdotdev
+
+00:30:44
+<transcript>: Happy to talk through.
+
+00:30:50
+<transcript>: Oh, man, I just realized there's so many DMs I haven't read and respond to yet, and I'm asking for more DMs.
+
+00:30:52
+grasp5533: @jiggaman98 It honestly sounds like you need to move.  I know we probably don't have all the details
+
+00:31:02
+<transcript>: But not say that it sounds like I think I'm special. I don't think I'm special. I just think I get a lot of anxiety over reading my dms because then I feel like if I don't do the thing that the person wants right then I'll forget. And it's now.
+
+00:31:02
+<transcript>: a thing
+
+00:31:05
+<transcript>: A thing that's just going to fall off anyway.
+
+00:31:05
+<transcript>: happy
+
+00:31:10
+<transcript>: Happy to talk outside of this and just would love to explore.
+
+00:31:10
+<transcript>: what
+
+00:31:12
+<transcript>: What your situation is.
+
+00:31:12
+<transcript>: how
+
+00:31:16
+<transcript>: How immovable some of those things are like your house situation.
+
+00:31:16
+<transcript>: you have family
+
+00:31:17
+<transcript>: You have family.
+
+00:31:24
+<transcript>: Just like understanding some of that. I could give you a little better advice, but I don't expect you to type it all out in Twitch chat either.
+
+00:31:24
+<transcript>: honestly sounds like
+
+00:31:30
+<transcript>: Honestly. Sounds like you need to move. I know. We probably don't have all the details. Yeah, it's hard without all the contacts.
+
+00:31:35
+<transcript>: But I feel for you. I've had some moments in my career that were very stressful.
+
+00:31:35
+<transcript>: and finan
+
+00:31:37
+<transcript>: And financially.
+
+00:31:37
+<transcript>: ked nico
+
+00:31:39
+<transcript>: Ked. Nico. Thank you for the follow.
+
+00:31:42
+dmmulroy: @dmmulroy Sent! lmk if you need anything else
+
+00:31:42
+<transcript>: Okay, so, Versailles.
+
+00:31:42
+<transcript>: we've got
+
+00:31:42
+jiggaman98: @Grasp5533 Long story short, I accumulated debt and the payments are putting me in the red.
+
+00:31:48
+<transcript>: We've got firewalls, we've got visual editing? Is there anything else that's been announced? That I've missed.
+
+00:31:55
+<transcript>: Long story short, I accumulated debt and the payments are putting me in the red oof.
+
+00:31:55
+<transcript>: debt
+
+00:31:57
+<transcript>: Debt is another situation.
+
+00:32:03
+krunal_dev: They are releasing something called actions today, right?
+
+00:32:05
+<transcript>: The good news is you're in a good profession. I mean, being a developer, having a year of experience.
+
+00:32:10
+<transcript>: There's definitely hope. But it's tough. Debt is tough.
+
+00:32:13
+pbertrand_dev: Since you are giving tips. My mother in law is staying at my place for the coming 2 months. How  do I cope?
+
+00:32:14
+<transcript>: Let's see. They're releasing something called Actions today. Right.
+
+00:32:14
+<transcript>: oh
+
+00:32:21
+<transcript>: Oh, that's right. In their own documentation for the storage stuff. They said they were announcing Thursday. Actions, Server actions.
+
+00:32:27
+<transcript>: Since you were giving tips, my mother in law is staying at my place for the coming two months. How do I cope.
+
+00:32:27
+<transcript>: bert
+
+00:32:29
+<transcript>: Bertrand.
+
+00:32:32
+<transcript>: How big is your place.
+
+00:32:32
+<transcript>: est
+
+00:32:33
+mattmancodes: @pbertrand_dev Hide as much as possible
+
+00:32:35
+<transcript>: Estevez. Thank you for that. Follow.
+
+00:32:38
+pbertrand_dev: 70 m2
+
+00:32:39
+<transcript>: How big a place are we talking hide as much as possible.
+
+00:32:42
+<transcript>: When my mother in law comes over.
+
+00:32:45
+<transcript>: 70.
+
+00:32:49
+<transcript>: M. Two. What is that? Is that a measurement.
+
+00:32:53
+<transcript>: Meter squared 70 meters.
+
+00:32:55
+<transcript>: Three times.
+
+00:32:55
+<transcript>: two
+
+00:32:58
+<transcript>: 210ft.
+
+00:32:58
+pbertrand_dev: Yes
+
+00:33:00
+<transcript>: Did I get that right.
+
+00:33:00
+<transcript>: okay
+
+00:33:03
+<transcript>: Okay. 210ft.
+
+00:33:03
+pbertrand_dev: 753.473729 square feet
+
+00:33:10
+<transcript>: How many rooms? How many separate rooms are we talking? 753 sqft.
+
+00:33:29
+jiggaman98: Thx everybody, my plan was to finish up the LeetCode problem set I'm doing, and then start a job search in June.
+
+00:33:30
+<transcript>: When my mother in law comes over, I actually end up getting to do a lot more work and stuff because my wife will just be with my mother in law and the kids, and I'm just kind of around. If I'm up there, I might as well just be down here working. Dave, thank you for the follow. So that's how I cope and not that I don't like. I love being around my mother in law. She's a good time.
+
+00:33:30
+<transcript>: but
+
+00:33:36
+mattmancodes: My mother in law doesn't speak English so it's easy...
+
+00:33:38
+grasp5533: When are we getting the wife on stream
+
+00:33:41
+<transcript>: But I do end up working more. Maybe that's coping. I don't know. Andrew, thank you so much for the follow. Thanks, everybody. My plan was to finish up the leak code problems that I'm doing and then start my job search in June.
+
+00:33:41
+<transcript>: my
+
+00:33:52
+<transcript>: My mother in law doesn't speak English, so it's easy. That would make it easier. When are we getting the wife on stream? Oh, yeah. I should do the dax thing and have, like, a family meeting. My wife and I don't have family meetings.
+
+00:33:55
+pbertrand_dev: I love it too, its just a small space and a long time. She's staying here to take a break from the war
+
+00:33:58
+<transcript>: So it would be very disingenuous for us to start having them on Twitch because it would be fake.
+
+00:33:58
+<transcript>: also
+
+00:34:00
+lesabotsy: Hi Adam, hi all :)
+
+00:34:03
+<transcript>: Also I have two kids, so if she's on stream with me.
+
+00:34:03
+<transcript>: that means
+
+00:34:10
+<transcript>: That means somebody needs to be watching the kids. Now, my parents come over sometimes and watch the kids. We could do that. We could do it.
+
+00:34:10
+<transcript>: it's
+
+00:34:15
+<transcript>: It's a theoretical possibility. I'll have to see if she's ready for a life of stardom.
+
+00:34:15
+<transcript>: and han
+
+00:34:17
+grasp5533: Do you not have the nanny anymore?
+
+00:34:18
+<transcript>: And hanging out with 100 people on twitch. We'll see.
+
+00:34:27
+<transcript>: Love it too. It's just a small space. In a long time. She's staying here to take a break from the war. Oh, jeez, bertrand. I'm realizing.
+
+00:34:31
+<transcript>: I don't know your situation.
+
+00:34:31
+<transcript>: are you in
+
+00:34:33
+<transcript>: Are you in Ukraine.
+
+00:34:40
+<transcript>: Do you live in Ukraine? Bertrand? Did I know this about you? Or which war.
+
+00:34:42
+pbertrand_dev: no thats where my wifes family is from
+
+00:34:48
+<transcript>: Hi, Adam. Lesa botsy. What's going on? Lesa, do you not have the nanny anymore? Oh, we have the nanny. Yeah, no, that's where my wife samly, is from.
+
+00:34:48
+<transcript>: oh
+
+00:34:50
+<transcript>: Oh, I see.
+
+00:34:56
+<transcript>: You said they're getting away. We do have the nanny. She doesn't watch the kids so much.
+
+00:34:56
+<transcript>: so
+
+00:35:00
+<transcript>: So nanny is kind of the wrong word. She's more of like.
+
+00:35:00
+<transcript>: a
+
+00:35:02
+<transcript>: A Home assistant.
+
+00:35:06
+<transcript>: She does a lot of cleaning and a lot of.
+
+00:35:13
+<transcript>: The chores around the house, but doesn't spend as much time mostly so that my wife can be with the boys.
+
+00:35:20
+<transcript>: Not that she couldn't like the boys love her. And they could play. No. Yeah, it could happen. It's more a question. If my wife wants to. Come on.
+
+00:35:23
+<transcript>: Hacker. Thank you for that. Follow.
+
+00:35:29
+<transcript>: Packer. I really trying to say your name, but it's tough.
+
+00:35:29
+sockthedev: adams staff
+
+00:35:39
+<transcript>: Okay. I'm going to pull up Versailleship. What time is it? We got 20 minutes. Maybe I can just catch up here. I'll just go over to my screen. We can just catch up on.
+
+00:35:42
+<transcript>: All the stuff that you guys just told me about.
+
+00:35:44
+hhthacker: hey! it's heather!
+
+00:35:51
+<transcript>: You can just do it right now. Security. Day two. Security. It's new before this. No. Security. On Versaille.
+
+00:35:51
+<transcript>: everything
+
+00:35:56
+charafmrah: Do you play any chess?
+
+00:35:56
+tini_turner: LUL
+
+00:35:58
+<transcript>: Everything was just out there for any old person to take. Hey, it's Heather. Oh, Heather, that makes way more sense.
+
+00:36:03
+<transcript>: So before this. Here. Let's do this.
+
+00:36:04
+mattmancodes: how much do Vercel want to be Apple?
+
+00:36:10
+<transcript>: Twitch chat right there. Yes. Move that have a stream for a couple of days.
+
+00:36:14
+<transcript>: Oh, I don't have the right chat pulled up. What is this.
+
+00:36:14
+<transcript>: book
+
+00:36:21
+<transcript>: Bookmarks Chat. There we go. Welcome to Chat. Heather.
+
+00:36:21
+<transcript>: adam st
+
+00:36:23
+privann: it was some nice critics regarding vercel pricing
+
+00:36:27
+<transcript>: Adam staff? What my staff? Do you play any chess? I don't play chess. Should I play chess.
+
+00:36:27
+<transcript>: how much do
+
+00:36:37
+<transcript>: How much do versaille want to be Apple? They definitely have that going in their marketing, don't they? It was some nice critics regarding versaille pricing.
+
+00:36:39
+<transcript>: Yeah.
+
+00:36:39
+<transcript>: the
+
+00:36:43
+privann: https://twitter.com/MelkeyDev/status/1653498934491516928
+
+00:36:59
+<transcript>: The source thing was a little surprising to me. So when I first hit the storage announcement, this is where they said server actions, right? They put it in a caption. Oh, they removed it. Oh, they removed it. Did I see something fancy and got a leak before anyone knew? Because it said something down here, like we're announcing Thursday actions. But now they've removed it.
+
+00:36:59
+<transcript>: anyway
+
+00:37:09
+pbertrand_dev: they unannounced it
+
+00:37:10
+<transcript>: Anyway, yeah. I was a little surprised to see it's, just like they're repackaging. I thought they actually built something that sounds so condescending, but honestly, I thought, like, oh, they actually built some cool stuff.
+
+00:37:14
+<transcript>: No, they're repurposing and upselling.
+
+00:37:14
+<transcript>: three different
+
+00:37:14
+tini_turner: it is already thursday?
+
+00:37:14
+mattmancodes: haha
+
+00:37:16
+<transcript>: Three different services.
+
+00:37:16
+<transcript>: so
+
+00:37:18
+<transcript>: So I guess.
+
+00:37:18
+<transcript>: that's a move
+
+00:37:21
+<transcript>: That's a move. They unannounced. It okay.
+
+00:37:27
+<transcript>: What's this? Milky tweet? Priv Milky tweet? I like Milky.
+
+00:37:31
+<transcript>: Apple Energy I Web hose? Yeah.
+
+00:37:31
+<transcript>: so this was
+
+00:37:32
+charafmrah: Give it a try (chess(), could be a fun stream with other tech streamers 👀
+
+00:37:34
+<transcript>: So this was automated. Make this right.
+
+00:37:36
+<transcript>: So where is the link.
+
+00:37:39
+extremelyryan: hey Adam! happy star wars day
+
+00:37:40
+<transcript>: Where is the link to it.
+
+00:37:40
+<transcript>: service markup
+
+00:37:43
+<transcript>: Service. Markup. Oversell. Here we go. Yeah.
+
+00:37:43
+<transcript>: so
+
+00:37:46
+privann: Look at my answer
+
+00:37:49
+<transcript>: So this is definitely a thing. I love that he made this because it's so helpful to see the actual markup on everything.
+
+00:37:55
+<transcript>: Versaille blob pricing is in beta. Okay.
+
+00:37:55
+<transcript>: is that after
+
+00:37:58
+<transcript>: Is that after Lerob spoke with him, it's beta.
+
+00:37:58
+<transcript>: pricing
+
+00:38:01
+<transcript>: Pricing is Beta. Okay.
+
+00:38:01
+<transcript>: look at your
+
+00:38:01
+privann: https://twitter.com/emil_priver/status/1653499225387290643
+
+00:38:03
+<transcript>: Look at your answerpriv.
+
+00:38:10
+mattmancodes: even better that it's hosted on Vercel
+
+00:38:10
+<transcript>: Oh, you mean your. Oh, you had an answer to that? Oh, yeah. Let's see this.
+
+00:38:10
+<transcript>: let's
+
+00:38:12
+<transcript>: Let's see this.
+
+00:38:18
+<transcript>: No Versaille postgres promax.
+
+00:38:18
+<transcript>: that was
+
+00:38:23
+<transcript>: That was a good one. That was a good one. Marcel postgres, ultra.
+
+00:38:25
+<transcript>: Yeah.
+
+00:38:25
+<transcript>: it's interesting
+
+00:38:31
+<transcript>: It's interesting. I hadn't really thought through the fact that versaille hasn't really made a lot of complicated infrastructure.
+
+00:38:36
+<transcript>: They've mostly just packaged up a bunch of primitives, not a bad thing.
+
+00:38:41
+<transcript>: It's great business in terms of like they know what their costs are, and they just resell them.
+
+00:38:41
+<transcript>: at a
+
+00:38:43
+<transcript>: At a markup. Makes sense.
+
+00:38:43
+<transcript>: security so
+
+00:38:45
+<transcript>: Security. So let's read this announcement.
+
+00:38:45
+<transcript>: introducing
+
+00:38:58
+<transcript>: Introducing versailles firewall and versailles Secure compute bring more improper grade offerings for enhanced security of your applications infrastructure from the wrap ups between villagers and revision. Okay, diversion of tools. So what is this here.
+
+00:38:58
+<transcript>: secure
+
+00:38:59
+<transcript>: Secure compute.
+
+00:39:02
+<transcript>: Secure Connections https.
+
+00:39:02
+<transcript>: and secure
+
+00:39:07
+<transcript>: And secure, compute. What just like VPCs.
+
+00:39:10
+<transcript>: What is it.
+
+00:39:10
+<transcript>: twenty
+
+00:39:13
+<transcript>: 20 builds a place in a private network. Okay, so.
+
+00:39:13
+<transcript>: they're
+
+00:39:16
+<transcript>: They're reselling vpcs. Cool. Okay.
+
+00:39:18
+<transcript>: Makes sense.
+
+00:39:18
+<transcript>: you can connect
+
+00:39:25
+<transcript>: You can connect your verte app just like you can a lambda function. Okay, cool. And then the firewall. Is this waf or is it Cloudflare.
+
+00:39:25
+<transcript>: we're under
+
+00:39:32
+<transcript>: We're under correct and accessible. They also become more vulnerable to external threats. Among these threats, distributed denial of service tax.
+
+00:39:40
+<transcript>: Yeah. I wonder how much this was like they had a few people get ddos on versailles, and it was like, we don't have a plan. What do we do.
+
+00:39:40
+<transcript>: what are we doing
+
+00:39:48
+<transcript>: What are we doing? This scenario. So they were manually dealing with it. Now we'll just repurpose and resell waf makes sense.
+
+00:39:50
+lesabotsy: @adamdotdev I'm done with my 2 introductory courses on programming (via my self made bootcamp). I'm going to start learning web dev now. Do you have any idea what stack has the most jobs so I could focus on that?
+
+00:39:52
+<transcript>: Custom new custom firewall rules for IP blocking light restrict access.
+
+00:39:54
+<transcript>: Okay.
+
+00:39:54
+<transcript>: cool
+
+00:39:57
+<transcript>: Cool authentication and authorization. Okay.
+
+00:40:11
+<transcript>: Thanks to a new era of robust developer first tooling like authorc and auth Zero, you can manage auth with just a few lines of code. This isn't so much an announcement, right? They're just saying you have options.
+
+00:40:11
+<transcript>: continuous monit
+
+00:40:19
+<transcript>: Continuous Monitoring and audits, versailles Monitoring and logs. Is that new? Or are they just saying they did this a while ago.
+
+00:40:19
+<transcript>: okay
+
+00:40:21
+<transcript>: Okay, that's enough of security.
+
+00:40:27
+<transcript>: So that was day two. And then day three, collaborate.
+
+00:40:33
+<transcript>: Versaillespaces. And Visual Editing. Okay, tell me more, tell me more.
+
+00:40:48
+<transcript>: Less about the I'm done with my two introductory courses on programming via my self made boot camp. I'm going to start learning web Dev now. Do you have any idea what Stack has the most job so I can focus on that lesa. I think React is pretty hot in the job market. From everything I hear.
+
+00:40:49
+krunal_dev: Theo got ddos very bad on vercel
+
+00:40:54
+<transcript>: I think I don't have not done a lot of that.
+
+00:40:54
+<transcript>: extremely
+
+00:40:58
+<transcript>: Extremely, Ryan. Happy Star Wars Day? Is it Star Wars day.
+
+00:41:03
+<transcript>: What is Star Wars Day? Today is Star Wars day.
+
+00:41:03
+<transcript>: give it
+
+00:41:10
+<transcript>: Give it a try. Chess could be a fun stream with their tech streamers. Oh, that would be interesting, chara. I like it.
+
+00:41:14
+<transcript>: Even better that it's hosted on Versailles.
+
+00:41:14
+<transcript>: theo got
+
+00:41:15
+<transcript>: Theo got.
+
+00:41:16
+maleero: May the Fourth be with you, Adam!
+
+00:41:16
+sockthedev: May the 4th adam
+
+00:41:17
+mattmancodes: Yeah, React. It's the frontend of choice for most places
+
+00:41:20
+<transcript>: Ddos very bad on versailles. Yeah. And he was able to just.
+
+00:41:20
+<transcript>: text
+
+00:41:23
+pirazgg: funny how vercel need to create a managed service to be vetted by JavaScript community, now Postgres is a thingy
+
+00:41:25
+<transcript>: Text Rob, Lee, Rob, and be like, hey, I'm getting ddos, and they fixed it.
+
+00:41:25
+<transcript>: but
+
+00:41:32
+<transcript>: But that doesn't scale lerob can't always be the one that has to fix ddosing tonal. Thank you for the follow.
+
+00:41:38
+<transcript>: Okay. So what is this? Versaille spaces. Did I click on it? Did I actually click on it.
+
+00:41:54
+<transcript>: Quality software at Scale with versailles Spaces unite your team with powerful tools and conventions for better collaboration and faster iteration in large code bases. As companies and codebases grow, it becomes hard to sustain a fast release cycle without letting air slip into production.
+
+00:42:11
+<transcript>: Biggest evolution of versailles workflow yet powerful tools and conventions designed to integrate with your mono repo setup to help you scale efficiently while retaining quality. Okay, what does it do you'll find insights on your development, workflows, code, health, and build blogs and brand new functionality to boost efficiency and remove blockers with conformance.
+
+00:42:11
+<transcript>: code
+
+00:42:15
+<transcript>: Code Owners and versailles runs.
+
+00:42:15
+<transcript>: okay
+
+00:42:16
+<transcript>: Okay.
+
+00:42:23
+<transcript>: These products, currently available in early private beta for enterprises, can be used with versailles regardless of where you host your application.
+
+00:42:29
+<transcript>: Okay. So you have it on github. That's an interesting point. Why does A. Versaille just have their own.
+
+00:42:29
+<transcript>: git
+
+00:42:38
+<transcript>: Git. Why not just don't need github, just use for I guess that's a lot of stuff they'd have to build out a lot of functionality they don't necessarily need.
+
+00:42:38
+<transcript>: pull requ
+
+00:42:42
+<transcript>: Pull requests and all that stuff. But it seems like they're kind of like, I don't know.
+
+00:42:42
+<transcript>: when
+
+00:42:45
+andrew8088: so its github actions?
+
+00:42:49
+<transcript>: When they say code owners, it makes me think of that weekly runs. So it's just like your ci stuff.
+
+00:42:49
+<transcript>: conform
+
+00:42:50
+<transcript>: Conformance score.
+
+00:42:50
+<transcript>: okay
+
+00:42:54
+mattmancodes: they could resell github
+
+00:42:58
+<transcript>: Okay, this is cool rematching for sell for large code bases teams need a single place. Find information about It code owners and build logs.
+
+00:43:01
+<transcript>: Mono repos.
+
+00:43:07
+<transcript>: So it's got like mono repo awareness here in the ui. Is that what I'm seeing? Acme font.
+
+00:43:11
+<transcript>: I don't know what I'm looking at here.
+
+00:43:19
+<transcript>: So runs. So this is a space. Oh, Acme front. So this is one space. And there's multiple repos.
+
+00:43:19
+<transcript>: maybe
+
+00:43:20
+<transcript>: Maybe.
+
+00:43:24
+sockthedev: remember when vercel used to be simple?
+
+00:43:25
+<transcript>: Okay, better best practice. Conforms for your code.
+
+00:43:30
+<transcript>: Conformance Automatic detection of critical issues for your front end products early in the development.
+
+00:43:42
+mattmancodes: that was their selling point, wasn't it?
+
+00:43:45
+<transcript>: Very cool. I'm excited about this. I want to read more, but I'm excited. So it's GitHub actions. Oh, is that your take? I was not my take but maybe may the fourth be with you may 4? I got you may the fourth.
+
+00:43:58
+<transcript>: Star Wars Day that's a good 1 May the fourth. Yeah react it's the front end of choice for most places. Funnel versailles need to create a managed service to be vetted by javascript community. Now postgres is a thingy.
+
+00:44:06
+<transcript>: They could resell github. There you go. Hey, there you go. They can just resell github. Feel like they could just do that.
+
+00:44:06
+<transcript>: remember
+
+00:44:09
+<transcript>: Remember what Versaille used to be simple.
+
+00:44:09
+<transcript>: yeah
+
+00:44:16
+<transcript>: Yeah, the problem. Sock versailles. I'm actually surprised if this taking them this long to branch into some other things.
+
+00:44:16
+<transcript>: especially since
+
+00:44:31
+<transcript>: Especially since they're just reselling stuff like you didn't even have to build anything. They said, work out deals and do some marketing. I'm surprised that they've been front end hosting only for so long because it's just not very good business. People don't expect to pay a lot of money for their front end hosting, especially.
+
+00:44:31
+<transcript>: it's just hard for
+
+00:44:38
+<transcript>: It's just hard for me to weigh out. Like, what am I getting here when I use versaille on a project that has legs with multiple people working on it for years.
+
+00:44:38
+<transcript>: it's just
+
+00:44:42
+<transcript>: It's just hard to justify the cost. So.
+
+00:44:42
+<transcript>: it's kind of surprised
+
+00:44:45
+<transcript>: It's kind of surprised to me that they've been front end hosting only for so long.
+
+00:44:49
+<transcript>: But yeah, it did used to be simple.
+
+00:44:52
+<transcript>: Okay.
+
+00:44:52
+<transcript>: yeah
+
+00:44:56
+<transcript>: Yeah, that was your selling point. Yeah, it's a bad selling point because life is not simple.
+
+00:44:56
+<transcript>: project
+
+00:45:01
+<transcript>: Projects are not simple, they're complicated. And if you want to really add value.
+
+00:45:01
+<transcript>: you're going to have to
+
+00:45:22
+<transcript>: You're going to have to wait into that muck, and you're going to have to like, granted, you can have a simple product that makes other complex things simpler. But it doesn't all just go away and to just be front end hosting and hook up your GitHub repo, deploy your thing. I just don't think it's a viable long term business model, at least not a 300 million dollar raise, whatever their valuation was.
+
+00:45:22
+<transcript>: that's just
+
+00:45:26
+<transcript>: That's just untenable. They had to do something else. I think.
+
+00:45:26
+<transcript>: okay
+
+00:45:27
+<transcript>: Okay.
+
+00:45:27
+<transcript>: brazil
+
+00:45:41
+<transcript>: Brazil Runs, offers a better solution and a new system for sending users build from any tool, local, continuous integration, or deployments to or sell free visualization all in one dashboard. You get an easier way to debug a task or an interact ui. Okay, interesting. It's interesting.
+
+00:45:45
+<transcript>: I'm intrigued. I'm intrigued. About versailles. Spaces.
+
+00:45:55
+<transcript>: Storage is kind of meh like, I know how to use those things if I wanted to use them. If I wanted to use neon, I would use neon. I've used up stash. It's great.
+
+00:45:59
+<transcript>: I don't need to pay more to versaille to use those things.
+
+00:45:59
+<transcript>: i don't care
+
+00:46:02
+nexxeln: hii adam
+
+00:46:09
+<transcript>: I don't care if their library makes me go from five lines of code to three. I'm good, I'm good. I'm going to pay the normal prices. Next is here. What's up, Nick.
+
+00:46:13
+<transcript>: We're getting ready to do some versailleship.
+
+00:46:13
+<transcript>: live react
+
+00:46:23
+<transcript>: Live reactions. We're going to watch together. Whoever's interested in that is dax still streaming. We talked about one of us rating the other so we can consolidate.
+
+00:46:25
+nexxeln: im interested
+
+00:46:27
+<transcript>: Let me tell me if he's streaming while I do this.
+
+00:46:32
+<transcript>: While I eat? Because I'm hungry. Uhoh, what did I just do.
+
+00:46:32
+<transcript>: it just went
+
+00:46:34
+<transcript>: It just went to the wrong camera.
+
+00:46:34
+<transcript>: it's
+
+00:46:36
+sockthedev: i built a product on their container platform (Zeit), then they did the whole serverless frontend switch and i basically had to rewrite. that pushed me into looking for an alt. stoked i then bumped into sst.
+
+00:46:36
+<transcript>: It's okay.
+
+00:46:36
+<transcript>: it's
+
+00:46:38
+unrulyhotfixer: he is streaming
+
+00:46:39
+<transcript>: It's fine, it's fine.
+
+00:46:40
+maleero: Yeah, he's streaming
+
+00:46:46
+<transcript>: Are you streaming.
+
+00:46:49
+kevinnaughtonjr: we need a sponsorship for this bar company
+
+00:46:50
+<transcript>: What are you interested in? Next? You're interested.
+
+00:46:50
+<transcript>: i built a product
+
+00:46:53
+<transcript>: I built a product on their container platform.
+
+00:46:53
+<transcript>: z
+
+00:46:53
+unrulyhotfixer: he is raiding you
+
+00:46:58
+<transcript>: Z and they do the whole serverless front end switch. And I basically had to rewrite bummer.
+
+00:46:58
+<transcript>: and
+
+00:47:01
+<transcript>: And that pushed you to sst. So there you go.
+
+00:47:01
+<transcript>: it
+
+00:47:01
+nexxeln: interested in vercel ship
+
+00:47:04
+<transcript>: It all worked out in the end. Sock.
+
+00:47:11
+<transcript>: Kevin's here. We need a sponsorship for this bar company. Yeah, I know.
+
+00:47:11
+<transcript>: i really got
+
+00:47:14
+itsmeleague: BALD RAID
+
+00:47:14
+<transcript>: I really got to reach out to Larbar. It's funny.
+
+00:47:14
+<transcript>: i've sold
+
+00:47:20
+goodgrandpaa: Wow, look who it is!
+
+00:47:21
+<transcript>: I've sold boxes and boxes of lara bars. Dax is here. Thank you for the raid. Dax.
+
+00:47:21
+<transcript>: welcome ra
+
+00:47:23
+<transcript>: Welcome, Raiders.
+
+00:47:24
+sockthedev: hey adam
+
+00:47:26
+thdxr: hello
+
+00:47:28
+nexxeln: hii dax
+
+00:47:29
+thdxr: gimme riverside
+
+00:47:30
+smilingbig: o/
+
+00:47:31
+<transcript>: I sold boxes of these to people when people buy these because they see Me eat them. And guess who.
+
+00:47:35
+<transcript>: Larvar sent a box like a thank you gift, too.
+
+00:47:35
+<transcript>: like a free
+
+00:47:36
+trivenge: so anyways, we were talkin about homelessness and now we must continue this conversation here. jk, whats up adam?
+
+00:47:38
+trivenge: LUL
+
+00:47:41
+<transcript>: Like a free box of lar bars too. My wife because she posted one time on Instagram.
+
+00:47:41
+<transcript>: like
+
+00:47:41
+goodgrandpaa: LUL
+
+00:47:42
+oskrm: howdy
+
+00:47:45
+lotuspixiee: lmao
+
+00:47:46
+<transcript>: Like our boys lunches with lara bars in them. And they sent us like a little thank you gift.
+
+00:47:50
+thdxr: LOL
+
+00:47:53
+<transcript>: Not me who sells literal boxes of them all over the world by eating them every day.
+
+00:47:53
+<transcript>: no
+
+00:47:53
+smilingbig: LUL
+
+00:47:54
+goodgrandpaa: Doesn't that mean you got it too?!
+
+00:47:56
+<transcript>: No worries. I'm not bitter.
+
+00:47:56
+<transcript>: just a little
+
+00:47:57
+<transcript>: Just a little bit.
+
+00:47:58
+grasp5533: If I'm building with serverless & CDK is there any reason I shouldn't switch to SST?
+
+00:48:01
+mattmancodes: adamdevAdambar
+
+00:48:03
+smilingbig: someone clip this and send it to them
+
+00:48:06
+<transcript>: I did get it, too. But I don't know. Just a little recognition from lara Bar. From lara herself would be nice.
+
+00:48:06
+<transcript>: give me riverside
+
+00:48:09
+<transcript>: Give me riverside. Oh, yeah, let's do a deck.
+
+00:48:09
+<transcript>: riverside
+
+00:48:10
+lotuspixiee: I'm not mad Madge
+
+00:48:11
+amberdev: :D
+
+00:48:11
+<transcript>: Riverside. Or do you want to do.
+
+00:48:14
+<transcript>: Just come on through Ping.
+
+00:48:16
+<transcript>: What do you think, DAX.
+
+00:48:17
+thdxr: ping is good
+
+00:48:19
+<transcript>: King.
+
+00:48:21
+<transcript>: Is good. Okay.
+
+00:48:24
+<transcript>: I'm joining Ping.
+
+00:48:27
+goodgrandpaa: Ms. Bar, please acknowledge me.
+
+00:48:30
+<transcript>: Let's see, join, call.
+
+00:48:32
+nexxeln: do you still pay for ping adam
+
+00:48:35
+<transcript>: Ms. Barr, Please acknowledge me. It's so true.
+
+00:48:38
+<transcript>: Let's see, leave room now.
+
+00:48:40
+<transcript>: Join, allow.
+
+00:48:42
+<transcript>: All right, DAX.
+
+00:48:42
+<transcript>: can you
+
+00:48:46
+<transcript>: Can you hear me on I guess we're do you want to hear me.
+
+00:48:55
+<transcript>: Okay, hang on. I got to hit the button. I got to turn you down in my ears.
+
+00:48:59
+<transcript>: Yeah, it is. You can change the background.
+
+00:49:02
+<transcript>: I know. Pretty cool, right.
+
+00:49:10
+nexxeln: can't hear dax
+
+00:49:12
+<transcript>: My lut. Oh, because it's not my virtual camera. It's just the actual camera. Sorry. Okay, I'm going to hit the button. Let's see.
+
+00:49:12
+<transcript>: if this works
+
+00:49:13
+<transcript>: If this works.
+
+00:49:15
+oskrm: Did dax pay 50K adam bucks?
+
+00:49:18
+<transcript>: Don't know.
+
+00:49:26
+<transcript>: I have to think about it. So wait. Yes, it can't. I mean it's doing it. Oh, did it work.
+
+00:49:28
+<transcript>: It worked.
+
+00:49:34
+<transcript>: I wish you were facing that way or I wish I was on the other side.
+
+00:49:36
+smilingbig: LUL
+
+00:49:36
+<transcript>: Can you flip you.
+
+00:49:36
+<transcript>: 're
+
+00:49:41
+nexxeln: oh it worked
+
+00:49:42
+nexxeln: nice
+
+00:49:44
+privann: IT'S DAX
+
+00:49:50
+<transcript>: 're kind of flippant with your flipping. You flip all the time. So maybe just like, flip. Well, I see you, like, on YouTube, and I'm like, Wait, is that the real dax? And I see you on twitch. I'm like, no, that's definitely the real no, I've seen you in person, but I can't remember.
+
+00:49:53
+privann: that mtfucker scammed me on an ipad
+
+00:49:58
+<transcript>: Sorry I moved it last time I had somebody on.
+
+00:49:58
+<transcript>: i can move
+
+00:49:59
+nexxeln: dax wtf happened to your beard
+
+00:49:59
+<transcript>: I can move it again.
+
+00:50:03
+<transcript>: Oh, how do I want to do this.
+
+00:50:03
+<transcript>: oh
+
+00:50:05
+trivenge: holy shit, its kyrie irvings brother
+
+00:50:06
+smilingbig: KEKW
+
+00:50:06
+trivenge: POGGERS
+
+00:50:07
+<transcript>: Oh, yeah? Chats on your face. I don't want that.
+
+00:50:08
+itsmeleague: Wow what a beautiful beard
+
+00:50:10
+<transcript>: Isn't it.
+
+00:50:13
+<transcript>: Nobody talk.
+
+00:50:15
+smilingbig: no one wants chat on their face
+
+00:50:18
+hhthacker: lol
+
+00:50:23
+<transcript>: Yeah, it's not the center. I'll make it the center. Hang on, I'll fix it.
+
+00:50:26
+ayoungh: deep faked
+
+00:50:28
+<transcript>: I just moved it last time I had some mails on.
+
+00:50:30
+<transcript>: Here.
+
+00:50:34
+teej_dv: this just confirms that anyone can stream
+
+00:50:36
+<transcript>: That's better. Are we both eating larvars.
+
+00:50:39
+trivenge: lol
+
+00:50:40
+hhthacker: is this AI
+
+00:50:42
+goodgrandpaa: wowwwww haha
+
+00:50:43
+<transcript>: That's fun. That's fun. Look at us with our lar bars. Hoffman, thank you for the resub.
+
+00:50:45
+goodgrandpaa: planned Kappa
+
+00:50:48
+<transcript>: Eight months. Do they get tired of us? I don't know. I get tired of us. So they must. Right.
+
+00:50:51
+ayoungh: Woah
+
+00:50:53
+smilingbig: LUL
+
+00:50:54
+teej_dv: can you put dax on the left so he's looking at you??
+
+00:50:54
+amberdev: teej
+
+00:51:02
+nexxeln: yoo teej
+
+00:51:04
+<transcript>: These guys again, griffith. Thank you for the six months. Wow, that's a lot of months between you two. Greetings, Mr. Adam. Your schedule shifted so it's no longer streaming during my kid's nap time. I'm so sorry, hoffman. It's not permanent. I'm just kind of all over the place now.
+
+00:51:04
+<transcript>: it's
+
+00:51:07
+smilingbig: KEKW
+
+00:51:07
+<transcript>: It's not that I'm teenagers here.
+
+00:51:07
+<transcript>: there
+
+00:51:09
+teej_dv: o/ hey chat
+
+00:51:09
+kevinnaughtonjr: crazy that dax won't even face you
+
+00:51:13
+<transcript>: There we go. Now he's looking at me now I wish I were looking straight at you. Because I feel like.
+
+00:51:16
+hhthacker: lol how silly
+
+00:51:19
+<transcript>: I'm looking at Chat and you're the side of my face.
+
+00:51:19
+<transcript>: yeah
+
+00:51:22
+<transcript>: Yeah. How about this? Oh, no.
+
+00:51:24
+teej_dv: esabatad ???? what is that hat @thdxr
+
+00:51:25
+<transcript>: Hey, DAX.
+
+00:51:32
+<transcript>: This is fun. How are we going to do this? I'll just pull up. Do I put another browser source up here? Maybe.
+
+00:51:38
+teej_dv: Kappa
+
+00:51:41
+oskrm: hey tj
+
+00:51:43
+nexxeln: if you two look at each other how will we look at vercel ship
+
+00:51:45
+cowfacedev: https://help.twitch.tv/s/article/how-to-use-squad-stream?language=en_US
+
+00:51:45
+<transcript>: I don't know if you're ahead don't spoil stuff.
+
+00:51:46
+hhthacker: database
+
+00:51:49
+<transcript>: Yeah.
+
+00:51:49
+<transcript>: don't spoil it
+
+00:51:51
+<transcript>: Don't spoil it.
+
+00:51:52
+itsmeleague: You can kiss like this
+
+00:51:56
+itsmeleague: Just saying
+
+00:52:01
+nexxeln: actually
+
+00:52:05
+<transcript>: Oh, no. Okay, let's see if I can get this. Just like something like this.
+
+00:52:05
+<transcript>: this
+
+00:52:07
+<transcript>: This is bad, isn't it.
+
+00:52:17
+<transcript>: Is that big enough? Now I'm going to move us outside of it.
+
+00:52:17
+<transcript>: this
+
+00:52:18
+teej_dv: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:52:19
+<transcript>: This is one way to do it.
+
+00:52:26
+nexxeln: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:52:27
+<transcript>: How about this? We did it.
+
+00:52:28
+naethan4u: @nexxeln https://twitter.com/thdxr/status/1645428547064922113
+
+00:52:29
+<transcript>: Kind of.
+
+00:52:33
+<transcript>: Oh, no. Obviously not.
+
+00:52:38
+smilingbig: LUL
+
+00:52:41
+nexxeln: LUL
+
+00:52:44
+<transcript>: Wait. What was what serious? You mean what I've done here or something? Somebody said.
+
+00:52:50
+<transcript>: Okay. Yeah. I'm being dead serious. It might be bad.
+
+00:52:53
+kkm323: put at the bottom
+
+00:52:54
+nexxeln: balenciaga.js
+
+00:52:55
+<transcript>: But I don't know if audio will come over this thing.
+
+00:52:57
+hhthacker: ▲ ▼ ◄ ► ◣
+
+00:53:00
+teej_dv: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\  󠀀
+
+00:53:01
+kkm323: move it down
+
+00:53:01
+<transcript>: Oh, sign in to register? I have to sign in, oh, boy, hang on.
+
+00:53:03
+<transcript>: This is signed into register.
+
+00:53:07
+cowfacedev: altf4LUL
+
+00:53:07
+oskrm: \/_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:53:08
+<transcript>: Yeah. Maybe. Hang on, I'll fix it.
+
+00:53:11
+<transcript>: Interact.
+
+00:53:14
+<transcript>: I actually really have to pee.
+
+00:53:15
+smilingbig: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ 󠀀
+
+00:53:18
+<transcript>: Pop up could not be authenticate oh, no.
+
+00:53:20
+<transcript>: Oh no.
+
+00:53:20
+nexxeln: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:53:22
+<transcript>: I know.
+
+00:53:29
+<transcript>: Okay. I'm going to go pee. I'm going to go so fast. Oh, no, I can't log into this.
+
+00:53:31
+<transcript>: I'll share my screen.
+
+00:53:31
+<transcript>: i'll put my screen
+
+00:53:31
+mattmancodes: haha
+
+00:53:34
+<transcript>: I'll put my screen on here. Oh, but I have to pee.
+
+00:53:35
+kkm323: you don't need to login
+
+00:53:37
+oskrm: GO PEE
+
+00:53:39
+<transcript>: Let's do this. New maco Screen capture.
+
+00:53:39
+<transcript>: why not
+
+00:53:40
+teej_dv: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:53:43
+hhthacker: take care of bodily needs
+
+00:53:43
+nexxeln: yeah you don't need to login @adamdotdev
+
+00:53:44
+<transcript>: Why not to pee so bad? It's the caffeine. Stupid caffeine.
+
+00:53:48
+<transcript>: I'm going to I just have to get this up here first.
+
+00:53:53
+<transcript>: Okay, make it smaller.
+
+00:53:53
+<transcript>: i don't know
+
+00:53:57
+teej_dv: how long til adam notices???
+
+00:53:57
+<transcript>: I don't know where that is on my screen. Oh, man, this is such a mess.
+
+00:54:02
+<transcript>: Okay, we're going to have it up just right in that little spot on my screen.
+
+00:54:08
+<transcript>: Burcelle ship.
+
+00:54:13
+<transcript>: Register for the event. Oh, I got to register.
+
+00:54:13
+<transcript>: and then i'm going to go
+
+00:54:15
+greatgrievance: waahh collab stream
+
+00:54:16
+<transcript>: And then I'm going to go pee. And I'll bear back.
+
+00:54:17
+beanzmate: put it lower along the bottom
+
+00:54:20
+kodder: he is showing it to us...
+
+00:54:22
+<transcript>: Are we registered? We're in. Okay. So I just got put it in the exact right spot.
+
+00:54:25
+<transcript>: Like right here.
+
+00:54:25
+<transcript>: ish
+
+00:54:25
+oskrm: 🍕 ALL HAIL THE VERCEL TRIANGLE 🍕 ALL HAIL THE VERCEL TRIANGLE 🍕 ALL HAIL THE VERCEL TRIANGLE 🍕 ALL HAIL THE VERCEL TRIANGLE 🍕 ALL HAIL THE VERCEL TRIANGLE 🍕 ALL HAIL THE VERCEL TRIANGLE 🍕
+
+00:54:26
+nexxeln: you don't have to register
+
+00:54:26
+<transcript>: Ish.
+
+00:54:31
+<transcript>: Did I get it.
+
+00:54:33
+cowfacedev: @adamdotdev put the screen fullscreen and add your and dax's stream 6n the side LUL
+
+00:54:34
+<transcript>: Okay. That's pretty good. That's pretty good.
+
+00:54:34
+nexxeln: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:54:36
+<transcript>: Okay, we're back.
+
+00:54:37
+teej_dv: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:54:52
+teej_dv: we need !triangle
+
+00:54:58
+vatodeharina: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:55:04
+teej_dv: or !/_\
+
+00:55:05
+nexxeln: one sec
+
+00:55:06
+grasp5533: Dax are you growing your beard out to fit that AI Dax?
+
+00:55:09
+oreomilkshake11: is vercel some form of a sect?
+
+00:55:16
+teej_dv: @oreomilkshake11 they prefer cult
+
+00:55:18
+tini_turner: primeagenEmacs ercel
+
+00:55:19
+kodder: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:55:27
+oskrm: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:55:33
+oreomilkshake11: @oreomilkshake11 now i get it
+
+00:55:41
+cowfacedev: guess you are in this chat LUL
+
+00:55:48
+teej_dv: haha yes, i did
+
+00:55:49
+oskrm: @oreomilkshake11 for legal reasons
+
+00:55:55
+gitpush_gitpaid: yea you just need sunglasses to cover your face and youll look like the midjourney image
+
+00:56:03
+kodder: it's the start of a new cult...I am scared
+
+00:56:07
+teej_dv: got it: https://twitter.com/teej_dv/status/1654153920590036996
+
+00:56:12
+cowfacedev: there's a yt stream too right?
+
+00:56:19
+cowfacedev: for the keynote
+
+00:56:23
+grasp5533: Adamn needs to cut the music
+
+00:56:23
+oskrm: https://www.youtube.com/watch?v=M4vrwI5PDI0
+
+00:56:24
+samhuckaby: No volume?
+
+00:56:26
+nexxeln: !vercel
+
+00:56:26
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:56:30
+nexxeln: !triangle
+
+00:56:30
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:56:32
+charafmrah: No audio
+
+00:56:40
+oskrm: oh no adam
+
+00:56:42
+<transcript>: I almost die tell you about it later. I got to do this in a different browser.
+
+00:56:43
+oskrm: NO AUDIO
+
+00:56:48
+<transcript>: Okay.
+
+00:56:50
+cowfacedev: this is going very well LUL
+
+00:56:53
+mattmancodes: !triangle
+
+00:56:53
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:56:56
+oskrm: https://www.youtube.com/watch?v=M4vrwI5PDI0
+
+00:56:57
+oskrm: https://www.youtube.com/watch?v=M4vrwI5PDI0 󠀀
+
+00:56:57
+<transcript>: Oh, I can just go to YouTube. That'd be great. Yeah. Someone link it. This is going very well.
+
+00:57:01
+<transcript>: Somebody give me a link. There we go.
+
+00:57:06
+<transcript>: Okay.
+
+00:57:06
+<transcript>: now i just got
+
+00:57:09
+<transcript>: Now I just got to position it.
+
+00:57:09
+<transcript>: perfectly
+
+00:57:10
+<transcript>: Perfectly.
+
+00:57:23
+<transcript>: What is it.
+
+00:57:28
+teej_dv: !triangle
+
+00:57:28
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:57:28
+gitpush_gitpaid: turn off the background music
+
+00:57:29
+oskrm: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:57:30
+<transcript>: Okay, I'm going to turn the music off. Oh, jeez, I'm so sorry, everybody. I'm such an amateur.
+
+00:57:32
+beanzmate: put capture along the bottom @adamdotdev
+
+00:57:33
+lotuspixiee: Apple Pog
+
+00:57:33
+nexxeln: !vercel
+
+00:57:33
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:57:38
+<transcript>: Why so quiet.
+
+00:57:40
+samhuckaby: !vercel
+
+00:57:41
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:57:42
+charafmrah: W speed
+
+00:57:47
+<transcript>: Put capture along the bottom. What's capture.
+
+00:57:49
+mattmancodes: !triangle
+
+00:57:49
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:57:51
+<transcript>: Oh, where'd the audio go.
+
+00:57:52
+nexxeln: can we make it bigger @adamdotdev
+
+00:57:54
+<transcript>: So I mute it. What is happening.
+
+00:57:55
+nexxeln: you muted it
+
+00:57:56
+bheet: Tfuck is vercel ship
+
+00:58:01
+beanzmate: the screen capture
+
+00:58:03
+<transcript>: Can we make it bigger? Yeah.
+
+00:58:03
+<transcript>: me and
+
+00:58:05
+<transcript>: Me and dax would be talking.
+
+00:58:14
+trivenge: no
+
+00:58:14
+<transcript>: Sorry, I'm working on it.
+
+00:58:18
+trivenge: this is whats happening?
+
+00:58:20
+trivenge: oh nooooo
+
+00:58:25
+dmdboi: Bets on underwhelming release?
+
+00:58:27
+<transcript>: Now what did I do.
+
+00:58:33
+kkm323: lol
+
+00:58:34
+<transcript>: What is happening.
+
+00:58:39
+<transcript>: Beyonce, what.
+
+00:58:40
+dmdboi: Is this just a CDN?
+
+00:58:45
+nexxeln: wow grammys used vercel?
+
+00:58:47
+<transcript>: Did I mute it again? What is going on.
+
+00:58:56
+mattmancodes: Vercel is reselling Beyonce now
+
+00:58:57
+<transcript>: Have we actually missed anything yet.
+
+00:58:59
+<transcript>: Okay.
+
+00:58:59
+rsromano: Take away his mouse
+
+00:59:00
+samhuckaby: Vercel is Big Internet
+
+00:59:00
+oreomilkshake11: stop censoring the masterpiece
+
+00:59:02
+oskrm: you doin great Adam
+
+00:59:04
+<transcript>: I'm sorry. What.
+
+00:59:06
+beanzmate: beyonce uses vercel Pog
+
+00:59:08
+<transcript>: Did I Miss beyonce? And Finding cancer.
+
+00:59:09
+gitpush_gitpaid: lmao
+
+00:59:10
+archieedwds: bro fighting cancer
+
+00:59:10
+nexxeln: !vercel
+
+00:59:10
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+00:59:14
+gitpush_gitpaid: this dude is nuts
+
+00:59:18
+oskrm: beyonce and cancer use Vercel?
+
+00:59:19
+<transcript>: What just happened.
+
+00:59:21
+grasp5533: You should make the video full screen, and then have you guys small in the corners
+
+00:59:24
+<transcript>: Oh.
+
+00:59:24
+theruggedbear: WTF
+
+00:59:25
+nexxeln: woww
+
+00:59:27
+<transcript>: That was an AI thing.
+
+00:59:29
+smilingbig: KEKW
+
+00:59:29
+nexxeln: thats cool
+
+00:59:30
+goodgrandpaa: KEKW
+
+00:59:31
+noctate12: vercel just cured cancer
+
+00:59:38
+<transcript>: Why is it putting it like that.
+
+00:59:38
+teej_dv: LUL
+
+00:59:40
+gitpush_gitpaid: the same tools to run my shitty web app
+
+00:59:41
+micro8bit: Does this utilise middle out compression?
+
+00:59:42
+<transcript>: This is so hard.
+
+00:59:44
+<transcript>: I don't know.
+
+00:59:46
+goodgrandpaa: @micro8bit LUL
+
+00:59:47
+<transcript>: Okay.
+
+00:59:49
+dmdboi: LUL
+
+00:59:50
+rsromano: Democratized is the new D word. Taking over disrupt
+
+00:59:52
+teej_dv: @adamdotdev just make it full screen and show your whole screen with the window
+
+00:59:53
+nexxeln: LUL
+
+00:59:56
+goodgrandpaa: @micro8bit Person of culture, I love it.
+
+00:59:58
+nexxeln: !vercel
+
+00:59:58
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:00:03
+<transcript>: My mouse is like permanently clicking the mute button, and I don't know why.
+
+01:00:03
+maleero: LUL
+
+01:00:11
+lotuspixiee: HACKERMANS
+
+01:00:11
+gitpush_gitpaid: @teej_dv adam needs to be on screen even if its his shoulder
+
+01:00:15
+hyeheal: do we really wanna see things from the lens of a front end developer? LUL
+
+01:00:19
+charafmrah: Beyoncé and fighting cancer lol
+
+01:00:25
+dmdboi: "welcome to vercel ship where we've built a fancy wrapper around Netlify"
+
+01:00:26
+<transcript>: Uhoh.
+
+01:00:29
+<transcript>: Is this the spaces stuff.
+
+01:00:35
+nexxeln: YES LUL
+
+01:00:46
+<transcript>: Wait. What? I was actually listening to lerob.
+
+01:00:49
+<transcript>: No.
+
+01:00:57
+<transcript>: Oh, is he really.
+
+01:01:01
+dontreadmynameoutloud1: its done well but so yuckie that they just copy+pasted the apple asthetic. They should rename to resell
+
+01:01:02
+<transcript>: I can't use my computer right now. It's very broken, but I would love to read that.
+
+01:01:07
+charafmrah: They.
+
+01:01:09
+dmdboi: Cloudflare workers actually references Netlify stuff in their build logs
+
+01:01:14
+teej_dv: @teej_dv no, i'm saying: he just needs to make the window full screen and share that in OBS as a window capture... but he doesn't know what he's doing LUL
+
+01:01:17
+<transcript>: So this is all just recap.
+
+01:01:21
+warrenbuffering: Netlify by the Vercel Foundation TM
+
+01:01:27
+gitpush_gitpaid: things break down? i hope they dont share my url
+
+01:01:27
+<transcript>: Oh, I'm sure.
+
+01:01:33
+<transcript>: For sure.
+
+01:01:34
+nexxeln: yeah just black
+
+01:01:38
+mr_yan19: sure, you can wear black or black
+
+01:01:40
+<transcript>: It's only a few people that get on camera there, right? They've just got a few Devrells that are on all the videos.
+
+01:01:40
+dmdboi: Netlify and Vercel partnership so you get more frontend for your frontend
+
+01:01:45
+<transcript>: Yeah. But I bet they just like they all know.
+
+01:01:45
+<transcript>: at
+
+01:01:47
+rsromano: Look at the engineer in the background trying to finish the feature
+
+01:01:48
+<transcript>: At this point, maybe they even provide their wardrobe.
+
+01:01:53
+oskrm: casual black
+
+01:01:54
+feenskee: They should all be shirtless
+
+01:01:57
+<transcript>: Oh, I didn't think about people at conferences. Yeah.
+
+01:01:58
+trash_dev: what is happening with this layout
+
+01:02:07
+samhuckaby: @trash_dev we're optimizing
+
+01:02:08
+rsromano: @trash_dev it's perfect
+
+01:02:10
+kkm323: black is gold
+
+01:02:11
+beanzmate: @trash_dev so scuffed please help them
+
+01:02:14
+<transcript>: Who's close enough with Lerob. Can we, like pay him to do that sometime and just see I just want to hear the story of what happened when he showed up on Set with Yellow pants.
+
+01:02:15
+gitpush_gitpaid: what do you think shes typing in the background?
+
+01:02:17
+smilingbig: perfection trash_dev
+
+01:02:19
+wilcointhechat: wait what is this
+
+01:02:20
+teej_dv: @trash_dev shhh trash, adam is new streamer
+
+01:02:23
+trash_dev: its missing trash
+
+01:02:24
+<transcript>: What is happening with this layout? Trash? What did you do to our twitch stream.
+
+01:02:28
+<transcript>: People wanted to be bigger.
+
+01:02:28
+<transcript>: yeah
+
+01:02:29
+kkm323: its fashion
+
+01:02:30
+<transcript>: Yeah. What are you saying.
+
+01:02:30
+nexxeln: yo trash
+
+01:02:33
+<transcript>: A new streamer.
+
+01:02:33
+itsboek: yo trash
+
+01:02:35
+mattmancodes: it's from the frontend lens
+
+01:02:37
+<transcript>: This is pretty rough. This is pretty tough.
+
+01:02:37
+<transcript>: it
+
+01:02:38
+trivenge: vercel sounds like a scam
+
+01:02:39
+nexxeln: !vercel
+
+01:02:39
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:02:40
+trivenge: NotLikeThis
+
+01:02:40
+<transcript>: It's hard for me to be putting out something this low quality.
+
+01:02:45
+kkm323: i think it should be smaller
+
+01:02:48
+smilingbig: KEKW
+
+01:02:48
+<transcript>: We're just behind.
+
+01:02:52
+teej_dv: @adamdotdev make you and dax small on the left and then make the window the whole right side of the screen..... @adamdotdev make you and dax small on the left and then make the window the whole right side of the screen..... @adamdotdev make you and dax small on the left and then make the window the whole right side of the screen..... @adamdotdev make you and dax small on the left and then make the window the whole right side of the screen..... @adamdotdev
+
+01:02:53
+trash_dev: yo @itsboek
+
+01:02:55
+<transcript>: I think it should be smaller. I think it should be smaller too, because I don't like that our faces aren't on the screen. I don't know.
+
+01:02:57
+<transcript>: I'm just a little conceited.
+
+01:03:00
+<transcript>: I don't know.
+
+01:03:00
+<transcript>: i
+
+01:03:02
+trash_dev: put yourself in top right
+
+01:03:02
+<transcript>: I can't do anything right now.
+
+01:03:02
+<transcript>: my computer
+
+01:03:04
+<transcript>: My computer.
+
+01:03:05
+warrenbuffering: I wrote this script
+
+01:03:09
+kkm323: yea i wanna see some faces and your guys reaction to it
+
+01:03:13
+<transcript>: Okay. This is all recap. No one cares, right? You guys saw this all yesterday. I'm going to fix it.
+
+01:03:14
+wilcointhechat: I just learned about Vercel through the Digital Garden plugin for Obsidian.
+
+01:03:16
+<transcript>: Yeah.
+
+01:03:16
+kkm323: yea i don't care
+
+01:03:19
+<transcript>: What am I doing? What am I doing.
+
+01:03:19
+<transcript>: no
+
+01:03:19
+teej_dv: @adamdotdev USE WINDOW SHARE
+
+01:03:20
+gitpush_gitpaid: fuck these guys im out im going to go buy a sandwich
+
+01:03:20
+<transcript>: No.
+
+01:03:22
+teej_dv: NOT SCREEN
+
+01:03:23
+theruggedbear: Greta NOT WEARING BLACK PANTS
+
+01:03:23
+teej_dv: AHHHHH
+
+01:03:23
+<transcript>: This one.
+
+01:03:25
+nexxeln: yes do it now
+
+01:03:35
+nexxeln: @adamdotdev LISTEN TO TEEJ HE IS INTELLIGENT
+
+01:03:39
+<transcript>: I don't know what's going on with the oh, is she really? We're going to get there. Hang on. Okay. Now if we just hang out on the edges, dax, we can actually be on it. Okay, but I'm going to make it this big.
+
+01:03:41
+<transcript>: Okay.
+
+01:03:41
+<transcript>: a little small
+
+01:03:43
+teej_dv: please no, this is so bad
+
+01:03:44
+<transcript>: A little smaller. Okay, a little smaller.
+
+01:03:44
+smilingbig: KEKW
+
+01:03:47
+<transcript>: This is so messed up.
+
+01:03:47
+<transcript>: okay
+
+01:03:48
+<transcript>: Okay.
+
+01:03:48
+teej_dv: MAKE YOURSELVES SMALL
+
+01:03:51
+kkm323: this is good
+
+01:03:52
+<transcript>: I've never seen her. Who is this.
+
+01:03:53
+c9_fuzz: bro
+
+01:03:55
+samhuckaby: WutFace
+
+01:03:55
+mattmancodes: this is the best
+
+01:03:56
+kkm323: great job adam
+
+01:03:58
+smilingbig: thank you for letting us be part of this KEKW
+
+01:04:01
+itsboek: what the duck is a frontend cloud
+
+01:04:04
+<transcript>: Is so bad make herself small how do I make a small? Oh, I guess I could make a small Yeah.
+
+01:04:04
+teej_dv: CALL ME ON DISCORD
+
+01:04:04
+trash_dev: what ARE YOU DOING
+
+01:04:04
+nexxeln: LUL
+
+01:04:04
+mr_yan19: beginBoomer
+
+01:04:06
+trash_dev: LMAO
+
+01:04:06
+<transcript>: Move us in front.
+
+01:04:06
+<transcript>: of what
+
+01:04:08
+<transcript>: Of what.
+
+01:04:08
+itsboek: this is the worst name ever
+
+01:04:11
+mattmancodes: hahaha
+
+01:04:12
+beanzmate: youtube capture fullscreen, cams top right smaller
+
+01:04:12
+wilcointhechat: what is a devtools hero?
+
+01:04:16
+<transcript>: Would I do? Oh, you're saying just like put.
+
+01:04:16
+<transcript>: us
+
+01:04:17
+<transcript>: US.
+
+01:04:20
+teej_dv: I LITERALLY CANT DO MY JOB UNTIL YOU FIX THIS
+
+01:04:21
+kkm323: ohh yea
+
+01:04:21
+<transcript>: Oh, yeah, that's a good call.
+
+01:04:23
+<transcript>: Okay. Yeah.
+
+01:04:23
+<transcript>: there we go
+
+01:04:24
+mattmancodes: !vercel
+
+01:04:24
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:04:26
+smilingbig: LUL
+
+01:04:27
+warrenbuffering: Is that the lady Dax doxxed?
+
+01:04:27
+dmdboi: Remove the two people either side
+
+01:04:28
+trash_dev: im dead
+
+01:04:28
+<transcript>: There we go. Okay. Yeah. That's so smart. Why did I not think of that.
+
+01:04:28
+<transcript>: so
+
+01:04:31
+<transcript>: So put us behind the camera.
+
+01:04:31
+teej_dv: YOU ARE COSTING SOURCEGRAPH SO MUCH MONEy
+
+01:04:34
+teej_dv: ILL BILL YOU LATER
+
+01:04:35
+hyeheal: professional streamer btw
+
+01:04:35
+<transcript>: Okay.
+
+01:04:39
+<transcript>: Why is it sharing my screen in some weird dimensions.
+
+01:04:39
+<transcript>: hang on
+
+01:04:42
+<transcript>: Hang on, let's fix this.
+
+01:04:42
+<transcript>: nineteen twenty
+
+01:04:45
+nexxeln: WINDOW CAPTURE THE YOUTUBE WINDOW NOT BROWSER SOURCE @adamdotdev
+
+01:04:45
+trash_dev: you can capture a window
+
+01:04:47
+<transcript>: 1920 by 1080. That's right, though, isn't it.
+
+01:04:53
+<transcript>: I'm so sorry. People.
+
+01:04:54
+archieedwds: make all windows triangles
+
+01:04:55
+trash_dev: right click and reset transform
+
+01:04:56
+<transcript>: I feel like that's right.
+
+01:04:57
+teej_dv: WINDOW CAPTURE THE YOUTUBE WINDOW
+
+01:04:59
+<transcript>: Okay, is this better.
+
+01:04:59
+<transcript>: kind of
+
+01:05:00
+<transcript>: Kind of.
+
+01:05:00
+nexxeln: WINDOW CAPTURE WINDOW CAPTURE WINDOW CAPTURE
+
+01:05:01
+rsromano: This feels like me using css
+
+01:05:01
+samhuckaby: Try pushing the button and then scrolling the scroll
+
+01:05:02
+mattmancodes: hahaha
+
+01:05:03
+naethan4u: can you guys react harder
+
+01:05:03
+<transcript>: Camera.
+
+01:05:07
+c9_fuzz: WINDOW CAPTURE THE YOUTUBE WINDOW
+
+01:05:08
+<transcript>: Yeah, I know.
+
+01:05:08
+smilingbig: LUL
+
+01:05:11
+mr_yan19: yeah, this is perfect
+
+01:05:12
+<transcript>: I hate not having a good setup.
+
+01:05:13
+charafmrah: I think you cropped it
+
+01:05:14
+teej_dv: WINDOW CAPTURE THE YOUTUBE WINDOW <--
+
+01:05:14
+mehulsharmamat: woah
+
+01:05:15
+kkm323: i see the same hate that apple used to get in 2010
+
+01:05:16
+mr_yan19: LUL
+
+01:05:21
+<transcript>: What? Oh, is this new? This is actually new.
+
+01:05:25
+nexxeln: yes new
+
+01:05:31
+trash_dev: youre too big
+
+01:05:32
+mattmancodes: token uk accent
+
+01:05:33
+samhuckaby: This lady is an AI
+
+01:05:37
+dmdboi: Did she just do the meme?
+
+01:05:37
+tini_turner: PHP
+
+01:05:38
+<transcript>: So, what is this? Decks? What are server actions.
+
+01:05:40
+nexxeln: make yourselves smaller @adamdotdev
+
+01:05:41
+rsromano: We're all AI
+
+01:05:41
+kkm323: php :|
+
+01:05:43
+trash_dev: there just mutations
+
+01:05:44
+oskrm: reverse lee colours
+
+01:05:44
+smilingbig: LUL
+
+01:05:49
+wilcointhechat: why is she holding her own hand like that?
+
+01:05:55
+archieedwds: is this their legit office?
+
+01:05:57
+<transcript>: Oh stable.
+
+01:05:58
+bananawithsunglasses: resident evil inventory level layout
+
+01:05:58
+nexxeln: woww stable
+
+01:05:58
+trash_dev: stable ah
+
+01:05:59
+kkm323: what!!!!
+
+01:05:59
+<transcript>: Oh no.
+
+01:06:00
+noctate12: stable NOWAY
+
+01:06:02
+dontreadmynameoutloud1: missed opputunity for a porque no los dos
+
+01:06:08
+teej_dv: I WAS RIGHT https://twitter.com/teej_dv/status/1653805630191284235
+
+01:06:10
+warrenbuffering: i want adam and dax to react in the same accent
+
+01:06:16
+trash_dev: turn off alerts @adamdotdev
+
+01:06:20
+elicxlive: it broke it?
+
+01:06:22
+<transcript>: Use Windows. Share What's windowshare.
+
+01:06:28
+<transcript>: Oh, that's such a good idea.
+
+01:06:30
+<transcript>: Should I interrupt.
+
+01:06:32
+kkm323: bro
+
+01:06:34
+hugueshs: Can you make yourselves a little smaller so we can read captions?
+
+01:06:35
+<transcript>: Oh Yeah.
+
+01:06:35
+trash_dev: its cut off
+
+01:06:37
+trash_dev: LMAO
+
+01:06:37
+<transcript>: I don't know what's going on.
+
+01:06:39
+trash_dev: this iss o bad
+
+01:06:40
+archieedwds: hahaha
+
+01:06:41
+charafmrah: That’s the most unique accent I’ve heard
+
+01:06:41
+smilingbig: KEKW
+
+01:06:42
+nexxeln: no don't do anything now
+
+01:06:43
+teej_dv: i'm in pain
+
+01:06:47
+<transcript>: This is new stuff. This is important.
+
+01:06:47
+teej_dv: PHYSICAL pain
+
+01:06:51
+wilcointhechat: I thought this was about a boat
+
+01:06:52
+rsromano: Best layout: no notes
+
+01:06:52
+beanzmate: giving me anxiety
+
+01:06:55
+smilingbig: best keynote
+
+01:06:55
+wilcointhechat: the Vercel ship
+
+01:06:57
+oskrm: its been new stuff NotLikeThis
+
+01:06:59
+<transcript>: What is the server action.
+
+01:07:00
+mr_yan19: beginThink this is fantastic
+
+01:07:03
+maleero: LUL Just embrace the chaos and add teej and trash to the call
+
+01:07:05
+kkm323: serverless ?
+
+01:07:06
+dmdboi: So what they're saying is we move more things to the server again?
+
+01:07:07
+noctate12: its action on server
+
+01:07:09
+zryqv: this is the worst watch party I ever witnessed
+
+01:07:09
+warrenbuffering: YESSS
+
+01:07:17
+warrenbuffering: "third potty"
+
+01:07:19
+mattmancodes: most professional looking stream on twitch
+
+01:07:28
+kkm323: i luv the metadata api, its simple <meta ...> tag
+
+01:07:30
+trash_dev: adams face is hilarious
+
+01:07:35
+wilcointhechat: I don't think static vs dynamic can be a misconception
+
+01:07:35
+susherman: +
+
+01:07:42
+teej_dv: @trash_dev looks like my face trying to understand how adam is setting this up
+
+01:07:45
+nexxeln: SCROLL UP
+
+01:07:46
+kkm323: bro scroll up
+
+01:07:48
+trash_dev: lmaoo
+
+01:07:51
+lotuspixiee: lmao
+
+01:07:51
+wilcointhechat: YOU SCROLL UP
+
+01:07:53
+kkm323: scroll up
+
+01:07:53
+<transcript>: What is the front? What is the front end cloud? Is that new.
+
+01:07:53
+oskrm: NotLikeThis
+
+01:07:54
+mattmancodes: she's lost her head
+
+01:07:58
+<transcript>: Why is it scrolling? What is going on with my computer.
+
+01:08:01
+kkm323: ^^^^^^^^^^^^^^
+
+01:08:01
+<transcript>: I'm not doing that. I swear.
+
+01:08:05
+<transcript>: It's possessed.
+
+01:08:06
+<transcript>: Yes.
+
+01:08:06
+<transcript>: it's being touch
+
+01:08:07
+itsboek: stop trying to make frontend cloud happen its not gonna happen
+
+01:08:08
+<transcript>: It's being touched somewhere.
+
+01:08:11
+goodgrandpaa: HUH
+
+01:08:15
+kkm323: haha
+
+01:08:15
+goodgrandpaa: ADAM LUL
+
+01:08:15
+trivenge: oh boy
+
+01:08:16
+rsromano: Feature drift
+
+01:08:17
+trivenge: lol
+
+01:08:23
+<transcript>: This is the worst.
+
+01:08:25
+nexxeln: LUL
+
+01:08:25
+smilingbig: KEKW
+
+01:08:26
+dmdboi: Scuffed
+
+01:08:26
+oskrm: Netlify are tryin to gain access
+
+01:08:29
+<transcript>: I still don't know what we've talked about.
+
+01:08:29
+<transcript>: what's new
+
+01:08:30
+<transcript>: What's new.
+
+01:08:35
+<transcript>: So the server action thing is new.
+
+01:08:38
+trash_dev: i cant believe we can see the youtube UI. fullscreen lmao
+
+01:08:39
+elicxlive: yes
+
+01:08:44
+<transcript>: And you can write functions on the server. Why you couldn't do that before.
+
+01:08:47
+dmdboi: People still buy underarmor?
+
+01:08:49
+wilcointhechat: under armour got an increase in sales by changing their server?
+
+01:08:51
+zxshan: ADAM DID YOU GET A HAIRCUT
+
+01:08:53
+kkm323: maybe php and ruby serverless is now available ???
+
+01:08:55
+archieedwds: what has underarmour got to do with server actions
+
+01:08:56
+<transcript>: Okay.
+
+01:09:00
+wilcointhechat: I'm still waiting for over armour.
+
+01:09:00
+<transcript>: What is the front end cloud.
+
+01:09:01
+trash_dev: aye its dax's meme
+
+01:09:04
+pirazgg: here is the meme
+
+01:09:05
+warrenbuffering: @trash_dev SSd, I got this
+
+01:09:09
+trash_dev: i wrote this meme
+
+01:09:10
+rsromano: It's nothing and everything
+
+01:09:11
+samhuckaby: why does that engineer have to work in the kitchen all the time?
+
+01:09:11
+mr_yan19: this lady wears the same outfit every day
+
+01:09:14
+<transcript>: Wait, this is a recap. Right.
+
+01:09:15
+dmmulroy: ctrl-c, ctrl-v remix
+
+01:09:20
+<transcript>: I'm so confused. I feel like they're bouncing between new and old stuff, and it's so confusing.
+
+01:09:22
+pirazgg: no you don't @trash_dev
+
+01:09:27
+dontreadmynameoutloud1: random person sitting in background
+
+01:09:28
+wilcointhechat: is she at a bar?
+
+01:09:30
+c9_fuzz: frontend cloud, its like the cloudflare thingy?
+
+01:09:33
+hugueshs: they all speak so naturally it’s great
+
+01:09:33
+oskrm: come to watch party Adam said, it will be fun, Adam said
+
+01:09:38
+wilcointhechat: this is a nice looking tavern tbh
+
+01:09:39
+<transcript>: It's so funny. I always thought they were an infrastructure provider. And this is all made. It so clear that they're not. They're just a marketing wing, right? Like, what have they done? Have they built anything.
+
+01:09:45
+<transcript>: I mean, it's working. Yeah.
+
+01:09:45
+kkm323: stop hating
+
+01:09:52
+warrenbuffering: clip it
+
+01:09:53
+chipwheel: they use the same presenter trainers as apple
+
+01:09:53
+<transcript>: It's just. I never put it together before that. They're not really an infrastructure creator.
+
+01:09:54
+kkm323: we are watching for reason
+
+01:09:55
+mattmancodes: they helped Beyonce defeat cancer
+
+01:09:59
+<transcript>: Yeah.
+
+01:10:00
+dmmulroy: vendor-vendor lock-in as a service
+
+01:10:09
+smilingbig: KEKW
+
+01:10:09
+rsromano: Infrastructure orchestrator
+
+01:10:10
+teej_dv: STOP SCROLLING
+
+01:10:11
+trash_dev: scroll up again
+
+01:10:13
+<transcript>: I don't know what's going on.
+
+01:10:15
+<transcript>: On my machine.
+
+01:10:18
+<transcript>: Like, watch this.
+
+01:10:18
+trash_dev: full screen it
+
+01:10:19
+beanzmate: PLEASE FULLSCREEN YOUTUBE
+
+01:10:24
+mattmancodes: hahaha
+
+01:10:24
+tini_turner: DX provider Kappa
+
+01:10:25
+<transcript>: It's like it has it's locked. My mouse.
+
+01:10:26
+pirazgg: bruhh
+
+01:10:26
+dmdboi: Vercel is the balenciaga of the dev world
+
+01:10:27
+<transcript>: I don't know.
+
+01:10:28
+oskrm: right click and pick picture in picture mode
+
+01:10:34
+<transcript>: Yeah.
+
+01:10:40
+teej_dv: just press pause
+
+01:10:41
+wilcointhechat: can you just make me full screen actually guise?
+
+01:10:43
+teej_dv: @adamdotdev you can pause
+
+01:10:46
+teej_dv: you can literally pause
+
+01:10:52
+<transcript>: Just press pause. You can pause. Oh, I can pause. Tge. I should have read chat. I haven't read chat at all this entire.
+
+01:10:57
+<transcript>: I can pause it, and I can fix it.
+
+01:10:57
+teej_dv: I KNOW IM SCREDAMING
+
+01:10:59
+smilingbig: KEKW
+
+01:11:00
+<transcript>: Yeah.
+
+01:11:00
+<transcript>: okay
+
+01:11:02
+teej_dv: IM SCREEEEAMING
+
+01:11:04
+rsromano: Wait?! You can pause youtube
+
+01:11:06
+<transcript>: Okay. Display capture. We're going to now make this. What is it? We're going to share a window.
+
+01:11:08
+teej_dv: @SamHuckaby can hear me from his house im pretty sure
+
+01:11:10
+trash_dev: you can pause live @rsromano
+
+01:11:11
+<transcript>: Not that. Am I going to just create a new thing? Let's delete this.
+
+01:11:11
+<transcript>: let's delet
+
+01:11:14
+samhuckaby: I can
+
+01:11:16
+smilingbig: I wish we could see teej KEKW
+
+01:11:16
+samhuckaby: It's horrid
+
+01:11:24
+<transcript>: Let's delete this. Remove this somehow. Somebody just followed me. I'm not sure why. Because this is the worst pesca. Thank you so much for the follow. I don't know what it was about this awful experience.
+
+01:11:24
+<transcript>: maco
+
+01:11:27
+<transcript>: Maco is screen capture. Okay.
+
+01:11:28
+rsromano: Haha I know @trash_dev this conversation is just so funny
+
+01:11:31
+tommyjmarshall: This is going poorly
+
+01:11:33
+wilcointhechat: I unfollowed just for this
+
+01:11:34
+<transcript>: And we're going to do not display, but window capture, and we're going to do.
+
+01:11:37
+<transcript>: Oh, it's not on here.
+
+01:11:41
+<transcript>: Oh no.
+
+01:11:41
+<transcript>: window
+
+01:11:42
+smilingbig: KEKW
+
+01:11:43
+<transcript>: Window Cap application.
+
+01:11:43
+<transcript>: yeah
+
+01:11:46
+<transcript>: Yeah application capture? Maybe.
+
+01:11:46
+<transcript>: no i can't
+
+01:11:52
+trash_dev: im in pain
+
+01:11:53
+teej_dv: beginDown <-- adams follower count
+
+01:11:54
+<transcript>: No, I can't choose. I'm just going to do the window or the display display pro display share. Sure. Okay. I don't know if this is going to be better.
+
+01:11:58
+trash_dev: is this what its like to watch me stream
+
+01:12:01
+<transcript>: That looks better. It's at least sharing my whole screen this time. Wait, where'd we go? Oh, we're behind.
+
+01:12:01
+<transcript>: the there we go
+
+01:12:02
+mr_yan19: I just unsubscribed
+
+01:12:07
+mr_yan19: beginDown
+
+01:12:07
+<transcript>: The there we go. Okay. Last minute. Tweaks anything else that needs to be just make this little.
+
+01:12:07
+<transcript>: smaller
+
+01:12:08
+teej_dv: NOOO
+
+01:12:09
+tommyjmarshall: @trash_dev it's slightly better
+
+01:12:11
+wilcointhechat: I just deleted my twitch account
+
+01:12:11
+teej_dv: not your whole scree
+
+01:12:12
+c9_fuzz: yes welcome to adam stream
+
+01:12:12
+<transcript>: Smaller. Okay. Feel good. This is good. I don't care what ever.
+
+01:12:12
+oskrm: click picture and picture it would be always-on-top and you can move it
+
+01:12:12
+kkm323: make you face smaller
+
+01:12:14
+teej_dv: share the window!!!
+
+01:12:16
+<transcript>: Now, let's do this.
+
+01:12:16
+mattmancodes: haha
+
+01:12:19
+<transcript>: Oh no.
+
+01:12:19
+<transcript>: what i
+
+01:12:21
+<transcript>: What I do? Teach.
+
+01:12:21
+<transcript>: i
+
+01:12:24
+samhuckaby: THE ECHO
+
+01:12:24
+rsromano: Echo
+
+01:12:24
+trash_dev: theres two dax's talking
+
+01:12:25
+beanzmate: audio delay
+
+01:12:25
+nexxeln: ECHOO
+
+01:12:26
+kkm323: audio
+
+01:12:27
+nexxeln: OMFG
+
+01:12:27
+<transcript>: I can't share just the window now this is better. This is better. It's full screen.
+
+01:12:29
+maleero: LUL
+
+01:12:30
+trash_dev: OH NO
+
+01:12:30
+smilingbig: some echo happening KEKW
+
+01:12:30
+<transcript>: Default view.
+
+01:12:32
+wilcointhechat: echo
+
+01:12:32
+mattmancodes: full screen it
+
+01:12:33
+kkm323: is not full screen
+
+01:12:34
+nexxeln: LUL
+
+01:12:35
+<transcript>: Move you off.
+
+01:12:36
+grasp5533: ECHO
+
+01:12:36
+teej_dv: CALL ME ON DISCORD
+
+01:12:36
+nexxeln: ECHO
+
+01:12:36
+mattmancodes: echoooooooo
+
+01:12:37
+grasp5533: ECHOOOOPO
+
+01:12:37
+tommyjmarshall: there we go
+
+01:12:37
+ben_winnen: omg echo
+
+01:12:37
+warrenbuffering: don't listen to teej, i like it this way
+
+01:12:38
+nexxeln: ECHO ECHO ECHO ECHO
+
+01:12:39
+tommyjmarshall: look
+
+01:12:39
+mattmancodes: hahahahahahaha
+
+01:12:39
+das_whatshesaid: Oh boi
+
+01:12:39
+andre_cruz_: LUL
+
+01:12:40
+squall75: my ears
+
+01:12:40
+lotuspixiee: what is thiiiiis
+
+01:12:41
+teej_dv: CALL ME ON DISCORD!
+
+01:12:41
+<transcript>: Are you guys just trolling me? Am I being trolled.
+
+01:12:42
+samhuckaby: it just gets better and better
+
+01:12:42
+teej_dv: CALL ME ON DISCORD!!
+
+01:12:44
+dmdboi: Muted
+
+01:12:44
+tommyjmarshall: you found the full screen button
+
+01:12:44
+mr_yan19: oh my
+
+01:12:44
+rngbaguette: echo
+
+01:12:45
+zol0: WAYTOODANK
+
+01:12:45
+teej_dv: CALL ME ON DISCORD!!!
+
+01:12:45
+smilingbig: no KEKW
+
+01:12:45
+brokenprocedure: echo
+
+01:12:45
+tini_turner: ECHO
+
+01:12:46
+das_whatshesaid: ECHO
+
+01:12:46
+<transcript>: Move you where you want to be off here. You want to be in the corner.
+
+01:12:47
+trash_dev: dax is echoing
+
+01:12:48
+nexxeln: ECHO ECHO ECHO
+
+01:12:48
+ben_winnen: dax is also echo
+
+01:12:48
+archieedwds: dax is echooo
+
+01:12:52
+<transcript>: Do you want to join us? Deege, is this where you want to be? Next? You want to be off the screen.
+
+01:12:52
+<transcript>: like this
+
+01:12:53
+mr_yan19: can we at least all get macbooks for this
+
+01:12:53
+rohan_poojary: echo
+
+01:12:53
+<transcript>: Like this.
+
+01:12:54
+mattmancodes: echo echo echo
+
+01:12:54
+chipwheel: this boomer shit is killing me
+
+01:12:55
+wilcointhechat: can you stream the discord call
+
+01:13:04
+<transcript>: How about that? Is that good? Look, we're barely on the screen. We're just little heads popping up.
+
+01:13:04
+<transcript>: i'm done
+
+01:13:06
+trivenge: what is happening right now lol
+
+01:13:07
+trivenge: LUL
+
+01:13:08
+ben_winnen: I want dax to not echo, please
+
+01:13:09
+<transcript>: I'm done, I'm done touching obs. Now we're moving on. Okay.
+
+01:13:09
+<transcript>: starting
+
+01:13:12
+<transcript>: Starting it up here we go, where'd it go.
+
+01:13:13
+dontreadmynameoutloud1: the stream is done
+
+01:13:13
+teej_dv: you have so much echo
+
+01:13:16
+trash_dev: you have to mute ping or something
+
+01:13:16
+grasp5533: THE ECHO
+
+01:13:17
+<transcript>: Where is it? Oh, it's full screen now. Okay.
+
+01:13:17
+<transcript>: this is
+
+01:13:17
+naxodev: is the reaction over or we are doing it now?
+
+01:13:17
+hugueshs: Did Vercel pay you to do this so we have to watch the announcement twice
+
+01:13:18
+grasp5533: OMG
+
+01:13:18
+<transcript>: This is awful.
+
+01:13:18
+<transcript>: okay
+
+01:13:19
+oskrm: teachin grandpa how to use zoom NotLikeThis
+
+01:13:19
+smilingbig: audio issue
+
+01:13:20
+<transcript>: Okay.
+
+01:13:22
+tini_turner: ECHO
+
+01:13:22
+zryqv: disable screen audio
+
+01:13:25
+<transcript>: Not doing anything else. Now audio issue.
+
+01:13:25
+wilcointhechat: minimize all your pr0n first
+
+01:13:25
+trash_dev: theres an echo
+
+01:13:27
+teej_dv: you have echo
+
+01:13:27
+jonaldbobson: echo lol
+
+01:13:27
+smilingbig: KEKW
+
+01:13:28
+tommyjmarshall: please fast forward
+
+01:13:28
+<transcript>: Are you serious.
+
+01:13:28
+chipwheel: NO DOUBLE SOUND
+
+01:13:28
+teej_dv: YOU HAVE ECHO
+
+01:13:29
+ben_winnen: Ecerything is echo except adam omg
+
+01:13:30
+mattmancodes: echo
+
+01:13:31
+smilingbig: there is echo
+
+01:13:32
+derpppsauce: omg
+
+01:13:33
+pirazgg: echo
+
+01:13:33
+mr_yan19: echo
+
+01:13:33
+tommyjmarshall: there's serious reverb
+
+01:13:33
+rohan_poojary: echo
+
+01:13:35
+<transcript>: It's sound double sound.
+
+01:13:36
+mattmancodes: all the echos
+
+01:13:37
+ben_winnen: yes serious
+
+01:13:38
+smilingbig: would we lie to you KEKW
+
+01:13:38
+kkm323: hearing lot of echo
+
+01:13:38
+wilcointhechat: so much echo jeeesus chrisp
+
+01:13:39
+goodgrandpaa: LUL THIS IS ICONIC
+
+01:13:40
+mattmancodes: hahahaha
+
+01:13:41
+cazcik: pls make it stop BibleThump
+
+01:13:42
+<transcript>: How about that? Is that good.
+
+01:13:42
+dmdboi: Double sound, one for each ear
+
+01:13:43
+goodgrandpaa: Viewer count doubled Kappa
+
+01:13:44
+kkm323: its good
+
+01:13:45
+tommyjmarshall: better
+
+01:13:45
+brokenprocedure: fixed
+
+01:13:46
+<transcript>: This is iconic. That's a word.
+
+01:13:47
+warrenbuffering: that's just latency rendering the server components
+
+01:13:48
+trash_dev: theres two dax's
+
+01:13:50
+ben_winnen: this is amazing
+
+01:13:52
+smilingbig: best stream KEKW
+
+01:13:52
+<transcript>: Fixed. We did it, we did it, guys, we did it.
+
+01:13:52
+mattmancodes: the sound is better
+
+01:13:55
+charafmrah: Star wars day sound effect?
+
+01:13:57
+teej_dv: dax still echo pretty sure
+
+01:13:57
+wilcointhechat: have you thought about using Vercel to make this stream better with frontend cloud?
+
+01:13:58
+trash_dev: dax say something
+
+01:13:58
+mr_yan19: I wouldn't call it 'good' but it's better
+
+01:14:00
+<transcript>: Wait. They may not hear you at all anymore.
+
+01:14:02
+goodgrandpaa: Yessss
+
+01:14:03
+beanzmate: yes
+
+01:14:03
+grasp5533: YES
+
+01:14:03
+tommyjmarshall: yes, dax is twice
+
+01:14:04
+oskrm: yeah
+
+01:14:04
+goodgrandpaa: He's twice
+
+01:14:05
+grasp5533: DOUBLE DAX
+
+01:14:06
+mattmancodes: dax twice
+
+01:14:06
+noscik: yes still
+
+01:14:09
+oskrm: dax²
+
+01:14:10
+<transcript>: Jax is twice. Double decks.
+
+01:14:11
+ben_winnen: dax dax
+
+01:14:13
+trash_dev: gonna have an ulcer
+
+01:14:13
+smilingbig: Dax is still twice KEKW
+
+01:14:15
+goodgrandpaa: double dax LUL
+
+01:14:15
+kkm323: 2dax
+
+01:14:15
+chipwheel: just kick dax
+
+01:14:17
+hhthacker: more dax
+
+01:14:18
+<transcript>: Yeah, hang on, let me mute that browser.
+
+01:14:21
+wilcointhechat: put dax on frontend cloud to resolve
+
+01:14:25
+<transcript>: Oh, I won't really hear you this is such a train wreck.
+
+01:14:27
+smilingbig: KEKW
+
+01:14:29
+<transcript>: Can you talk? Oh, I hear you.
+
+01:14:29
+<transcript>: oh i
+
+01:14:31
+goodgrandpaa: Bro this is perfect. lmao
+
+01:14:32
+<transcript>: Oh, I muted myself.
+
+01:14:33
+hhthacker: triple dax
+
+01:14:34
+tommyjmarshall: ping.gg is the worst
+
+01:14:35
+<transcript>: I don't know what to do.
+
+01:14:35
+wilcointhechat: what is ping.gg
+
+01:14:36
+teej_dv: beginDown <- my respect for Adam beginDown <- my respect for Adam beginDown <- my respect for Adam beginDown <- my respect for Adam beginDown <- my respect for Adam beginDown <- my respect for Adam beginDown <- my respect for Adam beginDown <- my respect for Adam beginDown <- my respect for Adam
+
+01:14:36
+trash_dev: that mutes you not him
+
+01:14:38
+<transcript>: Just don't talk next.
+
+01:14:40
+oskrm: KEKW KEKW KEKW
+
+01:14:40
+tini_turner: LUL
+
+01:14:42
+trash_dev: RIGHT CLICK and mute tab
+
+01:14:45
+charafmrah: Dax sounds like Darth Vader
+
+01:14:50
+<transcript>: This is all still recap. Right.
+
+01:14:55
+<transcript>: Some people told me about this stuff. This is all recap.
+
+01:14:58
+mattmancodes: who knows anymore
+
+01:15:01
+<transcript>: Okay. Yeah.
+
+01:15:03
+tommyjmarshall: how have you not watched this
+
+01:15:04
+<transcript>: So what are all these? So one of them storage.
+
+01:15:04
+<transcript>: one i'm security
+
+01:15:05
+smilingbig: KEKW
+
+01:15:10
+teej_dv: seriously pause and call me @adamdotdev
+
+01:15:12
+trash_dev: just nod dax
+
+01:15:12
+tommyjmarshall: and blob
+
+01:15:12
+<transcript>: One I'm security because we didn't have security before yesterday. Now versaille has some security. And then one of them was collaborate.
+
+01:15:13
+trivenge: i have no idea whats happening right now
+
+01:15:14
+<transcript>: Is this the new one.
+
+01:15:14
+trivenge: lol
+
+01:15:15
+wilcointhechat: are these icons real?
+
+01:15:16
+warrenbuffering: Darth Dax
+
+01:15:17
+<transcript>: The big announcement.
+
+01:15:19
+teej_dv: chat tell him to call me
+
+01:15:21
+<transcript>: Wait. Did it stop.
+
+01:15:21
+wilcointhechat: or an ad for a new avengers movie
+
+01:15:23
+trivenge: what was the vercel talk about? LUL
+
+01:15:23
+mattmancodes: !triangle
+
+01:15:23
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:15:24
+kkm323: what happen
+
+01:15:28
+<transcript>: This is not for dramatic effect. This is too long. It stopped.
+
+01:15:28
+<transcript>: it's
+
+01:15:28
+rsromano: Call @teej_dv
+
+01:15:29
+<transcript>: It's over.
+
+01:15:29
+<transcript>: it end
+
+01:15:31
+tvitchnam: call teej
+
+01:15:31
+charafmrah: Dax’s voice is killing mr lollll
+
+01:15:31
+<transcript>: It ended.
+
+01:15:32
+hhthacker: ▲
+
+01:15:34
+goodgrandpaa: LMAO
+
+01:15:35
+lotuspixiee: lmao
+
+01:15:36
+goodgrandpaa: WE MISSED IT ALL
+
+01:15:37
+mattmancodes: hahahahahaha
+
+01:15:38
+<transcript>: We were watching prime. Now do rust for typescript developers what is happening.
+
+01:15:38
+kung69op: BRING IN TEEJ FOR TECH SUPPORT
+
+01:15:38
+estrangedhd: LUL
+
+01:15:39
+oskrm: LUL
+
+01:15:40
+<transcript>: What.
+
+01:15:40
+<transcript>: what
+
+01:15:40
+trash_dev: COMMERCIAL
+
+01:15:40
+warrenbuffering: Ooooooo RUST
+
+01:15:41
+hhthacker: RUSTTTT
+
+01:15:41
+<transcript>: What just happened.
+
+01:15:41
+<transcript>: is it actually
+
+01:15:42
+trash_dev: OMGHAHAHAHA
+
+01:15:43
+<transcript>: Is it actually over.
+
+01:15:44
+mattmancodes: the wrong video
+
+01:15:44
+andre_cruz_: LUL
+
+01:15:44
+ben_winnen: oh thats quiet
+
+01:15:45
+pirazgg: ha ha ha
+
+01:15:46
+trivenge: YOUTUBE VIDEO REVIEW TIME
+
+01:15:46
+wilcointhechat: let's all learn rust now
+
+01:15:47
+<transcript>: Is it over.
+
+01:15:47
+beanzmate: you literally spent the entire keynote messing with obs
+
+01:15:49
+<transcript>: It's.
+
+01:15:49
+<transcript>: that what
+
+01:15:50
+tommyjmarshall: Primegan hacked you
+
+01:15:51
+<transcript>: That what was new.
+
+01:15:52
+samhuckaby: Vercel gave up
+
+01:15:54
+<transcript>: Just the the function thing.
+
+01:15:56
+wilcointhechat: ur creds are bad bro sry
+
+01:15:57
+<transcript>: I can't even log in.
+
+01:15:59
+kkm323: vercel.com/ship
+
+01:16:01
+wilcointhechat: vercel cloud is down
+
+01:16:01
+<transcript>: I'm sorry. What.
+
+01:16:02
+oskrm: prime saw the stream and tried to fix it
+
+01:16:03
+hyeheal: filler episode
+
+01:16:03
+trivenge: dax is echoing
+
+01:16:05
+<transcript>: I thought today was the big one.
+
+01:16:06
+trivenge: NotLikeThis
+
+01:16:07
+archieedwds: frontend cloud is down
+
+01:16:08
+tommyjmarshall: Collaborate?
+
+01:16:09
+aexylus: https://nextjs.org/blog/next-13-4
+
+01:16:10
+<transcript>: No.
+
+01:16:10
+<transcript>: they've been
+
+01:16:11
+teej_dv: oh boy i cant fix this
+
+01:16:13
+<transcript>: They've been saying it.
+
+01:16:14
+kkm323: lets watch it again
+
+01:16:16
+trivenge: are you monitoring audio in obs?
+
+01:16:16
+unrulyhotfixer: yeah Github has been down for me
+
+01:16:17
+trash_dev: oh its over
+
+01:16:19
+tini_turner: Great stream, thx
+
+01:16:20
+<transcript>: Is it over.
+
+01:16:23
+levidayne: Nextjs 13.4 app router is stable now
+
+01:16:24
+warrenbuffering: says offline
+
+01:16:24
+kkm323: we missed lot
+
+01:16:28
+tommyjmarshall: https://nextjs.org/blog/next-13-4
+
+01:16:29
+<transcript>: I am so confused. I thought today was a big one. That was it. We didn't need to do this whole stream.
+
+01:16:31
+dima_dev: @adamdotdev call @teej_dv !!!!
+
+01:16:31
+<transcript>: This was all.
+
+01:16:32
+elicxlive: The big part for most people will be app directory stable and server actions
+
+01:16:34
+smilingbig: KEKW
+
+01:16:35
+wilcointhechat: ok bye
+
+01:16:36
+<transcript>: We.
+
+01:16:39
+<transcript>: weird the
+
+01:16:39
+<transcript>: weird the big part for
+
+01:16:40
+rohan_poojary: scroll down
+
+01:16:42
+<transcript>: Weird the big part for most people will be after.
+
+01:16:42
+trash_dev: watching you stream was way better
+
+01:16:42
+mattmancodes: this was the best stream though
+
+01:16:43
+rohan_poojary: it’s day 4 today
+
+01:16:45
+goodgrandpaa: "WE" literally saw the whole thing? LUL
+
+01:16:45
+warrenbuffering: I still had fun tho
+
+01:16:45
+<transcript>: Stable and server actions. Are you serious.
+
+01:16:52
+warrenbuffering: we should do this again
+
+01:16:54
+<transcript>: Dynamic.
+
+01:16:57
+goodgrandpaa: @warrenbuffering LUL
+
+01:17:02
+rsromano: With triple dax next time
+
+01:17:02
+teej_dv: i'm sorry chat, i did what i could
+
+01:17:03
+<transcript>: Okay. Well, why did they recap all the other days? It just made that like a little blip in the sea of all those stuff we've already heard.
+
+01:17:03
+<transcript>: that was so confusing
+
+01:17:05
+grasp5533: the dax echo is insane
+
+01:17:05
+<transcript>: That was so confusing to me.
+
+01:17:06
+teej_dv: feel free to send your prime subs to me
+
+01:17:09
+<transcript>: What? Oh, no.
+
+01:17:11
+mattmancodes: hahaha
+
+01:17:14
+smilingbig: KEKW
+
+01:17:15
+nexxeln: LUL
+
+01:17:15
+tommyjmarshall: https://nextjs.org/blog/next-13-4#server-actions-alpha this is cool?
+
+01:17:18
+samhuckaby: He's still screaming, no worries
+
+01:17:19
+beanzmate: @teej_dv lmao
+
+01:17:20
+<transcript>: Feel free to send your prime subs to me. I'm sorry, Chad. I did what I could. I'm so sorry. The dax Echo. Okay, we just need to end the stream. This was a train wreck. Just like the announcements.
+
+01:17:22
+nexxeln: ECHO ECHO ECHO
+
+01:17:22
+trash_dev: im dead
+
+01:17:24
+chipwheel: that was confusing
+
+01:17:25
+rsromano: Adam did a lot. That's a fact
+
+01:17:26
+pirazgg: lovely sream
+
+01:17:26
+<transcript>: Well, I don't know how to fix. I'm curious why your audio is double. I am very curious of that.
+
+01:17:33
+teej_dv: it's obvious, just look at your obs
+
+01:17:33
+<transcript>: So. Screen capture. Okay. How about this.
+
+01:17:33
+<transcript>: how about
+
+01:17:35
+<transcript>: How about this.
+
+01:17:36
+trash_dev: you can mute ping now
+
+01:17:37
+ben_winnen: the most beautiful trainwreck
+
+01:17:40
+<transcript>: I'm just going to delete this now we're not sharing my screen anymore.
+
+01:17:44
+neochromer: rewatch the video?
+
+01:17:46
+<transcript>: Yeah. Get rid of that. And then we can just talk. I just want to talk for a minute because I feel like.
+
+01:17:46
+<transcript>: i'm
+
+01:17:50
+<transcript>: I'm taking crazy pills. Why do I feel like.
+
+01:17:50
+<transcript>: i miss
+
+01:17:50
+tommyjmarshall: i doubt you're competant enough to end the stream at this point.
+
+01:17:52
+<transcript>: I miss something.
+
+01:17:52
+smilingbig: KEKW
+
+01:17:53
+teej_dv: LUL
+
+01:17:57
+tvitchnam: call teej
+
+01:18:11
+<transcript>: I need you to make this make sense to me. First of all, what are server actions? Because I know other frameworks have this, and I don't understand what they are. How is it different than functions in your lib directory that you call from api Gateway or from api routes or something? If we're sticking with nextjs How's it different than that.
+
+01:18:14
+naxodev: anticlimatic
+
+01:18:17
+<transcript>: So you just put it in your component.
+
+01:18:22
+pirazgg: we just need some circus music in the background during the screen resizing
+
+01:18:23
+tommyjmarshall: you put it in the page and componenet
+
+01:18:26
+oskrm: no need for js i think
+
+01:18:28
+elicxlive: Server actions are essentially calling a function that run on the server, from the client.
+
+01:18:30
+tommyjmarshall: just throw `use server`
+
+01:18:34
+tommyjmarshall: in the function
+
+01:18:34
+<transcript>: So does it work? It actually works without JavaScript.
+
+01:18:35
+lotuspixiee: it's just a function that runs on the server
+
+01:18:49
+<transcript>: I feel like that was a terror. That was just a lot of buildup.
+
+01:18:49
+<transcript>: for
+
+01:18:50
+samhuckaby: Is it like Astro's brainmatter stuff?
+
+01:18:51
+oskrm: rewatch?
+
+01:18:53
+<transcript>: For I don't understand why they recapped the other stuff.
+
+01:18:53
+<transcript>: did they
+
+01:18:57
+<transcript>: Did they do that yesterday? Did they recap versaille Storage yesterday.
+
+01:18:59
+kkm323: RPC
+
+01:19:00
+chipwheel: what is left to announce for tomorrow?
+
+01:19:00
+gitpush_gitpaid: just came back. whats going on.. dax is in here and on his own stream?
+
+01:19:10
+<transcript>: Yeah.
+
+01:19:12
+elicxlive: The reason it was underwhelming is because we all already know most of it was happening 😂
+
+01:19:15
+trash_dev: idk why they made this day a big video
+
+01:19:22
+hugueshs: but why did they announce it like Guillermo was doing a keynote or something
+
+01:19:26
+c9_fuzz: they want us to bleed
+
+01:19:27
+<transcript>: Like if they just done this today, we could have been all those announcements all at once. Everybody could get excited about each of them. But we've already heard most of it. But then they did it in the middle. They sprinkled the new thing in the middle of all these recaps. It was so weird. I don't understand. They're so polished.
+
+01:19:32
+samhuckaby: Smoke and mirrors
+
+01:19:36
+<transcript>: What's that? Yeah. What's? So what's your guess what's that going to be.
+
+01:19:43
+samhuckaby: OCAML ON VERCEL!!!
+
+01:19:50
+dmmulroy: ^ lets gooo
+
+01:19:55
+<transcript>: I'm very confused. Versailles. So polished when it comes to marketing. This just feels like.
+
+01:19:55
+<transcript>: it feels like
+
+01:19:56
+<transcript>: It feels like.
+
+01:19:56
+<transcript>: this stream
+
+01:19:59
+teej_dv: OCAML ON VERCEL finally something good in this chat
+
+01:20:02
+<transcript>: This stream. This stream, like you're used to. Coming and seeing my very polished stream. Well, this is what you get.
+
+01:20:02
+<transcript>: today
+
+01:20:03
+elicxlive: lmao
+
+01:20:05
+nexxeln: https://twitter.com/nexxeln/status/1654157743547088905
+
+01:20:09
+<transcript>: Today you get not polished from versailles, and from me. Okay, that's what you got.
+
+01:20:13
+<transcript>: Whatever.
+
+01:20:13
+<transcript>: i
+
+01:20:15
+trivenge: im confused
+
+01:20:18
+smilingbig: KEKW
+
+01:20:19
+nexxeln: LUL
+
+01:20:20
+kkm323: stop blaming vercel haha
+
+01:20:21
+<transcript>: I wish I would have been reading chat because I didn't see any of like Ted freaking out. Oh, Cameloon versaille. Finally, something good in this chat. What.
+
+01:20:22
+c9_fuzz: KEKW
+
+01:20:26
+<transcript>: I don't know why I can't seem to look at chat at all.
+
+01:20:26
+<transcript>: i just
+
+01:20:26
+oblomo: yeah and i am polish
+
+01:20:29
+<transcript>: I just can't whenever I have somebody on with me.
+
+01:20:30
+teej_dv: beginDown my respect for Adam beginDown
+
+01:20:31
+warrenbuffering: it feels like they hiked rates 5+% in the past 6 months
+
+01:20:36
+<transcript>: It's. Nexilversel is next. Here. Still. Oh, boy, I can't fix this.
+
+01:20:36
+<transcript>: now
+
+01:20:41
+<transcript>: Now I'm just reading TJ'S messages. I'm so sorry. Teach.
+
+01:20:44
+<transcript>: Call. Teach. I'm so sorry.
+
+01:20:47
+<transcript>: This is so underwhelming.
+
+01:20:50
+reggie_dev: so tomorrow is the big announcement I guess?
+
+01:20:52
+nexxeln: VERCE-L
+
+01:20:52
+<transcript>: My respect for Adam.
+
+01:20:56
+kkm323: i will watch the whole video on my own
+
+01:20:57
+smilingbig: <3
+
+01:20:59
+teej_dv: verce-big-L
+
+01:21:01
+<transcript>: I don't think so. I don't think so. I think today was the big announcement.
+
+01:21:02
+charafmrah: Vercel will try to upsell WordPress next
+
+01:21:03
+archieedwds: still can't believe they cured cancer tho
+
+01:21:04
+<transcript>: And.
+
+01:21:04
+<transcript>: it was so
+
+01:21:09
+gitpush_gitpaid: sounds like i didnt miss much
+
+01:21:11
+dmmulroy: they hyped today as the big one for sure
+
+01:21:12
+<transcript>: It was so big that it took up three minutes of their 20 minutes keynote. I don't know. Now I'm coming off again as a versaille, hater.
+
+01:21:12
+<transcript>: i don't
+
+01:21:15
+teej_dv: whoa, no no no. beyonce is the one that cured cancer
+
+01:21:16
+<transcript>: I don't hate her cell. This was just pretty underwhelming for me.
+
+01:21:16
+<transcript>: i don't
+
+01:21:17
+<transcript>: I don't.
+
+01:21:21
+<transcript>: I don't hate marcel. I think they're fine.
+
+01:21:21
+<transcript>: herself
+
+01:21:23
+<transcript>: Herself. Fine.
+
+01:21:24
+kkm323: stop hating guys
+
+01:21:24
+fredkisss: pretty underwhelming for sure
+
+01:21:27
+<transcript>: I don't hate bracelet.
+
+01:21:27
+archieedwds: how could i forget
+
+01:21:30
+charafmrah: vercL
+
+01:21:32
+<transcript>: Yeah, beyond. We learned that beyonce cured cancer or something to that effect.
+
+01:21:34
+itsmeleague: No
+
+01:21:35
+c9_fuzz: adam hate vercel
+
+01:21:35
+gitpush_gitpaid: adam doesnt hate anyone
+
+01:21:35
+<transcript>: Pretty underwhelming for sure how can I forget.
+
+01:21:35
+<transcript>: verse
+
+01:21:35
+lotuspixiee: no
+
+01:21:36
+fredkisss: vercL
+
+01:21:38
+<transcript>: Verse L.
+
+01:21:38
+<transcript>: i don't hate
+
+01:21:38
+charafmrah: No
+
+01:21:40
+vagorge: adam loves astro
+
+01:21:40
+pirazgg: no
+
+01:21:41
+c9_fuzz: vercL
+
+01:21:42
+<transcript>: I don't hate roselle, I don't hate anyone. It's true.
+
+01:21:43
+neochromer: @teej_dv Reminds me of Silicon Valley episode where everyone is "making the world a better place"
+
+01:21:45
+<transcript>: Adam loves Astro.
+
+01:21:51
+charafmrah: Vercel cured cancer
+
+01:21:51
+<transcript>: It's hard not to come off as a hater.
+
+01:21:52
+trash_dev: im fying up there soon. any message you want me to relay. "you hate vercel?" perhaps?
+
+01:22:01
+<transcript>: When you're in my position, I just feel like I have a lot of reasons to say the things I say that are not hate driven. Is that okay.
+
+01:22:01
+itsmeleague: He hates vercel because they don't wear 250 dollar shirts
+
+01:22:05
+smilingbig: KEKW
+
+01:22:07
+samhuckaby: @trash_dev make it sound angrier
+
+01:22:07
+teej_dv: @trash_dev please ask them when ocaml
+
+01:22:08
+<transcript>: Can I say these things that are critical, versailles, without hating them? Or is everyone's just going to think I hate them? Because I don't I don't hate them.
+
+01:22:17
+trash_dev: prime can ask that @teej_dv
+
+01:22:18
+fredkisss: one cool thing though, they revamped the nextjs docs
+
+01:22:20
+<transcript>: Okay. This has been fun. Normally, at the end of every stream, I say this has been fun. Maybe we could do it again sometime. I don't know. Was this fun? I don't know if it was fun. Maybe it wasn't.
+
+01:22:20
+<transcript>: maybe
+
+01:22:23
+pirazgg: could please say something so we can post without context?
+
+01:22:24
+vagorge: the biggest hater is the biggest fan
+
+01:22:25
+<transcript>: Maybe this hasn't been fun, but we could still do it again sometime.
+
+01:22:25
+<transcript>: what is today
+
+01:22:25
+teej_dv: !triangle
+
+01:22:25
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:22:26
+<transcript>: What is Today? Thursday.
+
+01:22:26
+<transcript>: i'll do this again tomorrow
+
+01:22:27
+samhuckaby: I had a lot of fun
+
+01:22:31
+<transcript>: I'll do this again tomorrow. I'll stream again tomorrow. Two days in a row.
+
+01:22:31
+grasp5533: It was a lot of fun
+
+01:22:33
+charafmrah: It was fun
+
+01:22:33
+grasp5533: !triangle
+
+01:22:33
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:22:34
+fredkisss: new docs : https://nextjs.org/docs
+
+01:22:35
+<transcript>: Maybe not maybe never. Maybe never again.
+
+01:22:35
+<transcript>: it
+
+01:22:37
+teej_dv: @adamdotdev please call me BEFORE you stream it
+
+01:22:38
+goodgrandpaa: I do
+
+01:22:39
+oskrm: !triangle
+
+01:22:39
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:22:40
+archieedwds: long live ▲
+
+01:22:42
+<transcript>: It was Fun Triangle. Who made this triangle thing all hail the versaille triangle.
+
+01:22:52
+teej_dv: yes, i will help you with OBS
+
+01:22:52
+trivenge: lol;
+
+01:22:55
+<transcript>: Please call me before you stream it. You may call you teach before I stream tomorrow. I'm not going to stream the versailles thing. That was a big disappointment. I just thought there was going to be interesting things to react to. It was also really short.
+
+01:22:55
+<transcript>: you
+
+01:22:58
+<transcript>: You helped me with obs. Thank you. T.
+
+01:22:59
+goodgrandpaa: I want to get scammed for that lovely macbook Kappa
+
+01:23:01
+pirazgg: it was fun
+
+01:23:01
+nexxeln: !triangle
+
+01:23:01
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:23:02
+grasp5533: It was very entertaining for us
+
+01:23:04
+warrenbuffering: OBS, more like NOBS
+
+01:23:05
+trash_dev: dax your stream is still on
+
+01:23:08
+teej_dv: we didn't hear any of it tho LUL
+
+01:23:11
+teej_dv: can you watch it again?
+
+01:23:12
+<transcript>: 16 minutes. That is short. I thought it was longer than that. It felt longer because it was just recapping. The last three days. I actually appreciated some recap because I wasn't paying attention the last couple of days.
+
+01:23:14
+nexxeln: LUL
+
+01:23:15
+<transcript>: Are you serious.
+
+01:23:15
+<transcript>: you're still
+
+01:23:18
+smilingbig: I laughed the whole time KEKW
+
+01:23:18
+<transcript>: You're still streaming? What a train wreck.
+
+01:23:18
+<transcript>: oh
+
+01:23:19
+trivenge: hahahaha
+
+01:23:19
+goodgrandpaa: NO WAY LOL
+
+01:23:20
+<transcript>: Oh, man.
+
+01:23:20
+<transcript>: this one
+
+01:23:21
+trivenge: these two boomers
+
+01:23:22
+trivenge: LUL
+
+01:23:23
+archieedwds: felt even longer looking at obs most of the time
+
+01:23:24
+nexxeln: LUL 󠀀
+
+01:23:24
+<transcript>: This one ssd had a great chance to take ahead with versailles making a blunder.
+
+01:23:26
+trash_dev: bunch of dads learning tech
+
+01:23:28
+<transcript>: You just streamed all that DAX way to go.
+
+01:23:29
+teej_dv: "literally anyone can stream"
+
+01:23:38
+zachrip: vercel made a blunder?
+
+01:23:38
+<transcript>: It was constant failure. Okay. I really am going to get off here. Literally. Anyone can stream it's. True.
+
+01:23:39
+gitpush_gitpaid: twitch partner down the drain
+
+01:23:41
+<transcript>: That's a dad's learning Tech. All right.
+
+01:23:41
+<transcript>: i'm going to
+
+01:23:41
+trivenge: lmao
+
+01:23:44
+<transcript>: I'm going to hit the outro button now, dex. Thank you for joining.
+
+01:23:44
+teej_dv: @adamdotdev but actually can you watch it again so we can understand
+
+01:23:46
+nexxeln: LUL
+
+01:23:48
+trivenge: have a great day everyone
+
+01:23:49
+trivenge: !discord
+
+01:23:49
+fossabot: Adam is a member of the watch.dev Discord server and he'd love to see you there: https://discord.gg/watchdotdev
+
+01:23:50
+<transcript>: If it had just been me, who knows? It could have gotten even worse somehow.
+
+01:23:54
+trivenge: !rebase
+
+01:23:54
+fossabot: RebaseTV is a live game show for developers where you can win real cash prizes! https://rebase.tv
+
+01:23:57
+<transcript>: Could I watch what again? You said.
+
+01:23:57
+<transcript>: actually can
+
+01:23:58
+trivenge: !youtube
+
+01:23:59
+<transcript>: Actually can you watch it again so we can understand.
+
+01:24:00
+teej_dv: the whole keynote
+
+01:24:02
+trivenge: !twitter
+
+01:24:02
+fossabot: Adam spends some time on Twitter but kinda hates it: https://twitter.com/adamdotdev
+
+01:24:03
+<transcript>: You mean watch what we just watched.
+
+01:24:05
+oskrm: @adamdotdev rewatch? we can skip the recap
+
+01:24:20
+<transcript>: Twist, partner down the drake. You guys, versaille made a blender. I mean, that was just a weird keynote, is all I'm saying. Rewatch, we can skip the recap. I mean, literally. Well, no, I already messed with the overlays. They're already back to the other state, so I'm not going to do it.
+
+01:24:27
+<transcript>: I might watch it again just to make sure I didn't miss some giant thing that was built up to be.
+
+01:24:27
+fredkisss: And github is down when vercel ships LUL
+
+01:24:28
+elicxlive: I thought keynotes were supposed to be more like an hour tbh
+
+01:24:30
+<transcript>: Okay, the blog post.
+
+01:24:32
+<transcript>: Okay.
+
+01:24:38
+<transcript>: I guess we're going to raid somebody. It's going to randomly raid somebody. Thanks, everybody. That joined.
+
+01:24:38
+<transcript>: it
+
+01:24:41
+<transcript>: It was fun. Until the moment dax came on.
+
+01:24:44
+charafmrah: You missed Vercel curing cancer
+
+01:24:44
+oskrm: Hydrate
+
+01:24:44
+<transcript>: We'll just kind of assume that's for a reason.
+
+01:24:44
+<transcript>: yeah
+
+01:24:50
+<transcript>: Yeah. I mean, I had a pretty good time up until the moment I invite you on dax. I'm just saying.
+
+01:24:50
+<transcript>: it's also
+
+01:24:52
+c9_fuzz: :D
+
+01:24:52
+2dorkstv: I mean, I had a good time :D
+
+01:24:56
+<transcript>: It's also the moment I started messing with obs, and the moment I started trying to stream that versaille thing.
+
+01:24:58
+itsmeleague: Freaking daw
+
+01:24:58
+<transcript>: Okay, cool.
+
+01:24:58
+<transcript>: sounds
+
+01:25:00
+itsmeleague: Dax
+
+01:25:00
+<transcript>: Sounds good. Thanks. Bye.
+
+01:25:01
+smilingbig: it was a good time KEKW
+
+01:25:03
+nexxeln: !vercel
+
+01:25:03
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:25:06
+<transcript>: Oh, my word? What a train wreck.
+
+01:25:07
+nexxeln: BYEE
+
+01:25:11
+<transcript>: Okay.
+
+01:25:11
+<transcript>: so
+
+01:25:13
+itsmeleague: That ending lmao
+
+01:25:13
+oskrm: BYE
+
+01:25:18
+<transcript>: So I always raid steady time. I used to have a random thing built in, and now it just always raids study time. Who else is streaming.
+
+01:25:21
+teej_dv: !triangle
+
+01:25:21
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:25:21
+<transcript>: What's? That.
+
+01:25:25
+<transcript>: No, I don't know. I got to look at the code.
+
+01:25:28
+<transcript>: You're not streaming anymore. So you did turn it off. Okay.
+
+01:25:32
+nexxeln: !/_\
+
+01:25:32
+fossabot: /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\ ALL HAIL THE VERCEL TRIANGLE /_\
+
+01:25:32
+<transcript>: I'm going to raid Jason and SUNEL.
+
+01:25:36
+<transcript>: Yasin. He's on with Jason.
+
+01:25:44
+<transcript>: I'm so bummed I didn't get to meet sunil. What did he say about me and you and theo? What did you say? He said.
+
+01:25:53
+<transcript>: Ouch. It's more painful the second time.
+
+01:25:57
+<transcript>: Oh Yeah.
+
+01:25:59
+<transcript>: Okay.
+
+01:25:59
+<transcript>: that makes it
+
+01:26:02
+<transcript>: That makes it a little better, so full of ourselves. Okay. Interesting.
+
+01:26:08
+<transcript>: Oh, no, it's an intro screen. Jason's. Not even there yet. Well, that's fine.
+
+01:26:14
+<transcript>: Yeah, I may not use Ping anymore. It's not ping's fault.
+
+01:26:14
+<transcript>: it's my
+
+01:26:18
+<transcript>: It's my overlays. That was so stressful.
+
+01:26:19
+<transcript>: I get.
+
+01:26:24
+<transcript>: Oh, I got to hit the button now, here we go.
+
+01:26:38
+<transcript>: Yeah, that's a good idea. I'm going to do the riverside thing next time.
+
+01:26:44
+<transcript>: Okay. I'm going to do some actual work. I need some therapy.
+
+16:30:51
+<transcript>: Yeah, let's actually do some work. Thanks, dax. Hey, it was fun doing that podcast. That was fun.
+
+16:30:51
+<transcript>: just not
+
+16:30:55
+<transcript>: Just not planning. Yeah. Me too. All right. See you.

@@ -107,7 +107,7 @@ function Intro({
           topLeft={<BrandMark />}
           topCenter={
             <div className="flex h-full items-center text-mauve-12">
-              Streaming web development every weekday 
+              Streaming web development every weekday
             </div>
           }
           centerLeft={
@@ -226,7 +226,7 @@ const GuestTitleScreen: React.FC<{
           <div className="absolute bottom-[20px] right-[788px] z-50 w-auto min-w-[150px] bg-mint px-4 py-2">
             <div className="text-lg font-bold text-mauve-1">Adam Elmore</div>
             <div className="text-sm font-medium text-[#040013] text-opacity-[48%]">
-              @aeduhm
+              @adamdotdev
             </div>
           </div>
 

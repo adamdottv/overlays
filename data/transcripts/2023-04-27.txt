@@ -1,0 +1,6907 @@
+
+
+12:05:42
+<transcript>: But you can't prove it.
+
+12:07:45
+<transcript>: Not.
+
+12:20:15
+<transcript>: But you can't remove it.
+
+00:01:17
+kryotoboi: First ?
+
+00:01:21
+kryotoboi: No ?
+
+00:01:56
+cosmiclasagna: @Kryotoboi looks like it
+
+00:02:20
+nullchefo: @cosmiclasagna nope
+
+00:03:03
+dmmulroy: Morning y'all
+
+00:03:07
+kevinnaughtonjr: good morning friends
+
+00:03:13
+reggie_dev: morning :)
+
+00:03:43
+naxodev: Best stream presentation ever
+
+00:04:29
+sockthedev: in first 10!
+
+00:04:30
+goodgrandpaa: Good morning chatters!
+
+00:04:49
+kayandra: hey adam
+
+00:05:03
+sockthedev: i want adams office
+
+00:05:12
+sockthedev: i wonder how much of this is him vs his wife's influence
+
+00:05:23
+sockthedev: the man is crisp
+
+00:05:25
+kryotoboi: If you scan the qr code on the screen, you get a macbook ?
+
+00:05:36
+sockthedev: PG13, lol
+
+00:06:15
+justinechang39: this is clean
+
+00:06:31
+emerycik: Is this Sims soundtrack?
+
+00:07:27
+sockthedev: life aquatic sample i heard in there somewhere
+
+00:09:21
+dmdboi: Yo
+
+00:11:17
+<transcript>: Good morning.
+
+00:11:17
+<transcript>: good
+
+00:11:22
+<transcript>: Good morning. I skipped my stream yesterday. Good morning. Please forgive me.
+
+00:11:22
+<transcript>: who's
+
+00:11:26
+<transcript>: Who's here? Cryo's here. First. You were first.
+
+00:11:26
+<transcript>: you were
+
+00:11:27
+mecoupz: Hey
+
+00:11:29
+treasonist: morning!
+
+00:11:31
+justinechang39: EY YO!
+
+00:11:32
+nil_do_cavaco: hey
+
+00:11:32
+sj_se: yoyo
+
+00:11:36
+<transcript>: You were first cryo. No, yes, cosmic. Looks like it. Welcome. Cosmic. And Noel sheffields. Here. Oh, no, not first, not first.
+
+00:11:37
+laytanl_: Morning!
+
+00:11:45
+<transcript>: Oh, Noel, SHEFFEL redeemed chances at a macbook. But here's the thing, Noel. You didn't say anything, so I think technically, still cryo is first.
+
+00:11:45
+<transcript>: i believe
+
+00:11:49
+<transcript>: I believe cryo was the first to chat.
+
+00:11:53
+reggie_dev: morning
+
+00:11:59
+<transcript>: You're trying to win a macbook does not count. Good morning, bia. How are you doing? How's that launch going? How's your open source thing going.
+
+00:11:59
+kryotoboi: lisari1Ohwow lisari1Ohwow
+
+00:12:05
+kryotoboi: NewRecord NewRecord NewRecord NewRecord NewRecord NewRecord
+
+00:12:06
+<transcript>: Kevin's here. Good morning, friends. Good morning, Kevin. Reggie's here. Good morning.
+
+00:12:06
+<transcript>: naxod
+
+00:12:13
+<transcript>: Naxodev is here. Best stream presentation ever. You mean like my intro? Is that the stream presentation.
+
+00:12:14
+emerycik: Morning
+
+00:12:17
+<transcript>: Sock in the first ten.
+
+00:12:17
+<transcript>: that's funny
+
+00:12:23
+<transcript>: That's funny. Good grandpa's. Here. Good morning. Good grandpa. Does anyone? Is it morning forever.
+
+00:12:23
+<transcript>: now
+
+00:12:27
+dmmulroy: Dude it's going so well! It got integrated into EcoVim which is a frontend focused distribution of neovim
+
+00:12:32
+justinechang39: yes, super clean!
+
+00:12:33
+<transcript>: Now do I stream late enough that it's just morning. And I don't need to keep saying, like, good afternoon, good, whatever. It's just good morning, just straight. Good morning, CA. Andra is here.
+
+00:12:33
+<transcript>: wait no
+
+00:12:36
+<transcript>: Wait no if I stream later.
+
+00:12:37
+masi_beats: yes good morning
+
+00:12:40
+masi_beats: from argentina
+
+00:12:40
+<transcript>: It would be less morning for most people.
+
+00:12:41
+masi_beats: :D
+
+00:12:42
+kryotoboi: I am about to sleep now
+
+00:12:43
+<transcript>: Right.
+
+00:12:43
+<transcript>: if i stream later i guess
+
+00:12:47
+<transcript>: If I stream later, I guess it's morning for some Americans that might join.
+
+00:12:49
+funkysetiz: 2:30 pm here, europe
+
+00:12:50
+cosmiclasagna: its 8:30 pm here
+
+00:12:52
+laytanl_: Nah its 2pm here
+
+00:12:53
+<transcript>: But all of you people over in the Netherlands and stuff.
+
+00:12:55
+rvnn: Good evening Adam :)
+
+00:12:56
+<transcript>: Stroke waffles all you people.
+
+00:12:57
+justinechang39: watching from SIngapore, 8:30pm here
+
+00:12:59
+dmmulroy: East coaster here in Raleigh
+
+00:13:00
+vagorge: us time only time that matters OMEGALUL
+
+00:13:03
+<transcript>: It'd be later. It's less likely to be morning for you. And you're probably going to bed in Australia, right.
+
+00:13:03
+<transcript>: is bishop here
+
+00:13:04
+mecoupz: 2:36pm here
+
+00:13:04
+<transcript>: Is Bishop here.
+
+00:13:08
+<transcript>: Sock you want Adam's office.
+
+00:13:13
+goodgrandpaa: Sooo Adam, I think I'm pushing that project to the backburner for a bit.. I want to focus on employable qualities instead of a potential start up atm so I can get my money up LUL
+
+00:13:22
+kevinnaughtonjr: seeing the footage of your office makes me want an entire house tour
+
+00:13:26
+rvnn: Hello Eurovision, this is Sydney calling
+
+00:13:29
+<transcript>: I love my office. I don't know why I was going to say I want office. I love my office. I wonder how much of this is him versus his wife's influence. My office is me. So I did my office, but my wife did her house, which looks way cooler, like I ended up with some weird mid century theme in my office. That wasn't necessarily what I was originally setting out for.
+
+00:13:29
+<transcript>: but
+
+00:13:31
+<transcript>: But it's kind of where I landed.
+
+00:13:36
+<transcript>: The rest of our house is way cooler. Like scandinavian, sort of. It's just. It's awesome.
+
+00:13:41
+<transcript>: The man is crisp. Thank you so much, sock. I really do appreciate that.
+
+00:13:41
+<transcript>: cryo
+
+00:13:46
+<transcript>: Cryo if you scan the qr code on screen, you get a macbook no, but if you redeem.
+
+00:13:48
+<transcript>: The chance of a MacBook.
+
+00:13:48
+<transcript>: reward
+
+00:14:06
+<transcript>: Reward. I can't say that word reward. If you redeem it, which you can do twice a stream. You do have a chance at a macbook 1% one in 10,000. I just like to say that every stream so everybody understands the rules. Pg 13. It's a little PG 13 around here. We try to keep it clean.
+
+00:14:06
+<transcript>: speaking
+
+00:14:11
+<transcript>: Speaking of Clean. Justine, welcome to Chat. This is clean.
+
+00:14:15
+<transcript>: Emory is here. Is this SIM soundtrack? No.
+
+00:14:19
+<transcript>: Life aquatic sample You're heard in there somewhere.
+
+00:14:20
+naxodev: Helloo
+
+00:14:24
+laame: OMG ADAM IS STREAMING
+
+00:14:28
+<transcript>: Diamonds here. And me. Coops is here. Treasonist is here. And Justin is here. Sorry. Justine is here. Ao.
+
+00:14:28
+<transcript>: nild
+
+00:14:35
+sockthedev: ah, didn't win the mac. see you tomorrow.
+
+00:14:38
+<transcript>: Nildo Nildo Nildo cavaco? Welcome to Chat. Hey, how are you? Sj's here. And layton's here. And reggie dev is here.
+
+00:14:42
+justinechang39: Justin is right 👌
+
+00:14:42
+mecoupz: is dax here?
+
+00:14:49
+kryotoboi: I saw Adam's tweet about making some money or something. Does that mean more macbookPro giveaways ?
+
+00:14:58
+<transcript>: What are these? Emotes cryo. They got some punching gloves. Oh, wow, dude, it's going so well, it got integrated into ecovim, which is a front end focus distribution of Neovim. I want to check out ecovim now because I am kind of a front end developer. I guess I'm learning more and more. That's probably what I am.
+
+00:15:06
+<transcript>: Let's see. Good morning from Argentina. Massey is here and Cry was about to sleep.
+
+00:15:13
+<transcript>: It's so wild that I'm just waking up. You're just going to bed.
+
+00:15:15
+<transcript>: The Circle of life.
+
+00:15:17
+<transcript>: No.
+
+00:15:24
+<transcript>: South Circle Life is 08:30 P.m. For cosmic lasagna in Southeast Asia.
+
+00:15:31
+<transcript>: Funky It's 02:30 P.m. In the afternoon in Europe we've got all the times represented all of them.
+
+00:15:37
+<transcript>: Theo might pop in for the West Coast, where he still hasn't gone to bed yet.
+
+00:15:38
+mercurios_broken_rib: The circle of Earth Kappa
+
+00:15:40
+<transcript>: It's. 02:00 p.m.. Here.
+
+00:15:40
+<transcript>: two p m
+
+00:15:50
+<transcript>: 02:00 P.m. Wait, how is it 230 in one place and 02:00 p.m. In the other. We don't go in that granular of an intervals. I'm pretty sure all the time zones are 1 hour apart.
+
+00:15:50
+<transcript>: is it
+
+00:15:54
+mercurios_broken_rib: it's 4pm almost here
+
+00:15:54
+<transcript>: Is it two or 230 Layton let's get specific.
+
+00:15:58
+laame: there is some 30min timezones
+
+00:16:01
+<transcript>: Reven is here. I can't remember. Reven. What? We decided to call you. What do I call you.
+
+00:16:01
+<transcript>: run
+
+00:16:02
+strik3ria: There are some that are 30 min
+
+00:16:02
+<transcript>: Run.
+
+00:16:09
+dmmulroy: Abolish timezones adopt UTC universally
+
+00:16:11
+funkysetiz: nope there's 30min timezones
+
+00:16:15
+extremelyryan: heya adam good morning.
+
+00:16:16
+<transcript>: Watching from Singapore. 08:30 p.m.. We got a lot of Southeast Asia East coaster here in raleigh. Raleigh. Raleigh. Did you just make up where you live? So I'd have to say it.
+
+00:16:16
+<transcript>: raleigh
+
+00:16:16
+funkysetiz: like around india
+
+00:16:17
+rvnn: Raven please
+
+00:16:19
+<transcript>: Raleigh, North Carolina rally.
+
+00:16:19
+<transcript>: rally
+
+00:16:24
+<transcript>: Rally US. Time only time that matters. Omega lull.
+
+00:16:24
+<transcript>: that sounds
+
+00:16:25
+rvnn: But I’m not fussed
+
+00:16:27
+<transcript>: That sounds like an American thing to say.
+
+00:16:33
+rvnn: Story if my life :)
+
+00:16:36
+<transcript>: Me, coops, it's 236. I think it's 236 late. And I think that's what you meant to say. Keco, thank you for the follow. Also.
+
+00:16:38
+dmmulroy: I promise I live in Rawl-Lee
+
+00:16:39
+<transcript>: Duterte.
+
+00:16:39
+<transcript>: and faisal
+
+00:16:50
+<transcript>: And faisal. Well, duder, you've followed me since I started streaming today, so thank you for that fall. I can't believe I missed it. Didn't have much going on here. Just talking, but faizal. Patrick.
+
+00:16:50
+<transcript>: african
+
+00:16:54
+<transcript>: African X mamba Midnight CT.
+
+00:16:57
+<transcript>: Midnight, CX.
+
+00:16:57
+<transcript>: roddy
+
+00:16:58
+<transcript>: Roddy.
+
+00:17:01
+<transcript>: Banana with sunglasses.
+
+00:17:08
+<transcript>: Garosh nash A new deep jute ju Cameron.
+
+00:17:20
+<transcript>: Ben, Ryan, leva and Average ls. Thank you for the follows when I skipped my stream yesterday. Apparently, I don't have to stream, and you guys will just keep following me. Justine, thank you for that follow.
+
+00:17:28
+laytanl_: What were you up to yesterday?
+
+00:17:33
+<transcript>: so adam i think i'm pushing that project to the back burner for a bit i want to focus on employable qualities instead of a potential startup so i can get my money up yeah good grandpa
+
+00:17:37
+<transcript>: I have so many conflicting thoughts. It's hard for me.
+
+00:17:41
+<transcript>: With startups on the one hand.
+
+00:17:41
+<transcript>: i feel like at the
+
+00:17:50
+<transcript>: I feel like at the beginning of your career is a great time to start a startup because presumably at the beginning of your career, you're younger. You don't have a lot of responsibilities in life.
+
+00:17:54
+<transcript>: You don't have maybe a significant other or potentially children.
+
+00:18:00
+<transcript>: Just like early in life, I had a lot less on my plate, a lot less things required of me.
+
+00:18:04
+<transcript>: So that's a great time to start a startup. On the other hand.
+
+00:18:18
+<transcript>: I feel like it's nice to have built up some savings and to not feel like I don't know you're not at a good position to start a startup if you can live with your parents or live somewhere else with a friend.
+
+00:18:18
+<transcript>: for
+
+00:18:23
+<transcript>: For very cheap then I think startups are great to get going to get started.
+
+00:18:23
+<transcript>: i didn't really
+
+00:18:23
+kampouse: if i fail am done
+
+00:18:28
+<transcript>: I didn't really have that. Like I got married. We were going to live on our own.
+
+00:18:28
+<transcript>: so
+
+00:18:29
+<transcript>: So.
+
+00:18:29
+<transcript>: i needed to kind of
+
+00:18:36
+<transcript>: I needed to kind of get my feet. We didn't start with money, started with nothing, and had to kind of.
+
+00:18:36
+<transcript>: build up
+
+00:18:52
+<transcript>: Build up some savings, but, yeah, I'm torn on when people should start startups. Seeing the footage of your office makes me want an entire house tour. Yeah. Kevin, we've talked about it. I've got, like, a little mobile setup. I've got a jib and a wireless hdmi thing. I could walk around the house with my camera.
+
+00:18:52
+<transcript>: the main
+
+00:18:53
+techsavvytravvy: 👋🏻
+
+00:18:56
+<transcript>: The main hang up being that my wife.
+
+00:19:00
+<transcript>: Has to live life in the rest of our house with our two boys.
+
+00:19:00
+<transcript>: and i
+
+00:19:05
+<transcript>: And I don't know. The conversation when I initially was like, hey, maybe I'll walk around the house with a camera someday.
+
+00:19:05
+<transcript>: it didn't go
+
+00:19:11
+<transcript>: It didn't go over super. Well. It was like, okay, maybe we could talk about when would be a good time.
+
+00:19:12
+dmdboi: why is every dev tool difficult to install on windows
+
+00:19:27
+focusexpert: @adamdotdev when did you have the desire to get married?
+
+00:19:29
+oetziofficial: Hi kruzWave bashLove
+
+00:19:31
+<transcript>: She doesn't want to have to leave the house with the boys, but she also doesn't want to put the boys on twitch. I don't know. We got to figure it out. We'll do it. We'll do a house tour. Maybe like when they go to the library someday or something. I'll just wander around the house and show you all the whole house. I put a lot of pictures on Twitter. Like if you want to know what it looks like, charge ne.
+
+00:19:31
+<transcript>: neon thank
+
+00:19:34
+<transcript>: Neon. Thank you for that. Follow.
+
+00:19:34
+<transcript>: okay
+
+00:19:37
+<transcript>: Okay. I really got to catch up on chat. I feel like I'm probably far behind.
+
+00:19:37
+<transcript>: hello
+
+00:19:42
+<transcript>: Hello, eurovision. This is Sydney, Calling. What's your vision.
+
+00:19:42
+<transcript>: next
+
+00:19:44
+<transcript>: Next oh, Hello.
+
+00:19:46
+<transcript>: Lame is here. Oh, my God.
+
+00:19:50
+<transcript>: Sock. I didn't win the macbook. See you tomorrow. Okay.
+
+00:19:50
+<transcript>: that's
+
+00:19:52
+<transcript>: That's a good one.
+
+00:19:52
+<transcript>: you probably
+
+00:20:06
+<transcript>: You probably meant it, but that's funny. Justin is right. Oh, sorry. Okay. Justin not Justin. Got it. Is dax here? Great question. Let's talk bad about dax so that he shows up. I saw adam's tweet about making some money or something. Does that mean more macbook Pro giveaways.
+
+00:20:10
+techsavvytravvy: lol my wife would never go for a house tour
+
+00:20:13
+<transcript>: Excuse me? My wife has plans for the money that I made.
+
+00:20:22
+<transcript>: As a family, we have plans for it, so no extra MacBooks just because of that. But it helps fortify my position of giving away MacBooks.
+
+00:20:43
+<transcript>: Let's see. I saw the Circle of Earth. It's 04:00 P.m.. Almost here. Mercurios is here. There is some 30 minutes time zones. Oh, really? Oh, wow. Straigoria. Welcome to Chat. Thank you guys for correcting me. I did not know this. Abolished time zones. Adopt utc. Univers.
+
+00:20:43
+<transcript>: universally
+
+00:20:44
+<transcript>: Universally.
+
+00:20:49
+<transcript>: So was latent actually telling the truth is it actually 30 minutes behind.
+
+00:20:49
+<transcript>: where lateness
+
+00:20:50
+<transcript>: Where lateness.
+
+00:20:53
+<transcript>: How wild.
+
+00:20:56
+<transcript>: Extremely. Ryan's. Here. How's it going? Good morning.
+
+00:20:59
+<transcript>: Around India. Interesting.
+
+00:21:04
+techsavvytravvy: oh wow you are behind on chat lol
+
+00:21:05
+<transcript>: Raven, please. Raven. Right. But you're not fussed. Sorry about life.
+
+00:21:09
+<transcript>: Promise? I live in rawley.
+
+00:21:09
+<transcript>: ra
+
+00:21:13
+<transcript>: Raleigh. Which one is it? Wait. Are you saying that's how I say it.
+
+00:21:18
+<transcript>: And I said it wrong again. Or is it is it rally.
+
+00:21:18
+<transcript>: what
+
+00:21:24
+dmmulroy: nailed it, Rawl-Lee is the right way to say Raleigh
+
+00:21:36
+<transcript>: What runs it up to yesterday? Why didn't I stream yesterday? I don't think I have a really good excuse. I think I should have a really good excuse. Like, well, you see, we had to go get the car fixed or something. I don't know. I have no excuses. I was just sitting in my office working and I was like, not going to stream. Felt cute. Not going to stream. I don't know.
+
+00:21:41
+<transcript>: Let's see.
+
+00:21:41
+<transcript>: camp
+
+00:21:41
+laytanl_: No lol just too lazy to add the 30
+
+00:21:44
+<transcript>: Campus. If I fail, I am done.
+
+00:21:44
+<transcript>: done
+
+00:21:44
+chargedneon: not if you're from the UK ;)
+
+00:21:48
+<transcript>: Done what campus? If you fail, you are done what.
+
+00:21:51
+<transcript>: Os ominous. Travis here.
+
+00:21:51
+<transcript>: why is every dev
+
+00:21:59
+<transcript>: Why is every dev tool difficult to install on Windows? I didn't know that they were difficult installing Windows. I don't use Windows. Tell me more.
+
+00:21:59
+bodhihawken: yoooo i made it and im in standing desk mode still!
+
+00:22:03
+techsavvytravvy: Cheer100 HELLO ADAM
+
+00:22:06
+<transcript>: When did you have the desire to get married? Focus Expert we got married. Really young.
+
+00:22:06
+<transcript>: i got
+
+00:22:11
+<transcript>: I got married. Thank you so much, trev. For the bits. Hello, trav.
+
+00:22:17
+<transcript>: We got married at 20 and 22. I was 22 and my wife was 20.
+
+00:22:22
+<transcript>: When did you have the desire? So it's funny. My wife jokes about it now.
+
+00:22:25
+fragaverage: hi hi hi
+
+00:22:26
+<transcript>: I think she's joking talks about how.
+
+00:22:33
+<transcript>: Before we got married, had conversations with her about how I might just be somebody that never gets married. So just heads up.
+
+00:22:33
+<transcript>: i don't know
+
+00:22:36
+techsavvytravvy: 😂
+
+00:22:38
+laytanl_: Windows is cringe
+
+00:22:42
+<transcript>: I don't know me personally, not my wife saying that I was saying, I don't know if I'll ever get married because I just don't know if I want to be married. That's what I said. And.
+
+00:22:45
+<transcript>: I wasn't a man about town.
+
+00:22:46
+oetziofficial: kruzKEKW
+
+00:22:47
+techsavvytravvy: "i think she's joking"
+
+00:22:48
+dmdboi: I currently cant get flutter working on windows
+
+00:22:48
+<transcript>: I just had so many.
+
+00:22:48
+<transcript>: people
+
+00:22:55
+dmdboi: Might change to ubuntu
+
+00:22:57
+<transcript>: People I was interested in that I couldn't settle down with one. No, I just really wasn't interested in people. I just didn't have a lot of relationships. I think there's something wrong with my brain.
+
+00:23:01
+<transcript>: It's been discussed at length on this stream.
+
+00:23:12
+<transcript>: There's something about me. Some have called me a robot that I don't have emotions or I don't have any emotional depth. All of those things have been said about me, and I'm pretty sure some of them are true.
+
+00:23:15
+<transcript>: So I didn't really have a lot of.
+
+00:23:18
+<transcript>: Romantic relationships growing up.
+
+00:23:18
+<transcript>: had a couple not
+
+00:23:21
+treasonist: relatable
+
+00:23:24
+<transcript>: Had a couple, not sure they were even romantic. Or if I was just kind of doing the thing you do in high school and having relationships.
+
+00:23:27
+<transcript>: So Yeah.
+
+00:23:27
+<transcript>: i always thought
+
+00:23:28
+laytanl_: adamdevDealWithIt
+
+00:23:30
+techsavvytravvy: i said the same thing 😂 and also "i never want kids"
+
+00:23:30
+<transcript>: I always thought maybe I'm just never going to get married because.
+
+00:23:30
+<transcript>: i just don't really
+
+00:23:34
+<transcript>: I just don't really value romantic relationships.
+
+00:23:40
+<transcript>: But my wife changed my mind. Not my wife. My girlfriend at the time. Casey.
+
+00:23:47
+<transcript>: I wanted to marry her so we got married. When did I get the desire? At 22 years old.
+
+00:23:51
+<transcript>: It was a very short engagement.
+
+00:23:51
+<transcript>: we
+
+00:23:55
+<transcript>: We were engaged for like three months. We went and stood on the Beach.
+
+00:24:03
+<transcript>: In I wish I could say we stood on the beach in Costa rica, and we got married but no, we stood on the beach in jacksonville, Florida.
+
+00:24:05
+<transcript>: I got married.
+
+00:24:10
+techsavvytravvy: damn do i have autism?
+
+00:24:12
+rvnn: That’s nice, congratulations to you both
+
+00:24:20
+<transcript>: There's reasons, but I'm not going to go into it. Oetzie, oetzie's here. Okay. No one asked for that huge story I just gave. Sorry. My wife would never go for a house tour. Yeah, it's kind of a logistical challenge. Oh, wow. You are behind on chat. Yeah.
+
+00:24:20
+<transcript>: nailed it
+
+00:24:23
+<transcript>: Nailed it. Riley is the right way to say Raleigh.
+
+00:24:23
+<transcript>: okay
+
+00:24:24
+naxodev: I'm on my third marriage lol
+
+00:24:32
+<transcript>: Okay. Good. No. Just too lazy. Got it. Mystery solved. Welcome to Chat Charged neon. Not if you're from the UK.
+
+00:24:33
+bodhihawken: nice! iv been with my high school sweetheart for 5 years!
+
+00:24:38
+<transcript>: This is why I can't get behind on chat because I don't know what you guys talk about, not if you're from the UK.
+
+00:24:40
+2dorkstv: morning, fellow nerds!
+
+00:24:56
+<transcript>: Yo, I made it and I'm in standing desk mode. Still bodie's here. Still in standing mode. Frank is here. Hi, ha. Windows is cringe etsy's here? I'm just going to try to scroll fast. Oh, we're almost there. I think she's joking. I currently can't get flutter working on Windows. This might change to Ubuntu.
+
+00:24:56
+<transcript>: relatable
+
+00:25:06
+<transcript>: Relatable treasonous. Which part was relatable? The part where I didn't have a lot of relationships growing up, said the same thing. And also, I never want kids. Dan, Do I have autism.
+
+00:25:17
+<transcript>: That's what people in Chat have said I might have autism. We took a test on Stream one day it said I did, or I probably did. I don't know if it said, like you have autism. I think it was.
+
+00:25:23
+<transcript>: Like you most likely do. But before Chat said I had autism.
+
+00:25:23
+<transcript>: we my wife and i
+
+00:25:25
+tnkhanh: LUL
+
+00:25:26
+<transcript>: We my wife and I have always thought maybe she has autism.
+
+00:25:29
+bodhihawken: haha mine said i have adhd XD
+
+00:25:29
+<transcript>: It's a lot like less diegnosed than girls.
+
+00:25:29
+<transcript>: and
+
+00:25:39
+<transcript>: And there were just a lot of things that lined up where it's like, she might be autistic. We didn't realize we might both be autistic. And we found each other. You know what I'm saying.
+
+00:25:41
+tnkhanh: so you really have autism?
+
+00:25:42
+<transcript>: Okay.
+
+00:25:42
+<transcript>: it's nice congr
+
+00:25:45
+<transcript>: It's nice. Congratulations, you both. Thank you so much.
+
+00:25:45
+<transcript>: raven
+
+00:25:51
+<transcript>: Raven for congratulating us. I'm on my third marriage. Well, that's I mean.
+
+00:25:53
+<transcript>: Third time's a charm.
+
+00:25:53
+<transcript>: third time
+
+00:25:54
+<transcript>: Third time.
+
+00:25:54
+<transcript>: we've been married
+
+00:25:59
+techsavvytravvy: played the uno reverse card with autism
+
+00:26:03
+<transcript>: We've been married. So my wife looks like she's 23. I mean, she's always going to look like she's ten years younger than me. We've been married for 14 years now. In may.
+
+00:26:03
+<transcript>: which
+
+00:26:06
+<transcript>: Which when people.
+
+00:26:14
+<transcript>: Come to the door. There have been literally in the last, like, five years, there have been people come to our door. And when my wife answers, they're like, Is your dad home.
+
+00:26:24
+oetziofficial: kruzKEKW kruzKEKW
+
+00:26:24
+tnkhanh: LUL
+
+00:26:27
+<transcript>: Because they think she's my teenage daughter or something. She just looks really young. Her dad has always looked 20 years younger than he is her grandma.
+
+00:26:27
+<transcript>: died
+
+00:26:29
+rvnn: LUL
+
+00:26:29
+<transcript>: Died at 90 80.
+
+00:26:29
+<transcript>: upper
+
+00:26:34
+<transcript>: Upper 80 something like that and never looked like she was over 60 years old.
+
+00:26:34
+<transcript>: they just
+
+00:26:35
+zguiba: that sounds painful but funny at the same time
+
+00:26:37
+<transcript>: They just have very young genes. Okay.
+
+00:26:37
+rapscallionreaves: My wife looks like she's 3-5 years younger than me but she's actually 3 years older.  I just look like an old man... Stupid hairloss lol
+
+00:26:37
+tnkhanh: wow young family
+
+00:26:51
+<transcript>: And yeah, I'm always going to look like I'm 25 years older than her because I am not aging like a fine wine. I'm getting Gray. I'm all the things she on the other hand, she will always look young. How did I get talking about that.
+
+00:26:55
+focusexpert: You look 23
+
+00:26:56
+cosmiclasagna: u married into the family who found the fountain of youth
+
+00:27:07
+rvnn: House tour?
+
+00:27:11
+<transcript>: Was I answering a question? I don't know. Bodie. Nice. I've been with my high school sweetheart for five years. So me and Casey went to the high school together. We did not date in high school. It wasn't until after high school that we actually started dating. Good morning. Two dorks talking a lot about my relationships this morning. I don't remember how this got started. Mine.
+
+00:27:11
+<transcript>: said i have
+
+00:27:14
+<transcript>: Said I have adhd. Interesting.
+
+00:27:21
+<transcript>: Twitch chat better than a doctor. Really? So you really have autism? I don't know.
+
+00:27:21
+<transcript>: i've never been
+
+00:27:26
+<transcript>: I've never been clinically diagnosed, but I've been Twitch chat diagnosed.
+
+00:27:26
+<transcript>: and some
+
+00:27:27
+rvnn: I think that’s how the convo started
+
+00:27:31
+<transcript>: And some quiz on the internet diagnosed. I'm probably not going to get officially diagnosed.
+
+00:27:31
+<transcript>: played the
+
+00:27:31
+fragaverage: shall I just break his overlays to he gets on with something?
+
+00:27:34
+2dorkstv: I married my high school sweetheart. 13 years this year. Dated for 7 before we married though
+
+00:27:36
+<transcript>: Played the Uno reverse card with Autism. What's the reverse card.
+
+00:27:36
+<transcript>: that
+
+00:27:47
+<transcript>: That sounds painful but funny. At the same time, my wife looks like she's three to five years younger than me, but she's actually three years older. I just look like an old man stupid hair loss.
+
+00:27:51
+kryotoboi: Chat > Doctor
+
+00:27:51
+mecoupz: NEVER trust something thats written/published on the internet ... lol
+
+00:27:53
+<transcript>: Okay. You look 23. I look 23. No, I don't.
+
+00:27:53
+<transcript>: oh that's
+
+00:28:09
+rvnn: @fragaverage were having a deep and meaningful sheer
+
+00:28:10
+<transcript>: Oh, that's what it was. My wife looks so young. We've been married 14 years. When people find out she has kids, she went to this big volleyball tournament in Florida, and people found out she had kids after a couple of days into the campus, like, you have kids? It's like, yeah, I have an eight year old. You have an eight year old.
+
+00:28:13
+<transcript>: You're 15. How do you have an eight year old.
+
+00:28:17
+fragaverage: @rvnn Is that a yes then?
+
+00:28:18
+<transcript>: House Tour. That's right.
+
+00:28:18
+<transcript>: that's outside
+
+00:28:19
+tnkhanh: LUL
+
+00:28:23
+<transcript>: That's outside of you married into the family who found the fountain of youth. Something like that cosmic.
+
+00:28:23
+<transcript>: shall i just break
+
+00:28:30
+<transcript>: Shall I just break his overlays so he gets on with something? How can you break my overlays? Frag? Can you actually break them.
+
+00:28:30
+<transcript>: married my
+
+00:28:33
+<transcript>: Married my high school studio heart 13 years this year.
+
+00:28:34
+fragaverage: Cheer1
+
+00:28:36
+fragaverage: Cheer1
+
+00:28:38
+fragaverage: Cheer1
+
+00:28:38
+rvnn: Heh
+
+00:28:40
+fragaverage: Cheer1
+
+00:28:41
+fragaverage: Cheer1
+
+00:28:44
+fragaverage: Cheer1
+
+00:28:44
+kryotoboi: I am 8 year old and I have a 15 year old
+
+00:28:46
+fragaverage: Cheer1
+
+00:28:47
+<transcript>: Dated for seven before we married, though. Yeah, we did not date long. We dated for three months. Then we were engaged for three months. And we've been happily married for 14 years. Oh, no, frag, don't do it. Please don't stop. Don't break my overlays. I'm going to get to work. Please stop.
+
+00:28:47
+<transcript>: don't do
+
+00:28:48
+fragaverage: Cheer1
+
+00:28:50
+fragaverage: Cheer1
+
+00:28:50
+<transcript>: Don't do it. Stop. Frag.
+
+00:28:54
+<transcript>: How do I do this.
+
+00:28:54
+<transcript>: time
+
+00:28:59
+<transcript>: Time out, time out, frag time out don't break my overlays.
+
+00:28:59
+<transcript>: i can't even
+
+00:29:00
+cosmiclasagna: LUL
+
+00:29:04
+fragaverage: LUL
+
+00:29:08
+vagorge: LOL
+
+00:29:09
+rvnn: Haha
+
+00:29:10
+lesabotsy: I wish I look like a 32yo, i still look 16 :(
+
+00:29:12
+<transcript>: I can't even do it. I can't even time at him. Can another mod time out, please? Or did he stop? He stopped. Did he break it? He really did break it. My overlays can't handle more than like ten events.
+
+00:29:13
+fragaverage: You can't time me out, they're broken
+
+00:29:15
+<transcript>: Oh, that's funny.
+
+00:29:19
+<transcript>: We're having a deep and meaningful shear.
+
+00:29:19
+schrew: ∆1
+
+00:29:21
+rvnn: Broken
+
+00:29:29
+<transcript>: Chat greater than a doctor. Totally agreed. Never trust something that's written published on the internet. Yeah, that's probably true. Okay, I got to restart my overlays can't time me out. They're broken.
+
+12:52:45
+<transcript>: Oh, man. Okay, we're going to restart the overlays.
+
+12:52:49
+<transcript>: I know.
+
+12:52:53
+kampouse: imgine
+
+12:52:55
+cosmiclasagna: KEKW
+
+12:52:58
+fragaverage: Cheer100 <3
+
+12:53:03
+<transcript>: He's got his all like serverless and it scaled to infinity, not mine. I wish I looked like a 32 year old. I still look 16. Oh, leslie, you wish you looked older. Interesting. It goes the other way. Would you stop it.
+
+12:53:03
+<transcript>: frank thank
+
+12:53:05
+laytanl_: Lol thats so fragile
+
+12:53:10
+wizardfrag: web scale
+
+12:53:12
+<transcript>: Frank, thank you for the 100 bits. I appreciate the 100 bits. Is that making it up so fragile? Yeah. That was not very many events.
+
+12:53:12
+<transcript>: web sc
+
+12:53:14
+<transcript>: Web scale.
+
+12:53:14
+<transcript>: wizard
+
+12:53:21
+focusexpert: @naxodev speedrunning irl?
+
+12:53:22
+<transcript>: Wizard frag? Is that an alt frag? Is that yours as well? Thank you so much for the follow. Wizard frag. Welcome to chat.
+
+12:53:22
+<transcript>: okay we got
+
+12:53:24
+<transcript>: Okay. We got stuff to do.
+
+12:53:27
+fragaverage: That's actually not lol
+
+12:53:28
+lesabotsy: I'm not aging at all :/
+
+12:53:29
+fragaverage: He's a scammer
+
+12:53:31
+<transcript>: Stuff to do stuff to do let's do the stuff that we have to do.
+
+12:53:35
+sockthedev: you'll need to run yours on the blockchain
+
+12:53:36
+<transcript>: It's actually not okay. You're not aging. Lisa, what's the problem.
+
+12:53:37
+wizardfrag: I am not the other frag, feels weird hearing you telling him off!
+
+12:53:43
+<transcript>: Need to run yours on the blockchain.
+
+12:53:47
+<transcript>: That was a good one.
+
+12:53:52
+<transcript>: I am not the other frag feels weird hearing you tell him off. Oh, sorry.
+
+12:53:53
+focusexpert: what is he making, chat?
+
+12:53:54
+<transcript>: Wizard.
+
+12:53:54
+<transcript>: frag hencefort
+
+12:53:59
+<transcript>: Frag. Henceforth you will be known as the other frag. Okay.
+
+12:54:02
+fragaverage: The Frags are expanding
+
+12:54:02
+<transcript>: We've got wizard Frag, and we got the other frag.
+
+12:54:09
+mecoupz: wait, adam does stuff on stream? LUL
+
+12:54:09
+<transcript>: Okay. What am I doing? I got work to do. Work to do.
+
+12:54:09
+<transcript>: are we
+
+12:54:13
+<transcript>: Are we on main? Yes. Let's get pull.
+
+12:54:13
+<transcript>: let's
+
+12:54:15
+<transcript>: Let's get checkout.
+
+12:54:17
+<transcript>: B Adam.
+
+12:54:17
+<transcript>: sixes
+
+12:54:22
+sockthedev: changing copy, and writing some react components
+
+12:54:23
+teej_dv: @focusexpert neovim plugin in elixir
+
+12:54:26
+<transcript>: Sixes. We got fixes. The thing I built is done. Just got some fixes. Wait. Adam does stuff on stream. Sometimes the frags are expanding.
+
+12:54:26
+<transcript>: what
+
+12:54:28
+lesabotsy: When I buy beer cashier ask my ID, I'm 32 for god's sake and I come to the same store for years
+
+12:54:30
+<transcript>: What is he making? We're building status.
+
+12:54:38
+<transcript>: Stamps.com, Changing copy and writing some React Components teaches here neo vin plugin and elixir what.
+
+12:54:53
+<transcript>: I really do want to make a new van plugin teach have I told you what I want to make Teach? I want to make a new event plug in just for the memes. When I buy beer cashier, ask me my ID. I'm 32. That's not fun.
+
+12:54:57
+teej_dv: i don't think you told me what you wanted to make specifically
+
+12:54:58
+mecoupz: adam you should try out lazygit
+
+12:55:02
+<transcript>: Tg look young. We were talking about how old people look earlier. You look young for your age. Probably right.
+
+12:55:02
+kryotoboi: I have a ToDo list entry to add new ToDos
+
+12:55:04
+<transcript>: You seem like.
+
+12:55:04
+<transcript>: you're aging
+
+12:55:08
+<transcript>: You're aging nicely. I don't think you told me what you wanted to make specifically.
+
+12:55:10
+mecoupz: lazygit is also included in lazyvim :D
+
+12:55:12
+teej_dv: i'm 29 -- so depends how old you think i look KEKW
+
+12:55:13
+sockthedev: i've been using that tsc.nvim pluginone of your viewers dropped
+
+12:55:25
+dmmulroy: ^ <3
+
+12:55:25
+<transcript>: So tell me if this is even possible. Teach. I mean, I'm sure it's possible, but I'm probably forgetting some obvious workarounds. I want to make a plug in that doesn't allow you to delete or undo anything from the buffer. You can only add to it. Okay. So I can only move forward in the buffer and.
+
+12:55:25
+<transcript>: the reason
+
+12:55:32
+kevinnaughtonjr: i feel like teej looks younger
+
+12:55:32
+sockthedev: made me look at the code a bit more. actually looks great to write them in lua
+
+12:55:33
+<transcript>: The reason is I want to try and build like a whole app where I can't make a mistake. Like if you hit a wrong career, then you got to figure out how to make it work.
+
+12:55:33
+<transcript>: without delet
+
+12:55:37
+<transcript>: Without deleting or undoing anything. Does that make sense.
+
+12:55:41
+<transcript>: I want to call it like pain, pain. Nvim. Or something.
+
+12:55:44
+<transcript>: You're 29 so it depends on old do you think I look.
+
+12:55:45
+kampouse: syntax error doe?
+
+12:55:47
+<transcript>: You were 45 tege. I'm just kidding.
+
+12:55:47
+<transcript>: lazy
+
+12:55:47
+sockthedev: worst interview plugin ever
+
+12:55:48
+wizardfrag: emacs.nvim?
+
+12:55:54
+<transcript>: Lazygit is also included in Lazy vim. What you should try out lazy get. Oh, okay, what's that do.
+
+12:55:54
+<transcript>: you have a to do
+
+12:55:57
+<transcript>: You have a to do list entry to add new to dos.
+
+12:55:59
+teej_dv: yeah, it would be possible, but it would be kind of hard I think.
+
+12:56:05
+kevinnaughtonjr: teej i was watching one of your older vids the other day and saw long hair teej
+
+12:56:07
+kryotoboi: You mean like life ? There are no retakes NotLikeThis
+
+12:56:08
+dmdboi: "So I want to remove the ability to type in my ide"
+
+12:56:17
+<transcript>: I've been using the tsc in vim. Oh, that's the amora. Yeah, that's the amoroi. There he is. I feel like teves looks younger. Yeah. No, teg, I feel like you're going to age. We were talking about my wife. She ages very slowly. She looks ten years younger than she is. Maybe look at the code a little bit more, actually. Looks great to write them in lua.
+
+12:56:17
+<transcript>: synt
+
+12:56:21
+<transcript>: Syntax error. We have a syntax error.
+
+12:56:21
+<transcript>: in
+
+12:56:23
+<transcript>: In my code in my code.
+
+12:56:24
+teej_dv: @kevinnaughtonjr haha yeah, just felt like growing it out for awhile
+
+12:56:27
+<transcript>: Worst interview plugin ever.
+
+12:56:30
+oetziofficial: kruzSmile
+
+12:56:35
+mecoupz: lazygit: git in terminal with minimal ui and vim keybindings
+
+12:56:36
+<transcript>: Yeah, it would be possible, but it would be kind of hard, I think, oh, if tee syncs it's hard? There's no way I'm building it.
+
+12:56:36
+atleastitsmellsbig: Just add comments to remove the bad code EZ
+
+12:56:36
+2dorkstv: once you hit your 30s, everyone looks somewhere between 20 and 50, or super old
+
+12:56:43
+<transcript>: Tjo is watching one of your older vids the other day and saw Long Hair Teach. I've seen Long Hair teach.
+
+12:56:43
+mattmancodes: LUL
+
+12:56:45
+kevinnaughtonjr: beautiful locks @teej_dv i think i'm gonna go for it
+
+12:56:46
+kampouse: you can use  >>  in a file ?
+
+12:56:53
+2dorkstv: there's children, old people, and everyone else is basically the same
+
+12:56:54
+<transcript>: Okay, so I want to remove the ability to type my D not type diamond. Just go backward.
+
+12:56:54
+<transcript>: like you can't
+
+12:57:00
+<transcript>: Like you can't make a mistake. It's like high stakes programming. Like.
+
+12:57:00
+<transcript>: you could been
+
+12:57:00
+teej_dv: @kevinnaughtonjr nice! haha it was fun for awhile but i'm happy to be back with short hair i think
+
+12:57:15
+<transcript>: You could been working on this buffer for like an hour, this file that needs to exist in your app and then you make one faulty like misstep one key that you didn't mean to type. And now you either got to delete the whole buffer and start over or.
+
+12:57:28
+<transcript>: You've got to somehow insert more characters to make it work. And I think somebody said you could just comment everything out. And maybe you could just end up commenting everything out. And that's the workaround that's the hard part is thinking of how to make it.
+
+12:57:28
+<transcript>: like airt
+
+12:57:29
+<transcript>: Like airtight.
+
+12:57:29
+<transcript>: at least
+
+12:57:36
+wizardfrag: syntax errors delete the buffer?
+
+12:57:37
+<transcript>: At least it smells big. Thank you for the follow. Also Mad cucumber. I appreciate those follows.
+
+12:57:37
+<transcript>: lazy
+
+12:57:37
+dmdboi: "So why are users known as ruses?" "cant delete the spelling mistake"
+
+12:57:46
+<transcript>: Lazy get. Let's see git and terminal with minimal ui and vim key bindings. Okay. I think I did try something. Some kind of a git plug in.
+
+12:57:46
+<transcript>: in my new
+
+12:58:01
+<transcript>: In my new vim for a while, and then I just kept going back to the terminal. Just had comments to remove the bad code. Yeah. Okay. That's the thing somebody said, welcome to Chat. At least once you hit your 30s. Everyone looks somewhere between 20 and 50. We're super old. That's funny.
+
+12:58:05
+<transcript>: You can use greater greater in a file. What.
+
+12:58:05
+<transcript>: great
+
+12:58:08
+<transcript>: Greater greater in a file.
+
+12:58:08
+<transcript>: what
+
+12:58:11
+<transcript>: What? Where's? That at.
+
+12:58:17
+<transcript>: What am I doing here? Let's get into the thing I need to fix first.
+
+12:58:19
+<transcript>: Is.
+
+12:58:21
+vagorge: where does statmuse get its revenue? is it just ads?
+
+12:58:22
+<transcript>: Let's see here.
+
+12:58:37
+<transcript>: On Mobile. I need to make that sign up sign in, like a menu, like a burger icon, because that's awful. This right here, bad. We got to fix it. So let's go to sign up.
+
+12:58:39
+<transcript>: Sign.
+
+12:58:39
+<transcript>: up
+
+12:58:40
+<transcript>: Up.
+
+12:58:42
+<transcript>: Sign up.
+
+12:58:45
+<transcript>: What? Okay.
+
+12:58:45
+<transcript>: i don't know
+
+12:58:48
+<transcript>: I don't know how to use telescope.
+
+12:58:50
+<transcript>: Sign.
+
+12:58:52
+<transcript>: Up.
+
+12:58:56
+<transcript>: Anybody see the button.
+
+12:58:56
+<transcript>: the button
+
+12:58:57
+<transcript>: The button.
+
+12:58:58
+kampouse: >> is appending to file so it add stuff at the end while preserving  the text
+
+12:59:00
+<transcript>: Having a count, build email.
+
+12:59:01
+kryotoboi: I had colleague who only committed code after finishing the feature. So every feature was just 1 commit. Once he lost all the code coz his hard disk crashed, still didn't learn from it
+
+12:59:09
+<transcript>: Did you not say sign up? Sign up. Does that be capital? Oh, it's sign up. Here we go.
+
+12:59:13
+<transcript>: Root header. Here we go.
+
+12:59:13
+<transcript>: here we go
+
+12:59:15
+<transcript>: Here we go.
+
+12:59:17
+<transcript>: Yes. Found it. Okay.
+
+12:59:24
+sylverl: Hey !
+
+12:59:28
+<transcript>: How does this work? Get current user shows the avatar otherwise it shows. Oh, I thought this was like a react thing. It's not a react thing.
+
+12:59:34
+<transcript>: That puts a little damper in my plans.
+
+12:59:39
+<transcript>: Thought we rendered this whole thing in react.
+
+12:59:44
+<transcript>: Well.
+
+12:59:44
+<transcript>: changes
+
+12:59:46
+<transcript>: Changes my planes a little bit.
+
+12:59:46
+<transcript>: silver
+
+12:59:50
+<transcript>: Silver? Welcome to Chat. Hey.
+
+12:59:50
+<transcript>: silver
+
+12:59:52
+<transcript>: Silver. How are you.
+
+12:59:58
+<transcript>: Where does that music get its revenue? Is it just adds, yeah, so far the gorge just adds, but.
+
+13:00:02
+mad_cucumber: heyo!
+
+13:00:04
+<transcript>: We are adding a subscription offering like this week.
+
+13:00:07
+<transcript>: This very moment. That's what I'm doing right now.
+
+13:00:11
+<transcript>: Hey, oh, Mad cucumber. Welcome to chat.
+
+13:00:11
+<transcript>: i had a
+
+13:00:13
+rvnn: How do you do that top down video transition?
+
+13:00:18
+sylverl: @Kryotoboi some people are stubborn
+
+13:00:19
+<transcript>: I had a colleague who only committed code after finishing the feature. So every feature was just one commit once he lost all the code because his hard disk crash. Oh, no.
+
+13:00:22
+<transcript>: That's awful. That's like my nightmare.
+
+13:00:25
+ocelot2123: may I ask so who's paying you to build a feature on your own website? LUL I was so confused by you tweet
+
+13:00:29
+<transcript>: So why are users known as ruses can't delete the spelling mistake? Yeah, exactly.
+
+13:00:30
+bodhihawken: to be fair i used to do that
+
+13:00:35
+<transcript>: Okay.
+
+13:00:39
+<transcript>: I'm thinking about making this whole thing.
+
+13:00:39
+<transcript>: client side
+
+13:00:41
+<transcript>: Client side rendered.
+
+13:00:41
+<transcript>: why do i not
+
+13:00:46
+<transcript>: Why do I not want to work here, up here? Well, because it's going to be like a button.
+
+13:00:48
+<transcript>: It's going to be like.
+
+13:00:51
+<transcript>: This avatar thing right here.
+
+13:00:54
+<transcript>: It's actually just like that the avatar.
+
+13:00:59
+<transcript>: Avatar.
+
+13:01:00
+matty_twoshoes: well there go the rest of my points
+
+13:01:03
+dmdboi: Help, Im opening Android Studio again
+
+13:01:06
+<transcript>: Just like this component, it's going to be like a clickable. Oh, there's no action to use.
+
+13:01:10
+<transcript>: This thing uses redux, and it hurts my soul.
+
+13:01:10
+<transcript>: my
+
+13:01:15
+<transcript>: My soul has been damaged from redux, so this is the button.
+
+13:01:17
+<transcript>: Okay.
+
+13:01:17
+<transcript>: and right now
+
+13:01:18
+<transcript>: And right now.
+
+13:01:22
+<transcript>: It has avatar in it.
+
+13:01:24
+<transcript>: I want.
+
+13:01:24
+<transcript>: i
+
+13:01:28
+<transcript>: I want to make that a burger icon on mobile.
+
+13:01:35
+<transcript>: Well, no, I guess when you're not logged in. Yeah, I got to make this whole thing classified, rendered.
+
+13:01:39
+<transcript>: Okay.
+
+13:01:39
+<transcript>: not
+
+13:01:40
+sylverl: is it me or am I feeling a general react fatigue ?
+
+13:01:41
+mecoupz: @dmdboi alright bud see you in an hour LUL
+
+13:01:41
+<transcript>: Not extremely pleased about it.
+
+13:01:48
+<transcript>: And also is there multiple places where let's see avatar.
+
+13:01:52
+<transcript>: Fantasy Football header. Oh, no, I got to do this.
+
+13:01:57
+sylverl: @adamdotdev  I might be biased tho
+
+13:01:58
+<transcript>: Okay. Focus at them. Just got to do it. Just got to make it happen.
+
+13:02:03
+<transcript>: Just got to make it happen.
+
+13:02:11
+<transcript>: I think what I want to do is just always pass in this component.
+
+13:02:15
+<transcript>: We need to make like a fixed size.
+
+13:02:19
+<transcript>: Needs to just be a fixed size so that.
+
+13:02:28
+<transcript>: Well, no, I can't do that. I was just thinking I could avoid some of the layout shift, but can't do that.
+
+13:02:37
+<transcript>: Okay. Bummer. Bummer. This is way more work than I thought it was going to be way more. Go back home.
+
+13:02:41
+<transcript>: So there it looks fine.
+
+13:02:41
+<transcript>: because
+
+13:02:44
+<transcript>: Because there's plenty of space there.
+
+13:02:44
+<transcript>: it's just
+
+13:02:47
+<transcript>: It's just when the search bar is up there.
+
+13:02:55
+<transcript>: Like I should leave that because we've got a burger icon right here already. Oh, interesting. Yeah, it's only on.
+
+13:02:58
+<transcript>: This page.
+
+13:02:58
+<transcript>: you might
+
+13:03:10
+<transcript>: You might be biased. Is it me or am I feeling a general react? Fatigue? No, for sure. Silver. I'm so react fatigued. Manny, too. Shoes. Here. Well, there goes the rest of my points. You're going to have to stick around. Maddie.
+
+13:03:14
+thdxr: hey adam
+
+13:03:23
+thdxr: you ever say madam i’m adam to anyone
+
+13:03:26
+matty_twoshoes: oh no i need to watch you more LUL Kappa
+
+13:03:30
+trivenge: adam on that playoff rush advertisement money SeemsGood
+
+13:03:31
+<transcript>: How do you do that? Top down video transition. Oh, raven, I've got a camera on a mechanical jib that's just looping behind my monitor. It's just on a loop moving around, and I just cut to it randomly. I just have my overlays just are just doing it on an interval.
+
+13:03:31
+<transcript>: that's
+
+13:03:34
+<transcript>: That's how it works. Some people are stubborn.
+
+13:03:34
+<transcript>: may i ask so
+
+13:03:35
+mecoupz: dax is here
+
+13:03:35
+trivenge: whats good everyone?
+
+13:03:39
+dmmulroy: @teej_dv do you know if ocaml-lsp has project-wide diagnostics? Thinking about generalizing tsc.nvim and starting w/ OCaml
+
+13:03:40
+mecoupz: so this stream will be fun?
+
+13:03:41
+<transcript>: May I ask so who's paying you to build a feature on your own website? So confused by your tweet? Oh, yeah, I meant to answer somebody asked that, and I meant to answer that.
+
+13:03:42
+moussx_: Hello!
+
+13:03:46
+dmmulroy: for dune
+
+13:03:49
+thdxr: also did you see miami knocked out the #1 seed
+
+13:03:52
+<transcript>: So I work at Status now. I am a co founder. I did co found sat mews, but I am not in a leadership position anymore. I just work there. Just individual contributor.
+
+13:03:52
+<transcript>: i'm
+
+13:03:55
+<transcript>: I'm not even like an employer or an employee.
+
+13:03:56
+rvnn: Oh sweet that’s pretty unique
+
+13:03:57
+sylverl: @thdxr  HiMadamIamAdam
+
+13:03:58
+sylverl: LUL
+
+13:04:05
+<transcript>: I'm not like a full time employee. I'm a contractor. I just happen to spend all my time working on it. I'm doing full time work. But in a contract relationship.
+
+13:04:08
+<transcript>: So.
+
+13:04:13
+<transcript>: I was the cto when we started the company.
+
+13:04:13
+<transcript>: for five years
+
+13:04:14
+<transcript>: For five years.
+
+13:04:14
+trivenge: yeah heat beat out the giannis
+
+13:04:23
+cosmiclasagna: @thdxr so sad about this
+
+13:04:23
+<transcript>: And my co founder was the CEO. We parted ways after five years. He fired me. He had to. We hated each other. It was very toxic.
+
+13:04:34
+trivenge: and crew. tbh, i kind of expected that though. heat has a bit more rounded roster
+
+13:04:37
+<transcript>: We were ruining everything about the company because we hated each other. And that was just like a lot of things that built up over five years. It'll happen. It's an interesting relationship you have with your co founder, and we've known each other our whole lives. So it's like stuff that goes way back.
+
+13:04:37
+<transcript>: so after
+
+13:04:39
+<transcript>: So after five years.
+
+13:04:39
+<transcript>: we had to
+
+13:04:41
+<transcript>: We had to part ways.
+
+13:04:41
+<transcript>: and that looked like
+
+13:04:41
+thdxr: i live in miami so ha ha loooosseeerrrr
+
+13:04:46
+<transcript>: And that looked like me leaving statues. And I was gone for three years. I've just come back.
+
+13:04:46
+<transcript>: over the last
+
+13:04:51
+<transcript>: Over the last three years, our relationship has been restored. We're in a much better place now.
+
+13:04:53
+thdxr: everyone forgets about playoff jimmy
+
+13:04:53
+trivenge: oh miami must be excited lol
+
+13:04:56
+thdxr: what a monster
+
+13:05:01
+<transcript>: And he asked someone to come back and just work on stuff, not have to deal with any of the leadership side of it. Decision making. None of that. I just get to build.
+
+13:05:01
+<transcript>: so
+
+13:05:03
+cosmiclasagna: and up against new york in the next round too damn it
+
+13:05:03
+<transcript>: So in that sense.
+
+13:05:08
+<transcript>: I'm just like any other individual contributor, just because.
+
+13:05:08
+<transcript>: i own a chunk
+
+13:05:08
+matty_twoshoes: oh wow interesting. my ex-cofounder and i fought intensely when we founded, despite knowing each other for 8 years beforehand
+
+13:05:14
+<transcript>: I own a chunk of it. Doesn't make that any different. And he incentivized me to ship this thing really fast.
+
+13:05:14
+<transcript>: that's all
+
+13:05:16
+<transcript>: That's all Texas. Here.
+
+13:05:20
+trivenge: this playoff will be a good one this year
+
+13:05:23
+<transcript>: Hey, DAX.
+
+13:05:30
+<transcript>: What were you biased about? Oh, reaction, TV. I don't know. Why are you biased? Silver, do you work on something else.
+
+13:05:33
+<transcript>: Are you like maintainer of another thing.
+
+13:05:33
+<transcript>: a non react
+
+13:05:35
+<transcript>: A non react thing.
+
+13:05:38
+<transcript>: Diamond had to leave see.
+
+13:05:38
+<transcript>: you in an hour
+
+13:05:41
+<transcript>: You in an hour. Oh, you're opening Android Studio again.
+
+13:05:44
+<transcript>: So sorry.
+
+13:05:48
+nexxeln: nex is here
+
+13:05:53
+<transcript>: You ever say, madam, I'm Adam to anyone what you ever say.
+
+13:05:53
+<transcript>: madam
+
+13:06:01
+dmdboi: @mecoupz LUL
+
+13:06:02
+<transcript>: Madam, I'm Adam to anyone. I'm trying to read that sentence and make sense of it. Dax, you ever say, madam, I'm Adam to anyone.
+
+13:06:08
+<transcript>: No, I've never said that. Dax, I don't understand the sentence.
+
+13:06:08
+<transcript>: oh
+
+13:06:09
+otonpaiva_: That exactly thing happened to my friend, cofounded a company and the friendship started going to shit LUL
+
+13:06:14
+<transcript>: Oh, no, I need to watch you more. Yes, you do. Adam. On that playoff rush. Advertisement money. Yeah, exactly.
+
+13:06:16
+thdxr: madamimadam is a palindrome
+
+13:06:18
+<transcript>: Dax is here. Dex is here. What's good? Everyone. Triv is here.
+
+13:06:23
+tnkhanh: why not?
+
+13:06:31
+<transcript>: Talking about Ocamel. So this stream will be fun. Yeah, it started off. Great. Mccoups, I'm not complaining about the thing I have to do. I just thought this would be so much less work than it is. It's going to be a lot of work. Hello.
+
+13:06:37
+<transcript>: For dune. Also, did you see Miami knocked out the number one seed.
+
+13:06:37
+<transcript>: oh
+
+13:06:37
+tnkhanh: "madam, I'm Adam", you should have said that
+
+13:06:38
+trivenge: @OtonPaiva_ common sentiment
+
+13:06:39
+<transcript>: Oh, NBA playoffs.
+
+13:06:39
+<transcript>: nb
+
+13:06:41
+<transcript>: Nba playoffs.
+
+13:06:44
+<transcript>: Miami.
+
+13:06:47
+<transcript>: Ooh, they knocked out the Bucks. Wow.
+
+13:06:51
+trivenge: stress, finances, a lot of things get in the way of relationships
+
+13:06:51
+<transcript>: That's a big deal. Big deal.
+
+13:06:54
+<transcript>: Thank you for the follow Josh.
+
+13:06:57
+<transcript>: And wolfen.
+
+13:06:57
+<transcript>: yeah
+
+13:06:59
+<transcript>: Yeah, wolfham.
+
+13:07:04
+<transcript>: Hi, madam. I am Adam. What.
+
+13:07:05
+ocelot2123: @adamdotdev statmuse's tweets about jimmy butler was going pretty viral the past couple days
+
+13:07:07
+<transcript>: Heat beat out the Yanis.
+
+13:07:21
+<transcript>: Cosmics is sad about it. Crew. To be honest, I kind of expected that, though Heat has a bit more rounded roster. I live in Miami, so ha ha, lose. Everyone. Forgets about playoff Jimmy. Yeah, playoff Jimmy.
+
+13:07:25
+thdxr: i use stat muse for the first time this week to lookup that butler scored 56 points in a game lol
+
+13:07:28
+<transcript>: Let's see what a monster Miami must be excited. End up against New York in the next round.
+
+13:07:28
+<transcript>: to
+
+13:07:29
+otonpaiva_: @triveNge Yep, much more than we can expect
+
+13:07:30
+<transcript>: To the.
+
+13:07:35
+trivenge: LUL @thdxr
+
+13:07:35
+<transcript>: Nicks. The knicks won a playoff. What happened? They want a playoff series.
+
+13:07:39
+<transcript>: Since Wins is a knicks win Playoff series.
+
+13:07:39
+<transcript>: what is going
+
+13:07:41
+cosmiclasagna: @thdxr yo that was crazy
+
+13:07:49
+<transcript>: What is going on? Oh, wow. Interesting. My ex cofounder and I fought intensely when we founded, despite knowing each other for eight years beforehand. Yeah, it happens. Maddie. It's a tough thing. Building a startup.
+
+13:07:58
+<transcript>: Nexus here. I like that you led with nexus here. Next. That's awesome. It's kind of like Kiwi and kiwi's. Like, Hi, I'm Kiwi.
+
+13:07:58
+sylverl: How do you even find the energy to work on the business after that. I feel like entrepeuneuring is so draining, specialy when it doesn't work because of PEOPLE
+
+13:08:02
+cosmiclasagna: game literally only turned around in the last 5 mins
+
+13:08:13
+<transcript>: Auton. Welcome to Chat. That exactly thing happened to my friend co founder company. And the friendship started going, shit. Yeah, it does. It goes down the drain quickly, madame. I'm Adam is a palindrome. Oh, is it.
+
+13:08:21
+<transcript>: I've never said that, though. Why not? Madame? I'm Adam. You should have said that. Common sentiment.
+
+13:08:30
+<transcript>: Stress, finances, a lot of things get in the way of relationships. It's so true, Sammy just tweets about Jimmy Butler was going pretty viral the past couple of days yet.
+
+13:08:34
+<transcript>: I've never figured out on Twitter.
+
+13:08:35
+trivenge: knicks has a good young crew. jalen brunson, julius randle, rj barrett, derrick rose, josh hart and so forth
+
+13:08:37
+<transcript>: How stat muse.
+
+13:08:42
+trivenge: but they probably wont make it very far
+
+13:08:42
+toubi_: Hello from France ;)  how do you collect data like players or anything ? are you making your own data (by data scaping or ETL projects) or are you collecting data throught open APIs
+
+13:08:45
+<transcript>: Does so what people people disrespond to statue sweets. And I think it's just because they care about sports.
+
+13:08:48
+2dorkstv: It's kind of like how you shouldn't be roommates with your best friends :P
+
+13:08:48
+<transcript>: So like 11,000 likes.
+
+13:08:48
+<transcript>: it's just like an
+
+13:08:53
+<transcript>: It's just like an average Wednesday night, Tweet. You know what in the world.
+
+13:08:53
+<transcript>: it's just
+
+13:08:55
+nexxeln: is twitter time already over?
+
+13:08:57
+<transcript>: It's just a bunch of pictures. Why are these people so excited.
+
+13:08:57
+<transcript>: i mean
+
+13:09:00
+<transcript>: I mean, I'm glad that they are. It's great.
+
+13:09:13
+<transcript>: But like all these tweets get so much engagement, apparently, talk about sports. That's the secret on the Internet. Just talk about sports. I use stampings for the first time this week to look up that Butler scored 56 points in the game. Look at you, DAX.
+
+13:09:13
+<transcript>: you're officially
+
+13:09:18
+<transcript>: You're officially blue pilled, red pilled, red pilled you're a user.
+
+13:09:21
+<transcript>: Okay.
+
+13:09:24
+trivenge: statmuse dominating twitter instead of adam NotLikeThis
+
+13:09:25
+mattmancodes: "Madam, I'm Adam" is much better to say to someone than "You're fat, I'm Matt"...
+
+13:09:26
+smilingbig: KEKW
+
+13:09:27
+ocelot2123: the tweets also get cross posted to other sites like reddit r/nba I guess
+
+13:09:34
+<transcript>: Nick has a good young crew. Jalen brunson, julius randall, rj. Barrett, Derek Rose, Josh Hart, and so forth. Okay, interesting. Derek Rose is not young, right? If it's the Derek Rose, I remember.
+
+13:09:39
+fragaverage: @mattmancodes confirmed
+
+13:09:42
+thdxr: i gotta use statmuse before the immoral paywall goes up
+
+13:09:54
+<transcript>: But those rest, the rest of those guys are young. I guess I've heard of rj. Barrett and julius randall. Oh, and Josh Hart. Yeah. Okay. I know that crew. How do you even find the energy to work on the business after that? I feel like entrepreneuring is so draining, especially when it doesn't work because of people. Mostly everything in life doesn't work because of people at the end of the day. That's why it ends up not working.
+
+13:09:56
+trivenge: same d rose
+
+13:09:57
+trivenge: not young
+
+13:09:58
+<transcript>: Game literally only turned around in the last five minutes.
+
+13:10:01
+matty_twoshoes: people are the source of 99% of problems
+
+13:10:08
+<transcript>: They probably won't make it very far. Okay. Tow B. Welcome to Chat. Hello from France. How do you collect data like players or anything? Are you making your own data.
+
+13:10:14
+<transcript>: Where did it go by data scraping or etl projects? Or are you collecting data through Open APIs.
+
+13:10:14
+<transcript>: neither i
+
+13:10:15
+adamdotdev: !data
+
+13:10:16
+fossabot: StatMuse gets real-time data from SportRadar, but all the historical data was collected by Justin Kubatko, creator of Basketball-Reference.com, who worked as the lead statistician for Statmuse for several years. Read more here: https://www.statmuse.com/product/data
+
+13:10:20
+<transcript>: Neither. I don't believe here's a command for that. There's how we get our data at sammy's.
+
+13:10:20
+<transcript>: no
+
+13:10:40
+<transcript>: Nobody did that so that I had to do it. But it's okay. It's fine. Mods. It's fine. 200 skin two dorks is kind of like how you shouldn't be roommates with your best friends. Yeah. Exactly. Is Twitter time already over? No, we haven't even started. I haven't even started Twitter time. Next. I was just showing a statue suite. I really am just distracting myself because I'm really not excited about this work I'm about to do. Stan.
+
+13:10:40
+<transcript>: used dominating tw
+
+13:10:44
+<transcript>: Used dominating Twitter instead of Adam. Yeah, no, sammy's is really good at Twitter.
+
+13:10:49
+<transcript>: Okay. I'm going to stop saying the Madam thing.
+
+13:10:50
+nexxeln: https://twitter.com/nexxeln/status/1651286737321349120
+
+13:10:51
+toubi_: oh nice thanks
+
+13:10:58
+nexxeln: https://twitter.com/nexxeln/status/1651533049786699777
+
+13:11:03
+<transcript>: The tweets also get cross posted to other sites like reddit. Rnba. Yeah, the person who ran our Twitter for years, Kevin, he's still at the company, just I don't think he's doing as much as Twitter. He spent a lot of time on our NBA. He's a big figure there.
+
+13:11:05
+<transcript>: And Yeah.
+
+13:11:12
+nexxeln: okay i did my tweets
+
+13:11:14
+<transcript>: He was constantly drawing inspiration from stuff on there and then also sharing stuff on there. I got each time he's for the immoral paywall ghost moral.
+
+13:11:14
+<transcript>: same dro
+
+13:11:16
+<transcript>: Same drose. Okay.
+
+13:11:16
+<transcript>: people are the
+
+13:11:19
+<transcript>: People are the source of 99% of the problems so true.
+
+13:11:23
+laytanl_: Adam I was wondering what statmuse's approach is to SEO. Like, how do you index the search query pages when they are essentially endless and "user initiated"
+
+13:11:25
+<transcript>: Okay. Here we go. You did your Tweets next. Thank you. You're so good at Twitter.
+
+13:11:30
+<transcript>: All right, it's time to actually.
+
+13:11:30
+<transcript>: let's get
+
+13:11:36
+<transcript>: Let's get this done, avatar. This just needs to be done. Root not home.
+
+13:11:39
+<transcript>: Oh, my goodness.
+
+13:11:47
+<transcript>: Kids are jumping out of bed. Fantasy football. We have a separate fantasy football page. That's annoying. Okay, I guess it's fine.
+
+13:11:47
+<transcript>: root in
+
+13:11:49
+<transcript>: Root in.
+
+13:11:51
+<transcript>: X versus root header.
+
+13:11:54
+<transcript>: Which one is.
+
+13:12:01
+smilingbig: so when are we trying a new colourscheme?
+
+13:12:02
+<transcript>: Surprising. Oh, finance. That's finance. Okay, root header. This is the main one. This is the one I want to fix first.
+
+13:12:09
+<transcript>: Fix this one right now it's that that is going to become all client side generated stuff.
+
+13:12:12
+<transcript>: If get current user.
+
+13:12:20
+<transcript>: Okay. Now we're just going to do the avatar regardless. And instead of passing in the URL.
+
+13:12:20
+<transcript>: we're going to
+
+13:12:22
+<transcript>: We're going to pass in.
+
+13:12:23
+trivenge: everyone wants a macbook pro, and i just want one of adams keyboards SeemsGood
+
+13:12:25
+<transcript>: The user.
+
+13:12:30
+<transcript>: So I pass in the user. What do I want to pass in here.
+
+13:12:32
+trivenge: where is a channel point redemption for that?
+
+13:12:32
+thdxr: adam are you down to record today when you’re done streaming?
+
+13:12:42
+<transcript>: Adam, are you down to record today? When you're done streaming? Yes, dax, 100%. We got to do a podcast.
+
+13:12:59
+<transcript>: Adam, I was wondering what's sammy's approaches to seo like, how do you index the search query pages when they are essentially endless and user initiated? So layton, we generate a sitemap with tons of just pre generated like common stack questions. So we have this huge dynamic sitemap.
+
+13:12:59
+<transcript>: but
+
+13:13:05
+<transcript>: But then also I think Google just picks stuff up as it wants to. We have some pages.
+
+13:13:05
+<transcript>: like at
+
+13:13:07
+<transcript>: Like at the bottom of.
+
+13:13:24
+trivenge: casey neistats podcast appearance on flagrant with andrew schulz was FireSpeed sirgadRaveit pikabooFire
+
+13:13:26
+<transcript>: Every query like at the every answer there's these like here's some questions you could try as well. So those links are on every page. So it kind of sprawls out and spiders out to all these other types of questions. And then the trending is just one giant page paginated thing of everything everyone asks.
+
+13:13:26
+<transcript>: okay
+
+13:13:29
+<transcript>: Okay. So this is like as people ask questions.
+
+13:13:39
+thdxr: that site map must be massive
+
+13:13:40
+<transcript>: They show up here in this training page. So it's like one paginated list of every question. So ultimately there's links to every page scattered all over the place.
+
+13:13:40
+<transcript>: and
+
+13:13:42
+<transcript>: And that's kind of how it works.
+
+13:14:00
+<transcript>: Where is the channel point? Redemption for that. Everyone wants a macbook Pro. I just want one of adam's keyboards. Yeah. When are we trying a new color scheme? Smiling. When I build my next keyboard, I'm going to put a different color scheme on the keycaps. I think I know what koshi I'm going to use.
+
+13:14:01
+smilingbig: KEKW
+
+13:14:04
+laytanl_: So interesting
+
+13:14:10
+<transcript>: And I'm going to change my editor theme. I'm going to move away from dracula if I like the sound of this keyboard as much, if it sounds as good, I'll actually use it.
+
+13:14:14
+<transcript>: And it's a sonnet. So I like the layout and everything.
+
+13:14:14
+<transcript>: casey
+
+13:14:19
+<transcript>: Casey neistat's podcast appearance on flagrant with Andrew scholes. Was fire.
+
+13:14:21
+laytanl_: So you keep track of the most popular questions and put those in a sitemap?
+
+13:14:21
+thdxr: wow moving away from dracula?
+
+13:14:24
+<transcript>: I like Casey neistat. That sitemap must be massive. Yeah, it's huge.
+
+13:14:29
+thdxr: we got to you yesterday huh
+
+13:14:31
+<transcript>: Huge. Yeah, moving away from Jacket le yetx I think it's time I think after yesterday when you shamed me.
+
+13:14:31
+<transcript>: over using
+
+13:14:40
+ocelot2123: macbook scam getting everyone KEKW
+
+13:14:40
+daglee: Laptop? Keyboard? What I want is adams lärabars!
+
+13:14:44
+mecoupz: everyone else: yeah lets change theme. adam: changing theme? then i need to build a new keyboard
+
+13:14:46
+mecoupz: LUL
+
+13:14:47
+<transcript>: Over using dracula. I think it's time to move on. We got you. Yeah, you got to me. So you keep track of the most popular questions. Put those in the sitemap. Yeah. Layton. It's a mix of popular questions people have asked and questions we just want to make sure we index for so, like with just a bunch of common sports stats, questions.
+
+13:14:51
+<transcript>: That's basically how it works. Okay.
+
+13:14:58
+<transcript>: Same thing. I need to build new keyboards. Yeah. I'm kind of weird. Like that. I do things like that.
+
+13:15:02
+<transcript>: Oh, I'm just distracted because I want to be.
+
+13:15:02
+<transcript>: url this is
+
+13:15:04
+<transcript>: Url. This is not needed anymore.
+
+13:15:08
+<transcript>: I'm just going to remove that.
+
+13:15:21
+<transcript>: So avatar I'm going to rename that probably, but we're just going to pass in the current user somehow.
+
+13:15:23
+<transcript>: User.
+
+13:15:25
+<transcript>: Equals.
+
+13:15:30
+<transcript>: How do I want to do this.
+
+13:15:32
+laytanl_: Cool thanks!
+
+13:15:37
+<transcript>: Just user ID. Maybe just so that, you know, there is a user, because that's all it needs to know is that there is a user, right.
+
+13:15:40
+<transcript>: We don't actually have any avatars right now.
+
+13:15:44
+<transcript>: User is.
+
+13:15:51
+<transcript>: Hang on. I'm going to do this. Let's go to root controller.
+
+13:15:54
+<transcript>: Root Controller or root view.
+
+13:16:03
+<transcript>: More than one root view. Of course there is client way. Okay, this is the one. Let's just pass in.
+
+13:16:07
+<transcript>: Let's just pass in the.
+
+13:16:07
+<transcript>: user
+
+13:16:09
+<transcript>: User.
+
+13:16:09
+<transcript>: here
+
+13:16:11
+<transcript>: Here. Wait. What.
+
+13:16:16
+<transcript>: Is it in the controller? Oh, maybe it's in the controller.
+
+13:16:16
+dmdboi: I got flutter working
+
+13:16:18
+<transcript>: Root controller.
+
+13:16:19
+dmdboi: This is a great day
+
+13:16:23
+<transcript>: This is. I'm getting familiar with this code base. I'm going to never work in it again.
+
+13:16:23
+<transcript>: that's the ap
+
+13:16:26
+<transcript>: That's the api controller root controller.
+
+13:16:31
+darrenbaldwin03: Change the macbook code to be 100% just so we can be sure its not a scam
+
+13:16:33
+<transcript>: Okay. That's the one. So we're looking for.
+
+13:16:36
+<transcript>: What would it be.
+
+13:16:36
+<transcript>: petter
+
+13:16:39
+<transcript>: Petter. Html no.
+
+13:16:46
+<transcript>: Bed offers Privacy Policy slack success, support Terms of service.
+
+13:16:50
+<transcript>: Okay.
+
+13:16:54
+<transcript>: Then Where is it.
+
+13:16:54
+<transcript>: rid
+
+13:16:57
+<transcript>: Riddle me. That. Where is it.
+
+13:16:57
+<transcript>: if it's not any of
+
+13:16:59
+<transcript>: If it's not any of those places.
+
+13:17:06
+<transcript>: So what do we have here? We have render ask bar.
+
+13:17:06
+<transcript>: client
+
+13:17:08
+<transcript>: Client Home path.
+
+13:17:14
+<transcript>: This is the header. What.
+
+13:17:16
+<transcript>: Is the.
+
+13:17:20
+<transcript>: Place where we pass in stuff to it.
+
+13:17:21
+goodgrandpaa: wow, I thought the harvard cs50 free course on youtube was all hype, but I am kind of enjoying it LUL
+
+13:17:24
+<transcript>: Oh, layout. I bet it's layout. Maybe.
+
+13:17:26
+<transcript>: The layout.
+
+13:17:28
+<transcript>: Let's see.
+
+13:17:33
+cosmiclasagna: brb gonna go through meetings NotLikeThis
+
+13:17:36
+<transcript>: Header. Let's search for render header.
+
+13:17:45
+<transcript>: What about header, header. Html. There we go.
+
+13:17:47
+<transcript>: Oh, no, is it on every page.
+
+13:17:49
+<transcript>: What.
+
+13:17:52
+<transcript>: It is.
+
+13:17:55
+<transcript>: What.
+
+13:17:58
+<transcript>: This is so annoying.
+
+13:18:05
+<transcript>: Oh, it's so annoying. So I guess we're going to do this. I guess we're going to do get current user.
+
+13:18:05
+mattmancodes: haha
+
+13:18:08
+<transcript>: Okay. How about this? How about this.
+
+13:18:11
+<transcript>: What a mess.
+
+13:18:11
+<transcript>: what about
+
+13:18:13
+<transcript>: What about this.
+
+13:18:16
+<transcript>: Okay.
+
+13:18:16
+<transcript>: and then
+
+13:18:18
+nexxeln: !lurk
+
+13:18:21
+<transcript>: And then we just don't have a user on this one. So if there is no user.
+
+13:18:25
+<transcript>: But I need to set that to something.
+
+13:18:25
+<transcript>: how do i set that
+
+13:18:28
+<transcript>: How do I set that to something.
+
+13:18:30
+<transcript>: Lurk away people lurk away.
+
+13:18:30
+<transcript>: i'm
+
+13:18:36
+<transcript>: I'm deep in thought I'm getting lost in this code let's see.
+
+13:18:47
+<transcript>: I got flutter working. Great day. All right, diamond. I'm hoping my day is going to turn around here soon. Change the macbook code to be 100% just so we can be sure it's not scanned. Good idea, Darren.
+
+13:18:51
+<transcript>: Okay.
+
+13:18:54
+<transcript>: I don't love this.
+
+13:18:54
+<transcript>: i don't know
+
+13:18:56
+<transcript>: I don't know what to do here.
+
+13:19:01
+<transcript>: I'm going to just do it like this.
+
+13:19:04
+<transcript>: Like this user.
+
+13:19:06
+<transcript>: We're going to say.
+
+13:19:17
+<transcript>: Get current user.
+
+13:19:20
+<transcript>: Current user.
+
+13:19:23
+reggie_dev: Would you say you're passionate about sports and sports data or more just a "job" for you?
+
+13:19:23
+<transcript>: On and I'm going to say.
+
+13:19:29
+<transcript>: Is it just going to stringify it? Will that work? Maybe.
+
+13:19:32
+<transcript>: That'll work.
+
+13:19:35
+<transcript>: Let's try it.
+
+13:19:35
+<transcript>: what's that
+
+13:19:37
+<transcript>: What's that do.
+
+13:19:42
+<transcript>: It's going to pass in.
+
+13:19:50
+<transcript>: Is it going to break? It did not break. Okay, so I wonder what it looks like. Let's see, what did it pass into user.
+
+13:19:54
+<transcript>: Avatar, user.
+
+13:20:00
+<transcript>: So it's undefined or something. It couldn't serialize it.
+
+13:20:10
+<transcript>: Reggie I used to be pretty passionate about sports. I think Stapmy's kind of burned me out if I'm being honest.
+
+13:20:14
+<transcript>: I think I kind of got burned out after five years at stat, muse.
+
+13:20:14
+<transcript>: so yeah
+
+13:20:17
+<transcript>: So yeah, not as into sports these days.
+
+13:20:32
+<transcript>: But I mean, I still love samus. It's still kind of like sometimes I get lost just searching a bunch of stuff, just like the first day when we first built it. My co founder and I really struggled to get stuff done because we just played with it so much. It was like, so fun to ask all these questions.
+
+13:20:40
+<transcript>: There wasn't really a way or a tool that you could do the kind of things you could with stabilize where you could just so quickly get answers to stuff.
+
+13:20:40
+<transcript>: so we just like
+
+13:20:40
+dnbull: im just happy the miami heat smacked the bucks last night :D
+
+13:20:50
+<transcript>: So we just, like, would get lost on it. And it'd be hard to build new features because we'd just be playing with it. I'm just happy the Miami Heat smacked Bucks last night. I can't believe the Heat beat the Bucks.
+
+13:20:51
+bodhihawken: Lol, im having to localise our currency stuff for Indonesia, our UI design was not built for 6 zeros XD
+
+13:20:56
+<transcript>: Okay.
+
+13:20:59
+<transcript>: So if you're not logged in.
+
+13:21:03
+dnbull: no one ever believes in the heat besides miami people LUL
+
+13:21:05
+<transcript>: It still passes user so that's not going to work. I got to somehow extract.
+
+13:21:12
+<transcript>: How can I safely.
+
+13:21:12
+<transcript>: i need
+
+13:21:14
+<transcript>: I need to safely.
+
+13:21:17
+<transcript>: Access.
+
+13:21:22
+<transcript>: Like the ID or something.
+
+13:21:26
+<transcript>: Let's do the ID.
+
+13:21:26
+<transcript>: this
+
+13:21:26
+trivenge: my friend suggests that the section 174 tax change this year asserting that all SWE's are R&E is a large part responsible for the massive layoffs due to larger incoming tax bills now and into the future unless fixed. anyone know much on this?
+
+13:21:28
+<transcript>: This isn't going to work.
+
+13:21:30
+<transcript>: If you're not logged in, is it.
+
+13:21:32
+<transcript>: Is it.
+
+13:21:38
+<transcript>: Does the front end have any awareness of a user? Does it know if you're logged in? That's the question.
+
+13:21:39
+smilingbig: catJAM
+
+13:21:43
+<transcript>: That's the question.
+
+13:21:43
+<transcript>: avat
+
+13:21:46
+<transcript>: Avatar user, okay, it didn't break.
+
+13:21:46
+<transcript>: now if
+
+13:21:49
+<transcript>: Now if I log in.
+
+13:21:53
+<transcript>: If I log in.
+
+13:21:55
+<transcript>: Sign up.
+
+13:21:58
+<transcript>: Or actually sign in.
+
+13:22:06
+<transcript>: Let's see here.
+
+13:22:14
+<transcript>: I log in.
+
+13:22:14
+<transcript>: does the user
+
+13:22:16
+<transcript>: Does the user.
+
+13:22:21
+<transcript>: What does it get? Pass? S is it passy ID.
+
+13:22:29
+<transcript>: Aha, wait. Url. What? Yeah. We're on the wrong page. Those points in a game. It'd be on this page.
+
+13:22:34
+<transcript>: So that's where it broke.
+
+13:22:38
+<transcript>: Okay.
+
+13:22:38
+<transcript>: mot
+
+13:22:41
+<transcript>: Mothra, fetch, username.
+
+13:22:43
+<transcript>: Fetch, what.
+
+13:22:47
+<transcript>: Sign in token. Created.
+
+13:22:52
+moussx_: @triveNge Did that tax change also trigger the -40% of tech valuation that happened over the last 12/15 months?
+
+13:22:53
+<transcript>: So it couldn't access.
+
+13:22:54
+<transcript>: Id.
+
+13:23:01
+<transcript>: Is there not an ID on it? Do I need to do like username? Maybe I'll do username.
+
+13:23:04
+<transcript>: Just try that just in case.
+
+13:23:12
+<transcript>: Or maybe I need to do dot notation. I don't know. Maybe map get. I don't know.
+
+13:23:28
+trivenge: besides manager hiring, and reducing costs, it could be a contributing factor at least
+
+13:23:29
+<transcript>: My friend suggests that the Section 174 tax change this year, asserting that all software engineers are rne is a large part responsible for the massive layoffs due to larger incoming tax bills now and into the future unless fixed. I don't know anything about that. That sounds bad. Is that why everybody got wrecked by taxes.
+
+13:23:35
+<transcript>: My Twitter timeline was full of people being like getting wrecked this year.
+
+13:23:37
+<transcript>: User fetch.
+
+13:23:43
+<transcript>: So why can't I do that.
+
+13:23:45
+<transcript>: Access.
+
+13:23:52
+<transcript>: Can I do.
+
+13:23:55
+darrenbaldwin03: I didnt get wrecked -- legit got 3k in tax returns this year lmao
+
+13:23:55
+<transcript>: Atom like that.
+
+13:23:58
+<transcript>: Do that.
+
+13:24:07
+<transcript>: Did that tax change also trigger the 40% of Tech valuation that happened over the last twelve to 15 months.
+
+13:24:07
+<transcript>: oh the minus
+
+13:24:09
+<transcript>: Oh, the -40%.
+
+13:24:09
+<transcript>: yeah
+
+13:24:19
+<transcript>: Yeah, that's the thing too. Besides manager hiring and reducing cost, it could be contributing factor. At least I didn't get wrecked. Legit got 3000 tax returns this year. Interesting, Darren. Yeah, I heard a lot of people the other way.
+
+13:24:19
+<transcript>: like got hamm
+
+13:24:23
+<transcript>: Like got hammered. I didn't get any. I don't think I got hammered.
+
+13:24:29
+<transcript>: I have a weird tax situation this year because of all the solar.
+
+13:24:34
+<transcript>: So why can't I why can't I access a property on it.
+
+13:24:34
+<transcript>: riddle
+
+13:24:38
+<transcript>: Riddle me this. Why can't I do that.
+
+13:24:38
+<transcript>: i do
+
+13:24:40
+<transcript>: I do this.
+
+13:24:43
+<transcript>: Can I do that.
+
+13:24:47
+<transcript>: The current user, username.
+
+13:24:55
+<transcript>: Come on.
+
+13:24:55
+<transcript>: oh this sucks
+
+13:24:57
+<transcript>: Oh, this sucks.
+
+13:24:59
+<transcript>: Doesn't look good on mobile.
+
+13:24:59
+<transcript>: and it's going to take
+
+13:25:01
+<transcript>: And it's going to take, like all day.
+
+13:25:03
+<transcript>: Oh, it worked.
+
+13:25:03
+<transcript>: what
+
+13:25:10
+<transcript>: What did I do? I did username, and it worked. Okay, inspect. Let's see what it looks like.
+
+13:25:14
+<transcript>: Yeah? User Adam. Perfect.
+
+13:25:14
+<transcript>: okay and then
+
+13:25:17
+<transcript>: Okay. And then if user is.
+
+13:25:20
+<transcript>: Undefined. Does it still work.
+
+13:25:20
+<transcript>: most
+
+13:25:22
+<transcript>: Most points in a game.
+
+13:25:22
+<transcript>: does this still work
+
+13:25:23
+<transcript>: Does this still work.
+
+13:25:26
+<transcript>: No. Now it doesn't work.
+
+13:25:26
+<transcript>: on no
+
+13:25:29
+<transcript>: On no user cool.
+
+13:25:31
+<transcript>: Exciting.
+
+13:25:36
+<transcript>: I at least know how to solve this.
+
+13:25:36
+<transcript>: it's with
+
+13:25:39
+<transcript>: It's with the big if block.
+
+13:25:45
+<transcript>: This is going to be so ugly. Just ignore how ugly this is.
+
+13:25:45
+<transcript>: and
+
+13:25:46
+<transcript>: And.
+
+13:25:46
+<transcript>: it has actual
+
+13:25:51
+<transcript>: It has actual runtime implications as well. Ignore it. It's not the most efficient.
+
+13:25:51
+<transcript>: it's not
+
+13:25:53
+<transcript>: It's not great, but.
+
+13:25:53
+<transcript>: this is what
+
+13:25:58
+<transcript>: This is what I'm doing, okay? This is what I'm doing, because I don't know how to set that to a variable.
+
+13:26:02
+<transcript>: Can I just say like equals user.
+
+13:26:02
+<transcript>: just
+
+13:26:06
+<transcript>: Just do that and then it's set to user.
+
+13:26:11
+<transcript>: Can I do that? Anybody know.
+
+13:26:14
+<transcript>: This one is going to have no user.
+
+13:26:22
+<transcript>: Just like that. I don't know if I can set that to user or not.
+
+13:26:26
+<transcript>: Do that. How could I say.
+
+13:26:26
+<transcript>: i want
+
+13:26:28
+<transcript>: I want to run git current user.
+
+13:26:28
+<transcript>: in this
+
+13:26:30
+<transcript>: In this template.
+
+13:26:35
+<transcript>: I want to run git current user that's fine.
+
+13:26:35
+<transcript>: it's fine
+
+13:26:40
+<transcript>: It's fine. I'm doing it twice. Whatever. I don't care.
+
+13:26:40
+<transcript>: doing it tw
+
+13:26:43
+<transcript>: Doing it twice. If it's not nil, do it again.
+
+13:26:43
+<transcript>: cool
+
+13:26:44
+<transcript>: Cool.
+
+13:26:48
+<transcript>: That should work in both cases.
+
+13:26:51
+<transcript>: Okay, nobody's won the macbook yet.
+
+13:26:51
+<transcript>: i
+
+13:26:55
+<transcript>: I feel like it's coming. It's got to be coming, right.
+
+13:27:00
+mecoupz: macbook is a scam
+
+13:27:01
+<transcript>: It's got to be coming.
+
+13:27:03
+<transcript>: Okay.
+
+13:27:06
+<transcript>: So is there currently.
+
+13:27:08
+<transcript>: Inspect.
+
+13:27:08
+<transcript>: currently no
+
+13:27:08
+nexxeln: scam for sure
+
+13:27:10
+shakenbakehd: macbook code is still bugged Kappa
+
+13:27:11
+<transcript>: Currently no user are we logged in or out? We're logged out.
+
+13:27:12
+laytanl_: Teej won it but got scammed
+
+13:27:15
+trivenge: six years laterrrrr
+
+13:27:16
+trivenge: LUL
+
+13:27:18
+<transcript>: If we log in should still work. Do I need to test it? Let's test it.
+
+13:27:18
+<transcript>: sign
+
+13:27:20
+<transcript>: Sign in.
+
+13:27:22
+mecoupz: dax confirmed that it is a scam
+
+13:27:23
+<transcript>: One more.
+
+13:27:26
+<transcript>: Dev.
+
+13:27:26
+<transcript>: tge one
+
+13:27:27
+trivenge: !macbook
+
+13:27:28
+<transcript>: Tge one if we got scanned. No, he didn't.
+
+13:27:28
+<transcript>: shake
+
+13:27:34
+<transcript>: Shake and Bake MacBook code is still bugged. It's never been bugged scam for sure. You guys.
+
+13:27:36
+levidayne: Goes to dev/null I heard
+
+13:27:37
+<transcript>: Text confirmed that it's a scam. It's a scam to DAX.
+
+13:27:37
+<transcript>: he confirmed
+
+13:27:41
+<transcript>: He confirmed that in his own brain, it's a scam.
+
+13:27:41
+trivenge: dang i thought it used to say scam
+
+13:27:43
+<transcript>: Scam.
+
+13:27:43
+tayloreddev: i've a better chance of winning the UK lottery
+
+13:27:44
+trivenge: !scam
+
+13:27:46
+daglee: "Coming", classic scammer tactic.
+
+13:27:46
+<transcript>: Okay.
+
+13:27:49
+<transcript>: Going to have to ask a question again.
+
+13:27:53
+<transcript>: Okay.
+
+13:27:58
+<transcript>: Works when we're logged in Works when we're logged out.
+
+13:28:07
+<transcript>: I'm just realizing something though. I'm going to have to copy the avatar component. This is going to be some messy, but I just don't care.
+
+13:28:07
+<transcript>: avatar
+
+13:28:09
+<transcript>: Avatar user Adam perfect.
+
+13:28:09
+<transcript>: we're
+
+13:28:12
+<transcript>: We're going to copy it and leave the existing behavior.
+
+13:28:18
+warrenbuffering: Damn y'all, it's too early to go this hard with the troll. Haven't even finished my coffee yet
+
+13:28:18
+<transcript>: I'm going to leave the existing behavior for the home page and the other places that I don't need to change this.
+
+13:28:21
+<transcript>: This is so ugly.
+
+13:28:25
+5hakershaker: hi, what made you use elixir for a startup in 2014? don't want to distract you so you can aswer in 1 or 2 sentences thanks!
+
+13:28:26
+<transcript>: Taylor's here. I have a better chance of winning the UK Lottery. No, you don't.
+
+13:28:26
+<transcript>: ghost
+
+13:28:28
+<transcript>: Ghost to dev Knoll.
+
+13:28:33
+trivenge: @TayloredDev LUL
+
+13:28:36
+<transcript>: Warren is here and Dagley.
+
+13:28:36
+<transcript>: classic
+
+13:28:43
+shakenbakehd: !elixir
+
+13:28:44
+fossabot: Statmuse uses Elixir because an early engineer particularly enjoyed it. It's a great language and an intro to functional programming so you should check it out https://elixir-lang.org/
+
+13:28:44
+mecoupz: there is an elixir code here that explains it
+
+13:28:47
+<transcript>: Classic skimmer tactic. It's too early to get this hard with the troll. Haven't even finished my copy yet. Exactly. Shaker, shaker. Welcome to Chat. Hi. What made you use elixir for a startup.
+
+13:28:47
+<transcript>: in two thousand and
+
+13:28:55
+<transcript>: In 2014. Don't want to distract you so you can answer in one or two sentences. Thanks. I think we even have an elixir command. We do. There you go.
+
+13:28:55
+<transcript>: there
+
+13:29:00
+<transcript>: There it is. Didn't even have to. Didn't even have to say words. Okay.
+
+13:29:05
+<transcript>: So I'm going to copy the avatar component, and we're going to make a new component.
+
+13:29:08
+<transcript>: That's just like the avatar component.
+
+13:29:08
+dmdboi: "An early engineer enjoyed it" and now we're subjected to it
+
+13:29:11
+<transcript>: But.
+
+13:29:12
+<transcript>: At different.
+
+13:29:13
+tayloreddev: well i won something last night and have yet to win a macbook these stats don't lie LUL
+
+13:29:15
+<transcript>: So we're going to say this one's going to be called.
+
+13:29:21
+<transcript>: Write menu.
+
+13:29:25
+<transcript>: Don't judge me don't judge me terrible name.
+
+13:29:31
+nexxeln: sorry im not moderating im working peepoSad
+
+13:29:39
+<transcript>: But it's going to work. We're going to make it work for us again. This is a dying code base. We're literally getting rid of this code base. I'm rewriting it. I'm almost done rewriting it. This all feels.
+
+13:29:39
+<transcript>: very
+
+13:29:43
+<transcript>: Very okay if you'll find doing this.
+
+13:29:44
+<transcript>: Write menu.
+
+13:29:48
+<transcript>: Okay. So this is a right menu and.
+
+13:29:48
+<transcript>: this one
+
+13:29:49
+trivenge: no worries
+
+13:29:49
+twistedseed: touch typing I see
+
+13:29:50
+<transcript>: This one.
+
+13:29:55
+<transcript>: The engineer enjoyed it. Now we're subjected to it.
+
+13:29:57
+<transcript>: That's funny.
+
+13:29:57
+<transcript>: one something last
+
+13:30:01
+<transcript>: One something last night and have yet to win a MacBook these steps.
+
+13:30:01
+<transcript>: it
+
+13:30:05
+<transcript>: It's okay. Next work away. You got work to do.
+
+13:30:05
+<transcript>: red st
+
+13:30:08
+<transcript>: Red stone. Thank you so much for the follow.
+
+13:30:11
+<transcript>: Touch typing. I see what's touched. Typing.
+
+13:30:22
+<transcript>: Is touch driving. This is the one that I'm always like, wait, there's actually a word for that. It's just typing, right? Like, just typing without looking.
+
+13:30:24
+<transcript>: That just typing.
+
+13:30:27
+<transcript>: Is it normal to look when you type.
+
+13:30:27
+<transcript>: i'm going to
+
+13:30:34
+<transcript>: I'm going to describe this to me, and I was very surprised that there's a name for it. I thought it was just that's like, you know, how to type.
+
+13:30:35
+warrenbuffering: YOU USE HOME ROW?!?
+
+13:30:35
+2dorkstv: I think it has to do with how hard you press the keys
+
+13:30:38
+<transcript>: And if you're a programmer and you type all day.
+
+13:30:38
+<transcript>: use
+
+13:30:40
+<transcript>: Use Homero.
+
+13:30:44
+<transcript>: Isn't that just the default assumption that we all know how to type.
+
+13:30:51
+dnbull: im saving up my points to meet 1on1 with adam :D  20k more to go
+
+13:30:53
+<transcript>: Are people teaching people they don't need to know how to type. I see this like I see people say, like, hey, as a programmer, you should learn how to type good. And people get all upset.
+
+13:30:53
+<transcript>: who's teaching
+
+13:30:55
+daglee: Touch typing is not looking and using all fingers.
+
+13:30:56
+<transcript>: Who's teaching people you don't need to know how to type.
+
+13:30:56
+<transcript>: that's all we do
+
+13:30:57
+laytanl_: You use fingers???
+
+13:31:01
+trivenge: what keyboard does dax use?
+
+13:31:07
+thdxr: a better one
+
+13:31:08
+<transcript>: That's all we do. It's literally the only physical manifestation of our work. Unless you count all the chemical stuff going on in our brain. It's like our keys being pressed by our fingers. That is what we do for a living. So of course, you should learn how to type.
+
+13:31:10
+warrenbuffering: Probably @theo
+
+13:31:12
+looch94: I thought touch typing meant using all fingers
+
+13:31:16
+<transcript>: Two dorks I think it has to do with how hard you press the keys? Oh, really? Saving up my points to meet one on one with Adam.
+
+13:31:16
+<transcript>: twenty thousand
+
+13:31:23
+<transcript>: 20,000 more. That's not too far. Looking forward to it. Dean Bull, you'll be the first touch. Typing is not looking and using all fingers.
+
+13:31:23
+<transcript>: you use
+
+13:31:24
+trivenge: is it one of those logitech ones? @thdxr
+
+13:31:26
+<transcript>: You use fingers.
+
+13:31:26
+type_typescript: hello my friend. it's not too late to rewrite this in typescript
+
+13:31:30
+<transcript>: Keyword is actually is a better one that's funny.
+
+13:31:30
+<transcript>: so i touch typ
+
+13:31:32
+<transcript>: So I touch typing that loot using all fingers.
+
+13:31:34
+thdxr: mxkeys
+
+13:31:37
+<transcript>: Wait. Of course. Yeah. What other fingers? Why would I not use all my fingers.
+
+13:31:37
+<transcript>: is it
+
+13:31:47
+<transcript>: Is it one of those Logitech ones? Welcome to chat type typescript. Hello, my friend. It's not too late to rewrite this in typescript. We are rewriting it in typescript. Actually.
+
+13:31:47
+<transcript>: we're rewriting
+
+13:31:49
+<transcript>: We're? Rewriting an Astro.
+
+13:31:54
+<transcript>: Or you mean like these specific components, these javascript components because I'm not rereading those.
+
+13:31:54
+<transcript>: i'm not
+
+13:31:59
+thdxr: a lot of dummies are replying to my thread help
+
+13:32:00
+<transcript>: I'm not rewriting these because this code base is dead. We're not maintaining it. It's being replaced.
+
+13:32:00
+<transcript>: okay
+
+13:32:01
+laytanl_: JavaScript NotLikeThis NotLikeThis
+
+13:32:01
+2dorkstv: You'd be surprised how many folks don't use all their fingers. I've met devs that hit backspace with their index finger 0_o
+
+13:32:04
+trivenge: do you like mxkeys because you enjoy laptop keys?
+
+13:32:07
+<transcript>: Okay. Menu button. So here's what we need to do on this one. There's going to be a prop. It's going to be called user.
+
+13:32:08
+type_typescript: i actually meant the whole app
+
+13:32:09
+looch94: I don’t use my pinkie when I type
+
+13:32:15
+<transcript>: A lot of dummies were applying to my thread help. Oh, yeah. Can you paste your thread in here? And we'll do Twitter time. I got to eat my alarm. Hungry.
+
+13:32:17
+kenrick_codes: why replace?
+
+13:32:23
+adamdotdev: !rewrite
+
+13:32:24
+<transcript>: Ken Rick, Why replace? Did I do? Did I do a command for this.
+
+13:32:28
+<transcript>: We get this question a lot, too. It's kind of a long story.
+
+13:32:28
+<transcript>: but
+
+13:32:34
+trivenge: i dont use my pinky, which is a scam
+
+13:32:40
+<transcript>: But we started this code base, like, seven years ago, and it's just time to start over. No one really has familiarity with elixir in the in the company, like, we do it. We do what we have to, but we're not really elixir Dev.
+
+13:32:48
+laytanl_: @thdxr I got so many replies to my tweet about auth, touchy subject
+
+13:32:50
+<transcript>: So we're rewriting it in astro. It's also just like the perfect fit for astro. We could have built it in php. That'd also be a perfect fit. It's like thousands, millions of pages, even.
+
+13:32:50
+<transcript>: but not a lot
+
+13:32:54
+<transcript>: But not a lot of interactivity, not a lot of client side interactivity.
+
+13:32:55
+trivenge: except pinky is used for like shift and so forth
+
+13:32:57
+<transcript>: Don't use my pinky, which is a scam.
+
+13:33:09
+<transcript>: Off of the touch subject. Somebody link dax's thing. Actually, I have to pee. I have to pee. I have to eat my lara bar. We got to talk about some tweets. There's just so much to do.
+
+13:33:09
+<transcript>: and i
+
+13:33:12
+<transcript>: And I actually have a lot of work to do as well.
+
+13:33:12
+<transcript>: which
+
+13:33:14
+thdxr: wait adam i found some issues with statmuse
+
+13:33:15
+<transcript>: Which all of this sums up.
+
+13:33:15
+<transcript>: to
+
+13:33:19
+<transcript>: To I don't know got to get focused I'll be back got a peek.
+
+13:33:19
+<transcript>: i can't ever
+
+13:33:19
+kevinnaughtonjr: adam is BUSY
+
+13:33:21
+trivenge: POGGERS
+
+13:33:22
+<transcript>: I can't ever find my button anymore. There it is.
+
+13:33:24
+thdxr: not issues just minor annoyances
+
+13:33:27
+laytanl_: https://twitter.com/LaytanL_/status/1650870496194449408?t=5o4BnkWiJa4xws02zhLGow&s=19
+
+13:33:27
+dmdboi: I always role my own auth, people send me their email and password and I mail them their cookie back
+
+13:33:32
+type_typescript: !rewrite
+
+13:34:17
+laytanl_: https://twitter.com/thdxr/status/1651563194505125890?t=ZUVb2QwrY2G5lO7H5INsKw&s=19
+
+13:34:33
+dingusdev: @dmdboi should mail them a fortune cookie with the auth cookie inside.
+
+13:35:47
+dmdboi: @dmdboi Thats for people who log in with a social account
+
+13:36:42
+dmdboi: chat threads suck
+
+13:37:58
+grasp5533: Adam, thanks for raiding my friend the other day.  It made his day.
+
+13:38:01
+<transcript>: Still got more in there? Are we going to do Twitter time? Let's do Twitter time? Who's got tweets.
+
+13:38:07
+<transcript>: Who's got tweets for me to read. There's been some pasted in there, right.
+
+13:38:07
+<transcript>: did i miss anything
+
+13:38:10
+<transcript>: Did I miss anything? I always roll my own auth.
+
+13:38:10
+<transcript>: people send me
+
+13:38:15
+<transcript>: People send me their email and password, and I mail them their cookie bag.
+
+13:38:19
+<transcript>: Not issues. Just minor annoyances. Adam is busy.
+
+13:38:19
+<transcript>: you found
+
+13:38:29
+dmdboi: Can I share my own tweets? LUL
+
+13:38:30
+schrew: Twitch really did us a solid by making any thread with length > 2 just completely not work. Means that no one uses them! Awesome
+
+13:38:30
+<transcript>: You found some issues with samuels. There are a lot of issues with stat muse. It's kind of hilarious, actually, to look at some of the things on Satmi's, knowing how many people use it every day.
+
+13:38:37
+<transcript>: Like just like the menu is awful. It's bad. Just like basic. Easy to fix stuff too.
+
+13:38:42
+nexxeln: twitter time lets goo
+
+13:38:43
+<transcript>: I got so many replies from a tweet. Talk about that except Pinky.
+
+13:38:46
+<transcript>: What are the issues.
+
+13:38:48
+emerycik: How to you rate Astro? How is it different than NextJS / Remix?
+
+13:38:51
+<transcript>: What are they, dax? That you found? Let's see. Rewrite.
+
+13:38:52
+tobs_on_twitch: I got a tweet! https://twitter.com/Purple_Elf/status/1651047386909745153
+
+13:38:53
+nexxeln: i have to go in 3 minutes
+
+13:38:55
+<transcript>: That's for people who log in with a social account.
+
+13:38:55
+<transcript>: what was
+
+13:38:59
+<transcript>: What was that about? Always. Rome. Oh, Yeah.
+
+13:39:06
+<transcript>: Chat threads suck. Adam, thanks for rating, my friend the other day. May this day I'm so glad grasped he seemed great.
+
+13:39:08
+sockthedev: imagine a statmuse user lands in here complaining
+
+13:39:18
+thdxr: in statmuse if you go to different tabs the state of that isn’t in the url so i can’t deep link
+
+13:39:19
+laytanl_: @nexxeln you working alongside college?
+
+13:39:20
+<transcript>: Enjoyed rating him. Can I share my own Tweets? Yeah, go for it, Dimend. That's what it's for. Twitch really did us a solid by making any thread with link greater than two. Just completely not work means that no one uses them. Awesome.
+
+13:39:21
+thdxr: please fix
+
+13:39:23
+climbingdev: Hi Adam, hi all!
+
+13:39:27
+<transcript>: Any thread with length greater than two, why don't they work now.
+
+13:39:28
+mecoupz: @Emerycik probably not so toxic like the Remix guys. they're pretty toxic...
+
+13:39:33
+<transcript>: Twitter Time. Let's go. How do you rate Astro? How's it different than Next js remix So Astro.
+
+13:39:33
+<transcript>: i love
+
+13:39:38
+<transcript>: I love, I love astro here's the reasons I love astro one.
+
+13:39:38
+<transcript>: it's super
+
+13:39:40
+<transcript>: It's super easy to deploy.
+
+13:39:42
+dmdboi: https://twitter.com/Dmdboi/status/1651274395015614464?cxt=HHwWgMDU2YfUwOotAAAA
+
+13:39:45
+nexxeln: @laytanl_ college hasn't started yet!
+
+13:39:47
+<transcript>: It just deploys anywhere. They've got adapters for everything. It just plugs into the modern ecosystem. So, well.
+
+13:39:47
+<transcript>: two
+
+13:39:49
+dmdboi: It's free promotion
+
+13:39:55
+<transcript>: Two. It fits the sat me's use case perfectly. So I'm obviously a little biased by that. It's hard for me, not.
+
+13:39:55
+<transcript>: to
+
+13:40:01
+<transcript>: To love it right now, because it fits exactly what status is, which is like.
+
+13:40:01
+<transcript>: again
+
+13:40:03
+<transcript>: Again, lots of pages.
+
+13:40:05
+<transcript>: There's not a lot of interactivity.
+
+13:40:06
+laytanl_: @nexxeln Ah so like an inbetween job?
+
+13:40:08
+grasp5533: I just built my website in Astro and it was pretty awesome to use.
+
+13:40:09
+<transcript>: And so I'm not building a spa. I'm just building like Wikipedia.
+
+13:40:09
+<transcript>: and
+
+13:40:17
+<transcript>: And astro is great for that. Just like PHP would be my favorite part though, and the way it's different the most from next Jason remix aside from.
+
+13:40:17
+<transcript>: like
+
+13:40:24
+<transcript>: Like it's not really for spas that's like next year's remix are better for client side reactivity stuff.
+
+13:40:24
+<transcript>: aside
+
+13:40:28
+nexxeln: no im working on a personal project lol @laytanl_
+
+13:40:33
+<transcript>: Aside from that difference, my favorite part is the part where it's not pretentious. It's like the most approachable group of people in technology you've ever used.
+
+13:40:33
+<transcript>: it's just
+
+13:40:37
+<transcript>: It's just fun. It's friendly.
+
+13:40:39
+<transcript>: It doesn't think it's Apple.
+
+13:40:42
+<transcript>: It's. This. I love it. Okay.
+
+13:40:42
+<transcript>: you got
+
+13:40:44
+laytanl_: Oh lol
+
+13:40:48
+<transcript>: You got a Tweet tabs? Hello, Climbing dev. Welcome to my chat.
+
+13:40:48
+<transcript>: imagine
+
+13:40:51
+nexxeln: @adamdotdev youre gonna love my tweet
+
+13:40:53
+<transcript>: Imagine. Let's see. I have to go in three minutes. No. Next, you have to go in three minutes. Twitter time. Let's go. Twitter time.
+
+13:40:59
+<transcript>: Twitter Time. Here we go. Let's go. It's Twitter Time. Sorry. Next.
+
+13:41:00
+<transcript>: imagine
+
+13:41:03
+<transcript>: Imagine a status user lands in here complaining.
+
+13:41:09
+<transcript>: In stammies if you go to different tabs the state of that isn't in the URL so I can't deep link.
+
+13:41:09
+<transcript>: if you go to
+
+13:41:11
+<transcript>: If you go to different tabs.
+
+13:41:11
+<transcript>: the
+
+13:41:15
+sockthedev: subtweet dax
+
+13:41:19
+<transcript>: The state of that. Oh, yeah, that's actually fixed in the rewrite. Dax. I fix it in astro. I already did. Honestly, I really did.
+
+13:41:23
+<transcript>: Smiley Bags thank you for the follow.
+
+13:41:23
+<transcript>: you
+
+13:41:36
+redstonebr: I'm new here and I'm loving the transitions. Great job
+
+13:41:39
+<transcript>: You're working alongside College police. Okay, let's just keep going. Let's just read these. Here we go. I'm going to love your Tweet. Next js framework vibe. Check. View next Wizards or View nux Wizards astro, fun and friendly. That's exactly right. Solid nerdy.
+
+13:41:39
+<transcript>: smelt cool
+
+13:41:41
+<transcript>: Smelt, Cool, kids.
+
+13:41:41
+<transcript>: i love
+
+13:41:45
+sockthedev: solid -> 🤓
+
+13:41:46
+<transcript>: I love that you didn't include yes don't ask me about react.
+
+13:41:46
+<transcript>: love it
+
+13:41:47
+sockthedev: nailed it
+
+13:41:49
+<transcript>: Love it. I love it so much.
+
+13:41:51
+smilingbig: KEKW part of the smile family
+
+13:41:55
+<transcript>: It's so good. That was my first thought. Was like, I love leaving react out of this. It's the best.
+
+13:41:55
+<transcript>: like no react no
+
+13:41:57
+nexxeln: LUL
+
+13:41:59
+<transcript>: Like no react, no. Next. And then you had the Tweet. That's so good. I love it.
+
+13:42:05
+thdxr: i don’t agree
+
+13:42:08
+<transcript>: Oh, that's a good tweet. I wish I didn't open in this browser because I'm not logged into this one so I can't like anything. Let's just do this. I'm bringing this one over here.
+
+13:42:09
+thdxr: i’m the coolest engineer
+
+13:42:12
+<transcript>: I got to like it. It's too good to not like it.
+
+13:42:12
+jokestera_e: Good Morning
+
+13:42:15
+thdxr: and i use solid
+
+13:42:22
+<transcript>: 's funny. Okay. I'm glad you got to be here for that. Next. This is funny to me than it should be.
+
+13:42:26
+<transcript>: What.
+
+13:42:31
+<transcript>: Oh, out of order, like did the.
+
+13:42:32
+<transcript>: things in
+
+13:42:33
+<transcript>: Things in reverse order.
+
+13:42:37
+xxsallythegoosexx: Im not into the ecosystem, but can someone explain the solid nerd emoji
+
+13:42:39
+<transcript>: I got you like you're supposed to go in there and do it out of work. I got you.
+
+13:42:39
+<transcript>: that is pretty
+
+13:42:39
+smilebags: That astro comment got you a new follower. Cool content!
+
+13:42:41
+<transcript>: That is pretty funny.
+
+13:42:53
+<transcript>: 24 inch hours later, and the post has 78 comments, 201 of votes, 43,000 views, and so much positive feedback, things people want adding or improving in the app. What is this for? What app is this.
+
+13:42:59
+tnkhanh: what about angular?
+
+13:43:02
+<transcript>: What is this post on a Manchester Manchester Trans app and didn't expect this kind of response.
+
+13:43:02
+<transcript>: what is
+
+13:43:05
+<transcript>: What is this? Manchester trams.
+
+13:43:08
+<transcript>: Who can give me some context.
+
+13:43:12
+<transcript>: Built an app for the tram network.
+
+13:43:12
+<transcript>: so
+
+13:43:14
+<transcript>: So here's the thing.
+
+13:43:18
+<transcript>: I resume. Oh, diamond, wait. This is you. Diamond.
+
+13:43:21
+<transcript>: Diamond. This is you.
+
+13:43:21
+<transcript>: diamond
+
+13:43:25
+<transcript>: Diamond, I have context. Now diamond built something.
+
+13:43:25
+<transcript>: di
+
+13:43:27
+<transcript>: Diamond.
+
+13:43:29
+<transcript>: You built something.
+
+13:43:29
+<transcript>: and
+
+13:43:30
+dmdboi: No its just another dude with Dmdboi on Twitter
+
+13:43:34
+thdxr: dmd!!!!
+
+13:43:34
+trivenge: POGGERS
+
+13:43:37
+nexxeln: wow congrats dmdboi!
+
+13:43:39
+<transcript>: And am I following you yet? I am now. Diamond. I'm so happy for you. No, it's just another dude with diamond on Twitter. Oh, it's not actually you. Wait. No, it is you.
+
+13:43:40
+dnbull: what? twitter devs actually build products? :O
+
+13:43:43
+schrew: buehler? buehler? Diamond?
+
+13:43:44
+dmdboi: Gottem
+
+13:43:45
+<transcript>: Congratulations. This is awesome. So, Diamond.
+
+13:43:45
+<transcript>: i totally know
+
+13:43:48
+<transcript>: I totally know this feeling that you're going through. This is how satin you started.
+
+13:43:48
+<transcript>: we posted
+
+13:43:49
+smilingbig: KEKW
+
+13:43:55
+laytanl_: primeagenClap1 primeagenClap1
+
+13:43:56
+<transcript>: We posted Satinwes, like a video of it on Twitter, or maybe on reddit first, and it just kind of like blew up.
+
+13:43:58
+rushmead: peak british sarcasm LUL
+
+13:44:00
+sockthedev: Astro is the duplo of the web dev world
+
+13:44:00
+<transcript>: And it's a very good feeling. It's a great feeling. Got them.
+
+13:44:00
+<transcript>: i'm so
+
+13:44:05
+<transcript>: I'm so happy for you, Peak British sarcasm welcome to Chat Rush, Mead.
+
+13:44:05
+<transcript>: this is
+
+13:44:09
+dmdboi: Thank you thank you
+
+13:44:09
+<transcript>: This is awesome. Diamond. I'm so happy for you.
+
+13:44:09
+<transcript>: posted a few hours
+
+13:44:15
+<transcript>: Posted a few hours ago. This is recently right. 25th. That was a couple of days ago. How's it going now? How are things.
+
+13:44:15
+<transcript>: can i
+
+13:44:18
+<transcript>: Can I have your autograph? How's it going.
+
+13:44:18
+<transcript>: as with the
+
+13:44:19
+archieedwds: nice! dmd you worked at baselime for a bit right?
+
+13:44:20
+tnkhanh: diamond where are you?
+
+13:44:25
+<transcript>: As with the usual a bunch of you missing the point in your eagerness to have a smart reply to clarify the main point here is auth as a service business.
+
+13:44:25
+<transcript>: as a
+
+13:44:36
+<transcript>: As a service, businesses want to do three for you. And you should think twice. As I said in the thread offloading, one plus two, many flavors is totally fine. Yeah, totally agree with your whole thread. Dax.
+
+13:44:37
+schrew: Did the city arsenal game make the app pop off? @dmdboi
+
+13:44:37
+<transcript>: Totally agree.
+
+13:44:37
+<transcript>: with
+
+13:44:39
+tnkhanh: clap!
+
+13:44:39
+<transcript>: With all of it.
+
+13:44:39
+<transcript>: and
+
+13:44:41
+sockthedev: https://images.brickset.com/sets/large/516-1.jpg?201004050411 Adam building statmuse
+
+13:44:42
+<transcript>: And I am not surprised that people would be.
+
+13:44:42
+dmdboi: over 500 downloads, 300+ users, and I emailed the local transport department to see if they want to work together to improve their app
+
+13:44:54
+<transcript>: Taking it wrong and all that serverless is an architecture. Treat it like one. It's not a way of life. If your app doesn't work in serverless, don't use it. Stop making it work by spending hundreds of dollars every month.
+
+13:44:54
+<transcript>: next
+
+13:44:54
+smilingbig: I believe everything dax says
+
+13:44:58
+<transcript>: Next I love you so much. You're so good at Twitter and.
+
+13:45:00
+<transcript>: You think? Good.
+
+13:45:00
+<transcript>: you think
+
+13:45:01
+thdxr: nex i don’t like you again
+
+13:45:04
+goodgrandpaa: @dmdboi Dude, that's sick! Congrats! :)
+
+13:45:07
+<transcript>: You think? Good. Exactly. I'm running my two simple T three apps on digitalocean $5 for an F, $15 for a db, it works perfectly.
+
+13:45:08
+nexxeln: LUL @thdxr
+
+13:45:09
+dmdboi: @Schrew I have an internal dashboard and see when games are on cause more users are getting to the stadiums
+
+13:45:10
+thdxr: serverless is a way of life
+
+13:45:10
+<transcript>: Dex doesn't like you again.
+
+13:45:10
+<transcript>: it's funny
+
+13:45:12
+<transcript>: It's funny.
+
+13:45:16
+<transcript>: Yeah, I'm trying to think DAX.
+
+13:45:16
+<transcript>: what architect
+
+13:45:19
+mecoupz: nex is getting adam's next best friend?
+
+13:45:19
+<transcript>: What architectures? Don't work with serverless.
+
+13:45:23
+<transcript>: Is it just like once you get certain scale it's unproven.
+
+13:45:27
+<transcript>: In terms of like cost effectiveness.
+
+13:45:27
+<transcript>: i don't know
+
+13:45:29
+dmdboi: @archieedwds Yup, 6 month skit there
+
+13:45:30
+mecoupz: dax is out of the game soon
+
+13:45:34
+<transcript>: I don't know there's no right answer it's all so dependent on your team and their skill sets and all of those things.
+
+13:45:34
+<transcript>: unit
+
+13:45:36
+thdxr: no nex doesn’t know what he’s talking about
+
+13:45:39
+thdxr: ignore this tweet
+
+13:45:41
+dmdboi: @tnkhanh Manchester, UK not Manchester, Alabama
+
+13:45:43
+<transcript>: Unit economics. I don't know. Stuff like that. Total cost of ownership. Why does everyone suddenly use a sas for their auth? Look at Layton, Layton.
+
+13:45:43
+<transcript>: you
+
+13:45:49
+smilingbig: we're full serverless at my work
+
+13:45:52
+<transcript>: You knew? And then dax came out and had that banger thread. No. Next doesn't know what he's talking about, nor the tweet. I love it. Dex is out of the game soon.
+
+13:45:59
+<transcript>: Next is getting adam's next best friend. Next is getting adam's next best friend.
+
+13:45:59
+<transcript>: next
+
+13:46:08
+<transcript>: Next is my current best friend. What do you mean? I don't know if it's mutual. I don't know if he thinks I'm his best friend. But next is my best friend, Manchester, UK, not Manchester, Alabama.
+
+13:46:15
+tnkhanh: woohoo, nice
+
+13:46:15
+<transcript>: We're full servos at my work that's rare that people get to work full serverless at work.
+
+13:46:15
+<transcript>: feels
+
+13:46:17
+<transcript>: Feels like still way too rare.
+
+13:46:17
+thdxr: oh great adam and nex podcast incoming
+
+13:46:20
+<transcript>: Oh, man, there's such a good story about.
+
+13:46:20
+<transcript>: some of the origin
+
+13:46:25
+<transcript>: Some of the origins of serverless and I can't wait to share it in some form.
+
+13:46:27
+thdxr: warning adam will use you and toss you aside
+
+13:46:27
+bodhihawken: Scale isn't the problem! But there certainly are cases where serverless doesn't yet cover it! but yes were also fully serverless!
+
+13:46:30
+<transcript>: Adam and Next podcasting. Coming.
+
+13:46:31
+sockthedev: god, i envy you smilingbig
+
+13:46:33
+nexxeln: best friends pepeJAM
+
+13:46:38
+<transcript>: You know, dax, I will say warning. Adam will use you and toss you aside. Whatever next, I will say I literally had the thought.
+
+13:46:38
+<transcript>: max like
+
+13:46:40
+sockthedev: i work in an azure environment by day
+
+13:46:46
+sockthedev: 🤮
+
+13:46:51
+smilingbig: apparently we're one of the biggest aws serverless users in eu
+
+13:46:57
+<transcript>: Max like, oh, nex is smart. Like, Max like, nax you're on the podcast with me. And I just defer to you on everything in the podcast because you're smart and you have good thoughts. I don't have those good thoughts. So I just get to ask you questions. And I had the thought next could serve that role too. We'll start another podcast. We'll call it yesterday.
+
+13:46:58
+aj_stuyvenberg: bluesky time eh?
+
+13:47:00
+<transcript>: Tomorrow, and yesterday.
+
+13:47:00
+<transcript>: okay
+
+13:47:01
+rickrickyy: Good morning guys(
+
+13:47:01
+<transcript>: Okay.
+
+13:47:04
+sockthedev: azure + cray cray terraform
+
+13:47:06
+amazingdavi: LUL
+
+13:47:09
+<transcript>: Blue sky time. I don't think we're doing blue sky time.
+
+13:47:09
+<transcript>: it's not that much on
+
+13:47:12
+<transcript>: It's not that much on blue skies. There.
+
+13:47:12
+<transcript>: let's see
+
+13:47:17
+<transcript>: Let's see. Scale isn't the problem, but there certainly are cases where serverless doesn't yet cover it.
+
+13:47:17
+<transcript>: but
+
+13:47:18
+aj_stuyvenberg: looooool
+
+13:47:20
+<transcript>: But yes, we're also fully serverless.
+
+13:47:35
+<transcript>: Yeah. Is it happening? Are people adopting it wholesale and becoming fully serverless? Seemed like it was so slow to catch on. I work in an Azure environment by day. Ew sock. I'm so sorry. I don't know. I don't really use Azure.
+
+13:47:42
+<transcript>: Apparently, we're one of the biggest aws service users in U. What company is it? Smiling.
+
+13:47:42
+<transcript>: good
+
+13:47:44
+thdxr: dw we fixed it people are doing serverless now
+
+13:47:44
+<transcript>: Good Morning, Rick. Ricky.
+
+13:47:46
+naxodev: I'm full Cloudflare
+
+13:47:51
+<transcript>: Also Good morning aj. Don't worry, we fixed it people are doing serverless now nice.
+
+13:47:55
+smilingbig: I'd prefer not to say KEKW
+
+13:47:55
+aj_stuyvenberg: MORNING
+
+13:47:57
+<transcript>: Full Cloudflare knacks though I have a thought on Twitter since we're on Twitter time right now.
+
+13:48:02
+<transcript>: I posted a thing on Twitter.
+
+13:48:02
+<transcript>: and got a
+
+13:48:06
+<transcript>: And got a quote, Tweet that was mean. And I realized.
+
+13:48:12
+<transcript>: You can't really be mean to me on the internet or like you can.
+
+13:48:21
+<transcript>: I really don't care. And I don't mean that in, like, a like, I'm bigger than you. So I don't care that you said something negative. I mean, like, literally. I don't have emotions.
+
+13:48:24
+<transcript>: So like it's hard to pick on me.
+
+13:48:24
+<transcript>: and when
+
+13:48:32
+sockthedev: that guy was being a bit of a douche
+
+13:48:33
+jokestera_e: You really shouldn't care you're allowed to brag about your accomplishments
+
+13:48:35
+<transcript>: And when this person said this mean thing in a quote, Tweet, it wasn't even a mean thing. He's probably right. He said that I was just. What did he say? It was cringe. Everything I do is probably cringe. And that's fine.
+
+13:48:37
+thdxr: no it’s pretty easy to pick on you
+
+13:48:38
+sockthedev: no he wasn't
+
+13:48:44
+mattmancodes: Was it Dax?
+
+13:48:47
+<transcript>: It really doesn't affect me, though, like in a negative, emotional way. And I got to leverage that somehow I got to turn that into an advantage on the internet. You can't hurt me.
+
+13:48:47
+<transcript>: you're just like
+
+13:48:48
+smilingbig: fuck that dude
+
+13:48:50
+<transcript>: You're just like I'm unheard of on the internet.
+
+13:48:55
+<transcript>: How do I leverage that? How do I turn that into good, something for good.
+
+13:48:58
+samhuckaby: If you aren't cringe once in awhile, you aren't using Twitter to its fullest
+
+13:48:59
+warrenbuffering: dunk back
+
+13:49:01
+kevinnaughtonjr: not being affected by ppl's feelings means you can make infinite content
+
+13:49:09
+<transcript>: Let's see, it's pretty easy to pick on you. Yeah. I mean, it's easy to pick on me. It just doesn't actually affect me. You know what I mean? My emotional state just doesn't affect my emotional state. So, like, dunk back now I'm just doing what dax says.
+
+13:49:11
+teej_dv: oh you're unhurtable? i think your cameras suck
+
+13:49:14
+<transcript>: He just says, yes, when people are like, You're such a jerk.
+
+13:49:14
+<transcript>: you just reply
+
+13:49:15
+warrenbuffering: dunk back and never acknowledge
+
+13:49:15
+naxodev: Tell them, I love you
+
+13:49:17
+dmdboi: This song comes on at least once per stream
+
+13:49:18
+<transcript>: You just reply yes, and that just gets to him more.
+
+13:49:21
+<transcript>: I don't want to be a jerk back.
+
+13:49:21
+<transcript>: but
+
+13:49:22
+tnkhanh: it just hasnt yet
+
+13:49:28
+smilingbig: teej_dv too far KEKW
+
+13:49:28
+<transcript>: But I got to figure out how to. I don't know how to leverage it. Let's see. Was it DAX? Yeah, it was DAX.
+
+13:49:28
+<transcript>: you really
+
+13:49:28
+theaveragegoob: Yeah narcissists aren't affected by what other people say. Kind of a superpower LUL
+
+13:49:29
+tobs_on_twitch: @teej_dv oh no you didnttttt
+
+13:49:30
+lesabotsy: Can't be worse than a scammer
+
+13:49:30
+warrenbuffering: smart
+
+13:49:32
+mecoupz: "i don't have feelings" -- dont say that to your wife LUL
+
+13:49:35
+<transcript>: You really shouldn't care. You're allowed to brag about your accomplishments. Yeah, that's what it was. I mean, I. Tweeted. About how much I made him up. Here's. The thing.
+
+13:49:40
+tnkhanh: if 1000 mean messages come in, you will notice the weight monkaS
+
+13:49:41
+<transcript>: So I had a very unique situation. The last couple of weeks, where I got paid a lot of money to do something.
+
+13:49:41
+<transcript>: and
+
+13:49:44
+<transcript>: And I could just not tell anybody.
+
+13:49:44
+<transcript>: and just
+
+13:49:46
+<transcript>: And just keep that to myself.
+
+13:49:46
+<transcript>: or
+
+13:49:51
+<transcript>: Or I'm coming over here. This is actually something important. It's important.
+
+13:49:54
+<transcript>: Welcome to Chat every.
+
+13:49:54
+<transcript>: goob
+
+13:49:56
+amazingdavi: @teej_dv LUL
+
+13:49:58
+night_light90: I always view twitter as a not real place , I never used it.
+
+13:50:00
+<transcript>: Goob narcissist aren't affected by what other people say kind of super. No. Am I a narcissist? I thought I was.
+
+13:50:00
+<transcript>: just
+
+13:50:00
+theaveragegoob: Whattup bro :)
+
+13:50:01
+<transcript>: Just.
+
+13:50:01
+<transcript>: i had no
+
+13:50:05
+sockthedev: i think it's impossible for adam to be a jerk. even when he throws out a soft tease, he'll almost always follow up with a reply saying he was joking
+
+13:50:05
+<transcript>: I had no emotional depth or something, but it could be the narcissist thing, I guess.
+
+13:50:10
+kevinnaughtonjr: no matter what kind of content you make someone will always be mad/upset. as long as you know that your intentions are good that's all that matters
+
+13:50:12
+<transcript>: You're unheard of I think your cameras suck. It's okay, Teach. I get an self worth out of my cameras.
+
+13:50:13
+<transcript>: Okay.
+
+13:50:13
+<transcript>: so i'm trying
+
+13:50:20
+<transcript>: So I'm trying to think, is there anything anybody could say? We were talking about this the other day. My wife and I I don't think I've ever been offended in my life.
+
+13:50:20
+<transcript>: i just don't even
+
+13:50:23
+theaveragegoob: We need more people who don't respond emotionally to everything
+
+13:50:23
+<transcript>: I just don't even know what offended feels like.
+
+13:50:23
+<transcript>: not
+
+13:50:39
+<transcript>: Not being affected by people's feelings mean you can make infinite content. Oh, okay. So I'm more resilient to that stuff. Okay. If you aren't cringe once in a while, you aren't using Twitter to its fullest. Okay. So I want to talk about what I said and the realities of why I? Tweet what I tweet.
+
+13:50:42
+<transcript>: So made a lot of money.
+
+13:50:42
+<transcript>: is a very unique novel
+
+13:50:45
+<transcript>: Is a very unique novel situation where I know.
+
+13:50:45
+<transcript>: there's people
+
+13:50:57
+<transcript>: There's people out there who just don't understand that this kind of stuff is possible that you can make unlimited money in tech especially if you work for yourself. Average group thank you so much for that. Follow.
+
+13:50:57
+<transcript>: so
+
+13:51:02
+<transcript>: So there's people that just don't even know it's possible for one for two. It's.
+
+13:51:02
+<transcript>: like
+
+13:51:05
+<transcript>: Like by not sharing it.
+
+13:51:05
+<transcript>: what do i
+
+13:51:08
+<transcript>: What do I gain by not sharing it.
+
+13:51:17
+<transcript>: It just kind of like personally, financially I'm impacted and that's great. But that's not even that important to me. My wife. It's important to but ultimately.
+
+13:51:19
+<transcript>: My neighbor.
+
+13:51:19
+<transcript>: ben
+
+13:51:27
+techsavvytravvy: i made a cringe tweet from the cringe tweet of your cringe tweet
+
+13:51:33
+<transcript>: Ben. He left his job and he now works for himself. He does exactly what I was doing before I rejoined Stapmus. He's an aws consultant, independent. He's making more money he's ever made in his life. And he's super happy with it with that situation.
+
+13:51:37
+<transcript>: Like his best month just had his best month.
+
+13:51:37
+<transcript>: he's two doors
+
+13:51:39
+jokestera_e: You left statmuse?
+
+13:51:40
+bodhihawken: yeah just started signing a 200k contract for a 4 month build with serverless, anything is possible tech!
+
+13:51:42
+mhuggins7278: Tell me your a psychopath without telling me your a psychopath
+
+13:51:45
+goodgrandpaa: @jokesterA_E Previously, yeah.
+
+13:51:51
+goodgrandpaa: @jokesterA_E He's back though
+
+13:51:54
+<transcript>: He's two doors down for me. And the reason he left the job and did on stuff is because I was doing all this stuff and talking about it. So I'm going to keep talking about it. And there are people who are inherently going to be bothered by it. And I don't know what to do with that because I don't want to just offend people or I don't know if offend is the right word. I don't want to ruffle everyone's feathers.
+
+13:52:03
+<transcript>: But I know it can be off putting when you see other people talk about successes. I don't know how to deliver it in a way that gets the benefit without the drawback. Does that make sense.
+
+13:52:03
+<transcript>: is there
+
+13:52:04
+thdxr: there’s this repressed culture that exists here where you cannot talk about success to the point where it’s false humility
+
+13:52:06
+<transcript>: Is there a way to package it.
+
+13:52:06
+<transcript>: that helps
+
+13:52:09
+thdxr: it’s not like that globally
+
+13:52:17
+thdxr: miami is not like that at all
+
+13:52:18
+<transcript>: That helps inspire people to quit their jobs, to do whatever. I don't want to just send people off into the wilderness. Quitting their jobs all. Willynilly, that's not my goal, nerdigi. Thank you so much. I follow.
+
+13:52:18
+<transcript>: that's
+
+13:52:23
+aj_stuyvenberg: dax: international flex sensation
+
+13:52:25
+teej_dv: miami is not like anywhere else, from what i hear
+
+13:52:25
+smilingbig: I'm quitting right now
+
+13:52:37
+thdxr: but tech world is all like “i’m rich and it’s a secret shhhh”
+
+13:52:38
+<transcript>: That's not my goal. But I know that it's positively impacted people. They've been inspired. How do I do that without the negative? Because I don't care if this guy said this thing. He said it really doesn't emotionally, in any way alter my state of being. But I just don't like that. I created that in someone that I created this feeling in them that they felt like they needed to kind of like, lash out.
+
+13:52:38
+<transcript>: not
+
+13:52:43
+thdxr: imo that’s even more pretentious
+
+13:52:51
+archieedwds: the way to do it is to be known for sharing the downsides too. its pretty similar to businesses sharing MRR charts
+
+13:52:52
+<transcript>: Not even lash out, just like, call it out. So how do you package it? There's this repressed culture that exists where you cannot talk about success to the point where it's false humility. It's not like that globally. Miami is not like that at all.
+
+13:52:57
+<transcript>: But tech world is all like, I'm rich, and it's a secret shh.
+
+13:52:57
+<transcript>: even more
+
+13:53:00
+theaveragegoob: @thdxr preach it dude - so true
+
+13:53:04
+<transcript>: Even more petition. So here's the thing. I feel like the more people in Tech talk about how much money they make, the better. What is the downside.
+
+13:53:06
+<transcript>: There is no downside.
+
+13:53:06
+<transcript>: i mean i guess
+
+13:53:09
+mhuggins7278: @adamdotdev not sure you can. Some people just suck
+
+13:53:09
+<transcript>: I mean, I guess the feeling that people have that.
+
+13:53:12
+<transcript>: They're not getting that.
+
+13:53:18
+kevinnaughtonjr: i think packaging things using "i" is helpful instead of "you/you should".  talking about your own experiences with what worked for you and what you learned vs what ppl "should" do helps as well
+
+13:53:22
+<transcript>: But is it worth it if some people are made aware of this reality, that you make a lot of money in tech. And now I want to go do this. I want to pursue it because I know there's a reason to.
+
+13:53:22
+<transcript>: mcne
+
+13:53:24
+<transcript>: Mcneiland.
+
+13:53:24
+<transcript>: thank
+
+13:53:28
+<transcript>: Thank you for that follow. Climbing dev. Do I see that one? Thank you for the follow as well.
+
+13:53:30
+night_light90: it's twitter its not a real place , and that person would not say what he said to your face
+
+13:53:35
+<transcript>: Okay. Let me go back and read some chat. You left sammy's? Yeah. I was fired back in 2019.
+
+13:53:35
+<transcript>: and then
+
+13:53:38
+<transcript>: And then I rejoined in the last six months.
+
+13:53:38
+<transcript>: i made
+
+13:53:45
+theaveragegoob: I heard about some dude who flipped his shit and blamed his wife for a tubi commercial "interrupting" the super bow. - she is divorcing him over that blow up. Sometimes people just aren't emotionally stable
+
+13:53:46
+<transcript>: I made a cringe tweet from the cringe tweet of your Quinn cringe tweet. Oh, no, trav, just now, you made a cringe tweet.
+
+13:53:46
+<transcript>: we need more
+
+13:53:46
+smilingbig: I feel bad when I make more money than other people KEKW I prefer not knowing
+
+13:53:52
+thdxr: i love miami because you’ll see some dude who doesn’t look like he’ll be successful and they’ll tell you all about why they’re crazy rich and it’s inspiring
+
+13:54:01
+goodgrandpaa: Another downside is that when you tell someone that you can make a lot of money, but not provide a potential roadmap is kind of half motivational. Hard to see ourselves in your position or the position of someone that makes a ton of money, if we can't see a roadmap for ourselves.
+
+13:54:06
+<transcript>: We need more people who don't respond emotionally to everything. No matter what kind of content you make, someone will always be mad upset. As long as you know that your intentions are good. That's all that matters. So, Kevin, I don't know if my intentions are good. This is another thing. I just had Jason Langstorf on the stream the other day because I want to just pick his brain about like he's somebody who I look at in tech. Learn with Jason if you're not.
+
+13:54:06
+<transcript>: familiar
+
+13:54:06
+mattmancodes: DON'T SPOIL IT! I'm quite happy making a lot of money typing nonsense words that power websites that don't matter.
+
+13:54:07
+dnbull: yeah i agree w/ @night_light90 twitter is such a bubble... super false reality of life to be honest... Most of the world doesn't know about AI like we do LUL
+
+13:54:23
+<transcript>: Familiar. He's somebody that I look at. And I think he seems to have really good intentions. And one of the questions I asked him was like, do you have any bad intentions? Because from the surface, you look very good intentioned. But one thing I constantly struggle with is, what are my intentions? Half the time I feel like, I don't even know.
+
+13:54:30
+<transcript>: I want to say I'm in a stage in my career where my intentions are pure and that I want to help other people.
+
+13:54:30
+<transcript>: but
+
+13:54:31
+lesabotsy: As long as I can get my macbook one day I don't care hahah
+
+13:54:37
+<transcript>: But I know there's so many selfish reasons I want to do every single thing I do so I don't always know what my intentions are.
+
+13:54:37
+<transcript>: and
+
+13:54:43
+warrenbuffering: good/bad intentions are subjective
+
+13:54:43
+<transcript>: And it's really hard for me sometimes to figure out on the scales. How does it all balance out.
+
+13:54:48
+fragaverage: I watch you in 480p to make myself feel better
+
+13:54:52
+<transcript>: I think there are altruistic intentions. There there's stuff where it's like I don't need or want anything else in life.
+
+13:54:52
+<transcript>: and
+
+13:54:57
+mattmancodes: haha
+
+13:54:58
+<transcript>: And it feels like it would be fulfilling to help other people. It is fulfilling, like when I see other people that have had.
+
+13:54:58
+<transcript>: some
+
+13:55:00
+thdxr: @teej_dv come visit
+
+13:55:05
+<transcript>: Some inspiration from something I did. And they moved to some new stage of life that they're loving. That is it feels great.
+
+13:55:05
+<transcript>: i'm not going to lie
+
+13:55:15
+theaveragegoob: I love helping people - it's a huge boost for both people <3
+
+13:55:15
+goodgrandpaa: @kevinnaughtonjr Super side note, thanks for thedailybyte!
+
+13:55:19
+<transcript>: I'm not going to lie and say that that's the only thing I get fulfillment from now is like seeing other people succeed because it's not. I also just get fulfillment from doing what I love, which is writing code and being on here with you guys. I mean.
+
+13:55:19
+<transcript>: there's so many
+
+13:55:20
+teej_dv: I liked miami when i went there on vacation awhile ago @thdxr i'll let you know if i come back
+
+13:55:29
+kevinnaughtonjr: np hope you're enjoying it @GoodGrandPaa !
+
+13:55:30
+<transcript>: There's so many millions of little nuances with intentions that I just don't know how to suss it all out. Okay, I'm talking too much. I'm not reading. I don't have feelings. They'll say it to your wife. Oh, my wife's. Well aware of me, coops.
+
+13:55:33
+<transcript>: My wife is the one that pointed out, I don't have feelings.
+
+13:55:39
+<transcript>: Tell them I love you dunk back and never acknowledge. Okay.
+
+13:55:39
+<transcript>: let's
+
+13:55:40
+goodgrandpaa: @kevinnaughtonjr I am! :) I love the emails to start the day :)
+
+13:55:41
+<transcript>: Let's keep scrolling.
+
+13:55:41
+<transcript>: can't be
+
+13:55:44
+<transcript>: Can't be worse than a scammer.
+
+13:55:52
+kevinnaughtonjr: i don't think it's bad if you have multiple intentions and some of them are for you and others are to help others :)
+
+13:55:52
+<transcript>: If 1000 mean messages come in you'll notice you will notice the weight. Maybe I'm just not the scale where.
+
+13:55:52
+<transcript>: the
+
+13:55:55
+thdxr: it’s ok his wife doesn’t have feelings for him
+
+13:55:57
+<transcript>: The backlash I get online has affected me negatively.
+
+13:55:57
+<transcript>: i literally can't think of a
+
+13:56:06
+<transcript>: I literally can't think of a time I've ever in my life been offended. And I feel like that's the reason I think it's something about my brain chemistry that maybe I don't.
+
+13:56:06
+<transcript>: have
+
+13:56:08
+mattmancodes: haha
+
+13:56:10
+<transcript>: Have I'm not offendable. I think that's possible. I think some people can't be offended.
+
+13:56:10
+<transcript>: and i think
+
+13:56:10
+lesabotsy: More seriously, may I DM you @adamdotdev ?
+
+13:56:26
+<transcript>: And I think it has to do with how little I value relationship. I'm going to say that that came out of my lips. My wife's heard it. She knows I am not someone, and she's kind of the same. I don't value relationship that much interpersonal stuff doesn't do it for me. So much.
+
+13:56:26
+<transcript>: i have friends
+
+13:56:30
+goodgrandpaa: I relate to that.
+
+13:56:31
+<transcript>: I have friends and I enjoy being with friends. And I enjoy talking with friends.
+
+13:56:31
+<transcript>: but
+
+13:56:35
+<transcript>: But at the end of the day, if you told me I was going to be the last person on Earth.
+
+13:56:35
+<transcript>: and i'd have
+
+13:56:38
+techsavvytravvy: WOW
+
+13:56:40
+<transcript>: And I'd have to live the rest of my life alone. I mean, I'd be sad.
+
+13:56:43
+techsavvytravvy: noted
+
+13:56:46
+<transcript>: If it meant like I don't get to see my kids again, my wife, I would be sad. But at the same time.
+
+13:56:47
+mhuggins7278: @adamdotdev  signs of a psychopath :)
+
+13:56:52
+<transcript>: I just don't put a lot of emphasis on it. And I think that's probably something in my brain. I don't know.
+
+13:56:57
+<transcript>: I always view Twitter as not a real place, as a not real place. I never used it.
+
+13:56:57
+<transcript>: twitter
+
+13:56:58
+<transcript>: Twitter. It's. It's a.
+
+13:56:58
+<transcript>: don't you
+
+13:57:04
+goodgrandpaa: @mhuggins7278 Not always a bad thing.
+
+13:57:11
+teej_dv: ok, confirmed. adam "getting a lot of money working for himself" is being a hitman.
+
+13:57:13
+<transcript>: Don't. You don't have to use it. Don't feel like you need to get on there. If you're not, maybe you're better off nerdy. Chase. Thank you for the follow. I don't know if I saw that one. I think it's impossible for Adam to be a jerk. Even when he throws out a soft tea. He'll almost always follow up with the reply, saying he was joking. I mean.
+
+13:57:13
+<transcript>: i think it's
+
+13:57:13
+warrenbuffering: anything against the status quo probably gonna be perceived as bad intentions. Change bad
+
+13:57:19
+<transcript>: I think it's all the things I just said. I think I just don't put a lot of emphasis or I'm not affected by interpersonal things.
+
+13:57:19
+<transcript>: in the way
+
+13:57:22
+<transcript>: In the way that most normal people are.
+
+13:57:31
+<transcript>: Neurotypical people you might say no matter what kind of who we are about that we need more people who don't respond already. Read that. I'm so behind. Okay.
+
+13:57:31
+<transcript>: just
+
+13:57:34
+dnbull: i'm upset no one made an ozark joke when adam said he made tons of money LUL
+
+13:57:38
+papagebu: @teej_dv i mean, the guy live in OZARK
+
+13:57:42
+<transcript>: Just started signing a $200,000 contract for a four month build with serverless. Anything is possible in tech. It's so true, bodie, we just got to keep talking about it. Keep sharing those things. I think it's a net positive.
+
+13:57:46
+<transcript>: Tell me your psychopaths about Tell me your psychopath.
+
+13:57:46
+<transcript>: m huggins
+
+13:57:50
+goodgrandpaa: @mhuggins7278 Many successful politicians/business leaders are. Not all are killers haha
+
+13:57:55
+<transcript>: M Huggins am I a psychopath? That sounds so much more negative. Maybe that's what it is. Am I a narcissist? A psychopath? Someone tell me.
+
+13:57:55
+<transcript>: let's see
+
+13:57:57
+<transcript>: Let's see dax international.
+
+13:57:57
+<transcript>: flex
+
+13:58:03
+<transcript>: Flex sensation. Miami is not like anywhere else. From what I hear, quitting right now. Do it. Smiling.
+
+13:58:03
+<transcript>: the way to do it
+
+13:58:07
+<transcript>: The way to do it is to be known? I'm trying to catch up? I'm trying.
+
+13:58:07
+<transcript>: it's the
+
+13:58:11
+<transcript>: It's. The problem is I read a message and I go off on some huge tangent, and then I just get way more behind.
+
+13:58:21
+<transcript>: Oh, I'm way behind? Way behind? I heard about some dude who flipped his Wait, it's Twitter. Oh, man, am I this behind.
+
+13:58:21
+<transcript>: m
+
+13:58:29
+<transcript>: M huggins. Welcome to you're. Not you're not new to chat. Never mind. Not sure you can. Some people just suck the way to do it.
+
+13:58:29
+<transcript>: is
+
+13:58:37
+<transcript>: Is to be known for sharing the downsides, too. It's pretty similar to business sharing mrr. Charts. Okay, archie, that's a good point.
+
+13:58:37
+<transcript>: i'll be honest
+
+13:58:37
+theaveragegoob: I found that so many people stopped talking to me when I started talking about my success :( I wonder why though...maybe it sounded like bragging.
+
+13:58:48
+smilingbig: you're maybe just a bit on the spectrum, not a psychopath KEKW
+
+13:58:55
+zoro1800: i have a great motivation to build something but i really dont know what to build. any advice?
+
+13:58:56
+dmdboi: Adam living in an ivory tower
+
+13:58:57
+<transcript>: I'll be honest. The last six months to a year, I don't think there's been any downsides to my life, but we've discussed this on Stream. I think my life is like peaking. I've hit peak life, and I know it's not going to last. I know it's a season, and I know we're going to look back at this time and say, wow, things were good, but legitimately things are like if I shared all the positives right now, I would.
+
+13:58:57
+<transcript>: look like
+
+13:58:58
+mhuggins7278: @GoodGrandPaa Yeah I know I'm joking....I'm actually similar to Adam in this matter.  At least when it comes to people I'm not close to
+
+13:58:59
+dmdboi: In the Ozarks
+
+13:59:00
+<transcript>: Look like a jerk on the internet because.
+
+13:59:05
+<transcript>: It would seem very like fake, but it really is just like Peak life.
+
+13:59:08
+mr_yan19: Good morning everyone
+
+13:59:17
+<transcript>: I don't have any negatives. I'm not lost anybody close to me. I've not had any serious hiccups with anything. I mean, three years ago I got fired from sad news. My own. Like that was my baby.
+
+13:59:17
+<transcript>: and that was
+
+13:59:19
+<transcript>: And that was a very tough time.
+
+13:59:19
+goodgrandpaa: @mhuggins7278 Oh okay! Just saw a few messages and thought I might say something :) No worries! Thanks for clearing it up!
+
+13:59:21
+smilingbig: but I have collected several mental health things so I'm probably not the best to judge KEKW
+
+13:59:22
+<transcript>: I haven't really had anything like that since.
+
+13:59:33
+techsavvytravvy: wait what
+
+13:59:36
+<transcript>: I think packaging things using I is helpful. Instead of you. You should talking about your own experiences with what worked for you and what you learn versus what people should do helps as well. Yeah. I don't have.
+
+13:59:36
+<transcript>: any
+
+13:59:40
+tayloreddev: I got fired once, turned out to be best thing to happen
+
+13:59:42
+<transcript>: Any feelings that I know what other people should do. And I am very careful sharing stuff.
+
+13:59:42
+<transcript>: because
+
+13:59:43
+<transcript>: Because.
+
+13:59:43
+<transcript>: i feel like
+
+13:59:51
+<transcript>: I feel like there's so much context. There's no formula. I don't feel like there's much for my career. I can be like, here's what I did. And that led to this. It just feels so random.
+
+14:00:04
+<transcript>: And a lot of it. You're in the right place, right time. I mean, I worked really hard. I said something like this the other day, and my wife got on me because I was like, she heard me say something about how it's all just luck. My career was just a big lucky break.
+
+14:00:04
+<transcript>: and she
+
+14:00:10
+<transcript>: And she talked about how if it was so much luck, why did I spend the first three years of our marriage working so hard.
+
+14:00:10
+<transcript>: she
+
+14:00:17
+<transcript>: She felt like she sacrificed something. And that was kind of discounting that I worked really hard at the beginning of my career. And I did.
+
+14:00:17
+<transcript>: so it's not
+
+14:00:26
+<transcript>: So it's not all luck. You got to work hard. I think some people probably don't. Some people. They just go lucky. I'm not getting ahead. I'm not catching up on chat. I'm just way behind.
+
+14:00:47
+<transcript>: I heard about some dude who flipped his shit and blames his wife for a tobe commercial interrupting the Super Bowl. What? She's divorcing him over that blow up. Sometimes people just aren't emotionally stable. I think I'm stable. I think there's pros and cons, but I do think I'm very emotionally stable. The Con is I don't really have much emotional depth.
+
+14:00:48
+<transcript>: So.
+
+14:00:48
+<transcript>: i don't ris
+
+14:00:51
+<transcript>: I don't rise to occasions But I also don't fall.
+
+14:00:51
+<transcript>: i don't
+
+14:00:58
+<transcript>: I don't know. I feel bad when I make more money than other people for not knowing. Yeah, there's that too.
+
+14:00:58
+<transcript>: societally
+
+14:01:02
+<transcript>: Societally. I don't know what to do. It's the fact that we make so much money in tech.
+
+14:01:02
+<transcript>: especially
+
+14:01:03
+theaveragegoob: No no no, that was part of the conversation about people getting mad at your content or reacting (haha, that was an old. comment) :3
+
+14:01:04
+<transcript>: Especially in the us.
+
+14:01:04
+<transcript>: and
+
+14:01:24
+<transcript>: And then other people do way harder jobs and they don't get as much money. I don't really know how it all works or what the solution is. I love my because you'll see some dude who doesn't look like he'll be successful and they'll tell you about why they're crazy rich. And it's inspiring. Another downside is that when you tell someone that you can make a lot of money but not provide a potential roadmap, it's kind of half motivational, hard to see ourselves.
+
+14:01:24
+<transcript>: in your position or
+
+14:01:38
+<transcript>: In your position or the position of someone that makes a ton of money. If we can't see a roadmap for ourselves, I got to read that again. Another downside is that when you tell someone you can make a lot of money but not provide potential roadmap. Oh, I see. Yeah, hard to hear see ourselves in a position.
+
+14:01:38
+<transcript>: yeah this
+
+14:01:42
+<transcript>: Yeah, this goes back to I don't really feel like there is a roadmap.
+
+14:01:57
+<transcript>: The best I've been able to do is inspire people to think about going independent because there is a cap. When you work for somebody else, there's only so much you can make, and eventually you're just making a lot more value for them than for yourself. And you just have to go out on your own. That's the best I can do.
+
+14:01:57
+<transcript>: i feel like
+
+14:02:05
+<transcript>: I feel like everything else is so specific to your context. I have had one on one conversations with people where I can be more specific because I know more about their situation.
+
+14:02:05
+<transcript>: okay
+
+14:02:15
+<transcript>: Okay, don't spoil it. I'm quite happy making a lot of money type nonsense words that power websites that don't matter. Yeah, exactly that, man. I agree. Twitter is such a bubble. Super false reality.
+
+14:02:17
+cosmiclasagna: hey chat whatd i miss
+
+14:02:18
+<transcript>: As long as I can get a MacBook.
+
+14:02:23
+<transcript>: Good, bad intentions are subjective. I watch you in four ADP to make myself feel better.
+
+14:02:27
+<transcript>: Come visit. I love helping people is a huge boost for both people.
+
+14:02:27
+<transcript>: super side not
+
+14:02:30
+<transcript>: Super Side Note thanks for the Daily bite.
+
+14:02:33
+smilingbig: cosmiclasagna no one has won a macbook yet
+
+14:02:34
+mhuggins7278: @GoodGrandPaa also I didn't realize I sent the first one I thought I deleted it. Yeah sending twice was bad form :(
+
+14:02:35
+<transcript>: Oh, the daily Bite. Kevin, that's your thing. I know what the daily bite is.
+
+14:02:35
+<transcript>: i didn't know what you
+
+14:02:39
+thdxr: how much money can you make by switching to RSC
+
+14:02:49
+cosmiclasagna: @smilingbig expected
+
+14:02:52
+theaveragegoob: @techsavvytravvy you are in all the same chats I'm in LUL
+
+14:02:55
+<transcript>: I didn't know what you think, Kevin. I liked Miami when I was went there on vacation a while ago. I'll let you know if I come back. I hope you're enjoying it and love the emails. I don't think it's bad if you have multiple intentions and some of them are for you and others to help others. Yeah, it's a complicated thing. Intentions. It's impossible to suss it all out. It's okay. His wife doesn't have feelings for him. Stop it.
+
+14:03:01
+goodgrandpaa: @mhuggins7278 No problem! :) Hope you
+
+14:03:04
+<transcript>: Seriously mad? Dm? Yes, of course. Lesa, please do. I'm terrible at seeing and responding. Dms but you can, in fact, DM me. Please do.
+
+14:03:09
+goodgrandpaa: @mhuggins7278 Hope you're having a wonderful day*
+
+14:03:10
+<transcript>: Noted signs of the psychopath. Am I a psychopath? What's going on? Do we all determine that I'm a psychopath.
+
+14:03:12
+<transcript>: I got to eat my larvae. I'm hungry.
+
+14:03:17
+<transcript>: Confirmed Adam getting a lot of money working for himself as being a hitman.
+
+14:03:22
+<transcript>: Anything against the status quo, probably going to be perceived as bad intentions.
+
+14:03:26
+<transcript>: Change is bad. Yeah, I know that's what people feel.
+
+14:03:34
+<transcript>: I'm trying to catch up am I catching up.
+
+14:03:38
+<transcript>: I'm upset no one made an ozark joke when I am said he makes a ton of money.
+
+14:03:43
+thdxr: when we recording?
+
+14:03:44
+<transcript>: I found that so many people.
+
+14:03:44
+<transcript>: stopped on me
+
+14:03:50
+<transcript>: Stopped on me when I started talking about my success. I wonder why, though. Maybe it should sound maybe it sound like bragging.
+
+14:03:53
+<transcript>: You may be just a bit on Spectrum psychopath. Okay.
+
+14:03:53
+<transcript>: that sounds
+
+14:03:55
+<transcript>: That sounds much better.
+
+14:03:55
+<transcript>: have a great
+
+14:03:57
+<transcript>: Have a great motivation to build something that I don't.
+
+14:03:57
+<transcript>: i really don't
+
+14:04:00
+<transcript>: I really don't know what to build any advice.
+
+14:04:05
+jokestera_e: Are you and Dax gunna share startup stories in your podcast?
+
+14:04:06
+<transcript>: So.
+
+14:04:06
+<transcript>: what we're
+
+14:04:08
+<transcript>: What we're worked for.
+
+14:04:11
+<transcript>: Is.
+
+14:04:11
+<transcript>: we wrote down
+
+14:04:12
+<transcript>: We wrote down.
+
+14:04:12
+<transcript>: my
+
+14:04:13
+joaogomesdev: I want to start streaming, some tip?
+
+14:04:17
+<transcript>: My cofounder and I knew we want to build something together. We wrote down a list of, like, eight ideas.
+
+14:04:17
+<transcript>: and we
+
+14:04:31
+<transcript>: And we spent, like a whole day just, like going back and forth on pros and cons all these things. We ended up building sap muse because this was one we were most interested in. I think that helps when you're spending so much time and devoted to this thing.
+
+14:04:31
+<transcript>: if you really care
+
+14:04:33
+dmdboi: @joaogomesdev Press "start streaming"
+
+14:04:38
+<transcript>: If you really care about the product and you want it to exist for yourself helps a ton obviously other people there have to be other people like you.
+
+14:04:38
+<transcript>: that
+
+14:04:43
+<transcript>: That are going to enjoy it too. The other thing I would say is.
+
+14:04:43
+<transcript>: finding
+
+14:04:46
+mattmancodes: and eat larabars
+
+14:04:47
+<transcript>: Finding if you have a set of ideas and you can't pick.
+
+14:04:47
+<transcript>: finding
+
+14:04:54
+<transcript>: Finding one that people are most passionate about the thing. So sports people are really passionate about sports. I think that's helped stapmies a lot.
+
+14:04:54
+<transcript>: like we built something
+
+14:04:59
+joaogomesdev: @joaogomesdev true
+
+14:05:02
+<transcript>: Like, we built something that makes their sports experience a little better. They're very passionate about sports. So suddenly, they're very passionate about stat, muse. And that spread it really well.
+
+14:05:04
+br4hmm: space for example
+
+14:05:05
+<transcript>: Adam living in avery Tower. I don't want to do that.
+
+14:05:10
+<transcript>: Okay. Good Morning, Mr. Yan.
+
+14:05:16
+<transcript>: I have collected several mental health things. I'm probably not the best to judge.
+
+14:05:17
+<transcript>: Yeah.
+
+14:05:20
+aj_stuyvenberg: Yup that's super true, sports tech is a nice niche because fans are fanatic
+
+14:05:20
+<transcript>: I don't feel like.
+
+14:05:20
+<transcript>: i don't know what
+
+14:05:34
+<transcript>: I don't know what letters I have. I think I have some letters, though. I got fired once turned out to be the best thing to happen. It can. It can turn into the best thing. No. That was part of the conversation about getting people mad at your content or reacting. That's an old comment. I'm so behind.
+
+14:05:34
+<transcript>: hey chat
+
+14:05:36
+<transcript>: Hey, Chat. What I miss.
+
+14:05:36
+<transcript>: no
+
+14:05:38
+<transcript>: No one has won a MacBook.
+
+14:05:48
+<transcript>: I'm almost caught up. Also, I didn't realize I sent the first one. I thought I really how much money can you make by switching to RSC.
+
+14:05:49
+samhuckaby: I've gotta go to standup, but I will say on the startup/side-project front that it really helps to have another person who wants to work with you. I can't even count  the number of projects I built that I was excited about that died because I had no accountability.
+
+14:05:56
+<transcript>: Okay. I think I'm caught up.
+
+14:05:59
+smilingbig: some letters KEKW
+
+14:06:01
+<transcript>: When we're recording? Oh, yeah. Dax, you want to now.
+
+14:06:01
+<transcript>: what's up
+
+14:06:05
+<transcript>: What's up? Are you and dax going to share startup stories in your podcast? We should.
+
+14:06:08
+<transcript>: We did a little bit of talking about startups.
+
+14:06:15
+<transcript>: Joa, welcome to my chat. I want to start streaming some tips.
+
+14:06:17
+<transcript>: So many tips.
+
+14:06:31
+<transcript>: I have a ton? It's hard to distill them all? You just gotta try the first fewer you're gonna it's gonna be awkward? You're not gonna know what to say? Nobody's gonna be watching? But if you have here's my biggest tip.
+
+14:06:31
+<transcript>: don't
+
+14:06:34
+<transcript>: Don't start streaming if you don't have.
+
+14:06:34
+<transcript>: some kind
+
+14:06:36
+<transcript>: Some kind of an audience elsewhere.
+
+14:06:36
+<transcript>: i see
+
+14:06:44
+<transcript>: I see people start streaming and like that's the first thing they've done online, they don't really have, like a Twitter following or a YouTube account or something.
+
+14:06:44
+<transcript>: and i think
+
+14:06:47
+<transcript>: And I think you're going to stream for a long time to nobody.
+
+14:06:47
+<transcript>: and
+
+14:06:52
+<transcript>: And that'd probably be pretty disheartening. So I would build up like a Twitter following or something first.
+
+14:06:52
+<transcript>: and
+
+14:06:54
+<transcript>: And that's what I did. I.
+
+14:06:54
+<transcript>: 've just been on
+
+14:06:58
+<transcript>: 've just been on converting my Twitter following to twitch viewers.
+
+14:07:00
+warrenbuffering: @thdxr hahahaha
+
+14:07:02
+<transcript>: Because it's more fun to hang out on twitch than Twitter. For me.
+
+14:07:02
+<transcript>: eat lar
+
+14:07:05
+<transcript>: Eat Larvars Ads a good tip.
+
+14:07:10
+<transcript>: Superjee Sports, tech.
+
+14:07:10
+<transcript>: is
+
+14:07:14
+<transcript>: Is a nice niche because fans are fanatic exactly.
+
+14:07:17
+thdxr: where do i go
+
+14:07:23
+<transcript>: Csa, I'm going to go stand up, but I will say on the startup side project front that really helps have another person who wants to work with you can't even count the number of projects I built. Yes.
+
+14:07:33
+<transcript>: Actually having a co founder, and you both are in this and you quit your job and you're doing this that just like made sure we didn't just quit.
+
+14:07:33
+<transcript>: neither one of us
+
+14:07:40
+breakburnblow: What is your podcast?
+
+14:07:43
+mhuggins7278: We recently discovered Kodiak Bars so good
+
+14:07:44
+<transcript>: Neither one of us was going to drop out like we're going to do this together. And then eventually you get investors involved. Once people have put money into it, even family and friends. Once there's money on the line.
+
+14:07:48
+<transcript>: You're accountable to them. It does help a ton like side projects.
+
+14:07:48
+<transcript>: by yourself even
+
+14:07:57
+<transcript>: By yourself, even if you're able to build the whole thing and market the whole thing and do it all yourself, it's so much harder to do it alone because you don't have anybody who's going to make sure you keep going.
+
+14:07:59
+<transcript>: Okay.
+
+14:07:59
+<transcript>: what
+
+14:08:04
+<transcript>: What is your podcast? Where do I go? Dax? Do you want to do it on your stream or mine.
+
+14:08:10
+<transcript>: Yeah, actually, I can accommodate mine if you want to join mine. Whatever you think.
+
+14:08:18
+<transcript>: Brake burn.
+
+14:08:20
+adamdotdev: !podcast
+
+14:08:20
+fossabot: Adam has a podcast with Dax Raad (@thdxr) where they talk about the future of everything: https://tomorrow.fm
+
+14:08:22
+<transcript>: Podcast.
+
+14:08:22
+<transcript>: very
+
+14:08:23
+<transcript>: Very.
+
+14:08:23
+<transcript>: podcast
+
+14:08:24
+<transcript>: Podcast.
+
+14:08:38
+breakburnblow: Thanks
+
+14:08:38
+<transcript>: What do you think, dax? Do it on minor years.
+
+14:08:45
+thdxr: yours is fine
+
+14:08:49
+goodgrandpaa: This song is fire
+
+14:08:50
+<transcript>: Okay.
+
+14:08:52
+<transcript>: Dose works.
+
+14:08:54
+thdxr: hit me with that riverside
+
+14:08:55
+<transcript>: I'm going to send you.
+
+14:08:57
+thdxr: and change the topic
+
+14:09:01
+<transcript>: Yeah, this is a good song. It's a really good song. I'm going to send you the Ping link.
+
+14:09:10
+<transcript>: Let's get you on Ping.
+
+14:09:15
+<transcript>: Okay.
+
+14:09:15
+<transcript>: hit me
+
+14:09:19
+<transcript>: Hit me with that Riverside and change the topic. Yeah.
+
+14:09:19
+<transcript>: join
+
+14:09:26
+goodgrandpaa: Emocean Famous Exchange
+
+14:09:28
+<transcript>: Join ping. I'm going to go to break while me and dax at the logistics sorted out here and dax will be back with me and we'll do the podcast and then I'll probably be done for the day. Be right back.
+
+14:09:33
+goodgrandpaa: Song for those that want to know.
+
+14:09:37
+binajmen: hi all :)
+
+14:09:56
+goodgrandpaa: Hello hello!
+
+14:10:02
+<transcript>: Hey, can you hear me.
+
+14:10:08
+<transcript>: Hello.
+
+14:10:08
+<transcript>: hello
+
+14:10:09
+<transcript>: Hello.
+
+14:10:15
+<transcript>: Can you hear me now.
+
+14:10:20
+<transcript>: Oh, just riverside. Just share my screen.
+
+14:10:20
+<transcript>: that's better
+
+14:10:21
+<transcript>: That's better.
+
+14:10:25
+<transcript>: Yeah, that's better.
+
+14:10:28
+<transcript>: Yeah. Okay.
+
+14:10:28
+<transcript>: so let
+
+14:10:31
+<transcript>: So let me get on the Riverside.
+
+14:10:35
+<transcript>: You need the link to.
+
+14:10:38
+<transcript>: Join.
+
+14:10:45
+<transcript>: Okay.
+
+14:10:51
+<transcript>: Is it? Maybe it is okay. I'm going to drop off Ping.
+
+14:10:53
+<transcript>: I'll send you the link.
+
+14:10:53
+<transcript>: okay
+
+14:10:55
+<transcript>: Okay. See you.
+
+14:11:33
+harry_kd: Hello Hello.
+
+14:11:52
+harry_kd: Hello @GoodGrandPaa How you doing?  I see you follow adam too. :)
+
+14:12:07
+thdxr: for chat - topic is getting into open source and can you post questions you have in the watch.tv discord in adam's channel? want to keep it seperate from the twitch chat
+
+14:12:25
+<transcript>: I'm trying to get it working.
+
+14:12:25
+<transcript>: jax
+
+14:12:28
+<transcript>: Jax is not. He hasn't joined yet.
+
+14:12:31
+<transcript>: Dax.
+
+14:12:34
+mattmancodes: F
+
+14:12:35
+<transcript>: Sorry. I was muted.
+
+14:12:35
+<transcript>: dax
+
+14:12:35
+andreaslorozco: we can't hear you
+
+14:12:37
+binajmen: muted?
+
+14:12:37
+<transcript>: Dax, join DAX.
+
+14:12:39
+<transcript>: Dax.
+
+14:12:41
+<transcript>: Are you joining.
+
+14:12:43
+<transcript>: You haven't joined.
+
+14:12:48
+<transcript>: Are you still here? Dax.
+
+14:12:48
+<transcript>: people
+
+14:12:49
+<transcript>: People.
+
+14:12:49
+<transcript>: am i not seeing
+
+14:12:50
+smilingbig: KEKW
+
+14:12:50
+thdxr: ACCEPT
+
+14:12:54
+<transcript>: Am I not seeing it? Oh, there it is. Yeah. Okay. So I'm going to go to my screen.
+
+14:12:57
+<transcript>: Except.
+
+14:13:00
+<transcript>: What just happened? How do I do this.
+
+14:13:03
+<transcript>: I got to stop the music for one.
+
+14:13:05
+<transcript>: Can you guys see my screen.
+
+14:13:10
+<transcript>: In the infinite vortex of DAX.
+
+14:13:10
+mattmancodes: yes
+
+14:13:13
+night_light90: yes
+
+14:13:14
+andreaslorozco: yes
+
+14:13:15
+<transcript>: How do I make this not look like this? Dax.
+
+14:13:17
+smilingbig: yes
+
+14:13:17
+mad_cucumber: Y
+
+14:13:19
+<transcript>: I don't know.
+
+14:13:19
+<transcript>: oh
+
+14:13:20
+<transcript>: Oh, I need.
+
+14:13:20
+<transcript>: to
+
+14:13:21
+goodgrandpaa: @harry_kd Hello! yes I do! I'm doing well! how are you? I feel like I've seen you in another place, maybe corelo's stream?
+
+14:13:22
+<transcript>: To change this.
+
+14:13:24
+jokestera_e: dax is muted
+
+14:13:26
+mattmancodes: can't hear Dax
+
+14:13:26
+<transcript>: I need it to be.
+
+14:13:26
+<transcript>: ob
+
+14:13:26
+smilingbig: infinite daxverse
+
+14:13:31
+<transcript>: Obs virtual Cam but I need a change. The virtual Cam to be a different thing.
+
+14:13:31
+<transcript>: a source
+
+14:13:35
+<transcript>: A source. Maybe. Camera one. Yeah.
+
+14:13:35
+<transcript>: okay
+
+14:13:38
+<transcript>: Okay. So like this.
+
+14:13:38
+<transcript>: but
+
+14:13:42
+<transcript>: But I'm sharing. Okay, this is so trippy.
+
+14:13:42
+mattmancodes: silent dax
+
+14:13:43
+harry_kd: @GoodGrandPaa Yes. :)  I do rust stuff.
+
+14:13:48
+aj_stuyvenberg: daxagonia is here
+
+14:13:49
+harry_kd: I am good.
+
+14:13:49
+<transcript>: So Stream sees me there, but it's going to record it like I'm looking at you. Okay. We're good.
+
+14:13:53
+dmdboi: This is like showing my grandma how to use the tv remote
+
+14:13:56
+goodgrandpaa: @harry_kd Very cool! I'm glad to hear that you're good!
+
+14:13:58
+<transcript>: That's a good idea.
+
+14:14:02
+smilingbig: can't hear dax
+
+14:14:02
+mhuggins7278: we don't hear dax
+
+14:14:03
+<transcript>: Can I do that quickly.
+
+14:14:03
+daglee: Dax is muted for us.
+
+14:14:04
+jokestera_e: No sound from DAx
+
+14:14:05
+archieedwds: are we supposed to hear dax
+
+14:14:09
+<transcript>: Well, for the vod. I don't care. Riverside will just be our faces in case we're going to use the video. Yeah. Okay.
+
+14:14:13
+<transcript>: Wait. What are we doing? What are we recording? I have no idea.
+
+14:14:19
+<transcript>: Oh, no, I got to do this. Hang on, I got to do this in Firefox.
+
+14:14:21
+mattmancodes: lip reading dax
+
+14:14:22
+ocelot2123: just full screen the browser page?
+
+14:14:23
+<transcript>: You can't hear dax, you people.
+
+14:14:24
+smilingbig: dax is muted
+
+14:14:26
+<transcript>: I'm leaving. I'll be right back.
+
+14:14:33
+<transcript>: Let's see.
+
+14:14:33
+<transcript>: rive
+
+14:14:35
+<transcript>: Riverside.
+
+14:14:38
+<transcript>: I got to log into Riverside.
+
+14:14:42
+<transcript>: Logistics, though.
+
+14:14:43
+harry_kd: Hello adam's twin brother. :)
+
+14:14:45
+<transcript>: Logistics.
+
+14:14:50
+binajmen: I'm trying really hard to do lips-reading but I'm not good at this ^^
+
+14:14:52
+<transcript>: Dax is muted. Okay, just full screen. The browser page.
+
+14:14:57
+<transcript>: Sorry you guys like so many people told me you couldn't.
+
+14:14:57
+<transcript>: hear
+
+14:15:00
+<transcript>: Hear text, and I was just ignoring it.
+
+14:15:04
+<transcript>: It's like showing my grandpa how to use the TV remote.
+
+14:15:07
+<transcript>: That's so good.
+
+14:15:07
+<transcript>: infinite
+
+14:15:10
+<transcript>: Infinite dax verse how did I miss all these messages.
+
+14:15:10
+<transcript>: let
+
+14:15:12
+<transcript>: Let's see.
+
+14:15:13
+smilingbig: KEKW
+
+14:15:16
+goodgrandpaa: Hey, I learned quickly how to use that remote.. Kappa
+
+14:15:20
+<transcript>: Well, there you go. Log in second to work. Just like that. All right, go to studio. We're so close, guys. So close.
+
+14:15:22
+<transcript>: Oh no.
+
+14:15:25
+<transcript>: Not like this.
+
+14:15:28
+<transcript>: We only work with Chrome and edge.
+
+14:15:29
+archieedwds: haha
+
+14:15:29
+ocelot2123: LUL
+
+14:15:30
+<transcript>: No.
+
+14:15:33
+<transcript>: Dax, can you see this.
+
+14:15:33
+<transcript>: let's
+
+14:15:37
+mattmancodes: LUL
+
+14:15:37
+<transcript>: Let's do it. Dax going to do on your stream.
+
+14:15:37
+<transcript>: i'm not
+
+14:15:38
+smilingbig: LUL
+
+14:15:39
+<transcript>: I'm not set up for this.
+
+14:15:42
+thdxr: yeah let's do it
+
+14:15:43
+<transcript>: Dax, are you still here.
+
+14:15:48
+<transcript>: Okay. Perfect. I'm going to raid you. Start your start your stream.
+
+14:15:48
+<transcript>: i'm going to come back
+
+14:15:50
+<transcript>: I'm going to come back over here.
+
+14:15:53
+zirus16: edge is the solution
+
+14:15:55
+<transcript>: Sorry for the train wreck ending, everybody. Thanks.
+
+14:15:55
+<transcript>: for
+
+14:15:59
+goodgrandpaa: Darn, would've been cool to win in that moment Kappa
+
+14:16:02
+<transcript>: For waiting to try and watch. We're going to do it on daxa stream. I'm going to rate them so you don't have to go anywhere.
+
+14:16:02
+dmdboi: Great podcast!
+
+14:16:06
+smilingbig: KEKW
+
+14:16:06
+dmdboi: Loved the bit where Dax was on it
+
+14:16:07
+<transcript>: Hey, I learned quickly how to use that remote. Grandpa.
+
+14:16:07
+<transcript>: we're been cool
+
+14:16:11
+<transcript>: We're been cool to win in that moment. That would have been cool.
+
+14:16:11
+<transcript>: great
+
+14:16:14
+<transcript>: Great podcast. Love the bit where dax was on it. Yeah.
+
+14:16:17
+<transcript>: I love how.
+
+14:16:17
+<transcript>: dax
+
+14:16:18
+goodgrandpaa: @dmdboi LUL
+
+14:16:22
+dmdboi: KEKW
+
+14:16:22
+<transcript>: Dax has a linux environment and he's going to be able to get audio working better than me.
+
+14:16:22
+<transcript>: that
+
+14:16:24
+<transcript>: That's funny.
+
+14:16:27
+<transcript>: Okay. Well.
+
+14:16:27
+<transcript>: did he
+
+14:16:28
+dmdboi: Oh kekws work on chat overlay
+
+14:16:30
+davidponc_e: is a signal MiniK
+
+14:16:31
+aj_stuyvenberg: clip it
+
+14:16:31
+smilingbig: yeah KEKW
+
+14:16:32
+<transcript>: Did he start it? Is he going? Just axe going.
+
+14:16:32
+<transcript>: twitch
+
+14:16:33
+<transcript>: Twitch.
+
+14:16:34
+jokestera_e: lmao that is actually pretty funny
+
+14:16:35
+<transcript>: Tv.
+
+14:16:37
+<transcript>: Dax.
+
+14:16:40
+<transcript>: Welcome to Chat. David.
+
+14:16:42
+dmdboi: PeepoClap
+
+14:16:46
+<transcript>: What is happening? Why am I hearing myself? Okay.
+
+14:16:46
+<transcript>: there's dax
+
+14:16:52
+<transcript>: There's dax. Here we go. I'm rating him now. It's been fun, everybody, as always. Maybe we could do it again. Sometime.
+
+14:17:00
+andreaslorozco: baaai
+
+14:17:01
+smilingbig: <3
+
+14:17:19
+smilingbig: we always raiding studytime KEKW
+
+14:17:25
+sockthedev: raid cancelled
+
+14:17:29
+binajmen: wrong target
+
+14:18:32
+<transcript>: Hey, I'm here.
+
+14:18:38
+<transcript>: Why was this so loud.
+
+14:18:52
+<transcript>: Can I talk now.
+
+14:18:57
+<transcript>: I can't hear you.
+
+14:19:01
+<transcript>: Oh, now I can yeah, now I can okay.
+
+14:19:01
+<transcript>: jeez
+
+14:19:02
+<transcript>: Jeez.
+
+14:19:02
+<transcript>: that was
+
+14:19:04
+<transcript>: That was intense.
+
+14:19:04
+<transcript>: i was
+
+14:19:08
+<transcript>: I was hearing you twice too so I did really hear anything you just said.
+
+14:19:11
+<transcript>: I'm going to move this over here.
+
+14:19:17
+<transcript>: Lower me. Dax. Put me in my place.
+
+14:19:28
+<transcript>: Check one too. I'm talking. I'm sorry, everybody if I'm breaking your ears, I'm talking, I'm talking, I'm talking check, check.
+
+14:19:33
+<transcript>: Okay, lower me. Daddy. How much money does zack need to claw from us.
+
+14:19:35
+<transcript>: Oh, ads.
+
+14:19:49
+<transcript>: Calface. Nine months. Thank you so much for the nine months. You reset for nine months. And I missed it. Sorry, dax. I know this is your stream. There it is.
+
+14:19:49
+<transcript>: am i just
+
+14:19:53
+<transcript>: Am I just in time to end the stream? Oh, no, I'm so sorry.
+
+14:19:56
+<transcript>: Nine months? That's crazy. Sorry.
+
+14:20:04
+<transcript>: I think so.
+
+14:20:16
+<transcript>: Did the raid work? What do you mean? Yeah, we're all here, right? We rated you.
+
+14:20:22
+<transcript>: Oh.
+
+14:20:27
+<transcript>: Did I blow their ears out now left.
+
+14:20:29
+<transcript>: That's funny.
+
+14:20:33
+<transcript>: Shaken. Bake's not here.
+
+14:20:38
+<transcript>: It's probably just broken. Yeah.
+
+14:20:41
+<transcript>: Alan's here.
+
+14:20:52
+<transcript>: I still don't know what we're talking about on the podcast. Do you know what we're talking about? Have we decided.
+
+14:20:56
+<transcript>: Oh Yeah.
+
+14:21:06
+<transcript>: What was the question format? Oh, like answering people's questions.
+
+14:21:15
+<transcript>: Yes.
+
+14:21:22
+<transcript>: Love it.
+
+14:21:27
+<transcript>: Oh, let me let me name the recording. What is this episode number.
+
+14:21:31
+<transcript>: Do you know what numbers.
+
+14:21:34
+<transcript>: Look.
+
+14:21:34
+<transcript>: three
+
+14:21:36
+<transcript>: Three.
+
+14:21:39
+<transcript>: This will be 18.
+
+14:21:45
+<transcript>: I know seems like more.
+
+14:22:09
+<transcript>: I think like for being a 25 to 30 minutes episode. I think people expect a couple of times a week that's most podcasts I listen to are like two, three times a week when they're 30 minutes episodes. I think if they were like an hour.
+
+14:22:09
+<transcript>: maybe
+
+14:22:10
+<transcript>: Maybe.
+
+14:22:10
+<transcript>: i don't know why
+
+14:22:16
+<transcript>: I don't know why that is. I don't know why people have that expectation. Why I have that expectation. But I do think.
+
+14:22:16
+<transcript>: there's
+
+14:22:20
+<transcript>: There's a reason people say that they want us to do it more.
+
+14:22:30
+<transcript>: Yeah.
+
+14:22:37
+<transcript>: I think we should have one episode that's just like.
+
+14:22:37
+<transcript>: a mailbag
+
+14:22:41
+<transcript>: A mailbag with a bunch of recurring segments that we do or something.
+
+14:22:46
+<transcript>: That just makes it really easy. We don't have to think about it. We just, like, get on. We record.
+
+14:22:59
+<transcript>: We definitely need to come up with some recurring segments, so we're not just like, one conversation, every episode. Like where it's like, here's a thing we do.
+
+14:23:08
+<transcript>: Just structures. It a little bit more.
+
+14:23:10
+<transcript>: I will say.
+
+14:23:10
+<transcript>: my wife
+
+14:23:18
+<transcript>: My wife watches TikTok, and there's a lot of two guys on a podcast on TikTok, like a lot of it. And they're hilarious. We're not hilarious, but we should try.
+
+14:23:18
+<transcript>: because i think
+
+14:23:21
+<transcript>: Because I think we do really well on TikTok.
+
+14:23:23
+<transcript>: It's some funny stuff.
+
+14:23:23
+<transcript>: we watch
+
+14:23:25
+<transcript>: We watch them a lot.
+
+14:23:37
+<transcript>: Yeah. Send them to you.
+
+14:23:39
+<transcript>: Yeah.
+
+14:23:56
+<transcript>: Favorite Open source maintainer great question, Teach, favorite Open source maintainer I only sponsor one. So there's your answer. Teach.
+
+14:23:56
+<transcript>: i sponsor
+
+14:23:59
+<transcript>: I sponsor Teach. Oh, you're an open source maintainer day.
+
+14:24:02
+<transcript>: I guess I could sponsor you.
+
+14:24:05
+<transcript>: Oh really.
+
+14:24:09
+<transcript>: Well, there you go. I knew that.
+
+14:24:22
+<transcript>: Okay, but I could get one in at the wire.
+
+14:24:31
+<transcript>: That's awesome.
+
+14:24:35
+<transcript>: Oh, we're talking about Open Source today. That was an on point question.
+
+14:24:39
+<transcript>: That was a great question about open source.
+
+14:24:48
+<transcript>: Okay, getting an open source. I'm ready to do this. Oh, I'm going to be bringing up the cdk and stuff, and you're going to get spicy. It's going to be good.
+
+14:24:54
+<transcript>: Because that was my beginning of open Source. That's how I got started.
+
+14:24:59
+<transcript>: Oh, right. They don't like you.
+
+14:24:59
+<transcript>: i wonder how
+
+14:25:05
+<transcript>: I wonder how that works. Because they like me. At least they did. They might not like me because I associate with you.
+
+14:25:14
+<transcript>: Because I'm just thinking, like if they really don't like you wonder how that works? Because I know there's people there that like me. Okay. Anyway, let's record.
+
+14:25:23
+<transcript>: Okay, we're here now. Okay? We don't need your hitman money. There's 17 of us. There are dozens. There's not even.
+
+14:25:25
+<transcript>: Oh, really? Mine says 17.
+
+14:25:25
+<transcript>: okay
+
+14:25:28
+<transcript>: Okay, so there are some people here. I did successfully raid you.
+
+14:25:33
+<transcript>: Let's go less about send us your suggestions.
+
+14:25:33
+<transcript>: hot
+
+14:25:38
+<transcript>: Hot take episode that's good eight or nine 1 hour episode of the week.
+
+14:25:53
+<transcript>: Two months.
+
+14:26:05
+<transcript>: Yeah. We're not going to be paying attention to you. You people. Here we go. Ready.
+
+14:26:07
+<transcript>: Are you ready.
+
+14:26:07
+<transcript>: i
+
+14:26:14
+<transcript>: I don't know why I even ask. It's not like a big pressure moment. We can always not be ready. Have you noticed that, Chris.
+
+14:26:14
+<transcript>: will cut out
+
+14:26:21
+<transcript>: Will cut out cool parts in the middle to make our intro so we don't have to think about anymore. It takes all the pressure off. We can just kind of go into it however you want.
+
+14:26:25
+<transcript>: I know, Yeah.
+
+14:26:38
+<transcript>: It's just hard to get into a conversation, especially when you know you're doing it. It's a forced way, like you're trying to start a podcast. Okay, let's just do it. So next, how'd you get into open source.
+
+14:26:59
+<transcript>: Obviously.
+
+14:27:09
+<transcript>: I mean, if you suck now, then obviously you sucked at that age. I'm just kidding. That was like me having a dig at you. Okay. Sorry. Keep going. Yeah, I know.
+
+14:28:56
+<transcript>: Wow.
+
+14:30:33
+<transcript>: Yeah. So I wanted to just let you keep going and, like, share all that very helpful information for our audience, because I'm sure they'll get a lot out of it. But the whole time I was just thinking how much I hate you. I thought you were millennial, like me.
+
+14:30:36
+<transcript>: I thought you were a late bloomer.
+
+14:30:39
+<transcript>: I've accomplished nothing until I was like 25 years old.
+
+14:30:53
+<transcript>: Don't even think I started writing code until I was 20 something. And I thought you were like me. I thought you were a millennial. But you're like the Gen Z people now who have done everything since they were like twelve. I didn't realize that about you. I didn't know that until just now.
+
+14:31:05
+<transcript>: Yeah. You've made fun of that with me. Like how accomplished some of these 16 year olds are.
+
+14:31:53
+<transcript>: Yeah, it's it's cool to think about how that all compounds like each generation should have.
+
+14:31:53
+<transcript>: like
+
+14:32:00
+<transcript>: Like earlier and earlier successes and and just people who are able to leverage all this stuff fully.
+
+14:32:08
+<transcript>: Yeah, it's interesting. The game thing. So I just finished reading Masters of doom. And anytime I read a book.
+
+14:32:08
+<transcript>: i have to
+
+14:32:28
+<transcript>: I have to find a way to interject that into a conversation. And you said something about games and open source. And in that book, John carmack talks about how they made doom, like, very extensible and all of the stuff he did with those early games, quake and doom and all those it was like a big part of it was open source. And he's like, a big, like, everything should be open source, person.
+
+14:32:28
+<transcript>: do you feel that way do you
+
+14:32:33
+<transcript>: Do you feel that way? Do you feel like everything should be open source and anything that's not is evil.
+
+14:33:51
+<transcript>: Bye.
+
+14:33:51
+<transcript>: but
+
+14:33:54
+<transcript>: But what about like elastic search.
+
+14:33:54
+<transcript>: and like
+
+14:34:02
+<transcript>: And like aws, and like taking people's stuff and then making a whole service on it. Isn't that the counterpoint.
+
+14:34:08
+<transcript>: Did they just not have the license in time? Is that what the problem was.
+
+14:34:42
+<transcript>: Yeah.
+
+14:35:06
+<transcript>: Interesting.
+
+14:35:11
+<transcript>: I have all kinds of questions that are not really where we're supposed to be going with this episode.
+
+14:35:11
+<transcript>: so i'm going to
+
+14:35:23
+<transcript>: So I'm going to shift into things I think we are supposed to talk about which is getting into open source. You think everyone should try and start their career that way? Or if you're new to open source, you need to dive in. It'll benefit your career no matter who you are.
+
+14:38:39
+<transcript>: Yeah. So you you really look at it that way. I know you do because you I feel like you're like an open source investor.
+
+14:38:39
+<transcript>: like you find
+
+14:38:58
+<transcript>: Like, you find projects early and you like, pump them up. Now you're in a position now where you have some influence and you can like you you evaluate it and you're like, these people are doing the right thing. They're they're they're this is an area that's impactful and they're executing. Well, I mean, I'm just thinking of drizzle. I'm specifically thinking of drizzle. You've done it with other stuff, though.
+
+14:38:58
+<transcript>: where you find
+
+14:39:00
+<transcript>: Where you find things really early.
+
+14:39:02
+<transcript>: And I don't.
+
+14:39:02
+<transcript>: does everyone have
+
+14:39:05
+<transcript>: Does everyone have that? Can everyone do that.
+
+14:39:08
+<transcript>: Is that a unique skill of yours.
+
+14:40:14
+<transcript>: Yeah.
+
+14:40:51
+<transcript>: So that was I think that was my next question is like, what are the downsides here? Or what's the risk? If you invest heavily in something that doesn't go anywhere? Is it better to kind of sprinkle yourself.
+
+14:40:51
+<transcript>: amongst
+
+14:40:59
+<transcript>: Amongst multiple open source projects when you're early and you're trying to find a place in a community and then find which one has more traction. Double down.
+
+14:41:13
+<transcript>: Yeah.
+
+14:42:12
+<transcript>: Still time to get it on quick jump in there people.
+
+14:42:23
+<transcript>: Yeah.
+
+14:42:31
+<transcript>: You're getting something out of it? Yeah, it's not a complete loss.
+
+14:42:34
+<transcript>: Yeah.
+
+14:42:49
+<transcript>: So.
+
+14:42:53
+<transcript>: I feel like I love Open Source. Okay, I love it.
+
+14:42:56
+<transcript>: It's enabled so many things in my career. It's great.
+
+14:42:56
+<transcript>: but i don't feel like
+
+14:43:02
+<transcript>: But I don't feel like I'm a true open source person. I feel like you have to adopt a creed.
+
+14:43:02
+<transcript>: it'll sign
+
+14:43:13
+<transcript>: It'll sign something in blood that you will never do another thing in software that's not open source or something. I don't know. You have to really sell your soul to the open source community.
+
+14:43:20
+<transcript>: I have used open source in sort of like a pragmatic way. I've contributed in a very pragmatic way.
+
+14:43:21
+<transcript>: When I need something.
+
+14:43:21
+<transcript>: i
+
+14:43:33
+<transcript>: I need a feature and a thing I use a lot and it's open source. I know I can just submit a PR and that's basically all my contributions of open source have just been thing I use doesn't do thing I needed to do. I'm going to make it do that thing.
+
+14:43:41
+<transcript>: Does that make me like, do you guys all just look down on people like me? Are you even aware that I exist.
+
+14:44:23
+<transcript>: Yeah.
+
+14:46:04
+<transcript>: We've all used something.
+
+14:46:04
+<transcript>: in open source
+
+14:46:15
+<transcript>: In open source and relied on it even heavily. And then it lost the ability to maintain itself like it lost funding, or it never really had it. And the people who were maintaining it just had other things to do.
+
+14:46:22
+<transcript>: Like you said, alignment of incentives when an open source project is healthy and making money.
+
+14:46:22
+<transcript>: where does it come from
+
+14:46:23
+<transcript>: Where does it come from.
+
+14:46:23
+<transcript>: do you
+
+14:46:26
+<transcript>: Do you understand? Maybe you could help me understand.
+
+14:46:31
+<transcript>: The sort of zealots that don't think you should make money with software.
+
+14:46:35
+<transcript>: Could you tell me what your dax brain has figured out about that.
+
+14:46:40
+<transcript>: The good argument for that.
+
+14:46:49
+<transcript>: Are we about to get into, like capitalism and stuff. Is that where we're headed.
+
+14:46:53
+<transcript>: Oh, boy. All right, let's do it.
+
+14:47:49
+<transcript>: Yeah.
+
+14:48:57
+<transcript>: This keeps coming up just in the last few days for me.
+
+14:48:57
+<transcript>: in my brain
+
+14:49:00
+<transcript>: In my brain. The idea that.
+
+14:49:00
+<transcript>: no
+
+14:49:08
+<transcript>: No intentions can be completely pure. And I think the more we're just honest with that. And we just accept that our intentions.
+
+14:49:23
+<transcript>: Are largely selfish or at least partially selfish. And the more upfront about that we are. I think that's the best we can do in terms of being honest with ourselves and with everyone else. I think you get into trouble when you start trying to pretend or start trying to convince people that all of your motives.
+
+14:49:23
+<transcript>: are pure your
+
+14:49:26
+<transcript>: Are pure. Your intentions are good.
+
+14:49:28
+<transcript>: It's all just so complicated.
+
+14:49:57
+<transcript>: Yeah.
+
+14:51:27
+<transcript>: No, that sounds great. I've never had those dreams of just being an open source maintainer, but I know that there's something for everybody.
+
+14:51:27
+<transcript>: it
+
+14:51:30
+<transcript>: It seems to be working for you you seem to enjoy it.
+
+14:51:38
+<transcript>: Yeah.
+
+14:51:51
+<transcript>: Sure.
+
+14:52:02
+<transcript>: Yeah, I have nothing else to add. I mean, I'm not much of a contributor to open source, so I don't have much to contribute to this conversation.
+
+14:52:19
+<transcript>: Yeah. So I started. I mean, my first open source contribution was to the cdk, I think.
+
+14:52:24
+<transcript>: And it was that I was working with a python shop. And.
+
+14:52:24
+<transcript>: we
+
+14:52:34
+<transcript>: We were using the cdk. We were using it in python, and there wasn't an easy way to bundle up python Lambda functions. So there was like no js function as a construct that'll bundle.
+
+14:52:50
+<transcript>: Your thing up. You don't have to think about it. You just write the code and it just ships it. There wasn't equivalent for python. So I made a python function construct, which was basically just like copying the node js one, but doing python things. Pip, installing, dependencies and all that stuff.
+
+14:52:50
+<transcript>: that was my
+
+14:53:00
+<transcript>: That was my first contribution I had gotten. I think I did what you said. Actually, in retrospect, I was kind of plugged into the cdk community because I was using it so much.
+
+14:53:00
+<transcript>: i don't remember if it
+
+14:53:06
+<transcript>: I don't remember if it's slack or discord wherever I was kind of in that community, I was seeing a lot of the github activity just because.
+
+14:53:22
+<transcript>: I wanted to know when there were some new feature or something new that we could take advantage of in the cdk. So before I ever contributed, I was definitely doing that. I was kind of like active member, and then at some point needed something and put out a PR for it. Learned a lot just about.
+
+14:53:22
+<transcript>: the process
+
+14:53:39
+<transcript>: The process of working with maintainers and kind of like especially how aws does Open Source. And there's actually a team that's meeting every day and talking about their stuff behind the veil, and then you get little inklings of it out. I know that's not necessarily.
+
+14:53:45
+<transcript>: Doesn't apply everywhere with open source, but for an aws project, that was my first.
+
+14:53:45
+<transcript>: and then
+
+14:53:47
+<transcript>: And then I think from there.
+
+14:53:47
+<transcript>: it was kind of like cool
+
+14:53:57
+<transcript>: It was kind of like, cool to see it merged. I remember the day I can remember being so excited when they merged. It telling my wife about it. She's like, okay, cool. Sounds awesome. What are these words.
+
+14:54:05
+<transcript>: And then from there, I think I did other things like that. Like I was using turbo repo pretty early with turbo repo and.
+
+14:54:05
+<transcript>: it was like
+
+14:54:25
+<transcript>: It was like I had played with Go in my career, didn't have a lot of experience with it, and kind of wanted a reason to do more ghost stuff just to see what's this like. And there was something it didn't do for cdk projects. So it kind of like started with cdk that led into other projects I'm using. They didn't work well together. So I shipped a PR, the turbo repo to make it cache.
+
+14:54:25
+<transcript>: cdk
+
+14:54:27
+<transcript>: Cdk stuff better.
+
+14:54:27
+<transcript>: and just
+
+14:54:35
+<transcript>: And just kind of like, down the line. It was like every time I ran into new things on any given project where I was fitting together technologies that maybe.
+
+14:54:45
+<transcript>: Not a lot of people were fitting together, so I had kind of a weird use case. Open source, made it possible to go in and contribute to those projects and make it possible to do what I wanted to do.
+
+14:54:45
+<transcript>: so
+
+14:54:54
+<transcript>: So I think that's the biggest thing is just kind of like being off the beaten path in terms of my stack. In terms of things that interest me, this intersection of web development and AWS.
+
+14:55:00
+<transcript>: That really kind of like led me down a very pragmatic open source journey, if that makes sense.
+
+14:55:26
+<transcript>: Yeah, yeah. I mean the cdk as a project like anybody could go contribute to cdk because there's just so much service area.
+
+14:55:26
+<transcript>: and if you know
+
+14:55:40
+<transcript>: And if you know what the cdk is, it's like trying to kind of cover all of aws. So ssc is great because it just focuses on the 2% that you really need. The cdk is like a wrapper around cloud formation, so there's just infinite work in that repo.
+
+14:55:50
+<transcript>: Like if you're into aws stuff and you need a repo to look at, there you go. I don't know. Does sst take contribution time? Do you guys actually have much community stuff.
+
+14:56:55
+<transcript>: I was totally listening. I was Chris, you might have to edit this somehow. I just noticed in Chat that T is here. In chat.
+
+14:56:57
+<transcript>: Yeah.

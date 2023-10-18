@@ -1,0 +1,1048 @@
+
+
+00:00:41
+nullchefo: HeyGuys
+
+00:00:46
+llebc: FIRST
+
+00:00:48
+llebc: I win
+
+00:01:09
+laame: X - doubt
+
+00:01:12
+sj_se: you were second behind nullchefo
+
+00:01:28
+overra_dev: i am first.
+
+00:01:40
+llebc: no way. I literally got here when the stream was 00:01 :D
+
+00:01:47
+llebc: Well played Chefo.
+
+00:02:17
+matty_twoshoes: not first
+
+00:03:17
+cosmiclasagna: someone think of a reason adam should go to render
+
+00:03:39
+dmdboi: I have never seen those Aws posters before
+
+00:04:14
+vagorge: one day ill win
+
+00:05:05
+thdxr: i'm about to go live too
+
+00:06:07
+itsmeleague: Hello fellow vercel enthusiasts BatChest
+
+00:07:57
+cosmiclasagna: @thdxr watch party again?
+
+00:08:24
+aj_stuyvenberg: rated R for _radical_
+
+00:09:04
+caiocodes: me: "thats a cool desk!"; also me: "wait is 2k dollars wtf"
+
+00:09:40
+dmdboi: Uh I redeemed for a MacBook and it didn't take my points
+
+00:09:54
+aj_stuyvenberg: Gamble again!
+
+00:09:55
+aj_stuyvenberg: free money!
+
+00:09:58
+dmdboi: Oh it was twitch UI
+
+00:10:05
+dmdboi: Hello fellow streamer
+
+00:11:37
+caiocodes: hi adam!
+
+00:11:43
+mcnets: hi
+
+00:11:54
+itsmeleague: Wow dax trying to win the macbook
+
+00:11:54
+livemahs: good morning!
+
+00:12:34
+dmdboi: Dax won't be at render
+
+00:12:35
+thdxr: adam stay home
+
+00:12:44
+ben_winnen: Mornin!
+
+00:12:47
+thdxr: i'm not going to render and you're gonna be super awkward there
+
+00:12:50
+noctate12: hi Adam do you think frontend dev should learn backend
+
+00:12:53
+thdxr: a lot of people going don't like you
+
+00:13:17
+lemonpodcasting: This is the week of nothing with Adam. ;)
+
+00:13:21
+cowfacedev: well, I am pretty happy that weekend came this fast LUL. I don't like going to the office :(
+
+00:13:31
+smilingbig: KEKW
+
+00:13:36
+cowfacedev: that watch party was something LUL
+
+00:14:08
+caiocodes: one day people will not pronounce Caio as Ciao hahahah (don't worry, every co-worker did that already)
+
+00:14:09
+cosmiclasagna: honestly you trying to figure out how to watch party was more entertaining than the announcement LUL
+
+00:14:12
+cowfacedev: @adamdotdev it's time you move to just chatting LUL
+
+00:14:56
+dmdboi: And he uses Linux
+
+00:14:57
+itsmeleague: Why does he need a macbook anyway, barely codes
+
+00:14:59
+aj_stuyvenberg: Dax is the definition of a miami baller
+
+00:15:00
+thdxr: o
+
+00:15:57
+cosmiclasagna: chat lets cross polinate
+
+00:16:05
+warrenbuffering: sus
+
+00:16:44
+lemonpodcasting: 😭😭😭😭
+
+00:16:56
+livemahs: first week at the new job went well, it did go by fast lol
+
+00:17:22
+smilingbig: LUL
+
+00:17:23
+caiocodes: It pronounces like "Kyle" ^^ hahahah
+
+00:17:46
+thdxr: i'll put linux on the macbook
+
+00:17:47
+lemonpodcasting: @aj_stuyvenberg Adam cut your contributions to the podcast. Sorry. No refunds btw.
+
+00:18:00
+aj_stuyvenberg: @aj_stuyvenberg Dang! Maybe next time LUL
+
+00:18:02
+thdxr: adam you're gonna be sooo uncomfortable if you go to render
+
+00:18:06
+thdxr: not in your cozy home
+
+00:18:08
+thdxr: with your nice things
+
+00:18:09
+vagorge: 😆
+
+00:18:11
+smilingbig: KEKW
+
+00:18:21
+aj_stuyvenberg: I have it on good authority that Dax isn't actually using Arch and I3, but is in fact using a macbook pro and streams using virtualbox cause he doesn't wanna me found out.
+
+00:18:45
+warrenbuffering: new job, new car, new wife
+
+00:18:49
+warrenbuffering: wait
+
+00:19:17
+thdxr: @aj_stuyvenberg fuck you
+
+00:19:31
+itsmeleague: Lol
+
+00:19:34
+aj_stuyvenberg: @aj_stuyvenberg <3 LUL
+
+00:19:35
+warrenbuffering: #same
+
+00:19:37
+smilingbig: KEKW
+
+00:19:38
+cosmiclasagna: LUL
+
+00:20:03
+thdxr: i have a question
+
+00:20:28
+mr_yan19: Do you ride bicycles?
+
+00:20:29
+thdxr: you say you never had a good haircut but i have seen you in certain streams/videos with a good haircut
+
+00:20:30
+thdxr: it's rare
+
+00:20:33
+smilingbig: KEKW
+
+00:20:33
+thdxr: but what's the deal with that
+
+00:20:36
+dmdboi: His insecurity has won
+
+00:20:36
+thdxr: why is it sometimes good
+
+00:21:03
+warrenbuffering: is there a bell on the bike?
+
+00:21:09
+mr_yan19: ah, like a cargo bike.  Cool
+
+00:21:23
+ridgeraider42: New here... What language do you normally use?
+
+00:21:25
+tayloreddev: what is the monthly aws bill for statmuse?
+
+00:21:28
+warrenbuffering: i ride bikes btw
+
+00:21:33
+cosmiclasagna: Will the new statmuse rewrite be opensource and open to contributions?
+
+00:21:35
+oskrm: Do you launder money for the cartel?
+
+00:21:40
+thdxr: https://youtu.be/1W1kaAfMmOo
+
+00:21:40
+aj_stuyvenberg: @RidgeRaider42 HeyGuys welcome!
+
+00:21:43
+thdxr: no you did something here
+
+00:21:54
+thdxr: WHY ARE YOU BEING SECRETIVE ABOUT THIS
+
+00:21:57
+itsmeleague: Daxs hair looks the same everyday
+
+00:22:14
+sockthedev: dax, for a bald man, you are pretty fixated
+
+00:22:25
+dmdboi: Adam has that Lego minifigure hair
+
+00:22:41
+spotmonk: are  you insecure about being insecure?
+
+00:22:42
+thdxr: you really don't know who's going to render that doesn't like you?
+
+00:22:44
+thdxr: think harder
+
+00:22:45
+samhuckaby: @sockthedev Sock sees through all
+
+00:22:53
+caiocodes: i wish my bank account was as full as my insecurities
+
+00:23:40
+adamdotdev: https://github.com/statmuse/statmuse.com
+
+00:23:49
+adrnlnjnky: OH man!  After making a comment about my lsp working for elixir the other day my Elixir_ls quit working.  Now I have no Elixir lsp either!! BibleThump BibleThump BibleThump
+
+00:23:55
+cosmiclasagna: cool
+
+00:24:08
+saint_pyotr: is the astro rewrite already live?
+
+00:24:11
+warrenbuffering: Do you want to launder money for the cartel?
+
+00:24:21
+sockthedev: i can't wait till someone dm's adam asking him if he is ok, and if that dax guy is getting to him
+
+00:24:24
+oskrm: Will you tell is if you did launder money?
+
+00:24:28
+oskrm: us*
+
+00:24:29
+smilingbig: if you did launder money, would you tell us that you laundered money?
+
+00:24:44
+daneoshiga: not being able to follow much of the streams, trying to study frontend for better job opportunities, miss adam's streams
+
+00:24:50
+thdxr: that youtube video is from your channel and your hair looks good in it
+
+00:24:58
+adrnlnjnky: That's what I get for opening my mouth.
+
+00:25:01
+thdxr: and it also looked good in the "don't work at a startup video"
+
+00:25:01
+vagorge: why a rewrite with astro
+
+00:25:04
+warrenbuffering: Any thoughts on Azure/Azure's Cloud? Trying to decide between AWS or Azure on a personal project
+
+00:25:07
+thdxr: i know there's a story here
+
+00:25:17
+damko_dev: What is your biggest pain point with Elixir?
+
+00:25:26
+smilingbig: KEKW
+
+00:25:28
+oskrm: what is the thing that cost the most in the AWS bill?
+
+00:26:29
+caiocodes: hold twitch streamers accountable * casually plays SZA - Kill Bill * LUL
+
+00:26:38
+tayloreddev: Used to be able set my watch by your streams, now its chaos LUL
+
+00:26:41
+smilingbig: KEKW
+
+00:27:12
+oskrm: fix the hair in post
+
+00:27:15
+vapor__dev: the hair does look really good there. your lighting has come so far
+
+00:27:17
+sockthedev: @warrenbuffering oh god, azure awful
+
+00:27:25
+smilingbig: you're glowing
+
+00:27:26
+thdxr: liz also says all white men should have a beard so good job with that
+
+00:27:31
+oskrm: show it here Sadge
+
+00:27:33
+dmdboi: can't you just take it off and put another hairstyle on like a human minifigure?
+
+00:28:04
+mr_yan19: I like you and that's all that counts
+
+00:28:22
+smilingbig: thdxr KEKW
+
+00:28:25
+thdxr: there's like at least 4-5 people going to render who have beef with you
+
+00:28:37
+daneoshiga: btw, Ben Hayden and Chris started yet another podcast xD
+
+00:29:08
+mr_yan19: Should I buy a soda stream?  My wife drinks a crap tonn of bubly water but I don't really want more kitchen gadgets.
+
+00:29:26
+thdxr: we have one and we can store it away pretty hidden, don't leave it on the counter
+
+00:29:38
+tayloreddev: @oskrM RDS at a guess
+
+00:29:38
+warrenbuffering: @warrenbuffering SeemsGood
+
+00:29:50
+smilingbig: I only leave the gadgets out that I use all the time
+
+00:29:56
+mr_yan19: @thdxr beginApecoin
+
+00:30:03
+saint_pyotr: Kreygasm
+
+00:30:04
+smilingbig: KEKW
+
+00:30:05
+sockthedev: yo dax, dillon's tsc.nvim plugin does monorepo runs now; https://github.com/dmmulroy/tsc.nvim#why-doesnt-tscnvim-typecheck-my-entire-monorepo
+
+00:30:07
+thdxr: that looks WAY better
+
+00:30:11
+thdxr: do that every time
+
+00:30:14
+smilingbig: LUL
+
+00:30:16
+sockthedev: i've been digging it
+
+00:30:25
+thdxr: wow that looks like 1000x better
+
+00:30:29
+thdxr: you're gonna get so many views now
+
+00:30:40
+sockthedev: dax is so trolling you now
+
+00:30:49
+laame: My hair is keeping me from streaming
+
+00:30:50
+thdxr: no i genuinely think that looks better
+
+00:30:57
+thdxr: i mean it's sloppy but it's the right direction
+
+00:31:06
+samhuckaby: woah, when did Adam start doing his hair? This stream is way better now.
+
+00:31:23
+sockthedev: LUL LUL
+
+00:31:28
+smilingbig: KEKW
+
+00:31:33
+oskrm: With RDS, Did you try to find a solution for them? To lower the cost??
+
+00:31:35
+i_watch_qt_streamers: why did you use elixir in statmuse
+
+00:31:41
+thdxr: adam isn't usually wrong but his take on elixir so wrong
+
+00:32:45
+jenswoeste: good afternoon @adamdotdev - polished stream as always.
+
+00:33:01
+caiocodes: SZA - Kill Bill is that song that goes "I just killed my ex, not the best idea". When we were talking about confessing crimes on twitch
+
+00:33:18
+dmdboi: Chat keeps jumping, he'll never catch up
+
+00:34:00
+smilingbig: KEKW that was great
+
+00:34:02
+thdxr: never say anything bad about elixir except that it doesn't have typesafety, capiche?
+
+00:34:22
+oskrm: dont read this
+
+00:34:37
+thdxr: no
+
+00:34:39
+samhuckaby: sick burn there
+
+00:34:45
+llebc: whats in the cup today
+
+00:34:51
+jenswoeste: depends on what you are doing.
+
+00:34:54
+naxodev: hey chat! hey adam!
+
+00:34:55
+smilingbig: building what?
+
+00:35:02
+whatizit: typesafety is overrated
+
+00:35:03
+thdxr: elixir is such light FP, good balance of not being too intellectual like you said
+
+00:35:05
+saint_pyotr: "one proficient with FP and one with something productive" LUL
+
+00:35:06
+thdxr: you just refuse to let it in
+
+00:35:19
+smilingbig: saint_pyotr KEKW
+
+00:35:39
+laame: What kind of projects younso for fun/exploration?
+
+00:35:49
+thdxr: elixir's enum module on its own will make you way more productive than TS
+
+00:35:56
+laame: Oh, autocorrect, you did me bad ..
+
+00:36:00
+warrenbuffering: drink the elixir
+
+00:36:01
+tomfoolery_1: Adam, thanks for the video about the startup. Was awesome.
+
+00:36:08
+oskrm: @laame younso
+
+00:36:10
+smilingbig: you should do some ocaml streams
+
+00:36:11
+whatizit: wen polyglot programmer
+
+00:36:20
+caiocodes: https://electric-sql.com/docs/overview/technical-intro nice elixir project this is
+
+00:36:20
+samhuckaby: @smilingbig YES
+
+00:36:20
+thdxr: i'm rewriting rebase in elixir now
+
+00:36:43
+techsavvytravvy: talking is hard tbf
+
+00:36:46
+jenswoeste: I find OCaml useful when doing hardcore algorithms.  For UI etc etc I would probably go for something OO
+
+00:36:49
+thdxr: "I don't see myself doing FP"  "I should look at ocaml"
+
+00:37:03
+samhuckaby: LUL
+
+00:37:09
+vapor__dev: @thdxr smh
+
+00:37:09
+thdxr: can never take anything this man says seriously
+
+00:37:13
+warrenbuffering: @thdxr LUL LUL LUL
+
+00:38:02
+techsavvytravvy: didn't love ocaml
+
+00:38:14
+mr_yan19: Has statmuse investigated some of the new vector db's like pinecone?
+
+00:38:15
+caiocodes: EduardoRFS is the only OCaml dev I've known in my whole life
+
+00:38:16
+thdxr: not just your tongue
+
+00:38:24
+laame: younso = "you do" if you squint really hard and I fat-finger on phone
+
+00:38:32
+oskrm: check posture
+
+00:38:36
+warrenbuffering: Did you get a flak from StatMuse for the Stripe tweet?
+
+00:38:50
+techsavvytravvy: oh great, working on experimental branch now so some cool new features
+
+00:39:17
+dumbe01: Hi chat and Adam! What would you say are good projects to get under my cv belt? Sry if it's a broad question.
+
+00:39:26
+caiocodes: how do you spell that streamer handle? I will check him out!
+
+00:39:30
+i_watch_qt_streamers: "After a 3 year hiatus, I'm back at StatMuse and enjoying the startup life once again!"  I saw this in your twitch bio. What does the hiatus mean?
+
+00:39:32
+techsavvytravvy: well that sounds exhausting
+
+00:39:57
+thdxr: why did you clarify that
+
+00:39:59
+thdxr: loooool
+
+00:40:01
+jenswoeste: on the whole functional vs oo debate. You can use F# (.NET version of Ocaml) and C# in same project. Just saying.
+
+00:40:03
+smilingbig: I wish people would tell me that KEKW
+
+00:40:10
+mr_yan19: vector db's might make for a good stream!
+
+00:40:26
+gitpush_gitpaid: is vercel doing a keynote today
+
+00:40:34
+neochromer: AMA Stream?
+
+00:40:34
+warrenbuffering: Midwest = Free speech
+
+00:40:37
+thdxr: yeah people from the ozarks say a lot of stuff they shouldn't say....
+
+00:40:45
+neochromer: Why do you hate Vercel? Kappa
+
+00:40:53
+gitpush_gitpaid: @thdxr that sounds like a threat
+
+00:40:53
+thdxr: adam wanna do watch party for the next vercel thing lmao
+
+00:41:10
+neochromer: @thdxr is it in an hour again?
+
+00:41:29
+techsavvytravvy: creative projects are good, deployed ideally
+
+00:41:48
+thdxr: yeah at 12
+
+00:41:54
+adamdotdev: @teej_dv
+
+00:41:54
+dumbe01: Makes sense, currently, i have my uni projects on gh, so i should continue on with that, and it will come naturally hopefully, thanks
+
+00:42:03
+techsavvytravvy: crab features*
+
+00:42:18
+caiocodes: thanks!
+
+00:42:28
+thdxr: my name is adam and i smell
+
+00:43:01
+sockthedev: @thdxr please do
+
+00:43:19
+sockthedev: feel like thdxr is trying to make your relationship toxic
+
+00:43:57
+i_watch_qt_streamers: damn. why you got fired though. you shoulda fire him
+
+00:44:18
+techsavvytravvy: i'll make sure i provide sufficient context in every reply message
+
+00:44:24
+cosmiclasagna: @sockthedev wow and this time adam's the one who fired him from being a mod LUL
+
+00:44:34
+thdxr: adam stop saying you don't hate vercel
+
+00:44:36
+smilingbig: I wish people would tell me to not say things to people, I kind of just say what I think all the time
+
+00:44:39
+arbitrandomuser: everyone is trying to look like apple streams now
+
+00:44:40
+thdxr: let yourself express yourself for once
+
+00:44:43
+thdxr: stop being midwestern
+
+00:44:53
+gitpush_gitpaid: vercels keynote today -> https://twitter.com/gitpush_gitpaid/status/1654503172696686593?
+
+00:44:54
+whatizit: what did they do which you didnt like?
+
+00:45:05
+iamtrulyao: I do not enjoy learning languages with their dominant frameworks and I have been learning Elixir lately and every course or article goes straight into Phoenix and there has been a lot of arguments on the web that learning and using Phoenix for things like smaller REST APIs is just the way to go, what do you think? Sorry this is so long -_<
+
+00:45:10
+sockthedev: how was that dude that went topless begging for a vercel job
+
+00:45:14
+smilingbig: KEKW
+
+00:45:15
+samhuckaby: Chat, which tech do we think Vercel will announce reselling today?
+
+00:45:19
+thdxr: @sockthedev my wife says I'm a little toxic
+
+00:45:29
+laame: If you could choose any language replace JavaScript in FE, what would you choose and why?
+
+00:45:41
+sockthedev: i used to think you were a nice guy dax. not sure anymore. sus.
+
+00:46:28
+gitpush_gitpaid: dont be down on yourself... you coulda probably went 4 years without killing the company
+
+00:46:29
+whatizit: what did you do for 3 years
+
+00:46:44
+thdxr: everyone is commenting on the topless thing meanwhile i stand in my front yard with just my boxers on and wave to people walking by
+
+00:47:18
+i_watch_qt_streamers: how many employees does statmuse have right now
+
+00:47:44
+whatizit: nah i was talking about vercel, sorry. what did vercel do that you didn't like?
+
+00:48:06
+sockthedev: i heard astro debugging is rough? whats your mileage been like here?
+
+00:48:13
+thdxr: and then your lsp doesn't work and then formatting doesn't work
+
+00:48:22
+thdxr: i love astro thoguh
+
+00:48:25
+iamtrulyao: Yup, Astro is great, tried it first time and never really looked back
+
+00:49:21
+adrnlnjnky: Phoenix is cool but  I don't use it for any project that I'm not building a UI.
+
+00:50:00
+warrenbuffering: @whatizit when things and ideas get too much hype someone has to play devil's advocate
+
+00:50:05
+i_watch_qt_streamers: yeah, i hate how phoenix generators creates billions of files. too much fragmentation imo. i wish there was a more minimalistic web framework in elixir
+
+00:50:11
+neochromer: @adamdotdev but how did you start consulting? Word of mouth or something like that? Did you have certs or a nice background?
+
+00:50:15
+thdxr: now you resent your son
+
+00:50:21
+warrenbuffering: *my thoughts not adam's
+
+00:50:31
+silverlp: Sadge
+
+00:50:37
+samhuckaby: @thdxr woah, easy Home
+
+00:50:44
+adrnlnjnky: @iamtrulyao I think folks use Phoenix for some conveniences but you can easily add the features you need without adding the entire framework to say an api-client with  no front end.
+
+00:51:18
+gohaku__: how fast is your wifi in the ozarks?
+
+00:51:19
+saint_pyotr: lmk if you'd like to make that 11 people B)
+
+00:51:30
+thdxr: every single day we hear adam lie about "I use vercel every day"
+
+00:51:47
+warrenbuffering: @whatizit well this aged like milk
+
+00:51:58
+thdxr: it's kinda interesting we both have the same feeling but there's more pressure on you to say you're not a vercel hater
+
+00:52:02
+thdxr: i literally never have to say that
+
+00:52:05
+typosrry: wen do we hear "I use SST every day"
+
+00:52:09
+whatizit: fair comments
+
+00:52:20
+i_watch_qt_streamers: what's the tech behind the ML part of statmuse?
+
+00:53:03
+iamtrulyao: @adrnlnJnky Ah yes yes, I tried that, I just kind of feel I should be able to get away with not using any framework like in Go for something trivial
+
+00:54:04
+adrnlnjnky: @iamtrulyao You can.  At work we use React for a front-end so we don't use any framework in our Elixir.  I use mix to create projects most of the time.
+
+00:54:09
+teej_dv: someone told me you've been talking about ocaml behind my back
+
+00:54:12
+warrenbuffering: my grandma asked me to build a website for the local Sons of Norway, but I don't have the time unfortunately. Will you build it?
+
+00:54:27
+neochromer: @thdxr "and I hate it"
+
+00:54:43
+oskrm: how much is the 1 gig?
+
+00:54:59
+teej_dv: meltdown? the day you tried to watch next w/ @thdxr ?
+
+00:55:16
+whatizit: gachiGASM
+
+00:55:21
+mr_yan19: we have 2.5 gig and it is a bit silly for home use
+
+00:55:37
+samhuckaby: @teej_dv is still bitter about the Vercel stream..
+
+00:55:43
+teej_dv: it's impossible to have a convo w/ adam. he's like 25 minutes behind
+
+00:56:00
+thdxr: @teej_dv plz don't associate me with what happened yesterday
+
+00:56:11
+developmentrobot: I came here because I saw a thread on twitter that discussed the biggest vercel haters and someone linked your stream
+
+00:56:12
+thdxr: i was as much a victim as the audience
+
+00:56:20
+neochromer: Today you guys can do a re-do
+
+00:56:22
+teej_dv: @thdxr you could have left ANY TIME
+
+00:56:29
+laame: Well, every energy dring is like 200mg per serving
+
+00:56:34
+thdxr: but it was like watching a car accident in slow motion
+
+00:56:35
+gohaku__: preworkout drinks have 50-60mg caffeine, right?  186mg is too much
+
+00:56:39
+oskrm: Java? D:
+
+00:56:46
+warrenbuffering: adam says oak mall one time... @teej_dv
+
+00:57:18
+teej_dv: KEKW F# KEKW made by M$ KEKW F# KEKW made by M$ KEKW F# KEKW made by M$ KEKW F# KEKW made by M$ KEKW F# KEKW made by M$ KEKW F# KEKW made by M$ KEKW
+
+00:57:28
+thdxr: F# is better ocaml
+
+00:57:37
+warrenbuffering: Cool, I'll call grams
+
+00:57:41
+teej_dv: i actually have heard a lot of good thing about F# LUL
+
+00:57:44
+thdxr: it does himleymildner better
+
+00:57:44
+mr_yan19: F# hells yes
+
+00:57:55
+silverlp: 25gbit here LUL
+
+00:57:55
+looch94: Would love to watch you build a website from scratch in stream
+
+00:58:16
+thdxr: adam how do you fall for that
+
+00:58:17
+thdxr: smh
+
+00:58:18
+smilingbig: KEKW
+
+00:58:23
+thdxr: truly incredible
+
+00:58:26
+developmentrobot: no lol Kappa
+
+00:58:34
+warrenbuffering: @developmentrobot link?
+
+00:58:50
+surlydev: https://clips.twitch.tv/FurryAnimatedGalagoBuddhaBar-PMalx1Olnb0hwRhW
+
+00:59:00
+developmentrobot: @developmentrobot im joking :)
+
+00:59:09
+teej_dv: @adamdotdev build the website with ocaml + htmx
+
+00:59:12
+whatizit: another day another missed opportunity
+
+00:59:26
+thdxr: no tha twas something else, it's hindley milner but no one ever remembers how to say it
+
+00:59:37
+i_watch_qt_streamers: do you know experience in monetizing website with ads? how profitable is it?
+
+00:59:49
+teej_dv: maybe you can show me how to use tailwind in it.... ppl say it's possible but i can't figure out how to do it without 1 million lines of javascript
+
+00:59:49
+thdxr: yeah sure
+
+00:59:52
+thdxr: is it gonna be a disaster
+
+00:59:54
+thdxr: i'm about to stream
+
+00:59:56
+teej_dv: is there no vercel thing today?!?!?!
+
+01:00:10
+thdxr: there is, do you want to watch me and adam stream it again?
+
+01:00:13
+mr_yan19: I can't wait until we make the grandmothers site
+
+01:00:20
+oskrm: @teej_dv twind or unocss
+
+01:00:27
+looch94: Are you coding today or is it just ama?
+
+01:00:54
+gitpush_gitpaid: but how is the merch side doing
+
+01:01:01
+thdxr: yeah come
+
+01:01:01
+i_watch_qt_streamers: any experience with google adsense?
+
+01:01:05
+whatizit: LMAO
+
+01:01:16
+whatizit: maybe i need to see this stream
+
+01:01:25
+warrenbuffering: I'm still here, sorry was on the phone with grams
+
+01:01:30
+warrenbuffering: She's like the BE written in C
+
+01:01:33
+saint_pyotr: my grandma HATES htmx LUL
+
+01:01:35
+warrenbuffering: *She'd
+
+01:01:41
+nefine_: Grandma probably wants pure PHP
+
+01:01:52
+mr_yan19: @warrenbuffering did she say she was a F# fan?
+
+01:02:06
+oskrm: @warrenbuffering or Apple basic
+
+01:02:35
+whatizit: grandma just wants html
+
+01:03:15
+whatizit: seeing as you're leaving prematurely can you do a backflip?
+
+01:03:25
+teej_dv: oh great, actual coding on stream.... 45 minutes behind on chat then
+
+01:03:34
+smilingbig: thanks for strim <3
+
+01:03:38
+oskrm: did you try to do it?
+
+01:03:57
+whatizit: anyone but that teej guy
+
+01:04:07
+neochromer: @adamdotdev they just let people raid them who they follow
+
+01:04:11
+mr_yan19: I think they have to follow you first or something silly
+
+01:04:24
+whatizit: im jkjk
+
+01:04:26
+saint_pyotr: cool stream <3 <3
+
+01:04:31
+whatizit: bye everyoneee
+
+01:04:33
+teej_dv: @whatizit ???? well i'm gonna get on call w/ dax then to react to next.js
+
+01:04:39
+whatizit: DO IT
+
+01:04:44
+gitpush_gitpaid: yes lets go to aws so i can berate them
+
+01:05:03
+teej_dv: finally, high quality stream incoming
+
+01:05:03
+nefine_: always with the wrong raid KEKW
+
+01:05:07
+gitpush_gitpaid: wait has the raid been canceled or not
+
+01:05:18
+teej_dv: adam tried raiding wrong person again
+
+01:05:21
+sockthedev: heard this dude is a frontend dev though
+
+01:05:21
+teej_dv: now it's the right one
+
+15:30:12
+coachripkins: Forgot to raid?
+
+15:30:37
+adamdotdev: raided @thdxr!
+
+15:30:51
+adamdotdev: i canceled the first raid and did a new one!

@@ -1,14 +1,20 @@
-import { ChatClient, PrivateMessage } from "@twurple/chat"
+import { ChatClient, ChatMessage } from "@twurple/chat"
 import { RefreshingAuthProvider } from "@twurple/auth"
 import { ApiClient } from "@twurple/api"
 import { EventSubWsListener } from "@twurple/eventsub-ws"
 import { promises as fs, readFileSync, writeFileSync } from "fs"
 import { CustomServer } from "./server"
-import { ShellScriptReward, SnapFilterReward, Reward } from "./rewards"
+import {
+  ShellScriptReward,
+  SnapFilterReward,
+  Reward,
+  CustomReward,
+} from "./rewards"
 import open from "open"
 import SnapController from "./snap"
 import { Scene } from "./obs"
 import { randomItem } from "./utils"
+import { fadeOut } from "./spotify"
 
 export interface TwitchChatEvent {
   channel: string
@@ -267,6 +273,7 @@ export default class TwitchController {
         isPaused: false,
       })
     } catch (error) {
+      console.error("failed to enable reward " + id)
       console.error(error)
     }
   }
@@ -306,8 +313,9 @@ export default class TwitchController {
       case "Init":
       case "Intro":
       case "Break":
-      case "Outro":
         await this.disableRewards()
+      case "Outro":
+        fadeOut()
         break
 
       default:
@@ -492,7 +500,7 @@ export default class TwitchController {
     })
 
     try {
-      await this.chatClient.connect()
+      this.chatClient.connect()
     } catch (error) {
       console.error(error)
     }
@@ -502,7 +510,7 @@ export default class TwitchController {
         channel: string,
         user: string,
         message: string,
-        msg: PrivateMessage
+        msg: ChatMessage
       ) => {
         this.server.emit("new-chat-message", { channel, user, message })
 
@@ -550,6 +558,9 @@ export default class TwitchController {
       case "giveaway-entry":
         await this.redeemGiveawayEntry(payload.event.user_name)
         break
+      case "custom":
+        await this.redeemCustom(payload, reward)
+        break
       case "meeting":
         await this.redeemMeeting(payload)
         break
@@ -587,6 +598,27 @@ export default class TwitchController {
 
   async redeemGiveawayEntry(username: string) {
     this.server.emit("new-giveaway-entry", username)
+  }
+
+  async redeemCustom(
+    event: TwitchChannelRedemptionEvent,
+    reward: CustomReward
+  ) {
+    switch (reward.name) {
+      case "macbook":
+        const entry = Math.random() * 100
+        if (entry <= 0.01) {
+          console.log("WINNER!")
+          await this.chatClient?.action(
+            this.username,
+            `OMG @${event.event.user_name} JUST WON A MACBOOK!`
+          )
+        }
+        break
+
+      default:
+        break
+    }
   }
 
   async redeemMeeting(event: TwitchChannelRedemptionEvent) {
@@ -632,7 +664,7 @@ export default class TwitchController {
     const streams = response.map((r) => r.userId)
     if (!streams) return
 
-    const [randomStream] = streams
+    const randomStream = randomItem(streams)
     await this.apiClient?.raids.startRaid(this.userId, randomStream)
   }
 
@@ -654,15 +686,18 @@ export const getAuthProvider = async () => {
   const provider = new RefreshingAuthProvider({
     clientId,
     clientSecret,
-    onRefresh: async (userId, newTokenData) =>
+  })
+
+  provider.onRefresh(
+    async (userId, newTokenData) =>
       await fs.writeFile(
         `./tokens.json`,
         JSON.stringify(newTokenData, null, 4),
         "utf-8"
-      ),
-  })
+      )
+  )
 
-  // await provider.addUserForToken(tokenData)
+  // await provider.addUserForToken(tokenData, ["chat"])
   provider.addUser(userId, tokenData, ["chat"])
   return provider
 }

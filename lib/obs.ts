@@ -3,15 +3,19 @@ import { delay } from "./utils"
 import WsController from "./ws"
 import { CustomServer } from "./server"
 import StreamController, { Guest } from "./stream"
+import { exit } from "node:process"
+import { fadeIn } from "./spotify"
 
 export type Scene =
   | "Init"
   | "Intro"
   | "Camera"
   | "Camera (w/ Guest)"
+  | "Camera (Chroma)"
   | "Screen"
   | "Screen (w/ Guest)"
   | "Behind Screen"
+  | "Mobile"
   | "Break"
   | "Outro"
 
@@ -60,10 +64,25 @@ export default class ObsController {
     this.server = server
     this.wsController = wsController
     this.streamController = streamController
-    this.initObsWebsocket()
+    this.server.on("online", this.handleStreamOnline.bind(this))
+
+    this.initObsWebsocket().catch(() => {
+      console.error(
+        "\n=====\nCOULD NOT CONNECT TO OBS; IS IT RUNNING?\n=====\n"
+      )
+      exit(1)
+    })
 
     this.server.on("guest-joined", this.handleGuestJoined.bind(this))
     this.server.on("guest-left", this.handleGuestLeft.bind(this))
+  }
+
+  private async handleStreamOnline() {
+    this.setScene("Init")
+
+    setTimeout(() => {
+      this.setScene("Intro")
+    }, 1000 * 30)
   }
 
   private async handleGuestJoined(_guest: Guest) {
@@ -95,6 +114,7 @@ export default class ObsController {
     this.obs.on("CurrentProgramSceneChanged", (data) => {
       this.currentScene = data.sceneName as Scene
       this.server.emit("sceneChange", this.currentScene)
+      this.server.ws.emit("scene-change", this.currentScene)
     })
 
     for (const scene of scenes) {
@@ -120,33 +140,33 @@ export default class ObsController {
   }
 
   async zoomIn() {
-    for (const source of zoomSources) {
-      const { scene, sceneItemId, status } = source
-      if (status === "zoomedIn") continue
-
-      await this.obs.call("SetSceneItemEnabled", {
-        sceneName: scene,
-        sceneItemId,
-        sceneItemEnabled: true,
-      })
-
-      source.status = "zoomedIn"
-    }
+    // for (const source of zoomSources) {
+    //   const { scene, sceneItemId, status } = source
+    //   if (status === "zoomedIn") continue
+    //
+    //   await this.obs.call("SetSceneItemEnabled", {
+    //     sceneName: scene,
+    //     sceneItemId,
+    //     sceneItemEnabled: true,
+    //   })
+    //
+    //   source.status = "zoomedIn"
+    // }
   }
 
   async zoomOut() {
-    for (const source of zoomSources) {
-      const { scene, sceneItemId, status } = source
-      if (status === "zoomedOut") continue
-
-      await this.obs.call("SetSceneItemEnabled", {
-        sceneName: scene,
-        sceneItemId,
-        sceneItemEnabled: false,
-      })
-
-      source.status = "zoomedOut"
-    }
+    // for (const source of zoomSources) {
+    //   const { scene, sceneItemId, status } = source
+    //   if (status === "zoomedOut") continue
+    //
+    //   await this.obs.call("SetSceneItemEnabled", {
+    //     sceneName: scene,
+    //     sceneItemId,
+    //     sceneItemEnabled: false,
+    //   })
+    //
+    //   source.status = "zoomedOut"
+    // }
   }
 
   async refreshBrowserSource(inputName: Source) {
@@ -208,6 +228,7 @@ export default class ObsController {
       case "Screen":
         await this.startTimer()
       case "Screen (w/ Guest)":
+        fadeIn()
         await this.setScene(to)
         break
 
