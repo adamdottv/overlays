@@ -9,6 +9,8 @@ export const fadeAudioOut = async ({
 }) => {
   if (!audio) return
 
+  // this is a test comment, where my cursive at?!
+  // how about fff chars?
   return new Promise<void>((resolve) => {
     let intervalHandle = setInterval(() => {
       if (audio.volume === 0) {

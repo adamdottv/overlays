@@ -10,6 +10,7 @@
     "next": "next dev"
   },
   "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.438.0",
     "@headlessui/react": "^1.7.13",
     "@react-hookz/web": "^15.0.1",
     "@tanstack/react-query": "^4.0.10",

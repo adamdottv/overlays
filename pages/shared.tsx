@@ -23,6 +23,7 @@ import { motion, AnimatePresence } from "framer-motion"
 import { getStreamInfo, GetStreamResponse } from "../lib/stream"
 import { CustomNextApiResponse } from "../lib"
 import * as faceapi from "face-api.js"
+import { request } from "../lib/utils"
 
 const MAX_NOTIFICATIONS = 3
 const NOTIFICATION_DURATION = 3
@@ -73,11 +74,11 @@ function Shared({
   const videoRef = React.useRef<HTMLVideoElement | null>(null)
 
   const loadModels = async () => {
-    const MODEL_URL = `/models`
-    await Promise.all([
-      faceapi.nets.tinyFaceDetector.load(MODEL_URL),
-      faceapi.nets.faceExpressionNet.load(MODEL_URL),
-    ])
+    // const MODEL_URL = `/models`
+    // await Promise.all([
+    //   faceapi.nets.tinyFaceDetector.load(MODEL_URL),
+    //   faceapi.nets.faceExpressionNet.load(MODEL_URL),
+    // ])
   }
 
   const handleLoadWaiting = async () => {
@@ -155,9 +156,9 @@ function Shared({
               Math.min(1, expressions.neutral) > 0.66
 
             if (zoomIn) {
-              await fetch("/api/obs/zoom?zoomIn=true", { method: "POST" })
+              await request("/api/obs/zoom?zoomIn=true", { method: "POST" })
             } else if (zoomOut) {
-              await fetch("/api/obs/zoom?zoomOut=true", { method: "POST" })
+              await request("/api/obs/zoom?zoomOut=true", { method: "POST" })
             }
           }
         }, 1000)
@@ -166,7 +167,7 @@ function Shared({
       }
     }
 
-    init()
+    // init()
   }, [])
 
   useEffect(() => {
@@ -176,7 +177,7 @@ function Shared({
 
   useEffect(() => {
     if (!debug && lastTranscript?.text !== lastSentTranscript) {
-      fetch("/api/store-transcript", {
+      request("/api/store-transcript", {
         method: "POST",
         body: JSON.stringify({
           text: `<transcript>: ${lastTranscript?.text}`,
@@ -224,7 +225,7 @@ function Shared({
     //
     // await delay(500)
     // Credit the animation author
-    // await fetch("/api/chat", {
+    // await request("/api/chat", {
     //   method: "POST",
     //   headers: { "Content-Type": "application/json" },
     //   body: JSON.stringify({

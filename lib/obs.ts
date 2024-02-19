@@ -4,6 +4,7 @@ import WsController from "./ws"
 import { CustomServer } from "./server"
 import StreamController, { Guest } from "./stream"
 import { exit } from "node:process"
+import type { JsonObject } from "type-fest"
 import { fadeIn } from "./spotify"
 
 export type Scene =
@@ -50,6 +51,7 @@ const zoomSources: ZoomSource[] = []
 export default class ObsController {
   obs = new OBSWebSocket()
   currentScene: Scene | undefined
+  scenes: JsonObject[] | undefined
 
   private server: CustomServer
   private wsController: WsController
@@ -66,16 +68,13 @@ export default class ObsController {
     this.streamController = streamController
     this.server.on("online", this.handleStreamOnline.bind(this))
 
-    this.initObsWebsocket().catch(() => {
-      console.error(
-        "\n=====\nCOULD NOT CONNECT TO OBS; IS IT RUNNING?\n=====\n"
-      )
-      exit(1)
-    })
+    this.initObsWebsocket()
 
     this.server.on("guest-joined", this.handleGuestJoined.bind(this))
     this.server.on("guest-left", this.handleGuestLeft.bind(this))
   }
+
+  private async connect() {}
 
   private async handleStreamOnline() {
     this.setScene("Init")
@@ -106,10 +105,21 @@ export default class ObsController {
   }
 
   private async initObsWebsocket() {
-    await this.obs.connect("ws://localhost:4455")
+    try {
+      await this.obs.connect("ws://localhost:4455")
+    } catch (error) {
+      console.error("Error connecting to OBS")
+      console.info("Retrying in 5 seconds")
+      await delay(1000 * 5)
+      this.initObsWebsocket()
+      return
+    }
 
     const response = await this.obs.call("GetCurrentProgramScene")
     this.currentScene = response.currentProgramSceneName as Scene
+
+    const allScenes = await this.obs.call("GetSceneList")
+    this.scenes = allScenes.scenes
 
     this.obs.on("CurrentProgramSceneChanged", (data) => {
       this.currentScene = data.sceneName as Scene
@@ -226,9 +236,9 @@ export default class ObsController {
         break
 
       case "Screen":
-        await this.startTimer()
+      // await this.startTimer()
       case "Screen (w/ Guest)":
-        fadeIn()
+        // fadeIn()
         await this.setScene(to)
         break
 

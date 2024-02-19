@@ -1,5 +1,6 @@
 import React, { useState, ChangeEvent, FormEvent, useEffect } from "react"
 import RichTextEditor from "../components/text-editor"
+import { request } from "../lib/utils"
 
 interface Show {
   id: number
@@ -16,7 +17,7 @@ const Shows: React.FC = () => {
 
   useEffect(() => {
     const fetchShows = async () => {
-      const response = await fetch("/api/shows")
+      const response = await request("/api/shows")
       const data = await response.json()
       setShows(data)
     }
@@ -28,13 +29,13 @@ const Shows: React.FC = () => {
     let updatedShow: Show
     if (selectedShow) {
       updatedShow = { ...selectedShow, name, date }
-      await fetch(`/api/shows`, {
+      await request(`/api/shows`, {
         method: "PUT",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(updatedShow),
       })
     } else {
-      const response = await fetch(`/api/shows`, {
+      const response = await request(`/api/shows`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ name, date, script: "" }),
@@ -44,7 +45,7 @@ const Shows: React.FC = () => {
 
     setShows(
       shows
-        .map((show) => (show.id === updatedShow.id ? updatedShow : show))
+        ?.map((show) => (show.id === updatedShow.id ? updatedShow : show))
         .concat(
           shows.find((show) => show.id === updatedShow.id) ? [] : [updatedShow]
         )
@@ -65,7 +66,7 @@ const Shows: React.FC = () => {
   }
 
   const handleDelete = async (id: number) => {
-    await fetch(`/api/shows?id=${id}`, { method: "DELETE" })
+    await request(`/api/shows?id=${id}`, { method: "DELETE" })
     setShows(shows.filter((show) => show.id !== id))
   }
 
@@ -118,7 +119,7 @@ const Shows: React.FC = () => {
         )}
       </form>
       <ul>
-        {shows.map((show) => (
+        {shows?.map((show) => (
           <li key={show.id} className="mb-4">
             <div className="flex items-center justify-between">
               <div

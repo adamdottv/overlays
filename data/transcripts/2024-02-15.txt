@@ -1,0 +1,691 @@
+
+
+20:42:38
+adamdotdev: test
+
+20:42:57
+adamdotdev: test 󠀀
+
+20:43:10
+adamdotdev: test 1 2
+
+20:43:25
+adamdotdev: test 1 2 3
+
+20:43:56
+adamdotdev: test 1, 2, 3
+
+20:45:50
+schrew: hi it's me, sam, you're late adam
+
+20:46:05
+schrew: no need to test, only lift
+
+20:46:42
+vapor__dev: get it big dawg
+
+20:51:54
+hambonemcglone: We doin a P or a P or an L today?
+
+20:52:20
+pbertrand_dev: adam try to keep your shirt on my wife is watching
+
+20:53:24
+pbertrand_dev: I did bi's and tri's today
+
+20:54:41
+hambonemcglone: I know you've probably spent way too much on alternate intro music, but you should get some heavy metal or big beats for lifting/bjj days
+
+20:55:17
+hambonemcglone: Just did legs today. Going to sleep for 10 hours tonight.
+
+20:55:32
+schrew: RTJ has returned, time to get swole
+
+20:56:37
+adamdotdev: can't see me?
+
+20:56:47
+kaceynotdev: black
+
+20:57:09
+hambonemcglone: Adam is still working on the pre-stream pump, stand by
+
+20:57:22
+gitpush_gitpaid: black screen what is going on here
+
+20:57:23
+pbertrand_dev: cant see or hear
+
+20:57:31
+pbertrand_dev: just musc
+
+20:57:32
+pbertrand_dev: music
+
+20:58:14
+hambonemcglone: In this workout stream, YOU THE VIEWER must work out
+
+20:58:55
+gitpush_gitpaid: @HamboneMcGlone word... its a black screen so we can see ourselves and see the work we need to do on ourselves
+
+21:02:03
+pbertrand_dev: we see you
+
+21:02:06
+schrew: let's ride
+
+21:02:16
+schrew: oh no the car is moving
+
+21:02:16
+<transcript>: It.
+
+21:02:18
+<transcript>: Worked.
+
+21:02:20
+<transcript>: Can you guys hear me?
+
+21:02:22
+schrew: Yah
+
+21:02:22
+pbertrand_dev: yes we hear you can you hear me
+
+21:02:25
+maleero: Yep!
+
+21:02:50
+<transcript>: All right, I don't know if you guys can hear me. I'm going to. Know here in a second.
+
+21:02:50
+kaceynotdev: why are you late again?
+
+21:02:51
+schrew: Tell us a story dad
+
+21:02:54
+<transcript>: Sam is calling me.
+
+21:02:56
+<transcript>: No.
+
+21:03:16
+<transcript>: That was bad.
+
+21:03:20
+nft_scam: getting choked pov
+
+21:03:28
+<transcript>: I'm. I've made an app.
+
+21:03:32
+<transcript>: That reads my chat to me and it's so behind.
+
+21:03:38
+<transcript>: So I was just hearing all of the messages you guys said earlier.
+
+21:03:43
+<transcript>: Cool, Sanchez. Calling me?
+
+21:03:43
+<transcript>: and
+
+21:03:47
+<transcript>: And I accidentally didn't hang out or didn't answer.
+
+21:03:51
+<transcript>: I'm late again. I know. Casey, I'm so sorry.
+
+21:03:53
+<transcript>: I'm almost to the gym.
+
+21:03:53
+<transcript>: three minutes
+
+21:03:55
+<transcript>: Three minutes late.
+
+21:04:01
+<transcript>: For sam.
+
+21:04:03
+<transcript>: I'm the worst client ever.
+
+21:04:10
+<transcript>: He's trying to text me and I'm trying to do so many things.
+
+21:04:10
+johnburd1: hello
+
+21:04:12
+<transcript>: Like stream.
+
+21:04:20
+<transcript>: And drive. Driving is important, too. Oh, jeez, my water just fell.
+
+21:04:20
+<transcript>: okay
+
+21:04:23
+<transcript>: Okay. I'm here. I made it.
+
+21:04:26
+<transcript>: I'm not early.
+
+21:04:26
+<transcript>: i'm a little
+
+21:04:29
+<transcript>: I'm a little late, but I'm here.
+
+21:04:31
+<transcript>: Let's do it.
+
+21:04:39
+<transcript>: That was way too, like, dramatic. Let's do it. Let's do a workout.
+
+21:04:52
+<transcript>: I'm so sorry, Sam.
+
+21:05:00
+<transcript>: Waiting for me.
+
+21:05:03
+<transcript>: Hey, guys. Grandma here?
+
+21:05:07
+schrew: BE CAREFUL
+
+21:05:37
+schrew: Blink twice if you can hear this
+
+21:05:39
+<transcript>: We go.
+
+21:05:47
+nft_scam: gigachad
+
+21:05:59
+pbertrand_dev: just tell him you thought the clocked changed today but turns out its tomorrow
+
+21:06:01
+maleero: No big deal, just whipped up an app while drinking my coffee...
+
+21:07:01
+pbertrand_dev: so adam made an app that reads twitch chat? nice rrrr r r r r u wu wuwu wuwu wuwuwuwuw wuwuwuwuwuuw lol lol lol llll ollololololol lolollolololollolol ololololololo olololo oops oops oops oops oops
+
+21:07:10
+schrew: we do have audio
+
+21:07:32
+pbertrand_dev: Kappa
+
+21:07:53
+schrew: HE MUTED US
+
+21:07:56
+estrangedhd: you 100% lost him at the word api
+
+21:08:39
+pbertrand_dev: Go harder adam, you were 5 min late and need to catch up
+
+21:08:40
+schrew: mentions text to speech and starts biking faster, what kind of pavlovian response is this
+
+21:11:18
+oetziofficial: oh hi! audio works, yaaay
+
+21:11:49
+lifelessirl: from this guy physique i know its a bad programmer
+
+21:11:53
+lifelessirl: jk
+
+21:12:55
+estrangedhd: yes
+
+21:12:56
+oetziofficial: yes
+
+21:12:57
+schrew: turn back on text to speech, i wanna see you smile when you're working out
+
+21:13:01
+oetziofficial: audio is really good
+
+21:13:02
+johnburd1: I can
+
+21:13:45
+j3sus_h: is this grok?
+
+21:13:58
+j3sus_h: some new type of programming paradigm
+
+21:14:11
+j3sus_h: soynur2Cuchi soynur2Cuchi soynur2Cuchi
+
+21:14:32
+schrew: joker is too tall for this box
+
+21:17:21
+schrew: "weak layg"
+
+21:19:11
+schrew: RIP?
+
+21:19:28
+uberrick: gym wifi? :D
+
+21:20:17
+nate_codes: NOW THIS IS THE CONTENT I’VE BEEN WAITING FOR LFG
+
+21:20:23
+zviezdre: KEKW
+
+21:20:40
+nate_codes: Steam mega laggy for anyone else?
+
+21:20:40
+vapor__dev: damn bro you are serioulys JACKED
+
+21:20:45
+schrew: hard breathing
+
+21:20:47
+nate_codes: or skill issue?
+
+21:20:48
+schrew: and laggy
+
+21:20:53
+zviezdre: Those muscles are stronk
+
+21:20:55
+schrew: network's out of breath
+
+21:21:01
+nate_codes: LUL
+
+21:21:02
+vapor__dev: bandwith can't handle this kinda muscle definition
+
+21:21:06
+nate_codes: ^^
+
+21:21:41
+goodgrandpaa: Powered By Plants!
+
+21:22:07
+nate_codes: their model is two tin cans and string running to the telephone pole around the corner
+
+21:22:12
+nate_codes: modem*
+
+21:26:15
+feenskee: Those guns are interfering the signal
+
+21:27:54
+schrew: Still bad lag btw
+
+21:33:03
+toppirl: audio all messed up on my end
+
+21:33:55
+uberrick: yeah same @toppIRL
+
+21:34:30
+j3sus_h: timeenPeek timeenPeek timeenPeek timeenPeek
+
+21:34:41
+j3sus_h: ending9Skill ending9Issue ending9Skill ending9Issue ending9Skill ending9Issue ending9Kermit ending9Kermit
+
+21:34:46
+kiwifromearth: kiwi
+
+21:35:01
+j3sus_h: lillye2EspeonPop lillye2EspeonPop lillye2EspeonPop lillye2EspeonPop
+
+21:35:12
+j3sus_h: soynur2Pioutt soynur2Pioutt soynur2Pioutt soynur2Pioutt soynur2Pioutt soynur2Pioutt
+
+21:35:14
+j3sus_h: soynur2Shockadeishon soynur2Shockadeishon soynur2Shockadeishon soynur2Shockadeishon
+
+21:35:14
+pocket_mayo: this is not what I expected on an Adam stream but im not mad
+
+21:35:27
+j3sus_h: then arms
+
+21:35:36
+uberrick: think the audio is behind haha
+
+21:35:44
+uberrick: as well as cutting out loads
+
+21:35:53
+j3sus_h: we watching in slow mo for the fans
+
+21:36:14
+j3sus_h: soynur2Pioutt soynur2Pioutt soynur2Pioutt soynur2Pioutt
+
+21:38:00
+pocket_mayo: Adam in between sets you should check out Sora from OpenAI
+
+21:38:15
+kiwifromearth: @Pocket_Mayo BatChest
+
+21:38:24
+pocket_mayo: melkeyParty melkeyParty melkeyParty
+
+21:38:30
+pocket_mayo: melkeyHeadbang melkeyHeadbang melkeyHeadbang
+
+21:39:04
+kiwifromearth: W lift
+
+21:39:11
+pocket_mayo: Adam jacked asf
+
+21:39:12
+kiwifromearth: bro is yoked
+
+21:39:30
+pocket_mayo: check out those shoulder veins
+
+21:39:49
+kiwifromearth: the vascularity goes crazy
+
+21:40:59
+pocket_mayo: I thought that guy might flash us
+
+21:42:07
+schrew: there's my fireman
+
+21:42:38
+pocket_mayo: IS THAT A STANLEY WATTER BOTTLE
+
+21:42:48
+pocket_mayo: 🤑🤑🤑
+
+21:43:18
+schrew: lifting gloves, when?
+
+21:44:00
+pocket_mayo: let’s learn more about sam
+
+21:46:40
+oliveoilpizza: nice gym
+
+21:46:41
+pocket_mayo: explosive movements!
+
+21:46:54
+pocket_mayo: the lighting is so sick in here
+
+21:47:55
+oliveoilpizza: is this Ozark !
+
+21:50:19
+pocket_mayo: Adam give us a most muscular pose
+
+21:50:27
+pocket_mayo: or a front double bi
+
+21:50:38
+sebaxpdev: Hi big guy
+
+21:51:11
+sebaxpdev: FlawlessVictory
+
+21:53:04
+schrew: oh we are you
+
+21:53:07
+uberrick: yeah all working
+
+21:53:07
+schrew: *hear you
+
+21:53:08
+pocket_mayo: we do!
+
+21:53:09
+rollingx: we can
+
+21:53:16
+schrew: lots of breathing and bro'ing out with sam
+
+21:53:27
+schrew: gs
+
+21:54:14
+pocket_mayo: SAM SAM SAM
+
+21:54:27
+pocket_mayo: Sam how much protein do you eat per day?
+
+21:55:06
+pocket_mayo: GUY IS A TANK
+
+21:55:19
+schrew: how much is powder vs actual food protein?
+
+21:55:54
+pocket_mayo: yeah we hear him
+
+21:58:48
+pocket_mayo: You should practice your takedowns on a random person in the gym
+
+21:59:11
+schrew: now the audio is glitchy again
+
+21:59:15
+kaceynotdev: why aren’t we on the sled rn
+
+21:59:21
+uberrick: same audio issues again :D
+
+21:59:22
+schrew: and lagged LUL
+
+21:59:32
+pocket_mayo: AUDIO AUDIO AUDIO
+
+21:59:44
+pocket_mayo: sam restart the stream for Adam
+
+21:59:46
+schrew: oof ouch owie Audio baddie
+
+22:01:00
+pocket_mayo: the bass go crazy on this song melkeyHeadbang melkeyHeadbang melkeyHeadbang
+
+22:01:50
+pocket_mayo: fixed
+
+22:01:53
+uberrick: yeah all good again
+
+22:02:32
+schrew: missed out on 3 minutes of time with sam Sadge
+
+22:02:50
+kaceynotdev: its at home
+
+22:02:57
+pocket_mayo: would have rather lost the wedding ring
+
+22:03:06
+schrew: all i can think about is how expensive that is
+
+22:03:17
+xxsallythegoosexx: thats impossible to get for me w.o. supplements
+
+22:03:21
+schrew: THE RING IS AT HOME
+
+22:03:26
+pocket_mayo: yooooo is this a rolls royce
+
+22:03:43
+schrew: the ring is at home
+
+22:03:50
+uberrick: @Pocket_Mayo Tesla :D
+
+22:04:08
+pocket_mayo: it sounds great
+
+22:05:22
+pocket_mayo: did you see the new OpenAI video creation model?
+
+22:05:35
+kevinnaughtonjr: hi adam hi chat!
+
+22:05:49
+schrew: not anymore? It was playing some music towards the start of stream tho
+
+22:06:17
+pocket_mayo: no way what’s up? @kevinnaughtonjr love your LinkedIn/twitter man
+
+22:06:25
+pocket_mayo: it’s insane Adam
+
+22:06:32
+kevinnaughtonjr: thanks @Pocket_Mayo :D
+
+22:07:01
+pocket_mayo: the openai stuff
+
+22:07:10
+kevinnaughtonjr: OMG IM GONNA BE VIP
+
+22:07:13
+kevinnaughtonjr: how was the workout adam??
+
+22:07:33
+pocket_mayo: how often are you weight training?
+
+22:08:01
+kevinnaughtonjr: that's awesome happy to hear it :)
+
+22:08:22
+kevinnaughtonjr: tbh you look bigger when you're lean anyways and you're sooooo lean
+
+22:08:28
+kiwifromearth: kiwi
+
+22:08:45
+uberrick: trying to work out if I can VIP Kevin :D
+
+22:09:11
+uberrick: don't think I have permissions
+
+22:09:42
+pocket_mayo: what belt are you now?
+
+22:09:44
+uberrick: "You don't have permission to perform that action." yeah I don't
+
+22:09:45
+kiwifromearth: HeyGuys
+
+22:10:17
+kevinnaughtonjr: wow
+
+22:10:20
+schrew: im a red stripe beer guy
+
+22:10:25
+pocket_mayo: naughty naughton melkeyLurk
+
+22:11:10
+pocket_mayo: when will u spar melkey??
+
+22:11:17
+kevinnaughtonjr: what are you weighing these days?
+
+22:11:39
+kevinnaughtonjr: also thanks for vip :)
+
+22:11:53
+arkansassnowman: do the tapeworm diet
+
+22:12:02
+schrew: no dandy blend for you
+
+22:12:10
+kiwifromearth: i went to white/yellow belt in BJJ, its a great sport fr
+
+22:13:31
+kevinnaughtonjr: what's the end goal with bjj?
+
+22:13:34
+pocket_mayo: you must be pretty tall to be 197 and that much vascularity
+
+22:13:43
+kiwifromearth: i did it as a kid though, it seems fun to do again but its expensive a lot of the time to join a gym
+
+22:14:25
+pocket_mayo: this was fun aside from the audio glitches, definitely want more gym streams!
+
+22:14:54
+kevinnaughtonjr: love that goal man that's great :) and i love seeing you stream things outside coding hoping 1 day i can get partner and do the same!
+
+22:15:02
+uberrick: UK do ft and inches usually
+
+22:15:49
+kiwifromearth: $100 is a great price, mine was about $250 a month when i was going
+
+22:16:25
+hicat_pl: no, only cm. No one says heigh in meters :)
+
+22:16:32
+uberrick: wait, what's your mobile stream setup right now? You mentioned OBS still? How is that working
+
+22:16:40
+hicat_pl: for people, but for "things" yes
+
+22:16:42
+schrew: into the woods he goes
+
+22:16:48
+kevinnaughtonjr: cya adam bye chat :D
+
+22:16:49
+kiwifromearth: farewell
+
+22:16:53
+pocket_mayo: cya!!
+
+22:17:03
+schrew: maybe we'll do this again sometime
+
+22:17:04
+uberrick: ah that sounds really cool, cya!
+
+22:17:13
+pocket_mayo: lmao!@
+
+22:17:16
+kevinnaughtonjr: wow adam is the best
+
+22:17:18
+arkansassnowman: he 100% hit that car
+
+22:17:23
+uberrick: haha we will never know. Get home safe
+
+22:17:24
+kevinnaughtonjr: hope he is safe
+
+22:17:33
+pocket_mayo: cliffhanger ending
+
+22:17:51
+pocket_mayo: @kevinnaughtonjr I didn’t realize u stream! will tune in next time

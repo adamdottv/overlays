@@ -9,7 +9,13 @@ import { delay, formatDate, randomItem } from "./utils"
 // import fetch from "node-fetch"
 import { Scene } from "./obs"
 import { fadeIn, fadeOut } from "./spotify"
+import {
+  BedrockRuntimeClient,
+  InvokeModelCommand,
+} from "@aws-sdk/client-bedrock-runtime"
 import open from "open"
+
+const bedrock = new BedrockRuntimeClient({ region: "us-west-2" })
 
 // const appToken = process.env.TWITTER_TOKEN as string
 
@@ -36,7 +42,7 @@ export interface GetStreamResponse {
 export type Segment = "twitter" | "larabar" | "rant" | "work" | "dax"
 
 export interface SegmentRequest {
-  key: Segment
+  id: Segment
   title: string
   track?: string
   to?: Scene
@@ -242,15 +248,14 @@ export default class StreamController {
     try {
       fadeOut()
 
-      if (!request || request.key === this._segment?.key) {
+      if (!request || request.id === this._segment?.id) {
         this.server.ws.emit("segment", {
           title: this._segment?.title,
           track: "/media/tada-05.wav",
         })
         // this.server.obs.setScene(this._segment?.transition ?? getRandomScene())
 
-        if (request?.key === "twitter")
-          this.server.off("new-tweets", openTweets)
+        if (request?.id === "twitter") this.server.off("new-tweets", openTweets)
         await delay(1000 * 3)
         this.server.ws.emit("segment", null)
         this.server.obs.setScene(this.previousScene!)
@@ -268,7 +273,7 @@ export default class StreamController {
       })
       this.server.obs.setScene(request.transition ?? getRandomScene())
 
-      if (request.key === "twitter") {
+      if (request.id === "twitter") {
         const tweets = this.server.stream.readTweets()
         await openTweets(tweets)
 
@@ -348,14 +353,38 @@ export default class StreamController {
     // return safeTweets
   }
 
-  async processMessage(message: string) {
-    // const tweetUrls = this.getTweetUrls(message)
-    // if (tweetUrls) {
-    //   const urls = tweetUrls.map((s) => new URL(s))
-    //   const safeUrls = await this.moderateTweets(urls)
-    //   this.tweets.push(...safeUrls)
-    //   this.server.emit("new-tweets", safeUrls)
-    // }
+  // async processMessage(message: string) {
+  // const tweetUrls = this.getTweetUrls(message)
+  // if (tweetUrls) {
+  //   const urls = tweetUrls.map((s) => new URL(s))
+  //   const safeUrls = await this.moderateTweets(urls)
+  //   this.tweets.push(...safeUrls)
+  //   this.server.emit("new-tweets", safeUrls)
+  // }
+  // }
+
+  async processMessages(payload: {
+    channel: string
+    user: string
+    message: string
+  }) {
+    // const prompt = `Briefly summarize in 2-3 short sentences, the following dialog between my co-workers. Only provide the summary, no additional explanation. Dialog:\n${conversation}`
+    // const response = await bedrock.send(
+    //   new InvokeModelCommand({
+    //     modelId: "anthropic.claude-v2",
+    //     contentType: "application/json",
+    //     body: JSON.stringify({
+    //       prompt: `\n\nHuman: ${prompt}\n\nAssistant:`,
+    //       temperature: 0,
+    //       top_p: 0.999,
+    //       top_k: 250,
+    //       max_tokens_to_sample: 300,
+    //       stop_sequences: ["\n\nHuman:"],
+    //     }),
+    //   })
+    // )
+    //
+    // const body = Buffer.from(response.body).toString("utf8")
   }
 
   handleNewChatMessage(payload: {
@@ -363,7 +392,7 @@ export default class StreamController {
     user: string
     message: string
   }) {
-    this.processMessage(payload.message)
+    // this.processMessage(payload.message)
     this.writeToCurrent(`${payload.user}: ${payload.message}`)
   }
 

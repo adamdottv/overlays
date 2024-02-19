@@ -1,0 +1,5161 @@
+
+
+11:52:05
+<transcript>: Check one too. Check, check.
+
+11:52:23
+<transcript>: Check.
+
+11:52:49
+<transcript>: When I was new.
+
+11:52:49
+<transcript>: to this field
+
+11:52:53
+<transcript>: To this field when I was a new software developer.
+
+11:52:56
+<transcript>: Wide eyed, bushy tailed.
+
+11:52:56
+<transcript>: i didn't have
+
+11:53:08
+<transcript>: I didn't have twitter. I mean, I had a Twitter. I didn't use Twitter. I wasn't on Twitter. I wasn't on Reddit or hacker news. Still not. On hacker news. I wasn't on any of these things.
+
+11:53:08
+<transcript>: i didn't have really
+
+11:53:20
+<transcript>: I didn't have really any of the Internet's perception of technology infiltrating. My brain. I was just a loan with my coworkers, I guess, and my peers. People who I was working with.
+
+11:53:22
+<transcript>: Figuring it out.
+
+11:53:24
+<transcript>: It was nice.
+
+11:53:24
+<transcript>: it's only been the last
+
+11:53:37
+<transcript>: It's only been the last couple of years that I've really kind of dove. Into the online tech world. I don't know what I'm trying to say, but. I think I'm trying to say, be careful out there, young developers.
+
+11:53:37
+<transcript>: impressionable
+
+11:53:38
+<transcript>: Impressionable.
+
+11:53:38
+<transcript>: young
+
+11:53:42
+<transcript>: Young software developers. Just be careful.
+
+11:53:42
+<transcript>: there's a lot
+
+11:53:45
+<transcript>: There's a lot out there, a lot of information you don't need.
+
+11:53:45
+<transcript>: you could probably
+
+11:53:47
+<transcript>: You could probably just do it on your own.
+
+11:54:41
+<transcript>: Channel.
+
+12:09:35
+<transcript>: Check, check.
+
+00:00:36
+nullchefo: HeyGuys
+
+00:01:03
+enzujp: Wow
+
+00:01:26
+enzujp: I've missed watching Adam's streams
+
+00:07:56
+texoport: pog
+
+00:08:36
+overra_dev: howdy
+
+00:08:49
+badcop_: oh its this guy
+
+00:08:59
+badcop_: kuvimaNPoggers
+
+00:10:34
+badcop_: rincsCRAFjam
+
+00:10:47
+adrian_learns: DinoDance
+
+00:10:50
+texoport: docloc1Neovim docloc1Neovim
+
+00:11:00
+kociqq: ayezeeHey
+
+00:11:08
+<transcript>: Let's go.
+
+00:11:08
+<transcript>: what
+
+00:11:12
+<transcript>: What's happening? I streamed again.
+
+00:11:17
+<transcript>: Kind of two days in a row if you consider that yesterday it was a holiday.
+
+00:11:22
+<transcript>: It was a post Super bowl recovery holiday here in the US.
+
+00:11:22
+<transcript>: so
+
+00:11:26
+pbertrand_dev: did you just threaten us on twitter?
+
+00:11:29
+<transcript>: So I wasn't going to stream yesterday, but I'm streaming today and I streamed Friday. That's two days.
+
+00:11:29
+<transcript>: in that's only
+
+00:11:39
+dangerep: Here was Carnaval.
+
+00:11:40
+<transcript>: In. That's only two and five. Is that five? Friday, Saturday, Sunday, Monday, Tuesday. Okay, two. Out of five days, but we're getting there. Bertram's here. Did you just threaten? Us on Twitter. I'm sorry, what?
+
+00:11:46
+<transcript>: Did it threaten you? I don't think so. Thank you for the follow, Hamida.
+
+00:11:48
+pbertrand_dev: you told me to be careful
+
+00:11:48
+<transcript>: Here was carnival.
+
+00:11:48
+<transcript>: carniv
+
+00:11:49
+lesabotsy: I thought I was a bjj fight stream lol
+
+00:11:49
+dangerep: It still is :) Until tomorrow mid-day.
+
+00:11:53
+<transcript>: Carnival. What's carnival? Oh, is that.
+
+00:11:53
+<transcript>: a holiday
+
+00:11:56
+<transcript>: A holiday that I just make fun of.
+
+00:11:56
+<transcript>: in my
+
+00:11:57
+<transcript>: In my.
+
+00:11:57
+<transcript>: pick southern
+
+00:11:58
+badcop_: im jealous that you have your own theme music
+
+00:12:00
+<transcript>: Pick southern Missouri accent I thought.
+
+00:12:04
+<transcript>: It was a bjj fight stream.
+
+00:12:05
+dangerep: Brazilian holiday!
+
+00:12:07
+tastefulelk: Heyoo
+
+00:12:09
+<transcript>: No, lesa, not today. But I do have a tournament this weekend.
+
+00:12:10
+<transcript>: And I'm.
+
+00:12:16
+<transcript>: Going to stream today? This afternoon, my workout with my personal trainer.
+
+00:12:16
+<transcript>: so that's
+
+00:12:28
+<transcript>: So that's going to be some non tech content I'm streaming twice today. Ovara with the tier one sub. Thank you so much, Ovara. You really shouldn't. You. Should have learned at this point not to sub to me, because I will let you down.
+
+00:12:37
+dangerep: @hmida74 Thanks for the gift sub!
+
+00:12:42
+<transcript>: I will probably make it the month that you're subbed, but if you continue to sub. Oh, my word. Hamida with the 20 git subs. Now everybody has subs. They can't do anything with. Okay, that was too much. What was that? That was a. Noise.
+
+00:12:42
+<transcript>: thank you so much
+
+00:12:44
+<transcript>: Thank you so much. Amida.
+
+00:12:47
+nullchefo: @hmida74 Thanks for the gift sub!
+
+00:12:49
+<transcript>: I think my overlays are broken and they're really kind of spooking. Me in my headphones.
+
+00:12:51
+kociqq: adamdevDealWithIt
+
+00:12:54
+<transcript>: Yeah, that noise. You guys probably hear it, too.
+
+00:12:59
+schrew: am i a sub
+
+00:13:05
+mad_cucumber: @hmida74 Thanks for the gift sub!
+
+00:13:09
+<transcript>: Bad cops here. Welcome to chat, bad cop. How are you doing, bad cop? I miss you when is switchcon. Why is it not tomorrow? Because that was the best, and I can't. Wait to hang out again. Twitchcon.
+
+00:13:10
+schrew: dang. twitch knows im free2play
+
+00:13:15
+badcop_: heck yea
+
+00:13:21
+overra_dev: missed you
+
+00:13:25
+chilaxathor: PowerUpL GlitchCat PowerUpR waazzzaaa
+
+00:13:26
+<transcript>: You missed watching adam's streams. That's so nice. Mill sheppo is here. Texoport. Pog o vera's here. How is everybody? Still no frag I'm not holding it against him, but, like, I don't know. Where are you, Frank? You know what I'm saying? Eight.
+
+00:13:26
+<transcript>: eightrian's here
+
+00:13:27
+<transcript>: Eightrian's here.
+
+00:13:27
+<transcript>: and cos
+
+00:13:29
+<transcript>: And cosy's here.
+
+00:13:29
+<transcript>: what do you
+
+00:13:35
+<transcript>: What do you mean? I told you to be careful. Oh, I got you. It wasn't. A threatening. Be careful, Paul. It was like.
+
+00:13:35
+badcop_: definitely going to san diego this year
+
+00:13:39
+<transcript>: Just be careful out there. There's a lot.
+
+00:13:42
+<transcript>: Of information.
+
+00:13:42
+<transcript>: you don't maybe
+
+00:13:44
+yeltrah_: hey hey
+
+00:13:53
+xxsallythegoosexx: you have tintin hairstyle today :D how u doin
+
+00:13:54
+texoport: a dam
+
+00:13:56
+<transcript>: You don't maybe need a brazilian holiday? I'm so sorry that I made fun. Of. I didn't make fun of it. I just couldn't say it properly, probably. Carnaville. Am I saying it right? Carnival? Is it just carnival? Because that's a. Word.
+
+00:13:56
+<transcript>: in english
+
+00:13:58
+<transcript>: In english carnival.
+
+00:14:00
+<transcript>: I don't know.
+
+00:14:00
+daneoshiga: carnival is the other thing Brazil is worldly known about xD after soccer
+
+00:14:11
+dakribe: @hmida74 Thanks for the gift sub!
+
+00:14:12
+<transcript>: Sebastian's here. What's going on? Sebastian? Sorry? You said hao right as Hamida. Hit me with the sound effects and the 20 gift subs. Now I'm way behind on chat.
+
+00:14:14
+hmida74: My bad my bad
+
+00:14:16
+<transcript>: Thanks for the gift. Sub. Am I a subtruse here?
+
+00:14:21
+pbertrand_dev: Here its carnaval, everyone dresses up and creates parade floats and gets drunk
+
+00:14:21
+<transcript>: I'm free to play.
+
+00:14:21
+<transcript>: sorry
+
+00:14:23
+<transcript>: Sorry.
+
+00:14:35
+badcop_: ok i have to go to sleep bye lcolonSnooze
+
+00:14:43
+<transcript>: Mine was a tier three sub. That's what that noise was. I knew there was, like. A bigger noise that happened because I think I have the different tiers, maybe I have different. Sound effects, and I don't hear that one very often. Hamida, I want to make that worth to you? The tier three? I don't know what to do about that, because. I don't know what you get with tier three right now, but you should get more. You should become like.
+
+00:14:43
+<transcript>: a
+
+00:14:43
+texoport: tier 3 should be a literal explosion
+
+00:14:48
+<transcript>: A confidant of mine. We should hang out on the weekends. Maybe I don't. Know. We'll figure it out.
+
+00:14:52
+chilaxathor: LUL
+
+00:14:54
+<transcript>: I miss you too, Ovara. Let's see who else here Shellax was.
+
+00:14:57
+texoport: like a jumpscare level explosion
+
+00:14:59
+<transcript>: Definitely going to San Diego this year? Yes. It's not in Vegas.
+
+00:15:02
+hmida74: We can just roast Dax together
+
+00:15:07
+<transcript>: Who's excited for not Vegas? Me. I'm excited for any tech conference. I'm going to. That's not in Vegas.
+
+00:15:12
+<transcript>: Yeltra is here. I mean, heart gene. Did I get it right? Do I remember?
+
+00:15:12
+<transcript>: that heart dean is
+
+00:15:14
+<transcript>: That heart. Dean is Yeltra.
+
+00:15:20
+yeltrah_: yes you do remember, well done
+
+00:15:24
+<transcript>: It's all the mapping of names I have to do in my brain. You have ten. Tin hairstyle today. How are you doing? Well, Sally, I was doing a little better before that.
+
+00:15:24
+<transcript>: now
+
+00:15:30
+sheba_: Jebaited nice scam
+
+00:15:32
+<transcript>: Now I'm thinking about who is Tinton? Why does my hair look like their hair? And what life choices have led me to this point.
+
+00:15:32
+<transcript>: carnival is the other
+
+00:15:37
+<transcript>: Carnival is the other thing Brazil is worldly known about after soccer, okay?
+
+00:15:41
+xxsallythegoosexx: tintin is the absolute goat
+
+00:15:42
+<transcript>: I'm probably saying it wrong. Still, is it carnal or carnival?
+
+00:15:48
+<transcript>: Hamida welcome to chat and thank you for the follow. Thank you for the gift. Subs.
+
+00:15:48
+<transcript>: and not
+
+00:15:56
+neochromer: good mornin
+
+00:15:57
+<transcript>: And not your bad. You're good. You're good here. It's carnival, everyone. Dresses up and creates parade floats and gets drunk.
+
+00:16:05
+<transcript>: Okay. Goodbye. Bad gop. Go to sleep. Wait a minute. Bad cop. You're going to. Sleep. You're probably already gone now and hopefully fast asleep.
+
+00:16:05
+<transcript>: but
+
+00:16:06
+neochromer: yeah Carnival in Austria/Germany
+
+00:16:10
+<transcript>: But it's not nighttime. I don't know if you're aware.
+
+00:16:10
+<transcript>: i don't
+
+00:16:15
+<transcript>: I don't care where you live. It's not nighttime right now. It's. Definitely. Morning.
+
+00:16:15
+<transcript>: well maybe
+
+00:16:17
+<transcript>: Well, maybe not morning for everybody.
+
+00:16:17
+<transcript>: but pretty sure
+
+00:16:18
+tastefulelk: All good here! Going on a shorter parental leave after this week, so I'm terrified. Two little monsters this time
+
+00:16:21
+<transcript>: But pretty sure you live in the US. And if so,
+
+00:16:27
+<transcript>: It's really late. You should not be going to sleep right now.
+
+00:16:27
+<transcript>: i'm going to have to get
+
+00:16:29
+badcop_: its 4:30am its still dark it counts
+
+00:16:38
+<transcript>: I'm going to have to get on you and Theo about this. Tier three should be a literal explosion. That would be amazing. Actually. Pyrotechnics. Let's do it like a jump scare level explosion? Yeah, that would be good.
+
+00:16:38
+<transcript>: we can just
+
+00:16:48
+<transcript>: We can just roast Dax together. Yes, I might. I've seen you in Dax's. Chat. Let's roast. Dax. I used to have a little segment I'm going to have to get back to the segment. I wonder if they still work.
+
+00:16:48
+<transcript>: like if i
+
+00:16:51
+<transcript>: Like if I click the button, what will happen?
+
+00:17:03
+<transcript>: Actually, I don't know if that's the Dax. If that's the Dax. As a guest button, or Dax is the Dax sacks. You remember we used to do Dax sacks? That was funny, those good times.
+
+00:17:03
+<transcript>: let's see
+
+00:17:07
+<transcript>: Let's see. Nice scam. You just haven't won yet. It's not. A scam.
+
+00:17:13
+<transcript>: Ten is the absolute goat. Well, in that case, I'm so glad my hair looks like tinted.
+
+00:17:13
+<transcript>: going
+
+00:17:29
+<transcript>: Going on shorter parental leave after this week, so I'm terrified. Ooh, two little monsters. Yeah, going from one to two. Not the easiest. As someone who has done it, it's. 430 and it's still dark. It counts. Okay, whatever. Back up. I guess west coast is a little less egregious.
+
+00:17:29
+<transcript>: but
+
+00:17:36
+<transcript>: But 430, man, I said till 1030 to watch the Super bowl, like, 1030 my time. It was brutal.
+
+00:17:36
+<transcript>: i was dead
+
+00:17:38
+<transcript>: I was dead to the world yesterday.
+
+00:17:38
+<transcript>: and
+
+00:17:40
+<transcript>: And that was 1030.
+
+00:17:40
+<transcript>: i
+
+00:17:42
+<transcript>: I go to bed at 830.
+
+00:17:42
+<transcript>: that was two hours
+
+00:17:44
+<transcript>: That was 2 hours late for me.
+
+00:17:48
+badcop_: 10:30 is rookie numbers
+
+00:17:57
+<transcript>: All right, I'm going to get to work, and you guys can watch me, and I'll interact some on my working, but I am trying to be a little more focused. I want this to be sustainable. I want to build a stream.
+
+00:17:57
+<transcript>: and get
+
+00:18:10
+<transcript>: And get work done. Two things at the same time. It's going to be tough, but. We're going to try it. If I can do that, I think I can stream consistently. Maybe for a whole year. We'll see. I should maybe stick with a month. Let's. Just go for a month.
+
+00:18:19
+<transcript>: But I'm going to go for a walk at some point this morning when it warms. Up just a little bit because it did snow, like, six inches yesterday.
+
+00:18:19
+<transcript>: and for
+
+00:18:21
+<transcript>: And for all of you, because.
+
+00:18:21
+<transcript>: you're probably
+
+00:18:26
+<transcript>: You're probably mostly not Americans. Unless you're bad cop and you're still up at 430.
+
+00:18:29
+<transcript>: How many centimeters is six inches?
+
+00:18:32
+<transcript>: It's like a banana length.
+
+00:18:32
+<transcript>: roug
+
+00:18:33
+texoport: IRL streams in the ozarks, let's go
+
+00:18:37
+<transcript>: Roughly a small banana. That much snow.
+
+00:18:37
+<transcript>: irl
+
+00:18:43
+hmida74: 15.25cm
+
+00:18:44
+chilaxathor: LUL
+
+00:18:46
+pbertrand_dev: 6 inches isnt small!!!
+
+00:18:49
+badcop_: its like 15cm
+
+00:18:49
+<transcript>: Irl streams in the ozark. Let's go. That's right. So we're. Going to go for a walk, and I'm going to take you on a walk. Because I have an IRL streaming rig now, and I'm going to take it to my workout today, and I'm going to take it to my tournament this weekend.
+
+00:18:49
+<transcript>: fifteen
+
+00:18:54
+<transcript>: 15.25 cm. There you go.
+
+00:18:59
+<transcript>: I'm sorry.
+
+00:19:04
+<transcript>: How's it going? How's it going, Paul? Always good to make me blush.
+
+00:19:04
+<transcript>: we're going to have ken wheeler
+
+00:19:11
+<transcript>: We're going to have Ken Wheeler on our podcast, me and Dax, and I'm going to blush and be so uncomfortable the entire time.
+
+00:19:15
+<transcript>: Having.
+
+00:19:15
+<transcript>: spent
+
+00:19:15
+overra_dev: noice
+
+00:19:16
+<transcript>: Spent a couple of days.
+
+00:19:16
+<transcript>: with him
+
+00:19:19
+<transcript>: With him in Atlanta at.
+
+00:19:21
+<transcript>: Render.
+
+00:19:23
+<transcript>: Just my.
+
+00:19:23
+<transcript>: midwestern
+
+00:19:25
+<transcript>: Midwestern concern.
+
+00:19:33
+<transcript>: Wants everybody to be happy and good and unabrasive personality.
+
+00:19:42
+texoport: i still remember nearly every line of ken's episode with prime like 3 years ago or something. the man's memorable af
+
+00:19:53
+<transcript>: He is the antithesis of that, but also, like the antidote to my overly that does that make sense? He's the antithesis of me, and it makes me uncomfortable, but I. Love it. I love being around him. For that reason, I still remember nearly every line of Ken's. Episode was prime, like, three years ago or something. That man's member of. Yeah. He is memorable. He is 100%.
+
+00:19:53
+<transcript>: himself
+
+00:19:57
+<transcript>: Himself, and he's a good time.
+
+00:19:57
+<transcript>: okay i'm going to
+
+00:19:59
+<transcript>: Okay. I'm going to play some music.
+
+00:19:59
+<transcript>: just like
+
+00:20:01
+<transcript>: Just like that.
+
+00:20:01
+<transcript>: i so wonder
+
+00:20:10
+pbertrand_dev: I am trolling him on twitter to slowly make him go crazy
+
+00:20:13
+<transcript>: I so wonder if my little segments work. I don't have my third camera plugged. In right now because it's my IRL camera now, so I don't have like the moving around the office camera. That's the one that I think.
+
+00:20:13
+<transcript>: it cut
+
+00:20:22
+<transcript>: It cut to when we did the segments. You guys don't care. No one even knows. What I'm talking about with segments. I'm stuck on something no one cares about. Okay.
+
+00:20:27
+<transcript>: Let's see. This is what I'm working on today.
+
+00:20:29
+<transcript>: I need to hit this button.
+
+00:20:29
+<transcript>: to do
+
+00:20:33
+<transcript>: To do that arrangement. No.
+
+00:20:37
+<transcript>: Where is my chat? No.
+
+00:20:40
+<transcript>: This one.
+
+00:20:42
+fideloper: wait, you have LESS CAMERAS!?
+
+00:20:43
+<transcript>: No, not that one.
+
+00:20:49
+<transcript>: This one. Where are you? Where are you, chat?
+
+00:20:49
+<transcript>: is
+
+00:20:51
+<transcript>: Is it this one?
+
+00:20:53
+fideloper: that is what i want to talk about actually
+
+00:20:54
+<transcript>: No, those are the same.
+
+00:20:54
+<transcript>: okay let's
+
+00:20:58
+<transcript>: Okay, let's bring it over here. Let's try that. Whoa.
+
+00:20:58
+hmida74: Hiding in the shadows
+
+00:21:03
+<transcript>: Okay. I'm still rusty. Still getting back into the swing.
+
+00:21:08
+<transcript>: So this stream manager should be layout default.
+
+00:21:08
+<transcript>: because i need to see
+
+00:21:12
+<transcript>: Because I need to see those. Yes. There it is. Okay.
+
+00:21:15
+<transcript>: I think I got it.
+
+00:21:19
+<transcript>: I can see chat over here.
+
+00:21:22
+texoport: didn't you have one of those tiny monitors for chat?
+
+00:21:25
+<transcript>: Chris is here. What's up, Chris? I have less cameras.
+
+00:21:28
+premiare: Good to see you Adam
+
+00:21:28
+<transcript>: That's what I want to talk about, actually.
+
+00:21:28
+<transcript>: what about having
+
+00:21:34
+<transcript>: What about having less cameras? Do you want to talk about? I don't have less cameras. I just have less set up for my stream.
+
+00:21:40
+<transcript>: Because I don't know. I'm, I've got the IRL camera. I'm going to take it on walks and stuff.
+
+00:21:49
+<transcript>: Didn't you have one of those tiny monitors for chat? I do, yeah. I've. Got.
+
+00:21:49
+<transcript>: a little
+
+00:21:54
+<transcript>: A little. What's it called? Where I can look into your soul? Little teleprompter.
+
+00:21:54
+<transcript>: good to
+
+00:21:59
+<transcript>: Good to see you. Premiere. Okay, so we're working on trending.
+
+00:21:59
+<transcript>: statues trending
+
+00:22:02
+<transcript>: Statues trending. This is what I was working on on Friday.
+
+00:22:02
+<transcript>: and
+
+00:22:09
+<transcript>: And there's just, like, little cleanup stuff. It's actually more than clean up now. Because there's a whole nother page I need to create.
+
+00:22:12
+texoport: are you guys 100% on astro now?
+
+00:22:13
+<transcript>: Because there's like a full screen view.
+
+00:22:17
+<transcript>: Okay, so we're going to go pages. Let's just do the first.
+
+00:22:21
+<transcript>: How do I want the routes to look for this? So if you click.
+
+00:22:26
+<transcript>: Let's see.
+
+00:22:28
+<transcript>: If.
+
+00:22:28
+<transcript>: you're on
+
+00:22:35
+<transcript>: You're on training searches. There's going to be a view. More so first I'm going to clamp it at five. Oops. I drugged that way too far.
+
+00:22:40
+<transcript>: We are 100% on Astro for the web front end.
+
+00:22:46
+<transcript>: We still have other services that run with other technologies.
+
+00:22:54
+<transcript>: But our website, if you go to status, that is an astro site now.
+
+00:22:57
+<transcript>: 100%.
+
+00:23:03
+texoport: didn't you have services in elixir?
+
+00:23:04
+<transcript>: Okay.
+
+00:23:05
+lesabotsy: No more Elixir?
+
+00:23:14
+<transcript>: Start here.
+
+00:23:16
+<transcript>: Component.
+
+00:23:16
+<transcript>: thank you
+
+00:23:18
+<transcript>: Thank you for the follow.
+
+00:23:20
+<transcript>: follows
+
+00:23:20
+<transcript>: follows thank you so
+
+00:23:22
+<transcript>: Follows. Thank you so much.
+
+00:23:22
+<transcript>: we do
+
+00:23:27
+<transcript>: We do still have elixir running in production, but the website is no longer electric.
+
+00:23:35
+<transcript>: It was an Elixir Phoenix app.
+
+00:23:41
+<transcript>: And we're mostly moving away from elixir just because we don't have electric experience on the team.
+
+00:23:46
+<transcript>: Like our team is much more JavaScript.
+
+00:23:47
+naxodev: sup
+
+00:23:49
+<transcript>: In terms of our skill set.
+
+00:23:50
+<transcript>: So.
+
+00:23:50
+<transcript>: we're moving away
+
+00:23:54
+texoport: *chomps into larabar* sponsorship when?
+
+00:23:54
+<transcript>: We're moving away from it. What's up, Naxodv?
+
+00:23:58
+<transcript>: Okay, so this is a page.
+
+00:23:58
+<transcript>: need a seymour
+
+00:24:00
+<transcript>: Need a seymour button.
+
+00:24:00
+<transcript>: i'm going to go fuzzy
+
+00:24:01
+<transcript>: I'm going to go fuzzy for a second.
+
+00:24:05
+<transcript>: I got to look at the mock.
+
+00:24:08
+<transcript>: Where is the.
+
+00:24:08
+<transcript>: mock
+
+00:24:09
+<transcript>: Mock.
+
+00:24:12
+<transcript>: Where is the mock?
+
+00:24:25
+<transcript>: Oh, there we go. Found it.
+
+00:24:27
+<transcript>: Okay.
+
+00:24:27
+<transcript>: so
+
+00:24:30
+<transcript>: So this has got a little show. More with a little carrot.
+
+00:24:30
+<transcript>: that's going to be
+
+00:24:32
+<transcript>: That's going to be a link.
+
+00:24:34
+<transcript>: Okay.
+
+00:24:37
+<transcript>: So we're going to show five.
+
+00:24:39
+<transcript>: We're going to say leagues.
+
+00:24:43
+<transcript>: Oh, I can. Unfuzzy. Sorry.
+
+00:24:45
+<transcript>: Slice.
+
+00:24:47
+<transcript>: Five like that.
+
+00:24:51
+<transcript>: Right. Is it slice. Yeah.
+
+00:24:54
+<transcript>: No, not there. That's the wrong spot.
+
+00:24:56
+<transcript>: Down here.
+
+00:24:58
+<transcript>: Queries, okay?
+
+00:25:06
+<transcript>: Oh, I'm already doing just the top ten. Now I need to just make that five.
+
+00:25:11
+<transcript>: Well, that means I've probably got ten down here. Yeah.
+
+00:25:19
+<transcript>: Look at that.
+
+00:25:28
+<transcript>: Look at that. I should probably make a component for that because it's all over the place. Okay, let's save that. So now we should only be showing five? Yeah.
+
+00:25:33
+<transcript>: Let's go. Mobile view, so I can save a little space here.
+
+00:25:39
+<transcript>: Okay, so we show five, and then we're going to have a little, like, show more. Thing at the bottom.
+
+00:25:48
+<transcript>: I really should make it as a component, shouldn't I? It's a little different. For the teams versus the players. The teams have multiple images.
+
+00:25:48
+<transcript>: how
+
+00:25:51
+<transcript>: How do I want to handle that?
+
+00:26:02
+<transcript>: I'm going to be eating breakfast.
+
+00:26:07
+<transcript>: And I need to trim my beard.
+
+00:26:07
+<transcript>: and i've got
+
+00:26:13
+<transcript>: And I've got this close up camera on my face. There's going to be food in my mustache. Just heads up.
+
+00:26:16
+<transcript>: Can't avoid it.
+
+00:26:21
+<transcript>: But I'm going to rub my mouth constantly to make sure I get it off.
+
+00:26:21
+<transcript>: chompson
+
+00:26:29
+<transcript>: Chompson delar bar sponsorship win. Yeah, no kidding. Win Larbar. When do I get a sponsorship because, like, I've earned it.
+
+00:26:32
+<transcript>: Okay.
+
+00:26:39
+<transcript>: Right here. So this is all the items, the list. Okay. And then below this list.
+
+00:26:43
+<transcript>: I guess down here.
+
+00:26:46
+<transcript>: H three, all that stuff.
+
+00:26:46
+<transcript>: and then
+
+00:26:52
+<transcript>: And then show more. Well, no, we only want to show more if there is a list, so. This is the empty state when there's no data.
+
+00:26:54
+<transcript>: But kind of better right here.
+
+00:27:01
+<transcript>: This is one of those, like, can't have more than one child thing.
+
+00:27:01
+<transcript>: just not
+
+00:27:04
+<transcript>: Just not going to work because I have the ol there. I don't know. Let's see.
+
+00:27:09
+<transcript>: Seymour.
+
+00:27:15
+<transcript>: It worked.
+
+00:27:18
+<transcript>: It looks terrible.
+
+00:27:21
+<transcript>: Okay, text center.
+
+00:27:28
+<transcript>: Let's put a little padding.
+
+00:27:32
+<transcript>: Padding. Just the y. Padding. Three.
+
+00:27:35
+<transcript>: Let's say.
+
+00:27:35
+<transcript>: i
+
+00:27:37
+<transcript>: I need that chevron.
+
+00:27:40
+<transcript>: Where is that chevron?
+
+00:27:42
+fragaverage: YO WTF WHO IS THIS
+
+00:27:46
+<transcript>: Need to look at the mock again.
+
+00:27:46
+<transcript>: fuzzy
+
+00:27:48
+<transcript>: Fuzzy.
+
+00:27:55
+<transcript>: Yeah, that's good. Show more with a chevron, but it's kind of like. A gray color.
+
+00:27:59
+<transcript>: It's not.
+
+00:28:01
+<transcript>: Text.
+
+00:28:01
+<transcript>: gray
+
+00:28:03
+<transcript>: Gray.
+
+00:28:10
+<transcript>: Oh, no.
+
+00:28:15
+<transcript>: There we go. That looks good.
+
+00:28:25
+<transcript>: An arrow down. What is happening? Oh, you guys. Frag, frag, frag, frag is. Here. Frag you would not believe.
+
+00:28:25
+<transcript>: how much
+
+00:28:29
+<transcript>: How much I've talked about you in my two streams. Seven back.
+
+00:28:29
+<transcript>: i
+
+00:28:31
+<transcript>: I did a whole.
+
+00:28:40
+<transcript>: Like is the word when you're, when you're not, like, not the beginning of a thing. That's a monologue. Or maybe that's not a monologue. Maybe. That just means one person. I did.
+
+00:28:40
+<transcript>: i called
+
+00:28:47
+fragaverage: I got my own segment?
+
+00:28:49
+joshuajebaraj: Hey Adam
+
+00:28:49
+<transcript>: I called it an epilogue. It was like the ending of my stream yesterday was all about Frag. And how I missed frag and where was frag? And it's not the same without frag here.
+
+00:28:57
+<transcript>: You should check it out. Check out the vod. You got your own segment. Yeah, what's? Up, Joshua? How you been? Frag?
+
+00:28:57
+<transcript>: how you been
+
+00:28:59
+<transcript>: How you been?
+
+00:29:01
+<transcript>: This is going to be a hyperlink.
+
+00:29:05
+<transcript>: So let's do this. Let's do this. Let's do.
+
+00:29:05
+<transcript>: hyperlink
+
+00:29:06
+<transcript>: Hyperlink.
+
+00:29:08
+<transcript>: I don't know yet.
+
+00:29:14
+<transcript>: See more.
+
+00:29:21
+<transcript>: And I guess that hyperlink. Well, the hyperlink itself have the chevron in it, yeah. Why not?
+
+00:29:24
+<transcript>: Chevron.
+
+00:29:24
+<transcript>: oh no
+
+00:29:28
+<transcript>: Oh, no, that's a spilt component.
+
+00:29:30
+<transcript>: So that's something nobody talks about.
+
+00:29:36
+<transcript>: Nobody talks about how it's painful when you're mixing.
+
+00:29:36
+<transcript>: these server
+
+00:29:36
+joshuajebaraj: Your video quality is 🤯 , which camera is btw
+
+00:29:38
+<transcript>: These server side.
+
+00:29:38
+<transcript>: and
+
+00:29:42
+<transcript>: And client side libraries like in Astro, you can just drop an island.
+
+00:29:42
+<transcript>: like
+
+00:29:53
+<transcript>: Like a client side island on your page, and that island is hydrated and handled like the runtime is streamed. Whatever. Astro does all the things to make that work.
+
+00:30:13
+<transcript>: But what they don't talk about is in your code base. When you have a mix. Of server rendered stuff and client side rendered stuff in two different technologies. Like, I have a bunch of astral components, and I have a bunch of felt components. And the problem is now I need icons for both. I need icons on the server side and I need icons on the client. Side because I can't. In a spelt component, I can't import an.
+
+00:30:13
+<transcript>: astro
+
+00:30:25
+<transcript>: Astro component. So if I make all my icons in Astro, they're just svgs. They're just svgs. But you know how you want to have, like, a nice component? You. Just import and you drop it there and it looks good.
+
+00:30:28
+<transcript>: You can't really do that in this model.
+
+00:30:28
+<transcript>: not
+
+00:30:30
+fragaverage: I am pretty good, life has thrown us a curveball for the early part of 2024, but we're handling it 😂 How is being beaten up by other dude in white robes?
+
+00:30:30
+<transcript>: Not well.
+
+00:30:30
+<transcript>: i
+
+00:30:30
+joshuajebaraj: NVM looked at the FAQ
+
+00:30:38
+<transcript>: I need a solution for that. Joshua. Video quality is head exploding. Which camera it's in? Sony a seven s three.
+
+00:30:46
+<transcript>: I'm pretty good. Life has thrown us a curve off the early product launch war. We're handling it. How is being beaten up by the other dude in white robes?
+
+00:30:54
+<transcript>: Jiu jitsu has been an excellent. I love it. I love it so much.
+
+00:30:58
+<transcript>: I've got tormit. This weekend, the Missouri state championship.
+
+00:31:05
+<transcript>: Okay, so this is the svg. It's just an svg, so.
+
+00:31:05
+<transcript>: i could just
+
+00:31:06
+<transcript>: I could just.
+
+00:31:06
+<transcript>: create an
+
+00:31:08
+fragaverage: Please take water this time, thanks
+
+00:31:10
+<transcript>: Create an asteroid. This just feels bad. If I have a chevron.
+
+00:31:17
+<transcript>: Astro and a chevron stealth. Feels bad, man. Feels real bad.
+
+00:31:21
+<transcript>: But what are you going to do?
+
+00:31:24
+<transcript>: I don't know what I'm going to do about it.
+
+00:31:32
+vinci__g: awesome follow alert damn
+
+00:31:32
+<transcript>: What was that? Did somebody follow or something? Vincey. Sorry I said that so dismissively, I. Mean, did somebody follow?
+
+00:31:36
+<transcript>: Vincey, thanks so much for the follow.
+
+00:31:40
+<transcript>: Please take water this time. Thanks. Yeah.
+
+00:31:40
+<transcript>: i'll be
+
+00:31:43
+<transcript>: I'll be well hydrated.
+
+00:31:51
+<transcript>: That was not the best that last tournament. Let's see. Astro, props, I just want to. Make sure to spread astro.
+
+00:31:57
+<transcript>: Props in there, right? I don't need to do anything up here. Well, I guess I could. For typescript, I could say.
+
+00:32:00
+<transcript>: Interface props.
+
+00:32:03
+<transcript>: Extend.
+
+00:32:07
+<transcript>: Extend. Yeah. That nod? No, not that.
+
+00:32:07
+<transcript>: not
+
+00:32:09
+<transcript>: Not react.
+
+00:32:14
+<transcript>: It's just like HTML element or something. What is it?
+
+00:32:14
+<transcript>: ht
+
+00:32:17
+<transcript>: HTML attribute.
+
+00:32:23
+<transcript>: What's the. What's the. No, not from. React. What is it from?
+
+00:32:27
+<transcript>: Astro attributes.
+
+00:32:31
+<transcript>: There it is.
+
+00:32:31
+<transcript>: ht
+
+00:32:34
+<transcript>: HTML attributes. Wait.
+
+00:32:39
+<transcript>: Oh, and then you can just pass a tag. Yeah.
+
+00:32:43
+<transcript>: Love it.
+
+00:32:46
+<transcript>: HTML.
+
+00:32:48
+<transcript>: Attribute.
+
+00:32:51
+<transcript>: Sv.
+
+00:32:51
+<transcript>: sv
+
+00:32:52
+<transcript>: Svg.
+
+00:32:52
+<transcript>: win
+
+00:32:54
+joshuajebaraj: Adam not sure if you remember that once you shared the excel sheets consist of how much you made in that year, I took a copy of that and using that as my motivation/inspiration <3
+
+00:32:55
+<transcript>: Winning, winning.
+
+00:32:59
+<transcript>: So then I can just spread props right there, right?
+
+00:33:02
+<transcript>: Okay.
+
+00:33:06
+<transcript>: All. That looks good.
+
+00:33:13
+<transcript>: Now I can import my chevron. My second chevron component feels good.
+
+00:33:16
+<transcript>: That was being sarcastic.
+
+00:33:18
+<transcript>: Chevron.
+
+00:33:22
+<transcript>: And then I'm going to import it from.
+
+00:33:26
+<transcript>: No. What? Not that one.
+
+00:33:26
+<transcript>: i'm going to
+
+00:33:30
+<transcript>: I'm going to go up and fix it. Where is it?
+
+00:33:40
+<transcript>: Been funny if, after all that, if I just looked up and realized, oh, wait, I'm. In an assault component.
+
+00:33:43
+<transcript>: Component.
+
+00:33:46
+<transcript>: Icons, okay?
+
+00:33:54
+<transcript>: Move these guys up here. They belong with their little family of components.
+
+00:33:56
+<transcript>: Okay.
+
+00:33:56
+<transcript>: let
+
+00:34:00
+<transcript>: Let's see. Where am I at? Seymour chevron.
+
+00:34:00
+<transcript>: boom
+
+00:34:02
+<transcript>: Boom.
+
+00:34:05
+<transcript>: I need to style that. Let's see.
+
+00:34:18
+<transcript>: Adam. Not sure if you remember that once you shared the excel sheets consists of how much you made in that year. I took a copy of that and using that as my motivation inspiration. Josh but that is awesome. I do remember that I did a twitter space, I believe.
+
+00:34:21
+<transcript>: Kind of went through a bunch of stuff.
+
+00:34:25
+<transcript>: We did it.
+
+00:34:29
+<transcript>: We did it. It's a chevron.
+
+00:34:32
+<transcript>: That's funny.
+
+00:34:38
+<transcript>: I think we're done here. Our work here is done.
+
+00:34:42
+<transcript>: This is why I passed all the props in.
+
+00:34:42
+<transcript>: if i can do like
+
+00:34:43
+<transcript>: If I can do like this.
+
+00:34:55
+<transcript>: Oh. Need to flex.
+
+00:35:08
+<transcript>: So text center is not going to work. We need to do.
+
+00:35:09
+star_ansible: hey m8, hope all is well with u
+
+00:35:28
+<transcript>: Item center is vertical.
+
+00:35:30
+<transcript>: What does I do? Item center.
+
+00:35:32
+<transcript>: And.
+
+00:35:35
+<transcript>: I don't remember.
+
+00:35:38
+<transcript>: Star ansible. What's going on, Nick?
+
+00:35:38
+<transcript>: man
+
+00:35:40
+<transcript>: Man. How are you?
+
+00:35:47
+sebaxpdev: Hi mister!@@ long time VirtualHug VirtualHug
+
+00:35:50
+kociqq: real Nick?
+
+00:35:51
+neochromer: @star_ansible well this is someone I did not expect
+
+00:35:54
+<transcript>: How are you, Nick? I miss you, I think. Did you come back to twitch like there was? A while where you weren't streaming. But are you streaming again? Because same for him. I also did that. I wasn't streaming, and now I am streaming.
+
+00:35:58
+<transcript>: Steba.
+
+00:35:58
+<transcript>: what's
+
+00:36:00
+<transcript>: What's going on, Seba?
+
+00:36:03
+neochromer: Is this 2021 again?
+
+00:36:04
+kociqq: staran5Baninc
+
+00:36:06
+<transcript>: Are you streaming again, Nick?
+
+00:36:06
+<transcript>: because
+
+00:36:08
+star_ansible: haha ayyyy
+
+00:36:16
+<transcript>: Because I just got back on Twitch on Friday and I don't really get on twitch. Unless I stream, so I wouldn't know when you. Hey, is this 2021 again?
+
+00:36:19
+star_ansible: same, i started like last month or so
+
+00:36:50
+neochromer: streamers giving me nostalgia feeling.. where did I go wrong in life
+
+00:37:00
+star_ansible: u went right brotha
+
+00:37:06
+mad_taff: intense webcam
+
+00:37:18
+star_ansible: i'm liking the faux hawk
+
+00:38:18
+neochromer: omg
+
+00:38:21
+neochromer: tintin
+
+00:38:27
+neochromer: you are tintin
+
+00:38:28
+hmida74: No worries tintin is a badass
+
+00:38:32
+neochromer: can't unsee now
+
+00:38:36
+night_light90: tintin is a famous comic character
+
+00:38:37
+star_ansible: nah faux hawks are dope, it's half punk, half chic
+
+00:38:42
+star_ansible: tin tin is a stud!
+
+00:38:51
+blindvalet: https://en.wikipedia.org/wiki/Tintin_(character)
+
+00:39:24
+koamb: Hi Adam, is there any chance to see your full coding streams, feel like i improve a lot every time i have the chance to see it a little bit of it, but unfortunately i cant always catch up your streams
+
+00:39:55
+neochromer: Im into cargo the last year
+
+00:40:00
+neochromer: dunno why i like the pockets
+
+00:40:32
+star_ansible: tintin the belgian hero
+
+00:40:46
+saudxd_: i love tintin
+
+00:40:47
+star_ansible: shoutout to kevin de bruyn
+
+00:40:55
+night_light90: @SaudxD_ same
+
+00:41:24
+fragaverage: Just watched the end of the VOD.... "except for frag, I hate that guy" 🤔👀
+
+00:41:42
+neochromer: Where the F is De bruyne today
+
+00:41:43
+star_ansible: ok i gotta run, just wanted to encourage u and shower u with compliments later gators
+
+00:41:46
+star_ansible: ∆∆∆∆∆∆
+
+00:41:47
+hmida74: Is it this one? https://www.tiktok.com/@grizzly.bane/video/7199351523334294830
+
+00:41:48
+star_ansible: ∆∆∆∆∆∆∆
+
+00:41:52
+neochromer: Manchester?
+
+00:42:23
+koamb: yeah it would be awesome if it will remain somewhere for longer, thank you
+
+00:43:52
+fragaverage: move it to the li I guess
+
+00:44:12
+fragaverage: its already a list item lol
+
+00:44:17
+uberrick: Hello Adam!
+
+00:44:30
+fragaverage: oh, thought you meant the other
+
+00:44:30
+neochromer: FC Manchester
+
+00:44:32
+fragaverage: KEKW
+
+00:44:33
+neochromer: where De Bryne plays
+
+00:44:48
+neochromer: Bruyne
+
+00:45:05
+svekkos: Man City
+
+00:45:45
+uberrick: https://en.wikipedia.org/wiki/Kevin_De_Bruyne
+
+00:46:16
+uberrick: Yes a "soccer" player :D for Manchester City
+
+00:47:44
+uberrick: haha nice! They are really good!
+
+00:48:20
+ricardoatds: those illustrations made me follow :D amazing man
+
+00:48:58
+dendenguy: Which providers do you use to get the sport stats?
+
+00:49:04
+uberrick: do you think AI will take over this process at some point? learning from your current drawings?
+
+00:50:02
+oetziofficial: Hello 👋
+
+00:50:31
+ricardoatds: mind if I ask what are we working on today ?
+
+00:51:31
+svekkos: But it's not up to date when some leagues are not in that providers list?  I searched for someone who played in England, but now in Belgium.  Data from Belgium league is not in the stats
+
+00:51:35
+oetziofficial: Doing well, trying to overcome being overstimulated/overwhelmed. Too much online-dopamine the past few weeks. I am working on one of my side projects right now. How are you?
+
+00:51:46
+acairns: Hey hey 👋
+
+00:53:28
+uberrick: How you finding Astro, I tried Svelte the other day and really missed the available React libraries haha
+
+00:54:34
+oetziofficial: I'm using the older solid-start and solid with shadcn(kobalte+shadcn design) is working for me really well
+
+00:55:49
+uberrick: @OetziOfficial what do you use kobalte for, other components that shadcn doesn't have?
+
+00:56:40
+hmida74: I keep writing "jkjkjkj" in chat and like WHY IS VIM NOT WORKING
+
+00:56:48
+oetziofficial: @OetziOfficial well, I use a solidjs port of shadcn. it even has less than shadcn components at the moment
+
+00:57:00
+oetziofficial: @hmida74 skill issue
+
+00:57:09
+hmida74: @OetziOfficial 1000%
+
+00:57:40
+bjufre: aren’t you doing Laravel anymore?
+
+00:57:42
+bjufre: 😂
+
+00:57:43
+arkansassnowman: Do you listen to the Whiskey, Web, and Whatnot podcast? They love astro.
+
+00:57:50
+uberrick: @OetziOfficial ah okay makes sense
+
+00:58:10
+peculiarnewbie: Hey adam 👋
+
+00:58:46
+trivenge: ayyyy its adammmm
+
+00:59:11
+trivenge: ooooo what are we snackin on?
+
+00:59:27
+bjufre: what switches are you using?? they sound awesome I like it
+
+00:59:40
+trivenge: !keyboard
+
+00:59:41
+fossabot: Adam uses a custom Mode Eighty mechanical keyboard, and has a collection of other Mode keyboards!
+
+01:00:34
+trivenge: not sure if hes still using the same keyboard, i cant recall the switches. I use haimu heartbeat silent linear switches on my keyboard but its not the easiest typing experience for some people, but is very quiet. Im gonna try a nuphy air75 v2 soon, dax convinced me to try a mechanical low profile lol
+
+01:02:25
+peculiarnewbie: Congrats on statmuse not going down on the superbowl
+
+01:02:35
+trivenge: LUL
+
+01:02:41
+trivenge: were you guys worried about that?
+
+01:02:50
+trivenge: oh dang
+
+01:02:51
+uberrick: how much more traffic do you get?
+
+01:03:20
+trivenge: is this an SST plug?
+
+01:03:21
+trivenge: LUL
+
+01:03:34
+winter_squirrel: As much as people hate cloud / serverless, this kind of thing is why it's useful. No need to think about it, it just scales and works
+
+01:03:55
+sebaxpdev: What's with the flickering?
+
+01:04:03
+ocelot2123: what are you using for serverless database?
+
+01:04:30
+sebaxpdev: The screen
+
+01:04:34
+sebaxpdev: Everything....
+
+01:04:47
+trivenge: i dont see any flickering
+
+01:04:48
+fragaverage: No flickering here
+
+01:04:49
+oetziofficial: are you on mobile?
+
+01:04:55
+trivenge: must be on your end mate
+
+01:04:58
+yozd82: everything good here
+
+01:04:59
+sebaxpdev: Yeap @oetziofficial
+
+01:05:03
+oetziofficial: twitch app is the issue
+
+01:05:14
+sebaxpdev: Going over yt
+
+01:05:15
+fragaverage: postgres or mysql?
+
+01:05:17
+tumtumpkinz: When learning AWS do you recommend starting with CDK?
+
+01:05:18
+trivenge: twitch mobile is rough
+
+01:05:18
+fragaverage: oh pg. Sick
+
+01:05:21
+ricardoatds: is statmuse fully web or also plans for mobile ?
+
+01:05:22
+oetziofficial: choose a slightly lower resolution @SebaXPDev
+
+01:05:52
+trivenge: i know statmuse has an app for iphone at least
+
+01:05:58
+sebaxpdev: Ops... no yt LUL LUL
+
+01:06:54
+trivenge: right on
+
+01:07:46
+sebaxpdev: Fixed. It was the resolution manzdevNotlikethis
+
+01:08:05
+drdrero: Whats cooking :)
+
+01:08:37
+trivenge: you get a pea and rice protein powder blend at all adam?
+
+01:08:37
+oetziofficial: that was months ago @adamdotdev
+
+01:08:52
+trivenge: its really one of, if not, the only protein powder to get as a vegetarian/vegan for sure
+
+01:09:00
+pbertrand_dev: pee protein?
+
+01:09:06
+trivenge: mainly because of comparable studies to it and whey protein
+
+01:09:21
+pbertrand_dev: adams on the vegan juice
+
+01:09:24
+trivenge: but you definitely want to look into that more in your spare time, definitely nice to have, popular in our vegan community
+
+01:09:44
+trivenge: LUL
+
+01:09:46
+pbertrand_dev: hes a 100% enhanced
+
+01:10:05
+trivenge: no juice involved, 100% natural lol. im actually surprised he answered that LUL
+
+01:10:09
+sebaxpdev: You look much better at 1080p ... I need that right now leg extensions are killing
+
+01:11:55
+sebaxpdev: Naturally juiced!! manzdevSuperAvocado
+
+01:11:59
+oetziofficial: I dont even know what the difference was
+
+01:12:03
+sebaxpdev: That should be a brand
+
+01:12:17
+fragaverage: So as your most memorable watcher/mod, shall we talk about that MacBook now? 👀🤣
+
+01:12:34
+fragaverage: Let just say yes
+
+01:12:37
+trivenge: someone won?
+
+01:12:38
+trivenge: wtf
+
+01:12:42
+trivenge: no way
+
+01:12:45
+pbertrand_dev: I ended up buying me own macbook like a sucker
+
+01:12:46
+oetziofficial: no one won
+
+01:12:48
+trivenge: oh ok
+
+01:12:52
+ocelot2123: you need to stream more so we can actually get some points to get the macbook
+
+01:12:52
+trivenge: i missed it if so lol
+
+01:13:01
+fragaverage: @pbertrand_dev Same but could only afford an M2 air 🤣🤣
+
+01:13:04
+oetziofficial: adams account would write in chat if someone won
+
+01:13:23
+trivenge: adam silently turns off pc, oh no, power goin outastoasutaoshgabnigasbdga @ocelot2123
+
+01:13:51
+trivenge: when is statmuse gonna work with mrbeast?
+
+01:13:54
+fragaverage: Write a transform function and start modeling how you want it
+
+01:14:13
+pbertrand_dev: @FragAverage m2 air is still nice
+
+01:15:12
+pbertrand_dev: "I'm going to stream every tuesday this week I think"
+
+01:15:19
+fragaverage: I meant a transform function to run as part of a deploy CICD pipeline
+
+01:15:28
+fragaverage: to transform the existing data to the new model
+
+01:15:43
+trivenge: lol
+
+01:17:35
+trivenge: i think most of us are probably here in the background working or studying while having you on in the background
+
+01:17:45
+naerok_gg: i like that theming, very soft
+
+01:18:12
+naerok_gg: terminal/tmux
+
+01:18:31
+trivenge: oh thats nvim i think
+
+01:18:36
+estrangedhd: how was the peak of website use during the superbowl?
+
+01:18:56
+estrangedhd: Big W
+
+01:18:57
+trivenge: did statmuse advertise at superbowl?
+
+01:19:05
+trivenge: i missed the superbowl went to bed early
+
+01:19:31
+naerok_gg: i used to work at a similar (idk if its the same concept) company with sports stats -> odds, i knew nothing about sports and still dont
+
+01:19:40
+estrangedhd: @triveNge They got Disney/Google funding, but not that kind of funding
+
+01:20:12
+trivenge: how much were ads at the superbowl?
+
+01:20:41
+sebaxpdev: Question, why not using a file exclusively for constant? Or is better performance wise declare them locally in the same file?
+
+01:20:49
+peculiarnewbie: It was all ads basically
+
+01:21:00
+estrangedhd: @triveNge 30sec costs around 7mil
+
+01:21:06
+trivenge: PogBones
+
+01:21:50
+ae517: Ayo, sup.
+
+01:23:19
+ae517: How's it going? Feeling better?
+
+01:23:36
+sebaxpdev: Those leagues
+
+01:23:43
+sebaxpdev: Hehehej
+
+01:29:44
+lucaseugenio_: @adamdotdev do you use neovim? or another distro like lunarVim?
+
+01:29:50
+lucaseugenio_: pure neovim*
+
+01:29:55
+oetziofficial: REKT
+
+01:30:17
+adamdotdev: github.com/adamdottv/dotfiles
+
+01:30:19
+lucaseugenio_: tks
+
+01:30:24
+fragaverage: !dotfiles
+
+01:30:24
+fossabot: Adam's dotfiles live here: https://github.com/adamelmore/dotfiles
+
+01:30:31
+fragaverage: command out of date lol
+
+01:30:41
+fragaverage: oh it auto forwards anyway
+
+01:30:51
+pratikshit08: startups or big tech
+
+01:31:42
+fragaverage: !betakey
+
+01:31:42
+fossabot: Use beta key `adamisontwitch2` after signing up at public.dev.
+
+01:31:45
+fragaverage: KEKW remember this?
+
+01:32:02
+sebaxpdev: Did you or someone created a design system for the app?
+
+01:32:13
+peculiarnewbie: Did you start streaming again just so that you can rebrand to adamdottv because you couldn't get adamdotdev on github?
+
+01:32:13
+sebaxpdev: Or you are going with the flow
+
+01:32:17
+sebaxpdev: Yeap statmuse
+
+01:32:49
+peculiarnewbie: Sadge
+
+01:32:54
+pratikshit08: can we use supabase or fireabase for production for early stage startup
+
+01:32:55
+sebaxpdev: Nice.... are you going to share the process a bit? Is so interesting ux/ui systems
+
+01:32:58
+fragaverage: trademark it, then file for infringement :P
+
+01:33:20
+oetziofficial: I remember you talked about it on the podcast a few weeks ago
+
+01:33:35
+peculiarnewbie: He's waiting for you to get bigger so that he can get a bigger bag
+
+01:33:53
+fragaverage: can you even legally sell GH handles lmao
+
+01:35:33
+fragaverage: I'll send you an alternative method
+
+01:35:55
+sebaxpdev: @oetziofficial podcast?
+
+01:36:15
+ae517: Are you still using the font that makes exclamation points go full Michael Jackson?
+
+01:36:26
+bronifty: nft are made for this and art generally
+
+01:36:30
+rihan_s_: don't need to sell the handle, just pay for the action of transferring ownership. msft still owns the handle.
+
+01:36:49
+bronifty: the art of money laundering
+
+01:37:59
+sebaxpdev: @bronifty is that an Ozarks thing... LUL LUL LUL
+
+01:38:28
+fragaverage: sent a DM on discord with a possible method
+
+01:40:27
+fragaverage: He's probably scared of being scammed out of a Macbook 👀
+
+01:40:57
+sebaxpdev: Have you tried image-set ?? https://developer.mozilla.org/en-US/docs/Web/CSS/image/image-set
+
+01:41:21
+sebaxpdev: It might be a good use case for good mobile / desk experience
+
+01:41:26
+ae517: Maybe he enjoys the feeling of being a ✨𝓓𝓮𝓿✨
+
+01:42:42
+felixicaza: Hey! @SebaXPDev 👋
+
+01:42:52
+westab: next year’s odds
+
+01:43:02
+peculiarnewbie: Are they gonna threepeat
+
+01:43:39
+fideloper: can I see your colorful spoon
+
+01:43:56
+kaceynotdev: because of post Malone’s jacket
+
+01:44:07
+fideloper: beautiful
+
+01:44:23
+estrangedhd: its a 3/10
+
+01:44:28
+ae517: Ah yes, Spoon.
+
+01:45:14
+ae517: Gen Z Humor right there. 【Ｓ Ｐ Ｏ Ｏ Ｎ】
+
+01:45:24
+sebaxpdev: @felixicaza hi Felix!!! You are everywhere manzdevLove miduLove afordiServesa
+
+01:45:38
+peculiarnewbie: Chris jones was great
+
+01:46:18
+felixicaza: @SebaXPDev Hahaha manzdevLove
+
+01:47:47
+sebaxpdev: When is the AVP beach volley league coming to statmuse
+
+01:47:50
+sebaxpdev: ?
+
+01:48:04
+sebaxpdev: I know
+
+01:48:07
+sebaxpdev: I remember
+
+01:48:21
+sebaxpdev: Do it for her
+
+01:48:23
+kaceynotdev: yes!
+
+01:48:43
+peculiarnewbie: Lmao great name
+
+01:48:46
+sebaxpdev: @kaceynotdev push him!!!!
+
+01:48:47
+binajmen: hello (:
+
+01:48:59
+binajmen: you have to behave now
+
+01:49:19
+peculiarnewbie: That's a lie
+
+01:49:23
+ae517: A surprise indeed.
+
+01:49:35
+tayloreddev: @kaceynotdev have you seen the macbook scam this guy runs LUL
+
+01:49:57
+binajmen: LuL
+
+01:50:24
+sebaxpdev: Happy wife, happy life! Bring the AVP
+
+01:51:57
+binajmen: which obs plugin are you using to pixelate your screen when you need to hide private details temporarily?
+
+01:52:33
+peculiarnewbie: I don't think you can
+
+01:52:49
+binajmen: oops sorry was not there I'll look at it
+
+01:53:45
+peculiarnewbie: I approve
+
+01:54:05
+oetziofficial: @binajmen here is the tutorial: https://youtu.be/-G3bpS5zJ6g?si=WN0T6U_jluV4YtIQ&t=1494
+
+01:54:10
+ae517: Interesting approach.
+
+01:54:14
+binajmen: this is too hacky
+
+01:54:17
+fragaverage: Disapproved
+
+01:54:20
+oetziofficial: yes i did
+
+01:54:21
+binajmen: @OetziOfficial ty!
+
+01:54:37
+kaceynotdev: I have no idea what’s happening
+
+01:55:24
+kaceynotdev: how do I get a MacBook though?
+
+01:55:27
+fragaverage: !fuzzy
+
+01:55:27
+fossabot: Here is a tutorial to get a similar effect in OBS: https://youtu.be/-G3bpS5zJ6g?si=WN0T6U_jluV4YtIQ&t=1494
+
+01:55:32
+fragaverage: Can I get that macbook now?
+
+01:55:40
+ae517: Kacey is asking the real questions there.
+
+01:55:41
+kaceynotdev: lol
+
+01:56:01
+fragaverage: Whats my excuse?
+
+01:56:10
+fragaverage: I can afford a 1 on 1 😂
+
+01:56:33
+dimpopo: Kacey must be good at spending adam bucks
+
+01:56:36
+fragaverage: Because I wanted to save your knowledge for an actual useful project
+
+01:56:53
+kaceynotdev: I have infinite Adam bucks
+
+01:56:59
+fragaverage: @kaceynotdev is a hacker
+
+01:57:57
+pbertrand_dev: I ordered an iPad and 2 covers for Mother in law and they sent 3 iPads lmao
+
+01:58:42
+pbertrand_dev: Some manager must be super happy because "sales" are super high
+
+01:58:50
+nate_codes: ADAM IS STREAMING?!?!? nateco2Pog
+
+01:58:53
+fragaverage: Someone was working their "notice" period lmao
+
+01:59:32
+nate_codes: HAHAHA I love that movie
+
+01:59:34
+nate_codes: it’s so good
+
+01:59:49
+pbertrand_dev: what did you get him for the 14 months anniversary @adamdotdev ?
+
+02:00:00
+ae517: This requires a proper gratitude Adam.
+
+02:00:23
+nate_codes: LUL @ae517
+
+02:00:23
+peculiarnewbie: Yep
+
+02:00:32
+fragaverage: 32 as freezing makes no sense
+
+02:01:02
+nate_codes: Adam and I have shared a romantic walk IRL…don’t need gratitude demonstrated when you share moments like that nateco2Kappa
+
+02:01:06
+pbertrand_dev: we get it, you have wife
+
+02:01:13
+ae517: He's avoiding the question.
+
+02:01:42
+ae517: @nate_codes Oh? That's lovely.
+
+02:01:55
+nate_codes: anniversary gift for me
+
+02:01:55
+motown241: What headphones are those?
+
+02:02:15
+nate_codes: my wife is also my most faithful chatter
+
+02:02:34
+ae517: Ya avoiding the question 'bout Nate's gift. He deserves.
+
+02:02:41
+nate_codes: aight I gotta shower and go live myself here. 12min late already nateco2NotLikeThis
+
+02:02:52
+dcap_: Im gonna go ahead with the best first message: poop
+
+02:02:56
+hmida74: @nate_codes Waiting for ya
+
+02:02:59
+nate_codes: !lurk
+
+02:03:02
+skuzzietv: your camera lens is godly
+
+02:03:18
+nate_codes: PST hurts nateco2BabyRage
+
+02:03:29
+restarted: did statmuse go down during the super bowl or did you end that trend?
+
+02:03:39
+techsavvytravvy: ayyy
+
+02:03:51
+nate_codes: @restarted I bet Astro rewrite helped a LOT
+
+02:04:03
+fragaverage: NextJS would have been fine too. Just sayin
+
+02:04:05
+restarted: makes sense
+
+02:04:15
+nate_codes: HEY @adamdotdev …if you see this: FOCUS
+
+02:04:20
+techsavvytravvy: waking up, looking at your head
+
+02:04:42
+dcap_: go and templ Kreygasm
+
+02:05:36
+peculiarnewbie: I tried go + templ + htmx
+
+02:05:40
+peculiarnewbie: pretty good
+
+02:06:17
+ae517: Cold is good, Hot is bad. Period.
+
+02:06:23
+techsavvytravvy: 29°???
+
+02:07:32
+completewhiteheight: So the cradle willl be my life
+
+02:08:24
+completewhiteheight: I'm thinking tou set it up
+
+02:09:01
+warrenbuffering: when I first started programming the internet didn't exist yet
+
+02:09:23
+peculiarnewbie: Oh wow it's warren
+
+02:09:33
+ace_j0sh: hey i want to buy laptop and use it for this what your opinion on AMD Ryzen 7 7730U (8M Cache. up to 4.1 GHz. 8 cores 16GB DDR4 AMD Radeon Graphics 1 TB
+
+02:10:01
+dcap_: Cant you loop the list instead of checking >1, >2? Could there be some issue if its more than 2 images? :D
+
+02:10:06
+oetziofficial: warren a moderator? are you crazy
+
+02:10:12
+oetziofficial: KEKW
+
+02:10:23
+warrenbuffering: def should be mod
+
+02:10:29
+fragaverage: Adam on speaks in Apple M*
+
+02:10:34
+fragaverage: only&
+
+02:10:57
+funkysetiz: @ace_j0sh looks good. what brand?
+
+02:11:09
+ae517: """""""Privileged"""""""
+
+02:11:16
+ace_j0sh: its asus
+
+02:11:23
+peculiarnewbie: Are you sure you gonna give him that power
+
+02:11:25
+warrenbuffering: OH YEAH
+
+02:11:26
+peculiarnewbie: Ah shit
+
+02:11:48
+martacus: New mod to annoy <3
+
+02:11:48
+funkysetiz: @ace_j0sh asus has great stuff. I don't code on windows though, no idea about the RAM
+
+02:11:55
+funkysetiz: might need to up it?
+
+02:12:09
+sheppo162: @ace_j0sh More than good enough to do this
+
+02:12:11
+restarted: missing a (
+
+02:12:59
+funkysetiz: that's so cool indeed
+
+02:13:03
+fragaverage: Welcome to the club @warrenbuffering, we don't actually protect Adam. We tend to troll him instead.
+
+02:13:09
+ae517: @funkysetiz It consumes some of the initial RAM (bloat stuff and other things), but I don't recommend relying on Windows itself, so I think it's better to setup an WSL. At least from my point of view.
+
+02:13:22
+warrenbuffering: I'm very hinged don't worry
+
+02:13:52
+warrenbuffering: why stock market go down?
+
+02:14:03
+martacus: @warrenbuffering We allow doors as mods now?
+
+02:15:41
+funkysetiz: @AE517 that's why I recommand more for windows. if it's linux it should be fine
+
+02:15:50
+nate_codes: @warrenbuffering HeyGuys
+
+02:16:16
+nate_codes: @warrenbuffering hey did you get the invite for the meeting with HR?
+
+02:16:19
+funkysetiz: @adamdotdev what are those messages on the right? error on not? how do you get them?
+
+02:16:25
+nate_codes: nateco2Monka
+
+02:16:34
+warrenbuffering: @nate_codes trashdevLick
+
+02:16:41
+nate_codes: LUL
+
+02:16:48
+jamesqquick: hey yall!
+
+02:16:52
+ae517: @funkysetiz I mean you can do a turn around and disable all bloat, at least on Windows 10, and the disable updates, so they are not reactivated, because Windows hates it's users, the same way Apples parasites it's coonsumers.
+
+02:17:18
+ae517: But yeah, for Linux is like Heaven on earth,
+
+02:17:21
+warrenbuffering: 49ers should be #2
+
+02:18:07
+warrenbuffering: Makes sense
+
+02:18:20
+peculiarnewbie: yea i definitely searched 49ers more
+
+02:19:36
+dcap_: Isent there two trending teams things now?
+
+02:22:52
+alperngd: Hey! What is your font name?
+
+02:24:08
+fragaverage: !font
+
+02:24:08
+fossabot: Adam uses the Dracula theme with the Operator Mono font in Neovim.
+
+02:24:37
+alperngd: great, thanks!
+
+02:24:45
+fragaverage: Oh this guy
+
+02:24:55
+adamdotdev: GT Maru Mono
+
+02:26:44
+lowlevellearning: HOLY SHIT ITS ADAMDOTDEV
+
+02:27:34
+lowlevellearning: chillin, interview prep
+
+02:27:38
+lowlevellearning: howre you
+
+02:28:03
+lowlevellearning: nah a buddy reached out with a job opportunity so im exploring
+
+02:28:08
+nate_codes: @lowlevellearning HeyGuys
+
+02:28:12
+lowlevellearning: i am not :(
+
+02:28:14
+nate_codes: HEY SICK BUDDIES!! 🤒
+
+02:28:20
+lowlevellearning: SICK GANG! my wife is also sick
+
+02:28:21
+warrenbuffering: are you going Adam?
+
+02:28:38
+lowlevellearning: f?
+
+02:29:01
+nate_codes: @lowlevellearning refresh
+
+02:29:03
+dcap_: The discord link in the About things seems to be broken :(
+
+02:29:05
+warrenbuffering: Alan is going yeah lol
+
+02:29:12
+lowlevellearning: back, my computer has been weird with streams lately
+
+02:29:17
+warrenbuffering: I'm 80% sure but I'm just gonna do it
+
+02:29:26
+lowlevellearning: HAHAHA
+
+02:29:31
+completewhiteheight: I need a Google
+
+02:29:34
+nate_codes: LOL
+
+02:29:53
+completewhiteheight: Help
+
+02:29:55
+lowlevellearning: if anyone ever sees my react code no one will talk to me again
+
+02:30:09
+nate_codes: SURPRISE?!?
+
+02:30:29
+br4hmm: I dont understand frontend
+
+02:30:34
+ae517: rEaCt. XD
+
+02:31:05
+ratiu5: Not sure why I wasn't following before
+
+02:31:25
+warrenbuffering: Its like 4K just to get there and sleep, crazy
+
+02:31:37
+br4hmm: LUL
+
+02:31:41
+peculiarnewbie: it's echoing
+
+02:31:44
+oetziofficial: also there was an echo
+
+02:31:46
+peculiarnewbie: a bit
+
+02:31:47
+fragaverage: LUL
+
+02:32:05
+br4hmm: Good content
+
+02:32:50
+alperngd: yoakhim
+
+02:33:01
+terawatthour: ^
+
+02:33:33
+peculiarnewbie: probably what you did with the 1 or more images thingy
+
+02:33:42
+completewhiteheight: Got a cradle
+
+02:33:57
+peculiarnewbie: 300px should be good
+
+02:34:14
+fragaverage: Phones are weird because their res is actually pretty high but they scale content
+
+02:34:17
+alperngd: iirc 320 was minimum wide for mobile devices
+
+02:34:17
+completewhiteheight: A new phone
+
+02:34:29
+completewhiteheight: Company essentials
+
+02:34:35
+abradabroad: sounds really difficult to care about all that stuff
+
+02:34:36
+ae517: """"""""""Privileged""""""""""""
+
+02:34:42
+terawatthour: iphone first development
+
+02:35:01
+completewhiteheight: Or the best thing about being it
+
+02:35:42
+peculiarnewbie: tbh before you streamed i didn't think you were a frontend guy what with all the aws talk
+
+02:35:47
+completewhiteheight: Planned to be girl
+
+02:37:15
+warrenbuffering: Statmuse has stonks??
+
+02:38:38
+fragaverage: why no F1 on statmuse? Can I get a job there pls thanks
+
+02:39:03
+terawatthour: #onlyNASCAR
+
+02:39:25
+terawatthour: 1. nascar, 2. george bush, 3. god
+
+02:39:27
+funkysetiz: so it's Astro with react?
+
+02:39:47
+funkysetiz: thanks
+
+02:39:49
+ae517: Ah, I forgot to mention, I decided to go full Wizard and Learn Elixir. It works well with what I already know.
+
+02:40:50
+lowlevellearning: hell yeah
+
+02:40:57
+lowlevellearning: competition anxiety is exciting
+
+02:41:29
+ratiu5: Wow I'm not like that at all
+
+02:42:30
+thdxr: you're STILL streaming?
+
+02:42:40
+thdxr: you know adam your teaser video today i alsmot tweeted something just like that yesterday
+
+02:42:57
+thdxr: i was also going to add that i never worked anywhere with people more experienced than me
+
+02:43:04
+sebaxpdev: Gotta go! Nice seeing you today!!! Spa day
+
+02:43:12
+thdxr: wait what do i hate
+
+02:43:17
+ae517: I pondered a lot if Haskell first was ideal, and honestly still feels like a good and insane idea.
+
+02:43:19
+ae517: XD
+
+02:43:20
+peculiarnewbie: lmao you summoned dax
+
+02:43:21
+thdxr: do you even know that i'm here
+
+02:43:25
+thdxr: or am i just in your head
+
+02:44:01
+thdxr: i'm ok with destructuring there
+
+02:44:27
+thdxr: when lol
+
+02:44:31
+warrenbuffering: i don't take advice from people less successful than me
+
+02:44:33
+thdxr: oh
+
+02:44:48
+warrenbuffering: bars
+
+02:44:52
+thdxr: i only worked with idiots
+
+02:44:54
+nate_codes: Dax is here!! is this a tomorrow.fm episode?? 👀
+
+02:45:23
+peculiarnewbie: is warren gonna be on the pod
+
+02:46:33
+warrenbuffering: nobody wants that
+
+02:46:38
+thdxr: i certainly don't
+
+02:47:02
+warrenbuffering: see
+
+02:49:14
+thdxr: wtf is this
+
+02:49:14
+thdxr: https://twitter.com/tercmd/status/1757417949453865238
+
+02:49:55
+thdxr: i have no clue
+
+02:50:01
+dnbull: hello Mr. [object, Object]
+
+02:50:10
+thdxr: idk why i was involved in this thread
+
+02:50:13
+thdxr: no lol
+
+02:50:44
+thdxr: can you stop working
+
+02:50:45
+thdxr: im bored
+
+02:51:00
+thdxr: yeah say some weird shit
+
+02:51:11
+thdxr: i'm down to come on and talk
+
+02:51:15
+thdxr: if you're setup
+
+02:51:24
+thdxr: lemme put on a shirt
+
+02:51:35
+dnbull: dang you let dax manipulate you
+
+02:51:38
+peculiarnewbie: oh wow bonus episode
+
+02:51:59
+thdxr: idt i have your link
+
+02:52:29
+keyboardcowboy: oh, you live in the ozarks... do you own a pontoon?
+
+02:53:28
+keyboardcowboy: that's even better... having FRIENDS with boats... way less stressful
+
+02:53:56
+keyboardcowboy: should we be seeing your CC info on stream? that feels dangerous :)
+
+02:54:02
+fragaverage: Yo question
+
+02:54:10
+lowlevellearning: nonono say them
+
+02:54:12
+lowlevellearning: twitch will censor it
+
+02:54:21
+lowlevellearning: ✒📰
+
+02:54:27
+fragaverage: https://www.statmuse.com/money/ask/what-is-the-most-expensive-stock  Why does this question return block height? (crypto right?)
+
+02:54:27
+thdxr: yeah look
+
+02:54:31
+thdxr: ********************
+
+02:54:34
+lowlevellearning: ^
+
+02:54:43
+thdxr: it censored my cc number even if i tried to type it
+
+02:54:48
+warrenbuffering: ********************
+
+02:54:54
+warrenbuffering: wtf how
+
+02:54:58
+thdxr: hunter2
+
+02:55:11
+keyboardcowboy: 5434181112349876 yup, my cc is totally ************* out, right?
+
+02:55:57
+thdxr: i requested
+
+02:56:14
+fragaverage: https://www.statmuse.com/money/ask/what-is-the-most-expensive-stock  Why does this question return block height? (crypto right?) 󠀀
+
+02:56:34
+pbertrand_dev: we cant hear him but I kinda like that
+
+02:56:46
+thdxr: ha ha
+
+02:56:47
+thdxr: HA
+
+02:57:29
+oetziofficial: no
+
+02:57:30
+keyboardcowboy: I see a big yawn, so that's a win
+
+02:57:32
+peculiarnewbie: nope
+
+02:57:33
+keyboardcowboy: an no
+
+02:57:34
+keyboardcowboy: no audio
+
+02:57:43
+keyboardcowboy: but the video is crispy
+
+02:57:50
+peculiarnewbie: where theo at
+
+02:57:58
+warrenbuffering: @adamdotdev we see Dax but I think his hair opacity is still 0
+
+02:57:58
+pbertrand_dev: @FragAverage you can fix this by changing the link to something better like https://www.statmuse.com/money/ask/what-is-the-most-expensive-stock-that-can-fit-in-my-butt
+
+02:58:02
+kauai_life: are you using ping?
+
+02:58:07
+peculiarnewbie: @warrenbuffering LMAOO
+
+02:58:19
+oetziofficial: NICE
+
+02:58:22
+fragaverage: @pbertrand_dev yup thats the one
+
+02:58:41
+oetziofficial: opacity: 0.01
+
+02:58:59
+lowlevellearning: factorio RULES
+
+02:59:00
+pbertrand_dev: it actually fixes the bug
+
+02:59:21
+peculiarnewbie: oh no
+
+02:59:35
+lavos_x: factorio, dsp, satisfactory all great games
+
+02:59:40
+keyboardcowboy: what the heck is stat muse...i'm trying to figure this out...
+
+03:00:14
+peculiarnewbie: I played factorio once and it was a 14 hour non-stop session
+
+03:00:21
+peculiarnewbie: I never played it since
+
+03:00:38
+lowlevellearning: factorio stresses me the fuck out though
+
+03:00:44
+lavos_x: its start as spaghetti.....
+
+03:00:46
+lowlevellearning: like after red science i start to get anxious
+
+03:01:09
+pbertrand_dev: ah so elon took factorio way too serious
+
+03:02:14
+pbertrand_dev: @thdxr nerd
+
+03:02:31
+pbertrand_dev: having a server up 24/7
+
+03:02:51
+neochromer: Tintin hairstyle
+
+03:03:13
+mehulsharmamat: SST man + SST man
+
+03:03:17
+mehulsharmamat: i meant AWS
+
+03:03:21
+peculiarnewbie: do you really only take 15 minutes tho
+
+03:03:58
+mehulsharmamat: hello @pbertrand_dev
+
+03:04:15
+mehulsharmamat: i kept my bet up worked out average 4 times till feb and did 2 b2b deals. although now ive fallen off lol
+
+03:04:26
+kauai_life: GIGACHAD Adam
+
+03:04:44
+kauai_life: so you are saying your dad has the high ground now?
+
+03:05:01
+pbertrand_dev: @mehulsharmamat hey
+
+03:05:04
+warrenbuffering: how many freedom units is that?
+
+03:05:07
+pbertrand_dev: Nice man
+
+03:05:10
+pbertrand_dev: good work
+
+03:05:53
+mehulsharmamat: yess
+
+03:06:08
+mehulsharmamat: @warrenbuffering get out imposter
+
+03:06:26
+kauai_life: 8:30 wtf
+
+03:06:35
+kauai_life: what time do you wake up?
+
+03:07:45
+motown241: we all go to bed at 8/830 in my house
+
+03:07:47
+pbertrand_dev: my wife is spending way too much time with these huberman videos
+
+03:08:08
+mehulsharmamat: i wake up at 8.30pm
+
+03:08:23
+motown241: yeah. i start working at 4am, wife wakes up at 5, goes to work at 6. and i wake our son up at 7/8 and get him to school at 9
+
+03:08:37
+mehulsharmamat: Huberman suggests for *some* people cigarettes are good
+
+03:08:42
+mehulsharmamat: VERY FEW VERY RARE
+
+03:08:59
+kauai_life: clip it
+
+03:09:20
+mehulsharmamat: imagining you yes
+
+03:09:21
+pbertrand_dev: I can geolocate you if I have 10 seconds of video
+
+03:09:25
+kaceynotdev: he’s single
+
+03:09:28
+oetziofficial: WHY
+
+03:09:38
+mehulsharmamat: that's more camera than "Don't look up" had
+
+03:10:14
+mehulsharmamat: i gotta fly across the US and plead adam to give me his cameras to make documentaries
+
+03:10:17
+warrenbuffering: holy effin camera batman
+
+03:10:22
+fragaverage: is this a nerd off?
+
+03:11:34
+pbertrand_dev: your neighbors must think you are very sane and very normal
+
+03:11:37
+mehulsharmamat: yeah because you always sit down
+
+03:12:43
+mehulsharmamat: humans are insane like imagine typing all day into a machine for money
+
+03:12:57
+warrenbuffering: @kaceynotdev awesome name
+
+03:12:58
+pbertrand_dev: hes single? now I Know why my wife is watching
+
+03:13:10
+semienterara: if we flash sst code in front of you, will you be able to find it without search function, dax?
+
+03:14:40
+pbertrand_dev: hes the only one at sst that actually does work so I think so
+
+03:15:07
+kaceynotdev: maybe the blinding snow will throw him off
+
+03:15:33
+semienterara: he's analyzing next.js code
+
+03:15:57
+mehulsharmamat: fahrenheit is a bad metric (i dont understand it hence bad)
+
+03:16:26
+mehulsharmamat: entertain me
+
+03:16:39
+peculiarnewbie: frank
+
+03:16:40
+dnbull: jay
+
+03:16:44
+kaceynotdev: lets go visit Dax!
+
+03:16:54
+oetziofficial: I think Jay is doing the most work
+
+03:17:00
+semienterara: we need new unit, vercelsius
+
+03:17:09
+mehulsharmamat: NO, WATER COLD AT 0 WATER HOT at 100
+
+03:17:10
+mehulsharmamat: simple
+
+03:17:12
+semienterara: for performance metric
+
+03:17:13
+dnbull: how to trigger europeans, farenheight, miles per hour, gas
+
+03:17:30
+peculiarnewbie: I'm a southeast asian and I completely agree
+
+03:17:32
+fragaverage: do you boil water?
+
+03:17:37
+neochromer: 100C is boiling water
+
+03:17:37
+oetziofficial: L take
+
+03:17:39
+neochromer: what
+
+03:17:41
+mehulsharmamat: ok true actually
+
+03:17:41
+peculiarnewbie: 25 - 36 is a huge difference
+
+03:17:42
+dnbull: i had this argument about fareheight.. 0-100 makes sense
+
+03:17:43
+mehulsharmamat: kelvin is better
+
+03:17:44
+pbertrand_dev: ameribrain
+
+03:17:45
+neochromer: Its like 0 to 30
+
+03:17:48
+neochromer: yes
+
+03:17:49
+fragaverage: Its literally a scale of the state of water
+
+03:17:50
+warrenbuffering: w take
+
+03:17:50
+neochromer: ?
+
+03:17:56
+mehulsharmamat: use decimals grow up
+
+03:17:59
+neochromer: 0 - water freezes
+
+03:17:59
+pbertrand_dev: the freedom has melted his brain
+
+03:18:00
+mehulsharmamat: 35.2123
+
+03:18:03
+fragaverage: below 0 solid, above 0 but below 100 liquid, above 100 gas
+
+03:18:09
+oetziofficial: Dax this is the first time you talk BS LUL
+
+03:18:33
+mehulsharmamat: who gave this guy the ability to make AWS better holy shit guys we're gonna drown
+
+03:18:33
+neochromer: What is not usefull?
+
+03:18:38
+dnbull: iTS 23 CeLsiUS ResidentSleeper
+
+03:18:48
+semienterara: how much vercelsius do you have right now dax?
+
+03:18:49
+neochromer: The same argument can be made for Farnheit
+
+03:18:52
+neochromer: you have sucha range
+
+03:18:54
+neochromer: half you dont use
+
+03:18:55
+neochromer: ?
+
+03:19:13
+fragaverage: ahh because america cant use the decimal? gotcha
+
+03:19:16
+fragaverage: damn quarters and shid
+
+03:19:29
+oetziofficial: next thing you are going to say that 1 feet makes more sense then cm/meters
+
+03:19:35
+mehulsharmamat: yes my temperature is a 70 yess im mildly uncomfortable. makes no sense.
+
+03:19:52
+dnbull: no you made the europeans mad LMAO
+
+03:19:53
+oetziofficial: 👿
+
+03:20:02
+oetziofficial: dax cancelled himself
+
+03:20:05
+dnbull: they get triggered tell them MM/DD/YYYY watch them get MAD LUL
+
+03:20:05
+mehulsharmamat: Kelvin is the best one
+
+03:20:06
+neochromer: its much easier to have a scale from 0 then from 30 to something
+
+03:20:11
+peculiarnewbie: dax is correct on this you guys are coping
+
+03:20:21
+peculiarnewbie: and i'm not american
+
+03:20:23
+mehulsharmamat: also it's CENTIGRADE not CELSIUS
+
+03:20:32
+pbertrand_dev: But why does it make it better?
+
+03:20:34
+mehulsharmamat: everyone's dumb i can not believe a stupid indie hacker has to teach you this
+
+03:20:50
+flipturtl: wait, so what? You can't really feel the difference between 72 F and 73 F
+
+03:21:02
+oetziofficial: just go with kelvin, cant go wrong
+
+03:21:05
+warrenbuffering: 37°C you're fine 38.5°C you're dying? like really?
+
+03:21:21
+fragaverage: if you're feeling 0f, you probably need to put some clothes on
+
+03:21:28
+pbertrand_dev: I am kinda happy they went with fahrenheit, otherwise they would probably pick something random like "the water boils at 5 fingers and 3 knuckles"
+
+03:21:50
+fragaverage: Same thing
+
+03:21:56
+mehulsharmamat: Same thing but celsius stolen
+
+03:22:03
+mehulsharmamat: yes
+
+03:22:11
+mehulsharmamat: i forgot actually but similar
+
+03:22:19
+mehulsharmamat: yeah i feel 2 football fields hot today
+
+03:22:20
+grasp5533: when will we find out about the secret project
+
+03:22:55
+mehulsharmamat: doxx yourself it's okay
+
+03:23:21
+pbertrand_dev: theres gonna be a street sign in teh background while hes standing talking for 10 mi
+
+03:23:23
+pbertrand_dev: min
+
+03:23:23
+peculiarnewbie: maybe to be safe just split the stream and delete the walking vod?
+
+03:23:39
+fragaverage: mobile teleprompter LUL
+
+03:23:50
+kaceynotdev: lol
+
+03:23:53
+oetziofficial: you did that already for the slack project you had
+
+03:23:56
+oetziofficial: adam
+
+03:24:10
+mehulsharmamat: that would be fun i would just put a lot of words in chat
+
+03:24:13
+mehulsharmamat: and made up numbers
+
+03:24:30
+mehulsharmamat: and then the AI can summarize public numbers of nasdaq for entire day
+
+03:24:37
+flipturtl: lol, whats one more thing on the camera mount?
+
+03:25:11
+flipturtl: Won't that flip the text tho?
+
+03:25:13
+fragaverage: to use the rear cam for selfie
+
+03:25:30
+mehulsharmamat: dax uses that to look at the back of his head constantly otherwise he can not operate
+
+03:25:46
+mehulsharmamat: yesss i am travelling atm but YES
+
+03:25:56
+pbertrand_dev: "Mirrors are crazy", "Fahrenheit is the best". Top tier dax quotes
+
+03:25:57
+mehulsharmamat: it will have 10 bugs
+
+03:26:07
+mehulsharmamat: 9 best i can do
+
+03:26:12
+mehulsharmamat: 69 useEffects
+
+03:26:15
+mehulsharmamat: and we have a deal
+
+03:26:37
+mehulsharmamat: man adam is like a billionaire
+
+03:26:40
+semienterara: what if it will read you tweets from dax before bed?
+
+03:26:58
+pbertrand_dev: do text to speech for twitch chat but it speaks in the accents where people are from
+
+03:27:08
+mehulsharmamat: @pbertrand_dev bertrand give me more goofy ideas
+
+03:27:20
+pbertrand_dev: SST but only for DO droplets
+
+03:27:21
+mehulsharmamat: ill make the thing later in the night (3hrs for me)
+
+03:27:33
+pbertrand_dev: Statmuse but only book statistics
+
+03:27:34
+mehulsharmamat: dax is deleted
+
+03:28:01
+mehulsharmamat: have a good day adam
+
+03:28:23
+fragaverage: How are you gunna scene switch
+
+03:29:26
+fragaverage: Oh sweet
+
+03:29:33
+oetziofficial: have you tested the app?
+
+03:29:50
+allamgr: It's an app available for us?
+
+03:31:39
+flipturtl: How long until you mount that thing on a drone?
+
+03:31:49
+allamgr: "It was working yesterday" yelled the developer.
+
+03:32:55
+peculiarnewbie: ooo
+
+03:32:58
+peculiarnewbie: it worked
+
+03:33:08
+peculiarnewbie: oh the feed is way delayed
+
+03:33:15
+fragaverage: oh my lord its so delayed lmao
+
+03:33:21
+peculiarnewbie: ic
+
+03:36:53
+dcap_: just installed a new font called miracode, and its amazing
+
+03:38:49
+pbertrand_dev: juicing break
+
+03:41:27
+ayushsharma: pepeD
+
+03:42:30
+oetziofficial: oh he was there for a second!
+
+03:42:38
+oetziofficial: WOW thats loud
+
+03:42:43
+pbertrand_dev: yes but loud
+
+03:42:44
+oetziofficial: and audio is only on the left
+
+03:42:48
+ayushsharma: very loud
+
+03:43:05
+peculiarnewbie: no stereo <.<
+
+03:43:15
+mattgoslow: Apart from that, working great 😂
+
+03:43:20
+fusionplays: lot better
+
+03:43:21
+pbertrand_dev: yes
+
+03:43:22
+peculiarnewbie: oh that worked
+
+03:43:22
+oetziofficial: ok now its stereo
+
+03:43:24
+mattgoslow: Oh that's much nicer! haha
+
+03:43:29
+ayushsharma: less loud
+
+03:43:41
+oetziofficial: its PERFECT
+
+03:43:58
+pbertrand_dev: do you live on the sun its so bright
+
+03:44:02
+fusionplays: camera is perfect, we cannot see you :P
+
+03:44:28
+fusionplays: it is amazing now.
+
+03:44:31
+kayceecode: Its perfect
+
+03:44:33
+pbertrand_dev: dont forget to close your garage door
+
+03:44:59
+peculiarnewbie: I've never experienced snow
+
+03:45:06
+peculiarnewbie: looks good
+
+03:45:09
+dnbull: are you going to show us how you deal with drugs here Kappa
+
+03:45:12
+xeriaan: We see you :)
+
+03:45:13
+oetziofficial: TEST TEST TEST
+
+03:45:16
+cdewex: Do u need a web designer for statmuse? =)
+
+03:45:24
+ayushsharma: is it middle of nowhere ?
+
+03:45:28
+tayloreddev: build a snow man
+
+03:45:35
+kaceynotdev: “how’s he goin to be holdin that camera for that long mama??” lol
+
+03:45:46
+dnbull: pls dont fall LUL
+
+03:45:50
+pbertrand_dev: lol
+
+03:45:59
+kaceynotdev: im so excited for the potential of you slipping
+
+03:46:05
+dnbull: just turn on us when u get there LUL
+
+03:46:12
+tayloreddev: walk on the snow more grip
+
+03:46:25
+oetziofficial: camera quality is insane
+
+03:46:29
+peculiarnewbie: we can warn you if someone's coming
+
+03:46:37
+kaceynotdev: stay out of shade
+
+03:46:48
+tayloreddev: wind noise
+
+03:46:50
+oetziofficial: its windy
+
+03:47:08
+pbertrand_dev: I atleast expected a solar panel tour, kinda dissapointed tbh
+
+03:47:13
+peculiarnewbie: ozark asmr
+
+03:47:13
+cdewex: @adamdotdev hire a cameraman
+
+03:47:55
+nemsoudev: What are the lines in the sky to your right?
+
+03:48:35
+cdewex: @nemsoudev bug in reality rendering
+
+03:48:46
+peculiarnewbie: who's that behind you
+
+03:49:03
+oetziofficial: our powerlines dont run on wood
+
+03:49:06
+nemsoudev: oh ok, they are from the posts, I hadn't associated them.
+
+03:49:16
+pbertrand_dev: time to do some marketing, knock on peoples doors and tell them to follow you on twitter
+
+03:49:23
+fragaverage: holy snow
+
+03:50:20
+peculiarnewbie: so this is how people on statmuse work
+
+03:50:23
+cdewex: @adamdotdev We need a ski stream down these streets!
+
+03:50:40
+pbertrand_dev: if you go to the right I know a house that left the garage open you could probably find some cool stufff there
+
+03:50:51
+iamobservable: What percentage of weight are you using with your ruck?
+
+03:50:54
+nemsoudev: The 5g coverage there is incredible
+
+03:51:53
+peculiarnewbie: what do you usually listen to while walking?
+
+03:52:20
+peculiarnewbie: and the wind's calmed down, nice
+
+03:52:32
+pbertrand_dev: Theres power but no shootings
+
+03:52:34
+cdewex: Europe is in the Stone Age
+
+03:52:38
+oetziofficial: no we dont have power. we run every day on a treatmeal
+
+03:52:39
+peculiarnewbie: no music
+
+03:54:02
+pbertrand_dev: you've already shown your housenumber allegedly
+
+03:54:04
+kaceynotdev: the commitment to waving still lol
+
+03:54:14
+oetziofficial: I like that there is no music
+
+03:54:25
+dnbull: yeah we dont want hear lo-fi
+
+03:55:12
+oetziofficial: 12 pounds? whats that in european
+
+03:55:29
+estrangedhd: @OetziOfficial 5,4kg
+
+03:55:35
+oetziofficial: thanks!
+
+03:55:46
+flipturtl: So jealous of all the snow.
+
+03:56:24
+pbertrand_dev: time for a social experiment, dont wave at the next car that passes and see if they get upset
+
+03:56:30
+oetziofficial: hello neighbour ben
+
+03:56:42
+peculiarnewbie: do all midwesteners wave to cars or is that an ozarks specific thing
+
+03:57:01
+oetziofficial: very stable
+
+03:57:31
+flipturtl: probably thinking "WTF is that he's carrying?"
+
+03:57:36
+pbertrand_dev: "adams so angry these days he doesnt even wave anymore. must be the juice"
+
+03:58:37
+luc1ferno: Worth it tbh
+
+03:58:55
+kaceynotdev: why does everyone else get the stream faster than me and im in your house
+
+03:59:12
+flipturtl: Would you ever start another company?
+
+03:59:12
+pbertrand_dev: @kaceynotdev try refreshing the window and see if that helps
+
+03:59:16
+oetziofficial: I have 1 secon delay
+
+03:59:31
+oetziofficial: nice lake
+
+03:59:32
+shakenbakehd: time for a swim POGGERS
+
+03:59:35
+flipturtl: pond not lake
+
+04:00:50
+pbertrand_dev: classic juice workout
+
+04:01:27
+pbertrand_dev: houses are huge tho
+
+04:01:33
+adjectiveallison: wow you're in the world
+
+04:01:34
+pbertrand_dev: very impressive
+
+04:01:36
+adjectiveallison: How fun!
+
+04:01:43
+peculiarnewbie: it's normal in LA probably you can move there
+
+04:02:17
+pbertrand_dev: kinda freaking me out how theres no people about tho
+
+04:02:38
+flipturtl: How do you go from dev to starting a company?
+
+04:02:52
+venedie: The camera rig is squeaky soursweetNodders
+
+04:03:20
+demonrush_: i hear a ball on the camera
+
+04:04:12
+peculiarnewbie: dax was right, an iphone 15 would be more than enough lol
+
+04:04:34
+peculiarnewbie: i'm watching on 480p LUL
+
+04:06:29
+kaceynotdev: "why do we want to look at him all of the time?" lolol
+
+04:07:18
+fusionplays: that was epic
+
+04:07:46
+fusionplays: i totally understand the need to go overkill
+
+04:08:50
+peculiarnewbie: > 10
+
+04:11:10
+krishnahimself: Have you suffered from an anxiety problem? If yes, how did you handle it?
+
+04:11:50
+peculiarnewbie: how did you and dax meet?
+
+04:12:30
+nadnerbrendan: What IDE do you use?
+
+04:12:51
+peculiarnewbie: oh no adam is talking about coffee again
+
+04:13:32
+peculiarnewbie: that's crazy you guys don't seem like people that just met online
+
+04:13:53
+zachrip: How much do you charge for dark mode on statmuse
+
+04:13:58
+oskrm: howdy
+
+04:14:02
+peculiarnewbie: @zachrip lol
+
+04:15:00
+zachrip: have you met irl
+
+04:15:24
+peculiarnewbie: i only got into the podcast at the end of 2023 so i didn't know that
+
+04:15:44
+zachrip: Is it free tho
+
+04:16:14
+zachrip: nice
+
+04:16:52
+oskrm: whats one thing you would do differently if you were to redesign statmuse from 0?
+
+04:16:53
+zachrip: wait what happened to the dark basement setup
+
+04:17:20
+zachrip: with the adam sign in the bg
+
+04:17:36
+mad_cucumber: got to spend some bucks
+
+04:19:00
+zachrip: Are you sure CRA existed 10 years ago?
+
+04:19:30
+oskrm: i like proaws.dev design
+
+04:20:11
+ayushsharma: did you updated the website few days ago ?
+
+04:20:22
+peculiarnewbie: alright it's almost midnight over here, have a good rest of the stream 👋
+
+04:22:42
+ayushsharma: statmuse
+
+04:23:06
+kaszanas: Kaszan KAPOW er
+
+04:23:08
+kaszanas: hello
+
+04:23:12
+kaszanas: what's good
+
+04:23:59
+kaszanas: I was just ranting about not having access to the logs for about 30 minutes, but I forgot I save logs to a file already and I was looking for them in my stdout/stderr output in console
+
+04:24:14
+kaszanas: Story of my life is coming back to 3 year old projects and not knowing what is happening in them
+
+04:24:57
+balamb: hi, new here, what language is this? java/javascript?
+
+04:26:02
+dedadev: is stream laggy only for me?
+
+04:26:32
+balamb: no issues here. and thanks for answering.
+
+04:28:29
+risesia: how's your experience with astro?
+
+04:28:43
+ayushsharma: did you tried gemini (bard) ai ?
+
+04:38:29
+maleero: How much of a traffic increase did you get during the super bowl? I'm guessing at least 2x...
+
+04:40:32
+homuruu: How are you switching between buffers?
+
+04:42:27
+dnbull: this superbowl broke the record. 123.4 million viewers
+
+04:42:45
+overra_dev: nice
+
+04:43:33
+dnbull: Are you still enjoying astro after migrating to it?
+
+04:50:28
+dnbull: welcome back!
+
+05:01:59
+dnbull: you've been streaming for 5 hours now
+
+05:02:43
+next_door_nate: Astro is such a treat to use
+
+05:03:10
+next_door_nate: Why not do a percentage based?
+
+05:03:24
+astrodev3: what’s your advice on structuring your applications? everyone seem to have different ways
+
+05:03:50
+next_door_nate: you also want to give it a flex wrap
+
+05:04:16
+bulowking: I just celebrated "Fatty Tuesday". It was glorious.
+
+05:04:23
+astrodev3: gotcha. thank you.
+
+05:04:50
+next_door_nate: yeah
+
+05:05:48
+bulowking: So, Fatty Tuesday is once per year when you eat a Semla, to prepare for the fasting, that I don't do.
+
+05:06:07
+next_door_nate: Set it to 100% at the bottom or center it
+
+05:06:22
+next_door_nate: sry not bottom
+
+05:06:23
+pbertrand_dev: your just raw dogging tailwind like that? impressive adam
+
+05:06:27
+next_door_nate: at mobile smallest
+
+05:06:45
+next_door_nate: you do it, nvm
+
+05:07:11
+pbertrand_dev: I would set a max width % and center them
+
+05:07:22
+kylel2p: justify-center maybe
+
+05:08:05
+next_door_nate: Make the icon smaller
+
+05:09:39
+kylel2p: lmao that confused JR smith artwork
+
+05:10:09
+astrodev3: may I ask where you got the pictures of the players? that’s so dope
+
+05:10:27
+astrodev3: well art work not pictures
+
+05:10:43
+astrodev3: he’s dope!
+
+05:11:17
+bulowking: I bet he did an adam drawing.
+
+05:14:08
+superricksanchez: is this nexjst?
+
+05:18:40
+arkansassnowman: cant export as const
+
+05:18:41
+maleero: Did you guys ever find anyone to do e-sports?
+
+05:18:49
+arkansassnowman: yes that is a reserved keyword
+
+05:18:56
+oetziofficial: no you can
+
+05:19:01
+arkansassnowman: put export back
+
+05:19:03
+arkansassnowman: remove the as const
+
+05:19:08
+arkansassnowman: well wait nvm
+
+05:19:12
+arkansassnowman: i may be dumb dont listen to me
+
+05:19:47
+arkansassnowman: i didnt see you were using typescript
+
+05:20:19
+oetziofficial: is Astro not allowing `as const`?
+
+05:20:41
+pbertrand_dev: adam I just finished my workout, help me decide what I eat
+
+05:21:16
+arkansassnowman: what is on line 109?
+
+05:21:17
+oetziofficial: what was the error again?
+
+05:21:22
+pbertrand_dev: I am an omnivore
+
+05:21:46
+pbertrand_dev: I eat vegan somedays
+
+05:21:56
+pbertrand_dev: I had vegan lebanese food the otehr day
+
+05:21:58
+pbertrand_dev: was legendary
+
+05:22:00
+superricksanchez: emum maybe?
+
+05:22:12
+m2devdotnet: try it as a 'inline union'?
+
+05:22:23
+m2devdotnet: category: 'searches' | 'other_thing'
+
+05:23:18
+pbertrand_dev: oh side note I need like 2500 calories in this meal
+
+05:23:51
+superricksanchez: make the category as enums, and then you can export it.. i think..
+
+05:24:07
+pbertrand_dev: I am usually around 120g - 160 g protein per day
+
+05:24:29
+superricksanchez: ahh gat ya
+
+05:24:48
+arkansassnowman: what is on line 109 in trendgin.astro?
+
+05:24:53
+arkansassnowman: *trending
+
+05:25:40
+pbertrand_dev: might go for some dirty nachos
+
+05:26:09
+oetziofficial: use j k
+
+05:26:17
+oetziofficial: and u to update
+
+05:26:49
+arkansassnowman: update everything and lets work through the fallout
+
+05:28:10
+kylel2p: d.ts?
+
+05:28:37
+fragaverage: global.d.ts
+
+05:28:38
+joyquery: types.d.ts
+
+05:28:42
+kylel2p: not sure convention
+
+05:28:43
+superricksanchez: global.d.ts
+
+05:31:19
+fragaverage: maybe its globals
+
+05:31:45
+joyquery: u can add to tsconfig json as types location
+
+05:31:55
+joyquery: and should make it global without importing everywhere
+
+05:31:58
+fragaverage: oh types.d.ts, my bad
+
+05:33:01
+joyquery: in the tsconfig there is a "typeRoots" prop i usually add it there as a path to that file
+
+05:34:51
+superricksanchez: thats the programmer way, trial and error
+
+05:35:04
+zachrip: typeroots goes in compiler options
+
+05:35:16
+joyquery: should be under compilerOptions
+
+05:35:25
+joyquery: yah thats correct
+
+05:35:37
+zachrip: sorry I just got here, what are you trying to do?
+
+05:36:01
+superricksanchez: from the docs it didnt say you need the d.ts
+
+05:36:25
+superricksanchez: no no,  https://www.typescriptlang.org/tsconfig#typeRoots
+
+05:36:25
+zachrip: you can use your d.ts but I would just add that to your includes instead of using typeroots
+
+05:36:46
+pudottapommin: you use ... declare global { ...things ... }
+
+05:36:50
+superricksanchez: from the docs:  {   "compilerOptions": {     "typeRoots": ["./typings", "./vendor/types"]   } }
+
+05:37:01
+xtremeskills007: is that your keyboard or some artifical click sounds?
+
+05:37:40
+zachrip: yeah but you'll need to include all your other stuff
+
+05:37:50
+joyquery: make sure when u make changes to tsconfig reload ur project in case
+
+05:38:10
+joyquery: haha i like it
+
+05:39:08
+ayushsharma: do you giveaway the baseline macbook ?
+
+05:39:09
+stricegaming: @adamdotdev face too big
+
+05:39:47
+stricegaming: for the screen i mean, you dont look fat xD
+
+05:39:50
+xtremeskills007: bruh you look buff af
+
+05:39:54
+xtremeskills007: how much do you bench?
+
+05:39:54
+stricegaming: thanks man following
+
+05:39:57
+arkansassnowman: face is fine
+
+05:40:06
+arkansassnowman: wanna give kisses
+
+05:40:10
+texoport: :D
+
+05:40:32
+pudottapommin: are you sitting straight? monkaS
+
+05:41:15
+pudottapommin: you are slightly to the side LUL on camera
+
+05:41:51
+neverendingnewness: omg those tabs
+
+05:42:04
+superricksanchez: curious why astro?
+
+05:42:12
+joyquery: if u dont have 50 tabs open are u even programming haha
+
+05:42:33
+stricegaming: @joyQuery at least 50, thats bare minimum
+
+05:42:43
+neverendingnewness: @joyQuery I have like 5 desktops going... am I doing it wrong?
+
+05:42:44
+dcap_: what is tabs, there is only spaces Kappa
+
+05:43:18
+joyquery: @neverendingnewness thats fine as long as you have 50 tabs open on each
+
+05:44:24
+arkansassnowman: I am trying to get more simple at work and want to migrate backwards to web 1.0 tech.
+
+05:44:26
+dcap_: What league is money?
+
+05:44:49
+allamgr: crypto
+
+05:45:13
+superricksanchez: how long have you been using vim?
+
+05:45:46
+stricegaming: @adamdotdev does statsmuse make money? i dont see pricing anywhere. i just want to have an idea of how these types of apps work
+
+05:45:59
+arkansassnowman: year before
+
+05:46:37
+superricksanchez: how long did it take you to not think of the commands to move around? im still in VScode, thinking of moving to vim
+
+05:46:50
+stricegaming: ahhhh thats explains it, im running uBlock
+
+05:46:58
+neverendingnewness: I coded in neovim years ago but found myself farting around with it more than actually coding. I don't feel like I'm losing any time using VS Code. It's weird to see the vim resurgence.
+
+05:49:38
+superricksanchez: @neverendingnewness huh, i might be the same when i try moving lol, is there some kind of graphical cheatsheet?
+
+05:50:06
+stricegaming: that was a cool animation
+
+05:50:35
+dnbull: noice
+
+05:51:17
+neverendingnewness: @superricksanchez I mean there are cheat sheets out there, but the whole process of setting up linting / syntax highlighting is a PIA. Just stick with VS Code. Learning vim for quick edits, is a good idea, but you only need to know a handful of commands.
+
+05:51:18
+superricksanchez: lol atleast you started, im telling my self to do it for years
+
+05:51:24
+dnbull: i think people who make fun of people who can't "lift" dont workout themselves tbh LUL
+
+19:32:18
+<transcript>: Check, check, check.
+
+19:32:31
+<transcript>: Check, check.
+
+19:33:04
+<transcript>: Check, check, check, check.
+
+19:33:40
+<transcript>: Check, check, check.
+
+19:42:15
+<transcript>: Check, check, check, check, check.
+
+19:42:32
+<transcript>: Check, check, check.
+
+19:42:43
+<transcript>: Check.
+
+19:42:45
+<transcript>: Check, check.
+
+19:43:53
+<transcript>: Check.
+
+19:44:01
+<transcript>: Check, check, check, check.
+
+19:44:09
+<transcript>: Check, check.
+
+19:45:14
+<transcript>: Check, check, check, check, check.
+
+19:45:32
+<transcript>: One, two, check.
+
+19:46:28
+<transcript>: One, two.
+
+19:46:54
+<transcript>: Check, one, two. Check, check.
+
+19:47:20
+<transcript>: Check.
+
+19:49:32
+<transcript>: Check, check, check.
+
+20:22:50
+<transcript>: Is about the shield coming out for the projector.
+
+20:22:53
+<transcript>: Automate.
+
+20:23:48
+<transcript>: Yeah.
+
+20:24:07
+<transcript>: I'm getting ready to go to my workout soon.
+
+20:24:10
+<transcript>: What do you want to do?
+
+20:24:10
+<transcript>: what do you
+
+20:24:12
+<transcript>: What do you want to do?
+
+20:24:16
+<transcript>: Play with us.
+
+20:24:51
+<transcript>: We like to.
+
+20:24:54
+<transcript>: Read.
+
+20:24:57
+<transcript>: Those.
+
+20:25:08
+<transcript>: We don't have.
+
+20:25:13
+<transcript>: To.
+
+20:26:44
+<transcript>: Train.
+
+20:31:20
+<transcript>: It looks like.
+
+20:32:09
+<transcript>: Here I am.
+
+20:32:24
+<transcript>: A whole day.
+
+20:32:28
+<transcript>: Turn that quick round.
+
+20:35:24
+<transcript>: Yeah. Are you wearing the white shampoo?
+
+20:35:34
+<transcript>: Here.
+
+20:35:40
+<transcript>: Because you already made it.
+
+20:35:44
+<transcript>: Yeah.
+
+20:37:46
+<transcript>: Wow.
+
+20:39:40
+<transcript>: Now.
+
+20:39:47
+<transcript>: And then we can go.
+
+20:40:45
+<transcript>: Yeah.
+
+20:41:12
+<transcript>: Mama.
+
+20:41:21
+<transcript>: She could take some.
+
+20:41:29
+<transcript>: Pain while I want.
+
+20:41:33
+<transcript>: Yeah.
+
+20:42:29
+<transcript>: I don't see where.
+
+20:42:32
+<transcript>: I don't even.
+
+20:43:55
+<transcript>: Know.
+
+20:46:08
+<transcript>: No one else.
+
+20:47:12
+<transcript>: Again.
+
+20:47:23
+<transcript>: next thing i want
+
+20:47:24
+<transcript>: Next thing I want.
+
+20:47:30
+<transcript>: also i understand why you might need a lot of
+
+20:47:31
+<transcript>: Also, I understand why you might need a lot of.
+
+20:47:34
+<transcript>: If you want to make colors and.
+
+20:48:47
+<transcript>: Make.
+
+20:49:07
+<transcript>: This is for mixing together.
+
+20:49:10
+<transcript>: no
+
+20:49:11
+<transcript>: No.
+
+20:49:15
+<transcript>: That's what you're going to use.
+
+20:50:03
+<transcript>: don't forget to budget your finances
+
+20:50:04
+<transcript>: Don't forget to budget your finances.
+
+20:50:18
+<transcript>: Don't forget to budget your finances on.
+
+20:50:46
+<transcript>: Finances.
+
+20:50:53
+<transcript>: Now.
+
+00:00:17
+<transcript>: you can do your plan
+
+00:00:18
+<transcript>: You can do your plan.
+
+00:00:58
+<transcript>: Don't forget the budget, your finances.
+
+00:01:03
+thdxr: omg r u still live
+
+00:01:07
+<transcript>: Don't forget to budget your finances.
+
+00:01:18
+<transcript>: That's, like, the most important thing.
+
+00:01:24
+<transcript>: I don't know what it means.
+
+00:01:51
+<transcript>: You try again.
+
+00:01:54
+<transcript>: What money is it?
+
+00:02:00
+<transcript>: Funding for finance.
+
+00:02:02
+<transcript>: Finance.
+
+00:02:14
+aj_stuyvenberg: dang I had no idea
+
+00:02:20
+<transcript>: Right wing and.
+
+00:02:22
+<transcript>: Right wing.
+
+00:02:25
+nullchefo: HeyGuys
+
+00:03:06
+oetziofficial: saw the tweet, here I am
+
+00:03:15
+aj_stuyvenberg: hey remember when RebaseTV was going to be a thing @thdxr?
+
+00:03:48
+thdxr: ask @adamdotdev about it!
+
+00:03:51
+thdxr: i still wanna do it
+
+00:04:24
+<transcript>: Wait a minute. This is the one you did because it's all brown.
+
+00:04:24
+<transcript>: and you always
+
+00:04:26
+<transcript>: And you always make everything.
+
+00:04:31
+jetpack_joe_: Wait is this at 6am or in 6 minutes?
+
+00:04:38
+aj_stuyvenberg: in 6 minutes
+
+00:04:45
+aj_stuyvenberg: oh shoot I forgot I was a mod lfg
+
+00:05:10
+<transcript>: You.
+
+00:05:13
+<transcript>: Find out.
+
+00:05:39
+<transcript>: You have a gag.
+
+00:05:55
+<transcript>: Look at your.
+
+00:06:10
+<transcript>: Everything.
+
+00:06:10
+<transcript>: but round
+
+00:06:12
+<transcript>: But round, perfect.
+
+00:07:40
+<transcript>: Or a light blue.
+
+00:07:40
+<transcript>: or a light
+
+00:07:41
+<transcript>: Or a light.
+
+00:07:47
+<transcript>: Or a very lucious verbal swirl.
+
+00:07:57
+<transcript>: Okay.
+
+00:08:11
+<transcript>: Make.
+
+00:08:17
+<transcript>: Your.
+
+00:08:18
+<transcript>: Board.
+
+00:08:45
+<transcript>: Yeah, I will get you in right now.
+
+00:08:56
+<transcript>: I am good.
+
+00:09:08
+sebaxpdev: What?
+
+00:09:16
+<transcript>: Without.
+
+00:09:17
+<transcript>: Blue.
+
+00:09:17
+<transcript>: ish
+
+00:09:19
+<transcript>: Ish red.
+
+00:09:19
+<transcript>: and
+
+00:09:20
+<transcript>: And.
+
+00:09:22
+<transcript>: Yellow.
+
+00:09:29
+sebaxpdev: Who's working who out?
+
+00:09:38
+<transcript>: Green.
+
+00:09:44
+<transcript>: Don't forget.
+
+00:09:44
+<transcript>: who
+
+00:09:45
+<transcript>: Who?
+
+00:09:45
+<transcript>: makes your go
+
+00:09:46
+<transcript>: Makes your go.
+
+00:09:48
+jetpack_joe_: oh shit where'd he go
+
+00:10:00
+jetpack_joe_: EYES ON THE ROAD ADAM
+
+00:10:18
+aj_stuyvenberg: Oh shit his tesla model x plaid (yoke edition) is going too fast for his stream to keep up
+
+00:10:32
+aj_stuyvenberg: STANLEY MUG CONFIRMED
+
+00:11:00
+shadybytes: LUL
+
+00:11:02
+jetpack_joe_: @aj_stuyvenberg its a target brand
+
+00:11:32
+<transcript>: Look at someone like.
+
+00:11:46
+<transcript>: Also, if you run out of that.
+
+00:12:06
+<transcript>: You only experience.
+
+00:13:19
+johnburd1: hi
+
+00:13:41
+binajmen: adam.freeze
+
+00:14:06
+<transcript>: Looks like.
+
+00:14:13
+shadybytes: oh its good now
+
+00:14:14
+aj_stuyvenberg: back
+
+00:14:16
+aj_stuyvenberg: looks good
+
+00:14:18
+astrojules: it should be a crime to look that good 😌
+
+00:14:22
+<transcript>: Green, brown.
+
+00:14:26
+jetpack_joe_: @adamdotdev would you recommend the nuna carseat?
+
+00:15:02
+johnburd1: I feel like I’m in the car with you and your wife
+
+00:15:19
+<transcript>: What the red are you doing?
+
+00:15:27
+<transcript>: Yeah, it's called.
+
+00:15:33
+yeltrah_: Is he talking to me?
+
+00:15:38
+<transcript>: White paint.
+
+00:15:44
+jetpack_joe_: robot audio adam
+
+00:15:50
+<transcript>: With all this color?
+
+00:16:14
+yeltrah_: The audio is pretty bad
+
+00:16:23
+mohaidaracherif: what car is this  ?
+
+00:16:41
+yeltrah_: Tesla?
+
+00:17:00
+mohaidaracherif: yeah looks like a Tesla tho
+
+00:17:06
+motown241: its a telsa
+
+00:17:10
+motown241: terrible audio btw
+
+00:17:28
+johnburd1: 8
+
+00:18:01
+yeltrah_: White seats
+
+00:18:26
+<transcript>: That's why you have to know.
+
+00:18:34
+yeltrah_: You lugging around that camera everywhere
+
+00:18:42
+<transcript>: I will get.
+
+00:18:58
+<transcript>: That water. Get that water.
+
+00:18:59
+johnburd1: ya
+
+00:19:00
+yeltrah_: Yea the audio is still choppy
+
+00:19:08
+<transcript>: And I'm like, oh.
+
+00:19:13
+<transcript>: Wow.
+
+00:19:14
+yeltrah_: not better
+
+00:19:16
+jetpack_joe_: NO
+
+00:19:17
+jetpack_joe_: WORSE
+
+00:19:20
+johnburd1: even worse
+
+00:19:23
+yeltrah_: Getting worse
+
+00:19:34
+yeltrah_: A lot of interference with the gym music
+
+00:19:50
+yeltrah_: Or was that his music?
+
+00:20:27
+restarted: audio is way behind the video
+
+00:21:40
+yeltrah_: Maybe turn off the music?
+
+00:23:02
+lukeyfam15: What is this mic?
+
+00:23:17
+<transcript>: Hang on.
+
+00:23:41
+kodder: ouf
+
+00:23:49
+kodder: mic is doing something...
+
+00:24:23
+<transcript>: Okay.
+
+00:25:31
+<transcript>: It's not all at the same time.
+
+00:25:37
+<transcript>: Don't like work. Some of each color.
+
+00:25:38
+dmdboi: Those are the muscles you get from carrying Dax around all day
+
+00:25:38
+<transcript>: coloring
+
+00:25:38
+<transcript>: coloring color
+
+00:25:39
+<transcript>: Coloring color.
+
+00:25:42
+oetziofficial: I muted the stream, but I am watching :)
+
+00:25:52
+<transcript>: A different color into each one.
+
+00:25:56
+<transcript>: That's what this.
+
+00:26:43
+<transcript>: Arm backwards.
+
+00:26:51
+<transcript>: To take.
+
+00:27:00
+<transcript>: You.
+
+00:27:19
+<transcript>: Back.
+
+00:27:58
+<transcript>: Today.
+
+00:27:58
+<transcript>: i'm not
+
+00:27:59
+<transcript>: I'm not really sure.
+
+00:28:59
+<transcript>: On your stream profile.
+
+00:29:03
+<transcript>: I could x your mic or something, or. No.
+
+00:29:05
+<transcript>: Okay.
+
+00:29:20
+kowalskitom: The audio is crazy and it seems like it is a few minutes behind. I'm not even mad, that's amazing
+
+00:29:44
+lukeyfam15: Did he just mute it?
+
+00:29:53
+kaceynotdev: he did
+
+00:31:21
+kaceynotdev: i'll relay messages from him
+
+00:31:34
+kaceynotdev: "pain"
+
+00:34:10
+<transcript>: I remember that.
+
+00:34:28
+<transcript>: Was like, I got my that way.
+
+00:35:07
+<transcript>: Nice.
+
+00:35:18
+<transcript>: Let me.
+
+00:35:20
+<transcript>: Go.
+
+00:35:35
+<transcript>: Did you hang up, Casey? No, I'm still here. Yeah, if I watch on your computer. Then I get to see it actually synced. I can hear you.
+
+00:35:39
+<transcript>: Coming.
+
+00:35:39
+<transcript>: on
+
+00:35:43
+<transcript>: On your phone. I mean, on your desktop.
+
+00:35:49
+<transcript>: There's barely any delay at all.
+
+00:35:55
+<transcript>: Okay.
+
+00:36:04
+<transcript>: It's like 30 seconds delayed. It's nothing.
+
+00:36:25
+<transcript>: Slow down.
+
+00:36:28
+<transcript>: Yeah.
+
+00:36:46
+<transcript>: Sorry.
+
+00:37:45
+<transcript>: Yes.
+
+00:37:52
+<transcript>: To bring water after all that.
+
+00:37:56
+<transcript>: Water bottle? No.
+
+00:37:59
+<transcript>: Okay? Yeah.
+
+00:38:01
+<transcript>: Thanks, sir.
+
+00:38:07
+<transcript>: Yeah.
+
+00:38:15
+<transcript>: I turned it up. Yeah, not like a ton. I didn't know how much turned it. Up.
+
+00:38:17
+<transcript>: Wish I could say word.
+
+00:38:19
+<transcript>: Just flex.
+
+00:38:29
+<transcript>: Give me a water bottle. Very kind. I heard.
+
+00:38:32
+<transcript>: Unlike anybody else.
+
+00:38:33
+neochromer: Wait
+
+00:38:35
+neochromer: Adam is Ripped AF
+
+00:38:37
+<transcript>: So vascular. Look at those veins.
+
+00:38:37
+<transcript>: veins
+
+00:38:38
+<transcript>: Veins.
+
+00:38:44
+neochromer: wth
+
+00:38:49
+<transcript>: Somebody chromer. Leo chromer. Cleo Chromer says. Wait, Adam is ripped. It's af.
+
+00:38:51
+<transcript>: What the hell?
+
+00:38:57
+<transcript>: What?
+
+00:39:04
+<transcript>: Popcorn. It's popcorn.
+
+00:39:08
+<transcript>: Yeah.
+
+00:39:09
+pbertrand_dev: yep
+
+00:39:13
+<transcript>: Get in frame.
+
+00:39:13
+<transcript>: just
+
+00:39:16
+<transcript>: Just a bunch of randos in the background.
+
+00:39:18
+pbertrand_dev: hes huuge
+
+00:39:27
+<transcript>: I don't know how to say that, perpetrator.
+
+00:39:32
+<transcript>: Bertrand says yes, he's huge.
+
+00:39:38
+<transcript>: Make all your dead friends proud. Let's go.
+
+00:40:26
+<transcript>: Did.
+
+00:40:28
+<transcript>: Last time I did an incline.
+
+00:40:37
+<transcript>: The thing he had you do at the beginning.
+
+00:40:38
+<transcript>: Did you?
+
+00:40:42
+neochromer: that bicep
+
+00:40:42
+<transcript>: Is it, like a body fat percentage thing?
+
+00:40:42
+<transcript>: yeah
+
+00:40:43
+<transcript>: Yeah.
+
+00:40:47
+<transcript>: How much?
+
+00:40:47
+<transcript>: five
+
+00:40:50
+<transcript>: 5.55.5.
+
+00:40:51
+neochromer: a real tech bro
+
+00:40:53
+<transcript>: Nice.
+
+00:40:53
+<transcript>: cleo chr
+
+00:40:56
+<transcript>: Cleo Chromer says that bicep.
+
+00:40:59
+<transcript>: A real tech, bro.
+
+00:41:00
+neochromer: does he know we can not hear him?
+
+00:41:04
+<transcript>: Your arms look huge.
+
+00:41:04
+<transcript>: that's from me
+
+00:41:05
+<transcript>: That's from me.
+
+00:41:07
+<transcript>: merch chrome
+
+00:41:07
+<transcript>: merch chromer
+
+00:41:10
+<transcript>: Merch chromer. Does he know we cannot hear him?
+
+00:41:25
+<transcript>: Yeah, but if I do it from here, then it'll be like it's you. So I have to go upstairs and say,
+
+00:41:31
+<transcript>: I'm going to see if I can do it on twitch from my phone.
+
+00:41:38
+<transcript>: Maybe that's why.
+
+00:41:53
+<transcript>: My leftover tire.
+
+00:42:03
+lukeyfam15: He does. The audio is broken
+
+00:42:04
+kaceynotdev: yeah, the audio was really bad
+
+00:42:26
+<transcript>: Should have had some beet juice.
+
+00:42:26
+<transcript>: i know
+
+00:42:30
+<transcript>: I know. I didn't have any kind of use for pre workout.
+
+00:42:36
+<transcript>: Yeah, it does.
+
+00:42:50
+<transcript>: And then I had, like, some cherries.
+
+00:42:57
+<transcript>: I just saw out frozen cherries and put normal butter. I had that, like an hour before. It came.
+
+00:42:57
+<transcript>: yeah
+
+00:43:01
+<transcript>: Yeah, I don't feel, like, weak. I just feel my muscle still weak.
+
+00:43:03
+<transcript>: I don't feel, like, tired.
+
+00:43:06
+<transcript>: My shoulders.
+
+00:44:20
+<transcript>: Yeah.
+
+00:44:27
+temin: Best software and development stream GoldPLZ
+
+00:44:45
+<transcript>: Bed software and development stream.
+
+00:46:08
+estrangedhd: Jezus christ adam is ripped
+
+00:46:39
+sebaxpdev: Train those fingers for faster typing
+
+00:46:43
+<transcript>: Estranged. Hd says Jesus Christ, out of the grip.
+
+00:46:48
+<transcript>: Seven XP dev. Train those fingers for faster typing.
+
+00:46:59
+<transcript>: What?
+
+00:47:07
+<transcript>: At the fingers. One. Yeah, the fingers.
+
+00:47:20
+<transcript>: So if I. If I type from your computer, it'll be like you're saying. It.
+
+00:47:28
+<transcript>: I appreciate that.
+
+00:48:15
+<transcript>: With the cross arm.
+
+00:48:36
+kaceynotdev: made him chuckle
+
+00:49:19
+<transcript>: And then at the end, you're in. Sam, arm wrestle for the crowd.
+
+00:49:25
+<transcript>: No, that was me.
+
+00:49:59
+<transcript>: There you go.
+
+00:51:13
+<transcript>: There's, like, the hard part.
+
+00:51:20
+estrangedhd: how long has adam been training for?
+
+00:51:33
+<transcript>: A strain. HD. How long has Adam been training for?
+
+00:51:54
+kaceynotdev: a month
+
+00:51:56
+<transcript>: I should be able to.
+
+00:52:07
+<transcript>: Get it.
+
+00:52:13
+<transcript>: On Thursday.
+
+00:52:18
+oetziofficial: just a month and he is THAT muscular?
+
+00:52:20
+<transcript>: I've been so sore after. I don't want to regret.
+
+00:52:23
+oetziofficial: wow
+
+00:52:24
+<transcript>: My chest for, like, four days after the last.
+
+00:52:32
+<transcript>: I'm assuming.
+
+00:52:32
+<transcript>: yeah
+
+00:52:34
+<transcript>: Yeah, I'm sitting over doing the same thing.
+
+00:52:46
+<transcript>: Somebody said just a month and he is. That must heal.
+
+00:52:51
+kaceynotdev: with Sam specifically
+
+00:52:55
+kaceynotdev: before that he did some on his own
+
+00:53:04
+<transcript>: Yeah.
+
+00:53:20
+<transcript>: All right.
+
+00:53:39
+kaceynotdev: he also has good gene. it’s not all earned
+
+00:54:29
+estrangedhd: I wish I had some good gene, the only gene I got was being tall
+
+01:00:50
+kaceynotdev: lots of bro talk about soreness, protein and eating in general
+
+01:01:08
+kaceynotdev: that’s the best I can transcript the real audio
+
+01:01:42
+luckyboy12222: wassup buff programmer
+
+01:01:45
+kaceynotdev: transcribe*
+
+01:01:55
+luckyboy12222: ooo dick reveal
+
+01:02:25
+schrew: this is inspo for when i go to the gym
+
+01:03:14
+mentally_talksik: that girls staring you down
+
+01:03:32
+kodder: ^
+
+01:03:59
+schrew: when does he wipe down the equipment? or does the personal trainer do that for you
+
+01:04:09
+mentally_talksik: what state is this?
+
+01:04:15
+mentally_talksik: calorado?
+
+01:04:20
+schrew: missouri
+
+01:04:24
+mentally_talksik: LOL
+
+01:04:29
+mentally_talksik: they have gyms there?
+
+01:04:31
+mentally_talksik: walmart?
+
+01:04:42
+mentally_talksik: infrastructure?
+
+01:05:11
+schrew: well you are seeing about 50% of the population are at this gym today
+
+01:14:27
+angryvadik: man i a GIGACHAD
+
+01:14:36
+angryvadik: eeewewewew my ears
+
+01:14:39
+yeltrah_: Oh not he audio is ba k
+
+01:14:40
+oetziofficial: oh no the sound is back, its still broken
+
+01:14:42
+dnbull: WutFace
+
+01:14:56
+next_door_nate: :cryblood:
+
+01:14:58
+yeltrah_: Muted
+
+01:15:01
+yeltrah_: Yikes
+
+01:15:12
+angryvadik: you just murdered 20 people in chat
+
+01:15:33
+oetziofficial: @angryvadik I dont need to hear anyways
+
+01:16:50
+kaceynotdev: hes going to end stream since audio is still bad
+
+01:17:22
+cdewex: I love irl streams by Adam
+
+01:17:43
+oetziofficial: Thanks for the stream!
+
+01:17:52
+oetziofficial: Have a good one y'all!
+
+12:37:39
+<transcript>: Check, check, check.
+
+12:37:45
+<transcript>: Check.
+
+12:48:00
+<transcript>: One, two.
+
+13:05:21
+<transcript>: Check, check, check.
+
+13:07:38
+<transcript>: Check.

@@ -1,5 +1,17 @@
 export const delay = (ms: number) => new Promise((res) => setTimeout(res, ms))
 
+export function request(
+  input: URL | RequestInfo,
+  init?: RequestInit | undefined
+): Promise<Response> {
+  const headers = { "x-api-key": process.env.API_KEY as string }
+
+  return fetch(input, {
+    ...init,
+    headers: { ...(init?.headers || {}), ...headers },
+  })
+}
+
 export const randomItem = <T>(array: Array<T>) => {
   return array[Math.floor(Math.random() * array.length)]
 }

@@ -312,9 +312,11 @@ export default class TwitchController {
     switch (scene) {
       case "Init":
       case "Intro":
-      case "Break":
         await this.disableRewards()
+        break
+      case "Break":
       case "Outro":
+        await this.disableRewards()
         fadeOut()
         break
 

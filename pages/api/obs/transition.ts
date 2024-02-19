@@ -11,6 +11,7 @@ export default async function handler(
   res: CustomNextApiResponse
 ) {
   const { to } = req.query as unknown as Request
+  console.log(`Transitioning to ${to}`)
 
   try {
     await res.server.obs.transition(to)

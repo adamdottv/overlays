@@ -4,7 +4,7 @@ import { useEvent, useSocket } from "../hooks"
 import { AudioSpectrum, Overlay, Grid, BrandMark } from "../components"
 import { fadeAudioOut } from "../lib/audio"
 import React from "react"
-import { delay } from "../lib/utils"
+import { delay, request } from "../lib/utils"
 import { CustomNextApiResponse } from "../lib"
 import { getStreamInfo, GetStreamResponse } from "../lib/stream"
 
@@ -44,7 +44,7 @@ function Outro({
     const timeoutHandle = setTimeout(() => {
       audioRef.current?.play()
       if (!debug && stream.current?.active)
-        fetch("/api/twitch/raid", { method: "POST" })
+        request("/api/twitch/raid", { method: "POST" })
     }, 2000)
 
     return () => clearTimeout(timeoutHandle)
@@ -52,7 +52,7 @@ function Outro({
 
   const handleAudioOnEnd = async () => {
     await delay(2000)
-    await fetch("/api/obs/end-stream", { method: "POST" })
+    await request("/api/obs/end-stream", { method: "POST" })
   }
 
   return (

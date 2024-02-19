@@ -2,11 +2,12 @@ import { useQuery } from "@tanstack/react-query"
 import { useEffect, useState } from "react"
 import { GetStreamResponse } from "../lib/stream"
 import { TwitchEvent } from "../lib/twitch"
+import { request } from "../lib/utils"
 import { useTwitchEvent } from "./use-twitch-event"
 
 export const useStream = (): GetStreamResponse | undefined => {
   const { data } = useQuery<GetStreamResponse>(["stream"], async () => {
-    const res = await fetch("/api/stream")
+    const res = await request("/api/stream")
     return await res.json()
   })
 

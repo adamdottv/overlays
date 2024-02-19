@@ -1,5 +1,6 @@
 import React from "react"
 import { useEffect } from "react"
+import { request } from "../lib/utils"
 
 let socket: WebSocket | null
 let startTime: number | undefined
@@ -18,7 +19,9 @@ export const useAssemblyAi = (debug: boolean = false) => {
 
       if (!socket) {
         const RecordRTC = (await import("recordrtc")).default
-        const response = await fetch("/api/assembly-ai", { cache: "no-cache" })
+        const response = await request("/api/assembly-ai", {
+          cache: "no-cache",
+        })
         const data = await response.json()
         const { token } = data
 

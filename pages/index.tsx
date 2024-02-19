@@ -8,6 +8,7 @@ import { useRouter } from "next/router"
 import { AudioSpectrum } from "../components"
 import { useQuery } from "@tanstack/react-query"
 import { Scene } from "../lib/obs"
+import { request } from "../lib/utils"
 
 const Home: NextPage = () => {
   const stream = useStream()
@@ -16,7 +17,7 @@ const Home: NextPage = () => {
   const { data } = useQuery(
     ["spotifyTrack"],
     async () => {
-      const res = await fetch("/api/spotify")
+      const res = await request("/api/spotify")
       return await res.json()
     },
     { refetchInterval: 2000 }
@@ -39,7 +40,7 @@ const Home: NextPage = () => {
 
   useEffect(() => {
     const timer = setInterval(() => {
-      fetch(`/api/ping?id=${router.query.id}`, {
+      request(`/api/ping?id=${router.query.id}`, {
         method: "post",
       })
     }, 1000 * 10)
@@ -75,27 +76,27 @@ const Home: NextPage = () => {
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
-        {scene !== "Camera (w/ Guest)" ? (
-          <iframe
-            src="https://nightdev.com/hosted/obschat?theme=dark&channel=adamdotdev&fade=false&bot_activity=false&prevent_clipping=false"
-            className={`absolute inset-y-0 -top-3 -right-2 origin-top-right scale-150 transform ${
-              scene === "Screen" && "invisible"
-            }`}
-            width={400}
-            height={685}
-          />
-        ) : null}
-
-        {scene !== "Camera (w/ Guest)" ? (
-          <iframe
-            src="https://nightdev.com/hosted/obschat?theme=dark&channel=adamdotdev&fade=false&bot_activity=false&prevent_clipping=false"
-            className={`absolute bottom-[73px] -left-2 origin-bottom-left scale-150 transform ${
-              scene !== "Screen" && "invisible"
-            }`}
-            width={390}
-            height={250}
-          />
-        ) : null}
+        {/* {scene !== "Camera (w/ Guest)" ? ( */}
+        {/*   <iframe */}
+        {/*     src="https://nightdev.com/hosted/obschat?theme=dark&channel=adamdotdev&fade=false&bot_activity=false&prevent_clipping=false" */}
+        {/*     className={`absolute inset-y-0 -top-3 -right-2 origin-top-right scale-150 transform ${ */}
+        {/*       scene === "Screen" && "invisible" */}
+        {/*     }`} */}
+        {/*     width={400} */}
+        {/*     height={685} */}
+        {/*   /> */}
+        {/* ) : null} */}
+        {/**/}
+        {/* {scene !== "Camera (w/ Guest)" ? ( */}
+        {/*   <iframe */}
+        {/*     src="https://nightdev.com/hosted/obschat?theme=dark&channel=adamdotdev&fade=false&bot_activity=false&prevent_clipping=false" */}
+        {/*     className={`absolute bottom-[73px] -left-2 origin-bottom-left scale-150 transform ${ */}
+        {/*       scene !== "Screen" && "invisible" */}
+        {/*     }`} */}
+        {/*     width={390} */}
+        {/*     height={250} */}
+        {/*   /> */}
+        {/* ) : null} */}
 
         <div className="absolute inset-x-0 bottom-0 h-20 bg-mauve-1">
           <div className="flex h-full space-x-10 px-10">
